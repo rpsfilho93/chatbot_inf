@@ -1,0 +1,495 @@
+   Regulamento do Trabalho de Conclusão de Curso do Bacharelado em Sistemas de
+                                  Informação
+
+
+                                         Capítulo I
+                                Das Disposições Preliminares
+
+Art. 1. Este regulamento define as diretrizes técnicas, procedimentos de acompanhamento e
+critérios de avaliação do Trabalho de Conclusão de Curso (TCC).
+
+Art. 2. O TCC é componente curricular obrigatório do Bacharelado em Sistemas de
+Informação e tem como parâmetro a missão institucional do Instituto de Informática (INF) da
+Universidade Federal de Goiás (UFG) de “Produzir e socializar conhecimento em computação
+e tecnologia da informação e formar cidadãos capazes de contribuir com o desenvolvimento
+científico, humano e social”.
+
+Art. 3. O TCC tem como objetivo prover meios para o aluno:
+I – exercitar a capacidade criativa, a originalidade, e a implementação de ideias
+empreendedoras e/ou científicas;
+II – aprimorar habilidades de análise e síntese através da realização de trabalhos individuais;
+III – consolidar e colocar em prática os conhecimentos adquiridos durante o curso;
+IV – desenvolver a habilidade de escrita de um texto técnico-científico, com clareza e
+precisão.
+
+Art. 4. O TCC será elaborado, sob orientação de um professor do Instituto de Informática
+(INF), por meio das disciplinas Projeto Final de Curso I (PFC I) e Projeto Final de Curso II
+(PFC II).
+
+Art. 5. O TCC consiste em um trabalho individual no qual o aluno deverá aplicar o
+conhecimento apreendido e desenvolvido ao longo do curso de Bacharelado em Sistemas de
+Informação.
+
+Art. 6. A forma pela qual se revestirá o TCC deverá ser definida de acordo com o problema
+investigado e os objetivos da pesquisa proposta.
+
+Art. 7. São produtos possíveis do TCC:
+I – monografia;
+II – artigo científico completo;
+III – relatório de iniciação científica.
+
+§ 1º A monografia deverá seguir as indicações formais do Guia para Apresentação de
+Trabalhos Técnicos-Científicos na UFG.
+
+
+
+
+                                              1
+§ 2º O artigo científico deve ser completo e ter sido publicado, ou aceito para publicação, em
+periódico científico com corpo editorial ou em anais de conferência com comitê de avaliação,
+e deve ter o aluno como autor principal e o professor orientador de TCC como coautor. Cada
+artigo científico só poderá ser o produto do TCC de apenas um aluno.
+
+§ 3º O relatório de iniciação científica deve ter sido devidamente aprovado pela Pró-Reitoria
+de Pesquisa e Pós-Graduação (PRPPG) da UFG e o orientador da Iniciação Científica deve
+ser o mesmo orientador do TCC.
+
+§ 4º Em qualquer das modalidades acima o aluno deverá se inscrever nas disciplinas PFC I e
+PFC II, cada uma em um semestre, nas datas previstas no calendário acadêmico.
+
+                                        Capítulo II
+                                      Das Atribuições
+
+Art. 8. São partes diretamente envolvidas no desenvolvimento de um Trabalho de Conclusão
+de Curso:
+I – a Coordenação do Curso de Bacharelado em Sistemas de Informação;
+II – a Coordenação de TCC;
+III – o Professor Orientador;
+IV – o Coorientador (opcional);
+V – um Aluno do Curso de Bacharelado em Sistemas de Informação;
+VI – a Secretaria Acadêmica do INF.
+
+Art. 9. Compete à Coordenação do Curso de Bacharelado em Sistemas de Informação receber
+e dar o adequado encaminhamento a todas as questões recursais relacionadas ao TCC.
+
+Art. 10. Compete à Coordenação de TCC a gestão de todos os procedimentos relativos ao
+TCC definidos por este Regulamento e, especialmente, as seguintes atribuições:
+I – elaborar e divulgar os calendários das disciplinas PFC I e PFC II;
+II – orientar os alunos, inclusive aqueles matriculados apenas em disciplinas que antecedem a
+disciplina PFC I, sobre todos os aspectos relacionados ao TCC, incluindo a escolha de temas e
+de orientador;
+III – divulgar o presente regulamento e zelar pelo seu cumprimento;
+IV – validar e divulgar a relação dos alunos orientandos com seu respectivo professor
+orientador;
+V – disponibilizar para a comunidade do INF informações sobre os TCC em andamento;
+VI – organizar e divulgar o calendário das bancas avaliadoras dos TCC ao final da disciplina
+PFC II;
+VII – elaborar e disponibilizar os formulários para os pareceres de avaliação das bancas
+avaliadoras, bem como os requerimentos definidos por este Regulamento;
+VIII – expedir declarações de participação em bancas avaliadoras de TCC;
+IX – digitar no Sistema Acadêmico da UFG, dentro do prazo previsto pelo Calendário Anual
+da UFG, as notas finais de aproveitamento e as frequências dos alunos na disciplina PFC II.
+
+                                              2
+Art. 11. Compete ao professor orientador as seguintes atribuições:
+I – enviar à Coordenação de TCC, dentro dos prazos previamente estipulados pela
+Coordenação, os temas de TCC nos quais pretende orientar alunos no semestre seguinte;
+II – orientar os alunos na escrita da proposta de TCC;
+III – confirmar o aceite de seus orientandos de TCC, nos campos apropriados do Formulário
+de Acompanhamento de TCC (FATCC) antes da inscrição dos seus orientandos na disciplina
+PFC I, conforme os prazos estabelecidos pela Coordenação de TCC (Vide campos 1 a 12 no
+anexo I);
+IV– indicar, caso considere necessário, um coorientador para o TCC de um orientando seu;
+V – zelar pelo cumprimento dos prazos;
+VI – realizar encontros com os alunos orientandos no decorrer das disciplinas PFC I e PFC II,
+conforme carga horária definida no Art. 20 e, no Art. 26, deste regulamento;
+VII – preencher o FATCC ;
+VIII – presidir as bancas avaliadoras do TCC dos seus orientandos e preencher e assinar a
+seção de avaliação de PFC I e de PFC II do FATCC de seus orientandos;
+IX – encaminhar à Secretaria Acadêmica os FATCC, conforme os prazos previstos nos
+calendários das disciplinas PFC I e PFC II, para o devido registro e arquivamento;
+X – entregar ao aluno as correções das versões preliminares do produto do TCC produzido na
+disciplina de PFC II;
+XI – digitar no Sistema Acadêmico da UFG, dentro do prazo previsto pelo Calendário Anual
+da UFG, as notas finais de aproveitamento e as frequências dos alunos na disciplina PFC I.
+
+Art. 12. O coorientador, caso exista, pode ser um docente da UFG ou um profissional com
+formação específica e/ou experiência comprovada na área de atuação do TCC.
+
+Art. 13. Compete ao coorientador as seguintes atribuições:
+I – participar das reuniões semanais com o professor orientador e o aluno orientando de TCC
+no decorrer das disciplinas PFC I e PFC II;
+II – compor a banca avaliadora do aluno de TCC sob sua coorientação;
+III – Caso seja um dos componentes da banca avaliadora de seu coorientando, de acordo com
+Art. 33, §2º, preencher e assinar a seção de avaliação de PFC II do FATCC de seu
+coorientando.
+
+Art. 14. Compete ao aluno as seguintes atribuições:
+I – conhecer e cumprir o regulamento do TCC e o calendário estabelecido para as atividades
+do TCC;
+II – entregar ao professor orientador a Proposta de TCC conforme descrita no Capítulo 4 deste
+regulamento;
+III – inscrever-se na disciplina PFC I ou PFC II junto à Secretaria Acadêmica, respeitando os
+prazos dos calendários das respectivas disciplinas;
+IV – entregar na Secretaria Acadêmica o FATCC, com o item I (Termo de Orientação)
+devidamente preenchido e assinado, respeitando os prazos do calendário da disciplina PFC I;
+V – assinar os campos do FATCC que requerem sua assinatura;
+
+                                             3
+VI – participar das reuniões semanais com seu orientador;
+VII – entregar na Secretaria Acadêmica cópias da versão preliminar do seu produto do TCC,
+em número correspondente à quantidade de membros da banca avaliadora, pelo menos 1
+(uma) semana antes do prazo fixado pela Coordenação de TCC para a defesa do TCC;
+VIII – apresentar o TCC perante a banca avaliadora, no prazo fixado pela Coordenação de
+TCC;
+IX – entregar a versão final dos produtos do TCC, em meio digital, na Secretaria Acadêmica,
+respeitando os prazos do calendário da disciplina PFC II.
+
+Art. 15. Compete à Secretaria Acadêmica as seguintes atribuições:
+I – receber os FATCC;
+II – efetuar as matrículas dos alunos nas turmas de PFC I ou PFC II, correspondentes ao
+orientador de TCC de cada aluno;
+III – encaminhar os FATCC aos professores orientadores ou à Coordenação de TCC;
+IV – receber a versão final dos produtos do TCC, em meio digital, entregue pelo aluno;
+V – receber e encaminhar à Coordenação de TCC todos os requerimentos relacionados ao
+TCC;
+VI – arquivar todos os documentos, requerimentos e trabalhos relacionados ao TCC;
+VII – encaminhar as cópias da versão preliminar do produto do TCC aos membros das bancas
+examinadoras.
+
+                                      Capítulo III
+                          Da Definição do Professor Orientador
+
+Art. 16. Em cada semestre letivo a Coordenação de TCC divulgará a relação dos professores
+orientadores, com o respectivo número de vagas disponíveis para orientação no semestre
+subsequente.
+
+§ 1º O número de vagas por professor orientador nunca ultrapassará 5 vagas simultâneas na
+disciplina PFC I e 5 vagas simultâneas na disciplina PFC II.
+
+§ 2º A definição do professor orientador, por parte dos alunos, deverá ser feita no semestre
+anterior à matrícula na disciplina PFC I.
+
+Art. 17. A Coordenação de TCC divulgará a relação dos alunos orientandos e professor
+orientador no início do semestre letivo subsequente.
+
+                                       Capítulo IV
+                                   Da Proposta de TCC
+
+Art. 18. A Proposta de TCC é um documento elaborado pelo aluno, como pré–requisito para
+matrícula na disciplina PFC I, com a orientação e supervisão do professor orientador,
+descrevendo seu TCC a ser realizado nas disciplinas PFC I e PFC II.
+
+
+
+                                             4
+§ 1º Caso o produto do TCC seja uma monografia, a proposta de TCC deve conter pelo menos
+os seguintes itens:
+I – identificação, contendo o título do TCC, o nome do aluno, do professor orientador e do
+coorientador, caso haja;
+II – objetivos;
+III – justificativa;
+IV – fundamentação teórica;
+V – metodologia;
+VI – cronograma;
+VII – referências bibliográficas;
+
+§ 2º Caso o produto do TCC seja um relatório de iniciação científica, a proposta corresponde
+ao plano de trabalho entregue pelo aluno junto à Pró-Reitoria de Pesquisa e Pós-graduação da
+UFG, durante o período de inscrição para a seleção do PIBIC/PIVIC, e deve apresentar o
+mesmo formato exigido pelo edital de seleção.
+
+§ 3º Caso o produto do TCC seja um artigo científico, a proposta corresponderá ao texto do
+artigo. Nesse caso, o texto da proposta deve conter pelo menos: o nome do aluno e do
+orientador, resumo, introdução, seções descrevendo o trabalho, conclusão e referências
+bibliográficas.
+
+§ 4º A proposta de TCC deve ser entregue pelo aluno ao professor orientador no semestre que
+antecede à matrícula do aluno na disciplina PFC I, obedecendo os prazos estipulados pela
+Coordenação do TCC.
+
+                                       Capítulo V
+                                   Da Disciplina PFC I
+
+Art. 19. A cada professor orientador de TCC será atribuída uma única turma da disciplina
+PFC I e todos os seus alunos orientandos de TCC que cursarão a disciplina PFC I devem se
+matricular nessa turma.
+
+Parágrafo Único. Poderão ser criadas sub-turmas da disciplina PFC I, uma para cada professor
+coorientador lotado no Instituto de Informática da UFG.
+
+Art. 20. A disciplina PFC I, com carga horária de 32 horas/aula, tem como meta a elaboração
+do produto parcial do TCC. As seguintes atividades devem ser desenvolvidas pelo aluno
+durante a disciplina:
+I – encontros semanais com o professor orientador nos quais deve preencher juntamente com
+o orientador o Formulário de Acompanhamento de TCC;
+II – cumprimento das metas previstas para a disciplina na Proposta de TCC;
+III – escrita do produto parcial do TCC prevista na Proposta de TCC.
+
+
+
+
+                                             5
+Parágrafo Único. A carga horária da disciplina PFC I poderá ser dividida em 16 (dezesseis)
+horas de trabalho individual do aluno e 16 (dezesseis) horas de orientação, com encontros
+semanais de no mínimo 1 (uma) hora e no máximo 2 (duas) horas, a critério do professor
+orientador.
+
+Art. 21. No final do semestre o aluno deverá entregar ao professor orientador a escrita do seu
+produto parcial do TCC prevista na Proposta de TCC, dentro dos prazos estabelecidos pela
+Coordenação de TCC. Caso o produto parcial do TCC seja:
+I – monografia, deverá estar de acordo com as diretrizes do Guia para Apresentação de
+Trabalhos Técnico-científicos na UFG;
+II – relatório técnico de iniciação científica, corresponderá ao relatório parcial ou total de
+iniciação científica, escrito segundo às regras estipuladas pela Pró-Reitoria de Pesquisa e Pós-
+graduação da UFG;
+III – artigo científico, corresponderá ao texto do artigo, ainda que parcial, contendo as seções
+requeridas pelo veículo de publicação ao qual se pretende submeter o artigo.
+
+Art. 22. O professor orientador é responsável por atribuir valores de 0 (zero) a 10 (dez) pontos
+a seus alunos de PFC I às seguintes notas :
+I – Nota 1, quanto ao conteúdo e aos aspectos formais e metodológicos da proposta de
+desenvolvimento do TCC.
+II – Nota 2, quanto ao conteúdo e aos aspectos formais e metodológicos do produto parcial
+do TCC elaborado na disciplina PFC I.
+III – Nota 3, quanto ao cumprimento dos prazos estabelecidos no calendário da disciplina, ao
+comprometimento e dedicação do aluno no desenvolvimento das atividades previstas na
+proposta de TCC.
+
+Art. 23. A nota final do aluno será composta pela média aritmética das Notas 1, 2 e 3. A Nota
+Final, juntamente com a frequência do aluno na disciplina, deve ser cadastrada pelo professor
+no Sistema Acadêmico da UFG, dentro do prazo previsto pelo calendário acadêmico da UFG.
+
+Art. 24. Será aprovado na disciplina PFC I o aluno que preencher os seguintes requisitos:
+I – presença em pelo menos 75% dos encontros agendados com o professor orientador e/ou
+com o professor coorientador;
+II – Nota Final maior ou igual à nota mínima exigida pelo Regulamento Geral de Cursos de
+Graduação da UFG em vigor na época da conclusão da disciplina.
+
+Parágrafo Único. O aluno reprovado deverá cursar novamente a disciplina PFC I. Não haverá
+dependência e será vedado cursar concomitantemente às disciplinas PFC I e PFC II.
+
+                                        Capítulo VI
+                                    Da Disciplina PFC II
+
+
+
+
+                                               6
+Art. 25. A cada professor orientador de TCC será atribuída uma única turma da disciplina
+PFC II e todos os seus alunos orientandos de TCC que cursarão a disciplina PFC II devem se
+matricular nessa turma.
+
+Parágrafo Único. Poderão ser criadas sub-turmas da disciplina PFC II, uma para cada
+professor coorientador lotado no Instituto de Informática da UFG.
+
+Art. 26. A disciplina PFC II, com carga horária de 32 horas/aula, envolve as seguintes
+atividades:
+I – encontros semanais com o professor orientador nos quais deve preencher juntamente com
+o orientador o Formulário de Acompanhamento de TCC;
+II – cumprimento das metas previstas para a disciplina na Proposta de TCC;
+III – escrita do restante do produto do TCC prevista na Proposta de TCC;
+IV – apresentação oral do TCC perante uma banca avaliadora.
+
+Parágrafo Único. A carga horária da disciplina PFC II poderá ser dividida em 16 (dezesseis)
+horas de trabalho individual do aluno e 16 (dezesseis) horas de orientação, com encontros
+semanais de no mínimo 1 (uma) hora e no máximo 2 (duas) horas, a critério do professor
+orientador.
+
+Art. 27. O aluno que mudar de orientador na disciplina PFC II deverá entregar um novo
+FATCC, com o item 1 (Termo de Orientação) devidamente preenchido e assinado, como pré-
+requisito para matrícula na disciplina, e seguir o calendário estipulado para PFC II.
+
+Art. 28. No final do semestre o aluno deverá entregar ao professor orientador o seu produto do
+TCC, segundo a modalidade inicialmente escolhida, dentro dos prazos estabelecidos pela
+Coordenação de TCC.
+
+§ 1º O aluno que não entregar o seu produto do TCC para apreciação do professor orientador
+no prazo estabelecido estará reprovado na disciplina PFC II.
+
+§ 2º Caso o produto do TCC seja uma monografia, deverá seguir as normas do Guia para
+Apresentação de Trabalhos Técnico-científicos na UFG.
+
+§ 3º Caso o produto do TCC seja um relatório de iniciação científica, deverá seguir a normas
+para a escrita do relatório de iniciação científica especificadas pela Pró-Reitoria de Pesquisa e
+Pós-graduação da UFG vigentes no período em que o trabalho de iniciação científica ocorreu.
+O aluno deverá entregar ao seu orientador o comprovante da aprovação de seu trabalho de
+iniciação científica pela Pró-Reitoria de Pesquisa e Pós-graduação da UFG.
+
+§ 4º Caso o produto do TCC seja um artigo científico, o aluno deverá entregar ao seu
+orientador uma cópia da versão aceita para publicação, ou cópia da versão publicada e, além,
+disso, um comprovante de aceitação ou da publicação.
+
+
+
+                                               7
+Art. 29. Caso o professor orientador autorize a defesa do TCC perante banca avaliadora, o
+aluno deverá entregar à Secretaria Acadêmica tantas cópias de seu produto do TCC quantos
+forem os integrantes da banca avaliadora.
+
+Art. 30. O aluno deverá apresentar o TCC em sessão pública perante banca avaliadora.
+
+Art. 31. A Nota Final do aluno na disciplina PFC II é computada pelo seguinte cálculo:
+
+                               médiaNotaApresentaçãomédiaNotaProduto
+                 notaFinal =                                          ,
+                                                  2
+
+onde médiaNotaApresentação corresponde à média aritmética das notas atribuídas pelos
+membros da banca avaliadora à apresentação da defesa do TCC feita pelo aluno e
+médiaNotaProduto corresponde à média aritmética das notas atribuídas pelos membros da
+banca avaliadora ao produto do TCC redigido pelo aluno.
+
+Art. 32. Será aprovado na disciplina PFC II o aluno que preencher os seguintes requisitos:
+I – presença em pelo menos 75% dos encontros agendados com o professor orientador;
+II – Nota Final maior ou igual à nota mínima exigida pelo Regulamento Geral de Cursos de
+Graduação da UFG em vigor na época da conclusão da disciplina.
+III – entrega da versão definitiva do produto do TCC, com os respectivos anexos e artefatos
+produzidos, em meio digital especificado pela Coordenação de TCC, à Secretaria Acadêmica,
+no prazo previsto de acordo com o calendário de PFC II, com as devidas correções, alterações
+ou ampliações requeridas pela banca avaliadora do TCC e com o devido acórdão do professor
+orientador.
+
+Parágrafo Único – O aluno reprovado em PFC II deverá cursar novamente a disciplina PFC II
+e ficará sujeito ao calendário da mesma, não podendo defender o TCC fora da data prevista
+para as bancas avaliadoras de PFC II.
+
+                                       Capítulo VII
+                                Da Banca Avaliadora de TCC
+
+Art. 33. A banca avaliadora de TCC será composta pelo professor orientador e por mais um
+professor avaliador, o qual deve ser lotado no Instituto de Informática da UFG, e que não seja
+coorientador do aluno.
+
+§ 1º A banca avaliadora de TCC será presidida pelo professor orientador ou, em sua ausência,
+pelo professor coorientador (se houver) ou, em último caso, por um professor indicado pelo
+Coordenador de TCC.
+
+§ 2º Quando houver um coorientador, o mesmo também poderá participar da banca
+avaliadora, a critério do professor orientador.
+
+
+
+                                              8
+§ 3º A critério do professor orientador poderá haver a indicação de 1 (um) professor externo
+por banca avaliadora.
+
+§ 4º A indicação de que trata o parágrafo anterior deverá ser aprovada pela Coordenação do
+TCC.
+
+§ 5º Os nomes dos membros da banca avaliadora serão indicados pelo professor orientador e
+devem ser divulgados em 5 (cinco) dias úteis após a entrega do produto do TCC na
+Secretaria.
+
+§ 6º As datas, horários, locais e composição das bancas avaliadoras serão divulgados pela
+Coordenação de TCC, que observará o calendário da disciplina PFC II.
+
+Art. 34. A banca avaliadora de TCC deverá ler o produto do TCC do aluno antes da defesa,
+avaliá–lo e, se necessário, sugerir melhorias e correções no texto do produto.
+
+Art. 35. A banca avaliadora de TCC deverá assistir à defesa do aluno e arguí-lo ao final de sua
+apresentação.
+
+                                       Capítulo VIII
+                                     Da Defesa do TCC
+
+Art. 36. A apresentação da defesa de TCC do aluno terá duração máxima de 30 (trinta)
+minutos. Cada membro da banca avaliadora terá 10 (dez) minutos para fazer sua arguição.
+
+Art. 37. Cada membro da banca avaliadora atribuirá uma Nota de Produto ao produto do TCC
+redigido pelo aluno. Esta nota pode variar de 0 (zero) a 10 (dez) pontos.
+
+Parágrafo Único. Na avaliação do TCC serão considerados os seguintes critérios:
+I – delimitação adequada do objeto;
+II – relevância do desenvolvimento do objeto;
+III – abordagem adequada do problema objeto da pesquisa;
+IV – domínio do conteúdo;
+V – abordagem crítica, analítica e propositiva;
+VI – clareza e objetividade;
+VII – coesão e unidade do trabalho;
+VIII – análise interdisciplinar;
+IX – observância dos aspectos formais da língua;
+X – respeito às diretrizes técnicas e formais definidas no Guia para Apresentação de
+Trabalhos Técnico-científicos na UFG.
+
+Art. 38. Cada membro da banca avaliadora atribuirá uma Nota de Apresentação à defesa oral
+do TCC do aluno, cujo valor pode pode variar de 0 (zero) a 10 (dez) pontos. A nota será
+correspondente à avaliação e às respostas dadas pelo aluno à arguição pela banca avaliadora.
+
+                                              9
+Parágrafo Único. Na avaliação da apresentação e das respostas às arguições orais serão
+considerados os seguintes critérios:
+I – controle e organização do tempo;
+II – domínio do conteúdo;
+III – clareza e objetividade;
+IV – adequação formal do discurso;
+V – consistência das respostas às manifestações da banca avaliadora.
+
+Art. 39. Cada integrante da banca avaliadora de TCC deve preencher no formulário de
+Acompanhamento de TCC a Nota de Produto, a Nota de Apresentação e sua assinatura.
+
+§ 1º O presidente da banca avaliadora computará a médiaNotaApresentação, a que se refere o
+o Art. 38, com base na Nota de Apresentação atribuída por cada membro da banca, de acordo
+com o seguinte cálculo, onde n corresponde ao número de componentes da banca avaliadora
+de TCC:
+                                                   n
+
+                                                  ∑ NotaApresentaçãoi
+                     médiaNotaApresentação= i=1                         .
+                                                            n
+
+§ 2º O presidente da banca avaliadora computará a médiaNotaProduto, a que se refere o Art.
+37, com base na Nota de Produto atribuída por cada membro da banca avaliadora, de acordo
+com o seguinte cálculo, onde n corresponde ao número de componentes da banca avaliadora
+de TCC:
+                                                  n
+
+                                                  ∑ NotaProdutoi
+                                                  i=1
+                           médiaNotaProduto=                       .
+                                                        n
+
+§ 3º Caso o produto do TCC seja um relatório de iniciação científica, que atenda às exigências
+do Art. 7, §3º, receberá pontuação mínima em médiaNotaProduto a nota mínima exigida pelo
+Regulamento Geral de Cursos de Graduação da UFG em vigor na época da conclusão da
+disciplina.
+
+§ 4º Caso o produto do TCC seja um artigo científico, que atenda às exigências do Art. 7, §2º,
+receberá pontuação mínima de 8 (oito) pontos em médiaNotaProduto.
+
+§ 5º Das decisões da banca avaliadora não caberão recursos.
+
+                                        Capítulo IX
+                                   Das Disposições Finais
+
+Art. 40. Em caso de fraude acadêmica na elaboração do produto do TCC, o aluno será
+sumariamente reprovado na disciplina, PFC I ou PFC II, no momento em que a fraude for
+detectada.
+
+                                             10
+Art. 41. São impedidos de atuar como orientadores ou membros de bancas avaliadoras
+qualquer parente do aluno, consanguíneo ou afim, em linha reta, ou na linha colateral até o 3º
+grau.
+
+Art. 42. Os casos omissos serão decididos pela Coordenação de TCC.
+
+
+                              Goiânia, 17 de fevereiro de 2012.
+
+
+
+
+                             Erika Morais Martins Coelho
+                     Coordenadora de Trabalho de Conclusão de Curso
+
+                           Leandro Luís Galdino de Oliveira
+             Coordenador do Curso de Bacharelado em Sistemas de Informação
+
+                              Auri Marcelo Rizzo Vincenzi
+                             Diretor do Instituto de Informática
+
+
+
+
+                                             11
+

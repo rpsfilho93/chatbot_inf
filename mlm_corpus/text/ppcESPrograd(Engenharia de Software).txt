@@ -1,0 +1,3003 @@
+                     Diretor   Eduardo Simões de Albuquerque
+
+                Vice-Diretor   Sérgio Teixeira de Carvalho
+
+       Coordenador do curso    Cássio Leonardo Rodrigues
+
+           Vice-coordenador    Edmundo Sérgio Spoto
+
+     Coordenador de estágio    Edmundo Sérgio Spoto
+
+ Coordenadora de monitoria     Elisângela Silva Dias
+Núcleo Docente Estruturante:   Adriana Silveira de Souza
+                               Cássio Leonardo Rodrigues
+                               Edmundo Sérgio Spoto
+                               Fábio Nogueira de Lucena (presidente)
+                               Fernando Marques Federson
+                               Juliana Pereira de Souza-Zinader
+                               Juliano Lopes de Oliveira
+                               Marcelo Ricardo Quinta
+                               Plínio de Sá Leitão Júnior
+                               Renata Dutra Braga
+Sumário
+Lista de siglas
+Agradecimentos
+Apresentação
+Identificação
+
+       Nome do curso
+
+      Grau acadêmico
+
+     Título do egresso
+
+ Área de conhecimento
+               (CNPq)
+
+
+
+
+          Modalidade
+
+       Local de oferta
+
+
+
+
+      Reconhecimento
+
+
+
+
+         Responsável
+
+  Unidades executoras
+
+
+
+
+     Número de vagas
+
+         Carga horária
+
+  Duração do curso em
+            semestres
+
+             Turno de
+       funcionamento
+
+    Forma de ingresso
+Contexto
+
+
+
+
+Da aptidão do Instituto de Informática
+Da carência de mão de obra
+
+
+
+
+Dos indicadores socioeconômicos regionais
+Exposição de motivos
+Objetivos
+
+Objetivo geral
+
+
+
+
+Objetivos específicos
+   
+
+
+
+
+   
+
+
+
+   
+   
+
+
+   
+
+
+   
+
+
+   
+
+
+   
+
+
+   
+
+
+
+Expectativa da formação do profissional
+
+Perfil do egresso
+
+
+
+
+Habilidades do egresso
+
+
+   
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+Princípios norteadores
+Formação Ética e Função Social do Profissional
+
+
+
+
+Formação Técnica
+Estratégia da definição das disciplinas
+Articulação entre Teoria e Prática Profissional
+
+
+
+
+Interdisciplinaridade
+Disciplina “Prática em Engenharia de Software”
+
+
+
+
+Atividades supervisionadas
+Núcleo Docente Estruturante (NDE)
+
+  
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+Política e gestão de estágio não obrigatório
+Trabalho de Conclusão de Curso (TCC)
+Integração ensino, pesquisa e extensão
+Avaliação do processo de ensino e aprendizagem
+Avaliação do projeto de curso
+
+
+
+
+Política de qualificação
+    ã
+        ́
+
+
+
+
+ã
+ã
+            ã
+Requisitos legais e normativos
+
+
+
+
+Libras
+
+
+
+
+Política de educação ambiental
+Planejamento das disciplinas
+
+
+
+
+Programa institucional
+  
+
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+Resolução Nº 1 de 17 de junho de 2004
+Disciplinas de graduação obrigatórias
+
+
+
+
+Programa institucional
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+
+
+Diretrizes nacionais para Educação em Direitos Humanos
+
+
+
+
+Proteção dos direitos da pessoa com Transtornos do Espectro Autista
+Estrutura Curricular
+
+Matriz curricular
+
+
+
+
+ Nº Disciplina         Pré   Unidade   TEO PRA CHT   Núcleo
+Nº Disciplina                   Pré   Unidade TEO   PRA     CHT   Núcleo
+
+
+
+
+Nº   Disciplina (opção)   Pré   Unidade   TEO PRA CHT     Núcleo Optativa
+Núcleo livre
+
+
+
+
+Atividades complementares
+
+
+
+
+Distribuição da carga horária
+
+
+
+
+         Componentes curriculares                               CHT    Percentual
+
+
+
+
+                                    CARGA HORÁRIA TOTAL (CHT)   3200     100%
+Fluxo sugerido
+                   1º PERÍODO
+
+ Disciplina                                  CHT     Natureza    Núcleo
+
+
+
+
+                Carga horária do período     320
+
+                Carga horária acumulada      320
+
+
+
+
+                  2º PERÍODO
+
+Disciplina                                 CHT     Natureza     Núcleo
+
+
+
+
+              Carga horária do período     320
+
+              Carga horária acumulada      640
+
+
+
+
+                  3º PERÍODO
+
+Disciplina                                 CHT     Natureza     Núcleo
+
+
+
+
+              Carga horária do período     320
+
+              Carga horária acumulada      960
+                4º PERÍODO
+
+Disciplina                              CHT    Natureza   Núcleo
+
+
+
+
+             Carga horária do período   320
+
+             Carga horária acumulada    1280
+
+
+
+
+                5º PERÍODO
+
+Disciplina                              CHT    Natureza   Núcleo
+
+
+
+
+             Carga horária do período   320
+
+             Carga horária acumulada    1600
+
+
+
+
+                6º PERÍODO
+
+Disciplina                              CHT    Natureza   Núcleo
+
+
+
+
+             Carga horária do período   320
+
+             Carga horária acumulada    1920
+                7º PERÍODO
+
+Disciplina                              CHT    Natureza   Núcleo
+
+
+
+
+             Carga horária do período   320
+
+             Carga horária acumulada    2240
+
+
+
+
+                8º PERÍODO
+
+Disciplina                              CHT    Natureza   Núcleo
+
+
+
+
+             Carga horária do período    320
+
+             Carga horária acumulada    2560
+
+
+
+
+                9º PERÍODO
+
+Disciplina                              CHT    Natureza   Núcleo
+
+
+
+             Carga horária do período   320
+
+             Carga horária acumulada    2880
+Pré-requisitos
+Disciplinas de formação básica (obrigatórias)
+
+Computação e Sociedade
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 0      32    1.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Introdução à Programação
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       48 80     128   1.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+                               ã
+
+
+
+
+                                                  n                       n
+                                                                              õ
+Cálculo 1A
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       96 0      96    1.o       IME      Sim          Nenhum
+
+Ementa
+
+
+
+
+Fundamentos de Matemática para Computação
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       64   0    64    1.o       INF      Sim          Nenhum
+
+Ementa
+Arquitetura de Computadores
+Núcleo   TEO PRA   TOTAL Período Unidade Obrigatória Pré-requisito:
+NC       48   16   64     2.o      INF     Sim         Fundamentos de Matemática para Computação
+
+Ementa
+
+
+
+
+Algoritmos e Estruturas de Dados 1
+Núcleo   TEO PRA   TOTAL Período    Unidade Obrigatória   Pré-requisito:
+NC       32 32     64     2.o       INF        Sim        Introdução à Programação
+
+Ementa
+
+
+
+
+Probabilidade e Estatística A
+Núcleo   TEO PRA   TOTAL Período    Unidade Obrigatória   Pré-requisito:
+NC       64 0      64     2.o       IME        Sim        Cálculo 1A
+
+Ementa
+                                           õ
+                   ã
+                      ã                                                           o
+                  n
+
+
+                                                                              a
+                          õ
+                          õ
+
+
+                      ã                                                           ã              ã
+                                                               ã                      ã
+                      ã
+
+
+
+Álgebra Linear
+Núcleo   TEO PRA      TOTAL Período    Unidade Obrigatória   Pré-requisito:
+NC       64 0         64      2.o      IME      Sim          Nenhum
+
+Ementa
+
+
+
+
+Lógica Matemática
+Núcleo   TEO PRA      TOTAL Período Unidade Obrigatória Pré-requisito:
+NC       64   0       64      2.o     IME     Sim         Fundamentos de Matemática para Computação
+
+Ementa
+Programação Orientada a Objetos
+Núcleo   TEO PRA   TOTAL Período Unidade Obrigatória Pré-requisito:
+NC       32 32     64     3.o     INF      Sim         Introdução à Programação
+
+Ementa
+
+
+
+
+Algoritmos e Estruturas de Dados 2
+Núcleo   TEO PRA   TOTAL Período Unidade Obrigatória Pré-requisito:
+NC       64 0      64     3.o     INF      Sim         Algoritmos e Estruturas de Dados 1
+
+Ementa
+
+
+
+
+Linguagens e Paradigmas de Programação
+Núcleo   TEO PRA   TOTAL Período Unidade Obrigatória Pré-requisito:
+NC       32 32     64     3.o     INF      Sim         Introdução à Programação
+
+Ementa
+Engenharia de Software
+Núcleo   TEO PRA   TOTAL Período    Unidade Obrigatória    Pré-requisito:
+NC       64 0      64     3.o       INF      Sim           Nenhum
+
+Ementa
+
+
+
+
+Análise e Projeto de Algoritmos
+Núcleo   TEO PRA   TOTAL Período Unidade Obrigatória Pré-requisitos:
+NC       64   0    64     4.o      INF     Sim         Fundamentos de Matemática para Computação
+                                                       Algoritmos e Estruturas de Dados 2
+
+Ementa
+Interação Humano-Computador
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisitos:
+NC       32 32     64    4.o       INF      Sim          Probabilidade e Estatística A
+                                                         Algoritmos e Estruturas de Dados 1
+
+Ementa
+
+
+
+
+Banco de Dados
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisitos:
+NC       48 16     64    4.o       INF      Sim          Lógica Matemática
+
+Ementa
+Projeto de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisitos:
+NC       64 0      64    4.o       INF      Sim          Engenharia de Software
+                                                         Programação Orientada a Objetos
+
+Ementa
+Disciplinas optativas
+
+
+
+
+Sistemas Operacionais
+Núcleo   TEO PRA   TOTAL Período    Unidade Obrigatória   Pré-requisito:
+NE       32 32     64     3.o       INF      Não          Arquitetura de Computadores
+
+Ementa
+
+
+
+
+Pesquisa Operacional
+Núcleo   TEO PRA   TOTAL Período    Unidade Obrigatória   Pré-requisito:
+NE       64 0      64     3.o       INF      Não          Álgebra Linear
+
+Ementa
+
+
+
+
+Linguagens Formais e Autômatos
+Núcleo   TEO PRA   TOTAL Período Unidade Obrigatória Pré-requisito:
+NE       64 0      64     3.o      INF     Não         Fundamentos         de   Matemática   para
+                                                       Computação
+
+Ementa
+Redes de computadores
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória     Pré-requisito:
+NE       32 32     64    4.o       INF       Não           Sistemas Operacionais
+
+Ementa
+
+
+
+
+Introdução à Língua Brasileira de Sinais
+Núcleo   TEO PRA   TOTAL Período   Unidade   Obrigatória    Pré-requisito:
+NE       64 0      64    4.o       LETRAS Não               Nenhum
+
+Ementa
+
+
+
+
+Compiladores
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória     Pré-requisito:
+NE       64 0      64    4.o       INF       Não           Linguagens Formais e Autômatos
+                                                           Algoritmos e Estruturas de Dados 2
+
+Ementa
+Sistemas Distribuídos
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NE       32 32     64    8.o       INF      Não          Programação Orientada a Objetos
+
+Ementa
+Disciplinas específicas de Engenharia de Software
+
+
+
+
+Condições mínimas
+     
+
+
+
+
+     
+
+
+
+
+     
+
+
+
+
+Construção de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisitos:
+NC       48 80     128   5.o       INF      Sim          Nenhum
+
+Ementa
+Condições mínimas (estar apto a):
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+    
+
+
+    
+    
+
+
+    
+     
+     
+
+
+
+
+Modelagem de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisitos:
+NC       16 48     64    5.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+     
+
+
+     
+
+
+
+
+Processos de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    5.o       INF      Sim          Nenhum
+
+Ementa
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+
+
+
+
+     
+
+
+     
+
+
+     
+
+
+
+
+Engenharia de Sistemas
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       64 0      64    5.o       INF      Sim          Nenhum
+
+Ementa
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+
+
+
+
+     
+
+
+
+
+     
+
+
+
+
+Design de Software
+Núcleo    TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC        48 80     128   6.o       INF      Sim          Nenhum
+
+Ementa:
+Condições mínimas (estar apto a):
+     
+
+
+
+
+     
+     
+     
+
+
+     
+
+
+
+Domínios de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       16 48     64    6.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a):
+     
+
+
+
+
+     
+
+
+
+
+     
+     
+
+
+     
+
+
+     
+     
+
+
+     
+
+
+
+
+Processos de Qualidade de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       48 16     64    6.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+
+
+     
+
+
+     
+     
+
+
+     
+
+
+     
+
+
+     
+
+
+
+
+Gerência de Projeto de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    6.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+     
+     
+
+
+
+
+Software Concorrente e Distribuído
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    7.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+
+
+
+
+     
+     
+
+
+     
+
+
+     
+
+
+     
+     
+
+
+     
+     
+
+
+
+
+Experiência do Usuário de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    7.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+     
+     
+
+
+
+
+     
+
+
+     
+
+
+     
+     
+     
+
+
+     
+
+
+     
+
+
+
+
+Arquitetura de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    7.o       INF      Sim          Nenhum
+
+Ementa
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+
+
+     
+     
+
+
+
+Requisitos de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    7.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+     
+     
+     
+     
+     
+
+
+     
+Governança e Gestão de Serviços de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       48 16     64    7.o       INF      Sim          Nenhum
+
+Ementa
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+
+
+     
+
+
+
+
+     
+
+
+
+
+Software para Sistemas Ubíquos
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    8.o       INF      Sim          Nenhum
+
+Ementa
+Condições mínimas (estar apto a):
+     
+
+
+     
+
+
+     
+
+
+
+
+     
+
+
+
+
+     
+
+
+     
+
+
+     
+
+
+     
+
+
+     
+
+
+     
+
+
+     
+     
+
+
+
+
+Software para Persistência de Dados
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    8.o       INF      Sim          Nenhum
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+     
+
+
+     
+
+
+     
+
+
+     
+     
+
+
+
+Padrões de Arquitetura de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    8.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+     
+     
+     
+     
+
+
+
+
+Teste de Software
+Núcleo   TEO PRA   TOTAL Período   Unidade Obrigatória   Pré-requisito:
+NC       32 32     64    8.o       INF      Sim          Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+
+
+     
+     
+     
+
+
+     
+
+
+     
+
+
+     
+     
+     
+     
+     
+     
+Metodologia e Experimentação em Engenharia de Software
+Núcleo     Carga horária   Teórica   Prática   Período (fluxo)   Pré-requisito:
+NC         64              48        80        8.o               Nenhum
+
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+     
+
+
+     
+
+
+
+
+Mercado e Economia de Software
+Núcleo     Carga horária   Teórica   Prática   Período (fluxo)   Pré-requisito:
+NC         64              48        80        8.o               Nenhum
+
+Ementa
+Condições mínimas (estar apto a)
+     
+
+
+     
+
+
+     
+
+
+
+Prática em Engenharia de Software
+Núcleo     Carga horária   Teórica   Prática   Período (fluxo)   Pré-requisito:
+NC         320             0         320       9.o               Nenhum
+Ementa
+
+
+
+
+Condições mínimas (estar apto a)
+    
+
+
+
+
+    
+
+
+
+
+    
+Referências
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+      http://apoema.inf.ufg.br
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apêndice A
+Tabelas de equivalência
+
+
+              DISCIPLINA DO PPC DE 2009-1        CH NATUREZA           APROVEITA COMO – NO PPC DE 2017-1     CH NATUREZA
+
+ Introdução à Engenharia de Software             64   NE – OBR   Engenharia de Software                      64    NE – OBR
+
+ Ética, Normas e Postura Profissional            64   NC – OBR   Computação e Sociedade                      32    NC – OBR
+
+ Matemática Discreta                             64   NC – OBR   Fundamentos de Matemática para Computação   64    NC – OBR
+
+ Lógica                                          64   NC – OBR   Lógica Matemática                           64    NC – OBR
+
+ Introdução à Programação                        64   NC – OBR   Introdução à Programação                    128   NC – OBR
+
+ Método de Desenvolvimento de Software           64   NC – OBR   Programação Orientada a Objetos             64    NC – OBR
+
+ Construção de Software                          64   NC – OBR   Domínios de Software                        64    NC – OBR
+
+ Arquitetura de Computadores                     64   NC – OBR   Arquitetura de Computadores                 64    NC – OBR
+
+ Algoritmos: Fundamentos e Estruturas de Dados   64   NC – OBR   Algoritmos e Estruturas de Dados 1          64    NC – OBR
+
+ Banco de Dados                                  64   NC – OBR   Banco de Dados                              64    NE – OBR
+
+ Engenharia de Software                          64   NE – OBR   Engenharia de Software                      64    NE – OBR
+
+ Sistema Operacional                             64   NE – OBR   Sistemas Operacionais                       64    NC – OBR
+
+ Redes e Sistemas Distribuídos                   64   NE – OBR   Redes de Computadores                       64    NC – OBR
+            DISCIPLINA DO PPC DE 2009-1           CH NATUREZA           APROVEITA COMO – NO PPC DE 2017-1                  CH NATUREZA
+
+Algoritmos: Ordenação e Busca                     64   NC – OBR   Algoritmos e Estruturas de Dados 2                       64   NC – OBR
+
+Linguagens de Programação                         64   NE – OBR   Linguagens e Paradigmas de Programação                   64   NE – OPT
+
+Requisitos de Software                            64   NE – OBR   Requisitos de Software                                   64   NC – OBR
+
+Projeto Detalhado de Software                     64   NE – OBR   Projeto de Software                                      64   NE – OPT
+
+Processo de Software                              64   NE – OBR   Processos de Software                                    64   NE – OBR
+
+Algoritmos em Grafos                              64   NC – OBR   Algoritmos e Estruturas de Dados 2                       64   NC – OBR
+
+Interação Homem-Computador                        64   NE – OBR   Interação Humano-Computador                              64   NC – OBR
+
+Segurança                                         64   NE – OBR   Optativa 1, Optativa 2 ou Optativa 3                     64   NE – OBR
+
+Qualidade de Software                             64   NE – OBR   Processos de Qualidade de Software                       64   NE – OPT
+
+Arquitetura de Software                           64   NE – OBR   Arquitetura de Software                                  64   NC – OBR
+
+Verificação e Validação                           64   NE – OBR   Testes de Software                                       64   NC – OBR
+
+Gerência de Configuração de Software              64   NC – OBR   Optativa 1, Optativa 2 ou Optativa 3                     64   NC – OBR
+
+Manutenção de Software                            64   NE – OBR   Optativa 1, Optativa 2 ou Optativa 3                     64   NE – OPT
+
+Gerência de Projeto de Software                   64   NE – OBR   Gerência de Projeto de Software                          64   NC – OBR
+
+Métodos e Ferramentas da Engenharia de Software   64   NC – OBR   Optativa 1, Optativa 2 ou Optativa 3                     64   NC – OBR
+
+Experimentação em Engenharia de Software          64   NC – OBR   Metodologia e Experimentação em Engenharia de Software   64   NE – OBR
+
+Leitura de Software                               64   NE – OBR   Optativa 1, Optativa 2 ou Optativa 3                     64   NC – OBR
+               DISCIPLINA DO PPC DE 2009-1     CH NATUREZA           APROVEITA COMO – NO PPC DE 2017-1    CH NATUREZA
+
+Software Concorrente                           64   NC – OBR   Software Concorrente e Distribuído         64    NC – OBR
+
+Engenharia Econômica para Software             64   NC – OBR   Mercado e Economia de Software             64    NE – OBR
+
+Software para Web                              64   NE – OBR   Experiência do Usuário em Software         64    NE – OBR
+
+Software para Dispositivos Móveis              64   NE – OBR   Software para Sistemas Ubíquos             64    NE – OBR
+
+Software para Persistência                     64   NC – OBR   Software para Persistência de Dados        64    NE – OBR
+
+Integração de Aplicações E                     64   NE – OBR
+                                                               Design de Software                         128   NE – OBR
+Técnicas Avançadas de Construção de Software   64   NE – OBR
+
+Tópicos em Engenharia de Software              64   NE – OPT   Optativa 1, Optativa 2 ou Optativa 3       64    NC – OBR
+
+LIBRAS                                         64   NE – OPT   Introdução à Língua Brasileira de Sinais   64    NE – OPT
+
+Mercado de Software                            64   NE – OPT   Mercado e Economia de Software             64    NE – OPT
+
+Prática em Engenharia de Software              64   NE – OBR   Modelagem de Software                      64    NE – OBR
+
+Integração 1                                   64   NE – OBR
+                                                               Padrões de Arquitetura de Software         64    NE – OBR
+Integração 2                                   64   NE – OBR
+                 DISCIPLINA DO PPC DE 2017-1   CH NATUREZA          APROVEITA COMO – NO PPC DE 2009-1           CH NATUREZA
+
+Computação e Sociedade                         32    NC – OBR   Ética, Normas e Postura Profissional            64   NC - OBR
+
+Introdução à Programação                       128   NC – OBR   Introdução à Programação                        64   NC - OBR
+
+Cálculo 1A                                     64    NC – OBR   Optativa                                        64   NC – OBR
+
+Fundamentos de Matemática para Computação      64    NC – OBR   Matemática Discreta                             64   NC – OBR
+
+Arquitetura de Computadores                    64    NE – OPT   Arquitetura de Computadores                     64   NC – OBR
+
+Algoritmos e Estruturas de Dados 1             64    NE – OPT   Algoritmos: Fundamentos e Estruturas de Dados   64   NC – OBR
+
+Probabilidade e Estatística A                  64    NE – OBR   Optativa                                        64   NC – OBR
+
+Álgebra Linear                                 64    NC – OBR   Optativa                                        64   NC – OBR
+
+Lógica Matemática                              64    NC – OBR   Lógica                                          64   NE – OBR
+
+Programação Orientada a Objetos                64    NE – OBR   Método de Desenvolvimento de Software           64   NE – OBR
+
+Algoritmos e Estruturas de Dados 2             64    NC – OBR   Algoritmos: Ordenação e Busca                   64   NC – OBR
+
+Optativa 1                                     64    NE – OPT   Optativa                                        64   NC – OBR
+
+Linguagens e Paradigmas de Programação         64    NC – OBR   Linguagens de Programação                       64   NE – OBR
+
+Engenharia de Software                         64    NE – OBR   Engenharia de Software                          64   NC – OBR
+
+Análise e Projeto de Algoritmos                64    NE – OBR   Algoritmos em Grafos                            64   NC - OBR
+
+Interação Humano-Computador                    64    NE – OBR   Interação Homem-Computador                      64   NE - OBR
+
+Optativa 2                                     64    NE – OBR   Optativa                                        64   NC - OBR
+              DISCIPLINA DO PPC DE 2017-1     CH NATUREZA          APROVEITA COMO – NO PPC DE 2009-1            CH NATUREZA
+
+Banco de Dados                                64    NE – OBR   Banco de Dados                                   64   NC - OBR
+
+Projeto de Software                           64    NC – OBR   Projeto Detalhado de Software                    64   NC - OBR
+
+Construção de Software                        128   NE – OBR   Introdução à Programação                         64   NC – OBR
+
+Modelagem de Software                         64    NE – OPT   Optativa                                         64   NE – OBR
+
+Processos de Software                         64    NC – OBR   Processo de Software                             64   NC – OBR
+
+Engenharia de Sistemas                        64    NE – OBR   Optativa                                         64   NE – OBR
+
+                                                               Projeto Detalhado de Software E Arquitetura de
+Design de Software                            128   NE – OBR                                                    64   NC – OBR
+                                                               Software
+
+Domínios de Software                          64    NE – OPT   Optativa                                         64   NE – OBR
+
+Processos de Qualidade de Software            64    NE – OBR   Qualidade de Software                            64   NC – OBR
+
+Gerência de Projeto de Software               64    NE – OBR   Gerência de Projeto de Software                  64   NE – OBR
+
+Software Concorrente e Distribuído            64    NE – OBR   Software Concorrente                             64   NC – OBR
+
+Experiência do Usuário de Software            64    NE – OBR   Interação Homem-Computador                       64   NC – OBR
+
+Arquitetura de Software                       64    NE – OBR   Arquitetura de Software                          64   NC – OBR
+
+Requisitos de Software                        64    NC – OBR   Requisitos de Software                           64   NE – OBR
+
+Governança e Gestão de Serviços de Software   64    NE – OBR   Gerência de Configuração de Software             64   NE – OBR
+
+Software para Sistemas Ubíquos                64    NE – OPT   Software para Dispositivos Móveis                64   NE – OPT
+               DISCIPLINA DO PPC DE 2017-1               CH NATUREZA          APROVEITA COMO – NO PPC DE 2009-1             CH NATUREZA
+
+Software para Persistência de Dados                      64    NE – OBR   Software para Persistência                        64   NE - OBR
+
+                                                                          Arquitetura de Software OU Projeto Detalhado de
+Padrões de Arquitetura de Software                       64    NE – OBR                                                     64   NE – OBR
+                                                                          Software
+
+Testes de Software                                       64    NE – OPT   Verificação e Validação                           64   NC – OBR
+
+Optativa 3                                               64    NE – OPT   Optativa                                          64   NC – OBR
+
+Prática em Engenharia de Software                        320   NE – OBR   -                                                 64   NC – OBR
+
+Sistemas Operacionais                                    64    NE – OPT   Sistema Operacional                               64   NC - OBR
+
+Pesquisa Operacional                                     64    NE – OPT   Optativa                                          64   NE – OBR
+
+Linguagens Formais e Autômatos                           64    NE – OBR   Optativa                                          64   NC – OBR
+
+Redes de Computadores                                    64    NE – OBR   Redes e Sistemas Distribuídos                     64   NC – OBR
+
+Introdução à Língua Brasileira de Sinais                 64    NE – OBR   LIBRAS                                            64   NC – OBR
+
+Compiladores                                             64    NC – OBR   Optativa                                          64   NC – OBR
+
+Sistemas Distribuídos                                    64    NE – OPT   Redes e Sistemas Distribuídos                     64   NC – OBR
+
+Mercado e Economia de Software                           64    NC – OBR   Mercado de Software                               64   NC - OBR
+
+Metodologia e Experimentação em Engenharia de Software   64    NC – OBR   Experimentação em Engenharia de Software          64   NC - OBR
+
+                                                                          Projeto Detalhado de Software E Arquitetura de
+Design de Software                                       128   NE – OBR                                                     64   NC – OBR
+                                                                          Software
+              DISCIPLINA DO PPC DE 2017-1     CH NATUREZA          APROVEITA COMO – NO PPC DE 2009-1             CH NATUREZA
+
+Domínios de Software                          64    NE – OPT   Optativa                                          64   NE – OBR
+
+Processos de Qualidade de Software            64    NE – OBR   Qualidade de Software                             64   NC – OBR
+
+Gerência de Projeto de Software               64    NE – OBR   Gerência de Projeto de Software                   64   NE – OBR
+
+Software Concorrente e Distribuído            64    NE – OBR   Software Concorrente                              64   NC – OBR
+
+Experiência do Usuário de Software            64    NE – OBR   Interação Homem-Computador                        64   NC – OBR
+
+Arquitetura de Software                       64    NE – OBR   Arquitetura de Software                           64   NC – OBR
+
+Requisitos de Software                        64    NC – OBR   Requisitos de Software                            64   NE – OBR
+
+Governança e Gestão de Serviços de Software   64    NE – OBR   Gerência de Configuração de Software              64   NE – OBR
+
+Software para Sistemas Ubíquos                64    NE – OPT   Software para Dispositivos Móveis                 64   NE – OBR
+
+Software para Persistência de Dados           64    NE – OBR   Software para Persistência                        64   NE – OBR
+
+                                                               Arquitetura de Software OU Projeto Detalhado de
+Padrões de Arquitetura de Software            64    NE – OBR                                                     64   NE – OBR
+                                                               Software
+
+Testes de Software                            64    NE – OPT   Verificação e Validação                           64   NE – OBR
+
+Optativa 3                                    64    NE – OPT   Optativa                                          64   NE – OBR
+
+Prática em Engenharia de Software             320   NE – OBR   -                                                 64   NE – OBR
+
+Sistemas Operacionais                         64    NE – OPT   Sistema Operacional                               64   NC – OBR
+
+Pesquisa Operacional                          64    NE – OPT   Optativa                                          64   NE – OBR
+               DISCIPLINA DO PPC DE 2017-1               CH NATUREZA         APROVEITA COMO – NO PPC DE 2009-1      CH NATUREZA
+
+Linguagens Formais e Autômatos                           64   NE – OBR   Optativa                                   64   NC – OBR
+
+Redes de Computadores                                    64   NE – OBR   Redes e Sistemas Distribuídos              64   NC – OBR
+
+Introdução à Língua Brasileira de Sinais                 64   NE – OBR   LIBRAS                                     64   NC – OBR
+
+Compiladores                                             64   NE – OPT   Optativa                                   64   NC – OBR
+
+Sistemas Distribuídos                                    64   NE – OPT   Redes e Sistemas Distribuídos              64   NC – OBR
+
+Mercado e Economia de Software                           64   NC – OBR   Mercado de Software                        64   NC - OBR
+
+Metodologia e Experimentação em Engenharia de Software   64   NC – OBR   Experimentação em Engenharia de Software   64   NC - OBR
+Apêndice B
+
+
+
+
+Disciplinas de formação básica (obrigatórias)
+
+Computação e Sociedade
+Bibliografia Básica
+    
+
+
+    
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+    
+Introdução à Programação
+Bibliografia básica
+    
+
+
+
+
+    
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Cálculo 1A
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+Bibliografia Complementar
+                               õ
+
+
+                           ̧
+
+
+    
+                 õ
+    
+
+
+    
+
+
+
+
+Fundamentos de Matemática para Computação
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+    
+Arquitetura de Computadores
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+Algoritmos e Estruturas de Dados 1
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Probabilidade e Estatística A
+Bibliografia Básica
+    
+
+
+                               õ
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+                           ã
+Álgebra Linear
+Bibliografia Básica
+    
+
+
+    
+                      õ
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+    
+
+
+                               ã
+
+
+                           ã       õ
+
+
+
+
+Lógica Matemática
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+    
+
+
+    
+    
+    
+
+
+
+
+Programação Orientada a Objetos
+Bibliografia Básica
+    
+
+
+    
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Algoritmos e Estruturas de Dados 2
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Linguagens e Paradigmas de Programação
+Bibliografia Básica
+    
+                          ;   ;
+    
+
+
+                                        ;
+                      ,
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+                                   ,
+Engenharia de Software
+Bibliografia Básica
+    
+
+
+    
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+    
+
+
+    
+
+
+    
+
+
+
+
+Análise e Projeto de Algoritmos
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+
+
+    
+    
+
+
+    
+
+
+    
+
+
+
+
+Interação Humano-Computador
+Bibliografia Básica
+    
+
+
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+                           ;
+
+
+    
+
+
+
+
+    
+
+
+    
+
+
+
+
+    
+                                ;
+Banco de Dados
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Projeto de Software
+Bibliografia Básica
+    
+    
+
+
+    
+
+
+
+
+Bibliografia Complementar
+    
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Disciplinas optativas
+
+Pesquisa Operacional
+Bibliografia básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+Linguagens Formais e Autômatos
+Bibliografia básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Sistemas Operacionais
+Bibliografia Básica
+    
+
+
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+    
+    
+
+
+    
+    
+
+
+
+Compiladores
+Bibliografia básica
+    
+
+
+
+
+    
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Redes de computadores
+Bibliografia básica
+    
+
+
+    
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+
+
+    
+
+
+    
+
+
+
+
+Introdução à Língua Brasileira de Sinais
+Bibliografia Básica
+    
+
+
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+    
+
+
+    
+
+
+
+
+    
+
+
+
+
+Sistemas Distribuídos
+Bibliografia básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+    
+    
+
+
+
+
+Metodologia e Experimentação em Engenharia de Software
+Bibliografia básica
+    
+
+
+    
+    
+
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+Mercado e Economia de Software
+Bibliografia básica
+    
+
+
+    
+
+
+    
+
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+Disciplinas específicas de Engenharia de Software
+
+Engenharia de Sistemas
+Bibliografia básica
+    
+
+
+    
+
+
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+Construção de Software
+Bibliografia básica
+
+
+    
+
+
+
+
+    
+
+
+    
+
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Modelagem de Software
+Bibliografia básica
+    
+
+
+    
+
+
+    
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Processos de Software
+Bibliografia Básica
+
+
+    
+
+
+    
+
+
+
+
+    
+
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+    
+
+
+
+
+Domínios de Software
+Bibliografia básica
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Bibliografia complementar
+    
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Processos de Qualidade de Software
+Bibliografia Básica
+    
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Gerência de Projeto de Software
+Bibliografia básica
+    
+
+
+    
+
+
+
+
+    
+
+
+
+
+Bibliografia complementar
+    
+
+
+    
+    
+
+
+    
+
+
+    
+
+
+
+
+Design de Software
+Bibliografia básica
+    
+
+
+    
+
+
+    
+
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+
+
+    
+
+
+    
+Governança e Gestão de Serviços de Software
+Bibliografia básica
+    
+
+
+
+
+    
+
+
+    
+
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+Arquitetura de Software
+Bibliografia Básica
+    
+
+
+    
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+Requisitos de Software
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+
+Bibliografia Complementar
+    
+    
+
+
+    
+    
+
+
+    
+
+
+
+
+Experiência do Usuário de Software
+Bibliografia básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Software Concorrente e Distribuído
+Bibliografia básica
+    
+
+
+    
+    
+
+
+
+
+Bibliografia complementar
+    
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Padrões de Arquitetura de Software
+Bibliografia Básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+
+
+    
+    
+
+
+
+
+Teste de Software
+Bibliografia Básica
+    
+    
+
+
+    
+
+
+
+Bibliografia Complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Software para Sistemas Ubíquos
+Bibliografia básica
+    
+
+
+    
+    
+
+
+
+Bibliografia complementar
+    
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Software para Persistência de Dados
+Bibliografia básica
+    
+
+
+    
+
+
+    
+
+
+
+Bibliografia complementar
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+
+Prática em Engenharia de Software
+Bibliografia básica
+    
+   
+
+
+   
+
+
+
+Bibliografia complementar
+   
+   
+
+
+
+
+   
+
+
+   
+
+
+   
+
