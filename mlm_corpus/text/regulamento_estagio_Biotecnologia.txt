@@ -1,0 +1,1425 @@
+REGULAMENTO GERAL DE ESTÁGIO CURRICULAR
+DO CURSO DE BACHARELADO EM BIOTECNOLOGIA
+                   Universidade Federal de Goiás
+          Instituto de Patologia Tropical e Saúde Pública
+
+
+
+
+     ORIENTAÇÕES E NORMAS SOBRE O ESTÁGIO CURRICULAR
+PARA ESTUDANTES DO CURSO DE BACHARELADO EM BIOTECNOLOGIA
+
+
+
+
+                              2013
+
+
+
+
+              PRÓ-REITORIA DE GRADUAÇÃO
+             Prédio da Reitoria - Campus Samambaia
+         Caixa Postal 131 CEP: 74001-970 - Goiânia-GO
+           Fone: (62) 3521-1070 Fax: (62) 3521-1162
+                 E-mail: prograd@prograd.ufg.br
+             Site da PROGRAD: www.prograd.ufg.br
+                     Site da UFG: www.ufg.br
+        UNIVERSIDADE FEDERAL DE GOIÁS
+
+                        Reitor
+            Prof. Edward Madureira Brasil
+                       Vice-Reitor
+       Prof. Eriberto Francisco Beviláqua Marin
+                Pró-Reitora de Graduação
+           Prof.ª Sandramara Matias Chaves
+              Coordenação de Estágio UFG
+                Prof.ª Marilda Shuvartz
+Diretora do Instituto de Patologia Tropical e Saúde Pública
+          Prof.ª Regina Maria Bringel Martins
+         Coordenador do Curso de Biotecnologia
+              Prof. André Corrêa Amaral
+  Coordenadora de Estágios do Curso de Biotecnologia
+          Profa. Juliana Lamaro Cardoso
+Sumário
+ESTÁGIO CURRICULAR OBRIGATÓRIO DO CURSO DE BIOTECNOLOGIA........07
+REGULAMENTO DO ESTÁGIO CURRICULAR OBRIGATÓRIO
+DO CURSO DE BIOTECNOLOGIA.....................................................................09
+NORMAS DO ESTÁGIO CURRICULAR OBRIGATÓRIO.....................................10
+1. DA NATUREZA...........................................................................................10
+2. FINALIDADES E OBJETIVOS.......................................................................10
+3. DAS ÁREAS E LOCAIS...............................................................................11
+3.1. Campos de atuação do Biotecnólogo..........................................11
+4. DA ORIENTAÇÃO.......................................................................................12
+5. DO ESTAGIÁRIO.........................................................................................13
+5.1. Atribuições do Estagiário...............................................................14
+5.1.1. Dos Direitos......................................................................................14
+5.1.2. Dos Deveres......................................................................................15
+6. DO DESENVOLVIMENTO DO ESTÁGIO CURRICULAR OBRIGATÓRIO..........15
+6.1. Apresentação do Aluno no Campo de Estágio...........................16
+6.2. Início do estágio.................................................................................16
+6.3. Declaração de frequência no estágio.........................................16
+6.4. Da avaliação e aprovação do estágio
+curricular obrigatório..........................................................................16
+CONSIDERAÇÕES FINAIS..............................................................................17
+APÊNDICES E ANEXOS..................................................................................18
+Regulamento de Estágio                                                             5
+
+
+Apresentação
+          Prezados Professores e Acadêmicos
+
+        Com o objetivo de consolidar a política de estágio da Universidade
+Federal de Goiás, a Pró-Reitoria de Graduação, por meio da Coordenação de
+Estágios, realizou reuniões com os coordenadores de estágios dos diferentes
+cursos de graduação e decidiu sistematizar um documento contendo as normas
+e orientações para e realização dos estágios curriculares obrigatórios e não
+obrigatórios.
+        A UFG compreende o estágio curricular obrigatório como uma atividade
+privilegiada de diálogo crítico com a realidade que favorece a articulação
+do ensino com pesquisa e extensão, configurando um espaço formativo do
+estudante, definido no Projeto Político Pedagógico de cada curso.
+        Por sua vez, o estágio curricular não obrigatório é realizado pelo estudante
+como intuito de ampliar a formação profissional por meio de vivências, de
+experiências próprias da situação profissional, sem previsão expressa no
+Projeto Político Pedagógico.
+        O estágio é um componente curricular de caráter teórico-prático que
+tem por objetivo principal proporcionar ao estudante a aproximação com
+a realidade profissional, com vistas ao aperfeiçoamento técnico, cultural,
+científico e pedagógico de sua formação acadêmica, no sentido de prepará-lo
+para o exercício da profissão e da cidadania.
+        Por se tratar de uma atividade fundamental para a formação, o
+estágio é desenvolvido sob a orientação de um professor do curso, com o
+acompanhamento do coordenador de estágios e a colaboração de profissionais
+qualificados no campo de atuação de cada área de conhecimento.
+        Estamos colocando em suas mãos o Caderno de regulamento de estágios
+que disponibiliza a legislação básica e as orientações pertinentes, visando ao
+desenvolvimento dessa atividade formativa.
+
+          Atenciosamente,
+
+                          Profª Sandramara Matias Chaves
+              Pró-Reitora de Graduação da Universidade Federal de Goiás
+6   Regulamento de Estágio
+Regulamento de Estágio                                                          7
+
+ESTÁGIO CURRICULAR OBRIGATÓRIO DO CURSO DE BIOTECNOLOGIA
+       O Estágio Curricular Obrigatório é parte integrante do currículo pleno dos
+cursos de graduação e deverá ser cumprido pelo aluno para a integralização
+da carga horária total exigida. Como as demais disciplinas, ele está sujeito
+às normas estabelecidas pela Universidade. O Estágio Curricular do Curso de
+Biotecnologia é uma atividade constituída por práticas supervisionadas, podendo
+ser desenvolvido dentro da universidade ou em instituições conveniadas com
+a mesma.
+       Ele compreende um período de exercício pré-profissional, em que
+o estudante permanece em contato direto com o ambiente de trabalho,
+desenvolvendo atividades fundamentais, profissionalizantes ou comunitárias,
+programadas ou projetadas, avaliáveis, com duração limitada e supervisionada.
+E ainda, dará oportunidade ao aluno de observar, analisar, discutir e vivenciar
+efetivamente a realidade do biotecnólogo no campo de trabalho.
+       O Estágio em Biotecnologia tem como objetivo principal permitir ao aluno
+estagiário a prática de metodologias relacionadas às diversas áreas de atuação
+profissional, visando o treinamento e formação profissional, possibilitando
+assim:
+       • oferecer a oportunidade de ampliar e integrar o conhecimento adquirido
+         para a sua formação profissional;
+       • desenvolver habilidades consideradas indispensáveis ao exercício
+         profissional;
+       • estabelecer relações entre teoria e a prática profissional;
+       • proporcionar ao estudante a oportunidade de desenvolver suas
+         habilidades e analisar situações reais de vida e trabalho de seu meio;
+       • complementar o processo ensino-aprendizagem e incentivar a busca
+         de aprimoramento cultural, profissional e compromisso social;
+       • consolidar, através de orientações individualizadas, o aprendizado e
+         aperfeiçoamento de atividades técnicas e científicas adequadas à
+         prática profissional;
+       • incentivar o desenvolvimento das potencialidades individuais e
+         qualificar o futuro profissional para identificar oportunidades para o
+         desenvolvimento de produtos e serviços biotecnológicos de modo
+         competitivo no mercado.
+
+      Os estágios curriculares do curso de Biotecnologia seguirão o
+estabelecido por este regulamento, pelo Regulamento Geral dos Cursos de
+8                                                                Regulamento de Estágio
+
+Graduação (RGCG) (Resolução CEPEC nº. 1122/2012) (APÊNDICE 1) pela Lei
+nº 11.788, de 25 de setembro de 2008 (APÊNDICE 2), e pelas resoluções da
+UFG vigentes. Estas resoluções fixam o currículo pleno do curso de graduação
+em Biotecnologia, para os acadêmicos ingressos a partir do ano letivo de
+2010 (Resolução CONSUNI 01/2009) (APÊNDICE 3) e disciplinam os estágios
+curriculares obrigatórios e não obrigatórios dos Cursos de Bacharelado e
+Específicos da Profissão na Universidade Federal de Goiás (Resolução CEPEC
+nº. 0766/2005) (APÊNDICE 4). De acordo com as referidas resoluções, deverá
+ser estabelecido o termo de convênio entre a instituição/empresa que oferecerá
+o campo de estágio e a universidade, bem como o termo de compromisso entre
+estagiário e a referida instituição/empresa.
+       Nos termos da lei, o estágio curricular não cria vínculo empregatício,
+no entanto, o estagiário poderá receber bolsa de estágio, de acordo com a
+disponibilidade da mesma na instituição/empresa. Todos os estagiários terão a
+garantia de um seguro contra acidentes e receberão a cobertura previdenciária
+prevista na legislação específica, observadas as disposições da resolução
+supracitada.
+
+
+ESTÁGIOS CURRICULARES NÃO OBRIGATÓRIOS
+       Além do Estágio Curricular Obrigatório, o acadêmico poderá realizar
+Estágio(s) Curricular(es) não obrigatórios que complementem a sua formação
+acadêmica. Dependendo das preferências pessoais de cada acadêmico, estes
+estágios poderão ser realizados em diversos setores da própria Universidade, ou
+em instituições e empresas que ofereçam contato com atividades diretamente
+relacionadas às diferentes áreas do profissional Biotecnólogo.
+       Para o estágio curricular não obrigatório é compulsório o pagamento
+de bolsa ou contra-prestação, independentemente do estágio ser realizado em
+empresas ou na própria UFG.
+        1) o aluno poderá realizar estágio curricular não obrigatório em
+            laboratórios de pesquisa da UFG ou em empresas conveniadas,
+            sendo que estas últimas devem apresentar a documentação de
+            convênio regularizada com a Universidade;
+        2) o aluno poderá realizar estágio curricular não obrigatório a partir do
+            3º período do curso;
+        3) esses estágios deverão ser registrados, na Coordenadoria de
+            Estágios, através do preenchimento do termo de compromisso e
+            plano de atividades firmado entre o estagiário e a empresa ou setor
+Regulamento de Estágio                                                        9
+
+           que oferece o estágio (ANEXO 1 e 2). Ambas as partes, além do
+           coordenador de estágio, devem guardar cópia destes documentos;
+       4) o aluno deverá redigir um relatório de atividades a cada 6 meses.
+           Ao final do estágio deverá ser encaminhado à Coordenadoria
+           de Estágios, o controle de frequência (ANEXO 3), a declaração
+           de frequência (ANEXO 4), o relatório de todas as atividades
+           desempenhadas (ANEXO 5), acompanhado da ficha da avaliação
+           do preceptor (ANEXO 6), para que lhe seja conferido o respectivo
+           certificado. Neste relatório deverá também constar o período em
+           que foi realizado o estágio, carga horária total, área de atuação de
+           estagiário, bem como o nome do preceptor e o local de campo de
+           estágio;
+       5) o aluno não deverá permanecer no mesmo laboratório, sob orientação
+           do mesmo professor, por mais de dois anos consecutivos, e com
+           carga horária superior a 30h semanais;
+       6) é assegurado ao estagiário, sempre que o estágio tenha duração
+           igual ou superior a um ano, período de recesso de 30 dias, a ser
+           gozado preferencialmente durante suas férias escolares. No caso
+           de períodos inferiores a um ano, o recesso deve ser proporcional;
+       7) as atividades desempenhadas durante o estágio deverão estar em
+           concordância com o plano de atividades e devem contribuir para a
+           formação acadêmica do estudante;
+       8) não serão considerados como estágio curricular não obrigatório:
+           atividades de extensão, iniciação científica (PIBIC e PIVIC),
+           monitoria e trabalho de conclusão de curso (TCC);
+       9) quando o estágio for realizado em empresas, o seguro contra
+           acidentes pessoais deve ser contratado pela empresa ou parte
+           concedente;
+       10) a empresa deverá manter um profissional capacitado da área para
+           supervisionar as atividades do aluno realizadas no local.
+      O estágio curricular não obrigatório não poderá ter menos de 40 horas
+de duração.
+
+
+REGULAMENTO DO ESTÁGIO CURRICULAR OBRIGATÓRIO DO CURSO DE
+BIOTECNOLOGIA
+       Os estágios curriculares devem ser planejados, realizados, acompanhados
+e avaliados pela instituição formadora, Universidade Federal de Goiás (UFG),
+em conformidade com o Projeto Político Pedagógico do curso de Biotecnologia/
+10                                                                  Regulamento de Estágio
+
+IPTSP, os programas, os calendários escolares, as diretrizes expedidas pelo
+Conselho de Ensino, Pesquisa, Extensão e Cultura (CEPEC) e as disposições
+previstas na Resolução CEPEC nº. 766/2005 (APÊNDICE 4).
+        O regulamento básico do estágio curricular obrigatório do curso de
+Biotecnologia/IPTSP da Universidade Federal de Goiás está incluso no Projeto
+Político Pedagógico do Curso, e estabelece que o bacharelando deverá
+apresentar um relatório final de atividades do campo de estágio à Coordenação
+de Estágio.
+        Este regulamento é constituído de sete capítulos: Capítulo I – Da Natureza;
+Capítulo II – Finalidades e Objetivos; Capítulo III – Das áreas e locais; Capítulo IV
+– Da supervisão; Capítulo V – Do estagiário; Capítulo VI – Do desenvolvimento
+do Estágio Curricular Obrigatório; Capítulo VII – Da Monografia.
+
+
+NORMAS DO ESTÁGIO CURRICULAR OBRIGATÓRIO
+
+1. DA NATUREZA
+       O Estágio Curricular Obrigatório do Curso de Biotecnologia faz parte
+do currículo do Curso, tem a duração de 320 horas divididas em Estágio
+Curricular I e Estágio Curricular II, e é regido pela legislação federal n0 6.494/77,
+normatizada pelo Decreto n0 87.4998/82 (APÊNDICE 5).
+
+
+2. FINALIDADES E OBJETIVOS
+      O estágio supervisionado é uma atividade curricular obrigatória que
+tem como objetivo promover o exercício prático e o aprimoramento dos
+conhecimentos técnico-científicos. O estágio tem as seguintes finalidades:
+      a) articulação da formação acadêmica com a prática profissional;
+      b) desenvolvimento da interdisciplinaridade;
+      c) aproximação da Universidade com a comunidade;
+      d) compreensão das relações no trabalho;
+      e) aperfeiçoamento e aquisição de técnicas de trabalho;
+      f) período de permanência orientada no exercício profissional.
+
+      O estágio supervisionado em Biotecnologia terá duração de 320 horas, a
+serem cumpridas como disciplinas obrigatórias nos 7º e 8º períodos do curso.
+Regulamento de Estágio                                                       11
+
+3. DAS ÁREAS E LOCAIS
+       Os estágios curriculares dos acadêmicos serão realizados na UFG, em
+Universidades, em Empresas, Fundações Públicas ou Privadas, Institutos de
+Pesquisa e outros locais conveniados com a UFG e relacionados com o campo
+de atuação do biotecnólogo.
+       Os locais do estágio serão definidos conjuntamente pela coordenação do
+Curso e de Estágio, com a participação do estagiário, dentre aqueles realizados
+na própria UFG e/ou em locais previamente conveniados com a mesma.
+       O estágio realizado em locais conveniados com a UFG deverá ser
+regido por termo de compromisso (ANEXO 2). As instituições concedentes
+de estágio fora da UFG deverão dispor de preceptor com curso superior para
+acompanhamento e orientação do estagiário.
+
+
+3.1. Campos de atuação do Biotecnólogo
+       O curso propõe formar profissionais competentes capazes de exercer
+atividades de nível superior com natureza especializada envolvendo supervisão,
+coordenação e execução de trabalhos, estudos e pesquisas tecnológicas.
+       Nos últimos anos, a biotecnologia tem recebido investimentos públicos
+e privados em quatro áreas principais: agricultura, insumos, saúde animal e
+saúde humana. Em função disto, o campo de atuação do biotecnólogo torna-
+se vasto, podendo atuar em áreas como engenharia genética, bioinformática,
+bioprospecção e biossegurança.
+       O biotecnólogo poderá atuar, dentre outras possibilidades, como segue
+abaixo:
+        a) técnico ou gerente em empresas biotecnológicas, agroindustriais,
+            de alimentos, farmacêuticas e cosméticas;
+        b) no controle de qualidade de alimentos, animais e microrganismos
+            transgênicos;
+        c) em organizações relacionadas à biotecnologia; como pesquisador
+            e/ou docente em Universidades ou Institutos de Pesquisa públicos
+            ou privados;
+        d) em biorremediação e tratamento biológico de resíduos.
+        e) no desenvolvimento e análise de processos moleculares e
+            genéticos;
+        f) no desenvolvimento de vacinas, biofármacos, imunobiológicos e
+            kits diagnósticos;
+12                                                             Regulamento de Estágio
+
+        g) no desenvolvimento e teste de biomoléculas;
+        h) podendo ainda, lidar com os desafios da biotecnologia agroindustrial
+            e ambiental.
+        O profissional deverá ser capaz de propor e desenvolver pesquisas
+relacionadas a processos e produtos inovadores no campo da biotecnologia,
+com ênfase em Ciências da Saúde. Este profissional deverá possuir espírito
+crítico com capacidade para entender o valor da pesquisa científica, seus
+benefícios e aplicações em biotecnologia. O profissional deverá ainda ser capaz
+de avaliar portfólios de empresas de biotecnologia e compreender as exigências
+para sua criação. Dessa maneira, ele poderá aplicar seus conhecimentos em
+institutos de pesquisa, universidades, laboratórios e empresas envolvidos em
+biotecnologia. Poderá também dar continuidade à sua formação acadêmica por
+meio do ingresso na pós-graduação. Finalmente, o profissional deverá conhecer
+os possíveis riscos, as normas de biossegurança e os conceitos morais e éticos
+relacionados com a Biotecnologia, em consonância com as potencialidades e a
+sustentabilidade de nossa biodiversidade.
+
+
+4. DA ORIENTAÇÃO
+       O Estágio Curricular Obrigatório do curso de Biotecnologia será
+supervisionado por uma equipe constituída por: Coordenador do Curso de
+Biotecnologia, Coordenador do Estágio, Professores de Estágio e Preceptores.
+       O Coordenador do Curso de Biotecnologia terá como atribuição, nessa
+atividade específica:
+        a) estimular o desenvolvimento do estágio;
+        b) promover a comunicação entre a Reitoria da UFG, a Diretoria
+            do Instituto de Patologia Tropical e Saúde Pública (IPTSP), e
+            os responsáveis pelos locais de estágio e comunidade, com a
+            finalidade de aprimorar o Estágio Supervisionado;
+        c) oferecer condições para a realização dos planos de atividades
+            elaborados;
+        d) em situações de ausência ou impedimento do Coordenador de
+            Estágios, suas atribuições deverão ser desempenhadas pelo
+            Coordenador de Curso.
+
+      O Coordenador de Estágios terá as seguintes atribuições:
+      a) coordenar, acompanhar e providenciar a escolha dos locais de
+Regulamento de Estágio                                                        13
+
+           estágio;
+       b) promover a comunicação entre a Reitoria da UFG, a Diretoria do
+           IPTSP, e os responsáveis pelos locais de estágio e comunidade,
+           com a finalidade de aprimorar o Estágio Supervisionado;
+       c) solicitar a assinatura de convênios e cadastrar os locais de estágio;
+       d) manter registros atualizados sobre o(s) estágio(s) no referido curso;
+       e) fornecer os documentos solicitados pela instituição/empresa
+           conveniada;
+       f) realizar o controle das documentações acadêmicas referentes ao
+           estágio;
+       g) promover o debate e a troca de experiências no próprio curso e nos
+           locais de estágio.
+      O Coordenador de Estágios terá um mandato de dois anos, com direito a
+renovação. O nome do Coordenador será indicado pela Coordenação do Curso
+e homologado no Conselho Diretor do IPTSP.
+      Os Professores Orientadores de Estágio terão como atribuições:
+       a) promover a comunicação direta entre coordenação, estagiários,
+           preceptores e comunidade;
+       b) apresentar as normas do Estágio Supervisionado para os
+           acadêmicos;
+       c) realizar debates, grupos de discussão, seminários e troca de
+           experiências entre estagiários e demais membros da equipe;
+       d) manter organizado os registros acadêmicos do sistema de avaliação
+           e frequência;
+       e) elaborar e apresentar, juntamente com preceptores, os planos de
+           atividades atualizados e específicos de cada local de estágio;
+       f) estimular a elaboração e desenvolvimento de trabalhos de conclusão
+           de curso na área de estágio.
+
+          Os Preceptores do Estágio terão como atribuições:
+          a) acolher os acadêmicos no local de estágio;
+          b) apresentar aos estagiários as normas de funcionamento da
+              instituição/empresa;
+          c) elaborar e apresentar, juntamente com Professores Supervisores de
+              Estágio, os planos de atividades atualizados e específicos de cada
+              local de estágio;
+          d) apresentar e acompanhar as atividade que deverão ser realizadas
+14                                                           Regulamento de Estágio
+
+          pelos estagiários;
+       e) manter organizado os registros acadêmicos do sistema de avaliação
+          e frequência;
+       f) sempre que possível, participar dos debates, grupos de discussão,
+          seminários e troca de experiências entre estagiários e Professores
+          Supervisores de Estágio.
+
+
+5. DO ESTAGIÁRIO
+      Considerar-se-á estagiário, o acadêmico que estiver regularmente
+matriculado de acordo com a matriz curricular do curso.
+5.1. Atribuições do Estagiário
+
+5.1.1. Dos Direitos
+      São direitos do Estagiário:
+      a) matricular-se nas disciplinas Estágio Curricular I e II;
+      b) assumir e cumprir o estágio conforme estas normas, assinando
+          o Termo de Compromisso e apresentando à Coordenadoria de
+          Estágios o seu plano de atividades;
+      c) submeter-se ao controle e avaliação estabelecidas pelas normas de
+          estágios;
+      d) receber orientação para realizar suas atividades previstas no
+          programa de estágio curricular;
+      e) solicitar à coordenação de estágio a mudança de local de estágio,
+          mediante justificativa, quando as normas estabelecidas e o
+          planejamento do estágio não estiverem sendo seguidos;
+      f) expor aos coordenadores, quaisquer problemas de ordem pessoal,
+          que dificultem ou impeçam a realização do estágio curricular, para
+          que se possa buscar soluções;
+      g) no caso de estágio fora da UFG, levar à Direção da Instituição,
+          carta expedida pela Coordenadoria de Estágios apresentando o
+          Estagiário;
+      h) o preceptor do estágio deverá ser comunicado das datas de
+          avaliações acadêmicas, visto que o estagiário deve ser dispensado
+          das atividades do estágio nestes dias;
+      i) a empresa deverá manter profissional capacitado da área para
+          supervisionar as atividades do aluno realizadas no local;
+      j) a jornada de estágio não poderá ultrapassar carga horária de 30
+Regulamento de Estágio                                                           15
+
+              horas semanais;
+           k) receber apólice de seguros contra acidentes pessoais, conforme
+              legislação vigente.
+
+
+5.1.2. Dos Deveres
+             São deveres do Estagiário:
+           a) apresentar a documentação exigida para realização do estágio;
+           b) assumir e cumprir o estágio conforme estas normas, assinando
+               o Termo de Compromisso e apresentando-o à Coordenadoria de
+               Estágios;
+           c) conhecer e cumprir as normas do estágio curricular;
+           d) redigir um relatório de atividades a cada 6 meses. Ao final do
+               estágio deverá ser encaminhado à Coordenadoria de Estágios,
+               o controle de frequência (ANEXO 3), o relatório de todas as
+               atividades desempenhadas (ANEXO 5), acompanhado da avaliação
+               do preceptor (ANEXO 6). Neste relatório deverá também constar o
+               período em que foi realizado o estágio, carga horária total, área de
+               atuação de estagiário, bem como o nome do preceptor e o local de
+               campo de estágio.
+           e) zelar e ser responsável pela manutenção das instalações e
+               equipamentos utilizados durante o estágio curricular;
+           f) respeitar a hierarquia da Universidade e dos locais de estágio,
+               obedecendo a determinações de serviços e normas locais;
+           g) manter elevado padrão de comportamento e de relações humanas
+               condizentes com as atividades que serão desenvolvidas;
+           h) elaborar e apresentar os relatórios de atividades, de acordo com as
+               normas e orientações do Professor de Estágio;
+           i) submeter-se as avaliações estabelecidas pelas normas de Estágios;
+           j) demonstrar iniciativa e sugerir inovações nas atividades
+               desenvolvidas no estágio curricular;
+           k) manter sigilo de tudo que diga respeito à documentação de uso
+               exclusivo das empresas.
+
+
+6. DO DESENVOLVIMENTO DO ESTÁGIO CURRICULAR OBRIGATÓRIO
+      Uma vez definido o local do estágio, o estagiário deve seguir os seguintes
+procedimentos:
+16                                                            Regulamento de Estágio
+
+6.1. Apresentação do Aluno no Campo de Estágio
+       Ao dirigir-se ao local de estágio, o estagiário deverá apresentar ao
+Preceptor os seguintes documentos:
+        a) a carta de apresentação do Estagiário (ANEXO 7) e carta
+           encaminhada ao supervisor visando o esclarecimento dos
+           procedimentos necessários para a realização do estágio curricular
+           (ANEXO 8);
+        b) termo de compromisso (ANEXO 2), em 3 vias, que deverá ser
+           assinado pelo estagiário e preceptor e entregue à Coordenadoria de
+           Estágios no máximo dez dias após o início do estágio;
+        c) o plano de atividades para possíveis adequações pelo Preceptor
+           (ANEXO 5). Concluídas as adequações, ele deverá ser entregue
+           ao Coordenador de Estágios no máximo dez dias após o início do
+           estágio, em 3 vias, assinado pelo estagiário e preceptor. No plano
+           de atividades deverão ser evidenciados os objetivos a serem
+           alcançados e a metodologia do trabalho.
+       No caso da Empresa exigir um plano detalhado do estágio, este deverá
+ser elaborado e uma cópia também deverá ser encaminhada ao Coordenador
+de Estágios.
+
+
+6.2. Início do estágio
+      O acadêmico deverá apresentar-se ao Preceptor na instituição/empresa
+onde será desenvolvido o estágio, na data estabelecida pelo Professor
+Supervisor de Estágio e Preceptor.
+
+
+6.3. Declaração de frequência no estágio
+       No final do período de estágio, o Preceptor encaminhará ao Coordenador
+de Estágios a Declaração de Freqüência (ANEXO 9).
+
+
+6.4. Da avaliação e aprovação do estágio curricular obrigatório
+       Será considerado aprovado na disciplina Estágio Curricular Obrigatório,
+o acadêmico que apresentar no mínimo 75% de frequência e obter média final
+6,0. Esta média será referente às notas obtidas nas atividades do Estágio
+Curricular Obrigatório e relatório de estágio.
+Regulamento de Estágio                                                          17
+
+       As notas obtidas durante o Estágio Curricular Obrigatório serão
+originadas das avaliações diárias feita pelo Preceptor, bem como dos relatórios
+de atividades, da auto-avaliação, participação, interesse e cumprimento das
+atividades propostas.
+
+
+CONSIDERAÇÕES FINAIS
+        As presentes normas deverão ser fornecidas para todos os acadêmicos
+do Curso de Biotecnologia da Universidade Federal de Goiás, no início do
+sétimo período, quando a disciplina de estágio curricular obrigatório for
+apresentada aos alunos pela Coordenação do Curso. O mesmo também deverá
+ser disponibilizado no site da UFG.
+        A oficialização do estágio curricular é de competência da Coordenação
+de Estágios, através do termo de compromisso firmado entre as partes. O aluno
+deverá matricular-se na disciplina Estágio Curricular I no sétimo período do
+curso. Terão prioridade para desenvolver o Estágio Curricular I e II os alunos que
+estivem seguindo o fluxo curricular previsto no PPC do curso de Biotecnologia.
+O estágio curricular supervisionado é obrigatório, e de carga horária mínima
+de 320 horas. O produto final deverá ser apresentado sob a forma de um
+relatório, no caso dos Estágios I e II, e de uma monografia, no caso da Iniciação
+à Pesquisa I e II. Os casos omissos às normas presentes serão resolvidos pela
+Coordenação do Curso de Biotecnologia/IPTSP da Universidade Federal de
+Goiás.
+18                                                             Regulamento de Estágio
+
+APÊNDICES E ANEXOS
+
+
+APÊNDICE 1 - Resolução CEPEC nº. 1122/2012
+
+
+                       RESOLUÇÃO - CEPEC Nº 1122
+
+
+      Aprova o novo Regulamento Geral dos Cursos de Graduação (RGCG) da
+Universidade Federal de Goiás e revoga as disposições em contrário.
+
+       O CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E CULTURA DA
+UNIVERSIDADE FEDERAL DE GOIÁS, no uso de suas atribuições legais,
+estatutárias e regimentais, reunido em sessões plenárias realizadas nos dias
+18 de maio e 9 de novembro de 2012, tendo em vista o que consta do processo
+n° 23070.008521/2008-42, R E S O L V E :
+
+     Art. 1º Aprovar o novo Regulamento Geral dos Cursos de Graduação
+(RGCG) da Universidade Federal de Goiás, na forma do anexo a esta Resoluço.
+
+      Art. 2º Esta Resolução entra em vigor conforme o disposto nos artigos
+119 e 120 do anexo desta, revogando-se as disposições em contrario.
+
+      Goiânia, 9 de novembro de 2012
+
+      Prof. Edward Madureira Brasil
+      - Reitor -
+
+                                  Seção III
+                          Do Estágio Curricular
+        Art. 18. Estagio curricular obrigatório ou não obrigatório é um
+componente da formação acadêmica, de caráter teórico-prático, que tem como
+objetivo principal proporcionar aos estudantes a aproximação com a realidade
+profissional, com vistas ao desenvolvimento de sua formação técnica, cultural,
+cientifica e pedagógica, no sentido de prepara-lo para o exercício da profissão
+Regulamento de Estágio                                                        19
+
+e cidadania.
+         § 1º O estagio curricular obrigatório e aquele que faz parte do projeto
+pedagógico de cada curso, com carga horária especificada de acordo com a
+legislação vigente.
+         § 2º O estagio curricular obrigatório será planejado, orientado,
+acompanhado e avaliado pelos professores da instituição formadora, em
+conformidade com o projeto pedagógico de cada curso, podendo contar com
+apoio, para esses fins, do preceptor ou supervisor do local em que esta sendo
+realizado o estágio.
+         § 3º O estagio curricular não obrigatório e opcional, realizado pelo
+estudante com o intuito de ampliar a formação por meio de vivência de
+experiências próprias da situação profissional, previsto no projeto pedagógico
+do curso e com carga horária registrada no histórico acadêmico.
+
+       Art. 19. Para a realização do estágio curricular obrigatório ou não
+obrigatório, será necessária a celebração de termo de compromisso entre
+o educando, a parte concedente do estágio e a instituição de ensino e a
+compatibilidade entre as atividades desenvolvidas no estágio e aquelas
+previstas no termo de compromisso.
+
+        Parágrafo único. As atividades de estágio curricular obrigatório serão
+validadas somente para o estudante que estiver devidamente matriculado na
+disciplina ou eixo temático/módulo de estágio e seja orientado por um professor
+do curso.
+
+       Art. 20. O estágio curricular – obrigatório ou não obrigatório – não cria
+vínculo empregatício com as instituições envolvidas.
+         § 1º Os estágios poderão ser realizados nas unidades acadêmicas e
+nos órgãos da UFG ou com pessoas jurídicas de direito privado e os órgãos
+da administração pública direta, autárquica e fundacional de qualquer um dos
+Poderes da União, dos Estados e Municípios e do Distrito Federal, bem como
+com profissionais liberais de nível superior devidamente registrados em seus
+respectivos conselhos de fiscalização profissional.
+         § 2º Nos estágios curriculares obrigatórios, o estagiário:
+         I - poderá receber o pagamento de bolsa da instituição na qual realiza
+o estágio;
+20                                                              Regulamento de Estágio
+
+        II - terá direito a cobertura de seguro de acidentes pessoais paga pela
+UFG.
+         § 3º Nos estágios curriculares não obrigatórios, o estagiário receberá
+o pagamento de bolsa estágio ou outra forma de contraprestação que venha a
+ser acordada, bem como auxílio transporte e seguro pago pela instituição na
+qual realiza o estágio.
+
+        Art. 21. O estágio curricular obrigatório será desenvolvido em forma
+de disciplina(s) ou eixo(s) temático(s)/módulo(s) mediante atividades
+desenvolvidas em campo específico de atuação do profissional, de acordo com
+o proposto no projeto pedagógico do curso.
+         § 1º A carga horária e o núcleo da(s) disciplina(s) ou do(s) eixo(s)
+temático(s)/módulo(s) de estágio serão definidos no PPC, respeitando-se o
+limite máximo de seis (6) horas diárias e trinta (30) horas semanais.
+         § 2º Para os cursos que prevêem estágio(s) sem a presença de
+disciplinas ou eixos temáticos/módulos no mesmo período letivo, a carga
+horária poderá ser de até quarenta (40) horas semanais.
+         § 3º Para os cursos que alternam teoria e prática nos períodos em que
+não estão programadas aulas presenciais, o estágio poderá ter uma jornada
+superior a trinta (30) horas semanais, conforme legislação em vigor e desde
+que esteja previsto no PPC do curso.
+
+       Art. 22. A periodicidade de disciplina ou eixo temático/módulo de estágio
+curricular obrigatório será definida no projeto pedagógico de cada curso de
+graduação.
+         § 1º De acordo com a demanda, a coordenadoria do curso inscreverá
+o estudante na disciplina ou no eixo temático/módulo de estágio curricular
+obrigatório, especificando as datas de início e término, professor orientador e
+local do estágio.
+         § 2º A inscrição em estágio curricular obrigatório deverá ser realizada
+com o mínimo de quinze (15) dias de antecedência ao início do estágio.
+         § 3º A coordenação de estágios registrará a nota final e frequência do
+estudante em disciplinas ou eixos temáticos/módulos de estágios curriculares
+obrigatórios.
+       Art. 23. Nos estágios curriculares, caberá a UFG exercer as atividades
+de planejamento, acompanhamento e avaliação.
+Regulamento de Estágio                                                       21
+
+       Art. 24. A PROGRAD será responsável pela coordenação geral dos
+estágios dos cursos.
+
+       Parágrafo único. O coordenador geral de estágios da PROGRAD terá as
+seguintes atribuições:
+       I - coordenar e avaliar a política de estágios da UFG;
+       II - supervisionar o cumprimento das normas estabelecidas pelas
+instâncias competentes;
+       III - apoiar os coordenadores de estágios dos cursos em assuntos
+referentes a realização de estágios e na garantia de sua qualidade;
+       IV - acompanhar o processo de estágio, promovendo troca de
+experiências e incentivando atividades integradas;
+       V - promover a divulgação de experiências de estágio na comunidade
+universitária e para o público em geral;
+       VI - analisar propostas de convênio e de termos aditivos;
+       VII - manter arquivos atualizados sobre legislação, convênios e outros
+documentos de estágios na UFG.
+
+       Art. 25. Caberá ao conselho diretor da unidade a designação de, pelo
+menos, um coordenador de estágio por curso.
+         § 1º O coordenador de estágio de cada curso terá as seguintes
+atribuições:
+         I - articular a elaboração de regulamento que atenda a especificidade
+de cada curso para o desenvolvimento do estágio, respeitando-se o Estatuto e
+Regimento da UFG, resolução específica e a legislação vigente;
+         II - coordenar, acompanhar e providenciar a escolha dos locais de
+estágio;
+         III - captar locais de estágio e solicitar a assinatura de convênios;
+         IV - apoiar o planejamento, o acompanhamento e a avaliação das
+atividades de estágio;
+         V - promover o debate e a troca de experiências no próprio curso e nos
+locais de estágio;
+         VI - manter documentos atualizados e arquivados relativos ao(s)
+estágio(s) no respectivo curso, por período não inferior a cinco anos;
+22                                                                Regulamento de Estágio
+
+         VII - manter atualizada a lista de estagiários com respectivos campos
+de estágio;
+         VIII - assinar e carimbar o termo de compromisso do estudante; na sua
+ausência, delegar ao coordenador de curso esta atribuição.
+         § 2º O professor orientador de estágio terá as seguintes atribuições:
+         I - auxiliar o estudante na escolha dos locais de estágio em conjunto
+com o coordenador de estágio;
+         II - planejar, acompanhar, orientar e avaliar as atividades de estágio
+juntamente com o estagiário e o preceptor/supervisor/profissional colaborador
+do local do estágio.
+         § 3º O estagiário terá as seguintes atribuições:
+         I - participar do planejamento do estágio e do processo de avaliação de
+seu desempenho;
+         II - seguir o regulamento estabelecido para o estágio;
+         III - elaborar e entregar relatório sobre seu estágio, na forma, no prazo
+e nos padrões estabelecidos no regulamento de estágio;
+         IV - atender ao estabelecido no termo de compromisso, assinado por
+ocasião do início do estágio;
+         V - entregar, na coordenação de estágio do curso, uma via do termo de
+       compromisso de estágio com todas as assinaturas exigidas e respectivos
+carimbos.
+         § 4º O estágio será interrompido:
+         I - automaticamente, ao término do compromisso;
+         II - por abandono do estagiário do local de estágio, conforme disposto
+no termo de compromisso;
+         III - quando o estudante concluir a carga horária mínima dos núcleos e
+das disciplinas ou dos eixos temáticos/módulos obrigatórios previstos no seu
+curso;
+         IV - quando o estudante for excluído do quadro discente da UFG;
+         V - a pedido do estagiário, mediante justificativa que será analisada
+pelo coordenador de estágio do curso e pelo orientador;
+         VI - quando o estagiário tiver comportamento funcional ou social
+incompatível com as normas éticas e administrativas do local de estágio;
+         VII - se comprovada a falta de compromisso do estagiário nas
+Regulamento de Estágio                                                      23
+
+atividades desenvolvidas, depois de decorrida a terça parte do tempo previsto
+para a sua duração;
+         VIII - quando o estagiário deixar de cumprir o disposto no Termo de
+Compromisso;
+         IX - quando as instituições conveniadas deixarem de cumprir o
+disposto no Termo de Compromisso.
+
+       Art. 26. O estudante poderá solicitar mudança de local de estágio,
+mediante justificativa que será analisada pelo coordenador de estágio do curso
+e pelo orientador.
+
+      Art. 27. O estágio curricular não obrigatório não poderá ser aproveitado
+como estágio curricular obrigatório.
+24                                                             Regulamento de Estágio
+
+APÊNDICE 2 – Lei Nº 11.788, de 25 de setembro de 2008.
+                        Presidência da República
+                                Casa Civil
+                    Subchefia para Assuntos Jurídicos
+
+      LEI Nº 11.788, DE 25 DE SETEMBRO DE 2008.
+                       Dispõe sobre o estágio de estudantes; altera a redação
+                       do art. 428 da Consolidação das Leis do Trabalho – CLT,
+                       aprovada pelo Decreto-Lei no 5.452, de 1o de maio de
+                       1943, e a Lei no 9.394, de 20 de dezembro de 1996;
+                       revoga as Leis nos 6.494, de 7 de dezembro de 1977,
+                       e 8.859, de 23 de março de 1994, o parágrafo único do
+                       art. 82 da Lei no 9.394, de 20 de dezembro de 1996, e
+                       o art. 6o da Medida Provisória no 2.164-41, de 24 de
+                       agosto de 2001; e dá outras providências.
+      O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional
+decreta e eu sanciono a seguinte Lei:
+
+                                 CAPÍTULO I
+       DA DEFINIÇÃO, CLASSIFICAÇÃO E RELAÇÕES DE ESTÁGIO
+       Art. 1o Estágio é ato educativo escolar supervisionado, desenvolvido
+no ambiente de trabalho, que visa à preparação para o trabalho produtivo
+de educandos que estejam freqüentando o ensino regular em instituições de
+educação superior, de educação profissional, de ensino médio, da educação
+especial e dos anos finais do ensino fundamental, na modalidade profissional
+da educação de jovens e adultos.
+       § 1o O estágio faz parte do projeto pedagógico do curso, além de
+integrar o itinerário formativo do educando.
+       § 2o O estágio visa ao aprendizado de competências próprias da atividade
+profissional e à contextualização curricular, objetivando o desenvolvimento do
+educando para a vida cidadã e para o trabalho.
+       Art. 2o O estágio poderá ser obrigatório ou não-obrigatório, conforme
+determinação das diretrizes curriculares da etapa, modalidade e área de ensino
+e do projeto pedagógico do curso.
+       § 1o Estágio obrigatório é aquele definido como tal no projeto do curso,
+cuja carga horária é requisito para aprovação e obtenção de diploma.
+Regulamento de Estágio                                                         25
+
+       § 2o Estágio não-obrigatório é aquele desenvolvido como atividade
+opcional, acrescida à carga horária regular e obrigatória.
+       § 3o As atividades de extensão, de monitorias e de iniciação científica
+na educação superior, desenvolvidas pelo estudante, somente poderão ser
+equiparadas ao estágio em caso de previsão no projeto pedagógico do curso.
+       Art. 3o O estágio, tanto na hipótese do § 1o do art. 2o desta Lei quanto
+na prevista no § 2o do mesmo dispositivo, não cria vínculo empregatício de
+qualquer natureza, observados os seguintes requisitos:
+       I – matrícula e freqüência regular do educando em curso de educação
+superior, de educação profissional, de ensino médio, da educação especial e
+nos anos finais do ensino fundamental, na modalidade profissional da educação
+de jovens e adultos e atestados pela instituição de ensino;
+       II – celebração de termo de compromisso entre o educando, a parte
+concedente do estágio e a instituição de ensino;
+       III – compatibilidade entre as atividades desenvolvidas no estágio e
+aquelas previstas no termo de compromisso.
+       § 1o O estágio, como ato educativo escolar supervisionado, deverá ter
+acompanhamento efetivo pelo professor orientador da instituição de ensino
+e por supervisor da parte concedente, comprovado por vistos nos relatórios
+referidos no inciso IV do caput do art. 7o desta Lei e por menção de aprovação
+final.
+       § 2o O descumprimento de qualquer dos incisos deste artigo ou de
+qualquer obrigação contida no termo de compromisso caracteriza vínculo de
+emprego do educando com a parte concedente do estágio para todos os fins
+da legislação trabalhista e previdenciária.
+       Art. 4o A realização de estágios, nos termos desta Lei, aplica-se aos
+estudantes estrangeiros regularmente matriculados em cursos superiores no
+País, autorizados ou reconhecidos, observado o prazo do visto temporário de
+estudante, na forma da legislação aplicável.
+       Art. 5o As instituições de ensino e as partes cedentes de estágio podem,
+a seu critério, recorrer a serviços de agentes de integração públicos e privados,
+mediante condições acordadas em instrumento jurídico apropriado, devendo
+ser observada, no caso de contratação com recursos públicos, a legislação que
+estabelece as normas gerais de licitação.
+       § 1o Cabe aos agentes de integração, como auxiliares no processo de
+aperfeiçoamento do instituto do estágio:
+26                                                               Regulamento de Estágio
+
+       I – identificar oportunidades de estágio;
+       II – ajustar suas condições de realização;
+       III – fazer o acompanhamento administrativo;
+       IV – encaminhar negociação de seguros contra acidentes pessoais;
+       V – cadastrar os estudantes.
+       § 2o  É vedada a cobrança de qualquer valor dos estudantes, a título de
+remuneração pelos serviços referidos nos incisos deste artigo.
+       § 3o Os agentes de integração serão responsabilizados civilmente se
+indicarem estagiários para a realização de atividades não compatíveis com a
+programação curricular estabelecida para cada curso, assim como estagiários
+matriculados em cursos ou instituições para as quais não há previsão de
+estágio curricular.
+       Art. 6o O local de estágio pode ser selecionado a partir de cadastro de
+partes cedentes, organizado pelas instituições de ensino ou pelos agentes de
+integração.
+                                  CAPÍTULO II
+                        DA INSTITUIÇÃO DE ENSINO
+       Art. 7o São obrigações das instituições de ensino, em relação aos
+estágios de seus educandos:
+       I – celebrar termo de compromisso com o educando ou com seu
+representante ou assistente legal, quando ele for absoluta ou relativamente
+incapaz, e com a parte concedente, indicando as condições de adequação do
+estágio à proposta pedagógica do curso, à etapa e modalidade da formação
+escolar do estudante e ao horário e calendário escolar;
+       II – avaliar as instalações da parte concedente do estágio e sua
+adequação à formação cultural e profissional do educando;
+       III – indicar professor orientador, da área a ser desenvolvida no estágio,
+como responsável pelo acompanhamento e avaliação das atividades do
+estagiário;
+       IV – exigir do educando a apresentação periódica, em prazo não superior
+a 6 (seis) meses, de relatório das atividades;
+       V – zelar pelo cumprimento do termo de compromisso, reorientando o
+estagiário para outro local em caso de descumprimento de suas normas;
+       VI – elaborar normas complementares e instrumentos de avaliação dos
+estágios de seus educandos;
+Regulamento de Estágio                                                        27
+
+        VII – comunicar à parte concedente do estágio, no início do período
+letivo, as datas de realização de avaliações escolares ou acadêmicas.
+        Parágrafo único. O plano de atividades do estagiário, elaborado em
+acordo das 3 (três) partes a que se refere o inciso II do caput do art. 3o desta
+Lei, será incorporado ao termo de compromisso por meio de aditivos à medida
+que for avaliado, progressivamente, o desempenho do estudante.
+        Art. 8o É facultado às instituições de ensino celebrar com entes
+públicos e privados convênio de concessão de estágio, nos quais se explicitem
+o processo educativo compreendido nas atividades programadas para seus
+educandos e as condições de que tratam os arts. 6o a 14 desta Lei.
+        Parágrafo único. A celebração de convênio de concessão de estágio
+entre a instituição de ensino e a parte concedente não dispensa a celebração
+do termo de compromisso de que trata o inciso II do caputdo art. 3o desta Lei.
+
+                                CAPÍTULO III
+                          DA PARTE CONCEDENTE
+       Art. 9o As pessoas jurídicas de direito privado e os órgãos da
+administração pública direta, autárquica e fundacional de qualquer dos
+Poderes da União, dos Estados, do Distrito Federal e dos Municípios, bem
+como profissionais liberais de nível superior devidamente registrados em seus
+respectivos conselhos de fiscalização profissional, podem oferecer estágio,
+observadas as seguintes obrigações:
+       I – celebrar termo de compromisso com a instituição de ensino e o
+educando, zelando por seu cumprimento;
+       II – ofertar instalações que tenham condições de proporcionar ao
+educando atividades de aprendizagem social, profissional e cultural;
+       III – indicar funcionário de seu quadro de pessoal, com formação
+ou experiência profissional na área de conhecimento desenvolvida no
+curso do estagiário, para orientar e supervisionar até 10 (dez) estagiários
+simultaneamente;
+       IV – contratar em favor do estagiário seguro contra acidentes pessoais,
+cuja apólice seja compatível com valores de mercado, conforme fique
+estabelecido no termo de compromisso;
+       V – por ocasião do desligamento do estagiário, entregar termo de
+realização do estágio com indicação resumida das atividades desenvolvidas,
+dos períodos e da avaliação de desempenho;
+28                                                               Regulamento de Estágio
+
+       VI – manter à disposição da fiscalização documentos que comprovem a
+relação de estágio;
+       VII – enviar à instituição de ensino, com periodicidade mínima de 6 (seis)
+meses, relatório de atividades, com vista obrigatória ao estagiário.
+       Parágrafo único. No caso de estágio obrigatório, a responsabilidade pela
+contratação do seguro de que trata o inciso IV do caput deste artigo poderá,
+alternativamente, ser assumida pela instituição de ensino.
+
+                                 CAPÍTULO IV
+                               DO ESTAGIÁRIO
+       Art. 10. A jornada de atividade em estágio será definida de comum
+acordo entre a instituição de ensino, a parte concedente e o aluno estagiário
+ou seu representante legal, devendo constar do termo de compromisso ser
+compatível com as atividades escolares e não ultrapassar:
+       I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de
+estudantes de educação especial e dos anos finais do ensino fundamental, na
+modalidade profissional de educação de jovens e adultos;
+       II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de
+estudantes do ensino superior, da educação profissional de nível médio e do
+ensino médio regular.
+       § 1o O estágio relativo a cursos que alternam teoria e prática, nos
+períodos em que não estão programadas aulas presenciais, poderá ter jornada
+de até 40 (quarenta) horas semanais, desde que isso esteja previsto no projeto
+pedagógico do curso e da instituição de ensino.
+       § 2o Se a instituição de ensino adotar verificações de aprendizagem
+periódicas ou finais, nos períodos de avaliação, a carga horária do estágio será
+reduzida pelo menos à metade, segundo estipulado no termo de compromisso,
+para garantir o bom desempenho do estudante.
+       Art. 11. A duração do estágio, na mesma parte concedente, não poderá
+exceder 2 (dois) anos, exceto quando se tratar de estagiário portador de
+deficiência.
+       Art. 12. O estagiário poderá receber bolsa ou outra forma de
+contraprestação que venha a ser acordada, sendo compulsória a sua concessão,
+bem como a do auxílio-transporte, na hipótese de estágio não obrigatório.
+       § 1o A eventual concessão de benefícios relacionados a transporte,
+Regulamento de Estágio                                                       29
+
+alimentação e saúde, entre outros, não caracteriza vínculo empregatício.
+       § 2o Poderá o educando inscrever-se e contribuir como segurado
+facultativo do Regime Geral de Previdência Social.
+       Art. 13. É assegurado ao estagiário, sempre que o estágio tenha duração
+igual ou superior a 1 (um) ano, período de recesso de 30 (trinta) dias, a ser
+gozado preferencialmente durante suas férias escolares.
+       § 1o O recesso de que trata este artigo deverá ser remunerado quando
+o estagiário receber bolsa ou outra forma de contraprestação.
+       § 2o Os dias de recesso previstos neste artigo serão concedidos de
+maneira proporcional, nos casos de o estágio ter duração inferior a 1 (um) ano.
+       Art. 14. Aplica-se ao estagiário a legislação relacionada à saúde e
+segurança no trabalho, sendo sua implementação de responsabilidade da parte
+concedente do estágio.
+
+                                CAPÍTULO V
+                             DA FISCALIZAÇÃO
+       Art. 15. A manutenção de estagiários em desconformidade com esta
+Lei caracteriza vínculo de emprego do educando com a parte concedente do
+estágio para todos os fins da legislação trabalhista e previdenciária.
+       § 1o A instituição privada ou pública que reincidir na irregularidade
+de que trata este artigo ficará impedida de receber estagiários por 2 (dois)
+anos, contados da data da decisão definitiva do processo administrativo
+correspondente.
+       § 2o A penalidade de que trata o § 1o deste artigo limita-se à filial ou
+agência em que for cometida a irregularidade.
+
+                                CAPÍTULO VI
+                         DAS DISPOSIÇÕES GERAIS
+       Art. 16. O termo de compromisso deverá ser firmado pelo estagiário
+ou com seu representante ou assistente legal e pelos representantes legais da
+parte concedente e da instituição de ensino, vedada a atuação dos agentes de
+integração a que se refere o art. 5o desta Lei como representante de qualquer
+das partes.
+       Art. 17. O número máximo de estagiários em relação ao quadro de
+pessoal das entidades concedentes de estágio deverá atender às seguintes
+30                                                                    Regulamento de Estágio
+
+proporções:
+       I – de 1 (um) a 5 (cinco) empregados: 1 (um) estagiário;
+       II – de 6 (seis) a 10 (dez) empregados: até 2 (dois) estagiários;
+       III – de 11 (onze) a 25 (vinte e cinco) empregados: até 5 (cinco)
+estagiários;
+       IV – acima de 25 (vinte e cinco) empregados: até 20% (vinte por cento)
+de estagiários.
+       § 1o Para efeito desta Lei, considera-se quadro de pessoal o conjunto de
+trabalhadores empregados existentes no estabelecimento do estágio.
+       § 2o Na hipótese de a parte concedente contar com várias filiais ou
+estabelecimentos, os quantitativos previstos nos incisos deste artigo serão
+aplicados a cada um deles.
+       § 3o Quando o cálculo do percentual disposto no inciso IV do caput deste
+artigo resultar em fração, poderá ser arredondado para o número inteiro
+imediatamente superior.
+       § 4o Não se aplica o disposto no caput deste artigo aos estágios de
+nível superior e de nível médio profissional.
+       § 5o Fica assegurado às pessoas portadoras de deficiência o percentual
+de 10% (dez por cento) das vagas oferecidas pela parte concedente do estágio.
+       Art. 18. A prorrogação dos estágios contratados antes do início da
+vigência desta Lei apenas poderá ocorrer se ajustada às suas disposições.
+       Art. 19. O art. 428 da Consolidação das Leis do Trabalho – CLT, aprovada
+pelo Decreto-Lei no 5.452, de 1o de maio de 1943, passa a vigorar com as
+seguintes alterações:
+       “Art. 428. ......................................................................
+       § 1o  A validade do contrato de aprendizagem pressupõe anotação na
+Carteira de Trabalho e Previdência Social, matrícula e freqüência do aprendiz
+na escola, caso não haja concluído o ensino médio, e inscrição em programa
+de aprendizagem desenvolvido sob orientação de entidade qualificada em
+formação técnico-profissional metódica.
+       ......................................................................
+       § 3o  O contrato de aprendizagem não poderá ser estipulado por mais
+de 2 (dois) anos, exceto quando se tratar de aprendiz portador de deficiência.
+       ......................................................................
+       § 7o  Nas localidades onde não houver oferta de ensino médio para
+Regulamento de Estágio                                                      31
+
+o cumprimento do disposto no § 1o deste artigo, a contratação do aprendiz
+poderá ocorrer sem a freqüência à escola, desde que ele já tenha concluído o
+ensino fundamental.” (NR)
+       Art. 20. O art. 82 da Lei no 9.394, de 20 de dezembro de 1996, passa a
+vigorar com a seguinte redação:
+       “Art. 82.  Os sistemas de ensino estabelecerão as normas de realização
+de estágio em sua jurisdição, observada a lei federal sobre a matéria.
+       Parágrafo único. (Revogado).” (NR)
+       Art. 21. Esta Lei entra em vigor na data de sua publicação.
+       Art. 22. Revogam-se as Leis nos 6.494, de 7 de dezembro de 1977,
+e 8.859, de 23 de março de 1994, o parágrafo único do art. 82 da Lei no 9.394,
+de 20 de dezembro de 1996, e o art. 6o da Medida Provisória no 2.164-41, de
+24 de agosto de 2001.
+       Brasília, 25 de setembro de 2008; 187o da Independência e 120o da
+República.
+
+          LUIZ INÁCIO LULA DA SILVA
+          Fernando Haddad
+          André Peixoto Figueiredo Lima
+          Este texto não substitui o publicado no DOU de 26.9.2008
+32                                         Regulamento de Estágio
+
+APÊNDICE 3. Resolução CEPEC nº. 654/2004
+Regulamento de Estágio                                                         33
+
+APÊNDICE 4. Resolução CEPEC 766/2005
+
+
+                            MINISTÉRIO DA EDUCAÇÃO
+                         UNIVERSIDADE FEDERAL DE GOIÁS
+                            RESOLUÇÃO CEPEC Nº 766
+
+
+                           Disciplina os estágios curriculares Obrigatórios e não
+                           obrigatórios dos Cursos de Bacharelado e Específicos
+                           da Profissão na Universidade Federal de Goiás.
+
+       O CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E CULTURA DA
+UNIVERSIDADE FEDERAL DE GOIÁS - CEPEC, reunido em sessão plenária
+realizada no dia 6 de dezembro de 2005, tendo em vista o constante no Processo
+nº 23070.012924/2004-62,
+
+          R E S O L V E:
+
+        Art. 1º - Os estágios curriculares obrigatórios e não obrigatórios
+de estudantes dos Cursos de Bacharelado e Específicos da Profissão da
+Universidade Federal de Goiás, realizados nas suas dependências ou em
+instituições externas, nos termos da Lei 6.494/77, do Decreto nº 87.497/82,
+com as alterações determinadas pela Lei 9.394/96, serão regidos pela presente
+resolução.
+        Parágrafo único - A Universidade poderá oferecer estágios curriculares
+para estudantes de graduação da UFG, para alunos de ensino médio, técnico
+ou profissionalizante, e de outras instituições de ensino, regularmente
+matriculados, na forma desta resolução.
+        Art. 2º - O estágio é um componente curricular de caráter teórico-prático
+        que tem como objetivo principal proporcionar aos alunos a aproximação
+com a realidade profissional, com vistas ao aperfeiçoamento técnico, cultural,
+científico e pedagógico de sua formação acadêmica, no sentido de prepará-lo
+para o exercício da profissão e cidadania.
+        Parágrafo único - Os estágios curriculares devem ser planejados,
+realizados, acompanhados e avaliados pelas instituições formadoras, em
+conformidade com o projeto político-pedagógico de cada curso, os programas,
+34                                                               Regulamento de Estágio
+
+os calendários escolares, as diretrizes expedidas pelo Conselho de Ensino,
+Pesquisa, Extensão e Cultura – CEPEC e as disposições previstas nesta
+resolução.
+        Art. 3º - Nos termos da lei, o estágio curricular não cria vínculo
+empregatício, podendo o estagiário receber bolsa de estágio, estar segurado
+contra acidentes e ter a cobertura previdenciária prevista na legislação
+específica, observadas as disposições desta resolução pertinentes a cada
+modalidade específica de estágio.
+        Art. 4º - A jornada de atividade em estágio curricular, a ser cumprida
+pelo estudante, deverá compatibilizar-se com o seu horário escolar, conforme
+o Art. 5º da Lei nº 6.494, de 07/12/77, e com o funcionamento do órgão ou
+entidade concedente do estágio.
+        Parágrafo único - Nos períodos de férias escolares, a jornada de estágio
+poderá ser de até 30 (trinta) horas semanais, estabelecida em comum acordo
+entre o estagiário e a parte concedente do estágio, com a ciência da instituição
+de ensino.
+        Art. 5º - Os estágios curriculares obrigatórios para os alunos da
+Universidade serão definidos de acordo com o projeto político-pedagógico de
+cada curso.
+        Parágrafo único - Estágios curriculares obrigatórios de alunos de outras
+instituições de ensino a serem realizados na UFG serão definidos no projeto
+político-pedagógico dos cursos das instituições de origem.
+        Art. 6º - Os estágios curriculares obrigatórios de alunos da Universidade
+Federal de Goiás realizados em unidades ou órgãos da própria UFG, observarão
+as seguintes disposições:
+        I. o aluno firmará termo de compromisso no ato da matrícula na disciplina
+de estágio, atestando ciência do seu programa, que consistirá no plano de
+estágio;
+        II. a Unidade encaminhará a relação de alunos matriculados na
+disciplina de estágio curricular obrigatório à Pró-Reitoria de Administração e
+Finanças - PROAD, para inclusão em apólice coletiva de seguro de acidentes,
+que será custeada pela Universidade;
+        III. a orientação, o acompanhamento, a supervisão e a avaliação das
+atividades de estágio curricular obrigatório serão computadas na carga horária
+dos docentes responsáveis, observado o limite fixado na regulamentação
+específica.
+Regulamento de Estágio                                                           35
+
+       Art. 7º - Estágios curriculares não obrigatórios são aqueles realizados
+pelos estudantes com o intuito de ampliar a formação por meio de vivência
+de experiências próprias da situação profissional, sem previsão expressa no
+respectivo projeto políticopedagógico.
+       Art. 8º - Os estágios curriculares não obrigatórios de aluno da
+Universidade Federal de Goiás, realizados na própria UFG, observarão as
+seguintes disposições:
+       I. o aluno firmará termo de compromisso com a Unidade ou órgão
+concedente do estágio, de acordo com o estabelecido plano de estágio;
+       II. o estagiário será incluído na apólice de seguro de acidentes pessoais
+coletiva custeada pela Universidade.
+       Art. 9º- A realização de estágio curricular obrigatório ou não obrigatório,
+por aluno da UFG fora da Universidade, observará as disposições deste artigo:
+       I. será firmado convênio para a concessão de estágio curricular entre
+a Universidade e o órgão, entidade ou empresa que concede o estágio, com
+prazo de vigência de no máximo cinco anos;
+       II. o estudante firmará termo de compromisso com o órgão, entidade ou
+empresa concedente do estágio que será acompanhado pela Coordenação de
+Estágio do Curso ou, alternativamente, tratando-se de estágios não obrigatórios,
+pelo docente supervisor por ela designado;
+       III. o estagiário deverá estar segurado contra acidentes pessoais, na
+apólice coletiva da Universidade;
+       IV. ao término do período de estágio obrigatório, o estagiário encaminhará
+à Coordenação de Estágio do Curso o relatório final que deverá ser apreciado
+por uma banca constituída por professores da instituição;
+       V. O Projeto Político Pedagógico do Curso poderá prever outras
+modalidades de avaliação do estágio obrigatório;
+       VI. Os resultados das atividades de estágios curriculares deverão ser
+objeto de debate em eventos acadêmicos.
+       Art. 10 - As especificidades do estágio de cada campo de estágio serão
+       definidas nas regulamentações internas das Unidades ou Órgãos de
+vinculação do estágio.
+       Art. 11 - A realização de estágio curricular obrigatório ou não obrigatório,
+de aluno de outras instituições na Universidade Federal de Goiás, obedecerá
+às        seguintes normas:
+       I. a aceitação de estagiários de outras instituições de ensino na
+36                                                               Regulamento de Estágio
+
+Universidade dependerá da celebração prévia de convênio para esse fim, com
+prazo de vigência determinado e limitado a cinco anos, no máximo;
+        II. o estagiário assinará termo de compromisso com a UFG, de acordo
+com o estabelecido no plano de estágio;
+        III. a Instituição ou órgão de origem do aluno providenciará, às suas
+custas, o seguro de acidentes pessoais, em favor do estagiário.
+        Art. 12 - A UFG poderá firmar convênios com agentes de integração para
+        colocação de estudantes em vagas cadastradas por aquelas instituições,
+na forma da legislação vigente.
+        § 1º - A Universidade exercerá as atividades de planejamento, supervisão,
+acompanhamento e avaliação de estágio curricular não obrigatório, cabendo
+aos agentes externos de integração tão somente as funções administrativas e
+de oferecimento de vagas de estágio, com base nos seus cadastros;
+        § 2º - Ao final de cada ano, o agente externo de integração encaminhará
+relatório à Unidade, que dele dará ciência à Pró-Reitoria de Administração e
+Finanças - PROAD e à Pró-Reitoria de Graduação - PROGRAD, informando os
+estágios intermediados e as suas condições, bem como os valores das bolsas
+pagas, no caso dos estágios remunerados;
+        § 3º - Anualmente, o agente externo de integração recolherá à
+UNIVERSIDADE FEDERAL DE GOIAS/PROAD taxa de 5%, calculada sobre o total
+das bolsas pagas aos estagiários, cujo montante será destinado ao Fundo de
+Seguros.
+        Art. 13 - Os casos omissos serão resolvidos pelo plenário do CEPEC.
+        Art. 14 - Esta resolução entra em vigor nesta data, revogadas as
+disposições em contrário.
+
+
+
+       Goiânia, 6 de dezembro de 2005.
+
+
+
+       Profª. Drª. Milca Severino Pereira
+       Presidente
+Regulamento de Estágio                                                        37
+
+APÊNDICE 5. LEI N.º 6494 DE 07 DE DEZEMBRO DE 1977
+
+
+     DISPÕE SOBRE OS ESTÁGIOS DE ESTUDANTES DE ESTABELECIMENTOS
+DE ENSINO SUPERIOR E DE ENSINO PROFISSIONALIZANTE DO 2º GRAU E
+SUPLETIVO E DÁ OUTRAS PROVIDÊNCIAS
+     O Presidente da República,
+
+          Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte
+lei:
+
+        Art. 1º - As pessoas Jurídicas de Direito Privado, os Órgãos da
+Administração Pública e as Instituições de Ensino podem aceitar como
+estagiários, alunos regularmente matriculados e que venham freqüentar,
+efetivamente, cursos vinculados à estrutura de ensino público e particular os
+níveis profissionalizantes de 2º Grau e Supletivo.
+        § 1º - O estágio somente poderá verificar-se em unidades que tenham
+condições de proporcionar experiências práticas na linha de formação, devendo,
+o estudante, para esse fim, estar em condições de estagiar, segundo disposto
+na regulamentação da presente lei.
+        § 2º - Os estagiários devem propiciar a complementação do ensino
+e da aprendizagem a serem planejados, acompanhados e avaliados em
+conformidade com os currículos, programas e calendários, a fim de se
+constituírem em instrumentos de integração, em termos de treinamento prático,
+de aperfeiçoamento técnico-cultural, científico e de relacionamento humano.
+        Art. 2º - O estágio, independentemente de aspecto profissionalizante,
+direto específico, poderá assumir a forma de atividade de extensão, mediante
+a participação do estudante em empreendimentos ou projetos de interesse
+social.
+        Art. 3º - A realização do estágio dar-se-á mediante termo de compromisso
+celebrado entre o estudante e a parte concedente, com interveniência
+obrigatória de ensino.
+        § 1º - Os estágios curriculares serão desenvolvidos de acordo com o
+disposto no parágrafo 2º do art. 1º desta lei.
+        § 2º - Os estágios realizados sob a forma de ação comunitária estão
+isentos de celebração de termo de compromisso.
+38                                                               Regulamento de Estágio
+
+        Art. 4º - O estágio não cria vínculo empregatício de qualquer natureza, e
+o estagiário poderá receber bolsa, ou outra forma de contraprestação que venha
+a ser acordada, ressalvado o dispuser a legislação previdenciária, devendo o
+estudante, em qualquer hipótese, estar assegurado contra acidentes pessoais.
+        Art. 5º - A jornada de atividade em estágio, a ser cumprida pelo
+estudante, deverá compatibilizar-se com o seu horário escolar e com o horário
+da parte em que venha a ocorrer o estágio.
+        Parágrafo Único - Nos períodos de férias escolares, a jornada de estágio
+será estabelecida de comum acordo entre o estagiário e a parte concedente de
+estágio, sempre com a interveniência da Instituição de Ensino.
+        Art. 6º - O Poder Executivo regulamentará a presente lei no prazo de 30
+(trinta) dias.
+        Art. 7º - Esta lei entrará em vigor na data de sua publicação.
+        Art. 8º - Revogam-se as disposições em contrário.
+        Brasília, em 7 de dezembro de 1977: 156º da Independência e 89º da
+República.
+
+       Ernesto Geisel - Presidente da República.
+Regulamento de Estágio                                                        39
+
+      ANEXO 1. Termo de compromisso de estágio curricular realizado
+nas dependências da UFG (disponível no link http://www.prograd.ufg.br/
+pages/16242).
+
+        ANEXO 2. Termo de compromisso de estágio curricular em Empresas/
+Instituições/Profissional Liberal (disponível no link http://www.prograd.ufg.br/
+pages/16242).
+
+       ANEXO 3. Controle de frequência (disponível no link http://www.prograd.
+ufg.br/pages/16242).
+
+       ANEXO 4. Declaração de Frequência – estágio não obrigatório (disponível
+no link http://www.prograd.ufg.br/pages/16242).
+
+     ANEXO 5. Relatório de atividades do estágio (disponível no link http://
+www.prograd.ufg.br/pages/16242).
+40                                                                       Regulamento de Estágio
+
+ANEXO 6. Ficha de avaliação do estagiário pelo Preceptor
+         FICHA DE AVALIAÇÃO DO ESTAGIÁRIO PELO SUPERVISOR
+
+
+ATRIBUIR NOTAS DE ZERO (0,0) A UM (1,0) PARA CADA SUB-ÍTEM DA
+AVALIAÇÃO
+
+Instituição Concedente do Estágio:________________________________
+Supervisor:__________________________________________________
+Estagiário:__________________________________________________
+Início:_________ Término:_________ Carga Horária total:_________horas
+
+           FATORES DE DESEMPENHO OBSERVADOS NO ESTÁGIO
+
+
+ CARACTERÍSTICAS                                                  NOTA   OBSERVAÇÃO
+ 1. Trabalho: Considerar a qualidade de trabalho e o volume de
+ atividades cumpridas dentro de um padrão razoável.
+ 2. Conhecimento: considerar se o estagiário possui os
+ conhecimentos indispensáveis para o cumprimento de tarefas.
+ Considerar se possui capacidade de compreender os princípios
+ teóricos e práticos do gerenciamento da assistência e/ou dos
+ métodos laboratoriais.
+ 3. Criatividade: considerar a capacidade de inovar a partir
+ de recursos disponíveis. Capacidade de sugerir, projetar ou
+ executar modificações ou inovações no campo de estágio
+ 4. Iniciativa e interesse: considerar a capacidade para tomada
+ de decisões frente a procedimentos de rotina e eventuais
+ intercorrências na unidade. Considerar a independência
+ demonstrada no desempenho das atividades de estágio
+ Disposição em aprender.
+ 5. Pontualidade, assiduidade e apresentação pessoal:
+ considerar a capacidade de cumprir o horário de serviço e
+ ausências ou faltas. Adequação na maneira de trajar e tratar
+ a aparência.
+ 6. Disciplina: cumprimento das normas e regulamentos internos
+ do campo de estágio Liderança: capacidade de liderar o grupo,
+ estimulando o desenvolvimento e o conhecimento.
+Regulamento de Estágio                                                         41
+
+  7. Cooporação e relacionamento interpessoal: capacidade de
+  sociabilidade e comunicação com as pessoas. Disposição para
+  cooperar com os colegas e atender prontamente as atividades
+  solicitadas
+  8. Organização: capacidade de implementação do planejamento
+  pré-estabelecido e de sugerir melhorias.
+  9. Desenvolvimento: crescimento e interesse pelo auto-
+  desenvolvimento.
+  10. Responsabilidade: capacidade de responder por suas
+  ações e tomar atitude perante os fatos. Zelo pelos materiais,
+  equipamentos e bens do campo de estágio
+
+
+_______________________________________                           ____/____/____
+Assinatura do Preceptor e Carimbo                                      Data
+42                                                         Regulamento de Estágio
+
+ANEXO 7. Carta de apresentação do Estagiário ao Preceptor, para a
+realização do estágio curricular obrigatório
+
+
+                       CARTA DE APRESENTAÇÃO
+
+
+                                     Goiânia, _______/_______/_______.
+Ilmo Sr.
+NOME DO RESPONSÁVEL
+Nome da Empresa
+Cidade, Estado
+
+      		        Prezado Senhor,
+
+      		         O Curso de Biotecnologia da Universidade Federal de Goiás
+tem a grata satisfação de apresentar à Vossa Senhoria o(a) acadêmico
+(a)______________________________, matrícula n° ________, natural de
+___________, ______, residente à _______________________________
+_, __________________________, telefone (__) _____________, Carteira
+de Identidade nº _____________, __________, CPF ________________,
+para realizar o ESTÁGIO CURRICULAR OBRIGATÓRIO nessa conceituada
+Empresa/Instituição, na área de _____________________, no período de
+___ de _______________ a ___ de _____________________ de 20___.
+        Outrossim, esclarecemos que será          elaborado um PLANO
+DE ATIVIDADES e, que o estagiário terá como Preceptor o(a) Sr(a).
+_______________________________ dessa Empresa/Institutição e como
+Coordenador de Estágio o(a) Prof(a) Dr(a)___________________________
+____ desta Universidade.
+
+        Antecipadamente agradecemos.
+        Atenciosamente,
+
+             __________________________________________
+                                  Prof(a).
+                 Coordenador(a) de Estágios de Biotecnologia
+Regulamento de Estágio                                                         43
+
+ANEXO 8. Carta encaminhada ao supervisor visando o esclarecimento dos
+procedimentos necessários para a realização do estágio curricular
+                                             Goiânia, _______/_______/_______.
+
+Ilmo Sr.
+NOME DO RESPONSÁVEL
+Nome da Empresa
+Cidade, Estado
+
+             Prezado Preceptor de Estágio,
+
+        Inicialmente, gostaríamos de agradecer a V.Sª. e a esta Empresa/
+Instituição por receber nosso acadêmico de Biotecnologia como estagiário e
+pela contribuição dada à formação profissional deste aluno. Gostaríamos, ainda,
+de detalhar alguns procedimentos a serem adotados antes, durante e após a
+realização do estágio e que, por certo, contribuirão para que sejam alcançados
+os objetivos propostos para o Estágio Curricular Obrigatório.
+        Esta é uma atividade do Curso de Biotecnologia que visa proporcionar
+a melhoria do processo ensino/aprendizagem, constituindo-se em um
+instrumento de integração Escola-Empresa, sob a forma de treinamento prático
+e aperfeiçoamento técnico-científico e sócio-cultural. O acadêmico, ao dirigir-
+se para o estágio, deverá estar portando:
+        a) a “Carta de Apresentação do Estagiário ao Preceptor, para a realização
+do estágio curricular obrigatório”;
+        b) o “Termo de Compromisso” e o “Plano de Atividades” a ser preenchido
+pelo Preceptor, com detalhamento das atividades a serem desenvolvidas
+durante o estágio. Ambos deverão ser impressos em 3 vias, assinados pelo
+preceptor e estagiário e enviados à Coordenação de Estágios de Biotecnologia
+dentro do prazo máximo de 10 dias a partir do início do estágio e;
+        c) o “Controle de Freqüência do Estagiário”, a “Declaração de
+Frequência”, e a “Ficha de Avaliação do Estagiário pelo Preceptor” que deverão
+ser devidamente preenchidos e encaminhados à essa Coordenação logo após
+a finalização do estágio.
+        Durante o estágio, o estudante terá o acompanhamento de V.Sa. como
+Preceptor e será supervisionado por um professor da Biotecnologia. O papel
+do Supervisor é o de servir de elo de ligação entre o curso de Biotecnologia,
+44                                                             Regulamento de Estágio
+
+a Empresa, a Coordenação de Estágios, o Preceptor e o Estudante. Cabe ao
+Preceptor definir e programar as atividades a serem desenvolvidas pelo
+estudante na empresa. A avaliação do estudante no estágio, com a carga
+horária total, deverá ser feita na ficha que segue em anexo, e esta encaminhada
+à Coordenação de Estágios por V.Sa., para compor a nota final do estágio
+curricular. Para esclarecimento de quaisquer dúvidas sobre a condução
+do estágio, o contato poderá ser feito com a Coordenação de Estágios da
+Biotecnologia. Ao final do estágio, o aluno deverá apresentar à Coordenação
+de Estágios de Biotecnologia um relatório completo sobre as atividades
+desenvolvidas.
+       Certos do estreitamento em nossas relações, reiteramos os votos de
+elevada estima e consideração.
+
+      Atenciosamente,
+      _________________________________
+      Prof(a).
+      Coordenador(a) de Estágios de Biotecnologia
+      Coordenação de Estágios de Biotecnologia, IPTSP/UFG. Rua 235, esq.
+com 1ª Av, S/N, Setor Universitário. Tel: (062) 3209 6361
+Regulamento de Estágio                                                   45
+
+ANEXO 9. Declaração de Frequência
+
+
+                                         Goiânia, _______/_______/_______.
+
+
+
+                                   DECLARAÇÃO
+
+
+
+       Declaro para os devidos fins que se fizerem necessários o(a) Acadêm
+ico(a)____________________________________________________
+graduando(a) do Curso de Biotecnologia da Universidade Federal de Goiás,
+realizou estágio na Instituição/Empresa ______________________________,
+na área de ___________________________, no período de ____ de _____
+de 20__ a ___ de ____ 20__, totalizando ______ horas, com freqüência de
+____%, desenvolvendo as seguintes atividades:
+       a)
+       b)
+       c)
+       d)
+
+
+
+          Atenciosamente,
+
+
+
+
+                         ________________________________
+                              Preceptor do Estágio/Carimbo
+

@@ -1,0 +1,1409 @@
+      Ministério da Educação
+    Universidade Federal de Goiás
+         Instituto de Física
+
+
+
+REGULAMENTO GERAL DE ESTÁGIO
+   CURRICULAR DO CURSO DE
+        FÍSICA MÉDICA
+
+
+
+
+               Agosto de 2017
+                                    1
+              Ministério da Educação
+           Universidade Federal de Goiás
+                 Instituto de Física
+
+
+
+
+ Coordenação de Estágios do Curso de Física Médica
+
+
+
+
+REGULAMENTO GERAL DE ESTÁGIO
+     CURRICULAR DO CURSO DE
+              FÍSICA MÉDICA
+
+
+
+
+                        2017
+
+                                                     2
+                Ministério da Educação
+           Universidade Federal de Goiás
+                    Instituto de Física
+
+
+
+
+ORIENTAÇÕES E NORMAS SOBRE O ESTÁGIO CURRICULAR
+   PARA ESTUDANTES DO CURSO BACHARELADO EM
+                      FÍSICA MÉDICA
+
+
+
+
+               PRÓ-REITORIA DE GRADUAÇÃO
+               Prédio da Reitoria - Campus Samambaia
+            Caixa Postal 131 CEP: 74001-970 - Goiânia-GO
+              Fone: (62) 3521-1070 Fax: (62) 3521-1162
+                   E-mail: prograd@prograd.ufg.br
+               Site da PROGRAD: www.prograd.ufg.br
+                      Site da UFG: www.ufg.br
+                                                           3
+UNIVERSIDADE FEDERAL DE GOIÁS
+
+
+
+
+                  Reitor
+  Prof. Dr. Orlando Afonso Valle do Amaral
+
+
+               Vice-Reitor
+     Prof. Dr. Manoel Rodrigues Chaves
+
+
+       Pró-Reitora de Graduação
+   Profª. Gisele de Araújo Prateado Gusmão
+
+
+    Coordenação de Estágio UFG
+          Profª. Telma Alves Garcia
+
+
+     Diretor do Instituto de Física
+      Prof. Dr. Tertius Lima da Fonseca
+
+
+  Vice-diretor do Instituto de Física
+      Prof. Dr. Salviano de Araújo Leão
+
+
+        Coordenadora do Curso
+   Profª. Dra. Cássia Alessandra Marquezin
+
+
+       Coordenadora de Estágio
+   Profª. Dra. Luciana Cardoso Matsushima
+
+
+                                             4
+                                                                                          SUMÁRIO
+1. INTRODUÇÃO ........................................................................................................................ 6
+2. ESTÁGIOS CURRICULARES ................................................................................................. 7
+   2.1. Modalidades de Estágios ................................................................................................................................................................ 7
+
+   2.2. Objetivos ............................................................................................................................................................................................... 8
+
+3. HABILITAÇÕES PARA A REALIZAÇÃO DOS ESTÁGIOS ................................................ 8
+   3.1. Carga Horária ...................................................................................................................................................................................... 9
+
+   3.2. Campos de Estágio .........................................................................................................................................................................10
+
+4. COORDENAÇÃO, SUPERVISÃO, ORIENTAÇÃO DE ESTÁGIO E ESTAGIÁRIO ....... 10
+   4.1. Coordenação ......................................................................................................................................................................................10
+
+   4.2. Supervisão ..........................................................................................................................................................................................10
+
+   4.3. Orientação ..........................................................................................................................................................................................11
+
+   4.4. Estagiário ...........................................................................................................................................................................................12
+
+5. DESENVOLVIMENTO DO ESTÁGIO ................................................................................ 13
+   5.1. Encaminhamento ................................................................................................................................................... 13
+
+   5.2. Plano de Atividades do estágio ............................................................................................................................. 14
+
+6. AVALIAÇÃO DO ESTÁGIO ................................................................................................... 15
+   6.1. Avaliação durante o Estágio .................................................................................................................................. 15
+
+   6.2. Avaliação pela Banca Examinadora ..................................................................................................................... 15
+
+   6.3. Relatório Final ........................................................................................................................................................ 16
+
+7. DISPOSIÇÕES GERAIS.......................................................................................................... 16
+   7.1. O que Esperar do Estágio? .................................................................................................................................... 16
+
+   7.2. Integração no Local de Estágio ............................................................................................................................ 16
+
+Anexo I: Formulário de Solicitação de Defesa de Estágio .......................................................... 18
+Anexo II: Lei de Estágio nº 11.788/2008 ...................................................................................... 19
+Anexo III: Carta de Encaminhamento ........................................................................................26
+Anexo V: Formulário de Cadastramento do Campo e do Supervisor do Estágio Curricular......28
+Anexo VI: Ficha de Avaliação do Estagiário pelo Supervisor .....................................................29
+Anexo VII: Ficha de Controle de Frequência do Estagiário .......................................................30
+Anexo VIII: Ficha de Avaliação Individual da Defesa do Relatório Final de Estágio ............... 31
+Anexo IX: Ata da Defesa de Relatório Final de Estágio..............................................................32
+Anexo X: Modelo de Relatório Final de Estágio .........................................................................33
+                                                                                                                                                                                                                5
+1. INTRODUÇÃO
+      No Estado de Goiás, o ensino superior de Física teve início em 1955, com a fundação da Escola de
+Engenharia do Brasil Central, uma das faculdades que veio a integrar poucos anos depois, em 1960, a
+Universidade Federal de Goiás (UFG). Com a implantação de institutos básicos de ensino, da Escola de
+Engenharia, conforme proposta do seu próprio Diretor, Eng. Gabriel Roriz, teve origem, em março de
+1964, o Instituto de Matemática e Física (IMF), constituído inicialmente pelo Departamento de
+Matemática e pelo Departamento de Física. Uma das finalidades do IMF, estabelecida no seu Regimento
+Interno, era a de “congregar, em um centro de ensino e pesquisa, professores especializados, de preferência
+em regime de dedicação exclusiva, a fim de promover o estudo e a pesquisa nos diversos domínios da
+Matemática e da Física”. Em 1967, dois alunos do IMF concluíram o curso de graduação, um em
+Matemática, e o outro, em Física; ambos continuam ainda em atividade de pesquisa, na própria UFG, e na
+USP-SC, respectivamente. Desde então e até 1997, o IMF foi a principal unidade de ensino no Estado de
+Goiás responsável pela formação de licenciados e bacharéis em Matemática e em Física, e também, a partir
+de 1984, pela formação de bacharéis em Ciências da Computação. As atividades de pós-graduação no IMF
+tiveram início em 1977 com a implantação do Mestrado em Matemática, e foram ampliadas em 1992 com
+a implantação do Mestrado em Física. Em 1997, de acordo com a nova estrutura de ensino e administrativa
+da UFG, o IMF foi dividido em três institutos básicos independentes, o Instituto de Matemática e
+Estatística, o Instituto de Física, e o Instituto de Informática.
+      O corpo docente inicial do antigo Departamento de Física (DF), ainda na década de 60, era
+constituído principalmente por licenciados em Física e engenheiros. Na década de 70, este quadro foi bem
+ampliado com a contratação de bacharéis em Física e o programa de qualificação docente, apoiado pela
+CAPES, permitiu que vários deles concluíssem o mestrado em outras instituições do país, e /ou inclusive
+se afastassem da UFG para a realização de doutorado no exterior. Em inícios da década de 80, o DF já era
+assim um dos departamentos mais qualificados da UFG. Ao longo da década, mais docentes concluíram
+o doutorado em outras instituições do país e ocorreu também a contratação de novos docentes doutores,
+procedentes inclusive do exterior. Além disto, a participação da UFG no acordo MEC-BID III, realizado
+ao longo dos anos 1985-1989, possibilitou a aplicação de mais de US$ 600.000,00 na importação de
+diversos equipamentos e implantação de excelentes laboratórios de ensino e pesquisa, merecendo destaque
+especial o Laboratório de Física Moderna e o Laboratório de Ressonância Magnética. É importante
+ressaltar que este processo de desenvolvimento do DF ficou bem refletido nas atividades da “Semana da
+Física”, realizada regularmente, todos os anos, desde 1984. O processo de renovação e qualificação do
+quadro docente, realizado ao longo de mais de 10 anos, acompanhado em sua etapa final pela instalação
+de infraestrutura para atividades de pesquisa, permitiu assim ao DF iniciar em 1992 as atividades de pós-
+graduação em Física.
+                                                                                                         6
+      Hoje, o Instituto de Física conta com um quadro de docentes constituído por 100% de doutores,
+além de dispor de equipamentos e infraestrutura para pesquisa de padrão internacional. Além da
+consolidação das atividades de pesquisa no Instituto de Física, o Mestrado e o Doutorado em Física vêm
+colaborando de forma marcante para a formação de recursos humanos para diversas instituições de ensino
+superior do Estado de Goiás e do Brasil. Desde sua implantação, o Programa de Pós-Graduação em Física
+do Instituto de Física da Universidade Federal de Goiás já contribuiu para a formação de dezenas de
+profissionais.
+      Com o objetivo de atender à crescente demanda de profissionais na área Biomédica e contemplar
+os pareceres do Conselho Nacional de Educação (776/97 e 538/2001), novos professores efetivos
+pesquisadores na área de Física Aplicada à Medicina e Biologia foram incorporados ao quadro de docentes
+da UFG. Da junção de toda essa conjuntura culminou com a criação do Curso de Bacharelado em Física
+Médica, sendo aprovado na 158ª Reunião do Conselho Diretor do Instituto de Física em 17 de maio de
+2012, e finalmente ratificado em reunião do CONSUNI No 22/2012 de 28 de setembro de 2012.
+      O Curso de Bacharelado em Física Médica da Universidade Federal de Goiás está sediado na cidade
+de Goiânia, sendo o primeiro na região Centro-Oeste do país. O Curso é em período integral, com duração
+média de 5 anos. Atualmente, são disponibilizadas 25 vagas.
+      O presente Regulamento objetiva normatizar o Estágio Curricular Obrigatório e Não Obrigatório
+realizado pelos discentes do curso de Física Médica, vinculados ao Instituto de Física da Universidade
+Federal de Goiás (IF/UFG), e orientar todos aqueles responsáveis e participantes. Esse documento reúne,
+sistematiza e disciplina as informações, as diretrizes e os procedimentos para o bom desempenho das
+atividades técnicas, didático-pedagógicas e administrativas, capazes de assegurar a consecução dos
+objetivos propostos para os estágios curriculares.
+
+
+2. ESTÁGIOS CURRICULARES
+2.1. Modalidades de Estágios
+Os estágios curriculares apresentam duas modalidades, a saber:
+   A) Estágio curricular não obrigatório: realizado na área da Física Médica, de livre escolha do acadêmico,
+podendo englobar atividades práticas em campos de estágio.
+   B) Estágio curricular obrigatório: desenvolvido em forma de disciplina, pertencente ao núcleo
+específico obrigatório, na área da Física Médica, de livre escolha do acadêmico, envolvendo atividades
+práticas. Essa modalidade de estágio consta de três fases:
+§ Fase pré-estágio: compreende a introdução à prática do estágio, por meio de aulas teóricas, momento em
+que o discente recebe informações a respeito da escolha do professor-orientador, do contato e escolha do
+campo de estágio, dos documentos exigidos, da condução da fase de campo, da elaboração e defesa do
+                                                                                                          7
+Relatório Final e das avaliações a que será submetido;
+§ Fase de estágio: corresponde ao momento em que, depois de finalizada a etapa anterior, estando com
+toda a documentação em mãos e autorizado pela Coordenação, o aluno se direciona ao campo de estágio
+selecionado, objetivando cumprir a carga horária mínima exigida;
+§ Fase pós-estágio: refere-se ao período em que o discente, após terminado o estágio, retorna ao IF/UFG
+e, em contato com seu orientador e supervisor, elabora e defende o Relatório Final.
+
+
+2.2. Objetivos
+§ Complementar e melhorar o processo de ensino/aprendizagem, constituindo-se em um instrumento de
+integração entre o IF, hospitais, clínicas e empresas, sob a forma de treinamento prático, aperfeiçoamento
+técnico-científico e sócio-cultural, e de relacionamento humano;
+§ À Universidade, visa oferecer subsídios à revisão de currículos, adequação de programas e atualização de
+metodologias de ensino, de modo a permitir, à instituição, uma postura realista quanto a sua contribuição
+ao desenvolvimento regional e nacional, além de melhores condições de avaliar o profissional em
+formação;
+§ Ao acadêmico, objetiva proporcionar uma visão prática do funcionamento de um hospital e/ou empresa,
+familiarizando-o com o mercado e ambiente de trabalho. Possibilita também condições de treinamento
+específico, pela aplicação, aprimoramento e complementação dos conhecimentos adquiridos, indicando
+caminhos para a identificação de preferências para campos de atividades profissionais;
+§ Para o campo de estágio, visa facilitar o recrutamento e a seleção de profissionais com os perfis
+adequados aos seus interesses, além de estimular a criação de canais de cooperação com a Universidade,
+na solução de problemas de interesse mútuo, participando de forma direta e eficaz na formação de
+profissionais de nível superior e contribuindo para melhorar a adequação da teoria/prática; além de reduzir
+o período de adaptação do profissional aos seus quadros.
+
+
+3. HABILITAÇÕES PARA A REALIZAÇÃO DOS ESTÁGIOS
+      São requisitos mínimos para realização dos estágios:
+
+A) Estágio Curricular Não Obrigatório:
+* Estar matriculado no curso de Física Médica da UFG;
+* Ter concluído todas as disciplinas, com aprovação, até as do sétimo (7º) período do curso, equivalendo
+a 2624 horas-aula em disciplinas sugeridas no fluxo curricular do projeto Pedagógico do Curso.
+* Providenciar em tempo hábil, toda a documentação necessária, contendo todas as assinaturas devidas,
+conforme orientações e formulários disponíveis no sítio da Central de Estágios da PROGRAD
+
+                                                                                                         8
+(Disponível em: https://ce.prograd.ufg.br/p/14120-formularios). Caso o link esteja indisponível ir na
+página da PROGRAD/Estágios/Formulários.
+*No caso de estágio curricular não obrigatório é necessária a contratação do seguro contra acidentes
+pessoais, cuja responsabilidade de contratação é da empresa concedente.
+
+
+
+
+B) Estágio Curricular Obrigatório:
+* Estar matriculado no curso de Física Médica da UFG e cumprir pelo menos um dos dois requisitos
+descritos nos itens I e II:
+       *I) Estar no 10º (décimo) período da grade curricular com aprovação em todas as disciplinas
+       anteriores até o 9º (nono) período (salvo em casos de transferência, alunos participantes de
+       programas de intercâmbio ou outros casos omissos).
+
+       *II) Ter concluído, no mínimo, 74% da carga horária total do curso (2702 horas), em disciplinas
+       que tenha sido aprovado. Isso corresponderá ao aluno que encontra-se no 7º (sétimo) período e
+       que seguiu o fluxo curricular sugerido, com aprovação em todas as disciplinas.
+* Ter concluído a fase de pré-estágio, referente às aulas teóricas ministradas pelo Coordenador de Estágio
+do Curso de Física Médica;
+* Caso o campo de estágio não comporte todos os estudante interessados, o critério de seleção obedecerá
+ao disposto na seção II do RGCG.
+* Ter em mãos a documentação emitida pela Coordenação de Estágios da Física Médica para esse fim.
+* Aquele discente que estiver com o curso trancado, não poderá estar como estagiário, em nenhuma das
+modalidades.
+*No caso de estágio obrigatório, o seguro contra acidentes pessoais é realizado pela própria universidade
+via PROGRAD, no ato da matrícula da disciplina.
+
+
+3.1. Carga Horária
+A) Estágio Curricular Não Obrigatório:
+      O estágio poderá ter duração máxima de 2 (dois) anos, a serem cumpridos respeitando-se os
+requisitos mínimos descritos no item 3 subitem A deste regulamento. Para efeito de cumprimento de carga
+horária serão consideradas, no máximo, 20 (vinte) horas semanais de atividades em período letivo; e, no
+máximo, 8 (oito) horas diárias de atividades e 40 (quarenta) horas semanais em período de férias. Não
+serão considerados válidos os dias de final de semana (sábado e domingo) e de feriados locais e/ou
+nacionais.
+
+                                                                                                        9
+B) Estágio Curricular Obrigatório:
+      O estágio terá carga horária de 256 (duzentas e cinquenta e seis) horas de atividades. Esta carga
+horária deverá ser cumprida de acordo com a oferta e disponibilidade do local de estágio, sendo
+consideradas, no máximo, 8 (oito) horas diárias de atividades e 40 (quarenta) horas semanais, não sendo
+considerados válidos os dias de final de semana (sábado e domingo) e de feriados locais e/ou nacionais.
+
+
+3.2. Campos de Estágio
+      Os campos de estágios podem ser constituídos por empresas, instituições de ensino, pesquisa e
+desenvolvimento tecnológico, de caráter público, privado ou de economia mista, e cooperativas. Todos
+esses devem estar devidamente conveniados com a UFG, desenvolver atividades afins à área de Física
+Médica, objeto do estágio, e dispor de profissional de nível superior nas áreas de Física Médica, para que
+possa atuar como supervisor do estagiário. Cabe, à Coordenação de Estágios, buscar o credenciamento, a
+seleção e a catalogação dos campos de estágio, oferecendo essa relação aos alunos, para a escolha e em
+tempo hábil. A solicitação dos convênios entre a UFG e as empresas interessadas caberá ao coordenador
+de estágios por meio do Setor de Convênios da UFG, respeitando-se a legislação vigente.
+
+
+4. COORDENAÇÃO, SUPERVISÃO, ORIENTAÇÃO DE ESTÁGIO E ESTAGIÁRIO
+4.1. Coordenação
+      Os estágios curriculares estão vinculados à Coordenação de Estágios do curso de Física Médica e,
+esta, por sua vez, à Coordenação do Curso de Física Médica. Recomenda-se que o coordenador de estágios
+seja professor efetivo do IF/UFG, comprometido com o projeto de estágio, cujas atribuições são:
+* Coordenar, acompanhar e providenciar, quando for o caso, a escolha do campo de estágio;
+* Incentivar a celebração de convênios e cadastrar os campos de estágio;
+* Apoiar o planejamento, acompanhamento e avaliação das atividades de estágio;
+* Promover o debate e a troca de experiências no próprio curso e nos locais de estágio;
+* Manter os registros atualizados sobre os estágios;
+* Promover a comunicação e articulação das disciplinas com o estágio curricular;
+* Reunir, periodicamente, os professores da unidade para discutir o programa de estágios, bem como a
+atuação dos alunos;
+* Responder, diante da coordenação de estágios da pró-reitoria de graduação, pelos estágios curriculares
+do curso de Física Médica.
+
+
+4.2. Supervisão
+      A pessoa do supervisor é de fundamental importância para o sucesso do estágio, visto que é por
+                                                                                                       10
+meio deste profissional que o discente tentará superar as deficiências e inseguranças que ainda o
+acompanham. As atividades diárias do estagiário serão desenvolvidas com o supervisor, com o objetivo de
+cumprir o plano de trabalho. O estágio curricular obrigatório deverá ser supervisionado obrigatoriamente
+por um profissional da área de Física Médica, vinculado ao campo de estágio. São atribuições do
+supervisor:
+* Planejar, acompanhar e avaliar as atividades de estágio, juntamente com o estagiário e o orientador;
+* Manter contatos periódicos com o orientador a respeito do estágio;
+* Remeter os documentos de estágio devidamente assinados, nos prazos estabelecidos, à Coordenação de
+Estágios da Física Médica;
+* Orientar o estagiário na elaboração do Relatório Final;
+* Participar da comissão julgadora na avaliação final do estagiário;
+* Participar de reuniões com a Coordenação de Estágios, se necessário.
+
+
+4.3. Orientação
+      O Professor-orientador é o elo entre o estagiário, a Coordenação de Estágios e o supervisor do
+acadêmico. A orientação dos alunos de estágio será realizada por um professor efetivo ou substituto do
+curso de Física Médica do IF/UFG. O Professor-orientador, o Coordenador de estágio ou qualquer outro
+Professor Efetivo ou Substituto poderá ser responsável em ministrar a disciplina de estágio. A carga horária
+dessa disciplina está definida no PPC do curso de Física Médica e a carga horária atribuída ao docente
+responsável em ministrar essa disciplina será definida e regulamentada pelo Conselho Diretor do Instituto
+de Física, em concordância com as atividades a serem desenvolvidas.
+      São atribuições do orientador:
+* Proceder, em conjunto com o grupo de professores do curso e com o coordenador de estágios, à escolha
+do local de estágio;
+* Planejar, acompanhar e avaliar as atividades de estágio;
+* Avaliar o estagiário a partir do recebimento do convite para orientação;
+* Participar da elaboração e aprovação do plano de estágio;
+* Encaminhar ao supervisor esse Regulamento;
+* Acompanhar e avaliar as atividades de estágio, colaborando no treinamento do orientado;
+* Manter sempre o contato com o supervisor e estagiário, visando o fiel cumprimento do plano;
+* Propor medidas ao supervisor e estagiário, visando correções de possíveis desvios;
+* Orientar o estagiário na elaboração do Relatório Final (Anexos X e XI);
+* Comunicar à Coordenação, por meio de formulário próprio (Anexo I), a data de defesa do relatório final,
+assim como sugerir os membros da comissão julgadora, com antecedência mínima de cinco dias úteis, para
+                                                                                                         11
+que essa Coordenação possa aprovar, agendar e providenciar os certificados e demais documentos;
+* Avaliar o desempenho do orientado durante todo o desenvolvimento do estágio;
+* Ter, por obrigação, participar da comissão julgadora de defesa do relatório final do estagiário;
+* Assinar a folha de aprovação na versão definitiva do Relatório;
+* Encaminhar os documentos do estágio, por meio de formulário próprio, atestando estar o relatório final
+de acordo com as normas para elaboração de trabalhos acadêmicos regidos pela Associação Brasileira de
+Normas Técnicas (ABNT) e com as sugestões da comissão julgadora e, que esse foi entregue no prazo
+correto;
+* Caso não possa orientar o aluno no período estabelecido, informar à Coordenação a tempo, para que
+sejam tomadas as devidas providências.
+
+
+4.4. Estagiário
+São atribuições do estagiário:
+
+
+A) Estágio Curricular Não Obrigatório:
+* Ter conhecimento das normas que regem esse Regulamento, antes de iniciar as atividades do estágio;
+* Escolher a área de realização do estágio e informar à Coordenação;
+* Providenciar, em tempo hábil, os documentos referentes ao estágio junto à Central de Estágios,
+conforme orientações e formulários disponíveis no sítio da Central de Estágios/PROGRAD;
+* Participar da elaboração do plano de estágio;
+* Executar as atividades previstas no plano de estágio;
+* Solicitar orientações e acompanhamento do coordenador e supervisor sempre que isso se fizer
+necessário;
+* Estar em contato diário com o supervisor, visando o bom andamento do estágio.
+*Entregar na Central de Estágios os relatórios semestral e final, devidamente assinados.
+   As atividades de estágio curricular não obrigatório e suas respectivas cargas horárias deverão ser
+registradas na Coordenação, até o final do último período do curso, apresentando as cópias e os originais
+dos certificados comprobatórios das atividades realizadas.
+
+
+B) Estágio Curricular Obrigatório:
+* Participar das aulas preparatórias para o estágio, realizadas durante o 10º (décimo) período do curso de
+Física Médica;
+* Ter conhecimento e seguir as normas que regem esse Regulamento, antes de iniciar as atividades do
+estágio (Anexo II);
+                                                                                                       12
+* Providenciar os documentos referentes ao estágio, junto à Coordenação;
+* Participar da elaboração do plano de estágio;
+* Participar do planejamento do estágio e solicitar esclarecimentos sobre o processo de avaliação de seu
+desempenho;
+* Solicitar orientações e acompanhamento do orientador ou supervisor, sempre que se fizer necessário;
+* Solicitar, à coordenação de estágios, a mudança do local de estágio, mediante justificativa, quando as
+normas estabelecidas e o planejamento não estiverem sendo seguidos;
+* Providenciar o histórico escolar e o currículo, quando solicitados pela Coordenação;
+* Escolher a área de realização do estágio e informar à Coordenação;
+* Escolher o orientador e, após o aceite, informar à Coordenação, para que possa ser aprovado;
+* Executar as atividades previstas no plano de estágio;
+* Estar em contato diário com o supervisor e, o mais frequente possível, com o professor-orientador,
+visando o bom andamento do estágio;
+* Contatar o professor-orientador imediatamente após a finalização do estágio;
+* Elaborar o relatório final, em consonância com o plano;
+* Entregar três cópias do relatório final à Coordenação, com antecedência mínima de dez dias úteis, para
+que sejam entregues aos componentes da comissão julgadora;
+*Preencher e entregar o modelo simplificado do “Relatório de Atividades de estágio” que encontra-se
+disponível nos formulários de estágio no site da PROGRAD, providenciando as devidas assinaturas;
+* Apresentar-se e defender o relatório final perante a comissão julgadora, em período fixado pela
+Coordenação;
+* Fazer as correções sugeridas pela comissão julgadora, respeitando o prazo máximo de cinco dias úteis a
+partir da data de defesa, para a entrega da versão definitiva, à Coordenação. O estagiário que não cumprir
+este prazo estará automaticamente reprovado;
+* Entregar, à Coordenação, duas cópias do Relatório final (Anexos X e XI) devidamente corrigidas e em
+encadernação própria;
+* Participar de, no mínimo, três defesas de estágio curricular obrigatório, cujas presenças deverão ser
+documentadas em formulário próprio.
+
+
+
+5. DESENVOLVIMENTO DO ESTÁGIO
+5.1. Encaminhamento
+      O encaminhamento refere-se à apresentação oficial do estagiário ao campo de estágio, realizada pela
+Coordenação. O estagiário, ao dirigir-se ao campo de estágio, deverá levar em mãos e entregar ao seu
+
+                                                                                                       13
+supervisor, os seguintes documentos fornecidos pela Coordenação de Estágios do curso de Física Médica:
+* Termo de compromisso de estágio (ver os formulários disponíveis no site da PROGRAD que estão
+separados de acordo com o tipo de estágio e do local de estágio). Os formulários estão disponíveis nos
+seguintes       endereços         eletrônicos:         https://prograd.ufg.br/p/7185-formularios       e
+https://ce.prograd.ufg.br/p/14120-formularios;
+* Carta de encaminhamento do estagiário (Anexos III);
+* Carta de apresentação de estagiário (Anexo IV);
+* Plano de Atividades (ver os formulários disponíveis no site da PROGRAD que estão separados de
+acordo com o tipo de estágio e do local de estágio);
+* Formulário para cadastramento do campo de estágio e do supervisor (Anexo V);
+* Ficha de avaliação do estagiário pelo supervisor (Anexo VI);
+* Ficha de controle de frequência do estagiário (Anexo VII);
+* Apólice de seguro contra acidentes pessoais: o aluno somente poderá iniciar o estágio se estiver
+devidamente segurado contra acidentes pessoais. No caso de estágio curricular não obrigatório, a
+contratação do seguro é de responsabilidade da empresa concedente, devendo o comprovante ser entregue
+junto com os demais documentos na Central de Estágios, antes do início das atividades. No caso de estágio
+obrigatório, o seguro é realizado pela própria universidade via PROGRAD, no ato da matrícula da
+disciplina.
+      Para as duas modalidades de estágio (obrigatório e não obrigatório) o Formulário para
+cadastramento do campo de estágio e do supervisor, assim como o Plano de Atividades deverão ser
+encaminhados à Coordenação, no prazo máximo de dez dias úteis antes do início do estágio. A Ficha de
+avaliação pelo supervisor e o Controle de frequência devem ser entregues pelo supervisor, ao orientador,
+ao final do estágio, para que ele possa encaminhá-los à Coordenação, juntamente com o restante da
+documentação.
+      O aluno deverá apresentar-se ao seu supervisor, no campo de estágio, na data estabelecida no plano,
+sob pena de perder a vaga. Após o término da vigência do Termo de compromisso de estágio, o estagiário
+não poderá continuar desenvolvendo atividades na empresa ou instituição, pois isto implica em infração
+às leis trabalhistas; a menos que haja uma prorrogação no prazo, de acordo com o previsto na Lei
+11.788/08, através de um termo aditivo ou um novo Termo de Compromisso.
+5.2. Plano de Atividades do estágio
+      O Plano de Atividades refere-se à elaboração de um documento formal pelo estagiário, em conjunto
+com o supervisor e orientador, no qual ficam evidenciados o período do estágio, os objetivos a serem
+alcançados, a área de atuação e a discriminação das atividades a serem desenvolvidas, seguindo-se um
+cronograma. O modelo do Plano de Atividades encontra-se disponível no site da PROGRAD
+                                                                                                      14
+(PROGRAD/Estágios/Formulários), de acordo com o tipo e o local de estágio e esse deverá ser emitido
+em duas vias, sendo: uma via para o campo de estágio e a segunda deverá ser encaminhada à Coordenação.
+No caso de estágio curricular não obrigatório será necessária uma terceira via, que deverá ser entregue à
+Central de Estágios/PROGRAD. O Plano de Atividades tem como finalidade orientar o estagiário no
+desenvolvimento de seu trabalho, bem como servir de instrumento para o acompanhamento, controle e
+avaliação de desempenho do estagiário, servindo de orientação às ações do estágio.
+
+
+6. AVALIAÇÃO DO ESTÁGIO
+      Durante a realização do estágio curricular obrigatório o estagiário será avaliado a todo o momento,
+conforme descrito a seguir.
+
+
+6.1. Avaliação durante o Estágio
+      Esta etapa da avaliação consiste em 30% da nota total e será realizada por meio da documentação
+entregue referente às atividades do estagiário no campo de estágio, os quais consistem: Plano de trabalho,
+Frequência do estagiário no campo de estágio e Relatório do supervisor. Essa avaliação será realizada pelo
+professor orientador durante a realização das atividades do estágio, com a finalidade de colher informações
+sobre o estagiário e o estágio, a fim de que tanto o local, quanto o estagiário possam atingir,
+satisfatoriamente, os objetivos propostos, consubstanciados no plano.
+
+
+
+
+6.2. Avaliação pela Banca Examinadora
+      Após o término da fase de campo, o discente será avaliado pela comissão julgadora empregando
+formulário próprio (Anexo VIII), quanto à elaboração e defesa do Relatório Final (Anexo X). A elaboração
+do relatório será avaliada pela comissão julgadora e corresponderá a 30% da nota final, e a defesa pública
+do relatório corresponderá a 40% da nota total, conforme disposto na Ata de Defesa (Anexo IX). A defesa
+do relatório será pública, perante uma comissão julgadora. Essa comissão deverá ser constituída por três
+membros, sendo obrigatoriamente o orientador e, os dois outros membros, preferencialmente o supervisor
+e outro professor da área de concentração do estágio, indicado pelo orientador e sob a aprovação da
+Coordenação de Estágios. Quando na impossibilidade de participação do supervisor, esse somente poderá
+ser substituído por outro professor efetivo do IF/UFG. Caso o orientador do discente seja um professor
+substituto, será obrigatória a presença de um professor efetivo como membro da comissão julgadora. A
+defesa do relatório final do estágio constará de dois momentos, a saber:
+
+
+A) Primeiro Momento (de 30 a 50 minutos):
+                                                                                                        15
+* Apresentação do campo de estágio;
+* Relato crítico das atividades desenvolvidas;
+* Relato das dificuldades encontradas e das deficiências teóricas e práticas levadas para o campo de estágio.
+B) Segundo Momento:
+      Questionamento e avaliação do estagiário realizado pelos membros da comissão julgadora. Cada
+membro da comissão julgadora atribuirá, individualmente, uma nota referente à apresentação, defesa e
+elaboração do Relatório Final, em formulário próprio (Anexo VIII). Ao final do processo de avaliação, o
+aluno deverá atingir média igual ao superior a 6,0 (seis) para ser considerado aprovado. Será considerado
+reprovado o estagiário que:
+a) Cumprir menos de 75% (setenta e cinco por cento) da frequência no campo de estágio;
+b) Obtiver média final inferior a 6,0 (seis), devendo matricular-se no próximo semestre e realizar novo
+estágio curricular obrigatório.
+      Somente após a correção do relatório final, o orientador deverá encaminhar a ata de defesa (Anexo
+IX) à Coordenação de Estágios, que a remeterá à Coordenação do Curso de Física Médica do IF/UFG.
+Os casos omissos serão resolvidos pela Comissão de Estágios do Instituto de Física, presidida pelo
+Coordenador de Estágios do Curso.
+
+
+
+
+6.3. Relatório Final
+      O relatório final é um instrumento destinado ao registro minucioso do desenvolvimento do plano
+de Atividades de estágio e de seus desdobramentos. Este documento deverá conter a descrição das
+atividades realizadas, sua discussão, sugestões e conclusões. Esse relatório deverá ser elaborado pelo
+estagiário, com a colaboração do orientador e supervisor, seguindo os padrões para trabalhos acadêmicos
+produzidos no Brasil regidos pelas normas da ABNT. Os modelos para a elaboração do Relatório final e
+do Relatório final de Atividades de Estágio (Modelo simplificado da PROGRAD) encontram-se no
+Anexos X e XI.
+
+7. DISPOSIÇÕES GERAIS
+7.1. O que Esperar do Estágio?
+* Apesar de sua utilidade e do seu significado, o estágio não corrigirá TODAS as falhas e deficiências dos
+alunos;
+* Nem TODOS os SUPERVISORES permitirão aos estagiários, liberdade ampla de ação e de tomada de
+decisão.
+7.2. Integração no Local de Estágio
+
+                                                                                                          16
+* Conheça os princípios da Empresa/Instituição/Curso de Graduação:
+* Conscientize-se da importância de seu trabalho;
+* No início, fale menos e ouça mais - Evite comparações com estágios anteriores, não dê muitos palpites
+e não abuse das perguntas;
+* Tenha espírito participativo e cooperativo;
+* Conheça os chefes e colegas:
+* Mantenha de início, certa reserva com relação aos colegas;
+* Não destoe do ambiente de trabalho, observe hábitos e roupas considerados normais pela instituição;
+* Não seja bajulador;
+* Não deixe que abusem de sua boa vontade, exigindo mais de você que de outros estagiários, ou mais do
+que seria exigido de um aluno em treinamento;
+* Tenha humildade;
+* Não se omita, esclareça suas dúvidas e observe problemas que atrapalham o seu desempenho.
+* Relate-os somente ao Supervisor/Orientador.
+      Os casos omissos serão analisados e definidos pela Comissão de Estágios, observando as normas e
+regulamentos da Universidade Federal de Goiás, pelos dispositivos legais vigentes no país. Lembre-se de
+que a manutenção da vaga para outros futuros estagiários, mesmo que a vaga tenha sido conseguida por
+um aluno em específico, dependerá do desempenho e da impressão que este aluno deixou na empresa.
+
+
+
+
+                                                                                                    17
+Anexo I: Formulário de Solicitação de Defesa de Estágio
+
+
+
+                         Universidade Federal de Goiás
+                               Instituto de Física
+                Coordenação de Estágios do Curso de Física Médica
+
+
+
+                                         Goiânia, ______ de ___________________ de 20_____.
+
+
+
+
+                   FORMULÁRIO DE SOLICITAÇÃO DE DEFESA DE
+                        ESTÁGIO CURRICULAR OBRIGATÓRIO
+
+
+Discente:_________________________________________________________________________
+Campo de estágio: __________________________________________________________________
+Período de estágio: __________________________________________________________________
+Carga horária:______________________________________________________________________
+
+
+                                     Membros da Banca:
+Orientador:________________________________________________________________________
+Supervisor:________________________________________________________________________
+3ºMembro:________________________________________________________________________
+
+
+Data da defesa:___/____/_______
+
+
+
+
+                    Prof.(a) ________________________________________
+                                        Orientador(a)
+
+
+
+
+Coordenação de Estágios IF/UFG. Cx. Postal 131, Campus Samambaia. CEP 74001-970, Goiânia, GO.
+        Fone: (62) 3521.1014, ramal 200. Fax: ramal 247, endereço eletrônico: www.if.ufg.br.
+                                                                                           18
+Anexo II: Lei de Estágio nº 11.788/2008
+
+
+                                    Presidência da República
+                                              Casa Civil
+                               Subchefia para Assuntos Jurídicos
+
+
+                                          LEI DE ESTÁGIO
+
+LEI Nº 11.788, DE 25 DE SETEMBRO DE 2008.
+
+
+Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho
+– CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943, e a Lei no 9.394, de 20 de dezembro
+de 1996; revoga as Leis nos 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o parágrafo
+único do art. 82 da Lei no 9.394, de 20 de dezembro de 1996, e o art. 6o da Medida Provisória no 2.164-
+41, de 24 de agosto de 2001; e dá outras providências.
+
+
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a
+seguinte Lei:
+
+
+                                             CAPÍTULO I
+                DA DEFINIÇÃO, CLASSIFICAÇÃO E RELAÇÕES DE ESTÁGIO
+Art. 1o Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à
+preparação para o trabalho produtivo de educandos que estejam freqüentando o ensino regular em
+instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos
+anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.
+§ 1o O estágio faz parte do projeto pedagógico do curso, além de integrar o itinerário formativo do
+educando.
+§ 2o O estágio visa ao aprendizado de competências próprias da atividade profissional e à contextualização
+curricular, objetivando o desenvolvimento do educando para a vida cidadã e para o trabalho.
+Art. 2o O estágio poderá ser obrigatório ou não-obrigatório, conforme determinação das diretrizes
+curriculares da etapa, modalidade e área de ensino e do projeto pedagógico do curso.
+§ 1o Estágio obrigatório é aquele definido como tal no projeto do curso, cuja carga horária é requisito
+para aprovação e obtenção de diploma.
+
+                                                                                                       19
+§ 2o Estágio não-obrigatório é aquele desenvolvido como atividade opcional, acrescida à carga horária
+regular e obrigatória.
+§ 3o As atividades de extensão, de monitorias e de iniciação científica na educação superior, desenvolvidas
+pelo estudante, somente poderão ser equiparadas ao estágio em caso de previsão no projeto pedagógico
+do curso.
+Art. 3o O estágio, tanto na hipótese do § 1o do art. 2o desta Lei quanto na prevista no § 2o do mesmo
+dispositivo, não cria vínculo empregatício de qualquer natureza, observados os seguintes requisitos:
+I – matrícula e frequência regular do educando em curso de educação superior, de educação profissional,
+de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional
+da educação de jovens e adultos e atestados pela instituição de ensino;
+II – celebração de termo de compromisso entre o educando, a parte concedente do estágio e a instituição
+de ensino;
+III – compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de
+compromisso.
+§ 1o O estágio, como ato educativo escolar supervisionado, deverá ter acompanhamento efetivo pelo
+professor orientador da instituição de ensino e por supervisor da parte concedente, comprovado por vistos
+nos relatórios referidos no inciso IV do caput do art. 7o desta Lei e por menção de aprovação final.
+§ 2o O descumprimento de qualquer dos incisos deste artigo ou de qualquer obrigação contida no termo
+de compromisso caracteriza vínculo de emprego do educando com a parte concedente do estágio para
+todos os fins da legislação trabalhista e previdenciária.
+Art. 4o A realização de estágios, nos termos desta Lei, aplica-se aos estudantes estrangeiros regularmente
+matriculados em cursos superiores no País, autorizados ou reconhecidos, observado o prazo do visto
+temporário de estudante, na forma da legislação aplicável.
+Art. 5o As instituições de ensino e as partes cedentes de estágio podem, a seu critério, recorrer a serviços
+de agentes de integração públicos e privados, mediante condições acordadas em instrumento jurídico
+apropriado, devendo ser observada, no caso de contratação com recursos públicos, a legislação que
+estabelece as normas gerais de licitação.
+§ 1o Cabe aos agentes de integração, como auxiliares no processo de aperfeiçoamento do instituto do
+estágio:
+I – identificar oportunidades de estágio;
+II – ajustar suas condições de realização;
+III – fazer o acompanhamento administrativo;
+IV – encaminhar negociação de seguros contra acidentes pessoais;
+V – cadastrar os estudantes.
+                                                                                                         20
+§ 2o É vedada a cobrança de qualquer valor dos estudantes, a título de remuneração pelos serviços
+referidos nos incisos deste artigo.
+§ 3o Os agentes de integração serão responsabilizados civilmente se indicarem estagiários para a realização
+de atividades não compatíveis com a programação curricular estabelecida para cada curso, assim como
+estagiários matriculados em cursos ou instituições para as quais não há previsão de estágio curricular.
+Art. 6o O local de estágio pode ser selecionado a partir de cadastro de partes cedentes, organizado pelas
+instituições de ensino ou pelos agentes de integração.
+
+
+                                              CAPÍTULO II
+                                      DA INSTITUIÇÃO DE ENSINO
+Art. 7º São obrigações das instituições de ensino, em relação aos estágios de seus educandos:
+I – celebrar termo de compromisso com o educando ou com seu representante ou assistente legal, quando
+ele for absoluta ou relativamente incapaz, e com a parte concedente, indicando as condições de adequação
+do estágio à proposta pedagógica do curso, à etapa e modalidade da formação escolar do estudante e ao
+horário e calendário escolar;
+II – avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional
+do educando;
+III – indicar professor orientador, da área a ser desenvolvida no estágio, como responsável pelo
+acompanhamento e avaliação das atividades do estagiário;
+IV – exigir do educando a apresentação periódica, em prazo não superior a 6 (seis) meses, de relatório das
+atividades;
+V – zelar pelo cumprimento do termo de compromisso, reorientando o estagiário para outro local em caso
+de descumprimento de suas normas;
+VI – elaborar normas complementares e instrumentos de avaliação dos estágios de seus educandos;
+VII – comunicar à parte concedente do estágio, no início do período letivo, as datas de realização de
+avaliações escolares ou acadêmicas.
+Parágrafo único. O plano de atividades do estagiário, elaborado em acordo das 3 (três) partes a que se
+refere o inciso II do caput do art. 3o desta Lei, será incorporado ao termo de compromisso por meio de
+aditivos à medida que for avaliado, progressivamente, o desempenho do estudante.
+Art. 8º É facultado às instituições de ensino celebrar com entes públicos e privados convênio de concessão
+de estágio, nos quais se explicitem o processo educativo compreendido nas atividades programadas para
+seus educandos e as condições de que tratam os arts. 6o a 14 desta Lei.
+Parágrafo único. A celebração de convênio de concessão de estágio entre a instituição de ensino e a parte
+concedente não dispensa a celebração do termo de compromisso de que trata o inciso II do caput do art.
+                                                                                                          21
+3o desta Lei.
+
+
+                                             CAPÍTULO III
+                                       DA PARTE CONCEDENTE
+Art. 9o As pessoas jurídicas de direito privado e os órgãos da administração pública direta, autárquica e
+fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, bem
+como profissionais liberais de nível superior devidamente registrados em seus respectivos conselhos de
+fiscalização profissional, podem oferecer estágio, observadas as seguintes obrigações:
+I – celebrar termo de compromisso com a instituição de ensino e o educando, zelando por seu
+cumprimento;
+II – ofertar instalações que tenham condições de proporcionar ao educando atividades de aprendizagem
+social, profissional e cultural;
+III – indicar funcionário de seu quadro de pessoal, com formação ou experiência profissional na área de
+conhecimento desenvolvida no curso do estagiário, para orientar e supervisionar até 10 (dez) estagiários
+simultaneamente;
+IV – contratar em favor do estagiário seguro contra acidentes pessoais, cuja apólice seja compatível com
+valores de mercado, conforme fique estabelecido no termo de compromisso;
+V – por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação
+resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho;
+VI – manter à disposição da fiscalização documentos que comprovem a relação de estágio;
+VII – enviar à instituição de ensino, com periodicidade mínima de 6 (seis) meses, relatório de atividades,
+com vista obrigatória ao estagiário.
+Parágrafo único. No caso de estágio obrigatório, a responsabilidade pela contratação do seguro de que
+trata o inciso IV do caput deste artigo poderá, alternativamente, ser assumida pela instituição de ensino.
+
+
+                                             CAPÍTULO IV
+                                           DO ESTAGIÁRIO
+Art. 10. A jornada de atividade em estágio será definida de comum acordo entre a instituição de ensino, a
+parte concedente e o aluno estagiário ou seu representante legal, devendo constar do termo de
+compromisso ser compatível com as atividades escolares e não ultrapassar:
+I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos
+anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos;
+II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino superior, da
+educação profissional de nível médio e do ensino médio regular.
+                                                                                                         22
+§ 1o O estágio relativo a cursos que alternam teoria e prática, nos períodos em que não estão programadas
+aulas presenciais, poderá ter jornada de até 40 (quarenta) horas semanais, desde que isso esteja previsto no
+projeto pedagógico do curso e da instituição de ensino.
+§ 2o Se a instituição de ensino adotar verificações de aprendizagem periódicas ou finais, nos períodos de
+avaliação, a carga horária do estágio será reduzida pelo menos à metade, segundo estipulado no termo de
+compromisso, para garantir o bom desempenho do estudante.
+Art. 11. A duração do estágio, na mesma parte concedente, não poderá exceder 2 (dois) anos, exceto
+quando se tratar de estagiário portador de deficiência.
+Art. 12. O estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada,
+sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não
+obrigatório.
+§ 1o A eventual concessão de benefícios relacionados a transporte, alimentação e saúde, entre outros, não
+caracteriza vínculo empregatício.
+§ 2o Poderá o educando inscrever-se e contribuir como segurado facultativo do Regime Geral de
+Previdência Social.
+Art. 13. É assegurado ao estagiário, sempre que o estágio tenha duração igual ou superior a 1 (um) ano,
+período de recesso de 30 (trinta) dias, a ser gozado preferencialmente durante suas férias escolares.
+§ 1o O recesso de que trata este artigo deverá ser remunerado quando o estagiário receber bolsa ou outra
+forma de contraprestação.
+§ 2o Os dias de recesso previstos neste artigo serão concedidos de maneira proporcional, nos casos de o
+estágio ter duração inferior a 1 (um) ano.
+Art. 14. Aplica-se ao estagiário a legislação relacionada à saúde e segurança no trabalho, sendo sua
+implementação de responsabilidade da parte concedente do estágio.
+
+
+                                               CAPÍTULO V
+                                             DA FISCALIZAÇÃO
+Art. 15. A manutenção de estagiários em desconformidade com esta Lei caracteriza vínculo de emprego
+do educando com a parte concedente do estágio para todos os fins da legislação trabalhista e
+previdenciária.
+§ 1o A instituição privada ou pública que reincidir na irregularidade de que trata este artigo ficará impedida
+de receber estagiários por 2 (dois) anos, contados da data da decisão definitiva do processo administrativo
+correspondente.
+§ 2o A penalidade de que trata o § 1o deste artigo limita-se à filial ou agência em que for cometida a
+irregularidade.
+                                                                                                           23
+                                                                           CAPÍTULO VI
+                                                              DAS DISPOSIÇÕES GERAIS
+Art. 16. O termo de compromisso deverá ser firmado pelo estagiário ou com seu representante ou
+assistente legal e pelos representantes legais da parte concedente e da instituição de ensino, vedada a
+atuação dos agentes de integração a que se refere o art. 5o desta Lei como representante de qualquer das
+partes.
+Art. 17. O número máximo de estagiários em relação ao quadro de pessoal das entidades concedentes de
+estágio deverá atender às seguintes proporções:
+I – de 1 (um) a 5 (cinco) empregados: 1 (um) estagiário;
+II – de 6 (seis) a 10 (dez) empregados: até 2 (dois) estagiários;
+III – de 11 (onze) a 25 (vinte e cinco) empregados: até 5 (cinco) estagiários;
+IV – acima de 25 (vinte e cinco) empregados: até 20% (vinte por cento) de estagiários.
+§ 1o Para efeito desta Lei, considera-se quadro de pessoal o conjunto de trabalhadores empregados
+existentes no estabelecimento do estágio.
+§ 2o Na hipótese de a parte concedente contar com várias filiais ou estabelecimentos, os quantitativos
+previstos nos incisos deste artigo serão aplicados a cada um deles.
+§ 3o Quando o cálculo do percentual disposto no inciso IV do caput deste artigo resultar em fração,
+poderá ser arredondado para o número inteiro imediatamente superior.
+§ 4o Não se aplica o disposto no caput deste artigo aos estágios de nível superior e de nível médio
+profissional.
+§ 5o Fica assegurado às pessoas portadoras de deficiência o percentual de 10% (dez por cento) das vagas
+oferecidas pela parte concedente do estágio.
+Art. 18. A prorrogação dos estágios contratados antes do início da vigência desta Lei apenas poderá
+ocorrer se ajustada às suas disposições.
+Art. 19. O art. 428 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei no 5.452, de
+1o de maio de 1943, passa a vigorar com as seguintes alterações:
+  “Art. 428. ......................................................................
+§ 1o A validade do contrato de aprendizagem pressupõe anotação na Carteira de Trabalho e Previdência
+Social, matrícula e frequência do aprendiz na escola, caso não haja concluído o ensino médio, e inscrição
+em programa de aprendizagem desenvolvido sob orientação de entidade qualificada em formação técnico-
+profissional metódica.
+  ......................................................................
+§ 3o O contrato de aprendizagem não poderá ser estipulado por mais de 2 (dois) anos, exceto quando se
+tratar de aprendiz portador de deficiência.
+                                                                                                      24
+  ......................................................................
+§ 7o Nas localidades onde não houver oferta de ensino médio para o cumprimento do disposto no § 1o
+deste artigo, a contratação do aprendiz poderá ocorrer sem a frequência à escola, desde que ele já tenha
+concluído o ensino fundamental.” (NR)
+Art. 20. O art. 82 da Lei no 9.394, de 20 de dezembro de 1996, passa a vigorar com a seguinte redação:
+“Art. 82. Os sistemas de ensino estabelecerão as normas de realização de estágio em sua jurisdição,
+observada a lei federal sobre a matéria.
+           Parágrafo único. (Revogado).” (NR)
+Art. 21. Esta Lei entra em vigor na data de sua publicação.
+Art. 22. Revogam-se as Leis nos 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o
+parágrafo único do art. 82 da Lei no 9.394, de 20 de dezembro de 1996, e o art. 6o da Medida Provisória
+no 2.164-41, de 24 de agosto de 2001.
+
+
+
+
+           Brasília, 25 de setembro de 2008; 187o da Independência e 120o da República.
+
+
+
+
+LUIZ INÁCIO LULA DA SILVA
+Fernando Haddad
+André Peixoto Figueiredo Lima
+
+
+
+
+Este texto não substitui o publicado no DOU de 26.9.2008.
+
+
+
+
+                                                                                                     25
+Anexo III: Carta de Encaminhamento
+
+
+                           Universidade Federal de Goiás
+                                 Instituto de Física
+                  Coordenação de Estágios do Curso de Física Médica
+
+
+                               CARTA DE ENCAMINHAMENTO
+
+                                                                Goiânia, ___ de __________de 20__.
+
+Ilmo. Sr. _____________________
+Nome da Empresa: _______________________
+Cidade______________, Estado __
+
+
+Prezado Senhor,
+O Instituto de Física da Universidade Federal de Goiás tem a grata satisfação de apresentar à Vossa
+Senhoria o acadêmico _________________, matrícula n° _______, natural de ___________, ______,
+residente à ______________________________________________, telefone (__) _________,
+Carteira de Identidade nº ________, órgão expedidor________, CPF ___________, para realizar o
+ESTÁGIO CURRICULAR OBRIGATÓRIO nessa conceituada Empresa, na área de _________, no
+período de ________ a ______________. Igualmente, esclarecemos que foi elaborado um PLANO DE
+TRABALHO e, que o estagiário terá como Supervisor o ____________ dessa Empresa e como
+Orientador o ___________ desta Universidade. Os contatos poderão ser realizados pelo endereço abaixo.
+Antecipadamente agradecemos.
+
+
+Atenciosamente,
+Prof. Coordenador de Estágio do Curso de Física Médica
+
+
+
+
+Coordenação de Estágios IF/UFG. Cx. Postal 131, Campus Samambaia. CEP 74001-970, Goiânia, GO.
+        Fone: (62) 3521.1014, ramal 200. Fax: ramal 247, endereço eletrônico: www.if.ufg.br.
+
+
+
+
+                                                                                                  26
+Anexo IV: Carta de Apresentação de estagiário
+
+                                   Universidade Federal de Goiás
+                                         Instituto de Física
+                          Coordenação de Estágios do Curso de Física Médica
+
+                           CARTA DE APRESENTAÇÃO DE ESTAGIÁRIO
+                                                                                      Goiânia, ______ de 20___.
+Ilmo. Sr. ________________
+Nome da empresa_____________________
+Cidade______, Estado___
+
+Prezado Supervisor,
+
+        Inicialmente, gostaríamos de agradecer a V.Sª. e a esta Empresa/Instituição por receber nosso acadêmico do
+Curso de Física Médica como estagiário e pela contribuição dada à formação profissional deste aluno. Gostaríamos,
+ainda, de detalhar alguns procedimentos a serem adotados antes, durante e após a realização do estágio e que, por
+certo, contribuirão para que sejam alcançados os objetivos propostos para o Estágio Curricular Obrigatório. Esta é
+uma atividade de Física Médica que visa proporcionar a melhoria do processo ensino/aprendizagem, constituídos
+em um instrumento de integração Escola-Empresa, sob a forma de treinamento prático e aperfeiçoamento técnico-
+científico e sócio-cultural.
+O acadêmico, ao dirigir-se para o estágio, deverá estar portando:
+a) O “Ofício de encaminhamento à empresa e ao supervisor”;
+b) O “Formulário para cadastramento do campo de estágio e do supervisor” e o “Plano de Estágio” a ser preenchido
+pelo Supervisor, com detalhamento das atividades a serem desenvolvidas durante o estágio. Ambos deverão ser
+enviados à Coordenação de Estágios da Física Médica dentro do prazo máximo de 10 dias a partir do início do
+estágio e;
+c) A “Ficha de avaliação do estagiário pelo supervisor” e o “Controle de frequência do estagiário”, que deverão ser
+devidamente preenchidos e encaminhados à essa Coordenação logo após a finalização do estágio.
+        Durante o estágio, o estudante terá o acompanhamento de V.Sa. como Supervisor e será orientado por um
+professor do Instituto de Física. O papel do Orientador é o de servir de elo entre o Instituto de Física, a Empresa,
+a Coordenação de Estágios, o Supervisor e o Estudante. Cabe ao Supervisor definir e programar as atividades a
+serem desenvolvidas pelo estudante na empresa. A avaliação do estudante no estágio, com a carga horária total,
+deverá ser feita na ficha que segue em anexo, e esta encaminhada à Coordenação de Estágios por V.Sa., para compor
+a nota final do estágio curricular. Para esclarecimento de quaisquer dúvidas sobre a condução do estágio, o contato
+poderá ser feito com a Coordenação de Estágios do Instituto de Física. Ao final do estágio, o aluno deverá apresentar
+ao Instituto de Física um relatório completo sobre as atividades desenvolvidas, além de defendê-lo, em sessão
+pública, perante uma Comissão Julgadora. Assim, desde já, gostaríamos de convidá-lo a participar da defesa do
+relatório, em data a ser marcada, pois sua presença como membro dessa Comissão é importante para a correta
+finalização do estágio. Certos do estreitamento em nossas relações reiteramos os votos de elevada estima e
+consideração.
+        Atenciosamente,
+
+      Prof. Coordenador de Estágio da Física Médica
+
+  Coordenação de Estágios IF/UFG. Cx. Postal 131, Campus Samambaia. CEP 74001-970, Goiânia, GO. Fone:
+                (62) 3521.1014, ramal 200. Fax: ramal 247, endereço eletrônico: www.if.ufg.br.
+
+
+
+
+                                                                                                                  27
+Anexo V: Formulário de Cadastramento do Campo e do Supervisor do Estágio Curricular
+
+                      FORMULÁRIO PARA CADASTRAMENTO DO
+                        CAMPO DE ESTÁGIO E DO SUPERVISOR
+
+
+
+
+NOME DA EMPRESA:____________________________________________________________
+Endereço: Rua_____________________________________________________________________,
+Complemento:_____________________________________________________________________,
+Cidade:____________________Estado:______________________Pais_______________________,
+Cep:_______________________Fone:__________________________________Fax:____________,
+Site/Email: _______________________________________________________________________
+ATIVIDADES DA EMPRESA:_______________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+
+
+
+SUPERVISOR:
+Nome: ___________________________________________________________________________
+Endereço:_________________________________________________________________________
+_________________________________________________________________________________
+Fone:_______________________________Fax:__________________________________________
+Celular:______________________E-mail: _______________________________________________
+Formação:________________________________________________________________________
+Cargo na empresa___________________________________________________________________
+
+
+
+
+Coordenação de Estágios IF/UFG. Cx. Postal 131, Campus Samambaia. CEP 74001-970, Goiânia, GO.
+        Fone: (62) 3521.1014, ramal 200. Fax: ramal 247, endereço eletrônico: www.if.ufg.br.
+                                                                                             28
+Anexo VI: Ficha de Avaliação do Estagiário pelo Supervisor
+
+                         Universidade Federal de Goiás
+                               Instituto de Física
+                Coordenação de Estágios do Curso de Física Médica
+                                               Goiânia, ______ de _________________ de 20___.
+
+             FICHA DE AVALIAÇÃO DO ESTAGIÁRIO PELO SUPERVISOR
+               Atribuir notas de 0,0 (zero) a 10,0 (dez) em cada um dos itens abaixo
+
+Empresa Concedente do Estágio:_____________________________________________________
+Supervisor:_______________________________________________________________________
+Estagiário:_____________________________________________________________________
+Inicio:___/___/______ Término:____/____/______ Carga Horária Total:________ Horas:________
+
+                            Fatores de Desempenho                                      Notas
+                         1. TRABALHO: Considerar a qualidade de trabalho e o
+                         volume de atividades cumpridas dentro de um padrão
+                         razoável.
+                         2. CONHECIMENTO: Considerar se o Estagiário possuiu os
+       ASPECTOS          conhecimentos indispensáveis para o cumprimento das
+     PROFISSIONAIS       tarefas.
+                         3. CRIATIVIDADE: Capacidade demonstrada pelo estagiário
+                         de sugerir, projetar ou executar modificações ou inovações no
+                         campo de estágio.
+                         4. INICIATIVA: Considerar a independência demonstrada
+                         pelo estagiário no desempenho das atividades de estágio.
+                         5. INTERESSE: Disposição demonstrada pelo estagiário para
+                         aprender.
+ SUBTOTAL 1: (MÁXIMO 50 PONTOS)
+
+                            Fatores de Desempenho                                  Notas
+                          1. ASSIDUIDADE: Cumprimento do horário e ausências ou
+                          faltas.
+                          2. DISCIPLINA: Cumprimento das normas e regulamentos
+                          internos do campo de estágio.
+       ASPECTOS           3. COOPERAÇÃO: Disposição para cooperar com os
+   COMPORTAMENTAIS        colegas e atender prontamente as atividades solicitadas.
+                          4. SOCIABILIDADE: Facilidade de se integrar com os
+                          colegas e ambiente de trabalho.
+                          5. RESPONSABILIDADE: Zelo pelos materiais,
+                          equipamentos e bens do campo de estágio.
+ SUBTOTAL 2: (MÁXIMO 50 PONTOS)
+                 TOTAL: ((SUBTOTAL 1 + SUBTOTAL 2)/10))
+
+
+ __________________________________________                      ____/____/20____
+    Assinatura do responsável e carimbo da empresa                      Data
+
+                                                                                          29
+Anexo VII: Ficha de Controle de Frequência do Estagiário
+
+
+                            Universidade Federal de Goiás
+                                  Instituto de Física
+                   Coordenação de Estágios do Curso de Física Médica
+
+                                                   Goiânia, ______ de _________________ de 20___.
+
+
+                FICHA DE CONTROLE DE FREQUÊNCIA DO ESTAGIÁRIO
+                        ESTÁGIO CURRICULAR OBRIGATÓRIO
+
+                                  Controle de Frequência de Estágio
+ Empresa:                                       CNPJ:
+ Nome do Estagiário:                            Nº de matrícula do Estagiário:
+ Unidade-Curso-Instituição:                     Estágio obrigatório ( ) Estágio não obrigatório( )
+ Mês e ano de referência:
+ Data              Horário de entrada          Horário de Saída         Assinatura do Estagiário
+
+
+
+
+ Número de dias:                 Número de presenças:               Número de faltas:
+
+
+                                                        __________________,_____de_____ 200__.
+   ___________________________                                    Local e data
+        Supervisor (Concedente)
+(assinatura, carimbo e nº registro profissional)
+
+
+Coordenação de Estágios IF/UFG. Cx. Postal 131, Campus Samambaia. CEP 74001-970, Goiânia, GO.
+        Fone: (62) 3521.1014, ramal 200. Fax: ramal 247, endereço eletrônico: www.if.ufg.br.
+
+                                                                                                     30
+Anexo VIII: Ficha de Avaliação Individual da Defesa do Relatório Final de Estágio
+
+
+
+                           Universidade Federal de Goiás
+                                 Instituto de Física
+                  Coordenação de Estágios do Curso de Física Médica
+
+    FICHA DE AVALIAÇÃO INDIVIDUAL DA DEFESA DO RELATÓRIO FINAL DE
+                   ESTÁGIO CURRICULAR OBRIGATORIO
+
+Aluno:___________________________________________________________________________
+Avaliador:_________________________________________________________________________
+Data:______/________/______
+
+ATENÇÃO: Atribuir notas considerando os seguintes aspectos:
+
+      1) APRESENTAÇÃO: Neste item, o aluno dispõe de um tempo de, no mínimo, 30 minutos e, no
+máximo, 50 minutos para a exposição do Relatório. Nesta exposição, o estagiário deve fazer uma
+apresentação do campo de estágio, um relato das atividades desenvolvidas e das possíveis dificuldades
+encontradas, bem como das deficiências teóricas e práticas levadas para o campo de estágio. A Banca
+Examinadora deve avaliar a qualidade do material didático, o conteúdo e o tempo de apresentação. NOTA
+A (0,0 a 4,0 pontos): _____________.
+
+     2) DEFESA: Nesta etapa, a Banca Examinadora deve avaliar a habilidade do estagiário em
+responder perguntas e verificar o domínio de conteúdo apresentado por ele. NOTA B (0,0 a 3,0 pontos):
+_____________.
+
+      3) RELATÓRIO: Neste item, a Banca Examinadora deve avaliar, criteriosamente, o relatório
+quanto ao seu conteúdo e formatação, ou seja, se apresenta um relato das atividades realizadas no estágio
+e não apenas uma revisão bibliográfica. Deve ser avaliado, ainda, se o relatório foi redigido dentro das
+Normas da Coordenação de Estágios e se este foi encaminhado em tempo hábil para a leitura, antes da
+apresentação. NOTA C (0,0 a 3,0 pontos): _____________.
+
+      NOTA FINAL: A + B + C (10,0 pontos): = ____________
+
+
+                        ____________________________________________
+                            Assinatura do Membro da Banca Examinadora
+
+
+OBS.: A nota final desta Ficha deverá ser colocada na Ata Defesa do Relatório, na presença de cada
+membro da Comissão Julgadora. Esta folha deve acompanhar a Ata de Defesa.
+
+
+
+
+Coordenação de Estágios IF/UFG. Cx. Postal 131, Campus Samambaia. CEP 74001-970, Goiânia, GO.
+        Fone: (62) 3521.1014, ramal 200. Fax: ramal 247, endereço eletrônico: www.if.ufg.br.
+                                                                                                      31
+Anexo IX: Ata da Defesa de Relatório Final de Estágio
+
+
+                          Universidade Federal de Goiás
+                                Instituto de Física
+                 Coordenação de Estágios do Curso de Física Médica
+
+
+         ATA DA DEFESA DE RELATÓRIO FINAL DE ESTÁGIO CURRICULAR
+                  OBRIGATÓRIO DO CURSO DE FÍSICA MÉDICA
+
+
+Aluno(a)_______________________________________________________________________
+Ao(s) _______ dia(s) do mês de __________________de ______________às ________horas,
+reuniram-se         os         seguintes      componentes        da       Comissão       Julgadora:
+Orientador(a):_______________________________________________________Supervisor (a) ou
+substituto(a):_____________________________Membro:__________________________________
+_____________________e o aluno (a) supracitado (a), para a procederem à avaliação da apresentação e
+defesa de seu RELATÓRIO DE ESTÁGIO CURRICULAR OBRIGATÓRIO, realizada na
+empresa/instituição_________________________________ ______________________, no período
+de ___/____/___ a ____/_____/___, na cidade de ______________________, no Estado de
+___________________________. A apresentação oral foi pública e a arguição ocorreu imediatamente
+após. As notas obtidas pelo aluno na apresentação, defesa e avaliação do relatório foram:
+Orientador:_____________________, Supervisor ou substituto: ______________________, Membro:
+___________________, obtendo média de: _________. Na avaliação global do(a) estagiário(a), mediante
+a média ponderada, o resultado foi o seguinte: Avaliação do(a) estagiário(a) pelo Orientador:
+___________________________ x 0,30 = ____________________ Avaliação do Relatório Final
+entregue:_________x 0,30 = ____________. Avaliação da apresentação, defesa pela banca:
+________________x 0,40 = ________________ MÉDIA FINAL: _______________________
+pontos. RESULTADO FINAL: ( ) Aprovado ( ) Reprovado. E, nada mais havendo a tratar, lavrou-se
+a presente ata, que será assinada pelos componentes da Banca Examinadora:
+
+Orientador:______________________________________________________________________
+
+Supervisor ou substituto:___________________________________________________________
+
+Membro:_______________________________________________________________________
+                                               Goiânia, ______de ___________de 20___.
+
+
+
+
+Coordenação de Estágios IF/UFG. Cx. Postal 131, Campus Samambaia. CEP 74001-970, Goiânia, GO.
+        Fone: (62) 3521.1014, ramal 200. Fax: ramal 247, endereço eletrônico: www.if.ufg.br.
+                                                                                                32
+Anexo X: Modelo de Relatório Final de Estágio
+                ORIENTAÇÕES GERAIS PARA ELABORAÇÃO DO RELATÓRIO DE ESTÁGIO
+
+        Este documento apresenta instruções metodológicas e aspectos estéticos para a elaboração e
+formatação do Relatório de Estágio.
+
+        O Relatório de Estágio é um documento que visa apresentar a descrição do(s) local(s) onde foi
+realizado o estágio, o período de duração e as atividades desenvolvidas pelo estagiário.
+
+        O relatório de estágio compreende:
+
+         Elementos pré-textuais [capa; agradecimentos (opcional); sumário];
+
+         Elementos textuais [introdução, caracterização do campo de estágio, relatório descritivo;
+           competências profissionais; conclusão e considerações finais];
+
+         Elementos pós-textuais [referências; (apêndices e anexos são opcionais)].
+
+      O Relatório de Estágio deverá ser apresentado, com no máximo 20 páginas, conforme as
+características estabelecidas:
+
+       Impresso em papel A4;
+
+       Capa conforme o modelo anexo;
+
+       Configuração das Margens:
+
+         Superior - 3,0 cm; Inferior - 2,0 cm; Esquerda - 3,0 cm; Direita - 2,0 cm;
+
+       Corpo do Texto:
+
+         - Fonte: Arial ou Times New Roman (normal)
+
+         - Tamanho: 12;
+
+         - Parágrafo: justificado;
+
+         - Espaçamento entre as linhas: 1,5 cm;
+
+       Títulos:
+
+         - Tamanho da Fonte: 14;
+
+         - Negrito;
+
+       Numeração das páginas: deve aparecer no canto superior direito da mesma.
+
+
+                                                                                                  33
+UNIVERSIDADE FEDERAL DE GOIÁS
+
+     INSTITUTO DE FÍSICA
+
+
+
+
+     Relatório final de Estágio
+
+          Ano/Semestre
+
+
+
+
+         Nome do Aluno
+
+             Matrícula
+
+
+
+
+            Local, data
+
+
+
+                                  34
+1. INTRODUÇÃO
+   A parte introdutória abre o relatório propriamente dito, devendo ser consideradas sucintamente as
+seguintes informações: a importância do estágio para a formação profissional; a delimitação do estágio
+realizado, no tempo e espaço, ou seja, informar pontualmente onde e porquê o estágio foi realizado e o
+período utilizado; a apresentação das expectativas e objetivos traçados pelo aluno para o seu estágio.
+
+
+
+
+2. CARACTERIZAÇÃO DO CAMPO DE ESTÁGIO
+   Esta seção deve elencar e caracterizar os locais (Instituição, setor/serviço, empresa) nos quais o
+estagiário realizou suas atividades de estágio na área de Física Médica. Os locais descritos devem ser, no
+mínimo, aqueles que foram utilizados na comprovação das horas de estágio da disciplina. Devem ser
+identificados também os nomes dos supervisores, período de realização do estágio (data de início e final)
+e carga horária semanal. Uma breve caracterização da instituição em termos de organização e infraestrutura
+disponível deve ser realizada (aproximadamente 3 parágrafos).
+
+2.1 Nome da Instituição 1
+
+   A. CNPJ:
+   B. Endereço:
+   C. Telefone:
+   D. Nome do Supervisor de Estágio:
+   E. Período de realização do Estágio:
+   F. Carga Horária Semanal:
+   G. Caracterização e Tipos de Serviços Prestados pela Empresa:
+
+2.3 Nome da Instituição 2
+
+   A. CNPJ:
+   B. Endereço:
+   C. Telefone:
+   D. Nome do Supervisor de Estágio:
+   E. Período de realização do Estágio:
+   F. Carga Horária Semanal:
+   G. Caracterização e Tipos de Serviços Prestados pela Empresa:
+
+
+
+
+                                                                                                         35
+3. RELATÓRIO DESCRITIVO
+      Neste item devem ser descritas as atividades desenvolvidas pelo estagiário na área de Física Médica,
+indicando claramente cada área de atuação. As atividades desenvolvidas no campo de estágio deverão ser
+redigidas em forma de texto e para melhor organização das informações, pode-se subdividir o texto em
+subseções. O aluno descreverá as atividades desenvolvidas durante o estágio, fundamentando-as com os
+referenciais teóricos pesquisados. Ao fazer uso de informações contidas em livros, revistas, sites, etc.,
+deverá citar a fonte e apresentar a referência completa do material na lista de referências constantes no
+final do relatório (ver normas da Associação Brasileira de Normas Técnicas - ABNT). As instituições
+listadas devem ser, no mínimo, aquelas que foram utilizadas na comprovação das horas de estágio em
+Física Médica.
+
+3.1 Instituição 1
+      A. Segmento de Atuação: (ex.: Radiologia convencional, Radioterapia, Medicina Nuclear, Radioterapia, etc)
+          A.1 Atividades Desenvolvidas: descrever o modo operacional no desenvolvimento das atividades
+(descrição das atividades, execução, desenvolvimento, procedimentos, insumos), comentando sobre a
+relação das mesmas com as disciplinas do curso de Física Médica (importância, contribuição, referencial
+teórico). Referenciar material bibliográfico que tenha auxiliado no desempenho das atividades e a forma
+de orientação do supervisor de estágio.
+
+
+3.2       Instituição 2
+      A. Segmento de Atuação:
+          A.1 Atividades Desenvolvidas:
+
+
+      B. Segmento de Atuação:
+          B.1 Atividades Desenvolvidas:
+
+
+4. COMPETÊNCIAS PROFISSIONAIS
+      Apresentar uma análise detalhada das competências que você acredita ter desenvolvido devido à sua
+experiência de estágio nas diversas instituições nas quais você atuou. Separar os parágrafos por tipos de
+competências e não por locais de estágios, exemplificando situações ou eventos relevantes para o
+desenvolvimento daquelas competências.
+
+
+
+5. CONCLUSÕES/CONSIDERAÇÕES FINAIS
+      Descrever sobre a importância do estágio realizado para a sua formação, as dificuldades encontradas
+                                                                                                                  36
+na realização do estágio. Destacar os pontos fortes, oportunidades, pontos fracos e ameaças identificadas
+durante o estágio na instituição. Finalizar com comentários, apresentando sugestões se achar necessário.
+
+
+6. REFERÊNCIAS BIBLIOGRÁFICAS
+
+
+
+
+                                                                                                      37
+   Anexo XII: Modelo de Relatório de Atividades de Estágio (Modelo simplificado PROGRAD)
+
+
+
+
+                            RELATÓRIO DE ATIVIDADES DE ESTÁGIO
+
+                                      PARCIAL ( )          FINAL ( )
+
+Acadêmico:____________________________ Nº Matrícula:_______________________
+Curso:________________________________
+Local do Estágio (Concedente): ______________________________________________
+Estágio Curricular Obrigatório ( )                         Estágio Curricular Não Obrigatório ( )
+Carga horária semanal: ( ) 20h ( ) 30 h        ( ) 40 h
+
+                                   ATIVIDADES DESENVOLVIDAS
+1)___________________________________________________________________________
+_____________________________________________________________________________
+2)___________________________________________________________________________
+_____________________________________________________________________________
+3)___________________________________________________________________________
+_____________________________________________________________________________
+4)___________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+Dificuldades encontradas:_______________________________________________________
+_____________________________________________________________________________
+
+Condições oferecidas pela concedente para a realização do estágio é:
+( ) Satisfatória                    ( ) Insatisfatória
+
+Acompanhamento realizado pelo supervisor foi:
+( ) Satisfatório                  ( ) Insatisfatório
+
+O estágio contribuiu para agregar conhecimentos e habilidades à sua formação:
+( ) Sim                                     ( ) Não
+
+Período do Relatório
+INÍCIO: ___/____/____ (dia, mês, ano)                  TÉRMINO: __/____/____ (dia, mês, ano)
+
+( ) Aprovado           ( ) Reprovado (preencher só quando tratar de Relatório Final)
+
+______________________________                                    ____________________________
+Coordenador de Estágio do Curso*                           Professor Orientador (UFG)*
+
+
+_____________________________                             ___________________________
+   Acadêmico                                                Supervisor (Concedente)*
+
+       *(nome por extenso e assinatura ou assinatura e carimbo)
+                                                                                                    38
+

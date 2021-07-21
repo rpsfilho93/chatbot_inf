@@ -1,0 +1,3218 @@
+       SERVIÇO PÚBLICO FEDERAL
+    UNIVERSIDADE FEDERAL DE GOIÁS
+         FACULDADE DE LETRAS
+
+
+
+
+   PROJETO PEDAGÓGICO
+DO CURSO DE LETRAS: INGLÊS
+
+
+                                         (Licenciatura)
+
+
+
+
+          Aprovado pelo Conselho Diretor da Faculdade de Letras em
+          reunião realizada em 16 de novembro de 2011, aprovado
+          pela Câmara de Graduação/UFG em XXXXXXXXX e pelo
+          Conselho de Ensino, Pesquisa, Extensão e Cultura –
+          CEPEC/UFG em XXXXXXXXXX.
+                                                                                                                        1
+
+
+                                                     Sumário
+
+I. Apresentação ................................................................................................. 2
+
+II. Objetivo Geral e Objetivos Específicos............................................................. 6
+
+III. Princípios Norteadores para a Formação do Profissional ................................ 8
+
+   a) A Prática Profissional ................................................................................... 8
+   b) A Formação Técnica .................................................................................... 8
+   c) A Formação Ética e a Função Social do Profissional ..................................... 8
+   d) Articulação entre Teoria e Prática ................................................................ 9
+   e) A Interdisciplinaridade ................................................................................10
+IV. Expectativa da Formação do Profissional ......................................................12
+
+   a) Perfil do Curso ............................................................................................12
+   b) Perfil do Egresso .........................................................................................12
+   c) Habilidades do Egresso ...............................................................................12
+V. Estrutura Curricular do Curso de Letras: Inglês...............................................14
+
+   a) Matriz Curricular ........................................................................................14
+   b) Quadro com Carga Horária .........................................................................16
+   c) Sugestão de Fluxo Curricular para o Curso de Letras: Inglês ........................17
+   d) Prática como Componente Curricular (PCC) ...............................................18
+   e) Atividades Complementares ........................................................................19
+VI. Política e Gestão do Estágio Curricular .........................................................21
+
+   a) Estágio Curricular Obrigatório ....................................................................21
+   b) Estágio Curricular Não Obrigatório .............................................................22
+VII. O Trabalho de Conclusão de Curso (TCC) ...................................................24
+
+VIII. Sistema de Avaliação do Processo de Ensino e Aprendizagem.....................25
+
+IX. Integração Ensino, Pesquisa e Extensão ........................................................26
+
+X. Política de Qualificação Docente e do Técnico-Administrativo da Faculdade de
+Letras .................................................................................................................28
+
+XI. Sistema de Avaliação do Projeto Pedagógico do Curso de Letras: Inglês ........30
+
+XIII. Referências ................................................................................................32
+
+Apêndice ............................................................................................................34
+
+   Apêndice A: Elenco de Disciplinas com Ementas ............................................35
+                                                                                   2
+
+
+I. Apresentação
+
+       A Universidade Federal de Goiás foi fundada em 14 de dezembro de 1960,
+pela lei n. 3.834-C, que dispunha, em seu Art. 2º, § 3º, que o Poder Executivo
+deveria promover, no prazo de 3 anos, a criação de uma Faculdade de Filosofia,
+Ciências e Letras. Pelo decreto n. 51.582, de 8 de novembro de 1962, foi, então,
+criada a referida Faculdade. O Diário Oficial da União publicou esse decreto em 14
+de novembro de 1962 (ESTATUTO e REGIMENTO da UFG, 2004).
+       Com a reforma universitária de 1968, a Faculdade de Filosofia, Ciências e
+Letras foi desmembrada, dando origem ao Instituto de Ciências Humanas e Letras
+(ICHL). O reconhecimento do curso de Letras da Universidade Federal de Goiás
+foi conferido pelo decreto n. 63.636, de 25 de novembro de 1968. A reestruturação
+administrativa e acadêmica de 1996, por sua vez, propiciou o fracionamento desse
+instituto, resultando o estabelecimento da Faculdade de Letras (FL).
+       Este Projeto Pedagógico apresenta o curso de Letras: Inglês, que está
+inserido na grande área de Letras, Linguística e Artes e é oferecido na modalidade
+presencial. Neste projeto, constam os objetivos do curso, seus princípios
+norteadores, a expectativa da formação do profissional, a estrutura curricular, bem
+como aspectos técnicos, pedagógicos, políticos e de gestão inerentes ao
+funcionamento do curso e à formação do profissional de Letras.
+       O curso de Letras: Inglês confere o título de Licenciado em Letras: Inglês e
+possibilita ao discente desenvolver sua capacidade intelectiva e criativa por meio da
+linguagem nas diversas manifestações da língua inglesa, incluindo aspectos
+culturais e produção literária. Desse modo, o curso tem como eixo temático a
+linguagem, capacidade complexa própria do ser humano. Esse eixo perpassa todo o
+curso, tanto no seu Núcleo Comum quanto no Específico (obrigatório e optativo).
+O gosto pela leitura, pelo estudo da linguagem nos seus diversos aspectos, a
+sensibilidade para a percepção estética e a capacidade para a análise crítica
+constituem o perfil do candidato ao curso e ao futuro profissional de Letras: Inglês.
+       O princípio que norteia este curso é que a reflexão sobre a linguagem e suas
+diversas formas de manifestação deve estar sempre permeada por um debate crítico
+sobre língua e sobre o processo de ensino-aprendizagem de línguas.
+                                                                                          3
+
+
+         Destina-se o curso de Letras: Inglês da UFG, sobretudo, à formação de
+docentes nas séries finais do Ensino Fundamental, no Ensino Médio e no Ensino
+Profissionalizante. A capacidade de direcionamento da prática profissional inclui,
+além do magistério na rede regular de ensino, a possibilidade de atuação em cursos
+de línguas, bem como a iniciação à pesquisa no campo da Linguística, da
+Linguística Aplicada e dos Estudos Literários. O licenciado em Letras: Inglês
+poderá, também, exercer funções que tenham como foco principal a linguagem em
+uso.
+       A estrutura do curso, como será detalhado adiante, inclui um Núcleo Comum
+aos demais cursos ministrados pela Faculdade de Letras, em seu turno de
+funcionamento diurno, a saber: Letras: Português; Letras: Espanhol; Letras:
+Francês; Bacharelado em Linguística; e Bacharelado em Estudos Literários. Inclui,
+também, um Núcleo Específico, consistindo em disciplinas obrigatórias e optativas,
+e um Núcleo Livre, consistindo em disciplinas a serem escolhidas, pelo discente,
+dentre todas as oferecidas nessa categoria no âmbito da Universidade Federal de
+Goiás.
+         A opção pelo curso será feita já no processo seletivo, no qual há 25 vagas
+por ano. O curso tem carga horária de 3.112 horas, sendo 2.512 horas-aula – das
+quais 400 horas são destinadas à disciplina de Estágio –, 400 horas de Prática como
+Componente Curricular e 200 horas de Atividades Complementares. A duração
+mínima do curso é de 4 anos e a máxima, de 6 anos.
+         Caso o ingressante do curso apresente proficiência em língua inglesa, poderá
+submeter-se a um Exame de Nível, que poderá dispensá-lo de cursar até o nível 4.
+Esse exame será permitido, para fins de dispensa de disciplina, com base no
+Regulamento Geral dos Cursos de Graduação (RGCG) da UFG e no que prevê a
+Lei de Diretrizes e Bases (LDB) de 1996, no seu Art. 47:
+
+                        § 2º Os alunos que tenham extraordinário aproveitamento nos estudos,
+                        demonstrado por meio de provas e outros instrumentos de avaliação
+                        específicos, aplicados por banca examinadora especial, poderão ter
+                        abreviada a duração de seus cursos, de acordo com as normas dos
+                        sistemas de ensino.
+
+         Até o ano de 2011, o Projeto Pedagógico do Curso de Letras era único e
+englobava 4 licenciaturas (espanhol, francês, inglês e português) e 2 bacharelados
+(linguística e literatura). O presente projeto busca, portanto, adequar-se à exigência
+                                                                                   4
+
+estabelecida no Ofício Circular no. 02/2010-CGOC/DESUP/SESu/MEC, que
+determina a readequação de cadastro de cursos no Sistema e-MEC, desvinculando
+cursos do tipo Bacharelado/Licenciatura e transformando as habilitações em
+cursos.
+          Saliente-se que o currículo que ora é apresentado contempla a dimensão
+pedagógica exigida, para as licenciaturas, pela Resolução CNE/CP 1 (BRASIL,
+2002b, p. 5) – não inferior à quinta parte da carga horária total – em disciplinas do
+Núcleo Específico, a saber: os estágios e as quatro disciplinas obrigatórias
+estabelecidas pela Resolução CEPEC 631/03, que regulamenta a formação de
+professores na UFG (Fundamentos Filosóficos e Sócio-Históricos da Educação,
+Psicologia da Educação 1, Psicologia da Educação 2 e Políticas Educacionais no
+Brasil).
+     Em decorrência da legislação sobre o funcionamento dos cursos de graduação,
+da exigência da inserção da disciplina de Libras nos cursos de licenciatura como
+disciplina obrigatória, e da necessidade de se transformarem as habilitações em
+cursos, como afirmado anteriormente, um novo Projeto Pedagógico, específico
+para o curso de Letras: Inglês, no qual se inclui uma nova grade curricular, fez-se
+necessário. O presente projeto pretende conferir organicidade ao currículo do curso
+de Letras: Inglês, sobretudo no que se refere à concepção de prática e estágio,
+assim como a distribuição de sua carga horária ao longo do curso, e à flexibilização
+curricular.
+          Conforme preveem as Diretrizes Curriculares para os cursos de Letras
+(BRASIL, 2001a), buscou-se, com a flexibilização curricular, eliminar a rigidez
+estrutural do curso, de modo a facultar, ao discente em formação, opções de
+conhecimento e de atuação em sua área de trabalho. Isso promove uma abordagem
+pedagógica centrada no desenvolvimento da autonomia do discente, a qual, como
+consequência, permite obter o desdobramento do papel de professor na figura de
+orientador.
+      Ressalte-se que o RGCG possibilita a flexibilização curricular ao determinar a
+distribuição das disciplinas em três núcleos:
+                                                                                 5
+
+1) Núcleo Comum (NC): “conjunto de conteúdos comuns para a formação do
+respectivo profissional”, compreendendo disciplinas obrigatórias cuja carga horária
+total não deve exceder a 70% da carga horária total de disciplinas.
+
+2) Núcleo Específico (NE): “conjunto de conteúdos que darão especificidade à
+formação do profissional”, compreendendo disciplinas optativas e obrigatórias, cuja
+carga horária total deve ser maior que 20% da carga horária total de disciplinas.
+Acrescente-se que o “somatório da carga horária do NC e do NE totalizará um
+mínimo de 80% da carga horária de disciplinas”.
+
+3) Núcleo Livre (NL): “conjunto de conteúdos que objetiva garantir liberdade ao
+aluno para ampliar sua formação”, compreendendo “disciplinas eletivas por ele
+escolhidas dentre todas as oferecidas nessa categoria no âmbito da universidade”,
+cuja carga horária total deve ocupar um mínimo de 5% do total da carga horária de
+disciplinas.
+     Assim, este projeto pedagógico busca adequar o currículo do curso de Letras:
+Inglês às normas estatuídas no âmbito da Universidade Federal de Goiás, por meio
+do RGCG, além de atender às determinações do Conselho Nacional de Educação,
+por meio de suas diretrizes, resoluções e pareceres.
+                                                                                             6
+
+
+II. Objetivo Geral e Objetivos Específicos
+
+
+       Esta proposta coincide com o que estabelece o Plano Nacional de
+Graduação (PNG), elaborado pelo Fórum de Pró-Reitores de Graduação das
+Universidades Brasileiras (2002, p. 10), quando afirma que
+
+                       a graduação necessita deixar de ser apenas o esforço da transmissão e da
+                       aquisição de informações para transformar-se no “locus” de
+                       construção/produção do conhecimento, em que o aluno atue como
+                       sujeito da aprendizagem.
+
+
+       Desse modo, o curso que este projeto apresenta tem por objetivo geral
+proporcionar uma concepção formativa que traz como fundamento a atitude
+investigativa do discente no que concerne aos Estudos Linguísticos e Literários.
+       Pretende-se, assim, levar o discente a refletir sobre conhecimentos teóricos e
+práticas pedagógicas, de modo que possa atuar criticamente em diferentes
+contextos educacionais e favorecer o processo de aprendizagem. Para tanto, o
+discente é estimulado a problematizar teorias e conhecimentos linguísticos e
+literários, favorecendo o desenvolvimento da reflexão acadêmica e não a simples
+reprodução do já sabido. Assim, afirma-se a função da universidade como
+produtora de conhecimento e como corresponsável pela busca de soluções para as
+questões sociais do País.
+       O curso de Letras: Inglês tem como objetivos específicos:
+
+1. Formar docentes de língua inglesa para atuar nas séries finais do Ensino
+Fundamental e no Ensino Médio e no Ensino Profissionalizante.
+
+2. Promover o conhecimento acadêmico sobre linguagem, levando em conta os
+campos de teoria e de aplicação dos Estudos Linguísticos e Literários com ênfase
+em língua inglesa.
+
+3. Proporcionar a prática da linguagem em todos os níveis.
+
+4. Propiciar uma experiência formativa por meio do universo ficcional.
+
+5. Despertar e aprimorar, no discente, a percepção estética.
+
+6. Possibilitar atitudes de pesquisa pela visão crítica de perspectivas teóricas e
+pedagógicas, vistas em sua relação da ciência com a sociedade.
+                                                                                             7
+
+         O quadro conceitual do Projeto de Formação, constante da Resolução
+CEPEC n. 329 (UNIVERSIDADE FEDERAL DE GOIÁS, 1992, p. 9-10), é
+igualmente reiterado, em sua grande parte:
+
+                      A linguagem, nesse sentido [apreendida através da diversidade das
+                      línguas e da produção literária], deve ser entendida como uma
+                      capacidade complexa, própria da espécie humana. Essa capacidade
+                      implica, ao mesmo tempo, processos cognitivos e atividades simbólicas,
+                      relacionando-se com a representação do real, com as estruturas do
+                      inconsciente e com o imaginário.
+                      Tendo em vista essa complexidade, os estudos referentes à língua
+                      portuguesa, às línguas estrangeiras e às literaturas deverão concorrer
+                      especificamente para que o aluno de Letras compreenda os princípios
+                      fundamentais relativos a natureza e funções da linguagem, bem como
+                      aos fatores que intervêm na atividade, manifestação e desenvolvimento
+                      lingüístico – “aquisição de linguagem”. Esses estudos, de forma geral,
+                      deverão concorrer para uma maior compreensão da natureza humana,
+                      para o desenvolvimento da capacidade intelectiva e criativa do aluno e,
+                      conseqüentemente, para o desenvolvimento social.
+                      Quanto aos princípios sobre a natureza da linguagem, destacam-se
+                      aqueles que a relacionam com diferentes aspectos: fisiológicos,
+                      psíquico/cognitivo, social, cultural, histórico, estético e ideológico.
+                      Esses aspectos, intrinsecamente associados, deverão ser vistos na
+                      perspectiva da linguagem em uso, sem contudo excluir a abordagem de
+                      propriedades estabelecidas pelas diversas teorias elaboradas a respeito.
+                      São múltiplas as funções da linguagem e, levando em conta o enfoque
+                      proposto, assim como a delimitação da área de domínio, postula-se a
+                      função comunicativa [em sentido amplo] como primordial: é a
+                      linguagem que possibilita a realização do indivíduo como ser humano,
+                      permitindo-lhe construir, elaborar e transmitir o pensamento. A
+                      linguagem permite-lhe, ainda, manifestar as emoções [função estético-
+                      expressiva], e construir sua identidade através da consciência de existir
+                      no mundo na relação com o outro.
+                      Em decorrência dessa conexão com o extra-lingüístico, os fatores que
+                      intervêm na atividade da linguagem referem-se à utilização do código
+                      oral e escrito, implicando a produção, recepção/compreensão, bem
+                      como a situação de comunicação que engloba o grupo, o local, o tópico
+                      e os objetivos comunicativos.
+
+
+       Além disso, espera-se cumprir com o que determina o Parecer CNE/CES
+492/2001, que estabelece diretrizes curriculares para os cursos de Letras (BRASIL,
+2001a, p. 31):
+
+                      Considerando os diversos profissionais que o curso de Letras pode
+                      formar, os conteúdos caracterizadores básicos devem estar ligados à área
+                      dos Estudos Lingüísticos e Literários [...] [que] devem fundar-se na
+                      percepção da língua e da literatura como prática social e como forma
+                      mais elaborada das manifestações culturais.
+
+
+       Nesse sentido, o curso de Letras: Inglês funda-se na relação entre
+capacidade de linguagem e as línguas como integrantes das experiências sociais e
+culturais.
+                                                                                   8
+
+
+III. Princípios Norteadores para a Formação do Profissional
+
+
+a) A Prática Profissional
+
+
+       O licenciado em Letras: Inglês da UFG poderá atuar, sobretudo, nas séries
+finais do Ensino Fundamental, no Ensino Médio e no Ensino Profissionalizante.
+Além disso, poderá atuar em cursos de línguas, no desenvolvimento de pesquisas
+no campo da Linguística, da Linguística Aplicada e dos Estudos Literários, bem
+como exercer funções que tenham como foco principal a linguagem em uso,
+especificamente no que diz respeito à língua inglesa.
+
+
+b) A Formação Técnica
+
+
+       O curso de Letras: Inglês é composto por disciplinas teóricas que dão
+suporte necessário nas áreas de estudos linguísticos e de estudos literários
+(disciplinas do Núcleo Comum), bem como por disciplinas específicas para a
+formação do docente de língua inglesa (disciplinas do Núcleo Específico
+Obrigatório), compreendendo as disciplinas de língua inglesa, literaturas de língua
+inglesa e de estágio curricular obrigatório. A integração dessas disciplinas garante
+uma formação profissional consistente do licenciado em língua inglesa por meio do
+acesso a conhecimentos teóricos e pedagógicos.
+
+
+      c) A Formação Ética e a Função Social do Profissional
+
+
+       O curso de Letras: Inglês da Universidade Federal de Goiás tem como um
+dos seus princípios norteadores o que preveem as Diretrizes curriculares para os
+cursos de Letras (BRASIL, 2001ª, p. 31): “O profissional de Letras deverá [...] estar
+compromissado com a ética, com a responsabilidade social e educacional, e com as
+consequências de sua atuação no mundo do trabalho”. Dessa forma, o curso de
+Letras: Inglês, não se limitando a uma visão da universidade como instância
+reflexa da sociedade, preocupa-se com a formação de indivíduos envolvidos com
+ideais emancipadores e aptos a transformar a realidade social.
+                                                                                           9
+
+       A prática educativa é concebida em associação ao contexto político-social,
+considerando que
+
+                       todo exercício profissional se dá em um tempo e lugar determinados, em
+                       estreita relação com projetos que podem fechar ou abrir os horizontes
+                       humanos, consolidando exclusões sociais ou ensejando aberturas
+                       crescentemente integradoras dos diferentes segmentos da sociedade.
+                       (FÓRUM DE PRÓ-REITORES DE GRADUAÇÃO DAS
+                       UNIVERSIDADES BRASILEIRAS, 2002, p. 10)
+
+
+       O curso de Letras: Inglês busca propagar o cultivo dos valores humanistas,
+ressaltando a relação dialética entre estes e o pragmatismo da sociedade moderna
+(BRASIL, 2001a). Promove ações que identifiquem e valorizem as diferenças,
+levando em conta o saber discente, as experiências vividas, os significados
+compartilhados, as representações construídas nas interações sociais, a fim de
+reconstruir um quadro de referências nas dimensões cultural, técnica, social,
+política e ética.
+
+
+d) Articulação entre Teoria e Prática
+
+
+       Atendendo ao que dispõe a legislação e dando continuidade ao que vinha
+sendo desenvolvido na Faculdade de Letras, este projeto busca superar a dicotomia
+teoria/prática, prevendo componentes curriculares articuladores da relação entre
+teoria e prática e entre ensino e pesquisa, ao longo da formação, nas diversas etapas
+do processo.
+       A realização da “Prática como Componente Curricular” (PCC) ao longo do
+curso é obrigatória a cada ano, conforme detalhado adiante, e possibilita essa
+articulação entre teoria e prática. As PCCs apresentam conexão com as diversas
+disciplinas, tanto do Núcleo Comum como do Núcleo Específico, envolvendo todo
+o corpo docente da Faculdade de Letras. Acata-se, assim, a exigência de
+“incorporar outras formas de aprendizagem e formação presentes na realidade
+social” (FORGRAD, 2000, p. 110-111).
+       As atividades ligadas à pesquisa de iniciação científica, à iniciação à
+docência, às bolsas de licenciatura, de extensão e cultura, às bolsas de
+desenvolvimento de plano de estudo mantidas pela Assistência Social da UFG,
+bem como as ligadas à monitoria igualmente promovem essas interações. Espera-se
+                                                                                            10
+
+levar o discente a perceber que a prática atualiza e questiona a teoria. Considera-se
+que, desse modo, o licenciado em Letras: Inglês estará mais apto a responder às
+necessidades educativas e tecnológicas da sociedade.
+
+
+e) A Interdisciplinaridade
+
+
+       Os estudos linguísticos e literários, além de se alimentarem mutuamente,
+têm conexão com outras ciências, tais como a Educação, a Filosofia, a História, a
+Antropologia, a Sociologia, entre outras. Essa conexão tem estado presente,
+implícita ou explicitamente, nos conteúdos programáticos das diferentes disciplinas
+e demais atividades acadêmicas do curso de Letras: Inglês. O RGCG, ao permitir
+que o discente escolha disciplinas do Núcleo Livre, oferecidas por outras unidades
+acadêmicas da Universidade Federal de Goiás, possibilita o alargamento dessa
+conexão e uma formação mais geral ao discente nos níveis profissional, cultural e
+humanístico. Dessa forma, pensa-se o currículo em sua amplitude de saberes e
+diversidade de modalidades de execução.
+       Entretanto, se, por um lado, se apoia essa posição de interrelação com
+diferentes áreas do conhecimento, por outro, concebe-se o currículo como uma
+seleção com vistas a uma formação específica, que não seria atingida com
+pinceladas de conhecimentos oriundos de domínios diversos. Acredita-se, como
+alega Fiorin (2001, p. 20), que
+
+
+                       é a partir de sólidos conhecimentos num domínio específico do
+                       conhecimento que se pode abrir para as íntimas relações dos diversos
+                       campos do saber […]. [A] interdisciplinaridade estabelece-se como
+                       exigência do trabalho disciplinar, quando se verifica que um problema
+                       deve ser tratado sob diferentes óticas e perspectiva […]. [A]
+                       interdisciplinaridade não é dada como pré-condição, mas surge como
+                       exigência interna ao trabalho que está sendo realizado. Não é criada por
+                       decreto, mas construída no cotidiano do pesquisador.
+
+
+       Por esse motivo, a escolha das disciplinas optativas do Núcleo Específico do
+curso de Letras: Inglês restringir-se-á àquelas oferecidas pela Faculdade de Letras,
+conforme tabela de disciplinas constante neste documento.
+       Para atender às demandas legais (Lei 10.639/2003, alterada pela Lei
+11.465/2008 e as Diretrizes Curriculares Nacionais para Educação das Relações
+                                                                               11
+
+Étnico-raciais e para o Ensino de História e Cultura Afro-brasileira e Africana e
+Indígena), em todos os Projetos Pedagógicos das Licenciaturas oferecidas pela
+Faculdade de Letras há a disciplina Literaturas Africanas de Língua Portuguesa.
+Além do mais, este tópico é abordado anualmente por meio da oferta de projetos
+das atividades de Prática como Componente Curricular. É importante ressaltar que
+a Faculdade de Letras oferece o curso de Educação Intercultural, da qual
+participam alunos indígenas de diversos etnoterritórios da região etnoeducacional
+Araguaia-Tocantins. Por meio desse curso, há uma interação dos alunos e
+professores dos demais cursos com os alunos indígenas, o que promove uma
+formação discente intercultural no âmbito das relações etnicorraciais.
+       Já no que diz respeito às políticas de educação ambiental (Lei 9.795/1999 e
+Decreto no. 4.281/2002), a conscientização dos alunos para esse assunto é
+proporcionada pela oferta de projetos das atividades de Prática como Componente
+Curricular, propostos por professores da Faculdade de Letras, da área de ciências
+ambientais, que atuam na Educação Intercultural. A Faculdade de Letras também
+oferece a disciplina Ecolinguística como Núcleo Livre. Ademais, os alunos têm a
+possibilidade de fazer disciplinas de Núcleo Livre sobre esse assunto em outras
+Unidades Acadêmicas, como o IPTSP e o ICB.
+                                                                                             12
+
+
+IV. Expectativa da Formação do Profissional
+
+
+
+a) Perfil do Curso
+
+
+       O curso de Letras: Inglês forma docentes para o ensino de língua inglesa
+nas séries finais do Ensino Fundamental, bem como no Ensino Médio e no Ensino
+Profissionalizante.
+
+
+b) Perfil do Egresso
+
+
+       Como pode ser observado pelos objetivos do curso de Letras: Inglês,
+anteriormente descritos, e pelas demais considerações tecidas no decorrer deste
+documento, o presente projeto incorpora o que as Diretrizes curriculares para os
+cursos de Letras (BRASIL, 2001a) definem como o perfil dos formandos de Letras:
+
+
+                      O objetivo do Curso de Letras é formar profissionais interculturalmente
+                      competentes, capazes de lidar, de forma crítica, com as linguagens,
+                      especialmente a verbal, nos contextos oral e escrito, e conscientes de sua
+                      inserção na sociedade e das relações com o outro.
+                      Independentemente da modalidade escolhida [licenciatura ou
+                      bacharelado], o profissional de Letras deve ter domínio do uso da língua
+                      ou das línguas que sejam objeto de seus estudos, em termos de sua
+                      estrutura, funcionamento e manifestações culturais, além de ter
+                      consciência das variedades linguísticas e culturais. Deve ser capaz de
+                      refletir teoricamente sobre a linguagem, de fazer uso de novas
+                      tecnologias e de compreender sua formação profissional como processo
+                      contínuo, autônomo e permanente. [...]. O profissional deve, ainda, ter
+                      capacidade de reflexão crítica sobre temas e questões relativas aos
+                      conhecimentos linguísticos e literários.
+
+
+       Prevê-se, sobretudo, a formação de um profissional crítico, reflexivo e
+investigativo, que esteja preparado para exercer uma prática cotidiana de formação
+continuada, considerando o eixo temático do curso: a linguagem.
+
+
+c) Habilidades do Egresso
+
+       Pensando um processo de aprendizagem que prepare o formando para a sua
+especificidade, mas que também o torne capaz de atuar em áreas afins, e baseando-
+                                                                                  13
+
+se no que dispõem as Diretrizes curriculares para os cursos de Letras (BRASIL,
+2001a) e no que sugere Fiorin (2001, p. 17), esta proposta relaciona as seguintes
+competências e habilidades esperadas de um profissional de Letras: Inglês:
+
+      domínio do uso da língua inglesa, nas suas manifestações oral e escrita, em
+      termos de recepção e produção de textos;
+      domínio teórico e crítico dos componentes fonológico, morfossintático,
+      léxico e semântico da língua inglesa;
+      capacidade de reflexão analítica e crítica sobre a linguagem como fenômeno
+      psicológico, educacional, social, histórico, cultural, político e ideológico;
+      domínio crítico de um repertório representativo de uma dada literatura;
+      visão crítica das perspectivas teóricas adotadas nas investigações linguísticas
+      e literárias;
+      preparação profissional atualizada, incluindo a utilização dos recursos da
+      informática, que permita o exercício criativo do processo de construção do
+      conhecimento;
+      percepção de diferentes contextos culturais;
+      domínio dos conteúdos básicos que são objeto dos processos de ensino e
+      aprendizagem de língua inglesa;
+      domínio dos métodos e técnicas pedagógicas que permitam a transposição
+      didática dos conhecimentos para o contexto educacional.
+                                                                                                   14
+
+
+V. Estrutura Curricular do Curso de Letras: Inglês
+
+
+           Como já foi mencionado anteriormente, seguindo a normatização do
+RGCG, as disciplinas são divididas em três núcleos: o Núcleo Comum (NC); o
+Núcleo Específico (NE), composto por dois conjuntos de disciplinas: o Núcleo
+Específico Obrigatório (NE-OBR) e o Núcleo Específico Optativo (NE-OPT); o
+Núcleo Livre (NL).
+           Deve-se observar que as disciplinas de NL não constam neste projeto, tendo
+em vista que sua oferta é aberta e sazonal, sendo, no entanto, aprovadas pelo
+Conselho Diretor, quando apresentadas por docentes da Faculdade de Letras.
+
+
+a) Matriz Curricular
+
+
+           A matriz curricular do Curso de Letras: Inglês é formada por disciplinas do
+Núcleo Comum, bem como por disciplinas do Núcleo Específico Obrigatório e
+Optativo, conforme o quadro a seguir1:
+
+
+             MATRIZ CURRICULAR DO CURSO DE LETRAS: INGLÊS
+
+                            Unidade                        Unidade
+        Disciplina                        Pré-requisito                 CHS   CHTS   NÚCLEO   NATUREZA
+                           Responsável                    Responsável
+Introdução aos Estudos
+                               FL        NÃO HÁ               FL         4      64    NC        OBR
+da Linguagem
+Introdução aos Estudos
+                               FL        NÃO HÁ               FL         4      64    NC        OBR
+Literários
+Leitura e Produção
+                               FL        NÃO HÁ               FL         4      64    NC        OBR
+Textual
+                                         Introdução aos
+Introdução à Linguística
+                               FL        Estudos da           FL         4      64    NC        OBR
+da Enunciação
+                                         Linguagem
+                                         Introdução aos
+Introdução à Linguística
+                               FL        Estudos da           FL         4      64    NC        OBR
+Descritiva
+                                         Linguagem
+                                         Introdução aos
+Teoria e Crítica da
+                               FL        Estudos              FL         4      64    NC        OBR
+Literatura
+                                         Literários
+
+
+Inglês 1                       FL        NÃO HÁ               FL         4      64     NE       OBR
+Inglês 2                       FL        Inglês 1             FL         4      64     NE       OBR
+Inglês 3                       FL        Inglês 2             FL         4      64     NE       OBR
+Inglês 4                       FL        Inglês 3             FL         4      64     NE       OBR
+Inglês 5                       FL        Inglês 4             FL         4      64     NE       OBR
+Inglês 6                       FL        Inglês 5             FL         4      64     NE       OBR
+
+
+1
+    As ementas e bibliografias destas disciplinas encontram-se no Apêndice A.
+                                                                          15
+
+Inglês 7                    FL   Inglês 6           FL   4   64    NE   OBR
+Inglês 8                    FL   Inglês 7           FL   4   64    NE   OBR
+Prática Oral 1 de Inglês    FL   NÃO HÁ             FL   4   64    NE   OBR
+                                 Prática Oral 1
+Prática Oral 2 de Inglês    FL                      FL   4   64    NE   OBR
+                                 de Inglês
+Prática Escrita de Inglês   FL   Inglês 2           FL   4   64    NE   OBR
+                                 Inglês 4 e
+Literaturas de Língua            Introdução aos
+                            FL                      FL   4   64    NE   OBR
+Inglesa 1                        Estudos
+                                 Literários
+                                 Inglês 4 e
+Literaturas de Língua            Introdução aos
+                            FL                      FL   4   64    NE   OBR
+Inglesa 2                        Estudos
+                                 Literários
+                                 Inglês 4 e
+Literaturas de Língua            Introdução aos
+                            FL                      FL   4   64    NE   OBR
+Inglesa 3                        Estudos
+                                 Literários
+                                 Inglês 4 e
+Literaturas de Língua            Introdução aos
+                            FL                      FL   4   64    NE   OBR
+Inglesa 4                        Estudos
+                                 Literários
+Fundamentos Filosóficos
+e Sócio-históricos da       FL   50% do NC          FL   4   64    NE   OBR
+Educação
+Políticas Educacionais
+                            FL   50% do NC          FL   4   64    NE   OBR
+no Brasil
+Psicologia da Educação 1    FL   50% do NC          FL   4   64    NE   OBR
+                                 Psicologia da
+Psicologia da Educação 2    FL                      FL   4   64    NE   OBR
+                                 Educação 1
+                                 100 % do NC,
+Estágio 1 – Inglês          FL   30% do NE e        FL   6   96    NE   OBR
+                                 Inglês 4
+                                 Estágio 1 –
+Estágio 2 – Inglês          FL                      FL   6   96    NE   OBR
+                                 Inglês
+                                 Estágio 2 –
+Estágio 3 – Inglês          FL                      FL   6   96    NE   OBR
+                                 Inglês
+                                 Estágio 3 –
+Estágio 4 – Inglês          FL                      FL   7   112   NE   OBR
+                                 Inglês
+                                 Introdução aos
+Linguística Aplicada –
+                            FL   Estudos da         FL   4   64    NE   OBR
+Línguas Estrangeiras
+                                 Linguagem
+Metodologia do
+                                 100% NC e 30%
+Trabalho Científico –       FL                      FL   4   64    NE   OBR
+                                 NE
+Línguas Estrangeiras
+                                 Metodologia do
+                                 Trabalho
+Trabalho de Conclusão
+                            FL   Científico –       FL   2   32    NE   OBR
+de Curso 1 – Inglês
+                                 Línguas
+                                 Estrangeiras
+                                 Trabalho de
+Trabalho de Conclusão
+                            FL   Conclusão de       FL   2   32    NE   OBR
+de Curso 2 – Inglês
+                                 Curso 1 – Inglês
+Introdução à Língua
+Brasileira de Sinais –      FL   NÃO HÁ             FL   4   64    NE   OBR
+LIBRAS
+
+
+Culturas de Língua
+                            FL   Inglês 4           FL   4   64    NE   OPT
+Inglesa
+                                 Inglês 4 e
+Literatura Infantil e
+                                 Introdução aos
+Juvenil de Língua           FL                      FL   4   64    NE   OPT
+                                 Estudos
+Inglesa
+                                 Literários
+Tecnologias e Ensino de
+                            FL   NÃO HÁ             FL   4   64    NE   OPT
+Línguas Estrangeiras
+Tradução – Inglês           FL   Inglês 4           FL   4   64    NE   OPT
+Literaturas Africanas em         Introdução aos
+Língua Portuguesa           FL   Estudos            FL   4   64    NE   OPT
+                                                                                   16
+
+                               Literários
+Francês 1              FL      NÃO HÁ           --       4       64   NE       OPT
+Francês 2              FL      Francês 1       FL        4       64   NE       OPT
+Francês 3              FL      Francês 2       FL        4       64   NE       OPT
+Francês 4              FL      Francês 3       FL        4       64   NE       OPT
+Prática Escrita de     FL      Francês 2       FL        4       64   NE       OPT
+Francês
+Prática Oral 1 de      FL      NÃO HÁ           --       4       64   NE       OPT
+Francês
+
+Prática Oral 2 de      FL      Prática Oral    FL        4       64   NE       OPT
+Francês                        1 de Francês
+Espanhol 1             FL      NÃO HÁ          FL        4       64   NE       OPT
+Espanhol 2             FL      Espanhol 1      FL        4       64   NE       OPT
+Espanhol 3             FL      Espanhol 2      FL        4       64   NE       OPT
+Espanhol 4             FL      Espanhol 3      FL        4       64   NE       OPT
+Prática Oral 1 de      FL      NÃO HÁ          FL        4       64   NE       OPT
+Espanhol
+Prática Oral 2 de      FL      Prática Oral    FL        4       64   NE       OPT
+Espanhol                       1 de
+                               Espanhol
+Prática Escrita de     FL      Espanhol 2      FL        4       64   NE       OPT
+Espanhol
+
+
+LEGENDA:
+FL: FACULDADE DE LETRAS
+NC: NÚCLEO COMUM
+NE: NÚCLEO ESPECÍFICO
+OBR: DISCIPLINAS DE NATUREZA OBRIGATÓRIA
+OPT: DISCIPLINAS DE NATUREZA OPTATIVA
+CHS: CARGA HORÁRIA SEMANAL
+CHTS: CARGA HORÁRIA TOTAL POR SEMESTRE
+
+
+
+                       b) Quadro com Carga Horária
+
+
+        É a seguinte a distribuição da carga horária do curso:
+
+                                   CARGA HORÁRIA
+      NÚCLEO COMUM (NC)                                                      384
+      NÚCLEO ESPECÍFICO OBRIGATÓRIO (NE-OBR)                               1.872
+      NÚCLEO ESPECÍFICO OPTATIVO (NE-OPT)                                    128
+      NÚCLEO LIVRE (NL)                                                      128
+      PRÁTICA COMO COMPONENTE CURRICULAR (PCC)                               400
+      ATIVIDADES COMPLEMENTARES                                              200
+      TOTAL                                                                3.112
+                                                                                                             17
+
+
+c) Sugestão de Fluxo Curricular para o Curso de Letras: Inglês
+                      (CHS= Carga horária semanal; THS= Total de horas por semestre)
+                 1º Semestre                 CHS     THS                    2º Semestre                       CHS THS
+Introdução aos Estudos Literários               4          64    Teoria e Crítica da Literatura                   4    64
+Introdução aos Estudos da Linguagem             4          64    Introdução à Linguística Descritiva              4    64
+Leitura e Produção Textual                      4          64    Introdução à Linguística da Enunciação           4    64
+Inglês1                                         4          64    Inglês 2                                         4    64
+Prática Oral 1 de Inglês                        4          64    Prática Oral 2 de Inglês                         4    64
+           TOTAL DE HORAS SEMANAIS             20                           TOTAL DE HORAS SEMANAIS               20
+       TOTAL DE HORAS SEMESTRAIS                           320         TOTAL DE HORAS SEMESTRAIS                       320
+                                      Prática como Componente Curricular (100h)
+
+
+                 3º Semestre                  CHS      THS                       4º Semestre                  CHS THS
+Introdução à Língua Brasileira de Sinais –      4          64    Linguística Aplicada – Línguas                   4    64
+LIBRAS                                                           Estrangeiras
+Psicologia da Educação I                        4          64    Psicologia da Educação II                        4    64
+Fundamentos Filosóficos e Sócio-históricos      4          64    Políticas Educacionais no Brasil                 4    64
+da Educação
+Inglês 3                                        4          64    Inglês 4                                         4    64
+Prática Escrita de Inglês                       4          64    Disciplina de Núcleo Livre                       4    64
+           TOTAL DE HORAS SEMANAIS             20                           TOTAL DE HORAS SEMANAIS               20
+       TOTAL DE HORAS SEMESTRAIS                           320         TOTAL DE HORAS SEMESTRAIS                       320
+                                      Prática como Componente Curricular (100h)
+
+
+                 5º Semestre                  CHS      THS                       6º Semestre                  CHS THS
+Inglês 5                                        4          64    Inglês 6                                         4    64
+Estágio 1 – Inglês                              6          96    Estágio 2 – Inglês                               6    96
+Literaturas de Língua Inglesa 1                 4          64    Literaturas de Língua Inglesa 2                  4    64
+Disciplina de Núcleo Livre                      4          64    Metodologia do Trabalho Científico –             4    64
+                                                                 Línguas Estrangeiras
+           TOTAL DE HORAS SEMANAIS             18                        TOTAL DE HORAS SEMANAIS                  18
+       TOTAL DE HORAS SEMESTRAIS                           288         TOTAL DE HORAS SEMESTRAIS                       288
+                                      Prática como Componente Curricular (100h)
+
+
+                 7º Semestre                  CHS      THS                       8º Semestre                  CHS THS
+Inglês 7                                        4          64    Inglês 8                                         4    64
+Estágio 3 – Inglês                              6          96    Estágio 4 – Inglês                               7    112
+Literaturas de Língua Inglesa 3                 4          64    Literaturas de Língua Inglesa 4                  4    64
+Trabalho de Conclusão de Curso 1 – Inglês       2          32    Trabalho de Conclusão de Curso 2 – Inglês        2    32
+Disciplina Optativa                             4          64    Disciplina Optativa                               4   64
+          TOTAL DE HORAS SEMANAIS              20                         TOTAL DE HORAS SEMANAIS                 21
+       TOTAL DE HORAS SEMESTRAIS                           320         TOTAL DE HORAS SEMESTRAIS                       336
+                                      Prática como Componente Curricular (100h)
+
+Núcleo Comum: 384 horas-aula (15,28%)
+Núcleo Específico Obrigatório: 1.872 horas-aula (74,52%)
+Núcleo Específico Optativo: 128 horas-aula (5,10%)
+Núcleo Livre: 128 horas-aula (5,10%)
+Total de horas-aula: 2.512 horas-aula
+Prática como Componente Curricular: 400 horas
+Atividades Complementares: 200 horas
+Total de horas do curso: 3.112 horas
+                                                                                18
+
+
+Obs: O discente deverá inscrever-se em, no mínimo, uma (1) disciplina por
+semestre.
+
+
+
+d) Prática como Componente Curricular (PCC)
+
+
+         A Resolução CNE/CP 2 (BRASIL, 2002a) determina que os cursos de
+licenciatura devem dedicar “400 horas de prática como componente curricular,
+vivenciadas ao longo do curso”. A fim de atender a essa exigência, serão realizadas
+4 PCCs ao longo do curso de Letras: Inglês, sendo uma por ano. Cada PCC terá a
+duração de 100 horas. A FL/UFG atende essa Resolução em seu item I do artigo 1º,
+bem como ao Parecer 15/2005 do CNE, que esclarece a diferença entre Prática como
+Componente Curricular (PCC), Atividades Práticas e Estágio Supervisionado.
+Conforme o CNE, “as atividades caracterizadas como prática como componente
+curricular podem ser desenvolvidas como núcleo ou como parte de disciplinas ou de
+outras atividades formativas” (CNE/CES, 2005, p. 3). Dessa forma, a FL/UFG optou
+por desenvolver a PCC como núcleo e não como parte integrante das disciplinas do
+curso.
+         Durante a realização das PCCs, que deverão ocorrer no primeiro semestre
+de cada ano, será reservada até uma semana para atividades de campo
+desenvolvidas nessa categoria. Dessa forma, os discentes contam com um tempo
+específico para transcender a sala de aula, buscando uma articulação com os órgãos
+normativos e executivos do sistema, ou contatando agências educacionais não
+escolares, como entidades de representação profissional, e famílias de estudantes
+cujo conhecimento propicia uma melhor compreensão do ethos dos discentes
+(BRASIL, 2001b, p. 9).
+         No início de cada ano, a Coordenação do curso de Letras: Inglês
+aconselhará os discentes a, em grupos, procurarem um docente efetivo da unidade
+para a realização dessa prática, entendida como a interrelação da teoria com a
+realidade social. Assim, prevê-se o envolvimento de todo o corpo docente da
+unidade no acompanhamento dessas atividades, que permeiam toda a formação do
+discente, levando-o a aprender, desde o início do curso, a pesquisar conteúdos
+teóricos e pedagógicos. Com isso, o curso de Letras: Inglês da Universidade
+Federal de Goiás visa ao cumprimento não só da resolução acima citada, mas
+                                                                                19
+
+também da determinação das Diretrizes curriculares para os cursos de Letras, que
+requerem o desdobramento do papel de docente na figura de orientador.
+       A cada ano, os docentes devem preparar projetos para as atividades a serem
+realizadas durante o primeiro semestre. Dessa forma, o docente enviará à
+Coordenação da PCC o projeto a ser desenvolvido pelos discentes, em grupos de 3
+a 5 membros, num total máximo de 15 participantes. Após as inscrições dos
+discentes, o docente se reunirá com os inscritos em sua PCC para lhes passar
+orientações e material bibliográfico.
+       O Coordenador da PCC, juntamente com a Coordenação dos Cursos,
+indicará uma semana a ser destinada para o desenvolvimento de atividades de
+campo, que será apreciada e aprovada pelo Conselho Diretor da Faculdade de
+Letras. No final de cada ano, um relatório elaborado pelo discente, a partir das
+observações realizadas durante as atividades, deve ser entregue ao docente
+responsável. Os trabalhos poderão ser apresentados durante o Colóquio de Pesquisa
+e Extensão, realizado na Semana do Calouro, no início de cada ano letivo.
+
+
+e) Atividades Complementares
+
+
+       Quanto às outras formas de atividades acadêmico-científico-culturais, a
+Resolução CNE/CP 2 (BRASIL, 2002a) determina, para os cursos de licenciatura,
+que sejam dedicadas 200 horas para esse fim. Este projeto prevê, portanto, a
+realização de 200 horas de atividades complementares que correspondem,
+principalmente, a participações em simpósios, seminários, congressos, cursos,
+minicursos e outros eventos científicos congêneres ou projetos de extensão,
+desenvolvidos na Faculdade de Letras, em outras unidades da Universidade
+Federal de Goiás, assim como em outras instituições.
+       Para que os certificados de participação, declarações de frequência,
+diplomas, entre outros documentos, sejam válidos, porém, é necessário que essas
+atividades estejam relacionadas direta ou interdisciplinarmente à área de Letras.
+Ademais, tais atividades devem ser de nível superior, ou equivalente, promovidas
+por instituições públicas ou privadas devidamente reconhecidas. Estabelece-se o
+limite de 20 horas, por evento, para o aproveitamento de atividades realizadas fora
+da Universidade Federal de Goiás. Estabelece-se, também, o limite máximo de 20
+                                                                                   20
+
+horas para aproveitamento total de cursos realizados online, tendo em vista que o
+curso de Letras: Inglês prima pelo desenvolvimento formativo na modalidade
+presencial.
+         Para os discentes do curso de Letras: Inglês, os cursos de Língua
+Portuguesa, de Línguas Estrangeiras e de Libras, oferecidos pelo Centro de Línguas
+da Faculdade de Letras da UFG, ou por outros cursos de línguas, não serão
+considerados como Atividades Complementares.
+         A presença em defesas de dissertação de mestrado (2 horas para cada defesa)
+ou tese de doutorado (4 horas para cada defesa), num limite total de 40 horas,
+poderá     ser   igualmente   computada    para   o   cumprimento     das   atividades
+complementares. Assim, busca-se promover uma maior articulação entre a
+graduação e a pós-graduação e possibilitar que o discente tenha contato com a
+pesquisa e com a prática acadêmica das arguições públicas.
+         Todas as atividades do curso de Letras: Inglês – sejam as disciplinas, seja a
+Prática como Componente Curricular ou ainda as Atividades Complementares –
+poderão ser realizadas, de acordo com as condições de oferta e/ou demanda, nos
+períodos de férias acadêmicas.
+                                                                                       21
+
+
+VI. Política e Gestão do Estágio Curricular
+
+
+a) Estágio Curricular Obrigatório
+
+       O presente projeto atende ao que determina a Resolução CNE/CP 2
+(BRASIL, 2002a), que aumenta para 400 horas a carga horária a ser dedicada ao
+estágio curricular supervisionado de ensino, que deve ter seu início na segunda
+metade do curso, em locais conveniados com a UFG, especialmente as escolas
+públicas. Desse modo, o discente deverá cursar quatro disciplinas de estágio
+supervisionado, distribuídas em quatro semestres, assim que cumprir a metade da
+carga horária total em disciplinas. Igualmente, com base na referida resolução,
+prevê-se a redução da carga horária do estágio, até o máximo de 200 horas, para os
+discentes que exerçam atividade docente regular na educação básica, ministrando
+disciplinas referentes à licenciatura em inglês. Tal redução será concedida somente
+quanto às atividades na escola-campo, durante o Estágio 2 e o Estágio 3.
+       Em observância da Resolução CEPEC 731/2005, sobretudo no que diz respeito
+aos artigos 8º., 9º., 10º., 11º. e 12º., para integralizar as horas de estágio obrigatório
+supervisionado, as três primeiras disciplinas (Estágio 1, Estágio 2 e Estágio 3)
+correspondem, cada uma, a 96 h., sendo 32 h. de aulas teóricas que envolvem
+planejamento e orientação por parte do docente responsável pelo estágio obrigatório
+supervisionado da turma em que o discente estiver inscrito, e 64 h. de atividades
+práticas realizadas na escola-campo sob orientação do docente responsável e tutoria de
+supervisão de um docente lotado no campo de estágio. As atividades na escola-campo
+devem incluir ações de apreensão da realidade escolar e ações de intervenção
+pedagógica, tanto pela via da observação, da discussão quanto da intervenção sobre as
+atividades correntes no âmbito escolar. Quanto à quarta disciplina (Estágio 4), que
+totaliza 112 h. das 400 h. deste núcleo formativo, 48 h. são de aulas teóricas que
+envolvem planejamento e orientação por parte do docente responsável, incluindo
+apresentação de resultados na forma de comunicação e debate por parte do discente na
+turma em que estiver inscrito. As demais 64 h. da disciplina Estágio 4 serão de
+atividades práticas realizadas na escola-campo sob orientação do docente responsável e
+tutoria de supervisão de um docente lotado no campo de estágio. Ressalte-se que essas
+                                                                                    22
+
+atividades compreendem, sobretudo, a aplicação pedagógica do projeto de ensino e
+pesquisa desenvolvido ao longo do estágio anterior.
+       O estágio supervisionado constitui uma das modalidades de prática a ser
+realizada diretamente em unidades escolares dos sistemas de ensino, “sob a forma
+de uma ação desenvolvida enquanto vivência profissional prolongada, sistemática,
+intencional      [e]   acompanhada”       (FÓRUM       DE     PRÓ-REITORES         DE
+GRADUAÇÃO DAS UNIVERSIDADES BRASILEIRAS, 2002, p. 23). Ele
+objetiva um conhecimento do real em situação de trabalho. Revela-se como espaço
+de construção do docente como sujeito que tem domínio de sua própria prática e de
+seu papel social.
+       O estágio é concebido não somente como observação e regência. São
+contempladas as várias facetas da formação profissional, tais como a observação de
+reuniões de pais e professores, Conselho de Classe, exame de regulamentos e
+estatutos   da    escola   escolhida,   entrevistas   com   coordenadores,   diretores,
+orientadores e professores, análise dos projetos pedagógicos e demais atividades;
+preparação e pilotagem de material didático; engajamento em atividades
+extracurriculares, tais como classes de aceleração, oficina de redação, clubes de
+conversação para línguas estrangeiras, auxílio na avaliação de alunos e projetos de
+pesquisas no contexto de estágio (PAIVA, 2003).
+       Conforme a legislação vigente, podem complementar a formação docente
+“as tecnologias da informação, incluídos o computador e o vídeo, narrativas orais e
+escritas de professores, produções de alunos, situações simuladoras e estudos de
+caso” (CNE/CP 1, 2002b), que se encontram em consonância com um dos
+princípios norteadores para a formação docente.
+       O estágio supervisionado consiste em ação desenvolvida na interface do
+projeto pedagógico do curso e da escola em que é realizado.
+
+
+b) Estágio Curricular Não Obrigatório
+
+
+       Este tipo de estágio pode ser desenvolvido pelo discente do curso sem
+prejuízo do desenvolvimento do processo acadêmico. Não se configura como
+emprego, sendo proibido o estabelecimento de vínculos empregatícios, conforme
+consta na Lei n. 11.788, de 25 de setembro de 2008 (BRASIL, 2008). Essa
+                                                                               23
+
+modalidade de Estágio poderá ser desenvolvida a partir do 5º semestre letivo,
+durante o decorrer das atividades discentes dos alunos do curso de Letras: Inglês,
+na modalidade presencial, desde que não interfiram no desenvolvimento do Estágio
+Curricular Obrigatório. Segundo a Resolução CEPEC n. 766, Art. 7º
+(UNIVERSIDADE FEDERAL DE GOIÁS, 2005), a finalidade do Estágio
+Curricular não obrigatório é ampliar o desenvolvimento profissional do discente
+proporcionando-lhe a aquisição de conhecimentos que complementem a sua
+formação como docente de Inglês e como cidadão crítico e reflexivo. O Estágio
+Curricular Não Obrigatório somente será realizado em locais conveniados com a
+UFG ou por meio de Agentes de Integração devidamente conveniados e poderá
+abranger atividades ligadas à comunicação e à formação em língua inglesa, bem
+como à docência realizada em outros contextos diferentes dos realizados no Estágio
+Curricular Obrigatório.
+                                                                                  24
+
+
+VII. O Trabalho de Conclusão de Curso (TCC)
+
+
+       Para a obtenção do grau de licenciado em Letras: Inglês, o discente deve
+realizar um Trabalho de Conclusão de Curso, doravante TCC, ou seja, um trabalho
+acadêmico, realizado individualmente, a partir de pesquisa sobre um tema
+relacionado com a sua área de formação profissional. Isso se justifica pelo princípio
+de indissociabilidade entre as atividades de ensino, pesquisa e extensão, previsto
+tanto no Estatuto, quanto no Regimento da UFG.
+       Para que isso seja possível, está prevista a oferta da disciplina Metodologia
+do Trabalho Científico – Línguas Estrangeiras, no semestre imediatamente anterior
+ao TCC, que tratará das normas científicas e das técnicas e procedimentos de
+pesquisa acadêmica, auxiliando o discente na construção de seu projeto de
+pesquisa. Já nas referidas disciplinas de TCC, o discente terá que desenvolver sua
+pesquisa, realizando atividades de estudo bibliográfico, coleta, análise e
+interpretação de dados, conforme previsto no seu projeto de pesquisa e de acordo
+com as orientações recebidas do orientador, que deverá acompanhar esse discente
+nas disciplinas de TCC 1 e de TCC 2. Serão estipulados, em regulamento
+específico, os procedimentos adotados para a avaliação do TCC.
+                                                                                 25
+
+
+VIII. Sistema de Avaliação do Processo de Ensino e Aprendizagem
+
+
+       A avaliação do discente deve servir não só para medir seu desempenho
+acadêmico, mas, sobretudo, para compor o processo educativo. O crescimento
+intelectual do discente deve ser incentivado, considerando-se os objetivos de cada
+etapa do processo de formação e as habilidades desenvolvidas.
+       A avaliação, entendida como forma de diagnóstico e acompanhamento do
+processo de aprendizagem, será realizada de modo contínuo e processual,
+apoiando-se em dados qualitativos e quantitativos. Ressalte-se a concepção do
+processo avaliativo com caráter formativo, no sentido de observar a evolução do
+desempenho discente, bem como indicar aspectos que podem ser melhorados.
+
+       O docente deve estar atento para reconhecer e assumir a diversidade cultural
+e social presente na universidade e na sociedade, valorizando-a. A avaliação deve
+constituir-se “um processo que considere as idiossincrasias e interesses específicos
+dos alunos, ao mesmo tempo em que respeite suas possibilidades intelectuais e
+sociais, além daquelas relativas ao tempo necessário para realizá-la” (FORGRAD,
+2002, p. 111).
+       No que se refere ao aspecto quantitativo da avaliação do desempenho, este
+projeto obedece ao que está previsto no Regulamento Geral dos Cursos de Graduação da
+Universidade Federal de Goiás.
+                                                                                             26
+
+
+IX. Integração Ensino, Pesquisa e Extensão
+
+
+       O Estatuto e Regimento da Universidade Federal de Goiás (2004, p. 31-33), ao
+tratar do regime didático-científico, determina a indissociabilidade entre ensino,
+pesquisa e extensão, esclarecendo:
+
+                       Art. 54. O Ensino [...] será ministrado mediante a realização de cursos e
+                       outras atividades didáticas, curriculares e extracurriculares.
+
+                       Art. 60. A pesquisa, assegurada a liberdade de temas, terá por objetivo
+                       produzir, criticar e difundir conhecimentos culturais, artísticos,
+                       científicos e tecnológicos.
+
+                       Art. 62. A extensão terá como objetivo intensificar relações
+                       transformadoras entre a Universidade e a Sociedade, por meio de um
+                       processo educativo, cultural e científico.
+
+
+       Assim, a Faculdade de Letras busca a compreensão rigorosa dos métodos
+envolvidos na produção e comunicação dos saberes, articulando as três pontas
+desse tripé, considerando o que consta no Plano Nacional de Graduação (PNG),
+elaborado pelo Fórum de Pró-Reitores de Graduação das Universidades Brasileiras
+(2002, p. 10), em que consta:
+
+                       Ensino com extensão aponta para a formação contextualizada às agudas
+                       questões da sociedade contemporânea. Ensino com pesquisa aponta
+                       para o verdadeiro domínio dos instrumentos nos quais cada profissão se
+                       expressa, em seu próprio processo evolutivo.
+
+
+       As atividades de extensão da Faculdade de Letras originam-se na pesquisa e
+no ensino e se estendem ao público acadêmico, a docentes das escolas da rede
+pública e privada, buscando envolver a sociedade em geral. As ações compreendem
+palestras, conferências, seminários (como o de línguas estrangeiras, de linguística e
+língua portuguesa e de literatura e crítica), colóquios, simpósios e cursos, com a
+participação de especialistas da própria instituição, assim como de outras
+universidades ou demais entidades brasileiras e estrangeiras. A atuação de docentes
+e discentes da Faculdade de Letras, nessas atividades, tem como objetivo apresentar
+propostas e alternativas de ensino, procurando colaborar e integrar-se à realidade
+da escola em Goiás, assim como proporcionar à sociedade questionamentos,
+reflexões e conhecimento no sentido de contribuir para a difusão e construção do
+                                                                                27
+
+saber e da cultura. A preocupação com a realidade do ensino pode ser constatada,
+sobretudo, na colaboração em projetos e programas de escolas e governos,
+municipal e estadual.
+       Como parte de sua política de extensão, a Faculdade de Letras criou, em
+1995, o Centro de Línguas, onde são ministrados, a baixo custo, cursos de línguas à
+comunidade universitária e à comunidade em geral. Esse Centro tornou-se
+referência no ensino de línguas no Estado de Goiás e é um privilegiado campo de
+estágio para discentes da Faculdade de Letras.
+       No que tange à pesquisa, vista como princípio educativo e não apenas como
+princípio científico, observa-se uma articulação cada vez maior entre a graduação e
+a pós-graduação. Discentes da graduação participam de projetos de pesquisa de
+docentes que integram o Programa de Pós-Graduação; são convidados a assistir a
+palestras e conferências organizadas por esse Programa; tomam conhecimento da(s)
+linha(s) de pesquisa em que atua cada docente, durante o Colóquio de Pesquisa e
+Extensão que ocorre anualmente, no início do ano letivo, por ocasião da Semana
+do Calouro, bem como durante a realização do Seminário de Dissertações e Teses
+em Andamento, do Programa de Pós-Graduação em Letras e Linguística, uma
+atividade que ocorre regularmente durante o segundo semestre letivo.
+       Dessa forma, procura-se superar o processo de ensino fragmentado,
+privilegiando ações integradas, nas quais a pesquisa é encarada como instrumento
+do ensino e a extensão como ponto de partida e de chegada da apreensão da
+realidade.
+       Para viabilizar essa integração, privilegia-se o regime de trabalho em tempo
+integral com dedicação (40h/DE), conforme ilustrado no quadro a seguir.
+
+
+                 Regime de trabalho          Número de docentes
+                     Parcial (20h)                4
+                  Integral (40h/DE)              70
+                                                                                                 28
+
+
+X. Política de Qualificação Docente e do Técnico-Administrativo
+da Faculdade de Letras
+
+
+          A Faculdade de Letras tem manifestado uma preocupação constante com a
+qualificação de seus formadores, de modo a atender à exigência da legislação em
+vigor quanto ao novo perfil docente,
+
+
+                            que passa, necessariamente, pela formação científica do professor na sua
+                            área de conhecimento, preferentemente no nível do doutorado, pelo
+                            conhecimento do complexo processo histórico de constituição de sua
+                            área, pela compreensão ampla e crítica dos métodos que produziram o
+                            conhecimento acumulado naquela especificidade, de modo a iniciar
+                            todo aluno aos fundamentos e aos métodos que produziram e produzem
+                            aquela ciência. (FÓRUM DE PRÓ-REITORES DE GRADUAÇÃO
+                            DAS UNIVERSIDADES BRASILEIRAS, 2002, p. 22)
+
+
+          Seja por meio de autorização de afastamento para qualificação ou redução
+da carga horária dedicada ao ensino e demais atividades acadêmicas e
+administrativas, tem sido possibilitada a formação científica do docente na sua área
+de conhecimento (estudos linguísticos ou literários).
+          O quadro2 a seguir, que indica o número de docentes da unidade de acordo
+com sua titulação, pode comprovar essa preocupação:
+
+                           Titulação               Número de docentes
+                           Graduados                        2
+                            Mestres                        23*
+                           Doutores                       49**
+                        * Dentre eles, 7 em doutoramento.
+                       ** Dentre eles, 8 com estágio pós-doutoral.
+
+          Ressalte-se, ainda, que, nos últimos concursos para contratação de docente,
+foi exigida prioritariamente a titulação de doutor para a candidatura.
+          Por meio de concessão de passagens aéreas e diárias, tem sido estimulada a
+participação dos docentes com apresentação de trabalho em eventos científicos
+como congressos, seminários ou congêneres. Nessas ocasiões, os docentes da
+unidade têm oportunidade tanto de adquirir novos conhecimentos, atualizando-se,
+como de divulgar os conhecimentos construídos na instituição.
+
+
+2
+    Dados atualizados em outubro de 2011.
+                                                                                  29
+
+       No que se refere à qualificação do pessoal técnico-administrativo, a
+Faculdade de Letras tem possibilitado uma adequação no horário, entre os
+funcionários, de modo a viabilizar a realização de cursos de aperfeiçoamento. Além
+disso, o Centro de Línguas disponibiliza bolsas de estudo integrais para seus cursos.
+                                                                             30
+
+
+XI. Sistema de Avaliação do Projeto Pedagógico do Curso de
+Letras: Inglês
+
+
+       A fim de propiciar o aperfeiçoamento contínuo e o crescimento qualitativo
+do curso, atribui-se, primeiramente, ao Núcleo Docente Estruturante, a
+responsabilidade pela avaliação do projeto pedagógico. Em se observando
+necessidade de alterações no Projeto, estas serão apresentadas de modo
+formalizado ao Conselho Diretor da Faculdade de Letras para aprová-las,
+encaminhando a decisão às Instâncias superiores da UFG, a saber: Câmara de
+Graduação e Câmara de Ensino, Pesquisa, Extensão e Cultura (CEPEC).
+       A Faculdade de Letras tem incentivado a participação de seus docentes em
+outros sistemas de avaliação externa, como os do INEP/MEC. Essas atividades se
+revertem em contribuição para o aperfeiçoamento da concepção e objetivos
+delineados no projeto.
+       A Resolução do Curso de Letras prevê a possibilidade de revisão da matriz
+curricular a cada dois anos.
+                                                                                 31
+
+
+XII. Considerações Finais
+
+
+       Acredita-se que, por intermédio do ensino dos conteúdos programáticos
+desenvolvidos em cada disciplina, da promoção das demais atividades acadêmicas,
+da atenção conferida à capacidade de reflexão, questionamento e construção do
+conhecimento, o curso de Letras: Inglês da UFG possa formar profissionais que
+desenvolvam sua capacidade intelectiva e criativa por meio da linguagem,
+considerada nas suas múltiplas funções. Para tanto, terão contribuído, igualmente,
+a articulação entre a teoria e a prática, incentivada ao longo da formação, a ênfase
+na interdisciplinaridade e a indissociabilidade entre ensino, pesquisa, extensão e
+cultura.
+       Por fim, o curso de Letras: Inglês da UFG pretende formar profissionais
+que apresentem uma atitude investigativa diante dos fatos linguísticos e
+pedagógicos, que constituem sujeitos ativos capazes de transformar o mundo, que
+reconhecem e valorizam a diversidade, que propagam valores humanistas.
+                                                                                 32
+
+
+XIII. Referências
+
+
+BRASIL. Lei nº 9394, de 20/12/1996. Estabelece as diretrizes e bases da educação
+nacional. Diário Oficial da União, Brasília, ano CXXXIV, n. 248, 23 dez.1996. p.
+27833-27841.
+
+______. Lei nº 9.795, de 27/04/1999. Dispõe sobre a educação ambiental, institui a
+Política Nacional de Educação Ambiental e dá outras providências. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/Leis/L9795.htm>. Acesso em: 3 mar.
+2012.
+
+______. Conselho Nacional de Educação. Parecer CNE/CES 492, de 03 de abril de
+2001. Diretrizes curriculares para os cursos de Letras. 2001a.
+
+______. Conselho Nacional de Educação. Parecer CNE/CP 28, de 02 de outubro de
+2001. Estabelece a duração e a carga horária dos cursos de Formação de
+Professores da Educação Básica, em nível superior, curso de licenciatura, de
+graduação plena. 2001b.
+
+______. Decreto nº 4.281, de 25/06/2002. Regulamenta a Lei no 9.795, de 27 de
+abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras
+providências.                             Disponível                          em:
+<http://www.planalto.gov.br/ccivil_03/decreto/2002/d4281.htm>. Acesso em: 3
+mar. 2012.
+
+______. Conselho Nacional de Educação. CONSELHO NACIONAL DE
+EDUCAÇÃO. Conselho Pleno. Resolução CNE/CP 2, de 19 de fevereiro de 2002.
+Institui a duração e a carga horária dos cursos de licenciatura, de graduação plena.
+2002a.
+
+______. Conselho Nacional de Educação. Conselho Pleno. Resolução CNE/CP 1, de
+18 de fevereiro de 2002. Diretrizes Curriculares Nacionais para a Formação de
+Professores da Educação Básica. 2002b.
+
+______. Lei nº 10.639, de 09/01/2003. Altera a Lei no 9.394, de 20 de dezembro de
+1996, que estabelece as diretrizes e bases da educação nacional, para incluir no
+currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e
+Cultura Afro-Brasileira", e dá outras providências. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/leis/2003/L10.639.htm>. Acesso em: 3
+mar. 2012.
+
+______. Conselho Nacional de Educação. Parecer CNE/CES 15, de 02 de fevereiro
+de 2005. Solicitação de esclarecimento sobre as Resoluções CNE/CP nºs 1/2002,
+que institui Diretrizes Curriculares Nacionais para a Formação de Professores da
+Educação Básica, em nível superior, curso de licenciatura, de graduação plena, e
+2/2002, que institui a duração e a carga horária dos cursos de licenciatura, de
+graduação plena, de Formação de Professores da Educação Básica, em nível
+superior. 2005.
+                                                                                  33
+
+
+
+BRASIL. Ministério do Trabalho e Emprego. Lei 11788, de 25 de setembro de 2008.
+Dispõe sobre o estágio de estudantes e da outras providências. Diário Oficial da
+União. Brasília, 26 set. 2008.
+
+______. Lei nº 11.465, de 10/03/2008. Altera a Lei nº 9.394, de 20 de dezembro de
+1996, modificada pela Lei nº 10.639, de 9 de janeiro de 2003, que estabelece as
+diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de
+ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e
+Indígena”.                             Disponível                                em:
+<http://www.iteral.al.gov.br/legislacao/http___www.iteral.al.gov.br_legsilacao_L
+ei-2011.465_-20de-202008.pdf>. Acesso em: 3 mar. 2012.
+
+______. Ofício Circular no. 02/2010-CGOC/DESUP/SESu/MEC, de 16 de junho de
+2010.
+
+FIORIN, J. L. Curso de Letras: Desafios e perspectivas para o próximo milênio. In:
+SEMINÁRIO NACIONAL DE LITERATURA E CRÍTICA, 4, SEMINÁRIO
+NACIONAL DE LINGUÍSTICA E LÍNGUA PORGUESA 2, 1999, Goiânia.
+Anais... Goiânia: Gráfica e Editora Vieira, 2001. p. 13-21.
+
+FORGRAD. O currículo como expressão do projeto pedagógico: um processo
+flexível (2000). In: FORGRAD. Resgatando espaços e construindo idéias. Niterói:
+Editora UFF, 2000. p. 103-116.
+
+FÓRUM DE PRÓ-REITORES DE GRADUAÇÃO DAS UNIVERSIDADES
+BRASILEIRAS. Diretrizes para a formação de professores: concepções e
+implementação. João Pessoa, 2002.
+
+PAIVA, V. L. M. Estágio do curso de Letras. Mensagem para a CVL (Comunidade
+Virtual da Linguagem), encaminhada em 9 mar 2003.
+
+UNIVERSIDADE FEDERAL DE GOIÁS. Conselho de Ensino Pesquisa
+Extensão e Cultura. Resolução CEPEC 329. Fixa o Currículo Pleno do curso de
+Letras - Licenciatura/Bacharelado. 1992.
+
+______. Regulamento Geral dos Cursos de Graduação. Goiânia: Gráfica da UFG, 2002.
+
+______. Conselho de Ensino Pesquisa Extensão e Cultura. Resolução CEPEC 631.
+Política da UFG para a Formação de Professores da Educação Básica. 2003.
+
+______.    Estatuto     e     Regimento.   2004.               Disponível        em:
+<http://www.ufg.br/page.php?menu_id=112& pos=esq>.
+
+______. Conselho de Ensino Pesquisa Extensão e Cultura. Resolução CEPEC 766.
+Disciplina os estágios curriculares obrigatórios e não obrigatórios dos Cursos de
+Bacharelado e Específicos da Profissão na Universidade Federal de Goiás. 2005.
+           34
+
+
+
+
+Apêndice
+                                                                                       35
+
+
+          Apêndice A: Elenco de Disciplinas com Ementas
+
+
+                         Disciplinas do Núcleo Comum
+
+
+INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM
+
+Panorama geral dos fenômenos da linguagem e suas abordagens científicas. As concepções
+de língua e linguagem. Trajetória dos estudos linguísticos desenvolvidos no âmbito da
+palavra, da oração, do texto e do discurso.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ILARI, R. O estruturalismo linguístico: alguns caminhos. In: MUSSALIM, F.; BENTES, A.
+C. (Org.). Introdução à linguística: fundamentos epistemológicos. v. 3. São Paulo: Cortez,
+2004. p. 53-92.
+FIORIN, J. L. (Org.). Introdução à linguística: objetos teóricos. São Paulo: Contexto, 2002.
+SARFATI, G.; PAVEAU, A.-M. As grandes teorias da linguística. Editora Claraluz, 2006.
+SAUSSURE, F. de. Curso de linguística geral. 16. ed. São Paulo: Cultrix, 1991.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ BAKHTIN, M. Marxismo e filosofia da linguagem. São Paulo: Hucitec, 1995.
+CARBONI, F. Introdução à linguística. Belo Horizonte: Autêntica, 2008.
+GRANGER, G.-G. A ciência e as ciências. São Paulo: Editora UNESP, 1994.
+NEVES, M. H. de M. Gramática funcional. São Paulo: Martins Fontes, 1997.
+LOPES, E. Fundamentos da linguística contemporânea. São Paulo: Cultrix, 1996.
+MARTELOTTA, M. E. (Org.). Manual de linguística. São Paulo: Contexto, 2008.
+MARTIN, R. Para entender a linguística. São Paulo: Parábola, 2003.
+RAPOSO, E. Teoria da Gramática. A faculdade da linguagem. Lisboa: Caminho, 1992.
+WEEDWOOD, B. História concisa da linguística. São Paulo: Parábola, 2002.
+XAVIER, A.; CORTEZ, S. (Org.). Conversas com linguistas: virtudes e controvérsias da
+linguística. São Paulo: Parábola, 2003.
+
+
+
+INTRODUÇÃO AOS ESTUDOS LITERÁRIOS
+
+Introdução aos conceitos fundamentais da literatura. Abordagem da problemática dos
+gêneros literários. Leituras e estudos sistemáticos do poema, da narrativa e do drama.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AGUIAR e SILVA, V. Teoria da Literatura. Coimbra: Almedina, 1983.
+AUERBACH, E. Introdução aos estudos literários. São Paulo, Cultrix, l972.
+COMPAGNON, A. O demônio da teoria: literatura e senso comum. Trad.: C. P. B. Mourão,
+C. F. Santiago. Belo Horizonte: Editora UFMG, 2001.
+CULLER, J. Introdução à Teoria Literária. São Paulo: Beca Edições, 1999.
+D’ONOFRIO, S. Teoria do texto 1. São Paulo: Ática, 1995.
+                                                                                        36
+
+______. Teoria do texto 2. São Paulo: Ática, 1995.
+PORTELLA, E. et al. Teoria Literária. Rio de Janeiro: Tempo Brasileiro, 1979.
+SOUZA, R. A. de. Iniciação aos estudos literários. Objetos, disciplinas, instrumentos. São
+Paulo: Martins Fontes, 2006.
+STAIGER, E. Conceitos fundamentais de poética. Trad.: C. A. Galeão. Rio de Janeiro: Tempo
+Brasileiro, 1969.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARISTÓTELES. HORÁCIO. LONGINO. A poética clássica. Trad.: J. Bruna. São Paulo:
+Cultrix, 1990.
+BARTHES, R. Existe uma escrita poética? In: ______. O grau zero da escrita: seguido de
+Novos ensaios críticos. Trad.: M. Laranjeira. São Paulo: Martins Fontes, 2000.
+CANDIDO, A. et al. A personagem de ficção. São Paulo: Perspectiva, 1976.
+COMPAGNON, A. O demônio da teoria. Literatura e senso comum. Trad.: C. P. B. Mourão.
+Belo Horizonte: Editora UFMG, 1999.
+COSTA, L. M. da; REMÉDIOS, M. L. R. A tragédia. Estrutura e história. São Paulo: Ática,
+1988.
+EAGLETON, T. Teoria da literatura: uma introdução. Trad.: W. Dutra. São Paulo: Martins
+Fontes, 1983.
+ECO, U. Sobre algumas funções da literatura. In _____. Sobre a literatura. 2.ed. Rio de
+Janeiro: Record, 2003.
+FISCHER, E. A necessidade da arte. Rio de Janeiro: Zahar, 1983.
+FOUCAULT, M. Linguagem e literatura. In: MACHADO, R. Foucault, a filosofia e a
+literatura. Rio de Janeiro: Jorge Zahar, 2000. p. 137-174.
+GONÇALVES, M. T.; BELLODI, Z. C. Teoria da literatura “revisitada”. Petrópolis, RJ;
+Vozes, 2005.
+JAKOBSON, R. Linguística e comunicação. São Paulo: Cultrix, 2001.
+JOBIM, J. L. (Org.). Introdução aos termos literários. Rio de Janeiro: Editora UERJ, 1999.
+MARX, K.; ENGELS, F. Cultura, arte e literatura: textos escolhidos. São Paulo: Expressão
+Popular, 2010 (Col. Arte e Sociedade).
+PLATÃO. Livro X. In: _____. A república. 2. v. 1. ed. Trad.: J. Guinsburg. São Paulo:
+Difusão Européia do Livro, 1973. p. 218-260.
+STALLONI, Y. Os gêneros literários. Trad.: F. Nascimento. Rio de Janeiro: Difel, 2001.
+WELLECK, R.; WARREN, A. Teoria da literatura. Lisboa: Publicações Europa-América,
+1976.
+
+
+
+LEITURA E PRODUÇÃO TEXTUAL
+
+Prática de leitura e produção de textos com ênfase nos aspectos de sua organização.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+FIORIN, J. L.; SAVIOLI, F. P. Lições de texto: leitura e redação. São Paulo: Ática, 1999.
+FREIRE, P. A importância do ato de ler (em três artigos que se completam). São Paulo: Cortez,
+1983.
+GERALDI, J. W. (Org.). O texto na sala de aula: leitura e produção. São Paulo: Ática, 1999.
+KOCH, I. V.; TRAVAGLIA, L. C. A coerência textual. São Paulo: Contexto, 1995.
+KOCH, I. V.; TRAVAGLIA, L. C. A coesão textual. São Paulo: Contexto, 1993.
+                                                                                         37
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BAGNO, M. Preconceito linguístico: o que é, como se faz. São Paulo: Loyola, 1999.
+BECHARA. E. Ensino de gramática. Opressão? Liberdade? São Paulo: Ática, 1987.
+CUNHA, C.; CINTRA, L. Nova gramática do português contemporâneo. Rio de Janeiro: Nova
+Fronteira, 1985.
+FÁVERO. L. L. Coesão e coerência textuais. São Paulo: Ática, 1998.
+GARCIA, O. M. Comunicação em prosa moderna – aprenda a escrever, aprendendo a pensar.
+Rio de Janeiro: Editora da Fundação Getúlio Vargas, 1977.
+KOCH, I. V.; TRAVAGLIA, L. C. A coerência textual. São Paulo: Contexto, 1995.
+KOCH, I. V.; TRAVAGLIA, L. C. A coesão textual. São Paulo: Contexto, 1993.
+LUFT, C. P. Língua e liberdade – o gigolô das palavras. Porto Alegre: L&PM, 1985.
+PAULINO, G.; WALTY, I.; FONSECA, M. N.; CURY, M. Z. Tipos de textos, modos de
+leitura. Belo Horizonte: Formato Editorial, 2001.
+PÉCORA, A. Problemas de redação. São Paulo: Martins Fontes, 1999.
+VAL, M. G. C. Redação e textualidade. São Paulo: Martins Fontes, 1994.
+
+
+
+INTRODUÇÃO À LINGUÍSTICA DA ENUNCIAÇÃO
+
+Teorias enunciativas e discursivas. Relações entre enunciado, enunciação, dialogismo,
+polifonia, heterogeneidade e argumentação. Componentes da situação enunciativa. Gêneros
+do discurso/texto. Aplicações à pesquisa e ao ensino.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAKHTIN, M. (VOLOCHINOV). Marxismo e filosofia da linguagem. 7. ed. São Paulo:
+Hucitec, 1995.
+BAKHTIN, M. Estética da criação verbal. Trad.: M. E. G. G. Pereira. 3. ed. São Paulo:
+Martins Fontes, 2000.
+BENVENISTE, E. Problemas de linguística geral I. Trad.: M. G. Novak; M. L. Neri. 5. ed.
+Campinas: Pontes, 2005.
+BENVENISTE, E. Problemas de linguística geral II. Trad.: M. G. Novak; M. L. Neri. 5. ed.
+Campinas: Pontes, 2005.
+DUCROT, O. O dizer e o dito. Trad.: E. Guimarães Campinas: Pontes, 1987.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AUTHIER-REVUZ, J. Palavras incertas. As não-coincidências do dizer. Campinas-SP:
+Editora UNICAMP, 1998.
+KERBRAT-ORECCHIONI, C. Análise da conversação: princípios e métodos. Trad.: C.
+Piovezani Filho. São Paulo: Parábola Editorial, 2006.
+KERBRAT-ORECCHIONI, C. Os atos de linguagem no discurso: teoria e funcionamento.
+Niterói: Editora UFF, 2005.
+
+
+
+INTRODUÇÃO À LINGUÍSTICA DESCRITIVA
+
+Conceitos básicos da linguística descritiva. O signo linguístico e suas relações. Os níveis de
+análise gramatical e seus respectivos objetos de investigação. Princípios de descrição
+linguística. Aplicações à pesquisa e ao ensino.
+                                                                                      38
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CASTILHO, A. Gramática do português brasileiro. São Paulo: Contexto, 2010.
+MATTOSO CÂMARA JR., J. Princípios de Linguística Geral. Rio de Janeiro: Ao Livro
+Técnico, 1998.
+PERINI, M. Princípios de linguística descritiva. São Paulo: Parábola, 2006
+SAUSSURE, F de. Curso de Linguística Geral. São Paulo: Cultrix, 1972.
+
+BIBLIOGRAFIA COMPLEMENTAR
+
+DUBOIS, J. et al. Dicionário de Linguística. São Paulo, Cultrix, 1988.
+LOBATO, M. L. Linguística e linguagem. In: LOBATO, M. L. Sintaxe gerativa do português.
+Belo Horizonte: Vigília, 1986.
+LYONS, J. Linguagem e linguística. Rio de Janeiro: Guanabara, 1987.
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à linguística: domínios e fronteiras. v. 1 e
+2. São Paulo: Cortez, 2004.
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à linguística. Fundamentos
+epistemológicos. v. 3. São Paulo: Cortez, 2004.
+ROBINS, R. H. Linguística Geral. Porto Alegre: Globo, 1981.
+ROBINS, R. Pequena história da linguística. Rio de Janeiro: Ao Livro Técnico, 1985.
+
+
+
+TEORIA E CRÍTICA DA LITERATURA
+
+Estudo dos conceitos fundamentais da teoria e da crítica literária. Estabelecimento de
+domínios das duas disciplinas. Funções, objetos e métodos. Análise de obras literárias.
+Teoria e Crítica Literárias no ensino de literatura.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ARISTÓTELES. HORÁCIO. LONGINO. A poética clássica. Trad.: J. Bruna. São Paulo:
+Cultrix, 1990.
+AUERBACH, E. Mímesis: a representação da realidade na literatura ocidental. Trad.: G.
+Sperber. São Paulo: Perspectiva, 1971.
+BRUNEL, P. A crítica literária. São Paulo: Martins Fontes, 2003.
+COMPAGNON, A. O demônio da teoria: literatura e senso comum. Trad.: C. P. B. Mourão,
+C. F. Santiago. Belo Horizonte: Editora UFMG, 2001.
+EAGLETON, T. Teoria da literatura: uma introdução. Trad.: W. Dutra. São Paulo: Martins
+Fontes, 1983.
+EAGLETON, T. A função da crítica. Rio de Janeiro: Martins Fones, 2004.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BARBOSA, J. A. A biblioteca imaginária. São Paulo: Ateliê Editorial, 2003.
+CANDIDO, A. Literatura e sociedade. 9. ed. Rio de Janeiro: Ouro sobre azul, 2006.
+WINSATT, W. K.; BROOKS, C. Crítica literária: breve história. Lisboa: Calouste
+Gulbenkian, 1997.
+                                                                                       39
+
+
+               Disciplinas do Núcleo Específico Obrigatório
+
+INGLÊS 1
+
+Introdução às práticas de compreensão e expressão oral e escrita em inglês. Estudo de
+aspectos sistêmicos e discursivos da língua inglesa. Reflexão sobre os processos de
+aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+GRIFFITHS, C. Lessons from good language learners. Cambridge: Cambridge University Press,
+2008.
+MURPHY, R. Essential grammar in use. Cambridge: Cambridge University Press, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press, 2005.
+JONES D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+RUBIN, J.; THOMPSON, I. How to be a more successful language learner: toward learner
+autonomy. Boston: Heinle & Heinle, 1994.
+
+
+
+INGLÊS 2
+
+Desenvolvimento da compreensão e expressão oral e escrita em inglês em nível pré-
+intermediário. Estudo de aspectos sistêmicos e discursivos da língua inglesa. Reflexão sobre
+os processos de aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+GRIFFITHS, C. Lessons from good language learners. Cambridge: Cambridge University Press,
+2008.
+MURPHY, R. Essential grammar in use. Cambridge: Cambridge University Press, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press, 2005.
+JONES, D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+RUBIN, J.; THOMPSON, I. How to be a more successful language learner: toward learner
+autonomy. Boston: Heinle & Heinle, 1994.
+                                                                                       40
+
+INGLÊS 3
+
+Desenvolvimento da competência comunicativa em língua inglesa: compreensão e expressão
+oral e escrita em nível intermediário. Estudo de aspectos sistêmicos e discursivos da língua
+inglesa. Reflexão sobre os processos de aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+LIGHTBOWN, P. M.; SPADA, N. How languages are learned. Oxford: Oxford University
+Press, 2010.
+MURPHY, R. English grammar in use. Cambridge: Cambridge University Press, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press, 2005.
+CRYSTAL, D. The Cambridge encyclopedia of language. Cambridge: Cambridge University
+Press. 2010.
+JONES, D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+
+
+
+
+INGLÊS 4
+
+Desenvolvimento da competência comunicativa em língua inglesa. Enriquecimento do léxico
+e aperfeiçoamento da compreensão e expressão oral e escrita em nível intermediário. Estudo
+de aspectos sistêmicos e discursivos da língua inglesa. Reflexão sobre os processos de
+aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+LIGHTBOWN, P. M.; SPADA, N. How languages are learned. Oxford: Oxford: Oxford
+University Press, 2010.
+McKAY, S. L. Teaching English as an international language. Oxford: Oxford University Press,
+2002.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press, 2005.
+JONES, C.; GOLDSTEIN, B. New framework pre-intermediate level 2. London: Richmond
+Publishing, 2008.
+JONES, D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+MURPHY, R. English grammar in use. Cambridge: Cambridge University Press, 2007.
+                                                                                       41
+
+
+
+INGLÊS 5
+
+Desenvolvimento da competência comunicativa em língua inglesa: compreensão e expressão
+oral e escrita em nível intermediário. Estudo de aspectos sistêmicos e discursivos da língua
+inglesa. Reflexão sobre os processos de ensino e aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Understanding and using English grammar. New Jersey: Prentice Hall, 1989.
+COOK, V. Second language learning and language teaching. 4. ed. London: Hodder
+Educational, 2008.
+COOK, V.; WEI, L. Contemporary applied linguistics, v. 1, London: MPG Books Group, 2009.
+HEWINGS, M. Advanced grammar in use. Cambridge: Cambridge University Press, 2005.
+LARSEN-FREEMAN, D. (Series Director) Grammar dimensions: form, meaning and use (1, 2,
+3, 4). Boston, MA: Heinle & Heinle, 2000.
+MACANDREW, R.; MARTÍNEZ, R. Instant discussions. UK: Cengage, 2003.
+MARTÍNEZ, R. Taboos and issues. Hove: LTP, 2001.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+BLANTON, L. L.; LEE, L. The multicultural workshop: Book 1. Boston, Heinle & Heinle,
+1994.
+BLANTON, L. L.; LEE, L. The multicultural workshop: Book 2. Boston, Heinle & Heinle,
+1995.
+BLANTON, L. L.; LEE, L. The multicultural workshop: Book 3. Boston, Heinle & Heinle,
+1995.
+HORNBY, A. S. Oxford Advanced Learner's Dictionary. Oxford: Oxford University Press, 2005.
+NORTON,        B.;    TOOHEY,      K.     (Ed.).    Critical pedagogies   and     language
+learning. Cambridge: Cambridge University Press, 2004.
+PENNYCOOK, A. (Ed.) TESOL Quarterly, Special-Topic, Issue: Critical Approaches to
+TESOL, v. 33, n. 3, 1999.
+
+
+
+INGLÊS 6
+
+Aprimoramento da compreensão e expressão oral e escrita em língua inglesa em nível pós-
+intermediário. Estudo de aspectos sistêmicos e discursivos da língua inglesa. Reflexão sobre
+os processos de ensino e aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Understanding and using English grammar. New Jersey: Prentice Hall, 1989.
+COOK, V. Second language learning and language teaching, 4. ed. London: Hodder
+Educational, 2008.
+COOK, V.; WEI, L. Contemporary applied linguistics, v. 1, London: MPG Books Group, 2009.
+HEWINGS, M. Advanced grammar in use. Cambridge: Cambridge University Press, 2005.
+LARSEN-FREEMAN, D. (Series Director) Grammar dimensions: form, meaning and use (1, 2,
+3, 4). Boston, MA: Heinle & Heinle, 2000.
+MACANDREW, R.; MARTÍNEZ, R. Instant discussions. UK: Cengage, 2003.
+MARTÍNEZ, R. Taboos and issues. Hove: LTP, 2001.
+                                                                                         42
+
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BLANTON, L. L.; LEE, L. The multicultural workshop: Book 1. Boston,         Heinle & Heinle,
+1994.
+BLANTON, L. L.; LEE, L. The multicultural workshop: Book 2. Boston,         Heinle & Heinle,
+1995.
+BLANTON, L. L.; LEE, L. The multicultural workshop: Book 3. Boston,         Heinle & Heinle,
+1995.
+NORTON,        B.;    TOOHEY,       K.    (Ed.).    Critical   pedagogies     and     language
+learning. Cambridge: Cambridge University Press, 2004.
+PENNYCOOK,          A.  (ed.).    TESOL     Quarterly,    Special-Topic      Issue:   Critical
+Approaches to TESOL, v. 33, n. 3, 1999.
+
+
+
+INGLÊS 7
+
+Desenvolvimento da competência comunicativa em inglês em nível pós-intermediário.
+Estudo de aspectos sistêmicos e discursivos da língua inglesa. Reflexão sobre os processos de
+ensino e aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Understanding and using English grammar. New Jersey: Prentice Hall, 1989.
+LARSEN-FREEMAN, D. (Series Director) Grammar dimensions: form, meaning and use (1, 2,
+3, 4). Boston, MA: Heinle & Heinle, 2000.
+KRAMSCH, C. The multilingual subject: what language learners say about their experience
+and why it matters. Oxford: Oxford University Press, 2009.
+KRAMSCH, C. Language and culture. Oxford: Oxford University Press, 2008.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+HORNBY, A. S. Oxford advanced learner's dictionary. Oxford: Oxford University Press, 2005.
+KRAMSCH, C. Context and culture in language teaching. Oxford: Oxford University Press,
+1993
+NUNAN, D; CHOI, J. Language and culture: reflective narratives and the emergency of
+identity. New York: Routledge, 2010.
+WIERZBICKA, A. A. English: meaning and culture. Oxford: Oxford University Press,
+2006.
+
+
+
+INGLÊS 8
+
+Aprimoramento da competência comunicativa em inglês em nível pós-intermediário.
+Desenvolvimento da capacidade de expressão de opinião, de argumentação, de interpretação
+e de produção de textos em língua inglesa. Reflexão sobre os processos de ensino e
+aprendizagem de língua estrangeira.
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Understanding and using English grammar. New Jersey: Prentice Hall, 1989.
+                                                                                     43
+
+KRAMSCH, C. Language and culture. Oxford: Oxford University Press, 2008.
+KRAMSCH, C. The multilingual subject: what language learners say about their experience
+and why it matters. Oxford: Oxford University Press, 2009.
+LARSEN-FREEMAN, D. (Series Director) Grammar dimensions: form, meaning and use (1, 2,
+3, 4). Boston, MA: Heinle & Heinle, 2000.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+HORNBY, A. S. Oxford advanced learner's dictionary. Oxford: Oxford University Press, 2005.
+KRAMSCH, C. Context and culture in language teaching. Oxford: Oxford University Press,
+1993
+NUNAN, D; CHOI, J. Language and culture: reflective narratives and the emergency of
+identity. New York: Routledge, 2010.
+WIERZBICKA, A. A. English: meaning and culture. Oxford: Oxford University Press,
+2006.
+
+
+
+PRÁTICA ORAL 1 DE INGLÊS
+
+Desenvolvimento da capacidade de compreensão e expressão oral em língua inglesa em
+situações de comunicação. Introdução ao estudo de aspectos fonológicos da língua inglesa.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAKER, A. Ship or sheep?. Cambridge: Cambridge University Press, 2006.
+BAKER, A. Tree or three?. Cambridge: Cambridge University Press, 2006.
+GRIFFITHS, C. Lessons from good language learners. Cambridge: Cambridge University Press,
+2008.
+HANCOCK, M. English pronunciation in use. Cambridge: Cambridge University Press, 2003.
+OXFORD, R. L.; CHRISTIE, S. Tapestry listening and speaking1. Boston, MA: Thomson
+Heinle, 2000.
+ROACH, P. English phonetics and phonology. Cambridge: Cambridge University Press, 2001
+UNDERHILL, A. Sound foundations. Oxford: Heinemann, 2005.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BOWLER, B.; PARMINTER, S. New headway pre-intermediate pronunciation. Oxford: Oxford
+University Press, 2001.
+CUNNINGHAM, S.; MOOR, P. Everyday listening and speaking. Pre-Intermediate. Oxford:
+Oxford University Press, 1993.
+GILBERT, J. B. Clear Speech: pronunciation and listening comprehension in North American
+English. Cambridge/New York: Cambridge University Press, 2004.
+ROTH, E. H.; ABERSON, T. Compelling conversations: questions and quotations on timeless
+topics. Los Angeles: Chimayo Press, 2006.
+UR, P. A Course in language teaching: practice and theory. Cambridge: Cambridge University
+Press, 1996.
+                                                                                         44
+
+PRÁTICA ORAL 2 DE INGLÊS
+
+Aprimoramento da capacidade de compreensão e expressão oral em língua inglesa em
+situações de comunicação. Aprofundamento do estudo de aspectos fonológicos da língua
+inglesa.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+GRIFFITHS, C. Lessons from good language learners. Cambridge: Cambridge University Press,
+2008.
+HANCOCK, M. English pronunciation in use. Cambridge: Cambridge University Press, 2003.
+ROACH, P. English phonetics and phonology. Cambridge: Cambridge University Press, 2001.
+UNDERHILL, A. Sound foundations. Oxford: Heinemann, 2005.
+
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+FOLSE, K. S. Discussion starters: speaking fluency activities for advanced EFL/ESL students.
+Ann Arbor: University of Michigan Press, 1996.
+FOLSE, K. S; IVONE, J. More discussion starters: activities for building speaking fluency. Ann
+Arbor: University of Michigan Press, 2002.
+GILBERT, J. B. Clear speech: pronunciation and listening comprehension in North American
+English. Cambridge/New York: Cambridge University Press, 2004.
+JONES, D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+KELLY, G. How to teach pronunciation. London: Pearson Longman, 2000.
+OXFORD, R. L.; CHRISTIE, S. Tapestry listening and speaking 2. Boston, MA: Thomson
+Heinle, 2000.
+UR, P. A course in language teaching: practice and theory. Cambridge: Cambridge University
+Press, 1996.
+
+
+
+PRÁTICA ESCRITA DE INGLÊS
+
+Desenvolvimento da capacidade de compreensão e expressão escrita em língua inglesa.
+Estratégias discursivas. Produção de gêneros textuais variados.
+
+BIBLIOGRAFIA BÁSICA:
+
+BLANCHARD, K.; ROOT, C. Get ready to write: a beginning writing text. New York:
+Longman, 1998.
+HOGUE, A. First step in academic writing. White Plains, NY: Longman, 1995.
+KELLY, C.; GARGALIANO, A. Writing from within. Cambridge: Cambridge University
+Press, 1988.
+OSHIMA, A.; HOGUE, A. Introduction to writing academic English. 4. ed. Reading, Mass.:
+Addison-Wesley, 2006.
+ZEMACH, D. E.; RUMISEK, L. A. Academic writing: from paragraph to essay. Oxford:
+Macmillan, 2005.
+                                                                                         45
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARNAUDET, M, L.; BARRETT, M. E. Paragraph development: a guide for students of
+English. New Jersey: Prentice Hall, 1990.
+BANDER, R. From sentence to paragraph. New York: Holt, Rinehart and Winston, 1980.
+Cobuild English Dictionary. London: Collins Publishers.
+HAYNES, C.; McMURDO, K. Structured writing: Using inspiration software to teach
+paragraph development, Eugene, OR: International Society for Technology in Education,
+2001.
+HEDGE, T. Writing. Oxford: Oxford University Press, 2006.
+MURPHY, R. English grammar in use. Cambridge: Cambridge University Press, 2007.
+OSHIMA, A.; HOGUE, A. Writing academic English. 4. ed. Reading, Mass.: Addison-
+Wesley, 2006.
+REID, J. M. The process of composition. Englewood Cliffs: Prentice Hall Regents, 1988.
+ROOKS, G. M. Paragraph power. New Jersey: Prentice Hall Regents, 1999.
+RUETTEN, M. K. Developing composition skills. Boston: Thomson Heinle, 2003.
+SMALLEY, R. L., RUETTEN, M. K.; KOZYREV, J. R. Refining composition skills. Boston:
+Heinle & Heinle, 2001.
+
+
+
+LITERATURAS DE LÍNGUA INGLESA 1
+
+Estudo sincrônico ou diacrônico da produção contística e novelística das literaturas de língua
+inglesa, canônica e não canônica, nos séculos XX e XXI.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ABRAMS, M. H.; GREENBLATT, S. (Ed.). The Norton anthology of English literature.
+Volume 2C; The twentieth century. N.Y.: W.W. Norton & Co., 1999.
+BAYM, N.; MACHLIS, J. (Ed.). The Norton anthology of American literature. Volume B. N.Y.:
+W.W. Norton & Co., 2000.
+LAWALL, S. N.; MACK, M. (Ed.). The Norton anthology of world literature. Vol. F: the
+twentieth century. W.W. Norton & Co., 2001.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ATWOOD, M. The edible woman. Toronto: Seal Books.
+ATWOOD, M. Surfacing. Toronto: Seal Books.
+ATWOOD, M. Strange things: the malevolent north in Canadian literature. Toronto: Seal
+Books.
+ATWOOD, M. Survival: a thematic guide to Canadian literature. Toronto: Seal Books.
+ATWOOD, M. Alias Grace. Toronto: Seal Books, 1996.
+BELLOW, S. Herzog. Middlesex: Penguin Books, 1987.
+CARVER, R.; JENKS, T. (Ed.). American short story masterpieces. N.Y.: Laurel, 1987.
+DAVIES, R. The rebel angels. Middlesex: Penguin Books, 1981.
+JOYCE, J. Dubliners. New York: Viking, 1979.
+LIVESAY, D. Beginnings; a Winnipeg childhood. Toronto: Newpress, 1975.
+LAURENCE, M. Heart of a stranger. Toronto: Seal Books, 1980.
+LAURENCE, M. A bird in the house. McClelland and Stewart, s.d.
+LAWRENCE D. H. The complete short stories. 3 Vols. Harmondsworth: Penguin Books, 1979.
+MANSFIELD, K. Stories. Int. Jeffrey Meyers. New York: Vintage Classicas, 2000.
+MARLYN, J. Under the ribs of death. Toronto: McClelland and Stewart, 1983.
+                                                                                    46
+
+MARTEL, Y. Life of Pi. Harvest Books, 2003.
+MITCHELL, W.O. Who has seen the wind. Toronto: MacMillan of Canada, 1977.
+MORRISON, T. Beloved. Vintage, 1997.
+MUNRO, A. The love of a good woman; stories. Vintage, 1998.
+OATES, J. C. Solstice. N.Y.: Berkley Books, 1983.
+O’CONNOR, F. The complete stories. N.Y.: The Noonday Press, 1999.
+PAGE, P.K. Brazilian journal. Toronto: Lester & OrpenDennys Ltd., 1987.
+ROY, G. The cashier. Toronto: McClelland and Stewart, 1963.
+TAN, A. The joy luck club. N.Y.: Ivy Books, 1989.
+UPDIKE, J. The afterlife. N.Y.: Fawcett Crest, 1994.
+UPDIKE, J. Rabbit redux. Middlesex: Penguin Books, 1973.
+WIEBE, R. Peace shall destroy many. Totonto: McClelland and Stewart.
+WOOLF, Virginia. A Haunted House and Other Short Stories. New York: Harvest Book –
+Harcourt, Brace & World, Inc, 1972.
+
+
+
+LITERATURAS DE LÍNGUA INGLESA 2
+
+Estudo sincrônico ou diacrônico da produção lírica das literaturas de língua inglesa,
+canônica e não canônica, do século XVI ao século XXI.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BEATY, J.; HUNTER, J. P. (Ed.). The Norton introduction to literature. New York: Norton &
+Co., 1989.
+ELLMAN, R.; O’CLAIR, R. (Ed.). The Norton anthology of modern poetry. New York: Norton
+& Co., 1973.
+FURGUSON, M. (Ed.). The Norton anthology of poetry. 4. ed. N.Y.: W.W. Norton & Co.,
+1996.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ATWOOD, M. Selected poems. Toronto: Seal Books, s.d.
+BROWNING, E. B. Sonnets from the Portuguese and Other Poems. New York: Dover
+Publications, 1993.
+BROWNING, R. My last duchess and other poems. New York: Dover Publications, 1993.
+DIKINSON, E. Selected poems. New York: Dover Publications, 1991.
+DONNE, J. Selected poems. New York: Dover Publications, 1995.
+HARDY, T. Poems. New York: Everyman’s Library, 1995.
+HEANEY, S. Selected poems – 1965-1975. London: Faber and Faber, 1980.
+HUGHES, L. Selected poems. New York: Vintage, 1987.
+KEATS. Lyric Poems. New York: Dover Publications, 1995.
+LAWRENCE, D. H. Complete Poetry. Harmondsworth, Middlesex: Penguin, 1981.
+MOORE, M. Complete Poems. New York: Viking Press, 1987.
+NEGRI, P. (Ed.). Great Sonnets. New York: Dover Publications, 1993.
+POES, E. A. The Raven and Other Favorite Poems. New York: Dover Publications, 1991.
+SANDBURG, C. Chicago Poems. New York: Dover Publications, 1995.
+SHAKESPEARE, W. Complete Sonnets. New York: Dover Publications, 1995.
+WHITMAN, W. Selected Poems. New York: Dover Publications, 1992.
+YEATS, W. B. Selected Poems. New York: DoverPublications, 1994.
+                                                                                         47
+
+LITERATURAS DE LÍNGUA INGLESA 3
+
+Estudo sincrônico ou diacrônico da produção novelística das literaturas de língua inglesa,
+canônica e não canônica, no século XIX.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ABRAMS, M. H.; GREENBLATT, S. (Ed.). The Norton anthology of English literature.
+Volume 2B; the nineteenth century. W.W. Norton, 1999.
+BAYM, N.; MACHLIS, J. (Ed.). The Norton anthology of American literature. Volume A. N.Y.:
+W.W. Norton & Co., 2000.
+LAWALL, S. N.; MACK, M. (Ed.). The Norton anthology of world literature. Vol. E: the
+nineteenth century. W. W. Norton & Co., 2001.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AUSTEN. J. Pride and prejudice. Harmondsworth, Middlesex: Penguin, 1989.
+AUSTEN. J. Emma. Harmondsworth, Middlesex: Penguin, 1976.
+BRONTË, C. Jane Eyre. Harmondsworth, Middlesex: Penguin, 1978.
+BRONTË, C. Shirley. Harmondsworth, Middlesex: Penguin, 1883.
+BRONTË, E. Wuthering heights. Harmondsworth, Middlesex: Penguin, 1977.
+CHOPIN, K. The awakening. New York: Dover Publications, 1986.
+CONRAD. J. Heart of darkness. New York: Dover Publications, 1994.
+CRANE, S. The red badge of courage. New York: Dover Publications, 1987.
+DICKENS, C. Hard times. Harmondsworth, Middlesex: Penguin, 1980.
+DICKENS, C. Great expectations. Harmondsworth, Middlesex: Penguin, 1978.
+DREISER, T. Sister Carrie. New York: Norton & Co., 1970.
+DREISER, T. An American dream. New York: Vintage, 1967.
+ELIOT, G. Adam Bede. Harmondsworth, Middlesex: Penguin, 1978.
+GASKELL, E. North and south. Harmondsworth, Middlesex: Penguin, 1983.
+HARDY, T. Tess of de D’Urbervilles. New York: Norton & Co., 1976.
+HARDY, T. Jude, the obscure. New York: Norton & Co., 1977.
+HAWTHORNE, N. The scarlet letter. New York: Norton & Co., 1984.
+MERVILLE, H. Bartleby and Benito Cereno. New York: Dover Publications, 1990.
+JAMES, H. Washington Square. New York: Viking, 1978.
+JAMES, H. The golden bough. Harmondsworth, Middlesex: Penguin, 1973.
+JAMES, H. The turn of the screw. New York: Norton & Co., 1976.
+JOYCE, J. A portrait of the artist as a young man. New York: Dover Publications, 1990.
+SCOTT, W. Rob Roy. London: Everyman’s Library, 1978.
+SCOTT, W. Redgauntlet. London: Everyman’s Library, 1978.
+TWAIN, M. The adventures of Huckleberry Finn. New York: DoverPublication, 1998.
+
+
+
+LITERATURAS DE LÍNGUA INGLESA 4
+
+Estudo sincrônico ou diacrônico da produção dramática das literaturas de língua inglesa,
+canônica e não canônica, do século XVI ao século XXI.
+                                                                                         48
+
+BIBLIOGRAFIA BÁSICA:
+
+BROCKETT, O. G. The Theatre. An Introduction. New York: Holt, Rinehart and Wiston,
+1964.
+LEVY, W. (Ed.). Modern drama: selected plays from 1879 to the present. N.Y.: Prentice Hall,
+1998.
+WALPOLE, H. et al. (Ed.). Five romantic plays; 1768-1821. Oxford: Oxford University Press,
+2000.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BLOOM, H. Shakespeare – The invention of the human. New York: Riverhead Books, 1999.
+BLOOM, H. (Ed.). Tennessee Williams. New York: Chelsea House Pub., 1987.
+BARNET, S. et al. (Ed.). An introduction to literature. Fiction, Poetry, Drama. Boston: Little
+Brown and Company, sd.
+BECKETT, S. Waiting for Godot. London: Faber and Faber, 1971.
+BRADBROOK, M. C. Themes and conventions of Elizabethan tragedy. Cambridge: Cambridge
+University Press, 1973.
+BROOKE, N. Shakespeare’s early tragedies. Norwich: Methuen, 1973.
+CAMPBELL, O. J. (Ed.). The reader’s encyclopedia of Shakespeare. New York: MJF Books,
+1966.
+DUKORE, B. F. Dramatic theory and criticism. Greeks to Grotowski. New York: Holt,
+Rinehart and Wiston, 1974.
+HOLDEN, A. Shakespeare: an illustrated biography. Na edição brasileira, Shakespeare.
+Trad.: Beatriz Horta. São Paulo: Ediouro, 2003.
+JUM, J. (Ed.). Shakespeare’s Hamlet – A Selection of Critical Essays. London: Macmillan,
+1970.
+KAUFMANN, R. (Ed.). Elizabethan drama. Modern Essays in Criticism. Oxford: Oxford
+University Press, 1978.
+KENNEDY, X. J. (Ed.). Literature: an introduction to fiction, poetry, and drama. New York:
+HarperCollins, 1991.
+LACAN, J. Hamlet, por Lacan. Shakespeare, Duras, Wedekind, Joyce. Trad.: Eunice
+Martinho. Lisboa: Assírio e Alvim, 1989.
+MILLER, A. Death of a salesman. Harmondsworth, Middlesex: Penguin, s.d.
+OSBORNE, J. Look back in anger. London: Faber and Faber, 1976.
+PECK, J.; COYLE, M. How to study a Shakespeare play. London: Macmillan Press, 1995.
+ROZAKIS, L. The complete idiot’s guide to Shakespeare. New York: Macmillan, 1999.
+SIBONY, D. Na companhia de Shakespeare. Trad.: Maria de Lourdes L. B. de Menezes. Rio de
+Janeiro: Imago, 1992.
+WELLS, S. (Ed.). The Cambridge companion to Shakespeare. Cambridge: Cambridge University
+Press, 1986.
+WILLIAMS, T. The glass menagerie. Harmondsworth, Middlesex: Penguin, 1987.
+
+
+FUNDAMENTOS FILOSÓFICOS E SÓCIO-HISTÓRICOS DA EDUCAÇÃO
+
+A Educação como processo social; a educação brasileira na experiência histórica do
+ocidente; a ideologia liberal e os princípios da educação pública; sociedade, cultura e
+educação no Brasil: os movimentos educacionais e a luta pelo ensino público no Brasil, a
+relação entre a esfera pública e privada no campo da educação e os movimentos da educação
+popular.
+                                                                                          49
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ARANHA, M. L. de A. História da educação e da pedagogia: geral e do Brasil. 3. ed. São Paulo:
+Moderna, 2006.
+CAMBI, F. História da pedagogia. São Paulo: Editora Unesp, 1999.
+ROUSSEAU, J. J. Emílio ou da educação. 3. ed. São Paulo: Martins Fontes, 2004.
+SAVIANI, D. História das idéias pedagógicas no Brasil. 2. ed. Campinas: Autores Associados,
+2008.
+TURA, M. de L. (Org.). Sociologia para educadores. 4. Ed. Rio de Janeiro: Quartet, 2001.
+TURA, M. de L. (Org.). Sociologia para educadores 2. Rio de Janeiro: Quartet, 2002.
+
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ASSMANN, H. Reencantar a educação: rumo à sociedade aprendente. 3ª ed.
+Petrópolis: Vozes, 1999.
+DEWEY, J. Democracia e educação. São Paulo: Ática, 2007.
+DURKHEIM, E. Educação e sociologia. Petrópolis: Vozes, 2011.
+FARIA FILHO, L. M. (Org.). Pensadores sociais e história da educação. 2. Ed. Belo Horizonte:
+Autêntica, 2008.
+JAEGER, W. Paidéia. A formação do homem grego. 4. ed. 2. tiragem. São Paulo: Martins
+Fontes, 2003.
+LIBÂNEO, J. C. Organização e gestão da escola: teoria e prática. 5. ed. Goiânia: MF Livros,
+2008.
+MANACORDA, M. A. História da educação: da Antiguidade aos nossos dias. 9. ed. São
+Paulo: Cortez, 2001.
+PEREIRA, J. E. D. Formação de professores: pesquisa, representações e poder. Belo Horizonte:
+Autêntica, 2000.
+PRIORE, M. D. (Org.). História das crianças no Brasil. 6. ed. São Paulo: Contexto, 2008.
+SACRISTÁN, J. G.; GÓMEZ, P. A. I. Compreender e transformar o ensino. Porto alegre: Artes
+Médicas, 1998.
+SACRISTÁN, J. G. A Educação que ainda é possível: ensaios sobre uma cultura para a
+educação. Trad.: V. Campos. Porto Alegre: Artmed, 2007.
+SAVIANI, D. Educação: do senso comum à consciência filosófica. 13. ed. Campinas: Autores
+Associados, 2000.
+
+
+
+POLÍTICAS EDUCACIONAIS NO BRASIL
+
+A relação Estado e polícias educacionais; os desdobramentos da política educacional no
+Brasil pós-64; as políticas de regulação e gestão da educação brasileira e a (re)democratização
+da sociedade brasileira; os movimentos de diversificação, diferenciação e avaliação da
+educação nacional. Legislação educacional atual; a regulamentação do sistema educativo
+goiano e as perspectivas para a escola pública em Goiás.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CURY, C. R. J. Legislação educacional brasileira. Rio de Janeiro: DP&A, 2000.
+DOURADO, L. F. (Org). Plano nacional de educação (2011-2020): avaliação e perspectivas.
+                                                                                        50
+
+Goiânia: UFG, 2011.
+LIBÂNEO, J. C.; OLIVEIRA, J. F.; TOSCHI, M. S. Educação escolar: políticas, estrutura e
+organização. São Paulo: Cortez, 2003.
+SAVIANI, D. A nova Lei da Educação – LDB: trajetória, limites e perspectivas. 10. ed. São
+Paulo: Autores Associados, 2006.
+SAVIANI, D. Da nova LDB ao FUNDEB. 2. ed. rev. ampl. Campinas: Autores Associados,
+2008.
+SHIROMA, E. O. Política educacional: o que você precisa saber sobre. Rio de Janeiro: DP&A,
+2000.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AZEVEDO, J. L. A educação como política pública. 2 ed. rev. ampl. Campinas: Autores
+Associados, 2001.
+BUFA, E. Ideologias em conflito: escola pública e escola privada. São Paulo: Cortez e Moraes,
+1979.
+DOURADO, L. F; PARO, V. H. Políticas públicas e educação básica. São Paulo: Xamã, 2001.
+GRANVILLE, M. A. (Org.). Teorias e práticas na formação de professores. Campinas: Papirus,
+2007.
+HOFLING, E. de M. Notas para a discussão quanto a implementação de programas de
+governo: em foco o Programa Nacional do Livro Didático. Educação e Sociedade, v. 70, p. 59-
+171, abril 2000.
+OLIVEIRA, R. P.; ADRIÃO, T. (Org.). Organização do ensino no Brasil. São Paulo: Xamã,
+2002.
+SAVIANI, D. Pedagogia Histórico-Crítica. 10. ed. Campinas: Autores Associados, 2008.
+SAVIANI, D. Da nova LDB ao novo Plano Nacional de Educação: Por uma outra política
+educacional. 5. ed. Campinas: Autores Associados. 2004.
+SILVA, M. V.; M. M. R. A (Org.). LDB. Balanços e perspectivas para a educação brasileira.
+Campinas: Editora Alínea, 2008.
+VIEIRA, S. L. Política Educacional em Tempos de Transição. Brasília, Plano, 2000.
+
+
+
+PSICOLOGIA DA EDUCAÇÃO 1
+
+Introdução ao estudo da Psicologia: fundamentos históricos e epistemológicos; a relação
+Psicologia e Educação. Abordagens teóricas: comportamental e psicanalítica e suas
+contribuições para a compreensão do desenvolvimento cognitivo, afetivo, social e psicomotor
+e suas implicações no processo ensino-aprendizagem.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CUNHA, M. V. Psicologia da educação. 4. ed. Rio de Janeiro: Lamparina, 2008.
+FREUD, S. Um estudo autobiográfico/Totem e Tabu e outros trabalhos/Psicanálise
+selvagem/Teorias sexuais infantis. In: FREUD, S. Obras completas. Edição Standard
+Brasileira. Rio de Janeiro: Imago, 1976.
+GOULART, I. B. Psicologia da educação. 8. ed. Petrópolis: Vozes, 2000.
+MIZUKAMI, M. G. N. Ensino: as abordagens do processo. São Paulo: EPU, 1986.
+                                                                                             51
+
+SKINNER, B. F. Tecnologia do ensino. Trad.: R. Azzi. São Paulo: EPU, 1975. Trabalho
+original publicado em 1968.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BOCK, A. M. B.; FURTADO, O.; TEIXEIRA, M. L. T. Psicologias: uma introdução ao
+estudo de psicologia. 14. ed. São Paulo: Saraiva, 2009.
+CALLIGARIS, C. A adolescência. São Paulo: Publifolha, 2000. – (Folha Explica)
+FIGUEIREDO, L. C. M.; SANTI, P. L. R. Psicologia, uma (nova) introdução: uma visão
+histórica da psicologia como ciência. 3. ed. São Paulo: EDUC, 2010.
+KUPFER, M. C. Freud e a educação. 4. ed. São Paulo: Scipione, 2000.
+LIMA, C. M.; CUPOLILLO, M. V. A teoria histórico-cultural e a dialética
+inclusão/exclusão nas instituições de ensino. Linhas Críticas. Brasília, v. 12, n. 23, p. 263-278,
+jul./dez. 2006.
+SANTANA, A. C. Psicólogo escolar para quê? In: CUPOLILLO, M. V.; COSTA, A. O. B.
+(Org.). A psicologia em diálogo com a educação. Goiânia: Alternativa, 2004.
+SKINNER, B. F. Sobre o behaviorismo. Trad.: M. P Villalobos. 10. ed. São Paulo: Cultrix,
+2006. Trabalho original publicado em 1974.
+
+
+PSICOLOGIA DA EDUCAÇÃO 2
+
+Abordagens teóricas: psicologia genética de Piaget, psicologia sócio-histórica de Vygotsky e
+suas contribuições para a compreensão do desenvolvimento cognitivo, afetivo, social e
+psicomotor e suas implicações no processo ensino-aprendizagem.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CARRARA, K. Introdução à Psicologia da Educação. São Paulo: Avercamp, 2004.
+MIZUKAMI, M. G. N. Ensino: as abordagens do processo. São Paulo: EPU, 1986.
+OLIVEIRA, M. K.; TAILLE, Y.; DANTAS, H. (Org.). Piaget, Vygotsky e Wallon. São Paulo:
+Summus, 1992.
+PIAGET, J. Seis estudos em Psicologia. Trad. M. A. M. D’Amorim e P.S.L. Silva. 24. ed. Rio
+de Janeiro: Forense Universitária, 2007. Trabalho original publicado em 1964.
+VYGOTSKY, L. S. Pensamento e Linguagem. São Paulo: Martins Fontes, 2005. Trabalho
+original publicado em 1934.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ALMEIDA, A. R. S. A emoção na sala de aula. 3. ed. São Paulo: Papirus, 2003.
+AQUINO, J. (Org.). Indisciplina na escola: alternativas teóricas e práticas. São Paulo:
+Summus, 1996.
+BOCK, A. M. B. (Org.). A perspectiva sócio-histórica na formação em Psicologia. Petrópolis, RJ:
+Vozes, 2003.
+GOULART, I. B. Piaget – Experiências básicas para utilização pelo professor. 21. ed.
+Petrópolis, RJ: Vozes, 2005.
+OLIVEIRA, M. K. Vygotsky: aprendizado e desenvolvimento – um processo sócio-histórico.
+4. ed. São Paulo: Scipione, 2006.
+OZELLA, S. (Org.). Adolescências construídas – a visão da psicologia sócio-histórica. São
+Paulo: Cortez, 2003.
+PIAGET, J. Para onde vai a educação? Trad.: I. Braga. 20. ed. Rio de Janeiro: José Olympio,
+2011. Trabalho original publicado em 1948.
+                                                                                               52
+
+VYGOTSKY, L. S. A formação social da mente. São Paulo: Martins Fontes, 2003. Textos
+originais de diferentes datas.
+
+
+
+ESTÁGIO 1 – INGLÊS
+
+Paradigmas de formação de professores. Concepções de língua, linguagem e ensino.
+Legislação e documentos. Observação do contexto escolar.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BRASIL. Ministério da Educação. Secretaria de Educação Fundamental. Parâmetros
+Curriculares Nacionais para o terceiro e quarto ciclos (5ª a 8ª série) do ensino fundamental: língua
+estrangeira. Brasília: MEC/SEF, 1998.
+BRASIL. Secretaria de Educação Média e Tecnológica. Linguagens, Códigos e suas
+tecnologias. PCN Ensino Médio: Orientações curriculares complementares aos Parâmetros
+Curriculares. Ministério da Educação, Secretaria de Educação Média e tecnológica. Brasília:
+MEC; SEMTEC, 2002.
+ELLIS, R. Second language acquisition. Oxford: Oxford University Press, 1996.
+LIGHTBOWN, P. M.; SPADA, N. How languages are learned. 3. ed. Oxford: Oxford
+University Press, 2010.
+LEFFA, V. J. (Org.). O professor de línguas estrangeiras: construindo a profissão. 2. ed. Pelotas,
+RS: Educat, 2006.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+PAIVA, V. L. M. O. A LDB e a legislação vigente sobre o ensino e a formação de professor
+de língua inglesa. In: STEVENS, C. M. T.; CUNHA, M. M. C. (Org.). Caminhos e colheita.
+Brasília: Editora da UnB, 2003. p. 53-84.
+BROWN, H. D. Principles of language teaching and learning. 5 ed. White Plains, NY: Pearson
+ESL/Longman, 2006.
+BROWN, H. D.; GONZO, S. Readings on Second Language Acquisition. Englewood Cliffs:
+Prentice Hall Regents, 1995.
+FIGUEIREDO, F. J. Q. de. Aprendendo com os erros: uma perspectiva comunicativa de ensino
+de línguas. 2. ed. Goiânia: Ed. UFG, 2002.
+GIMENEZ, T. (Org.). Trajetórias na formação de professores de línguas. Londrina: Editora UEL.
+2002
+MOITA LOPES, L. P. da. Oficina de lingüística aplicada. A natureza social e educacional dos
+processos de ensino e aprendizagem de línguas. Campinas, SP: Mercado das Letras, 2001.
+PAIVA, V. L. M. O. (Org.). Ensino de Língua Inglesa: reflexões e experiências. Campinas:
+Pontes, 1996.
+YULE, G. The study of language. 4. ed. Cambridge: Cambridge University Press, 2010.
+
+
+
+ESTÁGIO 2 – INGLÊS
+
+Abordagens e metodologias de ensino e aprendizagem de língua estrangeira. Planejamento e
+execução de microaulas. Observação de aulas no campo de estágio.
+                                                                                          53
+
+BIBLIOGRAFIA BÁSICA:
+
+BROWN, H. D. Teaching by principles: an interactive approach to language pedagogy. 3 ed.
+White Plains, NY: Pearson/Longman, 2007.
+HARMER, J. The practice of English language teaching. 4 ed. White Plains, NY:
+Pearson/Longman, 2007.
+LARSEN-FREEMAN, D. Techniques and principles in language teaching. 3. ed. Oxford: Oxford
+University Press, 2011.
+RENANDYA, W. A.; RICHARDS, J. Methodology in language teaching: an anthology of
+current practice. Cambridge: Cambridge University Press, 2002.
+RICHARDS, J.; RODGERS, T. Approaches and methods in language teaching. 2. ed.
+Cambridge: Cambridge University Press, 2001.
+SCRIVENER, J. Learning teaching. 3. ed. Student's Book Pack (and Books for Teachers and
+DVD). Oxford: Macmillan Education, 2011.
+UR, P. A course in language teaching. Cambridge: Cambridge University Press, 1996.
+WALLACE, M. Training foreign language teachers: a reflective approach. Cambridge:
+Cambridge University Press, 1991.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BROWN, H. D. Principles of language teaching and learning. 5. ed. Pearson ESL/Longman:
+White Plains, NY, 2006.
+ELLIS, R. Second language acquisition. Oxford: Oxford University Press, 1996.
+GIMENEZ, T. (Org.). Trajetórias na formação de professores de línguas. Londrina: Editora UEL.
+2002
+HAYCRAFT, J. An introduction to English language teaching. London: Longman, 1995.
+WALKER, R.; ADELMAN, C. A guide to classroom observation. London: Routledge. 2005.
+
+
+
+ESTÁGIO 3 – INGLÊS
+
+Abordagens e metodologias de ensino e aprendizagem de língua estrangeira. Análise,
+seleção, adaptação e elaboração de materiais didáticos. Semirregência de aulas.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+LARSEN-FREEMAN, D. Techniques and principles in language teaching. 3. ed. Oxford: Oxford
+University Press, 2011.
+MASUHARA, H; TOMLINSON, B. Elaboração de materiais para cursos de idiomas. São Paulo:
+SBS, 2005.
+PAIVA, V. L. M. de O. História do material didático de língua inglesa no Brasil. In DIAS,
+R.; CRISTÓVÃO, V. L. L. (Org.). O livro didático de língua estrangeira: múltiplas perspectivas.
+Campinas:       Mercado     de   Letras,     2009.      p.      17-56.    Disponível       em:
+<http://www.veramenezes.com/ historia.pdf>. Acesso em: 17 set 2011.
+RICHARDS, J.; RENANDYA, W. A. Methodology in language teaching: an anthology of
+current practice. Cambridge: Cambridge University Press, 2002.
+RICHARDS, J.; RODGERS, T. Approaches and methods in language teaching. 2. ed.
+Cambridge: Cambridge University Press, 2001.
+TOMLINSON, B. (Ed.). Materials development in language teaching. Cambridge: Cambridge
+University Press, 2004.
+                                                                                          54
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ALLWRIGHT, R. L. What do we want teaching materials for? ELT Journal, v. 36, n. 1, p. 5-
+18. 1981.
+IRUJO, S. To use a textbook or not to use a textbook: Is that the question? The ELL Outlook,
+July-Aug, 2006.
+VILAÇA. M.L.C. O material didático no ensino de língua estrangeira: definições,
+modalidades e papéis. Revista Eletrônica do Instituto de Humanidades, v. VIII, n. XXX, Jul-Set,
+2009.
+
+
+
+ESTÁGIO 4 – INGLÊS
+
+Processo avaliativo. Habilidades interpretativas, produtivas e interativas na sala de aula de
+língua inglesa. Regência de aulas.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BROWN, H. D.; ABEYWICKRAMA, P. Language assessment: Principles and classroom
+practices. 2. ed. White Plains, NY: Pearson/ Longman, 2010.
+FIGUEIREDO, F. J. Q. Aprendendo com os erros. Uma perspectiva comunicativa de ensino de
+línguas. Goiânia: Ed. UFG, 2002.
+RICHARDS, J. C.; LOCKHART, C. Reflective teaching in second language classrooms.
+Cambridge: Cambridge University Press, 1996.
+UR, P. A course in language teaching. Cambridge: Cambridge University Press, 1996.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+GOWER, R. et al. Teaching practice handbook. Oxford: Macmillan, 1995.
+HARMER, J. How to teach English (with DVD). Essex: Pearson ESL/Longman, 2007.
+HARMER, J. The practice of English language teaching. 4. ed. White Plains, NY: Pearson ESL/
+Longman, 2007.
+REA-DICKINS, P.; GERMAIN, K. P. Evaluation. Oxford: Oxford University Press, 1992.
+WEIR, C. J. Communicative language testing. 2. ed. Hemel Hempsted: Prentice Hall Regents,
+1990.
+WEIR, C. J. Understanding and developing language tests. Hemel Hempsted: Prentice Hall
+Regents, 1995.
+WESCHE, M. B. Communicative testing in a second language. Canadian Modern Language
+Review, v. 37, n. 3, p. 551-571, 1981.
+
+
+LINGUÍSTICA APLICADA – LÍNGUAS ESTRANGEIRAS
+
+Caracterização e domínios da área da Linguística Aplicada. Visão contemporânea da
+Linguística Aplicada. Processos de aquisição e aprendizagem de segunda língua e de língua
+estrangeira.
+
+BIBLIOGRAFIA BÁSICA:
+
+FREIRE, M. M.; ABRAHAO, M. H. V.; BARCELOS, A. M. F. (Org.). Linguística aplicada
+& contemporaneidade. São Paulo: ALAB, Campinas: Pontes, 2005.
+LEFFA, V. J. A lingüística aplicada e o seu compromisso com a sociedade. In: Anais do VI
+                                                                                       55
+
+congresso Brasileiro de Lingüística Aplicada, 2001.
+MENEZES, V. et al. Sessenta Anos de Linguistica Aplicada: de onde viemos e para onde
+vamos. In: PEREIRA, R. C.; ROCA, P. Linguística aplicada: um caminho com diferentes
+acessos. São Paulo: Contexto, 2009.
+MOITA LOPES, L. P. (Org.). Por uma lingüística aplicada indisciplinar. São Paulo: Parábola,
+2006.
+RAJAGOPALAN, K. Por uma lingüística crítica: linguagem, identidade e a questão ética. São
+Paulo: Parábola, 2003.
+SCHMITZ, J. R. Lingüística aplicada: novas dimensões e identidades no século XXI. Revista
+Signo, v. 30, p. 7-24, 2005.
+SIGNORINI, I. Lingua(gem) e identidade. Campinas: Mercado de Letras, 1998.
+SIGNORINI, I; CAVALCANTI, M. C. (Org.). Lingüística aplicada e transdisciplinaridade.
+Campinas: Mercado de Letras, 1998.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BERNS, M. Concise encyclopedia of applied linguistics. Oxford: Elsevier, 2010.
+CAVALCANTI, M. C.; BORTONI-RICARDO, S. M. Transculturalidade, linguagem e
+educação. Campinas, SP: Mercado de Letras, 2007.
+CAVALCANTI, M. A propósito de Lingüística Aplicada. Trabalhos em Lingüística Aplicada,
+7, p. 5-12,1986.
+CORACINI, M. J.; BERTOLDO E. S. (Org.). O desejo da teoria e a contingência da prática:
+discursos sobre e na sala de aula (língua materna e língua estrangeira). Campinas: Mercado
+de Letras, 2003.
+DAVIES, A. (Org.). The handbook of applied linguistics. Malden, MA: Blackwell Publishing,
+2004.
+ELLIS, R. Second language acquisition. Oxford : Oxford University Press, 1998.
+FREEMAN, D. E.; FREEMAN, Yvonne, S. Between worlds: access to second language
+acquisition. Portsmouth, NH: Heinemann, 1994.
+PENNYCOOK, A. Critical applied linguistics: a critical introduction. New Jersey: Lawrence
+Erlbaum Associates, 2001.
+RAJAGOPALAN, K.; SILVA, F. L. A lingüística que nos faz falhar: investigação crítica. São
+Paulo: Parábola, 2004.
+RICHARDS, J.; PLATT, J.; PLATT, H. Dictionary of language teaching & applied linguistics.
+Harlow: Longman, 1997.
+SCHMITZ, J. R. Some polemical issues in applied linguistics. RBLA, Belo Horizonte:
+UFMG, v. 10, n. 1, p. 21-42, 2010.
+
+
+Periódicos Online
+RBLA - Revista Brasileira de Linguística Aplicada. Disponível em: <www.letras.ufmg.br/rbla>.
+Trabalhos em Linguística Aplicada. Disponível em: <www.scielo.br/scielo.php?script=sci_
+serial&pid...pt>.
+Linguagem & Ensino: revista do Programa de Pós-graduação em Letras / Universidade
+Católica de Pelotas. Disponível em: <http://rle.ucpel.tche.br>.
+Revista Signum - Programa de Pós-Graduação em Estudos da Linguagem da Universidade
+Estadual de Londrina. Disponível em: <http://www.uel.br/revistas/uel/index.php/
+signum>.
+Calidoscópio – Unisinos. Disponível em: <http://www.unisinos.br/revistas/index.php/
+calidoscopio>.
+                                                                                         56
+
+METODOLOGIA DO TRABALHO CIENTÍFICO – LÍNGUAS ESTRANGEIRAS
+
+Metodologia de pesquisa em língua estrangeira. Elaboração de projetos de pesquisa.
+Normalização de trabalhos científicos.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ALVES, R. Filosofia da ciência. São Paulo: Ars poética, 1996.
+ANDRÉ, M. E. D. A. Etnografia da prática escolar. Campinas, SP: Papirus, 1995.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: citações em
+documentos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 1474: informação e
+documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e
+documentação: referências: elaboração. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 12225: títulos de lombada:
+procedimento. Rio de Janeiro, 1992.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: numeração
+progressiva das seções de um documento. Rio de Janeiro, 1989.
+BELL, J. Projeto de pesquisa: guia para pesquisadores iniciantes em educação, saúde e ciências
+sociais. Porto Alegre: Artmed, 2008.
+CRESWELL, J. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. Porto
+Alegre: Artmed, 2007.
+LÜDKE, M.; ANDRÉ, M. E. D. A. Pesquisa em educação: abordagens qualitativas. São
+Paulo: EPU, 1986.
+MENDONÇA, L. M. N.; ROCHA, C. R. R.; D’ALESSANDRO, W. T. (Org.). Guia para
+apresentação de trabalhos monográficos na UFG. Goiânia: Universidade Federal de Goiás. Pró-
+Reitoria de Pesquisa e Pós-Graduação, 2001.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ALVARENGA, M. A. F. P.; ROSA, M. V. F. P. C. Apontamentos de metodologia para a ciência
+e técnicas de redação científica. 3. ed. rev. e ampl. Porto Alegre: Sergio Antonio Fabris Ed.,
+2003.
+ANDALOUSSI, K. E. Pesquisas-ações: ciências, desenvolvimento, democracia. Trad.: Michel
+Thiollent. São Carlos: Editora UFSCAR, 2004.
+ARAÚJO, C. B. Z. M.; DALMORO, E. L.; FIGUEIRA, K. C. N. Trabalhos monográficos:
+normas técnicas e padrões. 2. ed. Campo Grande: Editora Uniderp, 2003.
+BASTOS, L. R. et al. Manual para a elaboração de projetos e relatórios de pesquisas, teses,
+dissertações e monografias. 6. ed. Rio de Janeiro: LTC, 2004.
+BOOTH, W. C.; COLOMB, G. G.; WILLIAMS, J. M. A arte da pesquisa. Trad.: Henrique A.
+Rego Monteiro. 2. ed. São Paulo: Martins Fontes, 2008.
+KAHLMEYER-MERTENS, R. S. et al. Como elaborar projetos de pesquisa: linguagem e
+método. Rio de Janeiro: Ed. FGV, 2007.
+PAIVA, V. L. M. O. Reflexões sobre ética na pesquisa. Revista Brasileira de Lingüística
+Aplicada. Belo Horizonte, MG, v. 5, n. 1, p. 43-61, 2005.
+PIMENTA, S. G. Pesquisa-ação crítico-colaborativa: construindo seu significado a partir de
+experiências com a formação docente. Educação e Pesquisa, São Paulo, v. 31, n. 3, p. 521-539,
+set./dez. 2005.
+REES, D. K. Considerações sobre a pesquisa qualitativa. Signótica, v. 20, n. 2, 2008, p. 251-
+271.
+                                                                                             57
+
+SEVERINO, A. J. Metodologia do trabalho científico. 23. ed. rev. e ampl. São Paulo: Cortez,
+2007.
+SILVA, A. M.; PINHEIRO, M. S. F.; FRANÇA, M. N. Guia para normalização de trabalhos
+técnico-científicos: projetos de pesquisa, trabalhos acadêmicos, dissertações e teses. Uberlândia:
+Editora UFU, 2006.
+WATSON-GEGEO. Etnografia em ensino de segunda língua: definindo o que é essencial.
+Trad.: MELLO, H. A. B.; REES, D. K. Signótica, v. 22, n. 2, 2010.
+
+
+
+TRABALHO DE CONCLUSÃO DE CURSO 1 – INGLÊS
+
+Concepções teóricas do objeto de estudo. Coleta e análise dos dados. Redação inicial do
+Trabalho de Conclusão de Curso.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAILEY, S. Academic writing: A handbook for international students. Hoboken, NJ:
+Routledge, 2006.
+DENZIN, N. K.; LINCOLN, Y. S. (Ed.). The landscape of qualitative research. London: Sage
+Publications, 2008.
+ERICKSON, F. Qualitative methods in research on teaching. In: WITTROCK, M. C. (Ed.).
+Handbook of research on teaching. 3. ed. New York: Macmillan Publishing Company, 1986. p.
+119-161.
+MENDONÇA, L. M. N.; ROCHA, C. R. R.; D’ALESSANDRO, W. T. (Org.). Guia para
+apresentação de trabalhos monográficos na UFG. Goiânia: Universidade Federal de Goiás. Pró-
+Reitoria de Pesquisa e Pós-Graduação, 2001.
+NUNAN, D. Research methods in language learning. New York: Cambridge University Press,
+1992.
+SILVA, A. M.; PINHEIRO, M. S. F.; FRANÇA, M. N. Guia para normalização de trabalhos
+técnico-científicos: projetos de pesquisa, trabalhos acadêmicos, dissertações e teses. Uberlândia:
+Editora UFU, 2006.
+SWALES, J.; FEAK, C. B. Academic writing for graduate students: Essential tasks and skills.
+Michigan: Michigan University Press, 2004.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARNAUDET, M, L.; BARRETT, M. E. Paragraph development: a guide for students of
+English. New Jersey: Prentice Hall, 1990.
+BROWN, J. D. Understanding research in second language learning. New York: Cambridge
+University Press, 1988.
+BURNS, A. Action research in second language teacher education. In: BURNS, A.;
+RICHARDS, J.C. (Ed.). The Cambridge guide to second language teacher education. New York:
+Cambridge, 2009. p. 289-297.
+TRUEBA, H. T.; GUTHRIE, G. P.; AU, K. (Ed.). Culture and the bilingual classroom: studies
+in classroom ethnography. Rowley, MA: Newbury House Publishers, 1981.
+JOHNSON, D. M. Approaches to research in second language learning. New York: Longman,
+1992.
+SELIGER, H. W.; SHOHAMY, E. Second language research methods. Oxford: Oxford
+University Press, 2000.
+WATSON-GEGEO, K. A. Ethnography in ESL: defining the essentials. TESOL Quarterly, v.
+22, n. 4, p. 575-592, 1998.
+                                                                                             58
+
+
+
+
+TRABALHO DE CONCLUSÃO DE CURSO 2 – INGLÊS
+
+Elaboração da escrita final do Trabalho de Conclusão de Curso. Discussão dos dados,
+considerações finais e demais elementos textuais. Formatação e normalização final do
+trabalho.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAILEY, S. Academic writing: a handbook for international students. Hoboken, NJ:
+Routledge, 2006.
+DENZIN, N. K.; LINCOLN, Y. S. (Ed.). The landscape of qualitative research. London: Sage
+Publications, 2008.
+ERICKSON, F. Qualitative methods in research on teaching. In: WITTROCK, M. C. (Ed.).
+Handbook of research on teaching. 3. ed. New York: Macmillan Publishing Company, 1986. p.
+119-161.
+MENDONÇA, L. M. N.; ROCHA, C. R. R.; D’ALESSANDRO, W. T. (Org.). Guia para
+apresentação de trabalhos monográficos na UFG. Goiânia: Universidade Federal de Goiás. Pró-
+Reitoria de Pesquisa e Pós-Graduação, 2001.
+NUNAN, D. Research methods in language learning. New York: Cambridge University Press,
+1992.
+SILVA, A. M.; PINHEIRO, M. S. F.; FRANÇA, M. N. Guia para normalização de trabalhos
+técnico-científicos: projetos de pesquisa, trabalhos acadêmicos, dissertações e teses. Uberlândia:
+Editora UFU, 2006.
+SWALES, J.; FEAK, C. B. Academic writing for graduate students: essential tasks and skills.
+Michigan: Michigan University Press, 2004.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARNAUDET, M, L.; BARRETT, M. E. Paragraph development: a guide for students of
+English. New Jersey: Prentice Hall, 1990.
+BROWN, J. D. Understanding research in second language learning. New York: Cambridge
+University Press, 1988.
+BURNS, A. Action research in second language teacher education. In: BURNS, A.;
+RICHARDS, J. C. (Ed.). The Cambridge guide to second language teacher education. New York:
+Cambridge, 2009. p. 289-297.
+TRUEBA, H. T.; GUTHRIE, G. P.; AU, K. (Ed.). Culture and the bilingual classroom: studies
+in classroom ethnography. Rowley, MA: Newbury House Publishers, 1981.
+JOHNSON, D. M. Approaches to research in second language learning. New York: Longman,
+1992.
+SELIGER, H. W.; SHOHAMY, E. Second language research methods. Oxford: Oxford
+University Press, 2000.
+WATSON-GEGEO, K. A. Ethnography in ESL: defining the essentials. TESOL Quarterly, v.
+22, n. 4, p. 575-592, 1998.
+                                                                                      59
+
+INTRODUÇÃO À LINGUA BRASILEIRA DE SINAIS – LIBRAS
+
+Introdução às práticas de compreensão e produção em LIBRAS por meio do uso de
+estruturas e funções comunicativas elementares. Concepções sobre a Língua de Sinais. O
+surdo e a sociedade.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BRITO, L. F. Por uma Gramática de Língua de Sinais. Rio de Janeiro: Tempo Brasileiro, 1995.
+FELIPE, T.; MONTEIRO, M. S. Libras em contexto. Curso Básico. Brasília: Ministério da
+Educação e do Desporto/Secretaria de Educação Especial, 2001.
+GÓES, M. C. R. de. Linguagem, surdez e educação. Campinas, SP: Editora Autores
+Associados, 1999.
+PIMENTA, N.; QUADROS, R. M. Curso de Libras 1 – Iniciante. 3. ed. rev. e ampl. Porto
+Alegre: Editora Pallotti, 2008.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Ensino de Língua
+Portuguesa para Surdos: Caminhos para a Prática Pedagógica, v. 1. Brasília – DF:
+MEC/SEESP; 2002.
+CAPOVILLA, F. C., RAPHAEL, W. D. Dicionário Enciclopédico Ilustrado Trilíngue da Língua
+de Sinais Brasileira, v. 1 e 2. São Paulo: Editora USP, 2001.
+CAPOVILLA, F. C.; RAPHAEL, W. D. (Ed.). Enciclopédia da Língua de Sinais Brasileira. v. 1
+e 2. São Paulo: Editora USP, 2004
+GESSER, A. Libras? Que língua é essa? Crenças e preconceitos em torno da língua de sinais e
+da realidade surda. São Paulo: Parábola, 2009.
+QUADROS, R. M. de. Educação de surdos: a aquisição da linguagem. Porto Alegre: Artes
+Médicas, 1997.
+QUADROS, R. M. de; KARNOPP, L. Língua de Sinais Brasileira: estudos linguísticos.
+Artmed: Porto Alegre, 2004.
+SACKS, O. Vendo vozes: uma viagem ao mundo dos surdos. Trad.: L. Motta. São Paulo:
+Editora Cia das Letras, 1999.
+SASSAKI, R. K. Inclusão: construindo uma sociedade para todos. Rio de Janeiro: WVA,
+1997.
+                                                                                            60
+
+
+                  Disciplinas do Núcleo Específico Optativo
+
+CULTURAS DE LÍNGUA INGLESA
+
+A geopolítica da língua inglesa na perspectiva dos estudos interculturais. Contexto, língua e
+cultura no ensino de inglês.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+KRAMSCH, C. Context and culture in language teaching. Oxford: Oxford University Press,
+1993.
+KRAMSCH, C. Language and culture. Oxford: Oxford University Press, 1998.
+WIERZBICKA, A. A. English: meaning and culture. Oxford: Oxford University Press, 2006.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+FANTINI, A. (Ed). New ways in teaching culture. Alexandria, VA: 1997.
+MILLER, J. A tongue for sighing. In: MAYBIN, J.; MERCER, N. (Ed). Using English: from
+conversation to canon. London: Routledge, 1996. p. 275-310.
+FLOWERDE, W. J.; MILLER, L. On the notion of culture in L2 lectures. TESOL Quarterly,
+v. 29, n. 2, p. 345-373, Summer 1995.
+RAO, Z. Bridging the gap between teaching and learning styles in East Asian contexts.
+TESOL Journal, v. 11, n. 2, p. 5-11, Summer 2002.
+SUAREZ, D. ESOL teacher candidates experience cultural otherness. TESOL Journal, v. 11,
+n. 2, p. 19-25, Summer 2002.
+WHITE, J. J. Helping students deal with cultural differences. The Social Studies, v. 89, n. 3, p.
+107-112, May-June 1998.
+
+
+
+LITERATURA INFANTIL E JUVENIL DE LÍNGUA INGLESA
+
+Estudo sincrônico/diacrônico de obras dirigidas ao público infanto-juvenil do século XIX em
+diante.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+MARCUS, L. S. (Ed.). The Penguin book of classic children’s characters. New York: Dutton’s
+Children’s Books, 1998.
+BARRIE, J. M. Peter Pan. New York: Bantam Books, s.d.
+CARROL, L. Alice’s adventures in wonderland and through the looking-glass. Harmondsworth,
+Middlesex: Penguin, 1988.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ALCOTT, L. Little women. New York: Puffin Classics, s.d.
+BAUM, L. F. The wonderful wizard of Oz. New York: HarperTrophy, 2001.
+HOPE, A. The prisoner of Zenda. New York: Puffin Classics, s.d.
+KIPLING, R. The jungle book. New York: Puffin Classics, s.d.
+LEWIS, C. S. The chronicles of Narnia. New York: Puffin Books, s.d.
+                                                                                           61
+
+MACDONALD, G. The princess and curdie. New York: Puffin Books: s.d.
+MONTGOMERY, L. M. Anne of Green Gables. New York: Bantam, 1997.
+NESBIT, E. Five children and it. London: Puffin Classics, s.d.
+ROWLING, J. Harry Potter and the philosopher’s stone. London: Bloomsbury, 2000.
+TOLKIEN, J. R. R. The Hobbit. London: Houghton Mifflin, 1994.
+TRAVERS, P. L. Mary Poppins. London: HarcourtBrace, 1981.
+
+
+TECNOLOGIAS E ENSINO DE LÍNGUAS ESTRANGEIRAS
+
+Reflexão sobre a influência tecnológica nos processos de ensino e aprendizagem de línguas
+estrangeiras. Uso das novas tecnologias da informação e comunicação na prática do
+professor de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+COLL, C.; MONEREO, C. Psicologia da educação virtual: aprender e ensinar com as
+tecnologias da informação e da comunicação. Porto Alegre: Artmed, 2010.
+KENSKI, V. M. Tecnologias e ensino presencial e a distância. Campinas, SP: Papirus, 2003.
+MORAN, J. M.; MASETTO, M. T.; BEHRENS, M. A. (Org.). Novas tecnologias e mediação
+pedagógica. Campinas, SP: Papirus, 2000.
+SAMPAIO, M. N.; LEITE, L. S. Alfabetização tecnológica do professor. Petrópolis, RJ: Vozes,
+1999.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARRUDA, E. Ciberprofessor: novas tecnologias, ensino e trabalho docente. Belo Horizonte:
+Autêntica, 2004.
+MINISTÉRIO DA EDUCAÇÃO; SECRETARIA DE EDUCAÇÃO A DISTÂNCIA.
+Referenciais de qualidade para educação superior a distância. Brasília, 2007. Disponível em:
+<http://portal.mec.gov.br/seed/arquivos/pdf/ legislacao/refead1.pdf>. Acesso em: 16 abr.
+2011.
+LEFFA (Org.). A interação na aprendizagem das línguas. 2 ed. Pelotas: EDUCAT, 2006.
+MOORE, M. G.; KEARSLEY, G. Educação a distância: uma visão integrada. São Paulo:
+Cengage Learning, 2008.
+PALLOF, R. M.; PRATT, K. Construindo comunidades de aprendizagem no ciberespaço:
+estratégias eficientes para a sala de aula on-line. Porto Alegre: Artmed, 2002.
+PALLOF, R. M.; PRATT, K. O aluno virtual: um guia para trabalhar com estudantes on-line.
+Porto Alegre: Artmed, 2004.
+PRETI, O. (Org.). Educação a distância: ressignificando práticas. Brasília: Liber Livro Editora,
+2005.
+
+
+TRADUÇÃO – INGLÊS
+
+Conceitos, tipologias e abordagens contemporâneas da tradução. Aspectos sistêmicos e
+discursivos. Prática de tradução do inglês-português e do português-inglês.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AGUIAR. O. B. Abordagens teóricas da tradução. Goiânia: Editora UFG, 2000.
+                                                                                            62
+
+ARROJO, R. Oficina de tradução. São Paulo: Ática, 1986.
+BARBOSA, H. G. Procedimentos técnicos da tradução: uma nova proposta. São Paulo: Pontes,
+2004.
+BASSNETT, S. Translation studies. London: Routledge, 2002.
+MUNDAY, J. Introducing translation studies: theories and applications. London: Routledge,
+2006.
+PALUMBO, G. Key terms in translation studies. New York: The Continuum International
+Publishing Group, 2009.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARROJO, R. O signo desconstruído. Campinas: Pontes, 1992.
+BAKER, M. SALDANHA, G. Routledge encyclopedia of translation studies. New York:
+Routledge, 2009.
+ROBINSON, D. Becoming a translator. London: Routledge, 1997.
+BENEDETTI, I; SOBRAL, A. (Org.). Conversas com tradutores: balanços e perspectiva da
+tradução. São Paulo: Parábola, 2003.
+COLLINS COBUILD ENGLISH LANGUAGE DICTIONARY. Glasgow: Collins.
+COULTHARD, M. CALDAS-COULTHARD, C. R. Tradução: teoria e prática.
+Florianópolis: Editora UFSC, 1991.
+SNELL-HORNBY, M. Translation studies: an integrated approach. Philadelphia: John
+Benjamins, 1995.
+
+
+LITERATURAS AFRICANAS EM LÍNGUA PORTUGUESA
+
+Estudo da história das literaturas africanas de língua portuguesa, da crítica literária de autores
+paradigmáticos de Portugal e do Brasil e das obras poética e narrativa de autores de referência
+de cada um dos países selecionados. O ensino das literaturas africanas de Língua Portuguesa.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ABDALA JR., B. Literatura, história e política. São Paulo: Ática, 1989, 199 p.
+FERREIRA, M. Literaturas africanas de expressão portuguesa. 2ª ed. Lisboa: ICALP, 1987, 2
+vols. 142 p. e 152 p.
+HAMILTON, R. Literatura africana, literatura necessária. Lisboa: edições 70, 1981 e 1984, 2
+vols. 246 p. + 295 p.
+MARGARIDO, A. Estudos sobre a literatura das nações africanas de língua portuguesa. Lisboa: A
+regra do jogo, 1980, 559 p.
+SANTILLI, M. A. C. B. Africanidade: contornos literários. São Paulo: Ática, 1985, 111 p.
+_____. Estórias africanas. São Paulo, Ática, 1985.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ANDRADE, C. Literatura Angolana (Opiniões), Lisboa, Edições 70, 1980.
+CHAVES, R. Angola e Moçambique: experiência colonial e territórios literários, Cotia, Ateliê,
+2005.
+CHAVES, R.;MACÊDO, T. Marcas da Diferença: as literaturas africanas de língua portuguesa,
+São Paulo, Alameda Editorial, 2006.
+ERVEDOSA, C. Roteiro da literatura angolana. 3ª ed. Luanda: UEA, 1985.
+                                                                                         63
+
+FANON, F. Os condenados da terra. Cap. I. 1ª ed. Rio de Janeiro: Paz e Terra, 1961. 2a ed. Rio
+de Janeiro: Editora Civilização Brasileira; 1979.
+FERREIRA, M. (Org.). Literaturas africanas de Língua Portuguesa. Lisboa: Gulbenkian, 1987,
+237 p.
+_____. 50 poetas africanos. Lisboa: Plátano, 1989, 483 p.
+_____. O discurso no percurso africano I. Lisboa: Plátano, 1990, 378 p.
+LARANJEIRA, P. Literaturas Africanas de Expressão Portuguesa, Lisboa, Universidade Aberta,
+1995.
+LEITE, A. M. Literaturas Africanas e Formulações Pós-coloniais, Lisboa, Colibri, 2003.
+MACEDO, J. Literatura Angolana e Texto Literário, Luanda, UEA, 1989.
+MACEDO, T. VECCHIA, R. A kinda e a missanga. São Paulo; Luanda: Cultura acadêmica;
+Nzila, 2007, p. 85-94.
+MATA, I. Pelos trilhos da literatura africana em língua portuguesa. Pontevedra/Braga: cadernos
+do Povo, 1992, 96 p.
+_____. Literaturas africanas de expressão portuguesa. Lisboa: Universidade Aberta, 1995.
+MEMMI, A. Retrato do colonizado precedido pelo retrato do colonizador. Rio de
+Janeiro: Paz e Terra, 1977.
+MENDONÇA, F. Literatura Moçambicana: a história e seus escritos. Maputo: Univ. Eduardo
+Mondlane, 1989, 119 p.
+MOSER, G.; FERREIRA, M. Bibliografia das Literaturas Africanas de expressão portuguesa.
+Lisboa: IN-CM, 1983, 405 p.
+PADILHA, L. C. Entre Voz e Letra: a ancestralidade na literatura angolana. Lisboa, Novo
+Imbondeiro, 2005.
+RAMOS, M. M. Entre dois contares: o espaço da tradição na escrita de Uanhenga Xitu. Tese de
+doutorado. FFLCH-USP. 1996.
+SARTRE, J-P. Prefácio a Os condenados da terra. In FANON, Franz. Os condenados da terra. Rio
+de Janeiro: Paz e Terra.
+SEPÚLVEDA, L. Luandino Vieira: paixão e arte de escre(vi)ver. In SEPÚLVEDA, M. do C.
+& SALGADO, M. T.(Org.) África & Brasil: letras em laços. Rio de Janeiro, Atlântica, 2000.
+TRIGO, S. Introdução à Literatura Angolana de Expressão Portuguesa. Porto, Brasília Editora,
+1977.
+_______. Ensaios de Literatura Comparada Afro-Luso-Brasileira. Lisboa, Vega, 1986.
+VENÂNCIO, José Carlos. “Da libertação nacional à libertação econômica: a literatura
+angolana após a Independência”. In: Estudos Portugueses e Africanos, n.º 10, Universidade
+Estadual de Campinas, 1987.
+PORTUGAL, F. S. Rosto negro. O contexto das literaturas africanas. Santiago de Compostela:
+Laiovento, 1994, 136 p.
+
+
+FRANCÊS 1
+
+Introdução às práticas de compreensão e produção orais e escritas em francês, nível
+elementar, em contexto de comunicação.
+
+BIBLIOGRAFIA BÁSICA:
+
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+                                                                                           64
+
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BESCHERELLE. La conjugaison pour tous. Paris: Hatier, 1997.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+LE NOUVEAU BESCHERELLE 2 e 3. Paris: Hatier, 1980.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+ROBERT, P. Le Nouveau Petit Robert. Paris: Dictionnaires Le Robert, 1993.
+
+FRANCÊS 2
+
+Práticas de compreensão e produção orais e escritas em francês, nível elementar, em
+contexto de comunicação.
+
+BIBLIOGRAFIA BÁSICA:
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000.
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+BESCHERELLE. La conjugaison pour tous. Paris: Hatier, 1997.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+LE NOUVEAU BESCHERELLE 2 e 3. Paris, Librairie Hatier, 1980.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+ROBERT, P. Le Nouveau Petit Robert. Paris: Dictionnaires Le Robert, 1993.
+
+FRANCÊS 3
+
+Desenvolvimento sistemático da competência comunicativa e das habilidades linguísticas
+em francês em nível pré-intermediário.
+
+
+BIBLIOGRAFIA BÁSICA:
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+BESCHERELLE. La conjugaison pour tous. Paris: Hatier, 1997.
+GENOUVRIER, E.; DÉSIRAT, G. ; HORDE, T. Dictionnaire des synonymes. Paris:
+Librairie Larousse, 1977.
+GREVISSE. M. Le bon usage. Belgique : Editions J. Duculot, 1975.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+RAT, M. Dictionnaire des locutions françaises. Paris : Librairie Larousse, 1957.
+ROBERT, P. Le Nouveau Petit Robert. Paris : Dictionnaires Le Robert, 1993.
+THOMAS, A. V. Dictionnaire des difficultés de la langue française. Paris : Librairie Larousse,
+1956.
+                                                                                        65
+
+
+
+
+FRANCÊS 4
+
+Desenvolvimento da competência comunicativa e das habilidades linguísticas
+interpretativas, produtivas e interativas em francês em nível pré-intermediário.
+
+
+BIBLIOGRAFIA BÁSICA:
+DUBOIS, J. LAGANE, R. La nouvelle grammaire du français. Paris: Larousse, 1997.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+BESCHERELLE. La conjugaison pour tous. Paris : Hatier, 1997.
+GREVISSE, M. Le bon usage. Louvain-la Neuve: Duculot, 1993.
+LAROUSSE. Dictionnaire Larousse de poche - dictionnaire noms communs et noms propres.
+Paris: Larousse, 1995.
+LE ROBERT et NATHAN. Conjugaison. Paris: Éditions Nathan, 1996.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+ROBERT, P. Le nouveau Petit Robert . Paris: Dictionnaires Le Robert, 1993.
+
+PRÁTICA ESCRITA DE FRANCÊS
+
+Desenvolvimento da habilidade de expressão escrita. Estudo do processo de redação e
+produção dos vários gêneros textuais.
+
+BIBLIOGRAFIA BÁSICA:
+
+BÉDRANE, S. Le vocabulaire. Paris: Hatier, 1995.
+GREGOIRE, M.; THIÉVENAZ. O. Grammaire progressive du français. Paris: CLE
+international, 1995.
+MORHANGE-BÉGUÉ, C. Mieux rédiger. Paris: Hatier, 1995.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BOSSÉ-ANDRIEU, J. Exercices pratiques de style. Québec: Presses Universitaires du Québec,
+1990.
+MOGET, M.-T. Pratiques de l’écrit. Paris: Didier, 1986.
+MOREAU, J. La contraction et la synthèse de textes. Paris: Nathan, 1977.
+
+
+
+PRÁTICA ORAL 1 DE FRANCÊS
+
+Estudo de aspectos fonológicos da língua francesa. Prática de expressão e compreensão
+orais abrangendo as competências gramatical e discursiva.
+                                                                                         66
+
+BIBLIOGRAFIA BÁSICA:
+
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000.
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+PEDOYA-GUIMBRETIERE, E. ; KANEMAN-POUGATCH, M. Le plaisir des sons.
+Paris : Didier, 2003.
+________. Le plaisir des sons. Cahier de l’élève. Paris : Didier, 2003.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BESCHERELLE. La conjugaison pour tous. Paris : Hatier, 1997.
+LE NOUVEAU BESCHERELLE 2 e 3. Paris, Librairie Hatier, 1980.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+RIOS, L. M.; CAVALCANTE, M. P. Estudo contrastivo fonológico: Português x Francês.
+Letras em Revista, v. 7/8, n. 1, jan/dez 1996/1997. RIOS, L. M. Expressões francesas no dia-a-
+dia do goianiense: subsídios para a pronúncia do Francês. Signótica, v. 15, n. 2, jul/dez, 2003.
+ROBERT, P. Le Nouveau Petit Robert. Paris: Dictionnaires Le Robert, 1993
+
+
+PRÁTICA ORAL 2 DE FRANCÊS
+
+Aprimoramento da capacidade de compreensão e expressão orais. Estudo de
+aspectos fonológicos da língua francesa. Análise de aspectos linguísticos,
+enunciativos e discursivos da expressão oral em língua francesa de aprendizes brasileiros.
+
+BIBLIOGRAFIA BÁSICA:
+
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000.
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+PEDOYA-GUIMBRETIERE, E. ; KANEMAN-POUGATCH, M. Le plaisir des sons.
+Paris : Didier, 2003.
+PEDOYA-GUIMBRETIERE, E. ; KANEMAN-POUGATCH, M. Le plaisir des sons.
+Cahier de l’élève. Paris : Didier, 2003.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BESCHERELLE. La conjugaison pour tous. Paris : Hatier, 1997.
+LE NOUVEAU BESCHERELLE 1, 2 e 3. Paris, Librairie Hatier, 1980.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+ROBERT, P. Le Nouveau Petit Robert. Paris: Dictionnaires Le Robert, 1993
+RIOS, L. M.; CAVALCANTE, M. P. Estudo contrastivo fonológico: Português x
+Francês. Letras em Revista, v. 7/8, n. 1, jan/dez 1996/1997.RIOS, L. M. Expressões
+francesas no dia-a-dia do goianiense: subsídios para a pronúncia do Francês.
+Signótica, v. 15, n. 2, jul/dez, 2003.
+
+ESPANHOL 1
+
+Introdução às práticas de compreensão e produção orais e escritas em espanhol em
+contexto de comunicação em nível elementar. Estudo de gêneros textuais da ordem do
+descrever.
+                                                                                     67
+
+
+
+BIBLIOGRAFIA BÁSICA:
+ARTUÑEDO GUILLÉN, B.; GONZÁLEZ SÁINZ, M. T.; Taller de escritura: Cuaderno
+de actividades. Madrid: Edinumen, 2000.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa
+Libros, 2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Elemental. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 1. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 1.
+Curso de español. Barcelona: Difusión, 2005.
+FERNÁNDEZ LÓPEZ, S. Las estrategias de aprendizaje. In: SÁNCHEZ LOBATO, J.;
+SANTOS GARGALLO. I. Vademécum para la formación de profesores. Enseñar español como
+L2/LE. Madrid: SGEL, 2005. p. 411-433.
+PINILLA GÓMEZ, R. Las estrategias de comunicación. In: SÁNCHEZ LOBATO, J.;
+SANTOS GARGALLO. I. Vademécum para la formación de profesores. Enseñar español como
+L2/LE. Madrid: SGEL, 2005. p. 435-446.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+SOLÉ, I. Estrategias de lectura. Barcelona: Editorial Graó, 1992.
+
+
+ESPANHOL 2
+
+Práticas de compreensão e produção orais e escritas em espanhol em contexto
+comunicativo em nível elementar. Estudo de gêneros textuais da ordem do descrever e do
+relatar.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+ARTUÑEDO GUILLÉN, B.; GONZÁLEZ SÁINZ, M. T.; Taller de escritura: Cuaderno
+de actividades. Madrid: Edinumen, 2000.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa
+Libros, 2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Elemental. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 2. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 2.
+Curso de español. Barcelona: Difusión, 2005.
+                                                                                      68
+
+FANJUL, A. Gramática de español paso a paso. São Paulo: Moderna, 2005.
+MARCUSCHI, L. A. A produção textual, análise de gêneros e compreensão. São Paulo:
+Parábola, 2008.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+SOLÉ, I. Estrategias de lectura. Barcelona: Editorial Graó, 1992.
+
+ESPANHOL 3
+
+Desenvolvimento sistemático da competência comunicativa e das habilidades linguísticas
+em espanhol em nível pré-intermediário. Estudo de gêneros textuais da ordem do relatar e
+do narrar.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+ARTUÑEDO GUILLÉN, B.; GONZÁLEZ SÁINZ, M. T.; Taller de escritura: Cuaderno
+de actividades. Madrid: Edinumen, 2000.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa
+Libros, 2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Elemental. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 3. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 3.
+Curso de español. Barcelona: Difusión, 2005.
+FERNÁNDEZ DÍAZ, R. Prácticas de léxico español para Hablantes de Portugués. Dificultades
+Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros, S.L., 1999.
+FANJUL, A. Gramática de español paso a paso. São Paulo: Moderna, 2005.
+MACHADO, A. R.; BEZERRA, M. A. Gêneros textuais e ensino. Rio de Janeiro:
+Lucena, 2003.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+
+
+ESPANHOL 4
+
+Desenvolvimento sistemático da competência comunicativa e das habilidades linguísticas
+em espanhol em nível pré-intermediário. Estudo de gêneros textuais da ordem do narrar e
+do expor.
+
+
+BIBLIOGRAFIA BÁSICA:
+CASSANY, D. Taller de textos. Barcelona: Paidós, 2006.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa
+                                                                                       69
+
+Libros, 2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Intermedio. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 4. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 4.
+Curso de español. Barcelona: Difusión, 2005.
+FANJUL, A. Gramática de español paso a paso. São Paulo: Moderna, 2005.
+FERNÁNDEZ DÍAZ, R. Prácticas de léxico español para Hablantes de Portugués. Dificultades
+Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros, S.L., 1999.
+FERNÁNDEZ DÍAZ, R. Prácticas de Gramática Española para Hablantes de Portugués.
+Dificultades Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros,
+S.L., 1999.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+
+
+PRÁTICA ORAL 1 DE ESPANHOL
+
+Desenvolvimento da compreensão e da expressão oral em espanhol em nível básico.
+Estratégias de comunicação.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+PINILLA, R.; ACQUARONI, A. ¡Bien dicho! Ejercicios de expresión oral. Madrid: SGEL,
+2005.
+RODRÍGUES, M. R. Escucha y aprende. Ejercicios de comprensión auditiva. Madrid:
+SGEL, 2003.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BRUNO, F. A. T. C. Os gêneros orais em aulas de ELE: uma proposta de abordagem In:
+BARROS, C. S.; COSTA. E. G. M. (Org.). Espanhol: ensino médio. Coleção Explorando o
+Ensino. v. 16. Brasília: Ministério da Educação, Secretaria de Educação Básica, 2010. p.
+221-232.
+FERNÁNDEZ DÍAZ, R. Prácticas de Fonética Española para Hablantes de Portugués.
+Dificultades Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros,
+S.L., 1999.
+HERMOSO, A. G.; DUEÑAS, C. R. Fonética, entonación y ortografía. Madrid: Edelsa:
+2002.
+MASIP, V. Gente que pronuncia bien: Curso de pronunciación española para brasileños.
+Barcelona: Difusión, 1998.
+PALOMINO, A. M. Dual. Pretextos para hablar. Madrid: Edelsa, 1998.
+                                                                                           70
+
+
+
+PRÁTICA ORAL 2 DE ESPANHOL
+
+Aperfeiçoamento da compreensão e da expressão oral. Noções de fonética e fonologia da
+língua espanhola.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+HERMOSO, A. G.; DUEÑAS, C. R. Fonética, entonación y ortografía. Madrid: Edelsa,
+2002.
+PINILLA, R.; ACQUARONI, A. ¡Bien dicho! Ejercicios de expresión oral. Madrid:
+SGEL, 2005.
+QUILIS, A. Principios de fonología e fonética españolas. Madrid: Arco/Libros, 1997.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+FERNÁNDEZ DÍAZ, R. Prácticas de Fonética Española para Hablantes de Portugués.
+Dificultades Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros,
+S.L., 1999.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+MASIP, V. Gente que pronuncia bien: Curso de pronunciación española para brasileños.
+Barcelona: Difusión, 1998.
+MIQUEL, L. SANS, Neus. De dos en dos: ejercicios interactivos de producción oral. Nivel
+básico e intermedio. Barcelona: Difusión, 2008.
+PALOMINO, A. M. Dual. Pretextos para hablar. Madrid: Edelsa, 1998.
+VÁZQUEZ, G. La destreza oral. Madrid: Edelsa, 2000.
+SANTOS GARGALLO, I. SANTOS GARGALLO, A. De cine. Madrid: SGEL, 2010.
+LOYER, R. S. Voces de América. Madrid: SGEL, 2010
+España, tierra entre mares. Madrid: SGEL, 2010
+
+
+PRÁTICA ESCRITA DE ESPANHOL
+
+Desenvolvimento da capacidade de expressão escrita em espanhol através do uso de
+estratégias discursivas. Compreensão do processo de produção dos gêneros textuais.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+MARTÍN VIVALDI, G. Curso de redacción. Teoría y práctica de la composición y del
+estilo. Madrid: Paraninfo, 1993.
+RINCÓN, F.; SÁNCHEZ ENCISO, J. El taller de la novela. Barcelona: Octaedro, 1999.
+SERRANI, S. Discurso e cultura na aula de língua: currículo, leitura, escrita. Campinas:
+Pontes, 2005.
+MACHADO, A. R.; LOUSADA, E.; ABREU-TARDELLI, L. S. Planejar gêneros
+acadêmicos. São Paulo: Parábola, 2005.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CHION, M. Cómo se escribe un guión. Madrid: Cátedra, 2006.
+                                                                                       71
+
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Diccionario panhispánico de dudas. Madrid: Santillana
+Ediciones Generales, 2005. Disponível em: <http://www.rae.es>.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Ortografía de la lengua española. Madri: Espasa Libros, 2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA
+LENGUA ESPAÑOLA. Nueva gramática de la lengua española – Manual. Madrid:
+Espasa Libros, 2010.
+VARGENS, D. P. M.; FREITAS, L. M. A. Ler e escrever: muito mais que unir palavras.
+In: BARROS, C. S.; COSTA. E. G. M. (Org.). Espanhol: ensino médio. Coleção Explorando
+o Ensino. v. 16. Brasília: Ministério da Educação, Secretaria de Educação Básica, 2010. p.
+191-220.
+

@@ -1,0 +1,3188 @@
+                 SERVIÇO PÚBLICO FEDERAL
+             UNIVERSIDADE FEDERAL DE GOIÁS
+                 INSTITUTO DE INFORMÁTICA
+
+
+
+
+PROJETO PEDAGÓGICO DE CURSO
+   SISTEMAS DE INFORMAÇÃO
+
+                    Diretor: Sérgio Teixeira de Carvalho
+               Vice-Diretor: Vinícius Sebba Patto
+     Coordenador do curso: Eliomar Araújo de Lima
+Vice-coordenador do curso: Valdemar Vicente Graciano Neto
+   Coordenador de estágio: Nivaldo Pereira de Morais Júnior
+Coordenadora de monitoria: Deborah Silva Alves Fernandes
+Núcleo Docente Estruturante Alessandro Cruvinel Machado de Araújo
+                 do curso: Diane Castonguay
+
+                             Edison Andrade Martins Morais
+                             Eliomar Araújo de Lima
+                             Iwens Gervasio Sene Junior
+                             Luciana de Oliveira Berretta
+                             Nádia Félix Felipe da Silva
+                             Nivaldo Pereira de Morais Júnior
+                             Rubens de Castro Pereira
+                             Valdemar Vicente Graciano Neto
+                             Wanderley de Souza Alencar
+
+
+                           Outubro/2019.
+Conteúdo
+I – Apresentação do Projeto .................................................................................................. 7
+
+   a) Área de Conhecimento .................................................................................................. 7
+
+   b) Modalidade.................................................................................................................... 7
+
+   c) Nome do Curso ............................................................................................................. 7
+
+   d) Grau Acadêmico............................................................................................................ 7
+
+   e) Título a ser Conferido .................................................................................................... 7
+
+   f) Habilitação, Ênfase e/ou Linhas de Formação ............................................................... 7
+
+   g) Unidade Responsável pelo Curso ................................................................................. 7
+
+   h) Carga Horária do Curso ................................................................................................ 7
+
+   i) Turno de Funcionamento................................................................................................ 7
+
+   j) Número de Vagas........................................................................................................... 7
+
+   k) Duração do Curso em Semestres.................................................................................. 7
+
+   l) Forma de Ingresso ao Curso .......................................................................................... 8
+
+II - Exposição de Motivos ...................................................................................................... 8
+
+III – Objetivos ...................................................................................................................... 11
+
+   a) Objetivos Gerais .......................................................................................................... 11
+
+   b) Objetivos Específicos .................................................................................................. 11
+
+IV – Princípios Norteadores para a Formação do Profissional ............................................ 11
+
+   a) Prática Profissional...................................................................................................... 12
+
+   b) Formação Técnica....................................................................................................... 13
+
+   c) Formação Ética e Função Social do Profissional ......................................................... 14
+
+   d) Interdisciplinaridade .................................................................................................... 14
+
+   e) Articulação entre Teoria e Prática ............................................................................... 15
+
+V – Expectativa da Formação do Profissional ..................................................................... 16
+
+   a) Perfil do Curso ............................................................................................................ 16
+
+   b) Perfil do Egresso ......................................................................................................... 17
+
+   c) Habilidades do Egresso ............................................................................................... 17
+
+
+
+                                                                                                                                       2
+VI – Estrutura Curricular ...................................................................................................... 18
+
+   a) Matriz Curricular - Disciplinas Obrigatórias .................................................................. 19
+
+   b) Lista de Disciplinas Optativa........................................................................................ 20
+
+   c) Elenco de Componentes Curriculares ......................................................................... 22
+
+   d) Quadro de Carga Horária ............................................................................................ 50
+
+   e) Sugestão de Fluxo Curricular ...................................................................................... 50
+
+   f) Representação Gráfica da Sugestão de Fluxo Curricular ............................................. 54
+
+   g) Atividades Complementares ........................................................................................ 54
+
+VII – Política e Gestão de Estágio Curricular ...................................................................... 55
+
+IX – Integração Ensino, Pesquisa e Extensão ..................................................................... 58
+
+X – Sistema de Avaliação do Processo de Ensino e de Aprendizagem .............................. 61
+
+XI – Sistema de Avaliação do Projeto de Curso .................................................................. 61
+
+XII – Política de Qualificação Docente e Técnico-administrativo da Unidade Acadêmica.... 61
+
+XIII – Requisitos Legais e Normativos ................................................................................. 62
+
+   a) Condições de Acesso para Pessoas com Deficiência e/ou Mobilidade Reduzida........ 63
+
+   b) Diretrizes Curriculares Nacionais do Curso ................................................................. 63
+
+   c) Diretrizes Nacionais para a Educação em Direitos Humanos ...................................... 63
+
+   d) Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-
+   Brasileira e Africana ........................................................................................................ 63
+
+      Disciplinas de Graduação Obrigatórias ........................................................................ 64
+
+      Programa Institucional de Extensão ............................................................................. 64
+
+   e) Informações Acadêmicas ............................................................................................ 65
+
+   f) Libras ........................................................................................................................... 65
+
+   g) Núcleo Docente Estruturante....................................................................................... 65
+
+   h) Política de Educação Ambiental .................................................................................. 65
+
+      Planejamento das Disciplinas ...................................................................................... 66
+
+      Disciplinas de Graduação Obrigatórias ........................................................................ 66
+
+      Programa Institucional de Extensão ............................................................................. 66
+
+   i) Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista ........................ 67
+
+
+
+                                                                                                                                         3
+   j) Titulação do Corpo Docente ......................................................................................... 67
+
+XIV – Matriz de Equivalência .............................................................................................. 67
+
+XV - Considerações Finais .................................................................................................. 69
+
+XVI – Referências ............................................................................................................... 70
+
+
+
+
+                                                                                                                                  4
+Lista de Acrônimos e Siglas
+AC         Atividade Complementar
+ACM        Association for Computing Machinery
+           Apoema Tecnologia e Inovação, órgão complementar da UFG
+Apoema
+           vinculado ao INF
+Assespro   Associação das Empresas Brasileiras de Tecnologia da Informação
+           Associação Brasileira das Empresas de Tecnologia da Informação e
+BRASSCOM
+           Comunicação
+BSI        Bacharelado em Sistemas de Informação
+CEPEC      Conselho de Ensino, Pesquisa, Extensão e Cultura
+CES        Câmara de Educação Superior
+CHT        Carga Horária Total
+CNE        Conselho Nacional de Educação
+CNPQ       Conselho Nacional de Desenvolvimento Científico e Tecnológico
+CONAES     Comissão Nacional de Avaliação da Educação Superior
+CONSUNI    Conselho Universitário
+CPC        Conceito Preliminar de Curso
+CR         Co-requisito
+CTS        Centro Tecnológico de Software
+DCN        Diretrizes Curriculares Nacionais
+ENADE      Exame Nacional de Desempenho de Estudantes
+EPE        Ensino, Pesquisa e Extensão
+ERI-GO     Escola Regional de Informática de Goiás
+ERSI-GO    Escola Regional de Sistemas de Informação de Goiás
+ERAD-CO    Escola Regional de Alto Desempenho do Centro-Oeste
+           Faculdade de Administração, Ciências Contábeis e Ciências
+FACE
+           Econômicas
+FL         Faculdade de Letras
+FUNAPE     Fundação de Apoio à Pesquisa
+IBGE       Instituto Brasileiro de Geografia e Estatística
+IES        Instituição de Ensino Superior
+IME        Instituto de Matemática e Estatística
+INF        Instituto de Informática
+JOPINF     Jornada de Pesquisa do Instituto de Informática
+LIBRAS     Língua Brasileira de Sinais
+MEC        Ministério da Educação
+
+
+
+                                                                             5
+NC                Núcleo Comum
+NE                Núcleo Específico
+NEOB              Núcleo Específico Obrigatório
+NEOP              Núcleo Específico Optativo
+NL                Núcleo Livre
+OBI               Olimpíada Brasileira de Informática
+OBR               Disciplina Obrigatória
+OPT               Disciplina Optativa
+PDI               Plano de Desenvolvimento Institucional
+PFC               Projeto Final de Curso
+PIBIC             Programa Institucional de Bolsas de Iniciação Científica
+                  Programa Institucional de Bolsas de Iniciação em Desenvolvimento
+PIBITI
+                  Tecnológico e Inovação
+PIVIC             Programa Voluntário de Iniciação Científica
+PIVITI            Programa Voluntário de Iniciação Tecnológica
+PLS               Plano de Logística Sustentável
+POSCOMP           Exame Nacional para Ingresso na Pós-Graduação em Computação
+PPC               Projeto Pedagógico de Curso
+PR                Pré-requisito
+PROBEC            Programa de Bolsas de Extensão e Cultura
+PROGRAD           Pró-reitoria de Graduação
+PROVEC            Programa de Voluntários de Extensão e Cultura
+RGCG              Regulamento Geral dos Cursos de Graduação
+SBC               Sociedade Brasileira de Computação
+SBSI              Simpósio Brasileiro de Sistemas de Informação
+SI                Sistemas de Informação
+                  Sindicato de Empresas de Informática, Telecomunicações e similares
+Sindinformática
+                  do Estado de Goiás
+SISU              Sistema de Seleção Unificada
+TAE               Técnico-Administrativo em Educação
+TCC               Trabalho de Conclusão de Curso
+TI                Tecnologia da Informação
+UFG               Universidade Federal de Goiás
+
+
+
+
+                                                                                       6
+I – Apresentação do Projeto
+a) Área de Conhecimento
+
+      Ciências Exatas e da Terra.
+
+b) Modalidade
+
+      Presencial.
+
+c) Nome do Curso
+
+      Bacharelado em Sistemas de Informação.
+
+d) Grau Acadêmico
+
+      Bacharelado.
+
+e) Título a ser Conferido
+
+      Bacharel.
+
+f) Habilitação, Ênfase e/ou Linhas de Formação
+
+      Bacharel em Sistemas de Informação.
+
+g) Unidade Responsável pelo Curso
+
+      Instituto de Informática.
+
+h) Carga Horária do Curso
+
+      3.000h (três mil horas), coerente com as Diretrizes Curriculares Nacionais para os
+      Cursos de Graduação em Computação, instituídas no parecer CNE/CES nº 136/2012,
+      aprovado em 8 de março de 2012.
+
+i) Turno de Funcionamento
+
+      Predominantemente noturno.
+
+j) Número de Vagas
+
+      40 (quarenta) vagas, as quais serão ofertadas no primeiro semestre do ano letivo.
+
+k) Duração do Curso em Semestres
+
+
+
+
+                                                                                          7
+       Mínimo de 9 (nove) semestres e máximo de 14 (quatorze) semestres, em
+       conformidade com a Resolução CNE/CES nº 2, de 18 de Junho de 2007, que dispõe
+       sobre a carga horária mínima e procedimentos relativos à integralização e duração
+       dos cursos de graduação, bacharelados, na modalidade presencial, e com a
+       Resolução CNE/CES nº 3 de 2 de julho de 2007, que dispõe sobre procedimentos a
+       serem adotados quanto ao conceito de hora-aula.
+
+
+
+l) Forma de Ingresso ao Curso
+
+       As formas de ingresso estão previstas no Regulamento Geral dos Cursos de
+       Graduação (RGCG) da UFG.
+
+
+II - Exposição de Motivos
+O Curso de Bacharelado em Sistemas de Informação (BSI, de aqui em diante) do Instituto de
+Informática (INF), mantido pela Universidade Federal de Goiás, é oferecido na cidade de
+Goiânia-GO. Foi criado pelo Conselho Universitário da Universidade Federal de Goiás,
+conforme Resolução CONSUNI nº 22/2008, de 27 de junho de 2008. Predominantemente
+noturno, o curso iniciou suas atividades em 2009.
+
+     Até a turma de 2015-2, aproximadamente 80 egressos obtiveram grau de bacharel em
+BSI, dos quais mais de 10% já ingressaram nos cursos de pós-graduação do INF
+(especialização e mestrado). Embora haja carência de verificação do Alumni no INF e no
+curso de BSI, percebe-se pela interação com os formandos que uma parte razoável deles se
+encontra empregada no mercado de trabalho.
+
+     Todavia, a partir do relatório de avaliação in loco do MEC ao curso de Sistemas de
+Informação, realizada em março de 2014, percebe-se problemas acerca do Projeto
+Pedagógico de Curso (doravante PPC) de BSI. Entre eles, destacam-se: perfil profissional do
+egresso, estrutura e conteúdos curriculares, metodologia, atividades complementares,
+trabalho de conclusão de curso e bibliografias básica e complementar.
+
+     Embora a nota tenha sido 4 (o máximo é 5), as observações do relatório da comissão
+apontaram pequenos erros de fácil correção. O INF e o Núcleo Docente Estruturante (NDE)
+de BSI entendem que todos os trabalhos devem ser direcionados à obtenção de notas
+máximas em todo e qualquer instrumento de avaliação.
+
+     Diante dessas constatações, o NDE de BSI, trabalhou de forma intensa no sentido de
+investigar as Diretrizes Curriculares Nacionais (DCN) para cursos de Computação, os
+Currículos de Referência para o curso de BSI da Sociedade Brasileira de Computação (SBC)
+
+
+                                                                                         8
+e da Association for Computing Machinery (ACM), os PPCs de cursos de BSI com Conceito
+Preliminar de Curso (CPC) máximo, bem como os conteúdos cobrados no Exame Nacional
+de Desempenho de Estudantes (ENADE) para BSI.
+
+     Como resultado, foi constatada a deficiência do PPC de BSI e a sua urgente
+necessidade de reformulação de determinados conteúdos. Dentre as principais necessidades
+de mudanças identificadas pelo NDE de BSI, sobressaem-se:
+
+   a) maior compatibilidade entre os conteúdos curriculares do PPC de 2009 com as DCN
+       de cursos de Computação, bem como uma maior interseção com conteúdos exigidos
+       no ENADE;
+   b) revisão das bibliografias básica e complementar de algumas disciplinas;
+   c) revisão e aperfeiçoamento das práticas integradoras de ensino, pesquisa e extensão;
+       e
+   d) observância de aspectos legais e normativos, como a inserção de conteúdos
+       curriculares relacionados a aspectos sócio-étnico-raciais e ambientais.
+
+     Além disso, durante os três primeiros anos do curso de Sistemas de Informação, os
+docentes do INF perceberam a importância de se criar um núcleo comum de disciplinas entre
+os três cursos ofertados por essa unidade: Sistemas de Informação, Ciências da Computação
+e Engenharia de Software. A partir dessa demanda, foi constituída uma comissão composta
+por docentes do INF que, após longo e fundamentado estudo, definiram um conjunto de 17
+(dezessete) disciplinas que integram o Núcleo Comum (NC) dos cursos de graduação do INF.
+Dentre os aspectos mais relevantes da criação do NC, destacam-se:
+
+   a) formação de egressos dos três cursos de graduação do INF com base sólida em
+       Ciência da Computação;
+   b) adequação do NC às exigências das DCN de cursos de Computação, bem como aos
+       conteúdos exigidos no ENADE; e
+   c) aumento da flexibilidade de horários para discentes cursarem disciplinas do NC.
+
+     Como consequência da criação do NC, espera-se dar melhor embasamento aos
+discentes para que estes possam adquirir fundamentação necessária ao desenvolvimento e
+aperfeiçoamento de suas carreiras profissionais ou acadêmicas.
+
+     Com respeito ao contexto educacional de Sistemas de Informação no Estado de Goiás
+e, em particular, no município de Goiânia, foi realizada uma consulta à base de dados oficial
+e-MEC relativa a Instituições de Educação Superior (IES) e cursos de graduação do Sistema
+Federal de Ensino (http://emec.mec.gov.br/emec/). Dessa consulta, percebeu-se que existem
+cursos de graduação em BSI em mais de uma dezena de IES públicas e privadas, distribuídas
+em vários municípios do Estado de Goiás. Até o presente, há 8 (oito) cursos de BSI em
+
+
+                                                                                           9
+Goiânia. Dentre eles, 6 (seis) são realizados na modalidade presencial, com integralização
+mínima em 8 (oito) semestres e com carga horária igual ou superior a 3000 (três mil) horas.
+
+     Ao se analisar o mercado de trabalho em Goiás, percebe-se crescimento na taxa de
+pessoas desocupadas (aquelas sem emprego nos últimos 30 dias, ou que aguardam para
+iniciar o serviço) nos últimos anos. Segundo o IBGE, de 2013 a 2015, esse aumento foi na
+ordem de 3% (três por cento). Do ponto de vista do mercado de TI (Tecnologia da
+Informação), as previsões são mais otimistas. Segundo o relatório "2014/2015, Os
+Condutores de Mercado de TIC" da BRASSCOM (Associação Brasileira das Empresas de
+Tecnologia da Informação e Comunicação), no mundo, o setor de TI deverá crescer entre 5%
+e 10% de acordo com o país. Adicionalmente, a BRASSCOM referencia estudo da Forrester
+Research Inc., que aponta os países emergentes, liderados pelo Brasil, com os maiores
+crescimentos.
+
+      Em Goiás, empresas de Tecnologia da Informação participam de arranjos associativos
+e de representação de classes para fortalecer a indústria goiana de TI e aumentar a
+competitividade das empresas goianas face ao mercado brasileiro. Dentre as associadas, a
+associação das empresas brasileiras de tecnologia da informação (Assespro) é a que mais
+se destaca no cenário local e em termos de representação classista, o Sindicato de Empresas
+de Informática, Telecomunicações e similares do Estado de Goiás (Sindinformática).
+Destaca-se que, além de algumas dezenas de empresas que empregam os profissionais de
+TI, o mercado é muito amplo haja vista que absorve profissionais de TI em diversos órgãos
+públicos e empresas, mesmo naquelas em que TI não é atividade fim. Porém, de maneira
+geral, o mercado de TI não pode ser considerado apenas sob visão local ou regional, uma
+vez que a mobilidade de profissionais e a abertura do mercado para contratação de mão-de-
+obra a distância têm crescido bastante.
+
+     Pelos principais pilares da TI atual e dos próximos anos, o que inclui aplicações em
+nuvem, mobilidade, redes sociais, Big Data e Internet das Coisas, espera-se ainda mais
+postos de trabalho e valorização do profissional no mercado de trabalho para TI. Ademais,
+tópicos como Green IT, inteligência de negócios e plataformas como serviços apoiam essa
+tendência, haja vista que eles têm sido cada vez mais considerados no mercado.
+
+     Face a essa tendência em TI, fica evidente a necessidade de atualizar com certa
+frequência Projetos Pedagógicos de Cursos que envolvam TI, dos quais o bacharelado em
+Sistemas de Informação da UFG faz parte, para que os egressos possam ter maior chance
+de sucesso no mercado de trabalho, tanto local e regional quanto nacional e internacional.
+
+
+
+
+                                                                                         10
+III – Objetivos
+a) Objetivos Gerais
+
+O curso de Bacharelado em Sistemas de Informação visa formar profissionais com
+conhecimentos sólidos em Ciência da Computação, sistemas e informação, desenvolvimento
+organizacional e Tecnologias da Informação para atuar de forma crítica, criativa, sistêmica e
+interdisciplinar na análise, compreensão e resolução efetiva de problemas no âmbito
+corporativo e nas organizações de caráter público ou privado.
+
+b) Objetivos Específicos
+
+O egresso do Curso de Bacharelado em Sistemas de Informação deverá ser capaz de:
+      analisar, projetar, construir, implantar, utilizar, gerenciar e propor soluções de TI às
+       necessidades das diversas áreas de empresas e organizações no âmbito público ou
+       privado;
+      prospectar novas TIs visando à inovação em empresas e organizações;
+      absorver e implantar as TIs, visando à integridade, segurança e confiabilidade dos
+       dados, informações e sistemas;
+      trabalhar em equipes multidisciplinares, em consonância com a dinâmica das
+       empresas e organizações modernas;
+      compreender as necessidades da contínua atualização e do aprimoramento de suas
+       competências e habilidades;
+      atuar de forma empreendedora e cooperativa no atendimento às demandas sociais
+       da região onde atua, do Brasil e do mundo;
+      atuar como agente de mudança no contexto organizacional;
+      usar a criatividade e o raciocínio crítico e sistêmico no desempenho de suas atividades
+       profissionais; e
+      desenvolver uma visão humanística, consciente, ética e crítica do impacto de sua
+       atuação profissional na sociedade e no meio-ambiente.
+
+
+IV – Princípios               Norteadores            para       a     Formação         do
+Profissional
+Os princípios norteadores deverão ser perseguidos ao longo da formação do bacharel em
+Sistemas de Informação para que a prática profissional possa refletir a nova concepção de
+mundo difundida pela sociedade da informação e do conhecimento. No âmbito deste projeto
+
+
+
+
+                                                                                            11
+pedagógico, os princípios devem nortear a descrição do perfil e das habilidades do egresso,
+orientar a estruturação curricular e inspirar a construção dos demais componentes.
+
+       A seguir são explicitados os princípios que devem orientar a formação profissional do
+Bacharel em Sistemas de Informação no âmbito do Instituto de Informática da UFG.
+
+a) Prática Profissional
+
+A prática profissional do bacharel em Sistemas de Informação se dará observando os
+seguintes princípios:
+
+       Consciência situacional. Senso de percepção ampliada que antecede a análise e o
+        apoio ao processo decisório, o que aumenta a compreensão do problema e de seu
+        entorno. É a partir da consciência situacional que as decisões e ações de controle são
+        selecionadas e ativadas pelo profissional, considerando os fatores de complexidade
+        inerentes aos sistemas de informação envolvidos.
+       Razoabilidade. Primado pela busca de soluções viáveis em termos técnicos, sociais,
+        ambientais, culturais e políticos. Atuação profissional pautada pelo bom senso e
+        proporcionalidade. Princípio que rege a adequação dos meios aos fins. Deve-se atuar
+        com zelo, presteza na condução das atividades laborais, ter conhecimento de causa
+        e dimensionar as externalidades e os efeitos colaterais provocados por uma decisão.
+       Visão sistêmica. Fundado nos pressupostos da instabilidade, da complexidade e da
+        intersubjetividade. É poder trabalhar com a mudança e admitir que não a controla.
+        Contextualizar o fato ou fenômeno observado e focalizar as interações recursivas.
+        Reconhecer que cada um compreende parte do sistema e que a atuação profissional
+        deve se pautar pela construção colaborativa. Está assentada no pensamento
+        sistêmico, o qual surge com a ideia de que tudo está interligado, e cabe ao profissional
+        respeitar essa condição e as percepções que derivam dele.
+       Visão compartilhada. Senso de coletividade que deve permear a atuação do
+        profissional em uma organização, dando coerência a diversas atividades
+        desenvolvidas, com o objetivo de se sentir conectado a uma causa maior. Tornar
+        propícia a exposição de ideias, sem a necessidade de assumir posições
+        extremamente arraigadas, reconhecendo as dificuldades pessoais e organizacionais.
+        Estimular a criatividade e o entusiasmo em criar algo novo a partir de uma condição
+        favorável para a observação e a experimentação. É ter consciência de que o mesmo
+        problema pode ser visto sob várias perspectivas e que cada uma delas pode ser
+        avaliada sob pontos de vista diferentes.
+
+
+
+
+                                                                                             12
+b) Formação Técnica
+
+A formação técnica do Bacharel em Sistemas de Informação é fundamentalmente
+multidisciplinar, o que implica em observar os seguintes princípios:
+
+      Abstração. Operação intelectual em que um objeto ou um sistema de reflexão é
+       isolado de fatores que comumente lhe estão relacionados na realidade. Agir de modo
+       a amplificar o que importa na resolução de um problema e atenuar o que não
+       interessa. Significa ampliar os horizontes de avaliação para o nível de sistemas (ou
+       ecossistemas).
+      Problematização. Capacidade de lidar com problemas estruturados, semi-
+       estruturados ou desestruturados. Tornar propícia a resolução de problemas
+       circunscritos em sistemas organizacionais, sistemas de atividade humana e sistemas
+       sociotécnicos. Desenvolver raciocínio lógico fundamentado nos juízos analíticos,
+       sintéticos e comportamentais. Resolver problema de forma efetiva à luz dos preceitos
+       de computabilidade. Possibilitar a descrição da organização e das formas de
+       estruturação dos sistemas de informação.
+      Pensamento processual. Compreender os conceitos fundamentais relacionados aos
+       processos de desenvolvimento de sistemas de informação e organizacionais.
+       Compreender os princípios gerais da análise do processo, a fim de aplicá-las a
+       situações específicas. Analisar os processos existentes com base em métodos de
+       indagação e observação direta e indireta. Assimilação das novas tecnologias
+       disruptivas que podem provocar interrupção do curso normal de um processo.
+      Pensamento estratégico. Compreender as limitações do que pode ser alcançado
+       com a tecnologia disponível, os recursos financeiros e capacidades organizacionais.
+       Investigar, diagnosticar e aplicar modelos de referência da academia e da indústria e
+       as melhores práticas a fim de melhorar processos, projetos, produtos e serviços.
+       Entender como o grande volume, a grande variedade e a grande velocidade com que
+       os dados são apropriados pelas organizações modernas podem ser usados para
+       avaliar, reformular e melhorar os processos. Desenvolver o senso de economicidade
+       no uso dos recursos, produzindo mais com menos. Tornar propícia a produção de
+       soluções computacionais que atendam as especificações técnicas desejadas pelo
+       usuário ou cliente demandante. Assegurar níveis adequados de eficiência e eficácia
+       para atender uma condição de satisfatoriedade.
+      Visão de arquitetura. Tornar propício pensar contextualmente, ou seja, significa a
+       tentativa, nunca completa, de descobrir a realidade em torno das questões
+       problemáticas assim como ela é, mais do que como gostaríamos que fosse. Cabe ao
+       profissional preservar os traços originais e as singularidades do ecossistema
+
+
+                                                                                         13
+       observado e capturar as idiossincrasias dos atores envolvidos na resolução de uma
+       situação-problema. Compreender os princípios gerais da análise global a fim de
+       aplicá-la em situações específicas. Desenvolver visão de arquitetura dos domínios de
+       negócio, técnico, de processo, e social. Tornar propícia a apropriação de tecnologias
+       da informação e comunicação e tecnologias de gestão no âmbito organizacional.
+      Adequabilidade. Capacidade de ver relações complementares em tendências
+       opostas e criar conjuntos viáveis com partes inviáveis. Capacidade de distinção de
+       domínios de contextos e de sistemas. Defende que a realidade é contraditória ou
+       paradoxal por si mesma, exigindo do profissional a capacidade de se ajustar às
+       condições ambientais e de ampliar o contexto de análise e avaliação. Significa,
+       portanto, a busca incessante pela aplicabilidade das tecnologias da informação e de
+       gestão condizentes com o níveis de competência e de capacidade instalada do
+       cenário em questão.
+
+c) Formação Ética e Função Social do Profissional
+
+De um modo geral, o Bacharel em Sistemas de Informação deve se atentar aos princípios
+éticos e ter boa comunicação interpessoal, além de desenvolver habilidades de trabalho em
+equipe. Neste quesito, os princípios a observar são os seguintes:
+
+      Sociabilidade. Prevalência dos valores coletivos sobre os individuais, respeitando os
+       direitos fundamentais da pessoa humana. Exemplo: princípio da função social do
+       contrato, do projeto e da propriedade.
+      Moralidade. Dever ético do profissional. Conduta justa e de boa-fé nas relações
+       sociais e de trabalho. No contrato ou no projeto empreendido, deve-se agir de boa-fé
+       em todas as suas fases. Exemplo: não se deve relacionar àquilo que cada um quer
+       para si e sim às formas de agir com o outro.
+      Impessoalidade. Consiste na vedação aos tratamentos discriminatórios e
+       discricionários. Manter-se numa posição de neutralidade em relação aos litígios e aos
+       conflitos de interesse quando estes forem públicos.
+      Motivação. Avaliação crítica e ação pautada pelas questões éticas, aplicando-se os
+       códigos de conduta prevalentes no âmbito social e organizacional, reconhecendo e
+       assumindo que as diferenças ideológicas e dogmáticas são condição indispensável
+       para a construção intersubjetiva.
+
+d) Interdisciplinaridade
+
+O bacharel em Sistemas de Informação deve saber fazer uso da interdisciplinaridade, na
+medida em que a construção do saber não está apenas circunscrita a uma disciplina, podendo
+
+
+                                                                                         14
+ser alcançada pela combinação de várias manifestações do conhecimento: científico,
+filosófico, religioso e popular. É tornar a Ciência sem fronteiras, elucubrando novas formas
+de saber. São estes os princípios a observar:
+
+      Resiliência. Capacidade de se recobrar facilmente ou se adaptar às mudanças do
+       ambiente, retomando a forma original de um sistema após ter sido submetido a uma
+       situação indesejável. Regular o ambiente interno de um sistema de informação, de
+       modo a manter uma condição estável mediante múltiplos ajustes de equilíbrio
+       dinâmico, controlados por mecanismos de regulação inter-relacionados. Senso de
+       sustentabilidade no uso e alocação dos meios (recursos e tecnologias) de produção
+       e operação.
+      Compreensão. Senso de orientação em meio às inúmeras possibilidades e
+       potencialidades de atuação do profissional. Segue pari passu o princípio
+       organizacional segundo o qual um sistema pode atingir um estado final igual com
+       origem em condições iniciais distintas e por meio de diversas formas e meios de
+       desenvolvimento. Poder de discernimento para pensar o problema e buscar a
+       resolução por meio de tecnologias (high ou low tech) adequadas e viáveis ao contexto
+       de implementação e uso.
+      Interatividade. Predisposição em estar aberto à discussão e que vale a pena ser
+       discutido, incluindo tanto características técnicas como políticas. Cabe ao Bacharel
+       em Sistemas de Informação se utilizar de argumentos formalmente inteligíveis,
+       lógicos, bem sistematizados, além de ser competente em termos instrumentais. Não
+       deve levar à confusão, à indeterminação, mas à explicação, que permita aumentar o
+       nível de compreensão da realidade do problema. Necessidade de argumentação em
+       nível de análise, interpretação e implicação dos resultados de um projeto ou de um
+       serviço prestado.
+      Responsividade. Permite lidar com situações problemáticas mal estruturadas e para
+       as quais não se têm (ou não se deveria ter) respostas triviais. Novos padrões de
+       atividade surgem com o resultado das interações entre as partes. Assumir que o
+       sistema é dinâmico, no qual o todo é maior que a soma de suas partes, e que as
+       soluções não podem ser impostas, mas sim, que provenham da consciência
+       situacional dos fatores estruturais e conjunturais.
+
+e) Articulação entre Teoria e Prática
+
+É fundamental defender a necessidade mútua de teoria e prática, na maior profundidade
+possível de ambas, porque em sistemas de informação, nada é mais essencial para uma
+teoria do que a respectiva prática e vice-versa. É preciso organizar curricularmente a prática,
+
+
+                                                                                            15
+para que o Bacharel em Sistemas de Informação não veja dicotomia ou distanciamento entre
+saber e mudar. São estes os princípios norteadores a considerar para articular teoria e
+prática:
+
+Práxis
+
+   É a indissociabilidade entre teoria e prática. É pensar a elaboração e reelaboração da
+   realidade como uma atividade humana e social demarcada pelo contexto histórico. Daí a
+   necessidade de constante reelaboração teórica e material da prática profissional. É ação
+   mediatizada/refletida e intencional, constituída de valores escolhidos por um homem
+   histórico. É um agir intencional, com desejo de transformação.
+
+Formação sustentável
+
+         Equilíbrio em termos de formação geral, por meio da qual se instrumenta a formação
+         do estudante para criar soluções, sobretudo, diante de problemas novos, e formação
+         especializada, por meio da qual se busca dominar seu ramo de conhecimento e
+         prática. É o fazer local sem perder de vista o global.
+
+Inovação
+
+         Forma de abordar e solucionar problemas. Ao entender os métodos e processos de
+         concepção, o profissional deve ser instigado a criar soluções, que sejam mais capazes
+         de se conectar e revigorar seus processos de criação a fim de elevar o nível de
+         inovação. Buscar diversos ângulos e perspectivas para solução de problemas,
+         priorizando o trabalho colaborativo em equipes multidisciplinares em busca de
+         soluções inovadoras.
+
+Residência Técnica em Sistemas de Informação
+
+         Propiciar a participação do estudante em um ou mais projetos integradores que
+         usufruem de conhecimento e habilidades adquiridos por todo o curso. Os projetos
+         exigem o contato com problemas reais, o que abre margem para contato tanto com o
+         conhecimento quanto com profissionais de outras áreas.
+
+
+V – Expectativa da Formação do Profissional
+a) Perfil do Curso
+
+O perfil do curso de Bacharelado em Sistemas de Informação é formar profissionais capazes
+de: elaborar, aplicar e avaliar soluções de Tecnologia da Informação para as necessidades
+de negócio das organizações; analisar os processos organizacionais para torná-los eficazes
+
+
+
+
+                                                                                           16
+e eficientes; compreender a importância de se manterem atualizados em função das
+constantes mudanças que ocorrem na área de TI; e inovar na construção de soluções de TI.
+
+b) Perfil do Egresso
+
+O curso visa preparar profissionais conscientes de seu papel como agente transformador em
+empresas e organizações, com atuação sistêmica, crítica, ética, criativa e empreendedora na
+utilização de soluções de TI em processos de negócio. O egresso do curso poderá atuar no
+mercado de trabalho com as seguintes atribuições:
+
+      Analista, projetista e desenvolvedor de Sistemas de Informação;
+      Analista de negócios;
+      Administrador de dados e de banco de dados;
+      Auditor;
+      Consultor em Tecnologia da Informação;
+      Gestor de Tecnologia da Informação;
+      Gerente de Tecnologia da Informação;
+      Gerente de Projetos de Sistemas de Informação.
+
+c) Habilidades do Egresso
+
+O egresso do curso de Bacharelado em Sistemas de Informação deverá apresentar as
+seguintes habilidades e competências:
+
+      Identificar oportunidades para melhorias de processos organizacionais por meio de
+       soluções de TI;
+      Analisar custo-benefício da utilização de TI;
+      Projetar e implementar soluções de Sistemas de Informação;
+      Gerenciar continuamente as operações de TI;
+      Interagir com os níveis organizacionais usando TI;
+      Aprender de forma autônoma e contínua;
+      Ter capacidade de comunicação e colaboração;
+      Ser criativo na adoção de TI;
+      Exercer liderança atuando em equipe multidisciplinar;
+      Desenvolver raciocínio lógico;
+      Ter capacidade de abstração;
+      Ser pró-ativo, ético e empreendedor.
+
+
+
+
+                                                                                        17
+VI – Estrutura Curricular
+As referências para a estruturação do currículo do Curso de Bacharelado em Sistemas de
+Informação estão estabelecidas pela confluência das áreas de computação, sistemas e
+informação e desenvolvimento organizacional – vide Figura 1.
+
+
+
+
+                Figura 1. Referências em BSI para a Estruturação Curricular.
+
+Em grande medida, este currículo está aderente ao que preceitua o modelo de competências
+da ACM (MSIS 2016, 2017)1, o qual compreende nove áreas de competência de SI (todos os
+nomes completos são precedidos pela frase “competências em”) (MSIS 2016, 2017, p. iv):
+       continuidade dos negócios e garantia de informações;
+       gerenciamento de artefatos de informação, informações e conteúdo;
+       arquitetura corporativa;
+       ética, impactos e sustentabilidade;
+       inovação, mudança organizacional e empreendedorismo;
+       gerenciamento e operações de BSI;
+       estratégia e governança de BSI;
+       infraestrutura de TI; e
+       desenvolvimento e implantação de Sistemas.
+
+
+
+
+1MSIS 2016. Global Competency Model for Graduate Degree Programs in Information Systems. The
+Joint ACM/AIS MSIS 2016 Task Force. Maio de 2017.
+
+
+                                                                                         18
+a) Matriz Curricular - Disciplinas Obrigatórias
+
+                                                                    UNIDADE         PRÉ-REQ. (PR)         CH SEMESTRAL
+ DISCIPLINA                                                                                                                      CHT     NÚCLEO        NATUREZA
+                                                                    RESPONS.        / CO-REQ. (CR)        TEO.    PRÁ.
+ 1. Cálculo 1A                                                          IME                                 96           0        96        NC            OBR
+ 2. Computação e Sociedade                                              INF                                 32           0        32        NC            OBR
+ 3. Introdução à Programação                                            INF                                 48          80       128        NC            OBR
+ 4. Fundamentos de Matemática para Computação                           INF                                 64           0        64        NC            OBR
+ 5. Algoritmos e Estruturas de Dados 1                                  INF               PR: 3             32          32        64        NC            OBR
+ 6. Introdução aos Sistemas de Informação                               INF                                 64           0        64        NE            OBR
+ 7. Lógica Matemática                                                   INF               PR: 4             64                    64        NC            OBR
+ 8. Metodologia Científica                                              INF                                 32          32        64        NE            OBR
+ 9. Probabilidade e Estatística A                                       IME               PR: 1             64                    64        NC            OBR
+ 10. Algoritmos e Estruturas de Dados 2                                 INF               PR: 5             64           0        64        NC            OBR
+ 11. Arquitetura de Computadores                                        INF               PR: 4             48          16        64        NC            OBR
+ 12. Banco de Dados                                                     INF               PR: 7             32          32        64        NC            OBR
+ 13. Engenharia de Sistemas de Informação 1                             INF               PR: 6             48          16        64        NE            OBR
+ 14. Programação Orientada a Objetos                                    INF               PR: 3             32          32        64        NC            OBR
+ 15. Álgebra Linear                                                     IME                                 64           0        64        NC            OBR
+ 16. Análise e Projeto de Algoritmos                                    INF             PR: 4;10            64           0        64        NC            OBR
+ 17. Banco de Dados 2                                                   INF              PR: 12             64           0        64        NE            OBR
+ 18. Engenharia de Software                                             INF                                 64           0        64        NC            OBR
+ 19. Sistemas Operacionais                                              INF              PR: 11             32          32        64        NE            OBR
+
+Seguem algumas observações sobre as disciplinas obrigatórias e optativas deste curso: a coluna UNIDADE RESPONS. Descreve a unidade acadêmica da UFG responsável
+pela oferta de uma disciplina; a coluna NÚCLEO indica se uma disciplina é de formação básica, denominada Núcleo Comum (NC), ou se é de formação específica em Sistemas
+de Informação, denominada Núcleo Específico (NE); e a coluna NATUREZA determina se uma disciplina é de caráter obrigatório (OBR) ou optativo (OPT).
+
+
+
+
+                                                                                                                                                                   19
+                                                                         UNIDADE          PRÉ-REQ. (PR)           CH SEMESTRAL
+ DISCIPLINA                                                                                                                               CHT      NÚCLEO        NATUREZA
+                                                                         RESPONS.         / CO-REQ. (CR)          TEO.    PRÁ.
+ 20. Engenharia de Requisitos                                                INF                                    32          32         64         NE             OBR
+ 21. Sistemas Inteligentes de Apoio à Decisão                                INF                PR: 6               32          32         64         NE             OBR
+ 22. Introdução à Administração de Empresas                                 FACE                                    64           0         64         NE             OBR
+ 23. Pesquisa Operacional                                                    INF               PR: 15               64           0         64         NE             OBR
+ 24. Redes de Computadores                                                   INF                                    32          32         64         NE             OBR
+ 25. Gestão de Sistemas e de TI                                              INF             PR: 22                 64           0         64         NE             OBR
+ 26. Engenharia de Sistemas de Informação 2                                  INF             PR: 13                 32          32         64         NE             OBR
+ 27. Linguagens e Paradigmas de Programação                                  INF              PR: 3                 32          32         64         NC             OBR
+ 28. Projeto de Software                                                     INF            PR: 14, 18              64           0         64         NC             OBR
+ 29. Sistemas Distribuídos                                                   INF           PR: 14;19;24             32          32         64         NE             OBR
+ 30. Governança Corporativa e de TI                                          INF               PR: 22               48          16         64         NE             OBR
+ 31. Gerenciamento de Processos e Serviços em SI                             INF               PR: 22               64           0         64         NE             OBR
+ 32. Desenvolvimento Full stack                                              INF               PR: 29               32          32         64         NE             OBR
+ 33. Interação Humano-Computador                                             INF               PR: 5;9              32          32         64         NC             OBR
+ 34. Disciplina de Núcleo Livre                                              INF                                                           64         NL
+ 35. Gestão de Segurança da Informação                                       INF              PR: 24                32          32         64         NE             OBR
+ 36. Empreendedorismo Digital                                                INF             PR: 20;22              32          32         64         NE             OBR
+ 37. Disciplina de Núcleo Livre                                              INF                                                           64         NL
+ 38. Optativa 1                                                              INF                                                           64         NE             OPT
+ 39. Optativa 2                                                              INF                                                           64         NE             OPT
+ 40. Residência Técnica em Sistemas de Informação                            INF          PR: 23;26;28;30            0          320       320         NE             OBR
+
+Os discentes deverão cursar 2 (duas) disciplinas optativas cuja oferta seguirá o disposto na sugestão de fluxo curricular deste PPC. A lista de disciplinas optativas a ofertar no
+curso de Bacharelado em Sistemas de Informação está disposta na alínea (b).
+
+Quanto às disciplinas de Núcleo Livre, são exigidas 128 horas. A título sugestivo, para adequar ao fluxo semanal no período noturno, dois componentes curriculares de 64 horas
+estão dispostos na matriz. Contudo, o estudante poderá realizar o arranjo que lhe convier, desde que sejam cursadas pelo menos 128 horas de NL.
+
+
+
+
+b) Lista de Disciplinas Optativa
+
+
+                                                                                                                                                                              20
+                                                                                      CH SEMESTRAL
+                                                          UNIDADE    PRÉ-REQ. (PR)
+DISCIPLINA                                                                                           CHT   NÚCLEO   NATUREZA
+                                                          RESPONS.   / CO-REQ. (CR)   TEO.   PRÁ.
+
+1.   Aplicações de Sistemas de Informação                   INF                        64      0     64     NE        OPT
+2.   Armazém de Dados                                       INF      PR: 17            48     16     64     NE        OPT
+3.   Arquitetura Corporativa de TI                          INF                        32     32     64     NE        OPT
+4.   Fundamentos de Contabilidade                          FACE                        64      0     64     NE        OPT
+5.   Gestão de Pessoas I                                   FACE                        64      0     64     NE        OPT
+6.   Introdução à Língua Brasileira de Sinais - LIBRAS      FL                         64      0     64     NE        OPT
+7.   Jogos Digitais                                         INF      PR: 14            0      64     64     NE        OPT
+8.   Logística Empresarial                                 FACE                        64      0     64     NE        OPT
+9.   Matemática Financeira                                  IME                        64      0     64     NE        OPT
+10. Processo de Tomada de Decisão em Cenários Complexos     INF                        32     32     64     NE        OPT
+11. Sistemas Multiagentes                                   INF      PR: 14            32     32     64     NE        OPT
+12. Sustentação de Sistemas de Informação                   INF      PR: 06            48     16     64     NE        OPT
+13. Teste de Software                                       INF      PR: 14            32     32     64     NE        OPT
+14. Tópicos Avançados em Sistemas de Informação 1           INF                        32     32     64     NE        OPT
+15. Tópicos Avançados em Sistemas de Informação 2           INF                        32     32     64     NE        OPT
+16. Visualização de Informações                             INF      PR: 10            32     32     64     NE        OPT
+17. Web Semântica                                           INF      PR: 14            32     32     64     NE        OPT
+
+
+
+
+                                                                                                                            21
+c) Elenco de Componentes Curriculares
+
+O conteúdo a ser ministrado e as atividades a serem desenvolvidas à distância deverão estar
+devidamente especificadas nos respectivos planos de ensino (totalizando no máximo 20% da
+carga horária), além de explicitar a metodologia, as ferramentas e a estrutura de
+acompanhamento e apoio ao docente.
+
+                                   DISCIPLINAS OBRIGATÓRIAS
+
+ÁLGEBRA LINEAR
+ Ementa
+          Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores.
+          Espaços com produto interno.
+ Bibliografia Básica
+         BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. Álgebra Linear, 3. ed., São
+          Paulo: Harbra, 2003.
+         CALLIOLI, C. A.; DOMINGUES, H. H; COSTA, R. C. F. Álgebra Linear e Aplicações. Atual, 1983.
+         LIPSCHUTZ, S. Álgebra Linear, 2. ed., São Paulo: Makron-Books, 1974.
+
+ Bibliografia Complementar
+         APOSTOL, T. Linear Álgebra: A First Course with Applications to Differential Equations, 1. ed. Wiley-
+          Interscience, 1997.
+         HOFFMAN, K.; KUNZE, R. Álgebra Linear. São Paulo: Polígono, 1971.
+         HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações, 8. ed. Porto Alegre: Bookman, 2001.
+         LIMA, E. L. Álgebra Linear: Coleção Matemática Universitária. Rio de Janeiro: IMPA, 2006.
+         SHOKRANIAN, S. Introdução a Álgebra Linear e Aplicações, 1. ed. UNB, 2004.
+
+
+ALGORITMOS E ESTRUTURAS DE DADOS 1
+ Ementa
+          Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de pesquisa:
+          pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de
+          dados utilizando vetores: pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação
+          dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e
+          circulares).
+
+ Bibliografia Básica
+         FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+         SZWARCFITER, J. L.; MARKENZON, L., Estruturas de Dados e seus Algoritmos. 2. ed., Rio de
+          Janeiro: LTC, 1994.
+         TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados Usando C, São Paulo:
+          Makron Books, 1995.
+
+ Bibliografia Complementar
+         CORMEN, T. H. et al. Algoritmos: Teoria e Prática. 2. ed., Rio de Janeiro: Editora Campus, 2002.
+         SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, São Paulo: Makron Books, 1998.
+         SEDGEWICK, R. Algorithms in C++ (Parts 1-4), 3. ed., Addison-Wesley, 1998.
+         ZIVIANI N. Projeto de Algoritmos com implementação em Pascal e C. 3. ed., São Paulo: Editora
+          Thomson, 2010.
+         ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora Thomson,
+          2006.
+
+
+
+
+                                                                                                                22
+ALGORITMOS E ESTRUTURAS DE DADOS 2
+Ementa
+         Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca,
+         árvores balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps, Heapsort. Hashing: tipos de
+         funções de hashing; tratamento de colisões. Definições de Grafos. Estruturas de Dados para
+         representação de grafos. Algoritmos básicos em grafos.
+
+Bibliografia Básica
+        FEOFILOFF, P., Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+        SZWARCFITER, J. L.; MARKENZON, L. Estruturas de Dados e seus Algoritmos. 2. ed., Rio de
+         Janeiro: LTC, 1994.
+        TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M., Estruturas de Dados Usando C, São Paulo:
+         Makron Books, 1995.
+
+Bibliografia Complementar
+        CORMEN, T. H. et al. Algoritmos: Teoria e Prática. 2. ed., Rio de Janeiro: Editora Campus, 2002.
+        SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, São Paulo: Makron Books, 1998.
+        SEDGEWICK, R. Algorithms in C++ (Parts 1-4), 3. ed., Addison-Wesley, 1998.
+        ZIVIANI N. Projeto de Algoritmos com implementação em Pascal e C. 3. ed., São Paulo: Editora
+         Thomson, 2010.
+        ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora Thomson,
+         2006.
+
+
+
+
+ANÁLISE E PROJETO DE ALGORITMOS
+Ementa
+         Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e
+         recursivos, técnicas de prova de cotas inferiores. Corretude de Algoritmos. Exemplos de análise de
+         algoritmos. Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica,
+         algoritmos gulosos. Introdução à NP-Completude.
+
+Bibliografia Básica
+        BRASSARD, G.; BRATLEY, P. Fundamentals of Algorithmics. Prentice-Hall, Inc., Upper Saddle River,
+         NJ, 1996. ISBN: 0-13-335068-1.
+        CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Algoritmos: Teoria e Prática, 3. ed.,
+         Campus, 2012.
+        PAPADIMITRIOU, C. H.; VAZIRANI, U. V.; DASGUPTA, S. Algoritmos. Mcgraw-Hill Brasil, 2009. ISBN
+         9788577260324.
+
+Bibliografia Complementar
+        AHO, A. V.; HOPCROFT, J. E.; ULLMAN, J. D. The Design and Analysis of Computer Algorithms,
+         Addison-Wesley Publishing Company, 1974. ISBN 0-201-00029-6.
+        BAASE, S.; GELDER, A. V. Computer Algorithms: Introduction to Design and Analysis, 3. ed., Pearson,
+         1999.
+        MAMBER, U. Introduction to Algorithms. Addison Wesley Publishing Company. 1989.
+        SEDGEWICK, R.; WAYNE, K. Algorithms. 4. ed., Addison-Wesley Professional, 2011. ISBN: 978-
+         0321573513
+        SZWARCFITER, J. L.; MARKENZON, L. Estrutura de Dados e seus Algoritmos. 3. ed., Rio de Janeiro:
+         LTC, 2010. ISBN: 978852161750.
+
+
+
+
+                                                                                                           23
+ARQUITETURA DE COMPUTADORES
+Ementa
+         Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Memória e
+         representação da dados e instruções. Processador, ciclo de instrução, formato e endereçamento.
+         Noções básicas de programação em linguagem de montagem. Dispositivos de entrada e saída.
+         Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia
+         de memória. Introdução a arquiteturas paralelas e métricas de desempenho.
+
+Bibliografia Básica
+        BRYANT, R.; O'RALLARON, D. Computer Systems: A Programmer's Perspective, 2. ed., Addison
+         Wesley, 2010.
+        STALLINGS, W. Arquitetura e Organização de Computadores, 5. ed., Prentice-Hall, 2002.
+        TANENBAUM, A. Organização Estruturada de Computadores, Rio de Janeiro: LTC, 2006.
+
+Bibliografia Complementar
+        HENNESSY, J. L.; PATTERSON, D. A. Computer Architecture: A Quantitative Approach, 4. ed., 2007.
+        MONTEIRO, M. A. Introdução à Organização de Computadores. 4. ed., Rio de Janeiro: LTC, 2001.
+         ISBN: 8521612915.
+        PATTERSON, D. A.; HENNESSY, J. L. Computer Organization and Design: The Hardware/Software
+         Interface, 3. ed., Morgan Kaufmann, 2007.
+        STALLINGS, W. Computer Organization and Architecture: Designing for Performance, 10. ed.,
+         Prentice-Hall, Inc., Upper Saddle River, NJ, USA. 2010.
+        WEBER, R. F. Fundamentos de Arquiteturas de Computadores, 2. ed., Editora Sagra-Luzzatto, 2001.
+
+
+
+
+BANCO DE DADOS
+Ementa
+         Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco de Dados: álgebra
+         relacional, cálculo relacional e SQL. Modelo Entidade-Relacionamento e extensões. Mapeamento ER-
+         relacional. Normalização.
+
+Bibliografia Básica
+        ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed., Pearson - Addison Wesley, 2011.
+        HEUSER, C. A. Projeto de Banco de Dados, 6. ed., Porto Alegre: Bookman, 2009.
+        SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. Sistema de Banco de Dados, 5. ed., Rio de
+         Janeiro: Ed. Campus, 2006.
+
+Bibliografia Complementar
+        CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database systems: a practical approach to
+         design, implementation and management, 3. ed., Addison Wesley, 2010.
+        DATE, C. J. Introdução a Sistemas de Banco de Dados, tradução da 8º edição americana, Rio de
+         Janeiro: Ed. Campus, 2004.
+        GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book, 2. ed.,
+         Prentice Hall, 2009.
+        RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados, tradução da 3ª
+         edição, São Paulo: McGraw-Hill, 2008.
+        TEOREY, T.; LIGHTSTONE, S.; NADEAU, T. Projeto e Modelagem de Bancos de Dados, Rio de
+         Janeiro: Ed. Campus, 2007.
+
+
+
+
+                                                                                                        24
+BANCO DE DADOS 2
+Ementa
+         Funções, gatilhos, procedimentos armazenados, SQL embutida e consultas parametrizadas.
+         Mapeamento objeto-relacional. Arquitetura de SGBDs. Visão geral de processamento e otimização da
+         consulta. Indexação e ajuste de banco de dados. Processamento de transações (ACID), controle de
+         concorrência e recuperação. Segurança de banco de dados. Processamento de dados massivos.
+
+Bibliografia Básica
+        ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed., Pearson - Addison Wesley, 2011.
+        SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de Banco de Dados, 5. ed., Rio de
+         Janeiro: Ed. Campus, 2006.
+        GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book, 2. ed.,
+         Prentice Hall, 2009.
+
+Bibliografia Complementar
+        BEAULIEU, A. Learning SQL. 2. ed. Beijing: O'Reilly, 2009.
+        CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database systems: a practical approach to
+         design, implementation and management, 3. ed., Addison Wesley, 2010.
+        DATE, C. J. Introdução a Sistemas de Bancos de Dados. 8. ed. Rio de Janeiro: Campus, 2003.
+        MANNINO, M. V. Projeto, Desenvolvimento de Aplicações e Administração de Banco de Dados,
+         tradução da 3a edição. São Paulo: McGraw-Hill, 2008.
+        RAMAKRISHNAN, R. Sistemas de gerenciamento de banco de dados. 3. ed. São Paulo: McGraw-Hill,
+         2008.
+
+
+
+
+CÁLCULO 1A
+Ementa
+         Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e
+         continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração.
+         Integrais impróprias. Aplicações.
+
+Bibliografia Básica
+        LEITHOLD, L. O cálculo com geometria analítica. 3 ed. V. 1. São Paulo: Harbra, 1994.
+        GUIDORIZZI, H. L. Um curso de cálculo. 5 ed. V. 1. Rio de Janeiro: LTC, 2001.
+        ÁVILA, G. S. S. Cálculo das funções de uma variável. 7 ed. V. 1. Rio de Janeiro: LTC, 2004.
+        STEWART, J. Cálculo. 5. ed. V. 1. São Paulo: Pioneira Thomson Learning, 2006.
+Bibliografia Complementar
+        FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A: funções, limite, derivação e integração. 6 ed. São
+         Paulo: Pearson Prentice Hall, 2006.
+        SWOKOWSKI, E. W. Cálculo com geometria analítica. V. 1. São Paulo: McGraw-Hill do Brasil, 1983.
+        HOFFMANN, L. D. et al., Cálculo: um curso moderno e suas aplicações. 11 ed. Rio de Janeiro: LTC,
+         2015.
+        SIMMONS, G. F. Cálculo com geometria analítica. V. 1. São Paulo: Pearson Education do Brasil, 1987.
+        ROGÉRIO, M. U. et al. Cálculo diferencial e integral: funções de uma variável. 2. ed. Goiânia: UFG,
+         1992.
+        REIS, G. L; SILVA, V. V. Geometria analítica. 2. ed. São Paulo: LTC, 1996.
+
+
+
+
+                                                                                                          25
+COMPUTAÇÃO E SOCIEDADE
+Ementa
+         História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e
+         para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da
+         computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos,
+         perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da
+         profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de
+         inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da
+         informação. Incubadoras de empresas.
+
+Bibliografia Básica
+        FONSECA FILHO, C. História da computação: O Caminho do Pensamento e da Tecnologia. Porto
+         Alegre: EDIPUCRS, 2007.
+        MASIERO, P. Ética em Computação. São Paulo: Editora da USP, 2000.
+        VELOSO, R. Tecnologias da Informação e Comunicação: Desafios e Perspectivas. São Paulo:
+         Saraiva, 2011.
+
+Bibliografia Complementar
+        CHALITA, G. Os Dez Mandamentos da Ética. Editora Nova Fronteira, 2003.
+        DRUMMOND, V. Internet, Privacidade e Dados Pessoais. Editora Lumen Juris, 2003.
+        KACZMARCZYK, L. C. Computers and Society: Computing for Good. Chapman & Hall/CRC Textbooks
+         in Computing. CRC Press, 2011.
+        LUCCA, N.; FILHO, A. S. Direito & Internet. Editora Edipro, 2001.
+        PAESANI, L. M. Direito de Informática. Editora Atlas, 2005.
+
+
+
+
+DESENVOLVIMENTO FULL STACK
+Ementa
+         Abordagens, técnicas, tecnologias e ferramentas para desenvolvimento de sistemas de informação
+         para múltiplas plataformas e multimodais. Plataformas para front-end e back-end. Prática em
+         desenvolvimento de aplicações móveis. Computação móvel e ubíqua: conceitos, principais
+         características, internet das coisas, smart spaces, sensibilidade a contexto, tecnologias de
+         comunicação e desafios. Projeto de aplicações móveis: macro e micro arquitetura, padrões de
+         interface com usuário, persistência de dados, segurança, privacidade e comunicação.
+
+Bibliografia Básica
+        GREBE, S. Hands-On Full-Stack Web Development with GraphQL and React: Build scalable full-stack
+         applications while learning to solve complex problems with GraphQL. Birmingham, Inglaterra: Pack
+         Publishing, 2019.
+        KRUMM, J. Ubiquitous Computing Fundamentals. 1. ed., Chapman & Hall/CRC, 2009.
+        NORTHWOOD, Chris. The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected
+         of a Modern Full Stack Web Developer. Manchester, Inglaterra: Apress, 2018.
+
+Bibliografia Complementar
+        APPLE. Apple Developer (https://developer.apple.com), acessado em Junho de 2016.
+        GARDNER, D.; GRIGSBY, J. Head First Mobile Web. O’Reilly. 2011.
+        GOOGLE. Android Developers (https://developer.android.com/), acessado em Junho de 2016.
+        GUBBI, J.; BUYYA, R.; MARUSIC, S.; PALANISWAMI, M. 2013. Internet of Things (IoT): A vision,
+         architectural elements, and future directions. Future Gener. Comput. Syst. 29, 7 (September 2013),
+         1645-1660.
+        NEIL, T. Padrões de Design para Aplicativos Móveis. O’Reilly, 2012. ISBN: 978-85-7522-319-2.
+
+
+
+
+                                                                                                         26
+EMPREENDEDORISMO DIGITAL
+Ementa
+         O perfil e as habilidades do empreendedor. Estudo de mecanismos e procedimentos para ideação,
+         validação e lançamento de uma empresa digital no mercado. Montagem e gerenciamento de equipe.
+         Constituição, tributação e legalização de empresa. Inovação tecnológica na geração de novos
+         produtos e negócios. Marketing e competitividade. Escala e avaliação de desempenho. Financiamento
+         de empresas digitais. Análise de Casos. Estratégias e modelos de negócio eletrônicos.
+
+Bibliografia Básica
+        BARON, R. A.; SHANE, S. A. Empreendedorismo - Uma Visão do Processo. 1. ed. São Paulo: Editora
+         Thomson Learning, 2011.
+        FARAH, O.; CAVALCANTI, M.; MARCONDES, L. Empreendedorismo Estratégico – Criação e Gestão
+         de Pequenas Empresas. São Paulo: Editora Thomson Learning, 2008.
+        SALIM, C.; HOCHMAN, N.; RAMAL, A.; RAMAL, S. Construindo planos de negócios: todos os passos
+         necessários para planejar e desenvolver negócios de sucesso. 3. ed. Rio de Janeiro: Editora Elsevier,
+         2005.
+
+Bibliografia Complementar
+        CAVALCANTI, M. Gestão estratégica de negócios: evolução, cenários, diagnóstico e ação. 2. ed. São
+         Paulo: Pioneira Thomson Learning, 2007.
+        CHIAVENATO, I. Empreendedorismo: Dando asas ao espírito empreendedor. 2.ed. São Paulo:
+         Saraiva, 2008.
+        DOLABELA, F. O segredo de Luísa: uma ideia e uma paixão e plano de negócios. GMT Editores,
+         2008.
+        FERRARI, R. Empreendedorismo para computação: criando negócios de tecnologia. 1. ed. Rio de
+         Janeiro: Elsevier, 2009.
+        IBPQ. GEM – Global Entrepreneurship Monitor. Empreendedorismo no Brasil: Relatório Executivo.
+         Paraná: IBPQ, 2014. Disponível em: http://www.ibpq.org.br.
+
+
+
+
+ENGENHARIA DE REQUISITOS
+Ementa
+         Definição de Engenharia de Requisitos (ER). Perspectivas. Definição e Tipos de Requisitos. Processo
+         de ER. Ferramentas para apoio a ER. Normas e padrões aplicados a ER.
+
+Bibliografia Básica
+        PFLEEGER, S. L. Engenharia de software: teoria e prática. 1. ed., São Paulo: Prentice Hall, 2004.
+        PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 7. ed., Porto Alegre:
+         McGraw-Hill, 2011.
+        SOMMERVILLE, I. Engenharia de Software. 9. ed., São Paulo: Pearson Prentice Hall, 2011.
+
+Bibliografia Complementar
+        FILHO, W. P. P. Engenharia de Software: fundamentos, métodos e padrões. 3. ed., Rio de Janeiro:
+         LTC, 2009.
+        KOTONYA, G.; SOMMERVILLE, I. Requirements Engineering: Process and Techniques. 2. ed.,
+         Chichester: John Wiley & Sons, 1998.
+        LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e
+         ao desenvolvimento interativo. 3. ed., Porto Alegre: Bookman, 2007.
+        SWEBOK v3.0. Guide to the Software Engineering Body of Knowledge Version 3.0. Editado por IEEE
+         Computer Society. Disponível em http://www.swebok.org/.
+        WIEGERS, K. E. Software requirements: practical techniques for gathering and managing
+         requirements throughout the product development cycle. 2. ed., Redmond, Wash: Microsoft Press,
+         2003.
+
+
+
+
+                                                                                                            27
+ENGENHARIA DE SISTEMAS DE INFORMAÇÃO 1
+Ementa
+         Sistemas de Informação em perspectiva. Teorias de Sistemas de Informação. Fundamentos e
+         abordagens de Engenharia de Sistemas. Teoria e Design de Informação. Linguagem e domínios
+         linguísticos. Pensamentos processual, contextual e relacional. Introdução a Métodos de Estruturação
+         de Problemas e Fundamentos de pesquisa operacional soft. Complexidade sistêmica. Distinção do
+         sistema definido em torno da situação-problema. SoS - Sistema de interesse (sistema relevante).
+         Pressupostos da visão organicista. Cibernética de terceira ordem. Metodologia SSM – estágios de 1
+         a 4. Mapeamento cognitivo. Epistemologia, teoria e prática em Sistemas de Informação. Pesquisa
+         etnográfica e Pesquisa-ação. Modelagem conceitual.
+
+Bibliografia Básica
+        ROSINI, A. M. Administração de sistemas de informação e a gestão do conhecimento. 2. ed. rev.,
+         ampl. São Paulo: Cengage Learning, 2012.
+        SENGE, P. M. A Quinta Disciplina - Arte e Prática da Organização que Aprende. 29. ed., Rio de
+         Janeiro: BestSeller, 2013.
+        VASCONCELLOS, M. J. Pensamento Sistêmico: O Novo Paradigma da Ciência. 10. ed. rev. e atual,
+         Campinas: Papirus, 2013.
+
+Bibliografia Complementar
+        ACKOFF, R. L. Planejamento empresarial. Rio de Janeiro: Livros Técnicos e científicos, 1975. 114 p.
+        BEER, S. Cibernética e administração industrial. Rio de Janeiro: Zahar, 1969.
+        BUCKLEY, W F. A sociologia e a moderna teoria dos sistemas. Tradução de Octavio Mendes Cajado.
+         2. ed. São Paulo: Cultrix, 1976.
+        CHANDOR, A; GRAHAM, J; WILLIAMSON, R. Análise de sistemas: teoria e prática. Tradução de
+         Antônio Garcia de Miranda Netto. Rio de Janeiro: LTCE, 1977.
+        CHURCHMAN, C. W. Introdução à teoria dos sistemas. Tradução de Francisco M. Guimarães. 2. ed.,
+         Petrópolis: Vozes, 1972.
+
+
+
+
+ENGENHARIA DE SISTEMAS DE INFORMAÇÃO 2
+Ementa
+         Análise de redes sociais. Julgamento crítico de fronteira. Sistemas indagadores de Churchman.
+         Modelo de sistemas viáveis. Metodologia SSM – estágios de 5 a 7. Lógica fuzzy. Dinâmica de
+         Sistemas. Análise e desenvolvimento de opções estratégicas. Princípios de arquitetura. Método de
+         desenvolvimento de arquitetura. Domínios de arquitetura. Frameworks de arquitetura corporativa.
+         Vieses das heurísticas do julgamento. Arquétipos sistêmicos. Modelos de viabilização de Sistemas de
+         Informação. Praxeologia e Ciência da ação.
+
+Bibliografia Básica
+        ROSINI, A. M. Administração de sistemas de informação e a gestão do conhecimento. 2. ed. rev.,
+         ampl. São Paulo: Cengage Learning, 2012.
+        SENGE, P. M. A Quinta Disciplina - Arte e Prática da Organização que Aprende. 29. ed., Rio de
+         Janeiro: BestSeller, 2013.
+        VASCONCELLOS, M. J. Pensamento Sistêmico: O Novo Paradigma da Ciência. 10. ed. rev. e atual,
+         Campinas: Papirus, 2013.
+
+Bibliografia Complementar
+        ACKOFF, R. L. Planejamento empresarial. Rio de Janeiro: Livros Técnicos e científicos, 1975. 114 p.
+        BEER, S. Cibernética e administração industrial. Rio de Janeiro: Zahar, 1969.
+        BUCKLEY, W F. A sociologia e a moderna teoria dos sistemas. Tradução de Octavio Mendes Cajado.
+         2. ed. São Paulo: Cultrix, 1976.
+        CHANDOR, A; GRAHAM, J; WILLIAMSON, R. Análise de sistemas: teoria e prática. Tradução de
+         Antônio Garcia de Miranda Netto. Rio de Janeiro: LTCE, 1977.
+        CHURCHMAN, C. W. Introdução à teoria dos sistemas. Tradução de Francisco M. Guimarães. 2. ed.,
+         Petrópolis: Vozes, 1972.
+
+
+
+
+                                                                                                          28
+ENGENHARIA DE SOFTWARE
+Ementa
+         Requisitos de software. Projeto (design) de software. Construção de software. Teste de software.
+         Manutenção de software. Gerência de configuração de software. Gerência de projeto de software.
+         Processo de engenharia de software. Modelos e métodos de engenharia de software. Qualidade de
+         software. Prática profissional de engenharia de software. Economia para engenharia de software.
+         Fundamentos de engenharia. Visão geral de Qualidade. Modelos de maturidade de processo de
+         software.
+
+Bibliografia Básica
+        PRESSMAN, R.; MAXIM, B. Software Engineering: A Practitioner’s Approach, 8. ed., McGraw-Hill,
+         2014.
+        SOMMERVILLE, I. Software Engineering, Pearson, 2015.
+        WAZLAWICK, R. S. Engenharia de software: teoria e prática. Campus, 2013.
+
+Bibliografia Complementar
+        ISO/IEC/IEEE 24765, Systems and software engineering - Vocabulary, 2010, Disponível em
+         http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733835.
+        MAGELA, R. Engenharia de software aplicada. Alta Books, 2006.
+        MPS.BR. Melhoria de Processos do Software Brasileiro. Disponível em http://www.softex.br/mpsbr/,
+         último acesso Abril/2014.
+        Software Engineering Body of Knowledge (SWEBOK), V3, IEEE, Disponível em
+         http://www.iso.org/iso/catalogue_detail.htm?csnumber=50518.
+        Software      Engineering      Competency     Model   (SWECOM),     IEEE.     Disponível    em
+         https://www.computer.org/web/peb/swecom.
+
+
+
+
+FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
+Ementa
+         Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e Relações de
+         Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações
+         numéricas e Mudança de base numérica.
+
+Bibliografia Básica
+        GERSTING, J. L. Fundamentos Matemáticos para a Ciência da Computação, 5. ed., Rio de Janeiro:
+         LTC, 2004.
+        SCHEINERMAN, E. R. Matemática Discreta: Uma introdução. São Paulo: Pioneira Thompson
+         Learning, 2003
+        GRIMALDI, R. P. Discrete and Combinatorial Mathematics - An Applied Introduction, 5. ed., Boston:
+         Pearson - Addison-Wesley, 2003.
+
+Bibliografia Complementar
+        GONÇALVES, A. Introdução à Álgebra, 5. ed., Rio de Janeiro: CNPQ-IMPA, 2013.
+        MATTSON, Jr., H. F. Discrete Mathematics with applications, New York: John Wiley & Sons, 1993.
+        ROSEN, K. H. Discrete Mathematics and Its Applications, 6. ed., Boston: McGraw-Hill, 2009.
+        ROSS, K. A.; WRIGHT, C. R. B. Discrete mathematics, Prentice Hall, 1998.
+        SANTOS, J. P. O. Introdução à Teoria dos Números, Coleção Matemática Universitária, Rio de
+         Janeiro: CNPQ-IMPA, 2003.
+
+
+
+
+                                                                                                        29
+GERENCIAMENTO DE PROCESSOS E SERVIÇOS EM SI
+Ementa
+         Fundamentos de gestão de processos de negócio. Modelo de gestão por processos. Análise e
+         modelagem de processos. Desempenho de processos. Práticas e tecnologias de gerenciamento de
+         processos. Simulação e automatização de processos. Fundamentos do gerenciamento de serviços de
+         TI. Gerenciamento de serviços como uma prática. Fundamentos de gerenciamento de projetos.
+         Metodologias e práticas de gerenciamento de projetos. Modelos de referência e corpo de
+         conhecimento em gerenciamento de projetos: ciclo de vida do projeto, áreas do conhecimento.
+
+Bibliografia Básica
+        CARVALHO, M. M.; RABECHINI Jr, R. Fundamentos em gestão de projetos: construindo
+         competências para gerenciar projetos. 4. ed., São Paulo: Atlas, 2015.
+        PAVANI JUNIOR, O. Mapeamento e gestão por processos: BPM. São Paulo: M. Books do Brasil,
+         2011, 376p.
+        SMITH, H.; FINGAR, P. Business process management (BPM): the third wave. Meghan Kiffer Pr.,
+         2006.
+
+Bibliografia Complementar
+        ABMP. CBOK V3.0 - Guia para o Gerenciamento de Processos de Negócio - Corpo Comum de
+         Conhecimento - BPMP BPM CBOK v3.0. 1ª edição. 2013.
+        CAPOTE, G. Guia Para Formação de Analistas de Processos. Revisão 12, Atualizado em 17/08/2015.
+         328 páginas. 2011.
+        CLELAND, D. I.; IRELAND, L. R. Gerenciamento de projetos. 2.ed., Rio de Janeiro: LTC, 2007, 371p.
+        FERNANDES, A. A. Implantando a governança de TI: da estratégia à gestão dos processos e serviços.
+         3. ed., Rio de janeiro: Brasport, 2012. 615p.
+        FERNANDES, D. B. Análise de sistemas orientada ao sucesso: por que os projetos atrasam? Rio de
+         Janeiro: Ciência Moderna, 2005. 240 p.
+        PMI. Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). ISBN
+         9788502223721. 5ª Edição. São Paulo: Saraiva, 2012.
+        SILVA, L. C. Gestão e melhoria de processos: conceitos, técnicas e ferramentas. Rio de Janeiro:
+         Brasport, 2015.
+        SORDI, J. O. Gestão por processos: uma abordagem da moderna administração. 2. ed. rev. e atual,
+         São Paulo: Saraiva, 2008, 270p.
+
+
+GESTÃO DE SEGURANÇA DA INFORMAÇÃO
+Ementa
+         Sistema de Gestão de Segurança da Informação. Auditoria de sistemas. Políticas de segurança.
+         Classificação das informações. Ética em segurança da informação. Tipificação de Ameaças e
+         Ataques. Vulnerabilidades em softwares, serviços e protocolos. Princípios de Confidencialidade,
+         Integridade e Disponibilidade. Engenharia Social. Tópicos Emergentes em Segurança.
+
+Bibliografia Básica
+        IMONIANA, JOSHUA O. Auditoria de Sistemas de Informação. 2. ed., São Paulo: Atlas, 2008. ISBN
+         978-85-224-5002-2.
+        SCHMIDT, P. Fundamentos de Auditoria de Sistemas. São Paulo: Atlas, 2006.
+        STALLINGS, W. Criptografia e segurança de redes: princípios e práticas. 4. ed., Prentice Hal, 2008.
+         lSBN 9788576051190.
+
+Bibliografia Complementar
+        LYRA, M. R. Segurança e Auditoria em Sistemas de Informação. 1. ed., Ciência Moderna, 2009. ISBN
+         978857393747.
+        KIZZA, J. Computer Network Security. New York: Springer, 2005. ISBN 9780387204734.
+        KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed. Pearson Education, 2013.
+        TCU.        Manual        de      Auditoria     Operacional     do      TCU.      Disponível     em
+         http://portal2.tcu.gov.br/portal/page/portal/TCU/comunidades/fiscalizacao_controle/normas_auditoria/
+         Manual_ANOP_internet_portugu%C3%AAs.pdf, 2010.
+        TIPTO, H. F. Information Security Management Handbook, Auebach Publications, 2004.
+
+
+
+
+                                                                                                           30
+GESTÃO DE SISTEMAS E DE TI
+Ementa
+         Fundamentos de gestão. Entendendo a organização de TI. Processos de gestão de tecnologia da
+         informação. Modelos e tecnologias de gestão. Gestão estratégica de tecnologia da informação. Gestão
+         de sistemas de produção e operações de TI. Análise de negócio. Modelos e padrões de referência em
+         gerenciamento de serviços de TI. Método de implementação do gerenciamento de serviços de TI.
+         Gerenciamento do ciclo de vida de serviços de TI. Gerenciamento de projetos no contexto de TI.
+         Projeto e desenvolvimento de serviços de TI.
+
+Bibliografia Básica
+        FERNANDES, A. A. Implantando a governança de TI: da estratégia à gestão dos processos e serviços.
+         3. ed., Rio de janeiro: Brasport, 2012. 615p.
+        FOINA, P. R. Tecnologia de informação: planejamento e gestão, 2. ed., São Paulo: Atlas, 2006. 339p.
+        RAINER, R. K.; POTTER, R. E.; TURBAN, E. Administração de tecnologia da informação: teoria e
+         prática. Rio de Janeiro: Elsevier, 2005, 618p.
+
+Bibliografia Complementar
+        FITZSIMMONS, J. A.; FITZSIMMONS, M. J.; BORDOLOI, S. K. Service management: operations,
+         strategy, information technology. 8. ed., McGraw-Hill, 2014.
+        FREITAS, M. A. S. Fundamentos do gerenciamento de serviços de TI. 2. ed. São Paulo: Brasport,
+         2013.
+        MINTZBERG, H. Safári de estratégia: um roteiro pela selva do planejamento estratégico. 2. ed., Porto
+         Alegre-RS: Bookman, 2010, 392 p.
+        LAZZERI, J. C. Arquitetura orientada a serviços: fundamentos a estratégias. Rio de Janeiro: Ciência
+         Moderna, 2009. 229 p.
+        MOLINARO, L. F. R.; RAMOS, K. H. C. Gestão de Tecnologia da Informação: Governança de TI:
+         Arquitetura e Alinhamento entre Sistemas de Informação e o Negócio. São Paulo: LTC, 2011.
+        REZENDE, D. A.; ABREU, A. F. Tecnologia da Informação aplicada a sistemas de informação
+         empresariais: o papel estratégico da informação e dos sistemas de informação nas empresas. 8. ed,
+         São Paulo: Atlas, 2011.
+        SHIMIZU, T. Decisão nas organizações: introdução aos problemas de decisão encontrados nas
+         organizações e nos sistemas de apoio à decisão, 3. ed., São Paulo: Atlas, 2010. 317p.
+        SOULA, J. M. F. ISO/IEC 20000: Gerenciamento de serviços de tecnologia da informação. Rio de
+         Janeiro: Brasport, 2013.
+
+
+GOVERNANÇA CORPORATIVA E DE TI
+Ementa
+         Fundamentos de governança. Abordagens paradigmáticas de governança. Disciplinas de governança.
+         Teorias da agência, das restrições e institucional. Governança, riscos e conformidade. Governança
+         corporativa de tecnologia da informação: princípios, padrões e modelos. Ciclo da governança de
+         tecnologia da informação. Abordagens de melhores práticas em governança de tecnologia da
+         informação. Governança de tecnologia da informação verde.
+
+Bibliografia Básica
+        FERNANDES, Aguinaldo Aragon. Implantando a governança de TI: da estratégia à gestão dos processos e
+         serviços. 3.ed., Rio de janeiro: Brasport, 2012. 615p.
+        MOLINARO, Luis Fernando Ramos; RAMOS, K. H. C. Gestão de Tecnologia da Informação: Governança de TI:
+         Arquitetura e Alinhamento entre Sistemas de Informação e o Negócio. São Paulo: LTC, 2011.
+        ROSSETTI, Jose Paschoal. ANDRADE, Adriana. Governança Corporativa: Fundamentos, Desenvolvimento e
+         Tendências. 5.ed., atual. e ampl., São Paulo: Atlas, 2011, 596 p.
+
+Bibliografia Complementar
+        FOINA, Paulo Rogério. Tecnologia de informação: planejamento e gestão 2.ed., São Paulo: Atlas, 2006. 339p.
+        MANSUR, Ricardo. Governança de TI verde: o ouro verde da nova TI. Rio de Janeiro: Ciência Moderna, 2011.
+        MARINI, Caio; MARTINS, Humberto Falcão. Governança em ação. Brasília: Instituto Publix, 2009,v.1.
+        REZENDE, D. A.; ABREU, A. França de. Tecnologia da informação aplicada a sistemas de informação
+         empresariais. 6. ed. rev. e ampl. São Paulo: Atlas, 2009. 317p.
+        SHIMIZU, Tamio. Decisão nas organizações: introdução aos problemas de decisão encontrados nas organizações
+         e nos sistemas de apoio à decisão 3. ed., São Paulo: Atlas, 2010. 317 p.
+
+
+
+
+                                                                                                                 31
+INTERAÇÃO HUMANO-COMPUTADOR
+Ementa
+         Aspectos gerais sobre interação humano-computador. Características humanísticas e biológicas,
+         envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e
+         aspectos políticos, deficiências, limitações e capacidades, dentre outros. Ciclo da interação e
+         principais problemas. Metas de usabilidade e experiência do usuário. Fatores humanos em software
+         interativo: teoria, princípios e regras básicas. Modelos conceituais e metáforas. Estilos de interação.
+         Elementos de interação (menus, formulários, manipulação direta e outros). Voz, linguagem natural,
+         sons, páginas Web. Padrões para interface. Localização e internacionalização. Princípios de projeto
+         de interfaces humano-computador. Métodos de projeto de interação. Projeto visual (cores, ícones,
+         fontes e outros). Tempo de resposta e retroalimentação. Dispositivos de interação. Métodos de
+         avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de
+         usuários, técnicas de testes para páginas Web, entre outros. Visão geral de ferramentas de
+         desenvolvimento de interfaces humano-computador.
+
+Bibliografia Básica
+        DIX, A.; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. Human-Computer Interaction, 3. ed., Prentice-Hall, Inc., Upper
+         Saddle River, NJ, USA, 2003.
+        ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interação - Além da Interação Homem-computador. 3. ed., Porto
+         Alegre: Bookman, 2013.
+        TIDWELL, J. Designing Interfaces: Patterns for Effective Interaction Design. 2. ed., O’Reilly, 2011.
+
+Bibliografia Complementar
+        BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1. ed., Elsevier Editora, 2010.
+        JACKO, J. A. The human-computer interaction handbook: fundamentals, evolving technologies, and emerging
+         applications. CRC Press, 2012.
+        LAZAR, J.; FENG, J. H.; HOCHHEISER, H. Research Methods in Human-Computer Interaction. Wiley, 2009.
+        MACKENZIE, I. S. Human-computer Interaction: An Empirical Research Perspective. Morgan Kaufmann, 2013.
+         ISBN: 978-0-1 2-405865-1
+        SCOTT, B.; NEIL, T. Designing Web Interfaces: Principles and Patterns for Rich Interactions. 1. ed., O'Reilly Media,
+         2009.
+
+
+
+
+INTRODUÇÃO À ADMINISTRAÇÃO DE EMPRESAS
+Ementa
+         Conceitos básicos: administração. Natureza da ação administrativa. Perfil e responsabilidades do
+         administrador. As organizações: tipos, níveis hierárquicos, funções organizacionais, funções
+         administrativas e tecnologia. Ambiente organizacional: variáveis do contexto interno e externo e suas
+         relações. Influência dos fatos históricos no contexto organizacional: características e consequências.
+         Contexto contemporâneo da administração. Introdução ao pensamento administrativo: das escolas
+         clássicas às teorias pós-contingenciais. Tendências da Administração.
+
+Bibliografia Básica
+        CARAVANTES, G. R.; PANNO, C. C.; KLOECKNER, M. C. Administração: teorias e processo. 1. ed.,
+         São Paulo: Prentice Hall, 2005.
+        MAXIMIANO, A. C. A. Introdução à administração. 8. ed., São Paulo: Atlas, 2011.
+        SOBRAL, F.; PECI, A. Administração: teoria e prática no contexto brasileiro. 2. ed., São Paulo:
+         Pearson, 2013.
+
+Bibliografia Complementar
+        LACOMBE, F.; HEILBORN, G. Administração: princípios e tendências. 2. ed., São Paulo: Saraiva,
+         2008.
+        OLIVEIRA, D. P. R. Introdução à administração: teoria e prática. São Paulo: Atlas, 2009.
+        RIBEIRO, A. L. Teorias da Administração. 3. ed., São Paulo: Saraiva, 2016.
+        SILVA, A. T. Administração básica. 6. ed., São Paulo: Atlas, 2011.
+        STONER, J.A F.; FREEMAN, R.E. Administração. 5. ed., Rio de Janeiro: LTC, 2010.
+
+
+
+
+                                                                                                                           32
+INTRODUÇÃO À PROGRAMAÇÃO
+Ementa
+         Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos;
+         variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de
+         repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de
+         caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência,
+         recursividade. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a
+         arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para
+         uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica;
+         interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de
+         codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento
+         e uso de bibliotecas.
+
+Bibliografia Básica
+        ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de Computadores, 3. ed.,
+         Editora Pearson, 2010.
+        FOBERLONE, A. L. V.; EBERSPACHER, H. F., Lógica de Programação - A construção de algoritmos
+         e estruturas de dados, 3. ed., São Paulo: Prentice Hall, 2005.
+        SCHILDT, H. C Completo e Total. 3. ed., São Paulo: Makron Books, 1996.
+
+Bibliografia Complementar
+        CORMEN, T. H. et al. Algoritmos: Teoria e Prática. 2. ed., Rio de Janeiro: Editora Campus, 2002.
+        FARRER, H. et al. Programação Estruturada de Computadores - Algoritmos Estruturados. 3. ed., Rio
+         de Janeiro: LTC, 1989.
+        FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+        SALVETTI, D. D.; BARBOSA, L. M. Algoritmos. São Paulo: Makron Books, 1998.
+        SEDGEWICK, R. Algorithms in C. 3. ed., Reading: Addison-Wesley, 1998.
+
+
+
+
+INTRODUÇÃO AOS SISTEMAS DE INFORMAÇÃO
+Ementa
+         Introdução aos Sistemas de Informação (SI). Ontologia de sistemas. Teoria geral de sistemas.
+         Tipificação de SI. SI no contexto organizacional. Infraestrutura de Tecnologia da Informação. SI e suas
+         aplicações. Visão geral de SI. Estudos de casos.
+
+Bibliografia Básica
+        LAUDON, K. C.; LAUDON, J. P. Sistemas de informação gerenciais: administrando a empresa digital.
+         9. ed., São Paulo: Pearson Prentice-Hall, 2010.
+        O’BRIEN, J., MARAKAS, G.; Administração de Sistemas de Informação. 15. ed., Porto Alegre, Mc-
+         Graw Hill Education, 2013.
+        ROSINI, A. M. Administração de sistemas de informação e a gestão do conhecimento. 2.ed. rev., ampl.
+         São Paulo: Cengage Learning, 2012. xv, 212 p.
+
+Bibliografia Complementar
+        BATISTA, E. O.; Sistemas de Informação: o uso consciente da tecnologia para o gerenciamento. 1.
+         ed., São Paulo, Saraiva, 2006.
+        BRASIL; ORGANIZAÇÃO PAN-AMERICANA DE SAÚDE; FUNDAÇÃO OSWALDO CRUZ. A
+         Experiência brasileira em sistemas de informação em saúde. Brasília, D.F.: Ed. MS, 2009.
+        MATTOS, A. C. M., Sistemas de informação: uma visão executiva. 2. ed., São Paulo: Saraiva, 2010.
+        REZENDE, D..A., Tecnologia da informação aplicada a sistemas de informação empresariais: o papel
+         estratégico da informação e dos sistemas de informação nas empresas. 8. ed., 2011.
+        VASCONCELLOS, M. J. Pensamento sistêmico: o novo paradigma da ciência. 10. ed. rev. e atual,
+         Campinas: Papirus, 2013.
+
+
+
+
+                                                                                                              33
+LINGUAGENS E PARADIGMAS DE PROGRAMAÇÃO
+Ementa
+         Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural,
+         funcional, lógico, orientado a objeto e script. Reflexão sobre as características desejáveis em uma
+         linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades
+         dos domínios de aplicação. Descrição de sintaxe e semântica. Estudo sobre tipos de dados, estruturas
+         de controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de
+         programação.
+
+Bibliografia Básica
+        GHEZZI, C.; JAZYERI, M. Programming Language Concepts, 3. ed., Wiley, 1997.
+        SCOTT, M. L. S. Programming Language Pragmatics, 3. ed., Morgan Kaufmann, 2009.
+        SEBESTA, R. W. Concepts of Programming Languages; 10. ed., Pearson, 2012.
+
+Bibliografia Complementar
+        FRIEDMAN, D. P.; WAND, M. Essentials of Programming Languages, 3. ed., The MIT Press, 2008.
+        PRATT, T. W.; ZELKOWITZ, M. V. Programming Languages: Design and Implementation, 4. ed.,
+         Prentice Hall, 2000.
+        ROY, P. V.; HARIFI, S. Concepts, Techniques, and Models of Computer Programming, 1. ed., The MIT
+         Press, 2004.
+        TURBAK, F.; GIFFORD D. Design Concepts in Programming Languages, 1. ed., The MIT Press, 2008.
+        VAREJÃO, F. Linguagens de Programação. 1. ed., Editora Campus, 2004.
+
+
+
+
+LÓGICA MATEMÁTICA
+Ementa
+         Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequência. Correção e
+         Completamento. Aplicações em Computação.
+
+Bibliografia Básica
+        HUTH, M.; RYAN, M. Lógica em Ciência da Computação: Modelagem e argumentação sobre
+         sistemas. 2. ed., Editora LTC, 2008.
+        SILVA, F. C.; FINGER, M.; MELO, A. C. V. Lógica para Computação. Thomson Learning, 2006.
+        SOUZA, J. N. Lógica para Ciência da Computação. 3. ed., Editora Campus, 2015.
+
+Bibliografia Complementar
+        CASANOVA, M. A.; GIORNO, F. A. C.; FURTADO, A. L. Programação em Lógica e a Linguagem
+         PROLOG. Edgard Blucher, 1987.
+        ENDERTON, H. A. Mathematical Introduction to Logic. Academic Press, 2000.
+        MENDELSON, E. Introduction to Mathematical Logic, Academic Press, 2000.
+        MORTARI, C. Introdução à Lógica. São Paulo: UNESP, 2001.
+        SMULLYAN, R. Lógica de Primeira Ordem. São Paulo: UNESP, 2009.
+
+
+
+
+                                                                                                           34
+METODOLOGIA CIENTÍFICA
+Ementa
+         Ciência. Pesquisa científica. Métodos de pesquisa. Estilos de pesquisa em Computação. Elaboração
+         de trabalho de pesquisa. Revisão da literatura. Leitura crítica e comunicação escrita e oral de trabalhos
+         acadêmico-científicos. Plágio E Autoplágio. Estilos de pesquisa em Computação. Elaboração de
+         trabalho de pesquisa. Análise crítica de propostas de monografias de conclusão de curso.
+
+Bibliografia Básica
+        ANDRADE, M. M. Introdução à metodologia do trabalho científico: elaboração de trabalhos na
+         graduação. 9. ed., São Paulo: Atlas, 2009.
+        GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed., São Paulo: Atlas, 2010.
+        MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Científica. 7. ed., São Paulo: Atlas,
+         2010.
+
+Bibliografia Complementar
+        BARROS, A. J. S.; LEHFELD, N. A. S. Fundamentos da Metodologia Científica. 3 ed., São Paulo:
+         Pearson Prentice Hall, 2007.
+        CERVO, A. L. Metodologia Científica: Para uso dos estudantes universitários. 3. ed., São Paulo: Mc
+         Graw Hill, 1983.
+        PARBERRY, I. How to Present a Paper in Theoretical Computer Science: a Speaker's Guide for
+         Students. ACM SIGACT News. v. 04, n. 02, p. 37-50, 1993.
+        WAZLAWICK, R. S. Metodologia de Pesquisa em Ciência da Computação. Rio de Janeiro: Elsevier,
+         2009. 6ª reimpressão.
+        WAZLAWICK, R. S. Uma Reflexão sobre a Pesquisa em Ciência da Computação à Luz da
+         Classificação das Ciências e do Método Científico. Revista de Sistemas de Informação da FSMA,
+         Macaé-RJ, n. 06, p. 3-10, 2010.
+
+
+
+
+PESQUISA OPERACIONAL
+Ementa
+         Modelagem. Problema de Programação Linear (PL). Resolução gráfica de PL. Algoritmo Simplex.
+         Dualidade. Algoritmo Simplex-Dual. Pós-otimização e Análise de Sensibilidade.
+
+Bibliografia Básica
+        BREGALDA, P. F.; OLIVEIRA, A. A. F.; BORNSTEIN, C. T. Introdução à programação linear. 3. ed.
+         Rio de Janeiro: Campus, 1983.
+        GOLDBARG, M.; LUNA, H. Otimização Combinatória e Programação Linear, 2. ed., Rio de Janeiro:
+         Campus, 2005.
+        TAHA, H. Pesquisa Operacional, 8. ed., Prentice Hall, 2008.
+
+Bibliografia Complementar
+        BAZARRA, B. S.; JARVIS, J. J.; SHERALI, H. D. Linear programming and network Flows. 2. ed., J.
+         Wiley, 1990.
+        HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9. ed., 2013.
+        PARLAR, M. Interactive Operations Research With Maple: Methods and Models. Birkhauser. 2000.
+        SILVA, E. M. et al. Pesquisa Operacional - Programação linear Simulação, 3. ed., Atlas, 1998.
+        WINSTON, W. L. Operations Research Applications and Algorithms. 3. ed., 1997.
+
+
+
+
+                                                                                                                35
+PROBABILIDADE E ESTATÍSTICA A
+Ementa
+         Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria
+         de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade,
+         probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos
+         básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson.
+         Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação
+         pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população:
+         média e proporção. Correlação linear e regressão linear simples.
+
+Bibliografia Básica
+        MAGALHÃES, M. N. Noções de Probabilidade e Estatística. 7. ed., São Paulo: EDUSP, 2010.
+        MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC, 1969.
+        WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. Probabilidade e Estatística para Engenharia
+         e Ciências. 8. ed., São Paulo: Pearson, 2009.
+
+Bibliografia Complementar
+        BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica. 6. ed., São Paulo: Saraiva, 2010.
+        DANTAS, C. A. B. Probabilidade: um Curso Introdutório. 3. ed., São Paulo: EDUSP, 2008.
+        MORETTIN, L. G. Estatística básica: probabilidade e inferência. São Paulo: Prentice Hall, 2010.
+        ROSS, S. Probabilidade. Um Curso Moderno com Aplicações. 8. ed., Porto Alegre: Bookman, 2010.
+        TRIOLA, M. F. Introdução à Estatística. 10. ed., Rio de Janeiro: LTC, 2008.
+
+
+
+
+PROGRAMAÇÃO ORIENTADA A OBJETOS
+Ementa
+         Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, interface. Mensagens,
+         instâncias e inicialização. Herança e composição. Polimorfismo. Uso de uma linguagem orientada a
+         objetos. Noções de UML. Noções de padrões de projeto orientado a objetos.
+
+Bibliografia Básica
+        BORATTI, I. C. Programação orientada a objetos em Java. 1. ed., Visual Books, 2007.
+        ECKEL, B. Thinking in Java. 3. ed., Prentice Hall, 2002. (livro eletrônico de acesso livre: disponível em
+         <http://www.mindview.net/Books/TIJ/>).
+        DEITEL, P. J.; DEITEL, H. M. Java: como programar. 6. ed., São Paulo: Prentice Hall, 2005. 1386 p.
+
+Bibliografia Complementar
+        BUDD, T. An Introduction to Object-Oriented Programming. Addison Wesley, 1996.
+        GAMMA, E. Design patterns elements of reusable object-oriented software. Reading: Addison Wesley,
+         1995.
+        HORSTMANN, C. S. Core Java – Volume II – Advanced Features, 8. ed., Prentice Hall, 2008.
+        SANTOS, R. Introdução à Programação Orientada a Objetos com Java. Campus, 2003.
+        ZEIGLER, B. P. Objects and Systems: Principled Design with Implementations in C++ and Java.
+         Springer-Verlag New York, Inc., New York, NY, USA. 1997.
+
+
+
+
+                                                                                                                      36
+PROJETO DE SOFTWARE
+Ementa
+         Fundamentos de design de software. Questões básicas de design de software: concorrência, controle
+         e tratamento de eventos, persistência de dados, distribuição, tratamento de erro e exceção, tolerância
+         a falhas, interação e apresentação, e segurança. Estrutura e arquitetura de software. Projeto de
+         interface de usuário. Análise de qualidade e avaliação de design de software. Notação de design de
+         software. Métodos e estratégias de design de software. Ferramentas de design de software. Qualidade
+         de produto e de processo de software.
+
+Bibliografia Básica
+        BUDGEN, B. Software Design. 2. ed., Addison-Wesley, 2003.
+        BASS, L. et al. Software Architecture in Practice. 3. ed., Addison-Wesley, 2012.
+        LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e
+         ao desenvolvimento interativo. Bookman, 2008.
+
+Bibliografia Complementar
+        BOOCH, G. UML guia do usuário: o mais avançado tutorial sobre Unified Modeling Language (UML).
+         Elsevier, 2006.
+        FREEMAN, E. et al., Use a cabeça! padrões de projetos, (design patterns), Alta Books, 2007.
+        FOWLER, M., Patterns of enterprise application architecture. Addison-Wesley, 2003.
+        GAMMA, E. Design patterns elements of reusable object-oriented software. Reading: Addison Wesley,
+         1995.
+        NYGARD, M., Release It!: Design and Deploy Production-Ready Software, Pragmatic Bookshelf, 2007.
+
+
+
+
+REDES DE COMPUTADORES
+Ementa
+         Fundamentos. Arquitetura de Redes TCP/IP (Internet). Camadas de Aplicação, Transporte, Rede,
+         Enlace e Física. Gerenciamento de Redes. Redes Sem Fio e Mobilidade. Estudo de Caso de Tópicos
+         Emergentes em Redes.
+
+Bibliografia Básica
+        KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed., Pearson Education, 2013
+        LAUDON, K. C.; LAUDON, J. P. Sistemas de Informação Gerenciais. 9. ed., São Paulo: Pearson
+         Education, 2013.
+        TANENBAUM, A. S. Computer Networks, 4. ed., Prentice Hall, 2003.
+
+Bibliografia Complementar
+        DANTAS, M. Redes de comunicação e computadores: abordagem quantitativa, Florianópolis: Visual
+         Books, 2009.
+        PETERSON, L. L.; DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 3. ed.,
+         Campus-Elsevier, 2004.
+        SOARES, L. F. G. Redes de computadores: das LANS, MANS e WANS as Redes ATM. 2. ed. rev. e
+         ampl. -Rio de Janeiro: Campus, 1997.
+        STALLINGS, W. Data and Computer Communications. 8. ed., Pearson/Prentice Hall, 2007.
+        TORRES, G. Redes de computadores: curso completo - Rio de janeiro: Axcel Books, 2001.
+
+
+
+
+                                                                                                             37
+RESIDÊNCIA TÉCNICA EM SISTEMAS DE INFORMAÇÃO
+
+Ementa
+          Resolução de problemas complexos por meio da utilização do conhecimento, habilidades e
+          competências adquiridas no curso.
+
+Bibliografia Básica
+         ROSINI, A. M. Administração de sistemas de informação e a gestão do conhecimento. 2. ed. rev.,
+          ampl. São Paulo: Cengage Learning, 2012.
+         SENGE, P. M. A Quinta Disciplina - Arte e Prática da Organização que Aprende. 29. ed., Rio de
+          Janeiro: BestSeller, 2013.
+         VASCONCELLOS, M. J. Pensamento Sistêmico: O Novo Paradigma da Ciência. 10. ed. rev. e atual,
+          Campinas: Papirus, 2013.
+
+Bibliografia Complementar
+         ACKOFF, R. L. Planejamento empresarial. Rio de Janeiro: Livros Técnicos e científicos, 1975. 114 p.
+         BEER, S. Cibernética e administração industrial. Rio de Janeiro: Zahar, 1969.
+         BUCKLEY, W F. A sociologia e a moderna teoria dos sistemas. Tradução de Octavio Mendes Cajado.
+          2. ed. São Paulo: Cultrix, 1976.
+         CHANDOR, A; GRAHAM, J; WILLIAMSON, R. Análise de sistemas: teoria e prática. Tradução de
+          Antônio Garcia de Miranda Netto. Rio de Janeiro: LTCE, 1977.
+         CHURCHMAN, C. W. Introdução à teoria dos sistemas. Tradução de Francisco M. Guimarães. 2. ed.,
+          Petrópolis: Vozes, 1972.
+
+Sinopse
+Durante os sete primeiros semestres do curso de Bacharelado em Sistemas de Informação, o estudante deverá
+vivenciar o aprendizado dos diversos paradigmas e técnicas relacionadas à Sistemas de Informação e à Ciência
+de Dados. As disciplinas cursadas pelo estudante e as demais atividades do curso lhe proporcionarão um
+conhecimento amplo da área e lhe fornecerão ferramentas conceituais e tecnológicas para atuar como agente
+transformador, propondo soluções eficientes e até mesmo inovadoras para os mais diversos problemas da
+sociedade. Com este objetivo, o trabalho colaborativo, a proatividade, o empreendedorismo, a ética, o desejo
+de inovar e de construir um mundo melhor são incentivados ao longo do curso.
+Após este período, o estudante deverá participar do Programa de Residência Técnica em SI, no qual terá a
+oportunidade de imersão em uma realidade em que deverá dedicar-se integralmente à solução de um problema
+concreto. Ao concentrar-se integralmente em solucionar um problema complexo, espera-se que o estudante
+desenvolva ainda mais suas capacidades cognitivas, seu raciocínio lógico e criatividade, além de melhorar seu
+desempenho como membro de equipes técnicas ou não, por meio de trabalho em grupo. Durante o Programa,
+o estudante passará a integrar uma das diversas equipes de trabalho e deverá atuar, de forma proativa,
+colaborativa e cooperativa na construção de soluções para problemas relevantes para a sociedade. Ao concluir
+o Programa, espera-se que o estudante esteja preparado para atuar como um profissional capacitado a resolver
+problemas complexos, utilizando a computação como meio.
+A Residência Técnica em Sistemas de Informação é um programa que visa inserir o estudante concluinte do
+curso de Bacharelado em Sistemas de Informação em projetos integradores, que incluem a solução de
+problemas reais, de natureza complexa, de interesse da sociedade, do setor produtivo locoregional sugeridos
+por entidades públicas ou privadas, cuja solução proporcione a geração de valor. Este valor pode ser traduzido
+na melhoria de processos ou produtos existentes, na geração de novos produtos ou processos, na geração de
+startups, no empreendedorismo social, na inovação aberta etc. Como o Programa requer uma imersão no
+problema a ser resolvido, espera-se que o estudante já tenha integralizado todas as disciplinas do curso e
+concluído as demais atividades extracurriculares, e possa dedicar-se integralmente a ele.
+O projeto a ser realizado durante o Programa de Residência Técnica em Sistemas de Informação poderá ser
+desenvolvido em parceria, envolvendo pesquisa, extensão e/ou inovação, com a sociedade e o setor produtivo
+locoregional. Essa interação entre a academia e a sociedade é de fundamental importância para a formação
+plena do Bacharel em Sistemas de Informação, uma vez que um dos objetivos fundamentais do curso é formar
+profissionais empreendedores e inovadores, capazes de atuar como agentes transformadores na sociedade.
+O projeto deverá ser desenvolvido em equipes, as quais serão acompanhadas por professores e por
+profissionais externos, sejam da iniciativa privada ou de outras entidades públicas. Os projetos a serem
+
+
+                                                                                                            38
+desenvolvidos deverão, preferencialmente ser projetos de “longo prazo”, envolvendo a participação de diversos
+estudantes ao longo do tempo. Essa continuidade é importante para a disseminação do conhecimento adquirido
+pelos discentes de forma sinérgica, compartilhando experiências adquiridas.
+O Programa de Residência Técnica em Sistemas de Informação é uma disciplina que é integralizada com 320
+horas de atividades nos projetos do programa. Ela é ofertada a cada semestre letivo e os docentes atuam como
+preceptores, sendo estes os profissionais responsáveis pela integração teoria-prática ao longo do programa,
+ensinando, supervisionando, orientando e conduzindo o estudante na prática efetiva de sua futura profissão.
+O objetivo é gerar uma oportunidade ao estudante concluinte do curso de Bacharelado em Sistemas de
+Informação a experiência em todas as etapas do processo de solução de um problema real, passando pela
+identificação e especificação do problema, levantamento da fundamentação teórica necessária, identificação
+de soluções existentes para problemas similares/correlatos, modelagem, construção da solução propriamente
+dita, além de documentação adequada de todo o processo.
+Atuação como membro de uma equipe encarregada de resolver problemas reais com impacto direto na
+sociedade ou no setor produtivo locoregional. Por fim espera-se a consolidação dos conhecimentos,
+habilidades e competências adquiridos no curso, aplicando-os de forma prática na solução de problemas reais.
+
+
+
+
+                                                                                                           39
+SISTEMAS DISTRIBUÍDOS
+Ementa
+         Introdução a Sistemas Distribuídos. Invocação Remota. Objetos Distribuídos. Arquiteturas Orientadas
+         a Serviços e utilização de serviços Web. Computação Móvel e Ubíqua. Estudo de Casos de Tópicos
+         Emergentes em Sistemas Distribuídos.
+
+Bibliografia Básica
+        ANDREWS, G. R. Foundations of multithreaded, parallel, and distributed programming Reading
+         (Mass.): Addison-Wesley, 2000. xx, 664 p.
+        COULOURIS, G. F. et al. Distributed Systems: Concepts and Design. 5. ed., Addison-Wesley, 2012.
+         Reading (Mass.): Addison-Wesley, 2000. 664 p.
+        KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed. Pearson Education, 2013.
+
+Bibliografia Complementar
+        BIRMAN, K. P. Reliable distributed systems: technologies, web services, and applications, New York:
+         Springer, 2005. ISBN 0387215093.
+        CLARK, M. et al. Web services business strategies and architectures, Chicago, Illinois: Expert Press,
+         2002. ISBN 1904284132.
+        JOSUTTIS, N. M. SOA in practice. Sebastopol: O'Reilly, 2007. ISBN 0596529554.
+        LYNCH, N. A Distributed algorithms San Francisco: M. Kaufmann, 1997. xxiii, 872il. (The Morgan
+         Kaufmann series in data management systems).
+        TANENBAUM, A. S.; STEEN, M. van. Distributed Systems: Principles and Paradigms. 2. ed., Prentice
+         Hall, 2006.
+
+
+
+
+SISTEMAS INTELIGENTES DE APOIO À DECISÃO
+Ementa
+         Tomada de decisão e processo decisório. Métodos de análise de decisão multicritério. Fundamentos,
+         técnicas e métodos de Sistemas de Apoio à Decisão. Abordagens centradas em dados, informação e
+         conhecimento. Conceitos básicos de Inteligência Artificial, representação do conhecimento e
+         raciocínio. Técnicas de Inteligência Artificial para desenvolvimento de Sistemas Inteligentes de Apoio
+         à Decisão. Fundamentos de ciência de dados. Fundamentos de Inteligência de negócios. Data mining
+         e visualização de dados. Data warehousing. Análise Inteligente de Dados.
+
+Bibliografia Básica
+        CHOO, C. W. A organização do conhecimento: como as organizações usam a informação para criar
+         significado, construir conhecimento e tomar decisões. 2. ed. São Paulo: Ed. SENAC, 2006.
+        JOHNSON, J. D. Gestão de redes de conhecimento. São Paulo: Ed. SENAC, 2009.
+        VERCELLIS, C. Business intelligence: data mining and optimization for decision making. Chichester,
+         U.K.: Wiley, 2009, 417p.
+
+Bibliografia Complementar
+        BIGUS, J. P. Data mining with neural networks: solving business problems from application
+         development to decision support. New York: McGraw-Hill, 1996, 220 p.
+        CARVALHO, L. A. V. Datamining: a mineração de dados no marketing, medicina, economia,
+         engenharia e administração. São Paulo: Ciência Moderna, 2005.
+        CHAKRABARTI, S. Data mining: know it all. Burlington, MA: Elsevier/Morgan Kaufmann Publishers,
+         2009, 460 p.
+        DAVENPORT, T. H.; PRUSAK, L. Conhecimento empresarial: como as organizações gerenciam o seu
+         capital intelectual. Rio de Janeiro: Campus, 1998.
+        DE SORDI, J. O. Administração da informação: fundamentos e práticas para uma nova gestão do
+         conhecimento. São Paulo: Saraiva, 2008.
+        FISCHER, L. 2010 BPM and Workflow handbook: methods, concepts, case studies and standards in
+         business process management and workflow: spotlight on business intelligence. Lighthouse Point, FL:
+         Future Strategies Inc., 2010, 281p.
+        GOLFARELLI, M. Data warehouse design: modern principles and methodologies. New York: McGraw-
+         Hill, 2009, 458 p.
+
+
+
+                                                                                                             40
+SISTEMAS OPERACIONAIS
+Ementa
+         Conceitos de Hardware e Software. Tipos de Sistemas Operacionais. Organização da Estrutura
+         Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de
+         Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos. Estudos de casos de
+         Sistemas Operacionais atuais.
+
+Bibliografia Básica
+        OLIVEIRA, R. S.; CARISSIMI, A. S.; TOSCANI, S. S. Sistemas Operacionais. 3. ed., Porto Alegre:
+         Instituto de Informática da UFRGS: Editora Sagra Luzzatto, 2004.
+        SILBERSCHATZ, A. Fundamentos de Sistemas Operacionais, 8. ed., LTC, 2011.
+        TANEMBAUM, A. S. Sistemas Operacionais Modernos. 3. ed., São Paulo: Ed. Prentice Hall, 2010.
+         ISBN 9788576052371.
+
+Bibliografia Complementar
+        MACHADO, F. B. Arquitetura de Sistemas Operacionais, 2. ed., LTC, 1997.
+        NEMETH E.; SNYDER, G.; HEIN, T. R. Unix system administration handbook. 2. Pearson-Prentice
+         Hall, 1997. ISBN 978-85-7605-112-1.
+        O'GORMAN, J. Operating Systems with Linux. Basingstoke: Palgrave, 2001.
+        SHAY, W. Sistemas Operacionais, Makron Books, 1996.
+        STALLINGS, W. Operating Systems. Prentice-Hall. 1995.
+
+
+
+
+                                                                                                      41
+                                    DISCIPLINAS OPTATIVAS
+
+
+
+APLICAÇÕES DE SISTEMAS DE INFORMAÇÃO
+Ementa
+         Enfoque prático envolvendo ferramentas, técnicas e metodologias para aplicação prática dos Sistemas
+         de Informação no âmbito corporativo para ampliar a compreensão dos níveis de aplicabilidade e
+         adequabilidade em contextos diversos, que não tenham sido abordados em outras disciplinas do
+         curso.
+
+Bibliografias Básica e Complementar
+         A bibliografia depende do tema proposto pelo professor da disciplina.
+
+
+
+
+ARMAZÉM DE DADOS
+Ementa
+         Conceitos básicos em Data Warehouse. Arquitetura. Projeto conceitual. Projeto lógico. Estudos de
+         caso. Consultas. Implementação.
+
+Bibliografia Básica
+        KIMBALL, R.; ROSS, M. The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling.
+         2.ed.. Wiley, 2002.
+        KIMBALL, R.; ROSS, M.; THORNTHWAITE, W.; MUNDY, J.; BECKER, B. The Data Warehouse
+         Lifecycle Toolkit. 2. ed. Wiley, 2008.
+        VAISMAN, A.; ZIMÁNYI, E. Data Warehouse Systems: Design and Implementation. 1. ed. Springer,
+         2014.
+
+Bibliografia Complementar
+        ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed., Pearson - Addison Wesley, 2015.
+        GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book, 2. ed.,
+         Prentice Hall, 2009.
+        INMON, W. H. Building the Data Warehouse. 4. ed. Wiley, 2005.
+        JARKE, M.; LENZERINI, M.; VASSILIOU, Y.; VASSILIADIS, P. Fundamentals of Data Warehouses. 2.
+         ed. Springer, 2002.
+        KIMBALL, R.; CASERTA, J. The Data Warehouses ETL Toolkit: Practical Techniques for Extracting,
+         Cleaning, Conforming, and Delivering Data. 1. ed. Wiley, 2004.
+
+
+
+
+                                                                                                          42
+ARQUITETURA CORPORATIVA DE TI
+Ementa
+         Arquitetura corporativa (AC) como estratégia. Pontos de vista e visões da arquitetura. Domínios de
+         arquitetura: negócio, sistemas de informação, tecnológica e social. Método de desenvolvimento de
+         arquitetura. Modelos de referência e frameworks de AC. Linguagens de descrição de arquitetura.
+
+Bibliografia Básica
+        LANKHORST, M. Enterprise Architecture at Work: Modeling, Communication and Analysis. 3.ed,
+         Springer, 2013.
+        JOSEY, A. TOGAF Versão 9.1 - O Livro. The Open Group. 2009.
+        PERROUD, T.; INVERSINI, R. Enterprise Architecture Patterns: Practical Solutions for Recurring IT-
+         architecture Problems. Springer, 2013.
+
+Bibliografia Complementar
+        BERNARD, S. An Introduction to Enterprise Architecture. 3.ed., AuthorHouse, 2012.
+        GILS, B. V.; DIJK, S. V. A Prática da Arquitetura Corporativa. BiZZ Design Academy, 2014.
+        MOLINARO, L. F. R.; RAMOS, K. H. C. Gestão de Tecnologia da Informação: Governança de TI -
+         Arquitetura e Alinhamento entre Sistemas de Informação e o Negócio. São Paulo: LTC, 2011.
+        ROSS, J. W.; WEILL, P.; ROBERTSON, D. Enterprise Architecture As Strategy: Creating a Foundation
+         for Business Execution. Harvard Business School Press. 2006.
+        WIERDA, G. Mastering Archimate. 2.ed., R&A, 2014, 220p.
+
+
+
+
+FUNDAMENTOS DE CONTABILIDADE
+Ementa
+         Aspectos fundamentais da contabilidade. Fatos contábeis e econômicos. Noções de regime de caixa
+         e competência. Operações com mercadorias. Balanço patrimonial e Demonstração de resultado do
+         exercício. Demonstração do Fluxo de Caixa.
+
+Bibliografia Básica
+        MARION, J. C. Contabilidade Empresarial. 16. ed. São Paulo: Atlas, 2012.
+        MARION, J. C.; IUDÍCIBUS, S. Curso de Contabilidade Para Não Contadores. 7. ed. São Paulo: Atlas,
+         2011.
+        PIMENTEL, R. C.; BORINELLI, M. L. Curso de Contabilidade Para Gestores, Analistas e Outros
+         Profissionais. São Paulo: Atlas, 2010.
+
+Bibliografia Complementar
+        COMITE DE PRONUNCIAMENTOS CONTÁBEIS. Pronunciamentos Técnicos. Disponível em:
+         http://www.cpc.org.br/pronunciamentosIndex.php FEA/USP - Equipe de Professores. Contabilidade
+         Introdutória. São Paulo: Atlas, 2010.
+        IUDÍCIBUS, S.; MARION, J. C. Contabilidade Comercial. 9. Ed. São Paulo: Atlas, 2010.
+        IUDÍCIBUS, S.; MARTINS, E.; GELBCKE, E. R.; SANTOS, A. Manual da contabilidade societária:
+         Aplicável a todas as sociedades de acordo com as normas internacionais e do CPC. 2. ed. São Paulo:
+         Atlas, 2013.
+        SILVA, C. A. T.; RODRIGUES, F. F. Curso de Contabilidade Básica. Vol. 1. São Paulo: Atlas, 2015.
+        SILVA, C. A. T.; RODRIGUES, F. F. Curso de Contabilidade Básica. Vol. 2. São Paulo: Atlas, 2015.
+
+
+
+
+                                                                                                         43
+GESTÃO DE PESSOAS I
+Ementa
+         Evolução da gestão de pessoas nas organizações. As faces da gestão de pessoas. Mercado de
+         trabalho e gestão de pessoas. Processos de gestão de pessoas: movimentação, socialização,
+         desenvolvimento e valorização das pessoas. Gestão de carreira. Recompensas financeiras e não
+         financeiras. Gerenciamento do desempenho.
+
+Bibliografia Básica
+        DUTRA, J. S. Gestão de Pessoas: modelo, processos, tendências e perspectivas. São Paulo: Atlas,
+         2006.
+        FLEURY, M. T. L. (vários autores). As pessoas na organização. São Paulo: Ed. Gente, 2002
+        HANASCHIRO, D.; TEIXEIRA, M. L.; ZACCARELLI, L. Gestão do Fator Humano. São Paulo: Saraiva,
+         2006.
+
+Bibliografia Complementar
+        ACADEMIA PEARSON. Administração de recursos humanos. São Paulo: Pearson, 2010.
+        ARAUJO, L. C. G. GARCIA, A.A. Gestão de pessoas: estratégias e integração organizacional. 2. ed.
+         São Paulo: Atlas, 2009.
+        BITENCOURT e Colaboradores. Gestão contemporânea de Pessoas: novas práticas, conceitos
+         tradicionais. 2. ed. Porto Alegre: Bookman, 2010.
+        LACOMBE, F. Recursos Humanos: princípios e tendências. São Paulo: Saraiva, 2005.
+        RIBEIRO, A. L. Gestão de pessoas. São Paulo: Saraiva, 2006.
+
+
+
+
+INTRODUÇÃO À LÍNGUA BRASILEIRA DE SINAIS – LIBRAS
+Ementa
+         Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções
+         comunicativas elementares. Concepções sobre a Língua de Sinais. O surdo e a sociedade.
+
+Bibliografia Básica
+        BRASIL. Ministério da Educação. Instituto Nacional de Educação de Surdos. Curso básico de LIBRAS.
+         Manaus: CD+, 2007. 1 DVD, color. (Educação de surdos, n. 6).
+        GESSER, A. LIBRAS? Que língua é essa? Crenças e preconceitos em torno da língua de sinais e da
+         realidade surda. São Paulo: Parábola Editorial, 2009.
+        SKLIAR, Carlos (Org.). A surdez: um olhar sobre as diferenças. 6. ed. Porto Alegre: Mediação, 2012.
+
+Bibliografia Complementar
+        CAPOVILLA, F. C.; RAPHAEL, W. D. (Ed.). Enciclopédia da Língua de Sinais Brasileira. v. 1 e 2. São
+         Paulo: EDUSP, 2004
+        FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação
+         e do Desporto/Secretaria de Educação Especial, 2001.
+        PIMENTA, N.; QUADROS, R. M. Curso de LIBRAS 1 – Iniciante. 3 ed. rev. e atualizada. Porto Alegre:
+         Editora Pallotti, 2008.
+        SACKS, Oliver. Vendo Vozes: uma viagem ao mundo dos surdos. Tradução Laura Motta. São Paulo:
+         Editora Cia das Letras, 1999.
+        THOMA, Adriana da Silva; LOPES, Maura Corcini (Coautor). A invenção da surdez: cultura, alteridade,
+         identidade e diferenca no campo da educação. Santa Cruz do Sul, RS: EDUNISC, 2005. 232 p. Inclui
+         bibliografia. ISBN 8575780794 (Broch.).
+
+
+
+
+                                                                                                          44
+JOGOS DIGITAIS
+Ementa
+         Conceitos fundamentais de jogos: storyboard, mecânica de jogos, game engines, ambientação e
+         animação em jogos. Aplicação de técnicas de apresentação dos jogos. Deploy de jogos em
+         plataformas. Noções de mercado e tendências tecnológicas para jogos.
+
+Bibliografia Básica
+        MARTINHO, C.; SANTOS, P.; PRADA, R. Design e Desenvolvimento de Jogos; 1. ed.; Lisboa: FCA -
+         Editora de Informática, 2014.
+        SCHELL, J. The Art of Game Design: A book of lenses. Nova Iorque: CRC Press, 2008.
+        SCHUYTEMA. P. Design de Games - Uma Abordagem Prática. 1. ed. Cengage CTP, 2008.
+
+Bibliografia Complementar
+        LIMA, A. Design de personagens para games Next-Gen. Rio de Janeiro: Ed. Ciência Moderna, 2011.
+        FEIJÓ, B.; CLUA, E.; SILVA, F. Introdução à Ciência da Computação com Jogos. Rio de Janeiro: Ed.
+         Campus, 2009.
+        PERUCIA, A. S.; BERTHÊM, A.; BERTSCHINGER, G.; CASTRO, R. R. Desenvolvimento de Jogos
+         Eletrônicos – Teoria e Prática. 2. ed.; São Paulo: Ed. Novatec; 2007.
+        VASCONCELOS, J. B.; RIBEIRO, N. M. Tecnologias de Programação de Jogos. 1. ed.; Lisboa: FCA
+         - Editora de Informática, 2013.
+        HUIZINGA, J. Homo ludens – O jogo como elemento da cultura. São Paulo: Perspectiva, 1996.
+
+
+
+
+LOGÍSTICA EMPRESARIAL
+Ementa
+         A logística e seus subsistemas. Interfaces da logística com as demais áreas funcionais. O ambiente
+         logístico. Decisões logísticas. Organização das atividades logísticas. Distribuição, armazenagem,
+         manutenção, processamento do pedido e Supply Chain Management (SCM), Compreensão do papel
+         da tecnologia de informação na logística. Gestão de redes e integração da cadeia de suprimentos.
+         Tópicos Emergentes de Logística.
+
+Bibliografia Básica
+        BALLOU, R. H. Logística empresarial: transporte, administração de materiais e distribuição física. São
+         Paulo: Atlas, 2010.
+        BERTAGLIA, P. R. Logística e gerenciamento da cadeia de abastecimento. São Paulo: Saraiva, 2009.
+        BOWERSOX, D. J.; CLOSS, D. J. Logística empresarial: o processo de integração da cadeia de
+         suprimento. São Paulo: Atlas. 2009.
+
+Bibliografia Complementar
+        DORNIER, P. (Coautor). Logística e operações globais: Texto e casos. São Paulo: Atlas, 2000.
+        FLEURY, P. F.; WANKE, P.; FIGUEIREDO, K. F. Logística empresarial: A perspectiva brasileira. São
+         Paulo: Atlas. 2009.
+        MOREIRA, D. A. Administração de Produção e Operações. 2. ed. São Paulo: Cengage Learning, 2008.
+        POZO, H. Administração de recursos patrimoniais: Uma abordagem logística. São Paulo: Atlas, 2008.
+        SLACK, N.; CHAMBERS, S.; JOHNSTON, R. Administração da produção. São Paulo: Atlas, 2009.
+
+
+
+
+                                                                                                             45
+MATEMÁTICA FINANCEIRA
+Ementa
+         Noções de capital taxa e tempo. Desconto comercial e racional. Juros. Função financeira: Taxas
+         proporcionais, equivalentes e contínuas, valor presente líquido. Rendas certas e variáveis.
+         Empréstimos e sistemas de amortização.
+
+Bibliografia Básica
+        ASSAF, A. N. Matemática Financeira e suas aplicações. 10. ed. São Paulo: Atlas, 2008.
+        PUCCINI, A. L. Matemática financeira: objetiva e aplicada. Rio de Janeiro: LTC, 1986.
+        HAZZAN, S; POMPEO, J. N. Matemática Financeira, 6. ed. São Paulo: Saraiva, 2007.
+
+Bibliografia Complementar
+        CRESPO, A. A. Matemática comercial e financeira fácil. 4. ed. São Paulo: Saraiva, 1989.
+        MORGADO, A. C.; WAGNER, E.; ZANI, S. C. Progressões e Matemática Financeira. Rio de Janeiro:
+         IMPA, 1993.
+        SPINELLI, W.; QUEIROZ, M. H. S. Matemática comercial e financeira. 3. ed. São Paulo: Ática, 1998.
+        SAMANEZ, C. P. Matemática financeira: aplicações à análise de investimentos, 4. ed. São Paulo:
+         Pearson Prentice Hall, 2007.
+        VIEIRA SOBRINHO, J. D. Matemática financeira. 7. ed. São Paulo: Atlas, 2000.
+
+
+
+
+PROCESSO DE TOMADA DE DECISÕES EM CENÁRIOS COMPLEXOS
+Ementa
+         Princípios básicos da decisão multicritério. Métodos de estruturação de problemas de decisão.
+         Métodos de análise de decisão. Sistemas de apoio à decisão em cenários complexos.
+
+Bibliografia Básica
+        GOMES, L. F. A. M.; ARAYA, G.; CARIGNANO, M. C. Tomada de decisões em cenários complexos:
+         introdução aos métodos discretos do apoio multicritério à decisão. São Paulo: Cengage Learning,
+         2011.
+        LACHTERMACHER, Gerson. Pesquisa operacional na tomada de decisão. 4.ed., Rio de Janeiro:
+         Elsevier, 2009, 223p.
+        TARAPANOFF, Kira. Técnicas para tomada de decisão nos sistemas de informação. 3.ed., Brasília:
+         Thesaurus, 2002, 163p.
+
+Bibliografia Complementar
+        KAUFMANN, A. A ciência da tomada de decisão: uma introdução a praxiologia. Rio de Janeiro: Zahar,
+         1975.
+        KEENEY, R. L.; RAIFFA, H. Decisions with multiple objectives: preferences and value tradeoffs.
+         Cambridge [Inglaterra]: Cambridge University Press, 1993.
+        PEREIRA, M. J. L. B.; FONSECA, J. G. M. Faces da Decisão: Abordagem Sistêmica do Processo
+         Decisório, Rio de Janeiro: LTC, 2009.
+        PESTANA, M. H. Análise categórica, árvores de decisão e análise de conteúdo. Lisboa: LIDEL, 2009,
+        PIDD, M. Modelagem empresarial: ferramentas para tomada de decisão. Porto Alegre: Bookman,
+         1998.
+
+
+
+
+                                                                                                        46
+SISTEMAS MULTIAGENTES
+Ementa
+         Introdução à Inteligência Artificial e Agentes Inteligentes. Arquiteturas para construção de Sistemas
+         Multiagentes (SMA). Comunicação e cooperação em SMA. Tomada de Decisão em SMA.
+
+Bibliografia Básica
+        FIPA. Foundation for Intelligent Physical Agents, Standard Specifications, 2002. Available on-line on
+         <http://www.fipa.org/repository/standardspecs.html>
+        RUSSELL, S.; NORVIG, P. Inteligência Artificial, 3. ed., Ed. Campus, 2013.
+        WOOLDRIDGE, M. An Introduction to MultiAgent Systems, 2. ed., John Wiley and Sons, 2009.
+
+Bibliografia Complementar
+        BELLIFEMINE, F. et al. Jade 4.0 Programmer's Guide, 2010. Disponível on-line em
+         <http://jade.tilab.com/documentation/tutorials-guides/>
+        BORDINI, R. H.; HÜBNER, J. Documentation for Jason, a Java-besed interpreter for an extended
+         version of AgentSpeak. 2006. Disponível on-line em <http://jason.sourceforge.net/wp/documents/>
+        CAIRE, G. Jade 3.7 Programming for Beginners, 2009. Disponível on-line em
+         <http://jade.tilab.com/documentation/tutorials-guides/>
+        SHOHAM, Y.; LEYTON-BROWN, K. Multiagent Systems - Algorithmic, Game-Theoretic, and Logical
+         Foundations.        Cambridge     University      Press     2008.     Disponível     on-line   em
+         <http://www.masfoundations.org/mas.pdf>
+        VIDAL, J.M. Fundamentals of Multiagent Systems Using NetLogo, 2010. Disponível on-line em
+         <http://multiagent.com/p/fundamentals-of-multiagent-systems.html>.
+
+
+
+
+SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO
+Ementa
+         Operação de Sistemas de Informação (SI). Suporte ao usuário. Manutenção de SI. Descarte e
+         Migração de SI. Plano de Sustentação de SI.
+
+Bibliografia Básica
+        ISO/IEC/IEEE. ISO/IEC/IEEE 15288:2015. Systems and Software Engineering -- System Life Cycle
+         Processes. Geneva, Switzerland: International Organisation for Standardisation / International
+         Electrotechnical Commissions / Institute of Electrical and Electronics Engineers, 2015
+        LAPHAM, M; WOODY, C. Sustaining Software-Intensive Systems, CMU/SEI-2006-TN-007. Disponível
+         em http://www.sei.cmu.edu/reports/06tn007.pdf.
+        MCT. Processo de Contratação de Serviços de Tecnologia da Informação para Organizações
+         Públicas.   Brasília:   Ministério    da    Ciência      e   Tecnologia,    2011.    Disponível em
+         http://www.mct.gov.br/upd_blob/0216/216919.pdf.
+
+Bibliografia Complementar
+        APRIL, A.; ABRAN, A. Software Maintenance Management: Evaluation and Continuous Improvement,
+         Wiley-IEEE Press, 2008.
+        FREITAS, M. Fundamentos do Gerenciamento de Serviços de TI: Preparatório para certificação ITIL
+         V3 Foundation. Rio de Janeiro, Brasport, 2010.
+        MPOG/SLTI. Guia de Boas Práticas em Contratação de Soluções de Tecnologia da Informação V 1.0.
+         Brasília: MPOG, Secretaria de Logística e Tecnologia da Informação, 2011.
+        SEBOK.        System         Engineering    Body       of     Knowledge.   Disponível       em
+         http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK).
+         Acessado em 22/11/2015.
+        SWEBOK.          Software      Engineering     Body      Of    Knowledge.   Disponível      em
+         http://www.computer.org/portal/web/swebok, último acesso em setembro/2015.
+
+
+
+
+                                                                                                            47
+TESTE DE SOFTWARE
+Ementa
+         Processo de construção: definições básicas, atividades e documentação. Processo de Teste de
+         Software: definições básicas, técnicas de teste, teste baseado em intuição e experiência do
+         engenheiro de software, atividades do processo, documentação e ferramentas.
+
+Bibliografia Básica
+        MYERS, G. J. The Art of Software Testing. Wiley. 2011.
+        COPELAND, L. A Practitioner’s Guide to Software Test Design. Artech House, 2003.
+        SYKES, D. A.; MCGREGOR, J. D. A practical guide to testing object-oriented software. Addison-
+         Wesley, 2001.
+
+Bibliografia Complementar
+        MESZAROS, G. xUnit test patterns refactoring test code. Addison-Wesley, 2007.
+        MOSLEY, D. J. Client-server software testing on the desktop and the Web. Prentice Hall, 2000.
+        GROSS, H. Component-based software testing with UML. Springer, 2005.
+        PERRY, W. E. Effective methods for software testing. 2nd ed. J. Wiley, 1999.
+        WU, M.; LI, K. Effective software test automationdeveloping an automated software testing tool.
+         SYBEX, 2004.
+
+
+
+
+TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 1
+Ementa
+         Tópicos na área de Sistemas de Informação relevantes para complementar a formação geral do
+         estudante, preferencialmente não abordados em outras disciplinas, ou tratados de forma superficial.
+
+Bibliografias Básica e Complementar
+         A bibliografia depende do tema proposto pelo professor da disciplina.
+
+
+TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 2
+Ementa
+         Aprofundar tópicos e técnicas de resolução de problemas em Sistemas de Informação (SI), ou
+         qualquer outro tema que represente o estado da arte em SI.
+
+Bibliografias Básica e Complementar
+         A bibliografia depende do tema proposto pelo professor da disciplina.
+
+
+
+
+                                                                                                          48
+VISUALIZAÇÃO DE INFORMAÇÕES
+Ementa
+         Definições, história, modelos e categorias de visualizações de informação. Semiótica e percepção
+         visual. Expressividade e efetividade de visualizações. Interação com o usuário. Exemplos de técnicas
+         de visualização de informações. Metodologias para desenvolvimento de uma visualização de
+         informação. Avaliação de visualizações. Tendências futuras na área.
+
+Bibliografia Básica
+        CARD, S. K.; MACKINLAY, J. D.; SHNEIDERMAN, B. Readings in Information Visualization: Using
+         Vision to Think, Morgan Kaufmann Series in Interactive Technologies, Academic Press, 1999.
+        SPENCE, R. Information Visualization, ACM Press, 2000.
+        WARE, C. Information Visualization: Perception for Design, 2. ed., Morgan Kaufmann Interactive
+         Technologies Series, 2004.
+
+Bibliografia Complementar
+        do NASCIMENTO, H. A. D.; FERREIRA, C. B. R. Visualização de Informações - Uma Abordagem
+         Prática. No Livro Texto da XXIV Jornada de Atualização em Informática. São Leopoldo-RS, 2005.
+        di BATTISTA, G.; EADES, P.; TAMASSIA, R.; TOLLIS, I. Graph Drawing: Algorithms for the
+         Visualization of Graphs, Prentice Hall, 1999.
+        TUFTE, E. R. Visual Explanations: Images and Quantities, Evidence and Narrative. Graphics Press,
+         1997.
+        TUFTE, E. R. Envisioning Information. Graphics Press, 1990.
+        TUFTE, E. R. The Visual Display of Quantitative Information, 2. ed., Graphics Press, 2001.
+
+
+
+
+WEB SEMÂNTICA
+Ementa
+         Fundamentos e arquitetura da Web Semântica. Linguagens e/ou padrões para especificação de
+         caracteres, localização, sintaxe, estrutura e semântica de informação. Ontologias. Framework para
+         programação de aplicações para Web Semântica.
+
+Bibliografia Básica
+        BREITMAN, K. Web Semântica: a Internet do Futuro. Editora LTC, 2005.
+        DUCHARME, B. Learning SPARQL. 1. ed., O´Reilly, 2011.
+        HEBELER, J.; DEAN, M.; FISHER, M. Semantic Web Programming. 2. ed., John Wiley & Sons, 2009.
+
+Bibliografia Complementar
+        ALLEMANG, D.; HENDLER, J. Semantic Web for the Working Ontologist - Effective Modelling in RDFS
+         and OWL. 1. ed., Morgan Kaufmann, 2008
+        BERNERS-LEE, T.; HENDLER, J.; LASSILA, O. The Semantic Web. Scientific American, 284(5), 28-
+         37, 2001.
+        BERNERS-LEE, T. Qual é o futuro da web, segundo o seu criador? Disponível em
+         computerworld.uol.com.br/mercado/2007/07/09/idgnoticia.2007-07-09.9970442373/, 2007.
+        FENSEL, D.; HENDLER, J.; LIEBERMAN, H.; WAHLSTER, W. Spinning the Semantic Web. 1. ed.,
+         The MIT Press, 2005.
+        SEGARAN, T.; EVANS, C.; TAYLOR, J. Programming the Semantic Web. 1. ed., O'Reilly Media, 2009.
+
+
+
+
+                                                                                                           49
+d) Quadro de Carga Horária
+
+     COMPONENTES CURRICULARES                 CARGA HORÁRIA   PERCENTUAL
+
+     Núcleo Comum (NC)                            1.152         38,4%
+     Núcleo Específico - Obrigatório (NEOB)       1.472         49,0%
+     Núcleo Específico - Optativo (NEOP)           128           4,3%
+     Núcleo Livre (NL)                             128           4,3%
+     Atividades Complementares (AC)                120           4,0%
+     Carga Horária Total (CHT)                    3.000         100%
+
+
+e) Sugestão de Fluxo Curricular
+
+
+
+
+                                                                           50
+                                        1º PERÍODO
+                                                             NATUREZ
+DISCIPLINA                                           CHT                   NÚCLEO
+                                                             A
+Cálculo 1A                                            96     Obrigatória   Comum
+Computação e Sociedade                                32     Obrigatória   Comum
+Introdução à Programação                             128     Obrigatória   Comum
+Fundamentos de Matemática para Computação             64     Obrigatória   Comum
+                         Carga horária do período    320
+                                        2º PERÍODO
+DISCIPLINA                                           CHT     NATUREZA      NÚCLEO
+Algoritmos e Estruturas de Dados 1                    64     Obrigatória   Comum
+Introdução aos Sistemas de Informação                 64     Obrigatória   Específico
+Lógica Matemática                                     64     Obrigatória   Comum
+Metodologia Científica                                64     Obrigatória   Específico
+Probabilidade e Estatística A                         64     Obrigatória   Comum
+                         Carga horária do período    320
+                         Carga horária acumulada     640
+                                        3º PERÍODO
+DISCIPLINA                                           CHT     NATUREZA      NÚCLEO
+Algoritmos e Estruturas de Dados 2                    64     Obrigatória   Comum
+Arquitetura de Computadores                           64     Obrigatória   Comum
+Banco de Dados                                        64     Obrigatória   Comum
+Engenharia de Sistemas de Informação 1                64     Obrigatória   Específico
+Programação Orientada a Objetos                       64     Obrigatória   Comum
+                         Carga horária do período    320
+                         Carga horária acumulada     960
+                                        4º PERÍODO
+DISCIPLINA                                           CHT     NATUREZA      NÚCLEO
+Álgebra Linear                                        64     Obrigatória   Comum
+Análise e Projeto de Algoritmos                       64     Obrigatória   Comum
+Banco de Dados 2                                      64     Obrigatória   Específico
+Engenharia de Software                                64     Obrigatória   Comum
+Sistemas Operacionais                                 64     Obrigatória   Específico
+                         Carga horária do período    320
+                         Carga horária acumulada     1.280
+
+
+
+                                                                                    51
+                                      5º PERÍODO
+DISCIPLINA                                         CHT     NATUREZA      NÚCLEO
+Engenharia de Requisitos                            64     Obrigatória   Específico
+Sistemas Inteligentes de Apoio à Decisão            64     Obrigatória   Específico
+Introdução à Administração de Empresas              64     Obrigatória   Específico
+Pesquisa Operacional                                64     Obrigatória   Específico
+Redes de Computadores                               64     Obrigatória   Específico
+                        Carga horária do período   320
+                        Carga horária acumulada    1.600
+                                      6º PERÍODO
+DISCIPLINA                                         CHT     NATUREZA      NÚCLEO
+Gestão de Sistemas e de TI                          64     Obrigatória   Específico
+Engenharia de Sistemas de Informação 2              64     Obrigatória   Específico
+Linguagens e Paradigmas de Programação              64     Obrigatória   Comum
+Projeto de Software                                 64     Obrigatória   Comum
+Sistemas Distribuídos                               64     Obrigatória   Específico
+                        Carga horária do período   320
+                        Carga horária acumulada    1.920
+                                      7º PERÍODO
+DISCIPLINA                                         CHT     NATUREZA      NÚCLEO
+Governança Corporativa e de TI                      64     Obrigatória   Específico
+Gerenciamento de Processos e Serviços em SI         64     Obrigatória   Específico
+Desenvolvimento Full stack                          64     Obrigatória   Específico
+Interação Humano-Computador                         64     Obrigatória   Comum
+Disciplina de Núcleo Livre*                         64     Obrigatória   Livre
+                        Carga horária do período   320
+                        Carga horária acumulada    2.240
+
+
+
+
+                                                                                  52
+                                                8º PERÍODO
+DISCIPLINA                                                        CHT      NATUREZA          NÚCLEO
+Gestão de Segurança da Informação                                  64      Obrigatória       Específico
+Empreendedorismo Digital                                           64      Obrigatória       Específico
+Disciplina de Núcleo Livre*                                        64      Obrigatória       Livre
+Optativa 1                                                         64      Obrigatória       Específico
+Optativa 2                                                         64      Obrigatória       Específico
+                              Carga horária do período            320
+                             Carga horária acumulada             2.560
+                                                9º PERÍODO
+DISCIPLINA                                                        CHT      NATUREZA          NÚCLEO
+Residência Técnica em Sistemas de Informação**                    320      Obrigatória       Específico
+
+                              Carga horária do período            320
+                             Carga horária acumulada             2.880
+
+*Espaço reservado para realização de duas disciplinas de Núcleo Livre, computando 128 horas exigidas no
+                                              Programa.
+
+** Em particular, a disciplina Residência Técnica em Sistemas de Informação será ministrada por mais de um
+                            professor, sendo esperado um número de cinco docentes.
+
+
+
+
+                                                                                                        53
+f) Representação Gráfica da Sugestão de Fluxo Curricular
+
+
+
+
+g) Atividades Complementares
+
+       As atividades complementares estão presentes nas estruturas curriculares dos Cursos
+de Graduação do Instituto de Informática da UFG, sendo regulamentadas em resolução
+específica do Conselho Diretor do Instituto.
+
+       A carga horária das atividades complementares é de, no mínimo, 120 (cento e vinte)
+horas para efeito de integralização curricular no curso de Bacharelado em Sistemas de
+Informação.
+
+       O cômputo da carga horária de cada atividade complementar deverá observar o
+proposto em resolução específica e seus anexos. Para fins de aproveitamento, os respectivos
+comprovantes das atividades complementares deverão ser entregues por meio de sistema
+de gestão acadêmica ou segundo orientações das coordenações de cursos de graduação do
+INF.
+
+
+
+                                                                                        54
+VII – Política e Gestão de Estágio Curricular
+O estágio curricular se constitui em um mecanismo de aperfeiçoamento dos conhecimentos
+adquiridos pelo estudante durante o curso de graduação e uma oportunidade de aplicá-los
+na prática. Contempla atividades de caráter eminentemente pedagógico, desenvolvidas no
+campo de Sistemas de Informação.
+
+      O Art. 2º da Lei nº 11.788, de 25 de setembro de 2008 define que “O estágio poderá
+ser obrigatório ou não obrigatório, conforme determinação das diretrizes curriculares da
+etapa, modalidade e área de ensino e do projeto pedagógico do curso.”.
+
+      § 1º Estágio obrigatório é aquele definido como tal no projeto do curso, cuja carga
+      horária é requisito para aprovação e obtenção de diploma.
+
+      § 2º Estágio não obrigatório é aquele desenvolvido como atividade opcional, acrescida
+      à carga horária regular e obrigatória.
+
+      Os estudantes regularmente matriculados desenvolverão o estágio não obrigatório
+desde que tenham no mínimo de 640 (seiscentos e quarenta) horas integralizadas no Curso
+de Sistemas de Informação.
+
+      Seu objetivo é proporcionar ao estudante contato com a prática profissional, permitindo
+o exercício de técnicas e de procedimentos laborais e profissionais. Visa também integrar o
+estudante à comunidade profissional e ao mercado de trabalho. Em síntese, o estágio
+objetiva:
+
+           permitir a vivência profissional no setor produtivo e na sociedade;
+           contribuir para a formação do estudante através de experiências técnico-científicas,
+            culturais e de relacionamento humano; e
+           promover a articulação entre a teoria e a prática.
+
+      Ressalta-se que o estágio pode ser realizado somente em entidades, públicas ou
+privadas, conveniadas com a UFG, diretamente ou que se utilizam de agentes de integração.
+
+      A implementação deste Programa de Estágio está em conformidade com o marco
+regulatório vigente, de acordo com o que está preconizado na Instrução Normativa nº 03/2016
+– publicada pela PROGRAD/UFG, que dispõe sobre as orientações para elaboração de
+projetos pedagógicos de curso (PPC), que está em consonância com a legislação pertinente
+(Resoluções CEPEC/UFG nº 1557R/2017, n°1538/2017, n° 1539/2017, n°1672/2020 e à Lei
+11.788 de 2008).
+
+      O caput do Art. 1º da Lei nº 11.788, de 25 de setembro de 2008, que dispõe sobre a
+definição de estágio de estudantes, determina que “Estágio é ato educativo escolar
+
+
+                                                                                             55
+supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho
+produtivo de educandos que estejam frequentando o ensino regular em instituições de
+educação superior, de educação profissional, de ensino médio, da educação especial e dos
+anos finais do ensino fundamental, na modalidade profissional da educação de jovens e
+adultos.”. Além disso, constam nos parágrafos 1 e 2 deste mesmo artigo que:
+
+     “§ 1º O estágio faz parte do projeto pedagógico do curso, além de integrar o itinerário
+     formativo do educando.
+
+     § 2º O estágio visa ao aprendizado de competências próprias da atividade profissional
+     e à contextualização curricular, objetivando o desenvolvimento do educando para a vida
+     cidadã e para o trabalho.”.
+
+     O Art. 10 da Lei nº 11.788, de 25 de setembro de 2008, institui:
+
+     “Art. 10. A jornada de atividade em estágio será definida de comum acordo entre a
+     instituição de ensino, a parte concedente e o estudante estagiário ou seu representante
+     legal, devendo constar do termo de compromisso ser compatível com as atividades
+     escolares e não ultrapassar:
+
+     I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de
+     educação especial e dos anos finais do ensino fundamental, na modalidade profissional
+     de educação de jovens e adultos;
+
+     II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino
+     superior, da educação profissional de nível médio e do ensino médio regular.”.
+
+     O estágio curricular não obrigatório, deve, então, ser realizado quando o estudante tiver
+a base teórica capaz de permitir um aproveitamento satisfatório. Não há impedimento para
+que os estudantes possam desenvolver atividades práticas nos períodos iniciais do curso,
+uma vez que o contato direto com o mercado de trabalho é sempre recomendável e
+proveitoso para os estudantes em qualquer momento do curso. Deve-se, entretanto, cuidar
+para que o estudante não seja prejudicado no seu desempenho acadêmico, e não seja
+utilizado como mera fonte de mão-de-obra no local do estágio.
+
+     Assim sendo, antes do início do estágio curricular, a entidade concedente deverá firmar
+um termo de compromisso com a UFG e com o estagiário. O seguro para os estudantes é
+compulsório à concedente, por se tratar de estágio não obrigatório.
+
+     O estágio curricular não obrigatório será orientado por professor do Instituto de
+Informática da UFG. O orientador do estágio poderá orientar seus estudantes
+individualmente, ou em grupo, por meio da realização de sessões de orientação, supervisão
+
+
+
+                                                                                           56
+e avaliação periódicas. Cada professor poderá acumular a orientação de no máximo 7 (sete)
+estagiários em cada semestre letivo.
+
+      O estágio curricular não obrigatório deverá ser orientado por um professor da unidade,
+desde o seu início, a partir da elaboração de um plano de estágio, cujo acompanhamento
+será efetuado pelo orientador por meio de contatos com o supervisor de estágio na empresa
+por meio de correio eletrônico, telefone, correspondência, ou qualquer outro meio de
+comunicação acordado entre o orientador e a empresa concedente e, caso necessário, visitas
+ao local do estágio.
+
+      O estágio curricular não obrigatório não está dispensado da existência do termo de
+compromisso entre a entidade concedente, a UFG e o estagiário, bem como do seguro de
+acidentes pessoais, compulsório à concedente. A Central de estágios da UFG cuida
+exclusivamente da documentação dos estágios não obrigatórios.
+
+      As atividades de estágio deverão ser geridas pela Coordenação de Estágios do Curso
+de Sistemas de Informação, a qual atua harmonicamente com a Coordenação do Curso e a
+Diretoria da Unidade. Caberá ainda à Coordenação de Estágios verificar se as entidades
+concedentes de estágios reúnem as condições necessárias para proporcionar a experiência
+prática, conforme institui a da Lei nº 11.788, de 25 de setembro de 2008.
+
+      A unidade acadêmica na figura do Coordenador de Estágio do Curso de Sistemas de
+Informação participa na validação do plano de atividades para emissão do termo de
+compromisso, no qual devem assinar o professor orientador, o coordenador de estágio, o
+estudante e o supervisor na empresa concedente. As atividades que o estudante vai
+desenvolver no estágio devem estar relacionadas ao objetivo geral do Curso de Sistemas de
+Informação. Essas atividades deverão ser descritas no Plano de Estágio, que deverá ser
+aprovado e acompanhado pelo coordenador de estágio, supervisor na empresa concedente
+e professor orientador do Instituto de Informática.
+
+      A Coordenação de Estágios e o corpo docente do INF devem incentivar e participar das
+atividades de estágio, em suas várias modalidades, em empresas e organizações diversas.
+É papel do corpo docente discutir e avaliar continuamente a política de estágios do curso de
+Sistemas de Informação, promovendo os aperfeiçoamentos necessários à sua execução,
+acompanhando e avaliando a sua operação.
+
+      A oferta de estágios para os estudantes do curso de Graduação em Sistemas de
+Informação deve contar com o apoio indispensável das entidades integradoras entre o
+mercado de trabalho e a UFG.
+
+
+
+
+                                                                                         57
+       Este projeto propõe uma atuação proativa da Coordenação de Estágios do Curso de
+Sistemas de Informação, no sentido de criar mais oportunidades de estágios, e melhorar a
+qualidade das oportunidades ofertadas. O estreitamento de relações com entidades
+integradoras é uma estratégia que pode trazer resultados concretos para a política de
+estágios do curso.
+
+       As normas específicas, incluindo o Regulamento de Estágio, que regularão as
+atividades de estágios não obrigatório, serão estabelecidas por resolução específica,
+aprovada pelo NDE do curso de Sistemas de Informação e homologadas pelo Conselho
+Diretor do INF.
+
+       Essas normas deverão obedecer aos princípios instituídos neste Projeto Político
+Pedagógico do Curso, bem como a legislação pertinente ao assunto. O Regulamento de
+Estágio deverá ser entregue diretamente à Coordenação Geral de Estágio da PROGRAD da
+Regional Goiânia.
+
+
+IX – Integração Ensino, Pesquisa e Extensão
+Ao executar as políticas de ensino, pesquisa e extensão (EPE) estabelecidas no Plano de
+Desenvolvimento Institucional (PDI) da UFG, o INF deve desenvolver ações que consolidem
+a articulação entre EPE que:
+
+       Fortaleçam e promovam a cooperação e a integração entre as Unidades Acadêmicas
+        colaboradoras, para assegurar a interdisciplinaridade e a implantação do PPC de BSI.
+
+       Apoiem professores e estudantes do curso de Bacharelado em Sistemas de
+        Informação a promover, participar e trabalhar em eventos socioculturais/científicos
+        relacionados à área. Dentre os diversos eventos já realizados, pode-se destacar a
+        presença de professores do INF no comitê científico do Simpósio Brasileiro de
+        Sistemas de Informação (SBSI), bem como de professores e estudantes na comissão
+        organizadora da edição do SBSI 2015 realizado em Goiânia, a participação de
+        professores e estudantes em diversas edições do SBIS, a presença de professores
+        do INF na composição da Comissão Especial de Sistemas de Informação da
+        Sociedade Brasileira de Computação, e o envolvimento de professores do INF na
+        elaboração do Currículo de Referência de Sistemas de Informação da SBC.
+
+       Incentivem   a    elaboração    de   projetos   e    a   promoção     de    eventos
+        socioculturais/científicos, que permitam uma maior integração dos estudantes de BSI
+        e outros estudantes do INF. Atualmente, isto é feito através da organização de
+        congressos e workshops, tais como a Escola Regional de Sistemas de Informação de
+
+                                                                                         58
+    Goiás (ERSI-GO), a Escola Regional de Informática de Goiás (ERI-GO), a Escola
+    Regional de Alto Desempenho do Centro-Oeste (ERAD-CO), a Jornada Goiana de
+    Engenharia de Software e a Jornada de Pesquisa do Instituto de Informática
+    (JOPINF). Um exemplo de integração entre ensino e extensão no INF é a promoção
+    da seletiva regional da fase brasileira da Maratona de Programação, parte da principal
+    competição de programação existente: o International Collegiate Programming
+    Contest da ACM. Outro exemplo é a promoção do treinamento para a Olimpíada
+    Brasileira de Informática (OBI), que tem a participação de vários estudantes do INF e
+    tem por finalidade despertar nos estudantes do ensino fundamental e médio o
+    interesse pela área de TI.
+
+   Divulguem o curso de BSI do INF e a produção científica para a comunidade, para dar
+    mais visibilidade ao curso e facilitar a integração com outras Unidades Acadêmicas
+    da UFG. Atualmente, isto é feito pelo projeto “Espaço das Profissões”, que promove
+    a visita de estudantes de escolas públicas e particulares para conhecerem os cursos
+    oferecidos na UFG. Nestas visitas, o INF organiza uma exposição geral sobre o que
+    é a área de informática/computação e temos a oportunidade de mostrar aos
+    candidatos como esses assuntos são trabalhados no curso de BSI. O INF também
+    desenvolve diversas ações, tais como a oferta de cursos, palestras e projetos que
+    promovem a transferência de tecnologia para instituições públicas e privadas,
+    governos em todos os níveis e organizações não governamentais. Dentre estas ações
+    destaca-se o projeto intitulado “Série Seminários do Instituto de Informática”, que
+    oferece oportunidades para a discussão de temas atuais e são eventos públicos.
+
+   Fortaleçam e ampliem intercâmbios que fortalecem o ensino e a pesquisa entre o INF
+    e instituições nacionais e internacionais, tais como os que existem atualmente com as
+    universidades Carneggie Mellon, COPPE-UFRJ, ICMC-USP, IME-USP, INRIA, NCE-
+    UFRJ, PUC-RIO, UFMG, UFPA, UFPR, Universidade do Minho, Universidade do
+    Porto, Universidade Nacional de Mar Del Plata, Trinity College Dublin, Virginia Tech e
+    Wisconsin.
+
+   Possibilitem a participação de estudantes de BSI em projetos de pesquisa,
+    incentivando também a colaboração e produção científica com estudantes de pós-
+    graduação e docentes por meio do Programa de Pós-Graduação do INF.
+   Incentivem a inovação tecnológica visando a integração com o setor privado, por meio
+    da inclusão dos estudantes de graduação em projetos de inovação tecnológica na
+    área de TI e por meio do auxílio a pesquisadores, através do Apoema, na elaboração
+
+
+
+                                                                                       59
+    desses      projetos   junto   a   empresas,    órgãos   não   governamentais,    órgãos
+    governamentais, universidades e institutos de pesquisa.
+
+   Promovam a integração entre ensino e pesquisa através da disciplina de Metodologia
+    Científica, que preparam os estudantes de BSI para a redação de trabalhos
+    acadêmicos, realizados ao longo do curso, bem como a escrita de trabalhos de cunho
+    científico, desenvolvidos em programas institucionais e projetos de pesquisa.
+
+   Incentivem a participação em programas institucionais, tais como o de Bolsas de
+    Iniciação    Científica   (PIBIC/CNPq),    de    Voluntários   de   Iniciação   Científica
+    (PIVIC/CNPq), de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação
+    (PIBITI/CNPq), de Voluntários de Iniciação em Desenvolvimento Tecnológico e
+    Inovação (PIVITI/CNPq), o de Bolsas de Extensão e Cultura (PROBEC) e o de
+    Voluntários de Extensão e Cultura (PROVEC).
+
+   Promovam ações de prestação de serviços em TI à sociedade de uma forma geral,
+    com a participação de estudantes de graduação em BSI orientados por docentes do
+    INF.
+       o     Uma dessas ações é o envolvimento do INF com a Assespro, na qual o INF,
+             por meio do Apoema, participa regularmente de pautas estruturantes para o
+             desenvolvimento das áreas de tecnologia da informação e de inovação
+             tecnológica. Outras ações incluem a prestação de serviços de TI com
+             participação de estudantes em projetos firmados com intermédio do Apoema,
+             da Fundação de Apoio à Pesquisa (FUNAPE) ou do Centro Tecnológico de
+             Software (CTS) do INF.
+   Incentivem a integração entre ensino, pesquisa e prática profissional através de
+    empresas juniores, tais como a Level 5.
+
+   Incentivem a participação de estudantes de BSI em atividades de monitoria que
+    reforçam a relação ensino-aprendizagem, que despertam o interesse pela docência e
+    que podem iniciar os estudantes à pesquisa e à extensão.
+
+   No sentido de integrar EPE, também há a disciplina de Residência Técnica em
+    Sistemas de Informação. Essa disciplina envolve em sua concepção o ensino, a
+    extensão e a pesquisa ao se concentrar em projetos executados em um ambiente
+    acadêmico modificante. Qualquer que seja o projeto, ele envolverá extensão e/ou
+    pesquisa, naturalmente, mesmo se passando em um cenário de aprendizado (ensino).
+
+
+
+
+                                                                                           60
+X – Sistema de Avaliação do Processo de Ensino e de
+Aprendizagem
+O sistema de avaliação dos estudantes do curso de Sistemas de Informação deve atender,
+no seu planejamento e na forma contínua de sua execução, o estipulado pelo Regulamento
+Geral de Cursos de Graduação (RGCG) da UFG, Capítulo IV, Seção I – “Da Verificação da
+Aprendizagem”.
+
+       No âmbito das disciplinas do curso, os docentes possuem autonomia para estabelecer,
+em seus planos de ensino, os mecanismos avaliativos dos discentes, levando em
+consideração:
+
+       a diversificação das modalidades e temporalidade das avaliações, ou seja, combinar
+        diferentes tipos de avaliação (provas individuais, teóricas e práticas, trabalhos em
+        grupo ou individuais, apresentações de seminários, grupos de discussão, pesquisas
+        e projetos) em diferentes momentos da disciplina, em função de sua modalidade
+        (disciplina teórica, prática, teórico e prática, etc.);
+       a exploração da criatividade e da capacidade de análise crítica do discente no
+        processo de abstração e absorção dos conteúdos.
+
+
+XI – Sistema de Avaliação do Projeto de Curso
+Conforme disposto no PPC anterior do Bacharelado em Sistemas de Informação e em
+consonância com o Regimento Geral da UFG CONSUNI/CEPEC/Conselho de Curadores nº
+01/2015, a avaliação do curso de BSI é feita de forma periódica e sistemática pela Comissão
+de Graduação do INF (composta pelo vice-diretor e coordenadores dos cursos da unidade) e
+pelo NDE do curso de BSI.
+
+       Durante a semana de Planejamento Pedagógico, que ocorre antes de cada semestre
+letivo, os docentes que ministram disciplinas no curso de BSI também discutem problemas
+percebidos no curso e suas possíveis soluções. Ademais pelos docentes, são considerados
+os conteúdos cobrados pelo ENADE, pelo POSCOMP (Exame Nacional para Ingresso na
+Pós-Graduação em Computação) e pelas DCN da área de Computação.
+
+
+XII – Política de Qualificação Docente                                  e    Técnico-
+administrativo da Unidade Acadêmica
+Desde a sua criação, o Instituto de Informática apoia a capacitação do seu corpo docente, a
+qual inclui a meta de que todos os docentes tenham a titulação mínima de doutor. De fato, a
+liberação de docentes para prosseguirem os seus estudos de pós-graduação é uma prática
+
+
+                                                                                           61
+comum, em consequência, nenhum pedido para afastamento com o propósito de realizar o
+doutorado foi negado até o momento.
+
+       Essa política é acrescentada de regras institucionalizadas para a concessão de
+afastamento para o pós-doutorado e de licença para capacitação.
+
+       A qualificação de docentes do INF também pode ser obtida pela sua participação em
+congressos, simpósios, dentre outros eventos, quer seja nos papéis de autor de artigo,
+organizador de evento, membro de comitê de programa ou avaliador de artigo. O Instituto de
+Informática ainda financia ou co-financia viagens e inscrições de seus docentes em
+congressos e simpósios importantes, principalmente quando há publicação de artigo.
+
+      Em harmonia com a política de capacitação docente, o INF é favorável ao
+aprimoramento e à capacitação de seu corpo técnico-administrativo em Educação (TAE).
+Normalmente, os TAEs fazem solicitação ao diretor do INF que lança as intenções de
+afastamento no plano anual de capacitação, que deve ser aprovado no Conselho Diretor do
+INF, haja vista que é do seu interesse fomentar a especialização e capacitação dos seus
+profissionais. É frequente a liberação das atividades de TAE para que possam participar de
+treinamentos, tanto em cursos esporádicos quanto em programas de pós-graduação. Em
+tempo, as ações de extensão do INF reservam vagas exclusivas para participação de TAEs,
+sem necessidade de pagamento (quando é o caso).
+
+      Do ponto de vista legal, o INF se apoia na Resolução CEPEC N° 1286 de 2014, que
+regulamenta o afastamento de docentes para cursar Mestrado, Doutorado e estágios Pós-
+Doutorais, e na Resolução CONSUNI N° 002 de 2014, que regulamenta o Programa de
+Capacitação e o Plano Anual de Capacitação dos TAEs.
+
+       Em consonância com a Resolução CEPEC N° 1286 de 2014, o INF instrui o
+afastamento de docentes com a Resolução CD/INF N° 01 de 2014, que dá suporte ao
+planejamento administrativo e incentiva a participação de seus docentes, em cursos de
+doutorado, pós-doutorado e capacitação, no País e no exterior, de acordo com a sua política
+de pessoal para o ensino, a pesquisa, a extensão e a administração.
+
+       Por fim, cabe ao NDE monitorar o PPC e, consequentemente, promover ações que
+promovam a qualidade dos serviços oferecidos tanto por docentes quanto por TAEs.
+
+
+XIII – Requisitos Legais e Normativos
+O curso de Bacharelado em Sistemas de Informação contempla um conjunto de requisitos
+legais e normativos, a saber:
+
+
+
+
+                                                                                             62
+a) Condições de Acesso para Pessoas com Deficiência e/ou Mobilidade
+Reduzida
+
+A Universidade Federal de Goiás (UFG) apresenta condições de acesso para pessoas com
+deficiência e/ou mobilidade reduzida, sendo fundamentado decreto Nº 5.296, de 02 de
+dezembro de 2004, que regulamenta as leis N° 10.048, de 8 de novembro de 2000, que dá
+prioridade de atendimento às pessoas que especifica, e N° 10.098, de 19 de dezembro de
+2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade
+das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências.
+
+b) Diretrizes Curriculares Nacionais do Curso
+
+O presente PPC está coerente com as Diretrizes Curriculares Nacionais, sendo
+fundamentado na Lei Nº 9.394/96 de diretrizes e bases da educação nacional e na Resolução
+CNE/CES nº 05, de 16 de Novembro de 2016 que institui a DCN para os cursos de
+computação.
+
+c) Diretrizes Nacionais para a Educação em Direitos Humanos
+
+Este PPC contempla as Diretrizes Nacionais para a Educação em Direitos Humanos, através
+das disciplinas Computação e Sociedade (1º período) e Interação Humano-Computador (7º
+Período) por meio de conteúdos expositivos, textos, discussões, debates e outras atividades
+curriculares do curso, sendo fundamentado no parecer CNE/CP Nº 8, de 06 de março de
+2012, que originou a resolução CNE/CP Nº 1, de 30 de maio de 2012, que estabelece
+Diretrizes Nacionais para a Educação em Direitos Humanos.
+
+d) Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura
+Afro-Brasileira e Africana
+
+A Resolução Nº 1, de 17 de junho de 2004, trata das Diretrizes Curriculares Nacionais para
+a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira
+e Africana.
+
+     O objetivo é claro: “combater o racismo e as discriminações que atingem
+particularmente os negros. Nessa perspectiva, propõe a divulgação e produção de
+conhecimentos, a formação de atitudes, posturas e valores que eduquem cidadãos
+orgulhosos de seu pertencimento étnico-racial, descendentes de africanos, povos indígenas,
+descendentes de europeus, de asiáticos.”
+
+     Tal objetivo pressupõe a “adoção de políticas educacionais e de estratégias
+pedagógicas de valorização da diversidade”, conforme consta na Resolução, assim como os
+princípios a serem observados para atendê-la: (a) consciência política e histórica da
+
+
+
+                                                                                         63
+diversidade; (b) fortalecimento de identidades e de direitos e (c) ações educativas de combate
+ao racismo e a discriminações.
+
+       O Art. 7º da Resolução ainda destaca: “as instituições de ensino superior, respeitada a
+autonomia que lhe é devida, incluirão nos conteúdos de disciplinas e atividades curriculares
+dos diferentes cursos que ministram, a Educação das Relações Étnico-Raciais, bem como o
+tratamento de questões e temáticas que dizem respeito aos afrodescendentes.”
+
+       Tendo em vista o requisito legal estabelecido pela Resolução, duas linhas de atuação
+são adotadas pelo Bacharelado em Sistemas de Informação: a inserção de conteúdo
+pertinente em duas disciplinas curriculares obrigatórias e o Programa Institucional de
+extensão do Instituto de Informática, ambas comentadas a seguir. Além disso, a
+conscientização dos estudantes para esse assunto é proporcionada pela oferta de projetos
+das atividades de Prática como Componente Curricular, propostos por professores do curso,
+que atuam com a temática Mulheres na Computação e ações envolvendo a alfabetização e
+letramento digital.
+
+Disciplinas de Graduação Obrigatórias
+As disciplinas Computação e Sociedade (1° período) e Interação Humano-Computador (7°
+período) incluem, em seus ementários, tópicos pertinentes às exigências da Resolução. Em
+particular, remetem para o conhecimento de questões pertinentes ao continente africano e
+para o conhecimento e o respeito à diversidade.
+
+Programa Institucional de Extensão
+O Programa Institucional de extensão do Instituto de Informática será realizado por meio de
+ações, boa parte com ênfase na socialização de conhecimento sobre questões pertinentes à
+formação dos brasileiros, o que invariavelmente inclui os negros e os indígenas. Esse
+conhecimento é indispensável para a promoção da diversidade, do respeito às diferenças e
+da igualdade independente das crenças, do sexo, da idade, da cor e da condição social.
+
+       O Instituto de Informática, por meio desse programa de extensão, dedicado
+exclusivamente às relações étnico-raciais e ao meio ambiente, oferece atuação contínua
+sobre esses tópicos, durante toda a permanência dos seus estudantes nessa unidade, sejam
+de graduação ou pós-graduação.
+
+       Especificamente sobre questões de cunho étnico-racial, sem a intenção de ser uma
+apresentação exaustiva, nem restritiva, são identificadas algumas ações possíveis:
+
+       ações afirmativas por meio de cursos de extensão;
+       ações para promoção da diversidade;
+       palestras sobre a construção de uma sociedade justa;
+
+
+
+                                                                                           64
+        palestras sobre a diversidade da formação dos brasileiros;
+        palestras sobre a história afro-brasileira, sobre a história africana;
+        palestras sobre os povos indígenas;
+        apresentações artísticas que valorizem a cultura africana e indígena.
+
+e) Informações Acadêmicas
+
+Todas as informações acadêmicas do curso de Bacharelado em Sistemas de Informação são
+disponibilizadas tanto de forma virtual, por meio do sítio do curso, quanto de forma impressa,
+na secretaria do curso, conforme determinado na Portaria Normativa n° 40 de 12 de dezembro
+de 2007, alterada pela Portaria Normativa MEC N° 23 de 01 de dezembro de 2010, publicada
+em 29 de dezembro de 2010.
+
+f) Libras
+
+O Decreto 5.626/2005 regulamenta a Lei 10.436, de 24 de abril de 2002, e o artigo 18 da Lei
+10.098, de 19 de dezembro de 2000. Segundo esse Decreto, a disciplina curricular Libras é
+obrigatória para vários cursos, dentre eles, as licenciaturas e os cursos de Fonoaudiologia. O
+Decreto também estabelece que, nos demais cursos, a disciplina curricular Libras seja
+optativa, conforme o Capítulo II, § 2º: “a Libras constituir-se-á em disciplina curricular optativa
+nos demais cursos de educação superior”.
+
+       Em atenção a tal requisito legal, o Bacharelado em Sistemas de Informação inclui a
+disciplina Introdução à Língua Brasileira de Sinais - LIBRAS como optativa, no 9° período do
+curso.
+
+g) Núcleo Docente Estruturante
+
+As atribuições do Núcleo Docente Estruturante (NDE) do curso de Bacharelado em Sistemas
+de Informação estão preconizadas institucionalmente na Resolução CEPEC Nº 1302 (UFG,
+2014).
+
+h) Política de Educação Ambiental
+
+A Lei 9.795, de 27 de abril de 1999, institui a Política Nacional de Educação Ambiental, que
+é regulamentada pelo Decreto 4.281, de 25 de junho de 2002. Conforme essa Lei, Seção II,
+Art. 10, “a educação ambiental será desenvolvida como uma prática educativa integrada,
+contínua e permanente em todos os níveis e modalidades do ensino formal.” Adicionalmente,
+lê-se na Seção II, Art. 10, § 1º: “a educação ambiental não deve ser implantada como
+disciplina específica no currículo de ensino”.
+
+
+
+
+                                                                                                65
+      O Bacharelado em Sistemas de Informação trata a Educação Ambiental por duas linhas
+contínuas de atuação: uma delas baseada no planejamento das disciplinas e outra em
+programa institucional do Instituto de Informática, ambas comentadas abaixo. Além disso, a
+conscientização dos estudantes para esse assunto é proporcionada pela oferta de projetos
+das atividades de Prática como Componente Curricular, propostos por professores do curso,
+que atuam com a temática TI verde e ações envolvendo a aplicação tecnológica para fins de
+racionalização no uso de recursos naturais.
+
+Planejamento das Disciplinas
+O planejamento de cada turma deve se inspirar em possíveis estratégias de inserção de
+questões ambientais. Por exemplo, adoção de material em formato digital em vez de formato
+impresso.
+
+      A apresentação do conteúdo de cada disciplina também pode se beneficiar do volume
+significativo de dados sobre o meio ambiente. Por exemplo, área desmatada ao longo do
+tempo; áreas de preservação; consumo de energia; emissão de CO2; qualidade do ar;
+consumo de materiais poluentes e geração de lixo eletrônico. Tais artefatos de informação
+podem ser empregados para ilustrar o funcionamento de algoritmos e visualização de
+informações, dentre outras possibilidades.
+
+      Convém destacar que esses exemplos devem ser vistos como elementos de inspiração,
+a serem renovados continuamente.
+
+Disciplinas de Graduação Obrigatórias
+As disciplinas Computação e Sociedade, Sistemas Distribuídos, Governança Corporativa e
+de TI e Interação Humano-Computador (previstas para os períodos 1°, 6°, 7° e 8°,
+respectivamente) incluem, em seus ementários, tópicos pertinentes às exigências da
+Resolução. Em particular, remetem para o conhecimento de questões relativas à educação e
+conscientização da preservação ambiental.
+
+Programa Institucional de Extensão
+A UFG possui um Plano de Logística Sustentável (PLS), que estabelece práticas de
+sustentabilidade e racionalização de gastos e processos na administração pública, disponível
+em https://sustentabilidade.prodirh.ufg.br/.
+
+      Esse plano é internalizado no Instituto de Informática por um Programa Institucional de
+Extensão, descrito adiante.
+
+      O PLS une o cotidiano da prática acadêmica com atitudes “sustentáveis” por meio de
+recomendações simples, como a impressão em ambos os lados de uma folha e a redução do
+uso de copos descartáveis, dentre muitas outras.
+
+
+
+                                                                                          66
+       O Programa Institucional reúne ações que contemplam as orientações do PLS. O
+objetivo é colocar em prática essas orientações. Por exemplo, enquanto o PLS sugere a
+coleta seletiva, esse programa cria um repositório para coleta de pilhas e baterias já
+utilizadas, além de assegurar que aquele material coletado será descartado de forma correta.
+
+       O Programa Institucional possui objetivos e ações que incluem a educação ambiental.
+As opções de ações variam. Dentre elas, uma é constante: avaliação dos resultados. Dentre
+as demais:
+
+       cursos de extensão cuja inscrição seja lixo eletrônico;
+       elaboração de material de conscientização sobre consumo parcimonioso de água e
+        energia;
+       palestras e cursos sobre TI Verde (green computing);
+       pesquisa sobre consumo de energia por datacenters;
+       divulgação e destaque de informações sobre o meio ambiente;
+       monitoramento e divulgação de informações ambientes sobre Goiás;
+       divulgação de softwares que promovem o meio ambiente, por exemplo, evitam
+        deslocamentos, evitam consumo de energia.
+
+i) Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista
+
+A proteção dos direitos da pessoa com transtorno do espectro autista é fundamentada na Lei
+nº 12.764 de 27 de dezembro de 2012, que institui a política nacional de proteção dos direitos
+da pessoa com transtorno do espectro autista, e altera o § 3o do art. 98 da Lei no 8.112, de
+11 de dezembro de 1990.
+
+        Esse requisito legal é atendido por meio da disciplina obrigatória Interação Humano-
+Computador (7° período), que inclui em seu ementário tópicos pertinentes ao tratamento de
+características humanísticas e biológicas na construção de interfaces de usuário.
+
+j) Titulação do Corpo Docente
+
+O corpo docente atuante no curso de Bacharelado em Sistemas de Informação é formado
+apenas por doutores e mestres, estando assim em conformidade ao que determina o artigo
+66 da Lei N° 9.394, de Diretrizes e Bases da Educação Nacional, de 20 de dezembro de 1996.
+
+
+XIV – Matriz de Equivalência
+A matriz de equivalência curricular do curso de sistemas de informação contempla as
+disciplinas ajustadas ou suprimidas do PPC aprovado em 2017-1 e que serão passíveis de
+aproveitamento neste mesmo PPC, atualizado em 2020-1.
+
+
+                                                                                           67
+                                                                                 APROVEITA COMO –
+    DISCIPLINA DO PPC DE 2017-1         CH NATUREZA CÓDIGO                                                              CH   NATUREZA
+                                                                         PPC DE 2017-1 (ATUALIZADO EM 2020-1)
+Metodologia Científica 1                64    NE–OBR      INF0307 Metodologia Científica                                64    NE–OBR
+
+Engenharia de Sistemas de Informação    64    NE–OBR      INF0308 Engenharia de Sistemas de Informação 1                64    NE–OBR
+Inteligência de Negócios 1              64    NE–OBR      INF0312 Sistemas Inteligentes de Apoio à Decisão              64    NE–OBR
+Gestão de TI                            64    NE–OBR      INF0315 Gestão de Sistemas e de TI                            64    NE–OBR
+Estratégia de TI em Ação                64    NE–OBR      INF0318                           *                           64    NE–OBR
+Gerenciamento de Serviços de TI         64    NE–OBR      INF0319 Gerenciamento de Processos e Serviços em SI           64    NE–OBR
+Segurança e Auditoria de Sistemas       64    NE–OBR      INF0321 Gestão de Segurança da Informação                     64    NE - OBR
+Desenvolvimento de Sistemas para Web    64    NE–OBR      INF0322 Desenvolvimento Full stack                            64    NE – OBR
+Gerenciamento de Projetos               64    NE–OBR      INF0323 Engenharia de Sistemas de Informação 2                64    NE – OBR
+Governança de TI                        64    NE–OBR      INF0324 Governança Corporativa e de TI                        64    NE–OBR
+Metodologia Científica 2                64    NE–OBR      INF0325                           *                           64    NE–OBR
+Qualidade de Software                   64    NE–OBR      INF0180                           *                           64    NE–OBR
+Comportamento Organizacional            64    NE–OBR     FAC0308                            *                           64    NE–OBR
+Computação Móvel e Ubíqua               64    NE–OBR      INF0328                           *                           64    NE–OBR
+Gestão de Processos de Negócio          64    NE–OBR      INF0320 Gerenciamento de Processos e Serviços em SI           64    NE – OBR
+
+* Poderá ser aproveitada como Optativa 1: Tópicos Avançados em Sistemas de Informação 1, Tópicos Avançados em Sistemas de Informação 2 ou
+Aplicações de Sistemas de Informação
+* Poderá ser aproveitada como Optativa 2: Tópicos Avançados em Sistemas de Informação 1, Tópicos Avançados em Sistemas de Informação 2 ou
+Aplicações de Sistemas de Informação
+* Poderá ser aproveitada como disciplina de Núcleo Livre.
+
+
+
+
+                                                                                                                                            68
+XV - Considerações Finais
+O Projeto Pedagógico de Curso apresentado foi, em sua essência, fruto da necessidade do
+Instituto de Informática em adequar-se:
+      às sugestões feitas pela comissão do MEC encarregada do processo de avaliação do
+       curso de Bacharelado em Sistemas de Informação em 2014;
+      às Diretrizes Curriculares Nacionais para os Cursos da Área de Computação, que
+       consta na Resolução CNE/CES nº 05, de 16 de Novembro de 2016;
+      aos Currículos de Referência para o curso de SI da Sociedade Brasileira de
+       Computação (SBC) e da Association for Computing Machinery (ACM); e
+      ao novo Regulamento Geral dos Cursos de Graduação da UFG, Resolução CEPEC
+       Nº 1122/2012.
+
+Este Projeto Pedagógico atende a estas necessidades e que irá nortear os corpos docente,
+discente e técnico-administrativo em Educação a alcançarem um objetivo comum do Instituto
+de Informática: oferecer ensino de graduação com qualidade.
+
+Como proposta de trabalho, o Projeto Pedagógico precisa ser periodicamente avaliado
+quanto à sua execução, objetivos e metas, devendo ser reorientado, se necessário. Este
+projeto reflete um momento, e, portanto, não é um documento estático, devendo permitir
+revisões e aperfeiçoamentos, delimitados pela realidade do ambiente no qual se insere.
+
+A comunidade atuante no Curso de Bacharelado em Sistemas de Informação da UFG está
+consciente de sua responsabilidade, sabendo que o Projeto Pedagógico é um compromisso
+assumido por todos os interessados, consensualmente adotado como instrumento norteador
+das ações relativas ao ensino desta graduação.
+
+
+
+
+                                                                                         69
+XVI – Referências
+ACM. Association for Computing Machinery and Association for Information Systems. Joint IS
+     2010 Curriculum Task Force 2010. Curriculum Guidelines for Undergraduate Degree
+     Programs in Information Systems. Disponível on-line em
+https://www.acm.org/education/curricula/IS%202010%20ACM%20final.pdf. Último acesso
+     em 21/07/2016.
+
+BRASIL. Governo Federal. Lei de Diretrizes e Bases da Educação Nacional. Lei n. 9.394, de
+     20 de dezembro de 1996. Brasília: 1996.
+
+______. Governo Federal. Língua Brasileira de Sinais - Libras. Decreto n. 5.625, de 22 de
+     dezembro de 2005. Brasília: 2005.
+
+______. Governo Federal. Política Nacional de Educação Ambiental. Decreto n. 4.281, de 25
+     de junho de 2002. Brasília: 2002.
+
+______. Governo Federal. Política Nacional e Educação Ambiental. Lei n. 9.795, de 28 de
+     abril de 1999. Brasília: 1999.
+
+______. Governo Federal. Política Nacional de Proteção dos Direitos da Pessoa com
+     Transtorno do Espectro Autista. Lei n. 12.764, de 27 de dezembro de 2012. Brasília:
+     2012.
+
+______. Ministério da Educação. Carga Horária Mínima e Procedimentos Relativos à
+     Integralização e Duração dos Cursos de Graduação, Bacharelados, na Modalidade
+     Presencial. Resolução n. 2, de 18 de junho de 2007. Brasília: 2007.
+
+______. Ministério da Educação. Diretrizes Curriculares Nacionais para a Educação
+     Ambiental. Resolução n. 2, de 15 de junho de 2012. Brasília: 2012.
+
+______. Ministério da Educação. Diretrizes Curriculares Nacionais para a Educação Básica.
+     Resolução n. 4, de 13 de julho de 2010. Brasília: 2010.
+
+______. Ministério da Educação. Diretrizes Curriculares Nacionais para a Educação das
+     Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana.
+     Parecer CNE/CP 3/2004, homologação publicada no DOU 19/05/2004, Seção 1, p. 19.
+     Resolução CNE/CP 1/2004, publicada no DOU 22/06/2004, Seção 1, p. 11.
+
+______. Ministério da Educação. Diretrizes Curriculares Nacionais para a Educação em
+     Direitos Humanos. Resolução n. 1, de 30 de maio de 2012. Brasília: 2012.
+
+______. Resolução CNE/CES nº 5, de 16 de novembro de 2016 - Institui as Diretrizes
+     Curriculares Nacionais para os cursos de graduação na área da Computação,
+     abrangendo os cursos de bacharelado em Ciência da Computação, em Sistemas de
+
+                                                                                           70
+     Informação, em Engenharia de Computação, em Engenharia de Software e de
+     licenciatura em Computação, e dá outras providências.
+
+______. Ministério da Educação. Núcleo Docente Estruturante. Resolução CONAES n. 1, de
+     17 de junho de 2010. Brasília: 2010.
+
+______. Ministério da Educação. Procedimentos a serem adotados quanto ao Conceito de
+     Hora-aula. Resolução n. 3, de 2 de julho de 2007. Brasília: 2007.
+
+CNE. Conselho Nacional de Educação/Câmara de Educação Superior. Resolução CNE/CES
+     07/2018, 2018.
+
+UFG. Regulamento Geral dos Cursos de Graduação (RGCG) da Universidade Federal de
+     Goiás. Resolução CEPEC Nº 1557R, de 1º de dezembro de 2017. Goiânia: 2017.
+
+______. Núcleo Docente Estruturante (NDE) dos cursos de graduação da Universidade
+     Federal de Goiás. Resolução CEPEC Nº 1302, 11 de julho de 2014. Goiânia: 2014.
+
+______. Estágios curriculares obrigatórios e não obrigatórios dos cursos de bacharelado da
+     Universidade Federal de Goiás. Resolução CEPEC Nº 1672, 29 de maio de 2020.
+     Goiânia: 2020.
+
+
+
+
+                                                                                       71
+

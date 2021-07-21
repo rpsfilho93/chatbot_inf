@@ -1,0 +1,989 @@
+REGULAMENTO GERAL DE ESTÁGIO CURRICULAR DO
+CURSO DE LICENCIATURA EM ARTES VISUAIS - EaD
+                   Universidade Federal de Goiás
+                    Faculdade de Artes Visuais
+
+
+
+
+      ORIENTAÇÕES E NORMAS SOBRE O ESTÁGIO CURRICULAR
+PARA ESTUDANTES DO CURSO DE LICENCIATURA EM ARTES VISUAIS-EaD
+
+
+
+
+                               2013
+
+
+
+
+               PRÓ-REITORIA DE GRADUAÇÃO
+               Prédio da Reitoria - Campus Samambaia
+           Caixa Postal 131 CEP: 74001-970 - Goiânia-GO
+             Fone: (62) 3521-1070 Fax: (62) 3521-1162
+                   E-mail: prograd@prograd.ufg.br
+               Site da PROGRAD: www.prograd.ufg.br
+                       Site da UFG: www.ufg.br
+UNIVERSIDADE FEDERAL DE GOIÁS
+
+                 Reitor
+     Prof. Edward Madureira Brasil
+                Vice-Reitor
+Prof. Eriberto Francisco Beviláqua Marin
+        Pró-Reitora de Graduação
+   Prof.ª Sandramara Matias Chaves
+      Coordenação de Estágio UFG
+        Prof.ª Marilda Shuvartz
+  Diretor da Faculdade de Artes Visuais
+ Prof. Raimundo Martins da Silva Filho
+         Coordenador do Curso
+    Prof.ª Noeli Batista dos Santos
+        Coordenador de Estágio
+       Prof.ª Rogéria Eller Silva
+Sumário
+APRESENTAÇÃO............................................................................................05
+INTRODUÇÃO.................................................................................................07
+1. BASES EPISTEMOLÓGICAS....................................................................10
+1.1 Objetivos................................................................................................10
+2. ESTÁGIO CURRICULAR OBRIGATÓRIO...................................................11
+2.1 Estágio para quem já tem experiência docente......................................11
+2.2 Estrutura de supervisão do estágio curricular obrigatório -
+    acompanhamento e supervisão..............................................................14
+3. ESPECIFICIDADES DO TRABALHO EAD..................................................15
+3.1 Atores diretamente envolvidos...............................................................17
+3.2 Dos locais de estágio curricular obrigatório - EAD..................................18
+3.3 Estabelecimento de parcerias.................................................................20
+3.4 Estágio Curricular Obrigatório – Espaços Não Formais...........................20
+3.5 Da Intervenção/interação pedagógica....................................................21
+3.6 No plano de mediação pedagógica deverão constar..............................21
+3.7 Da avaliação...........................................................................................22
+3.8 Da socialização dos resultados...............................................................23
+3.9 Da concomitância do Estágio Curricular com o
+    Trabalho de Conclusão de Curso – TCC..................................................23
+4. ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO...........................................24
+5. INSTRUMENTOS LEGAIS PARA A REALIZAÇÃO DO ESTÁGIO
+    CURRICULAR..........................................................................................26
+6. CONVÊNIOS............................................................................................27
+7. ESTRUTURA FÍSICA DA FACULDADE DE ARTES VISUAIS PARA
+    COORDENAÇÃO DE ESTÁGIOS...............................................................27
+8. RELATÓRIOS DE ESTÁGIO......................................................................27
+9. PROCEDIMENTOS METODODÓGICOS.....................................................28
+10. RESULTADOS ESPERADOS.....................................................................29
+11. CERTIFICADOS ......................................................................................29
+Regulamento de Estágio                                                             5
+
+
+Apresentação
+          Prezados Professores e Acadêmicos
+
+        Com o objetivo de consolidar a política de estágio da Universidade
+Federal de Goiás, a Pró-Reitoria de Graduação, por meio da Coordenação de
+Estágios, realizou reuniões com os coordenadores de estágios dos diferentes
+cursos de graduação e decidiu sistematizar um documento contendo as normas
+e orientações para e realização dos estágios curriculares obrigatórios e não
+obrigatórios.
+        A UFG compreende o estágio curricular obrigatório como uma atividade
+privilegiada de diálogo crítico com a realidade que favorece a articulação
+do ensino com pesquisa e extensão, configurando um espaço formativo do
+estudante, definido no Projeto Político Pedagógico de cada curso.
+        Por sua vez, o estágio curricular não obrigatório é realizado pelo estudante
+como intuito de ampliar a formação profissional por meio de vivências, de
+experiências próprias da situação profissional, sem previsão expressa no
+Projeto Político Pedagógico.
+        O estágio é um componente curricular de caráter teórico-prático que
+tem por objetivo principal proporcionar ao estudante a aproximação com
+a realidade profissional, com vistas ao aperfeiçoamento técnico, cultural,
+científico e pedagógico de sua formação acadêmica, no sentido de prepará-lo
+para o exercício da profissão e da cidadania.
+        Por se tratar de uma atividade fundamental para a formação, o
+estágio é desenvolvido sob a orientação de um professor do curso, com o
+acompanhamento do coordenador de estágios e a colaboração de profissionais
+qualificados no campo de atuação de cada área de conhecimento.
+        Estamos colocando em suas mãos o Caderno de regulamento de estágios
+que disponibiliza a legislação básica e as orientações pertinentes, visando ao
+desenvolvimento dessa atividade formativa.
+
+          Atenciosamente,
+
+                          Profª Sandramara Matias Chaves
+              Pró-Reitora de Graduação da Universidade Federal de Goiás
+6   Regulamento de Estágio
+Regulamento de Estágio                                                          7
+
+INTRODUÇÃO
+
+
+        Para a UFG, “o estágio é um componente curricular de caráter teórico-
+prático que tem como objetivo principal proporcionar aos alunos a aproximação
+com a realidade profissional, com vistas ao aperfeiçoamento técnico, cultural,
+científico e pedagógico de sua formação acadêmica, no sentido de prepará-
+lo para o exercício da profissão e cidadania.” No caso específico dos cursos
+de Licenciatura em Artes Visuais, podemos acrescentar ainda a formação
+artística, estética, cultural e pedagógica para o exercício da profissão docente
+nesta área.
+        Este documento tem por objetivo apresentar orientações de caráter
+epistemológico, metodológico, e normas para a realização do Estágio Curricular
+Obrigatório e para o Estágio Curricular Não-Obrigatório no curso de Licenciatura
+em Artes Visuais na modalidade a distância ofertado pela UFG em parceria com
+o projeto do MEC Universidade Aberta do Brasil-UAB.
+        A Resolução CEPEC no. 837 fixa o currículo pleno do Curso de Licenciatura
+em Artes Visuais – na Modalidade de Ensino a Distância – EAD - Programa
+Universidade Aberta do Brasil (UAB), para os alunos ingressos a partir de 2007
+tendo em vista o que consta do processo n° 23070.007485/2007-19.
+        As orientações para o estágio nos cursos de Licenciatura em Artes
+Visuais a distância da UAB/UFG fazem parte do Projeto Político Pedagógico do
+curso e procuram promover a aproximação do aluno com a realidade do campo
+de trabalho, reconhecendo a indissolução entre a teoria e a prática deste ensino.
+A forma de estruturação do estágio curricular obrigatório favorece o confronto
+com a diversidade das práticas culturais, com as dificuldades históricas do
+campo, com os desafios institucionais, fazendo do estágio um laboratório de
+descoberta de possibilidades de superação e avanços metodológicos.
+        A concepção e estruturação de estágio descrito nas Diretrizes
+Curriculares Nacionais do Curso de Graduação em Artes Visuais Parecer
+CNE/CES nº 280/2007 refletem as mudanças pelas quais a Faculdade de
+Artes Visuais tem percorrido na busca de formação de profissionais para o
+ensino de artes visuais. Em 2000 a FAV promoveu uma mudança curricular
+abandonando o curso de Licenciatura Plena em Educação Artística que formava
+o professor polivalente e implementou a Licenciatura em Artes Visuais, que
+privilegia a formação específica na área. De lá para cá nossa Licenciatura tem
+se modificado, sendo um dos currículos mais atualizados do país que dialoga
+com as concepções da cultura visual. Nessa postura aberta a desafios, a FAV
+8                                                               Regulamento de Estágio
+
+aceitou o desafio do governo federal da Política Nacional de Formação de
+Professores para ampliar a formação de professores em artes visuais por meio
+da oferta de cursos na modalidade a distância. Em 2007 foi feito o primeiro
+processo seletivo para o curso de Licenciatura em Artes Visuais com 450
+vagas distribuídas em nove polos do Estado de Goiás.
+        Com a EAD buscamos os processos interdisciplinares e multiculturais
+críticos do ensino de artes visuais investindo na formação de profissionais mais
+críticos e mais reflexivos sobre sua própria condição docente. Pensar o estágio
+como parte do processo formativo das Licenciaturas contribui para consolidar
+as políticas e ações de valorização do magistério e da escola.
+        Considerando esse contexto do atual momento este documento foi
+elaborado com vistas a normatizar o estágio supervisionado da Licenciatura
+de Curso de Artes Visuais na Modalidade a Distância do projeto Universidade
+Aberta do Brasil ofertado pela FAV-UFG. A preocupação do documento é compor
+o conteúdo, fixando as orientações básicas. Vários foram os documentos que
+serviram de guia para a sua elaboração:
+        A Resolução CEPEC no. 631 que define a Política de Estágio para a
+formação de professores na Universidade Federal de Goiás, na forma no § 1º
+apresentam como princípios desta política:
+          I. uma organização curricular que possibilite a apreensão do contexto
+          educacional e a atuação profissional na gestão, planejamento e
+          avaliação do processo educativo;
+          II. o desenvolvimento pleno do educando, a formação cultural e ética
+          para o exercício da cidadania, a inserção crítica na profissão e a
+          qualificação para o trabalho;
+
+      A Lei federal sancionada em 07.12. 1977 e publicada em 09.12.1977,
+conhecida como “Lei dos Estágios”; regulamentada pelo Decreto no. 87.497 de
+18.08.1982 estabelece que nos estágio seja fomentado:
+        III. o desenvolvimento da autonomia intelectual e profissional que
+        possibilite criticar, inovar, bem como lidar com a diversidade;
+        IV. a pesquisa como uma dimensão da formação e do trabalho docente;
+        V. formação inicial articulada com a formação contínua.
+
+       No § 2º desse mesmo Regulamento encontramos a compreensão do
+Estágio Curricular como uma atividade privilegiada de diálogo crítico com a
+Regulamento de Estágio                                                          9
+
+realidade que favorece a articulação ensino-pesquisa-extensão, configurando:
+         I. um espaço formativo e de sensibilização dos estudantes para o
+         atendimento das necessidades sociais, que preserve os valores éticos
+         que devem orientar a prática profissional;
+         II. um momento de maior aproximação e compreensão da realidade
+         profissional à luz dos aportes teóricos estudados, que favoreça a
+         reflexão sobre a realidade e a aquisição da autonomia intelectual e o
+         desenvolvimento de habilidades conexas à profissão docente;
+         III. um componente curricular, de caráter teórico-prático, cuja
+         especificidade proporcione o contato efetivo do aluno com o campo
+         de estágio, acompanhado pela instituição formadora;
+         IV. um componente do projeto político pedagógico do curso que
+         considere seus objetivos, metodologia, acompanhamento e avaliação.
+
+        A Lei Nº 11.788, DE 25 de setembro de 2008 no seu Art.1o define estágio
+como “ato educativo escolar supervisionado”, desenvolvido no ambiente de
+trabalho, que visa à preparação para o trabalho produtivo de educandos que
+estejam frequentando o ensino regular em instituições de educação superior,
+de educação profissional, de ensino médio, da educação especial e dos anos
+finais do ensino fundamental, na modalidade profissional da educação de
+jovens e adultos. Além dessa compreensão ressalta que:
+        § 1o O estágio faz parte do projeto pedagógico do curso, além de integrar
+o itinerário formativo do educando.
+        § 2o O estágio visa ao aprendizado de competências próprias da atividade
+profissional e à contextualização curricular, objetivando o desenvolvimento do
+educando para a vida cidadã e para o trabalho.
+        Além dessas normatizações a proposta de Estágio para o Curso
+Licenciatura em Artes Visuais Modalidade a Distância UAB está em diálogo
+com as experiências como desenvolvidas desde 2005 no estágio do curso
+presencial Artes Visuais- Licenciatura oferecido de forma regular, período
+matutino da FAV. O Estágio é estruturado em cinco etapas de forma de
+configurar um “itinerário formativo” iniciando no quarto período e indo até o
+oitavo e último período do curso. Metodologicamente a experiência de estágio
+tem se construído com base na pesquisa e investigação do contexto do campo,
+na busca da inter-relação escola e comunidade, na construção de parcerias
+com diversos atores do processo educativo e na compreensão do estágio
+como construção da identidade docente.
+10                                                               Regulamento de Estágio
+
+1. BASES EPISTEMOLÓGICAS
+       Nossos cursos têm como bases epistemológicas
+         1. A busca de uma formação docente em diálogo com questões
+         contemporâneas da arte e seu ensino.
+         2. A expansão do conceito de arte – diálogo com a cultura popular,
+         midiática e a cultura visual.
+         3. A formação com base em pedagogias críticas reflexivas para a
+         formação de professores investigadores de sua própria prática na
+         inter-relação com as culturas institucionais, juvenis, etc.
+       As experiências em curso na Faculdade de Artes Visuais assumem o
+estágio curricular como um campo interdisciplinar que articula relações entre
+questões do ensino de artes visuais e da cultura visual na perspectiva da
+pedagogia crítica.
+
+
+1.1 Objetivos
+       Na resolução CEPEC No. 731 o § 2º do Art. 1º que define a política de
+Estágio para a formação de professores da Educação Básica na Universidade
+Federal de Goiás - entende o estágio curricular como uma atividade privilegiada
+pelo diálogo crítico com a realidade favorecendo a articulação entre ensino-
+pesquisa-extensão.
+       O Estágio curricular obrigatório, na Faculdade de Artes Visuais, de acordo
+com as normas gerais da UFG, visa criar um espaço para que o licenciando
+interaja com os ambientes de ensino experimentando uma pluralidade de
+contextos educacionais nos quais o ensino/aprendizagem de artes visuais
+acontece ou possa vir a acontecer. A pretendida interação deverá ser buscada
+através do estudo, da pesquisa (investigação), da observação participante, da
+reflexão e da intervenção pedagógica na escola-campo.
+       O Estágio Curricular obrigatório proposto para o curso de modalidade
+a distância visa propiciar o exercício pedagógico de manifestações da arte
+e da cultura enfatizando aspectos sócio, histórico-culturais, dialogando com
+os estudos culturais, com as visualidades e das diferentes tecnologias. Os
+aspectos estéticos, artísticos e culturais de mediação e construção da realidade
+e do relacionamento humano. Ao enfatizar estas especificidades chamamos
+atenção para o distanciamento da formação de professores de artes visuais
+dos processos de arte terapia e de assistencialismo social.
+Regulamento de Estágio                                                           11
+
+      Considerando então, o estágio como processo formativo no itinerário do
+processo de ensino aprendizagem de cada aluno (a) do curso tanto o Curricular
+Obrigatório quanto o Curricular Não Obrigatório devem seguir as seguintes
+observações:
+        a. Estágio não é emprego, não gera vínculos empregatícios e o
+        estagiário (a) não pode ser utilizado para suprir demandas da instituição
+        concedente do estágio;
+        b. Todo estágio curricular deve ser supervisionado;
+        c. Todo estágio curricular deve ser legitimado por 1) Documento de
+        convênio; 2) termos de compromisso assinados pelo aluno, pelo
+        coordenador de estágio de sua unidade e pela parte concedente, 2)
+        plano de atividades; 3) por fichas de frequência e 4) pelo relatório
+        final.
+
+       Passemos então as especificidades de cada uma dessas possibilidades
+de estágio.
+
+
+2. ESTÁGIO CURRICULAR OBRIGATÓRIO
+          Este estágio é aquele previsto e distribuído em disciplinas no fluxograma
+do curso. No caso do ensino a distância o horário não será circunscrito a dias
+estabelecidos no quadro de horários semestrais, mas deverá ser feito um
+planejamento de dias, horários de visitas de campo para acompanhamento
+da pessoa responsável na escola/campo e para que o orientador acadêmico
+responsável pela disciplina estágio estabeleça formas de contato on-line para
+discussão do processo a cada semana. A atuação dos alunos será avaliada
+e sua reprovação terá consequências o impedimento do prosseguimento do
+curso uma vez que na EAD não temos a oferta de disciplinas de semestres
+anteriores. Na Licenciatura em Artes Visuais Modalidade a Distância, o estágio
+está dividido em cinco disciplinas: Estágio Supervisionado em Artes Visuais I,
+II, III, IV e V. Cada uma destas proporciona experiências que servem de base
+teórica e prática para desenvolver a próxima etapa.
+
+
+2.1 Estágio para quem já tem experiência docente
+      Como já foi estágio é compreendido como espaço formativo e como
+espaço de construção de identidade docente. Para aqueles que já atuam como
+12                                                              Regulamento de Estágio
+
+professores é importante fazer todas as etapas de estágio, pois a proposta
+dos cursos de artes visuais - EAD prepara a atuação docente com base na
+investigação e mapeamento etnográfico das relações entre escola e cotidiano,
+escola e comunidade, escola e diversidade cultural, cultura escolar, cultura
+juvenil dentre outros aspectos que servem de base para a construção de um
+plano de intervenção/interação do estagiário com o campo de estágio.
+
+       Os estágios neste curso devem ser desenvolvidos preferencialmente
+em grupo devendo ficar claro de que forma será a atuação de cada um
+dos participantes. Para cada etapa o planejamento das atividades deve ser
+entendido como um processo, com tempo para que seja revisto, discutido,
+modificado e avaliado.
+       Assim como no curso regular o estágio na Licenciatura em Artes Visuais
+Modalidade a Distância FAV/UFG/UAB está organizado em cinco disciplinas:
+
+     1. Estágio Supervisionado em Artes Visuais I (92 horas): Pesquisa de
+campo em diversas situações para o ensino de arte.
+     • Discussão do estágio como espaço de formação docente: Memória
+       de vivências culturais por parte do estagiário. Memória do percurso
+       do aprender/ensinar arte;
+     • Discussão sobre o papel do estágio na política de formação de
+       professores nos cursos Licenciaturas da UFG.
+     • Mapeamento do contexto educativo formal e não formal no Estado de
+       Goiás localizando o contexto do município-polo.
+     • Desenvolvimento de competências etnográficas para a investigação e
+       imersão do contexto escolar e de outros campos de estágio.
+     • Mapeamento de possibilidades, reconhecimentos de territórios; de
+       multiplicidade; diferentes construções de projetos pedagógicos.
+       Elaboração de mapas de campo de estágio com base nos dados
+       obtidos. Elaboração de relatório final.
+
+       2. Estágio Supervisionado em Artes Visuais II (92 horas): Imersão em
+situações de ensino não formal.
+       • Mapeamento e imersão em experiências de ensino não formal que
+         privilegiem experiências de arte e cultura. Acompanhamento e análise
+         da estrutura dos projetos, dos financiamentos para políticas artísticas
+Regulamento de Estágio                                                          13
+
+            e culturais.
+          • Mapear possibilidades para o ensino de artes visuais em projetos
+            sociais, centros comunitários, ONGs, OSCIPs, etc. Entender a
+            diversidade das situações de ensino e das maneiras onde arte tem
+            espaço.
+          • Observação de projetos e formas de planejamento e avaliação de
+            projetos que envolvam relações de arte e trabalho, recuperação social,
+            etc.
+          • Elaboração e desenvolvimento de um plano de intervenção
+          • Elaboração do Relatório final
+
+       3. Estágio Supervisionado em Artes Visuais III (92 horas): Imersão no
+cotidiano escolar formal (ensino fundamental e médio).
+       • Imersão no espaço formal previamente escolhido por meio da
+         observação do cotidiano das dinâmicas desse contexto. Leitura e
+         reflexão da construção do PPP
+       • Discussão compartilhada das semelhanças e diferenças da diversidade
+         de contextos educativos.
+       • Objetivos e procedimentos de análise de práticas pedagógicas em
+         artes visuais em contextos diferenciados de educação formal.
+       • Prática pedagógica como prática social: análise de processos
+         pedagógicos e da estruturação do trabalho docente. Observação das
+         relações profissionais na escola-campo.
+       • Acompanhamento e análise de planejamento pedagógico,
+         administrativo, político e cultural. Observação da estrutura da rotina
+         escolar, da construção e viabilização do Projeto Político Pedagógico –
+         PPP e do Projeto de Desenvolvimento Escolar – PDE.
+       • Elaboração do Relatório final
+
+       4. Estágio Supervisionado em Artes Visuais IV (92 horas): Laboratório
+de elaboração de projetos.
+       • Definição de um espaço para estágio (ensino formal ou não formal)
+         elaboração do projeto em parceria – escola e comunidade – na
+         viabilização e desenvolvimento de materiais e recursos a serem
+         utilizados no projeto.
+14                                                              Regulamento de Estágio
+
+      • Desenvolvimento do plano elaborado na etapa anterior em espaços
+        previamente definidos;
+      • Acompanhamento sistematizado /compartilhamento das experiências-
+        seminários
+      • Elaboração processual do relatório de estágio
+      • Compartilhamento dos resultados – entrega de certificados e de cópia
+        de relatório.
+
+       5. Estágio Supervisionado em Artes Visuais IV (92 horas):
+Desenvolvimento da Intervenção/interação pedagógica. (docência)
+       • Aplicação da proposta desenvolvida no estágio IV. Desenvolvimento
+         de uma ação concreta que fique na escola e/ou nos espaços do
+         estágio mesmo depois do término deste. Avaliação em processo e em
+         parceria das etapas do projeto. Elaboração do relatório final.
+       • Retomada do processo anterior: investigação dos resultados,
+         entrevistas, etc.
+       • (Re)alinhamento e desenvolvimento da proposta de intervenção
+         pedagógica em artes visuais;
+       • Acompanhamento sistematizado /compartilhamento dos resultados;
+       • Elaboração processual do relatório de estágio;
+       • Entrega de certificados e de cópia de relatório.
+       As cinco disciplinas de Estágio Curricular perfazem um total de 460 horas
+atendendo à legislação federal que regulamenta a formação de professores na
+qual é estabelecida uma carga horária de 400 horas aulas distribuída ao longo
+do processo de formação no curso.
+
+
+2.2 Estrutura de supervisão do estágio curricular obrigatório -
+acompanhamento e supervisão
+       A Lei no. 11.788. no seu § 1o estabelece que o estágio, como ato
+educativo escolar supervisionado, deverá ter acompanhamento efetivo
+pelo professor orientador da instituição de ensino e por supervisor da parte
+concedente, comprovado por vistos nos relatórios referidos no inciso IV do
+caput do art. 7o desta Lei e por menção de aprovação final.
+       A Universidade Federal de Goiás bem como a Faculdade de Artes
+Regulamento de Estágio                                                           15
+
+Visuais encontra-se diante de um desafio que é o da impossibilidade de um
+acompanhamento presencial de forma contínua como requer a Lei para os
+cursos de formação de professores na modalidade a distância.
+       A situação de termos cursos sendo desenvolvidos em polos EAD fora
+dos chamados campus das IES requer o planejamento de novas estratégias
+de acompanhamento e supervisão dos estágios curriculares, bem como a
+presença de novos atores neste processo.
+
+
+3. ESPECIFICIDADES DO TRABALHO EAD.
+        As atividades são um dos pontos fortes do Moodle enquanto ferramenta
+de aprendizagem. Tendo em conta a filosofia subjacente, seria de esperar um
+conjunto de ferramentas de comunicação e discussão variado (Fóruns, Chats,
+Diário de aluno), assim como de avaliação e de construção coletiva (Testes,
+Trabalhos, Workshops, Wikis, Glossários), não esquecendo a instrução direta
+menos flexível (Lições, Livros,) ou de pesquisa e opinião (Inquéritos, Referendos,
+Questionários).
+        Vejamos agora um apanhado global das atividades do Moodle e as
+suas possibilidades no contexto de colaboração e aprendizagem que podem
+ser utilizadas para o acompanhamento, construção e avaliação do processo de
+estágio nos cursos de formação de professores em artes visuais:
+           1. Diário de campo: este espaço é semelhante a um caderno de
+           anotações no qual o estagiário registra a experiência das suas prática
+           semanal no campo de estágio, sua aprendizagem. Permite que o
+           professor orientador acompanhe as anotações e possa sugerir novos
+           direcionamentos para a investigação.
+           2. e-portifólio (moodle) o e-Portfolio é uma apresentação multimídia
+           realizada pelo aluno e com materiais selecionados por este e
+           que mostra uma visão enriquecida e estruturada do processo de
+           desenvolvimento e aprendizagem do aluno. Além dos materiais já
+           referidos, um e-Portfolio inclui reflexões do aluno sobre o seu conteúdo
+           e respectivo processo de aprendizagem e ligações entre os vários
+           componentes. Os e-Portfolios podem ser diversos como as diferentes
+           pessoas de uma comunidade. Num e-Portfolio, o aluno escreve a sua
+           própria história e é responsável pela sua publicação/distribuição. O
+           e-portfolio é a identidade de cada sujeito em transformação em cada
+           contexto, enquanto construtores do seu desenvolvimento ao longo da
+16                                                             Regulamento de Estágio
+
+     vida. É, portanto, uma ferramenta de apoio à mudança! O processo
+     de criação de um e-Portfolio pode ser resumido nas seguintes ações:
+     colecionar, selecionar, refletir e relacionar.
+     3. Fóruns de discussão: Os fóruns são uma ferramenta de discussão
+     por natureza, ou mesmo um espaço de reflexão sobre um determinado
+     conteúdo. Nos fóruns estagiários e professores orientadores discutirão
+     e refletirão sobre o processo em andamento do estágio. Os fóruns
+     do Moodle podem ser estruturados de diversas formas (discussão
+     geral, uma única discussão, sem respostas, etc.) e podem permitir
+     classificação de cada mensagem. As mensagens podem também
+     incluir anexos.
+     4. Chats O Chat permite uma comunicação síncrona, em tempo
+     real, entre professores e alunos. Pode ser útil como espaço de
+     esclarecimento de dúvidas, mas pode ter outros usos. A sessão de
+     chat pode ser agendada, com repetição.
+     5. Glossários O glossário permite aos participantes da disciplina criar
+     dicionários de termos relacionados com a disciplina, bases de dados
+     documentais ou de arquivos, galerias de imagens ou mesmo links que
+     podem ser facilmente pesquisados.
+     6. Tabelas A atividade Tabela permite ao professor e/ou aos
+     participantes construir, disponibilizar e pesquisar um conjunto de
+     informação estruturada, com qualquer tipo de campos. Os campos
+     permitidos podem ser de diversas naturezas: imagens, ficheiros,
+     URLs, números e textos entre outros.
+     7. Diário de aluno O diário torna possível um método simples de
+     comunicação entre dois participantes da disciplina. O professor pode
+     abrir um diário para um aluno.
+     8. Testes Os testes podem ter diferentes formatos de resposta (V ou F,
+     escolha múltipla, valores, resposta curta, etc.) e é possível, entre outras
+     coisas, escolher aleatoriamente perguntas, corrigir automaticamente
+     respostas e exportar os dados para Excel. O criador tem apenas de
+     construir a base de dados de perguntas e respostas. É ainda possível
+     importar questões de arquivos de textos seguindo algumas regras.
+     9. Trabalhos Os Trabalhos permitem ao professor classificar e comentar
+     na página materiais submetidos pelos alunos, ou atividades ‘offline’
+     como, por exemplo, apresentações. As notas são do conhecimento
+     do próprio aluno e o professor pode exportar para Excel os resultados.
+Regulamento de Estágio                                                       17
+
+         10. Wikis O Wiki torna possível a construção de um texto (com
+         elementos multimídia) com vários participantes, onde cada um dá
+         a sua contribuição e/ou revê o texto. É sempre possível acessar às
+         várias versões do documento e verificar diferenças entre versões.
+         11. Lições A lição tenta associar a uma lógica de delivery uma
+         componente interativa e de avaliação. Consiste num número de páginas
+         ou slides, que podem ter questões intercaladas com classificação e
+         em que o prosseguimento do aluno depende das suas respostas.
+         12. Livros Os livros permitem construir sequências de páginas
+         muito simples. É possível organizá-las em capítulos e subcapítulos
+         ou importar arquivos HTML colocados na área de diretórios da sua
+         página. Caso as referências dentro destes HTML (imagens, outras
+         páginas, vídeo, áudio) sejam relativas, o livro apresentará todo esse
+         conteúdo.
+       Diante dessas possibilidades de acompanhamento e supervisiona mento
+das atividades de estágio utilizando os recursos tecnológicos apostamos
+numa construção mais autônoma e colaborativa da aprendizagem teórica, na
+sistematização dos dados do trabalho de campo e na capacidade de construir
+sínteses e propor projetos transformadores.
+
+
+3.1 Atores diretamente envolvidos
+        O regulamento Geral dos Cursos de Graduação, Resolução - CONSUNI
+no. 06/2002 estabelece as atribuições dos responsáveis e participantes do
+estágio Curricular na UFG. Além dos atores já previstos para na estrutura
+dos cursos presenciais acrescentamos figuras que fazem parte da oferta das
+disciplinas na modalidade a distância como, por exemplo, o professor-formador
+e o professor-orientador.
+        1. Coordenador de estágio PROGRAD – competências: coordenar e
+           avaliar a política de estágios da UFG; supervisionar o cumprimento
+           das normas estabelecidas pelas instâncias competentes; apoiar os
+           coordenadores de estágios dos cursos em assuntos referentes à
+           realização de estágios e na garantia de sua qualidade; acompanhar o
+           processo de estágio, promovendo troca de experiências e incentivando
+           atividades integradas; promover a divulgação de experiências de
+           estágio na comunidade universitária e para o público em geral;
+           analisar propostas de convênio e de termos aditivos; manter arquivos
+           atualizados sobre os estágios dos cursos da UFG;
+18                                                               Regulamento de Estágio
+
+      2. Coordenador de estágio da Faculdade de Artes Visuais: O
+         coordenador de estágios de cada curso terá as seguintes
+         atribuições: a) contato com as coordenações de polo, com as
+         escolas no município, com a PROGRAD, com o professor formador;
+         b) coordenar, acompanhar e providenciar, quando for o caso, a
+         escolha dos locais de estágio; c) solicitar a assinatura de convênios
+         e cadastrar os locais de estágio; d) apoiar o planejamento,
+         o acompanhamento e a avaliação das atividades de estágio;
+         e) promover o debate e a troca de experiências no próprio curso e nos
+         locais de estágio; e) manter registros atualizados sobre o(s) estágio(s)
+         do respectivo curso;
+      3. Professor formador da disciplina estágio: acompanhamento/mediação
+         online e presencial da mediação dos orientadores. Promove a
+         formação continuada dos mesmos por meio da leitura de bibliografia
+         pertinente ao tema e acompanha a ação de cada orientador em sua
+         sala no ambiente Virtual de aprendizagem. Teremos um formador por
+         disciplina;
+      4. Tutor a distância – trabalho conjunto com o professor formador da
+         disciplina;
+      5. Supervisor de estágio no polo (parceria polo)- profissional do local
+         de estágio que acompanhará o aluno no desenvolvimento de suas
+         atividades. O profissional colaborador (supervisor) do estágio em
+         campo terá as seguintes atribuições: acompanhar o desenvolvimento
+         das atividades de estágio; assinar freqüência; elaborar relatórios;
+         facilitar as condições da pesquisa e da imersão no cotidiano escolar
+         ou de campo do estágio;
+      6. O estagiário terá as seguintes atribuições: a) participar do planejamento
+         do estágio e solicitar esclarecimentos sobre o processo de avaliação
+         de seu desempenho; b) seguir as normas estabelecidas para o estágio;
+         c) solicitar orientações e acompanhamento do orientador ou do
+         profissional colaborador do local do estágio sempre que isso se fizer
+         necessário; d) solicitar à coordenação de estágio a mudança de local
+         de estágio, mediante justificativa, quando as normas estabelecidas e
+         o planejamento do estágio não estiverem sendo seguidos.
+
+
+3.2 Dos locais de estágio curricular obrigatório - EAD
+      Os estágios das licenciaturas EAD em Artes Visuais serão desenvolvidos
+Regulamento de Estágio                                                            19
+
+nos diferentes municípios polos que sediam o curso. Já existe o convênio
+firmado com a Secretaria de Educação do estado de Goiás, assim, todas as
+escolas sob a responsabilidade dessa Secretaria são potencialmente campo de
+estágio para os alunos da UFG. Serão firmados convênios com as Secretarias
+Municipais de Educação em cada município polo para ampliar o leque de
+espaços para estágio podendo ser vivenciada a dinâmica que cada município
+tem para a educação sob sua responsabilidade.
+         Obs. Mediante identificação da demanda de outras cidades, serão
+         solicitados convênios com municípios do entorno da cidade polo.
+         Porém é importante lembrar que não havendo condições institucionais,
+         jurídicas e outras que possibilitem a celebração do convênio com a
+         UFG o estágio deverá ser realizado no município-pólo sede do curso
+         de artes visuais.
+
+       O Estágio Curricular Obrigatório deverá ser desenvolvido nos municípios-
+polos com as seguintes especificidades:
+
+          a. Estágio em situação de ensino formal: De acordo com o Artigo 5º
+             Resolução CCEP/402 - o estágio curricular supervisionado ocorrerá
+             preferencialmente em escolas públicas: ensino fundamental e
+             médio, ensino infantil, etc. O estágio curricular obrigatório ocorrerá
+             preferencialmente em escolas públicas, mediante convênio
+             institucional estabelecido entre a UFG e a Rede Federal, Estadual e
+             Municipal de Ensino e Instituições Privadas. No entanto, as escolas
+             particulares não estão excluídas do processo. Recomendam-se
+             situações de intercâmbio e diálogo entre escolas de caráter diferente,
+             onde a promoção de situações de trocas traga benefícios para ambos
+             os contextos. Na escolha de uma escola particular isolada, o estagiário
+             deve apresentar justificativa.
+          b. Estágio em situação de ensino não formal: Desde que conveniados
+             com a UFG, este estágio pode ser desenvolvido em ONGs, Projetos
+             governamentais, asilos, creches, associações de bairro, de artesãos,
+             projetos em Hospitais, em centros recreativos, em Museus e outras
+             instituições culturais nas quais exista, ou possa ser proposta uma
+             ação educativa em artes visuais.
+             Obs.: Como o estágio I é de mapeamento, este servirá para identificar
+             nos diferentes municípios que são polos EAD espaços que possam
+20                                                               Regulamento de Estágio
+
+         solicitar o convênio com a UFG. Existe na Pró-Reitoria de Graduação -
+         PROGRAD - UFG, uma lista com os locais já conveniados, pelos quais
+         os alunos e alunas podem optar para desenvolver seus projetos de
+         intervenção/interação pedagógica.
+
+
+3.3 Estabelecimento de parcerias
+        Entende-se que os locais de estágio sejam vistos como espaços
+potencialmente considerados como parceiros, numa relação dialógica. Deve-se
+buscar o envolvimento efetivo dos diversos atores-colaboradores: professores,
+coordenadores, alunos, funcionários, bem como o estabelecimento de conexões
+com o contexto (comunidade) no qual a escola está inserida.
+        A parceria da FAV será concentrada principalmente na ação do
+estagiário e nas ações colaborativas que busquem contribuir para um ensino
+de Artes Visuais, de modo mais efetivo. As escolas e demais espaços poderão
+oferecer contrapartida aos projetos – se for o caso - disponibilizando espaço
+físico, laboratórios, ateliês, materiais de consumo, ônibus, cópias, etc. Por sua
+vez os estagiários comprometem-se a deixar no espaço concedente cópia dos
+materiais desenvolvidos e cópia do relatório final.
+
+
+3.4 Estágio Curricular Obrigatório – Espaços Não Formais
+       Os profissionais da área de educação, professores-formadores e
+futuros professores, precisam saber trabalhar com a diversidade. Cada aluno
+apresenta características específicas sócio-econômico-culturais e preferências
+idiossincráticas com relação ao processo de aprendizagem. No intuito de
+atender a essa diversidade, o professor em formação precisa desenvolver
+a capacidade de flexibilizar suas propostas de ensino. Para isso, precisará
+conhecer a pluralidade a partir de sua própria singularidade.
+       O futuro professor deverá experimentar diferentes estratégias didáticas
+durante seu processo de formação, que estimularão reflexões e análises
+sobre o percurso de aprendizagem e as diversas formas de organização do
+trabalho educativo. A experiência própria - entrelaçada ao pensar teórico e a
+observação da experiência do outro - estimulará uma visão maior das múltiplas
+possibilidades de se trabalhar o processo ensino-aprendizagem. De acordo com
+o Parecer do Conselho Nacional de Educação n.º 09/2001 - CNE/CP, p, 52[...]
+para contemplar a complexidade dessa formação, é preciso instituir tempos
+Regulamento de Estágio                                                        21
+
+e espaços curriculares diversificados como oficinas, seminários, grupos de
+trabalho supervisionado, grupos de estudo, [...] atividades de extensão, entre
+outros capazes de promover e, ao mesmo tempo, exigir dos futuros professores
+atuações diferenciadas, percursos de aprendizagens variados, diferentes
+modos de organização do trabalho, possibilitando o exercício das diferentes
+competências a serem desenvolvidas.
+       A formação do professor não poderá ser limitada, tão-só, a aulas
+expositivas circunscritas às paredes de uma sala de aula. Uma pedagogia
+diferenciada, ativa, significativa e cooperativa exige uma gestão de classe mais
+ampla: a capacidade de gerenciar este espaço novo não poderá ser adquirida
+de forma apenas teórica, precisa ser experimentada na prática durante todo o
+transcorrer do processo de formação.
+
+
+3.5 Da Intervenção/interação pedagógica
+       O processo de investigação do contexto escolar e de suas dinâmicas, a
+compreensão da cultura escolar, a relação bairro-escola, os aspectos históricos
+e culturais da escola, as relações docentes-discentes-funcionários e demais
+aspectos levantados ao longo da imersão no campo de estágio servirão de
+base para a construção de um plano de intervenção/interação docente
+contextualizado, propositor de ressignificações didático-pedagógicas para o
+ensino de artes visuais no espaço campo em questão.
+
+
+3.6 No plano de mediação pedagógica deverão constar
+        a. Identificação do Espaço: Tipo de escola (ou outro espaço), bairro,
+           cidade, características físico-geográficas, histórico—sociais;
+        b. A quem se destina: identificação do público alvo;
+        c. Identificação das demandas
+        d. Definição do tema/projeto - linhas gerais
+        e. Detalhamento: Objetivos, estratégias metodológicas, equipamentos e
+           materiais necessários, parcerias estabelecidas, fluxo das atividades,
+           estratégias de avaliação e reflexão do processo.
+        Por meio de ações qualificadas os estagiários poderão contribuir com a
+escola/campo na valorização do profissional específico para essa área evitando
+a prática comum do emprego de professores com outra formação para o ensino
+de artes. A situação é crítica também para outras áreas como podemos ver
+22                                                             Regulamento de Estágio
+
+nessa entrevista:
+        O MEC estima, com base nos dados do Educacenso de 2007, que
+        existe um déficit de professores que chega a um número que varia
+        de 700 mil a 900 mil. Por falta de formação adequada, entende-se
+        que o docente não possui nível superior na área em que atua. Destes,
+        300 mil a 400 mil possuem licenciatura em área diferente daquela
+        em que lecionam e outros 300 mil a 400 mil não têm curso superior.
+        O restante, 100 mil aproximadamente, é graduado e, apesar de não
+        terem licenciatura, atuam como professores na Educação Básica.
+        São, por exemplo, médicos que dão aula de biologia. (TEATINI, Joao
+        Carlos. REVISTA EDUCAÇÃO - EDIÇÃO 144 – abril/2009).
+
+       Além do fomento a demanda por profissionais com formação específica
+a ação dos estagiários pode potencializar o uso de equipamentos, de salas
+especiais de artes visuais, incrementar o uso de recursos tecnológicos,
+desenvolvimento de material didático (livros, manuais, vídeos, CD-ROM, etc.);
+organização de espaços de exposição de artes visuais (dos alunos e de demais
+artistas) bem como no fomento de relações escola-comunidade por meio da
+pedagogia de projetos.
+
+
+3.7 Da avaliação
+       Conforme Art. 8º. da Resolução – CONSUNI no. 06/2002 a avaliação
+do desempenho do aluno no estágio será regulamentada pelos respectivos
+cursos e será de responsabilidade do professor orientador que considerará as
+observações e relatórios feitos pelo aluno e pelo supervisor, assim como outros
+mecanismos do ambiente moodle utilizados na avaliação do desempenho do
+aluno. Recomendamos que a avaliação seja vista numa perceptiva global do
+processo, sendo assim, deve-se considerar:
+       1. A atuação do estagiário (aprendizagem, capacidade de flexibilidade,
+          a capacidade de refletir sobre sua aprendizagem).
+       2. A atuação dos professores formadores e orientadores (orientações,
+          trocas, mediações, diálogos).
+       3. O contexto das escolas (disponibilidade, parceria, diálogos).
+       4. A condução da universidade (representada aqui pela FAV)
+       5. O processo (as atividades desenvolvidas/ intervenção realizada)
+Regulamento de Estágio                                                           23
+
+       Conforme Art. 7º. da mesma resolução para obter aprovação na disciplina
+estágio o aluno deverá:
+       a) ter frequência de no mínimo 75% nas atividades previstas;
+       b) obter, no mínimo 5,0 na média final.
+       c) a nota do aluno estagiário será resultado de um processo e considerará
+          a construção de competências na área do ensino de artes visuais;
+
+
+3.8 Da socialização dos resultados
+      Os resultados das experiências de estágio curricular poderão ser
+apresentados em eventos da área tais como em eventos científicos tais como
+seminários, congressos, fóruns de debates, colóquios, etc. gerando debates,
+discussões e contribuições para o avanço teórico-prático e metodológico
+desse espaço dentro dos cursos de formação de professores em artes visuais,
+especificamente, enfatizando as especificidades da modalidade a distância.
+
+
+3.9 Da concomitância do Estágio Curricular com o Trabalho de Conclusão
+de Curso – TCC
+          a. A experiência do Estágio Curricular Obrigatório poderá servir de
+             material para a elaboração do Trabalho de Conclusão de Curso –TCC
+             - exigido no PPP para finalização do curso.
+          b. A conjugação estágio + TCC consolida a prática do professor reflexivo
+             imprimindo essa marca na construção da identidade docente.
+
+          Além dessa regulamentação, a FAV especifica as seguintes observações:
+
+          a. A realidade das nossas licenciaturas mostra uma alta porcentagem
+             de alunos que já exercem a profissão (fixa ou temporariamente). No
+             entanto, a experiência do Estágio Curricular Obrigatório como parte
+             do processo de construção de identidade docente configura-se numa
+             oportunidade de refletir sobre a experiência pedagógica anterior e
+             ressignificar a experiência já adquirida para investir no exercício de
+             renovação constante da ação docente. Assim, mesmo que o aluno e
+             aluna já sejam professores, não cabe o pedido da sua dispensa total
+             do estágio, alegando a devida experiência no campo.
+24                                                             Regulamento de Estágio
+
+      b. O licenciando deve lembrar-se, que antes de tudo, ele ou ela, é
+         aluno em situação de aprendizagem e que, embora sua experiência
+         seja importante e possa contribuir para a sua formação, ela não é
+         completa, tendo em vista que buscamos um novo paradigma, o da
+         educação continuada, e o estágio irá oferecer situações diferentes
+         daquelas já desenvolvidas regularmente.
+      c. Recomenda-se nestes casos, que o licenciando procure estagiar
+         em contextos por ele não vivenciados ou apresentar na ocasião da
+         prática projeto diferenciado que justifique a realização do estágio no
+         mesmo local de trabalho, Ou ainda: eleger sua própria prática como
+         pesquisa-ação (metodologia específica de pesquisa na direção do
+         professor reflexivo).
+      d. De acordo com o anteprojeto de Resolução CPEC 837 que regulamenta
+         o curso de Licenciatura em Artes Visuais -, a estrutura que dá suporte
+         à atividade de estágio em artes visuais envolve atividades de estudo,
+         pesquisa e construção de conhecimento bem como a investigação
+         de poéticas visuais conectadas à reflexão do potencial pedagógico
+         da arte.
+
+
+4. ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO
+        Este tipo de estágio pode ser desenvolvido pelo aluno do curso sem
+prejuízo do desenvolvimento do processo acadêmico. Não se configura como
+emprego, sendo proibido o estabelecimento de vínculos empregatícios. Esta
+modalidade de Estágio poderá ser desenvolvida a partir do terceiro semestre
+letivo, durante o decorrer das atividades discentes dos alunos do Curso de
+Licenciatura em Arte Visuais na modalidade a distância - UAB, desde que não
+interfiram no desenvolvimento do Estágio Curricular Obrigatório.
+        A finalidade do Estágio Curricular não obrigatório é o de ampliar o
+desenvolvimento profissional do discente, proporcionando-lhe a aquisição de
+conhecimentos que complementem a sua formação como professores de artes
+visuais, e como cidadão crítico e reflexivo.
+        De acordo com a CEPEC no. 766 no seu Art. 7º os Estágios curriculares
+não obrigatórios são aqueles realizados pelos estudantes com o intuito de
+ampliar a formação por meio de vivência de experiências próprias da situação
+profissional, sem previsão expressa no respectivo projeto político pedagógico.
+Regulamento de Estágio                                                            25
+
+        Art. 8º - Os estágios curriculares não obrigatórios de aluno da
+Universidade Federal de Goiás, realizados na própria UFG, observarão as
+seguintes disposições:
+        I. o aluno firmará termo de compromisso com a Unidade ou órgão
+concedente do estágio, de acordo com o estabelecido plano de estágio;
+        II. o estagiário será incluído na apólice de seguro de acidentes pessoais,
+coletivo, custeada pela Universidade.
+        Art. 9º-A realização de estágio curricular obrigatório ou não obrigatório,
+        por aluno da UFG fora da Universidade, observará as disposições deste
+artigo:
+        I. será firmado convênio para a concessão de estágio curricular entre
+a Universidade e o órgão, entidade ou empresa que concede o estágio, com
+prazo de vigência de no máximo cinco anos;
+        II. o estudante firmará termo de compromisso com o órgão, entidade ou
+empresa concedente do estágio que será acompanhado pela Coordenação de
+Estágio do Curso ou, alternativamente, tratando-se de estágios não obrigatórios,
+pelo docente supervisor por ela designado;
+        III. o estagiário deverá estar segurado contra acidentes pessoais, na
+apólice coletiva da Universidade;
+        IV. ao término do período de estágio obrigatório, o estagiário encaminhará
+à Coordenação de Estágio do Curso o relatório final que deverá ser apreciado
+por uma banca constituída por professores da instituição;
+        V. O Projeto Político Pedagógico do Curso poderá prever outras
+modalidades de avaliação do estágio obrigatório;
+        VI. Os resultados das atividades de estágios curriculares deverão ser
+objeto de debate em eventos acadêmicos.
+        Art. 10 - As especificidades do estágio de cada campo de estágio serão
+definidas nas regulamentações internas das Unidades ou Órgãos de vinculação
+do estágio.
+        Art. 11 - A realização de estágio curricular obrigatório ou não obrigatório,
+de aluno de outras instituições na Universidade Federal de Goiás, obedecerá às
+seguintes normas:
+        I. a aceitação de estagiários de outras instituições de ensino na
+Universidade dependerá da celebração prévia de convênio para esse fim, com
+prazo de vigência determinado e limitado há cinco anos, no máximo;
+26                                                                 Regulamento de Estágio
+
+        II. o estagiário assinará termo de compromisso com a UFG, de acordo
+com o estabelecido no plano de estágio;
+        III. a Instituição ou órgão de origem do aluno providenciará, às suas
+custas, o seguro de acidentes pessoais, em favor do estagiário.
+        Art. 12 - A UFG poderá firmar convênios com agentes de integração para
+colocação de estudantes em vagas cadastradas por aquelas instituições, na
+forma da legislação vigente.
+        § 1º - A Universidade exercerá as atividades de planejamento, supervisão,
+acompanhamento e avaliação de estágio curricular não obrigatório, cabendo
+aos agentes externos de integração tão somente as funções administrativas e
+de oferecimento de vagas de estágio, com base nos seus cadastros;
+        § 2º - Ao final de cada ano, o agente externo de integração encaminhará
+relatório à Unidade, que dele dará ciência à Pró-Reitoria de Administração e
+Finanças PROAD e à Pró-Reitoria de Graduação - PROGRAD, informando os
+estágios intermediados e as suas condições, bem como os valores das bolsas
+pagas, no caso dos estágios remunerados;
+        As Diretrizes Curriculares Nacionais do Curso de Graduação em Artes
+Visuais Parecer CNE/CES nº 280/2007 estabelecem que:
+           Parágrafo único - O estágio de que trata este artigo poderá ser realizado
+           na própria Instituição de Ensino Superior, em laboratórios e outros
+           ambientes que congreguem as diversas atividades inerentes à área de
+           Artes Visuais e campos correlatos, em suas múltiplas manifestações.
+
+
+5. INSTRUMENTOS LEGAIS PARA A REALIZAÇÃO DO ESTÁGIO
+CURRICULAR
+       De acordo com a regulamentação da UFG
+       Art. 8o É facultado às instituições de ensino celebrar com entes
+públicos e privados convênio de concessão de estágio, nos quais se explicitem
+o processo educativo compreendido nas atividades programadas para seus
+educandos e as condições de que tratam as artes. 6o a 14 desta Lei.
+       Parágrafo único. A celebração de convênio de concessão de estágio
+entre a instituição de ensino e a parte concedente não dispensa a celebração
+do termo de compromisso de que trata o inciso II do caput do art. 3o desta Lei.
+       1. Termo de Convênio – PROGRAD;
+       2. Cartas de apresentação do professor formador– Apresentação
+Regulamento de Estágio                                                             27
+
+               da proposta de estágio para profissionais do espaço concedente
+               de estágio incluindo a previsão de carga horária, turno, período,
+               quantidade de alunos e modalidade de ensino (Educação Infantil,
+               Ensino Fundamental ou EAJA);
+          3.   Termo de convênio entre a UFG e demais instituições;
+          4.   Termo de compromisso entre o educando, a parte concedente do
+               estágio e a instituição de ensino; inserir nas orientações Termo ético
+               de conduta do estagiário-escola;
+          5.   Plano de atividades do estagiário;
+          6.   Registro de frequência;
+
+
+6. CONVÊNIOS
+          1. Secretarias Municipais de Educação (SME);
+          2. Secretaria de Educação do Estado – SEE - subsecretarias regionais;
+          3. Outros espaços (como por exemplo: Pontos de Cultura; ONGs,
+             OSCIPs, Projetos Sociais, Centros Comunitários, Associação de
+             Moradores, de produtores, etc.).
+
+
+7. ESTRUTURA FÍSICA DA FACULDADE DE ARTES VISUAIS PARA
+COORDENAÇÃO DE ESTÁGIOS
+        Na UFG - A Faculdade de Artes Visuais dispõe de uma sala para
+coordenadores de estágio, com mesas, armários, computadores e uma bolsista.
+O coordenador de estágio dos cursos de Licenciatura em Artes Visuais na
+modalidade a distância poderá cumprir 8 horas para atendimento aos alunos,
+das quais metade poderá ser on-line.
+        Os polos oferecem locais de reunião dos alunos com o tutor de estágio
+local. No entanto, a importância do polo se dará na possibilidade de realizar web-
+conferências para acompanhamento do trabalho de campo dos estagiários.
+
+
+8. RELATÓRIOS DE ESTÁGIO
+      Os relatórios finais apresentados pelo estagiário, bem como os relatórios
+de acompanhamento apresentados pela coordenação de estágio curricular,
+deverão ser arquivados na coordenação do curso de Arte Visuais - Licenciatura,
+28                                                               Regulamento de Estágio
+
+por um período de 05 anos para efeito de avaliação pelo INEP- Instituto Nacional
+de Ensino e Pesquisa do MEC.
+      1. Cada etapa de estágio terá seu próprio relatório que somados no final
+          do processo configurarão a memória de todo o percurso.
+      2. O relatório conjugará a teoria e a prática. Nesse sentido, terá aspectos
+          descritivos, mas não se limitará a estes, pois deverá conter a reflexão
+          crítica de cada etapa do processo. Nestas condições, implica dizer
+          que o relatório do estágio deverá transcender o caráter descritivo das
+          ações em favor da análise e reflexão crítica.
+      3. O relatório será avaliado pelo professor-orientador de estágio sob a
+          supervisão final do professor coordenador de estágio da FAV.
+
+
+9. PROCEDIMENTOS METODODÓGICOS
+       Na Resolução CEPEC no. 701- Art. 11 orienta que a atividade de
+estágio deverá utilizar a pesquisa como princípio metodológico da formação e
+contemplar os seguintes aspectos:
+         I. apreensão da realidade da escola campo – objetiva a compreensão,
+         a descrição e a análise do cotidiano escolar;
+         II. elaboração do projeto de ensino e pesquisa – a partir da
+         problematização das situações vivenciadas, definir o tema do projeto
+         de ensino e pesquisa. A elaboração do projeto implica preparação
+         teórica, em especial a respeito de conhecimentos básicos de pesquisa,
+         com o objetivo que o aluno desenvolva atitude investigativa;
+         III. Desenvolvimento do projeto de ensino e pesquisa – execução
+         da proposta de ensino na escola-campo, envolvendo os aspectos
+         descritos;
+         IV. Relatório Final do Estágio – apresentação da intervenção docente
+         na escola-campo que evidencie a compreensão da realidade escolar e
+         as contribuições de todo o processo de investigação para a construção
+         pessoal e coletiva da formação docente.
+       No estágio curricular obrigatório do curso de Licenciatura em Artes
+Visuais na modalidade a distância do projeto UAB a imersão no cotidiano
+escolar se dará por meio de:
+       1. Leitura e discussão do PPP
+       2. Roteiros de observação: questionários, planilhas Histórias de vida,
+Regulamento de Estágio                                                           29
+
+             narrativas.
+          3. Registro imagético (fotografia e filmagens com a devida permissão)
+             de aspectos do espaço educativo incluindo distribuição do espaço
+             físico, organização dos diversos níveis, dinâmicas do intervalo,
+             do lanche, de produção, de ornamentação da escola, momentos
+             comemorativos, etc.
+          4. Coleta de documentos (planos de aula, memórias, fotografias
+             históricas, etc.).
+          5. Coleta de depoimentos.
+
+
+10. RESULTADOS ESPERADOS
+          1. Engajamento dos professores/coordenadores da instituição
+             concedente do estágio em atividades em seminários, workshops,
+             palestras relativas ao campo das artes visuais e seu ensino.
+          2. Doação de cópia do relatório final.
+          3. Intervenção no espaço escolar que resulte em melhorias para o
+             ensino de artes visuais (por exe.: organização de espaços expositivos,
+             doação livros biblioteca, doação de materiais pedagógicos utilizados
+             no estágio, etc.) documentar a entrega desses materiais, quando for
+             carta tomar o recebido.
+          4. Entrega de certificado a todos os envolvidos no processo de estágio.
+
+
+11. CERTIFICADOS
+       No final de cada disciplina de estágio os diversos atores (alunos,
+professores, coordenadores, diretores, funcionários, etc.) que tiverem
+participado e colaborado no processo receberão um certificado ressaltando sua
+condição de parceiros da FAV-UFG.
+30   Regulamento de Estágio
+

@@ -1,0 +1,3391 @@
+       SERVIÇO PÚBLICO FEDERAL
+    UNIVERSIDADE FEDERAL DE GOIÁS
+         FACULDADE DE LETRAS
+
+
+
+
+PROJETO POLÍTICO PEDAGÓGICO
+    DO CURSO DE LETRAS:
+        LINGUÍSTICA
+
+                                   (Bacharelado)
+
+
+          Aprovado pelo Conselho Diretor da Faculdade de Letras em
+          reunião realizada em 16 de novembro de 2011, aprovado
+          pela Câmara de Graduação/UFG em XXXXXXXXX e pelo
+          Conselho de Ensino, Pesquisa, Extensão e Cultura –
+          CEPEC/UFG em XXXXXXXXXX.
+                                                       Sumário
+
+I. Apresentação ......................................................................................................... 2
+II. Objetivo Geral e Objetivos Específicos............................................................. 5
+III. Princípios Norteadores para a Formação do Profissional ............................. 8
+   a) Prática Profissional ......................................................................................... 8
+   b) A Formação Técnica ....................................................................................... 8
+   c) A Formação Ética e a Função Social do Profissional ................................. 9
+   d) Articulação entre Teoria e Prática ................................................................ 9
+   e) A Interdisciplinaridade ................................................................................. 10
+IV. Expectativa da Formação do Profissional ..................................................... 12
+   a) Perfil do Curso ............................................................................................... 12
+   b) Perfil do Egresso ........................................................................................... 12
+   c) Habilidades do Egresso ................................................................................ 12
+V. Estrutura Curricular ........................................................................................... 14
+   a) Matriz Curricular ........................................................................................... 14
+   b) Quadro com Carga Horária ......................................................................... 17
+   c) Sugestão de Fluxo Curricular para o Curso de Letras: Linguística ...... 18
+   d) Prática como Componente Curricular ........................................................ 19
+   e) Atividades Complementares ....................................................................... 20
+VI. Política e Gestão de Estágio Curricular ......................................................... 22
+   a) Estágio Curricular Obrigatório .................................................................... 22
+   b) Estágio Curricular Não Obrigatório ............................................................ 22
+VII. O Trabalho de Conclusão de Curso .............................................................. 23
+VIII. Sistema de Avaliação do Processo de Ensino-Aprendizagem ................ 24
+IX. Integração ensino, pesquisa e extensão ...................................................... 25
+X. Política de Qualificação Docente e do Profissional Técnico-Administrativo
+da Faculdade de Letras .......................................................................................... 27
+XI. Sistema de Avaliação do Projeto Pedagógico do Curso de Letras:
+Linguística................................................................................................................. 29
+XII. Considerações Finais ...................................................................................... 30
+XIII. Referências ..................................................................................................... 31
+Apêndice ................................................................................................................... 33
+   Apêndice A: Elenco de Disciplinas com Ementas ........................................... 34
+
+
+
+
+                                                                                                                             1
+I. Apresentação
+
+
+       A Universidade Federal de Goiás foi fundada em 14 de dezembro de 1960,
+pela lei n. 3.834-C, que dispunha, em seu Art. 2º, § 3º que o Poder Executivo
+deveria promover, no prazo de 3 anos, a criação de uma Faculdade de Filosofia,
+Ciências e Letras. Pelo decreto n. 51.582, de 8 de novembro de 1962, foi, então,
+criada a referida faculdade. O Diário Oficial da União publicou esse decreto em 14
+de novembro de 1962.
+       Com a reforma universitária de 1968, a Faculdade de Filosofia, Ciências e
+Letras foi desmembrada, dando origem ao Instituto de Ciências Humanas e Letras
+(ICHL). A reestruturação administrativa e acadêmica de 1996, por sua vez,
+propiciou o fracionamento desse instituto, resultando o estabelecimento da
+Faculdade de Letras (FL). O reconhecimento do curso de Letras da Universidade
+Federal de Goiás foi conferido pelo decreto n. 63.636, de 25 de novembro de 1968.
+       Este Projeto Pedagógico apresenta o curso de Letras: Linguística, que é
+oferecido na modalidade presencial, está inserido na grande área de Letras,
+Linguística e Artes e confere o título de Bacharel em Linguística. O curso de
+Letras: Linguística possibilita uma formação para o desenvolvimento de projetos
+de pesquisa teórica e assessoria aplicada em campos como a descrição e análise de
+línguas naturais, a relação entre linguagem e sociedade, a análise e crítica do texto e
+do discurso. O curso leva em conta, principalmente, a língua portuguesa e a cultura
+brasileira, as línguas indígenas do território nacional, e também sem perder de vista
+estudos de outras línguas, como o inglês, o espanhol, o francês e o italiano, línguas
+essas ministradas na Faculdade de Letras. Acrescente-se que o curso de Letras:
+Linguística atende à diversidade da reflexão linguística atual.
+       Destina-se o curso de Letras: Linguística da UFG, sobretudo, à formação
+de profissionais da linguagem que reflitam sobre a estrutura das línguas, que
+investiguem cuidadosamente os fenômenos linguísticos, que descreva e desenvolva
+pensamento sobre a relação entre as pessoas e o mundo mediada pelos usos da
+linguagem, considerando-se as formações sociais, a história e a cultura dos povos.
+O profissional em Linguística deve buscar compreender a linguagem humana em
+suas múltiplas dimensões. Para isso, o curso de Letras: Linguística forma
+profissionais que estabeleçam interfaces com a História, a Filosofia, as Ciências
+
+
+                                                                                     2
+Sociais, a Antropologia, as Ciências Políticas, a Geografia, as Ciências da
+Comunicação e às Ciências da Informação e Tecnologia.
+          A estrutura do curso, como será detalhado adiante, inclui Núcleo Comum
+aos demais cursos ministrados pela Faculdade de Letras, em turno de
+funcionamento diurno, a saber: Letras: Português; Letras: Espanhol; Letras:
+Francês; Letras: Inglês; e Bacharelado em Estudos Literários. Inclui, também,
+Núcleo Específico, consistindo em disciplinas obrigatórias e optativas, e Núcleo
+Livre, consistindo em disciplinas a serem escolhidas, pelo discente, dentre todas as
+oferecidas nessa categoria no âmbito da Universidade Federal de Goiás.
+          A opção pelo curso será feita já no processo seletivo, no qual há 10 vagas
+por ano, predominantemente no turno vespertino. O curso tem carga horária de
+3.048 horas, sendo 2.448 horas-aula – das quais 208 horas são destinadas às
+disciplinas de Monografia (1, 2 e 3), cuja finalidade é a orientação de pesquisa -,
+400 horas de Prática como Componente Curricular e 200 horas de Atividades
+Complementares. A duração mínima do curso é de 4 anos e a máxima de 6 anos.
+          Até o ano de 2011, o Projeto Pedagógico do Curso de Letras era único e
+englobava 4 licenciaturas (espanhol, francês, inglês e português) e 2 bacharelados
+(linguística e literatura). O presente projeto busca, portanto, adequar-se à exigência
+estabelecida no Ofício Circular no. 02/2010-CGOC/DESUP/SESu/MEC, que
+determina a readequação de cadastro de cursos no Sistema e-MEC, desvinculando
+cursos do tipo Bacharelado/Licenciatura e transformando as habilitações em
+cursos.
+          Saliente-se que o currículo que ora é apresentado contempla a dimensão
+pedagógica exigida, para os bacharelados, pela Resolução CNE/CES n. 02/2007.
+          Devido ao cenário de reforma que levou à transformação das habilidades em
+curso, que implicou também na reformulação das licenciaturas, tornou-se
+necessária uma mudança do currículo do curso de Letras: Linguística, conforme
+apresentada neste projeto. Tem-se consciência, porém, de que reformular currículos
+não significa “mudar etiquetas e aumentar [ou diminuir] o número de horas-aula”,
+como bem afirma Fiorin (2001, p. 15). O presente projeto pretende conferir
+organicidade ao currículo do curso de Letras: Linguística, assim como a
+distribuição de sua carga horária ao longo do curso e a flexibilização curricular.
+
+
+
+
+                                                                                     3
+       Conforme preveem as Diretrizes Curriculares para os cursos de Letras
+(BRASIL, 2001), buscou-se, com a flexibilização curricular, eliminar a rigidez
+estrutural do curso, de modo a facultar, ao discente em formação, opções de
+conhecimento e de atuação em sua área de trabalho. Isso promove uma abordagem
+pedagógica centrada no desenvolvimento da autonomia do discente, a qual, como
+consequência, permite obter o desdobramento do papel de professor na figura de
+orientador.
+       Ressalte-se que o RGCG possibilita a flexibilização curricular ao determinar
+a distribuição das disciplinas em três núcleos:
+
+
+   1) Núcleo Comum (NC): “conjunto de conteúdos comuns para a formação do
+       respectivo profissional”, compreendendo disciplinas obrigatórias cuja carga
+       horária total não deve exceder a 70% da carga horária total de disciplinas.
+
+   2) Núcleo Específico (NE): “conjunto de conteúdos que darão especificidade à
+       formação    do   profissional”,   compreendendo     disciplinas   optativas   e
+       obrigatórias, cuja carga horária total deve ser maior que 20% da carga
+       horária total de disciplinas. Acrescente-se que o “somatório da carga horária
+       do NC e do NE totalizará um mínimo de 80% da carga horária de
+       disciplinas”.
+
+   3) Núcleo Livre (NL): “conjunto de conteúdos que objetiva garantir liberdade
+       ao(à) discente para ampliar sua formação”, compreendendo “disciplinas
+       eletivas por ele escolhidas dentre todas as oferecidas nessa categoria no
+       âmbito da universidade”, cuja carga horária total deve ocupar um mínimo
+       de 5% do total da carga horária de disciplinas.
+
+
+       Assim, este projeto pedagógico busca adequar o currículo do curso de
+Letras: Linguística às normas estatuídas no âmbito da Universidade Federal de
+Goiás, por meio do RGCG, além de atender às determinações do Conselho
+Nacional de Educação, por meio de suas diretrizes, resoluções e pareceres.
+
+
+
+
+                                                                                     4
+II. Objetivo Geral e Objetivos Específicos
+
+       Esta proposta coincide com o que estabelece o Plano Nacional de
+Graduação (PNG), elaborado pelo Fórum de Pró-Reitores de Graduação das
+Universidades Brasileiras (2002, p. 10), quando afirma que
+
+
+                       a graduação necessita deixar de ser apenas o esforço da transmissão e da
+                       aquisição de informações para transformar-se no “locus” de
+                       construção/produção do conhecimento, em que o aluno atue como
+                       sujeito da aprendizagem.
+
+
+       Desse modo, este curso tem por objetivo geral proporcionar uma concepção
+formativa que traz como fundamento a atitude investigativa do discente no que
+concerne aos estudos linguísticos.
+       Pretende-se, assim, levar o discente a observar o fenômeno linguístico, a
+identificar um problema e analisá-lo, descrevê-lo ou explicá-lo, por meio de
+elaboração de hipóteses e fundamentado em pesquisas atualizadas. Para tanto, o
+discente é apresentado a teorias linguísticas que possibilitam a busca de
+conhecimento novo e não a reprodução do já sabido. Assim, afirma-se a função da
+universidade como produtora de conhecimento e como co-responsável pela busca
+de soluções para as questões sociais do País.
+       O curso apresentado neste projeto tem como objetivos específicos:
+       1. Formar linguistas capazes de análise, descrição e reflexão sobre diversos
+          fenômenos da linguagem em geral e das línguas em particular;
+       2. Promover o conhecimento acadêmico sobre linguagens e sobre as
+          práticas e discursos que a envolvem;
+       3. Proporcionar a prática da linguagem em todos os níveis;
+       4. Proporcionar, pelos estudos da linguagem humana, sua capacidade de
+          percebê-la como prática social e relacional;
+       5. Despertar e aprimorar habilidades de compreensão linguística variada;
+       6. Possibilitar atitudes de pesquisa pela visão crítica de perspectivas teóricas
+          e metodológicas adotadas nas investigações linguísticas, vistas em sua
+          relação com a sociedade.
+
+
+
+
+                                                                                             5
+       O quadro conceitual do Projeto de Formação, constante da resolução
+CEPEC n. 329, (UNIVERSIDADE FEDERAL DE GOIÁS, 1992, p. 12-13) é
+igualmente reiterado, em sua grande parte:
+
+                      A linguagem, nesse sentido [apreendida através da diversidade das
+                      línguas e da produção literária], deve ser entendida como uma
+                      capacidade complexa, própria da espécie humana. Essa capacidade
+                      implica, ao mesmo tempo, processos cognitivos e atividades simbólicas,
+                      relacionando-se com a representação do real, com as estruturas do
+                      inconsciente e com o imaginário.
+                      Tendo em vista essa complexidade, os estudos referentes à língua
+                      portuguesa, às línguas estrangeiras e às literaturas deverão concorrer
+                      especificamente para que o aluno de Letras compreenda os princípios
+                      fundamentais relativos a natureza e funções da linguagem, bem como
+                      aos fatores que intervêm na atividade, manifestação e desenvolvimento
+                      linguístico – “aquisição de linguagem”. Esses estudos, de forma geral,
+                      deverão concorrer para uma maior compreensão da natureza humana,
+                      para o desenvolvimento da capacidade intelectiva e criativa do aluno e,
+                      consequentemente, para o desenvolvimento social.
+                      Quanto aos princípios sobre a natureza da linguagem, destacam-se
+                      aqueles que a relacionam com diferentes aspectos: fisiológicos,
+                      psíquico/cognitivo, social, cultural, histórico, estético e ideológico.
+                      Esses aspectos, intrinsecamente associados, deverão ser vistos na
+                      perspectiva da linguagem em uso, sem contudo excluir a abordagem de
+                      propriedades estabelecidas pelas diversas teorias elaboradas a respeito.
+                      São múltiplas as funções da linguagem e, levando em conta o enfoque
+                      proposto, assim como a delimitação da área de domínio, postula-se a
+                      função comunicativa (em sentido amplo) como primordial: é a
+                      linguagem que possibilita a realização do indivíduo como ser humano,
+                      permitindo-lhe construir, elaborar e transmitir o pensamento. A
+                      linguagem permite-lhe, ainda, manifestar as emoções (função estético-
+                      expressiva), e construir sua identidade através da consciência de existir
+                      no mundo na relação com o outro.
+                      Em decorrência dessa conexão com o extralinguístico, os fatores que
+                      intervêm na atividade da linguagem referem-se à utilização do código
+                      oral e escrito, implicando a produção, recepção /compreensão, bem
+                      como a situação de comunicação que engloba o grupo, o local, o tópico
+                      e os objetivos comunicativos.
+
+     Assim, espera-se cumprir com o que determinam as Diretrizes curriculares
+para os cursos de Letras (BRASIL, 2001):
+
+                      Considerando os diversos profissionais que o curso de Letras pode
+                      formar, os conteúdos caracterizadores básicos devem estar ligados à área
+                      dos Estudos Linguísticos e Literários [...] [que] devem fundar-se na
+                      percepção da língua e da literatura como prática social e como forma
+                      mais elaborada das manifestações culturais.
+
+       Nesse sentido, o curso de Letras: Linguística funda-se na relação entre a
+capacidade de linguagem e as línguas como integrante das experiências sociais e
+culturais.
+
+
+
+                                                                                             6
+      Este novo Projeto Pedagógico foi elaborado para atender à determinação do
+MEC de que o curso de Letras não seja mais oferecido por meio de habilitações,
+mas sim por meio de cursos. Portanto, foi necessária a elaboração de um PPC para
+cada curso oferecido pela Faculdade de Letras.
+
+
+
+
+                                                                               7
+III. Princípios Norteadores para a Formação do Profissional
+
+
+a) Prática Profissional
+
+       A prática profissional do bacharel em Linguística da UFG ocorrerá,
+sobretudo, quanto ao planejamento, a organização e o desenvolvimento de ações
+voltadas à pesquisa linguística em geral: análise, descrição e reflexão sobre línguas,
+sobre a circulação de textos e discursos, sobre os usos e variedades linguísticas dos
+povos, sobre a elaboração de currículos e materiais didáticos para diferentes
+situações sociais, bem como o registro de grupos étnicos e sobre a documentação
+para o tratamento de dados linguísticos. Poderá, também, exercer funções que têm
+como foco principal a linguagem em uso.
+       Seguindo o Código Brasileiro de Ocupações (CBO) do Ministério do
+Trabalho, podem ser apontadas as seguintes ocupações para o Bacharel em
+Linguística:
+2035 – Pesquisadores das ciências sociais e humanas.
+2346-72 - Professor de linguística e linguística aplicada: Professor de linguística,
+Professor de linguística aplicada.
+2346-76 - Professor de filologia e crítica textual: Professor de crítica textual,
+Professor de filologia, Professor de filologia germânica, Professor de filologia
+portuguesa, Professor de filologia românica, Professor de linguística românica.
+2614-05 – Filólogo: Crítico textual, Filólogo dicionarista.
+2614-15    –   Linguista:    Lexicógrafo,    Lexicólogo,      Linguista   dicionarista,
+Terminógrafo, Terminólogo, Vocabularista.
+4241-05 - Entrevistador censitário e de pesquisas amostrais: Agente de coleta (censo
+e pesquisas amostrais), Agente de pesquisa, Entrevistador de campo, Recenseador.
+
+
+
+b) A Formação Técnica
+
+    O curso de Letras: Linguística é composto por disciplinas teóricas que dão
+suporte necessário à área de Letras (disciplinas do Núcleo Comum), bem como por
+disciplinas específicas para a formação do linguista (disciplinas do Núcleo
+Específico Obrigatório), compreendendo o desenvolvimento de um projeto de
+pesquisa que resultará em uma monografia a ser apresentada no final do curso,
+
+                                                                                     8
+conforme normas de apresentação de TCC da Faculdade de Letras. A
+integralização dessas disciplinas garante uma formação profissional consistente do
+bacharel em Linguística por meio do acesso a conhecimentos teóricos, técnicos e
+metodológicos.
+
+
+
+c) A Formação Ética e a Função Social do Profissional
+
+       O curso de Letras: Linguística da Universidade Federal de Goiás tem como
+um dos seus princípios norteadores o que preveem as Diretrizes curriculares para os
+cursos de Letras (BRASIL, 2001): “O profissional de Letras deverá [...] estar
+compromissado com a ética, com a responsabilidade social e educacional, e com as
+consequências de sua atuação no mundo do trabalho”. Dessa forma, o curso de
+Letras: Linguística, não se limitando a uma visão da universidade como instância
+reflexa da sociedade, preocupa-se com a formação de indivíduos envolvidos com
+ideais emancipatórios e aptos a transformar a realidade social.
+       A prática educativa é concebida em associação ao contexto político-social,
+considerando que
+
+                         todo exercício profissional se dá em um tempo e lugar determinados, em
+                         estreita relação com projetos que podem fechar ou abrir os horizontes
+                         humanos, consolidando exclusões sociais ou ensejando aberturas
+                         crescentemente integradoras dos diferentes segmentos da sociedade
+                         (FÓRUM DE PRÓ-REITORES DE GRADUAÇÃO DAS
+                         UNIVERSIDADES BRASILEIRAS, 2002, p. 10).
+
+
+       O curso de Letras: Linguística busca propagar o cultivo dos valores
+humanos, ressaltando a relação dialética entre estes e o pragmatismo da sociedade
+moderna (BRASIL, 2001). Promove ações que identifiquem e valorizem as
+diferenças, levando em conta o saber existente dos discentes, as experiências
+vividas, os significados compartilhados, as representações construídas nas
+interações sociais, a fim de reconstruir um quadro de referências nas dimensões
+cultural, técnica, social, política e ética.
+
+
+
+d) Articulação entre Teoria e Prática
+
+       Atendendo ao que dispõe a legislação e dando continuidade ao que vinha
+sendo desenvolvido na Faculdade de Letras, este projeto busca superar a dicotomia
+
+                                                                                             9
+teoria/prática, prevendo componentes curriculares articuladores da relação entre
+teoria e prática, ao longo da formação, nas diversas etapas do processo.
+       A realização da Prática como Componente Curricular (PCC) ao longo do
+curso, obrigatória a cada ano, conforme detalhado adiante, possibilita a articulação
+entre teoria e prática. As PCCs apresentam conexão com as diversas disciplinas,
+tanto do Núcleo Comum como do Núcleo Específico, envolvendo todo o corpo
+docente da Faculdade de Letras. Acata-se, assim, a exigência de se “incorporar
+outras formas de aprendizagem e formação presentes na realidade social”
+(FORGRAD, 2000, p. 110-111).
+       As atividades ligadas à pesquisa de iniciação científica, à iniciação à
+docência, às bolsas de licenciatura, de extensão e cultura, às bolsas de
+desenvolvimento de plano de estudo mantidas pela Assistência Social da UFG,
+bem como as ligadas à monitoria igualmente promovem essas interações. Espera-se
+levar o discente a perceber que a prática atualiza e questiona a teoria. Considera-se
+que, desse modo, o bacharel em Linguística estará mais apto a responder às
+necessidades educativas e tecnológicas da sociedade.
+
+
+
+e) A Interdisciplinaridade
+
+       Os Estudos Linguísticos têm conexão com outras ciências, tais como os
+Estudos Literários, a Educação, a Filosofia, a História, a Antropologia, a
+Sociologia, entre outras. Essa conexão tem estado presente, implícita ou
+explicitamente, nos conteúdos programáticos das diferentes disciplinas e demais
+atividades acadêmicas do curso de Letras: Linguística. O RGCG, ao permitir que
+o discente escolha disciplinas do Núcleo Livre, oferecidas por outras unidades
+acadêmicas da Universidade Federal de Goiás, possibilita o alargamento dessa
+conexão e uma formação mais geral ao estudante, nos âmbitos profissional, cultural
+e humanístico. Dessa forma, pensa-se o currículo em sua amplitude de saberes e
+diversidade de modalidades de execução.
+       Entretanto, se, por um lado, se apoia essa posição de inter-relação com
+diferentes áreas do conhecimento, por outro, concebe-se o currículo como uma
+seleção com vistas a uma formação específica, que não seria atingida com
+
+
+
+
+                                                                                  10
+pinceladas de conhecimentos oriundos de domínios diversos. Acredita-se, como
+alega Fiorin (2001, p. 20), que
+                       é a partir de sólidos conhecimentos num domínio específico do
+                       conhecimento que se pode abrir para as íntimas relações dos diversos
+                       campos do saber [...] [A] interdisciplinaridade estabelece-se como
+                       exigência do trabalho disciplinar, quando se verifica que um problema
+                       deve ser tratado sob diferentes óticas e perspectiva [...] [A]
+                       interdisciplinaridade não é dada como pré-condição, mas surge como
+                       exigência interna ao trabalho que está sendo realizado. Não é criada por
+                       decreto, mas construída no cotidiano do pesquisador.
+
+
+       Por esse motivo, a escolha das disciplinas optativas do Núcleo Específico do
+curso de Letras: Linguística restringir-se-á àquelas oferecidas pela Faculdade de
+Letras, conforme tabela de disciplinas constante neste documento.
+       Para atender às demandas legais (Lei 10.639/2003, alterada pela Lei
+11.465/2008 e as Diretrizes Curriculares Nacionais para Educação das Relações
+Étnico-raciais e para o Ensino de História e Cultura Afro-brasileira e Africana e
+Indígena), em todos os Projetos Pedagógicos dos Bacharelados oferecidos pela
+Faculdade de Letras há a disciplina Literaturas Africanas em Língua Portuguesa.
+Além do mais, este tópico é abordado anualmente por meio da oferta de projetos
+das atividades de Prática como Componente Curricular. É importante ressaltar que
+a Faculdade de Letras oferece o curso de Educação Intercultural, da qual
+participam alunos indígenas de diversos etnoterritórios da região etnoeducacional
+Araguaia-Tocantins. Por meio desse curso, há uma interação dos alunos e
+professores dos demais cursos com os alunos indígenas, o que promove uma
+formação discente intercultural no âmbito das relações etnicorraciais.
+       Já no que diz respeito às políticas de educação ambiental (Lei 9.795/1999 e
+Decreto no. 4.281/2002), a conscientização dos alunos para esse assunto é
+proporcionada pela oferta de projetos das atividades de Prática como Componente
+Curricular, propostos por professores da Faculdade de Letras, da área de ciências
+ambientais, que atuam na Educação Intercultural. A Faculdade de Letras também
+oferece a disciplina Ecolinguística como Núcleo Livre. Ademais, os alunos têm a
+possibilidade de fazer disciplinas de Núcleo Livre sobre esse assunto em outras
+Unidades Acadêmicas, como o IPTSP e o ICB.
+
+
+
+
+                                                                                            11
+IV. Expectativa da Formação do Profissional
+
+   a) Perfil do Curso
+
+      O curso de Letras: Linguística forma profissionais voltados ao estudo
+teórico e aplicado da linguagem em geral e das línguas em particular. O curso se
+concentra em disciplinas gerais da Linguística, orientando-se a domínios de teoria e
+análise linguística, análise de texto e discurso, bem como se desdobrando a
+domínios de aplicação.
+
+
+
+b) Perfil do Egresso
+
+      Como pode ser observado pelos objetivos do curso de Letras: Linguística,
+anteriormente descritos, e pelas demais considerações tecidas no decorrer deste
+documento, o presente projeto incorpora o que as Diretrizes curriculares para os
+cursos de Letras (BRASIL, 2001) definem como o perfil de formandos de Letras:
+
+                         O objetivo do Curso de Letras é formar profissionais interculturalmente
+                         competentes, capazes de lidar, de forma crítica, com as linguagens,
+                         especialmente a verbal, nos contextos oral e escrito, e conscientes de sua
+                         inserção na sociedade e das relações com o outro.
+                         Independentemente da modalidade escolhida [licenciatura ou
+                         bacharelado], o profissional de Letras deve ter domínio do uso da língua
+                         ou das línguas que sejam objeto de seus estudos, em termos de sua
+                         estrutura, funcionamento e manifestações culturais, além de ter
+                         consciência das variedades linguísticas e culturais. Deve ser capaz de
+                         refletir teoricamente sobre a linguagem, de fazer uso de novas
+                         tecnologias e de compreender sua formação profissional como processo
+                         contínuo, autônomo e permanente. [...] O profissional deve, ainda, ter
+                         capacidade de reflexão crítica sobre temas e questões relativas aos
+                         conhecimentos linguísticos e literários.
+
+      Prevê-se, sobretudo, a formação de um profissional crítico, reflexivo e
+investigativo, que esteja preparado para exercer uma prática cotidiana de formação
+continuada, considerando o eixo temático do curso: a linguagem humana.
+
+
+
+
+c) Habilidades do Egresso
+
+      Pensando um processo de aprendizagem que prepare o formando para a sua
+especificidade, mas que também o torne capaz de atuar em áreas afins, e baseando-
+se no que dispõem as Diretrizes curriculares para os cursos de Letras (BRASIL,
+
+
+                                                                                                12
+2001), esta proposta relaciona as seguintes competências e habilidades esperadas de
+um Bacharel em Linguística:
+
+      domínio teórico e crítico de modelos variados de análise de componentes
+       fonológico, morfossintático, lexical e semântico das línguas;
+      capacidade de reflexão analítica e crítica sobre a linguagem como fenômeno
+       amplo e interdisciplinar (psicológico, educacional, social, histórico, cultural,
+       político e ideológico);
+      domínio    básico   de     estudos   atualizados    sobre   variados   contextos
+       sociolinguísticos e interacionais;
+      conhecimento da estrutura e funcionamento de uma língua, nas perspectivas
+       sincrônica e diacrônica;
+      visão crítica das perspectivas teóricas adotadas nas investigações linguísticas;
+      preparação profissional atualizada, incluindo a utilização dos recursos da
+       informática, que permita o exercício criativo do processo de construção do
+       conhecimento;
+      percepção de diferentes contextos interculturais.
+
+
+
+
+                                                                                     13
+V. Estrutura Curricular
+
+
+        Como já foi mencionado anteriormente, seguindo a normatização do
+RGCG, as disciplinas são divididas em três núcleos: o Núcleo Comum (NC); o
+Núcleo Específico (NE), composto por dois conjuntos de disciplinas: o Núcleo
+Específico Obrigatório (NE-OBR) e o Núcleo Específico Optativo (NE-OPT); o
+Núcleo Livre (NL).
+
+        Deve-se observar que as disciplinas de NL não constam neste projeto, tendo
+em vista que sua oferta é aberta e sazonal, sendo, no entanto, aprovadas pelo
+Conselho Diretor, quando apresentadas por docentes da Faculdade de Letras.
+
+
+
+
+ a) Matriz Curricular
+
+        A matriz curricular do Curso de Letras: Linguística é formada por
+disciplinas do Núcleo Comum, bem como por disciplinas do Núcleo Específico
+Obrigatório e Optativo, conforme o quadro a seguir:
+
+
+
+      MATRIZ CURRICULAR DO CURSO DE LETRAS: LINGUÍSTICA
+
+
+                    Unidade                        Unidade
+    Disciplina     Responsável    Pré-requisito   Responsável CHS CHTS NÚCLEO NATUREZA
+Introdução aos         FL        NÃO HÁ              FL     4    64    NC      OBR
+Estudos da
+Linguagem
+Introdução aos         FL        NÃO HÁ              FL     4    64    NC      OBR
+Estudos
+Literários
+Leitura e              FL        NÃO HÁ              FL     4    64    NC      OBR
+Produção
+Textual
+Introdução à           FL        Introdução          FL     4    64    NC      OBR
+Linguística da                   aos Estudos
+Enunciação                       da Linguagem
+Introdução à           FL        Introdução          FL     4    64    NC      OBR
+Linguística                      aos Estudos
+Descritiva                       da Linguagem
+Teoria e Crítica       FL        Introdução          FL     4    64    NC      OBR
+da Literatura                    aos Estudos
+                                 Literários
+
+
+
+
+                                                                                     14
+Introdução à        FL   NÃO HÁ           FL   4   64    NE   OBR
+Língua Brasileira
+de Sinais -
+LIBRAS
+Latim 1             FL   NÃO HÁ           FL   4   64    NE   OBR
+Análise do          FL   Introdução à     FL   4   64    NE   OBR
+Discurso                 Linguística da
+                         Enunciação
+Semântica           FL   Introdução à     FL   4   64    NE   OBR
+                         Linguística da
+                         Enunciação
+Análise             FL   Introdução à     FL   4   64    NE   OBR
+Linguística              Linguística
+                         Descritiva
+Fonética e          FL   Não há           FL   4   64    NE   OBR
+Fonologia
+Fonologia do        FL   Introdução à     FL   4   64    NE   OBR
+Português                Linguística
+                         Descritiva
+Morfologia          FL   Introdução à     FL   4   64    NE   OBR
+                         Linguística
+                         Descritiva
+Morfologia do       FL   Introdução à     FL   4   64    NE   OBR
+Português                Linguística
+                         Descritiva
+Psicolinguística    FL   Introdução à     FL   4   64    NE   OBR
+                         Linguística
+                         Descritiva
+Sintaxe             FL   Introdução à     FL   4   64    NE   OBR
+                         Linguística
+                         Descritiva
+Sintaxe do          FL   Introdução à     FL   4   64    NE   OBR
+Português                Linguística
+                         Descritiva
+Semiótica           FL   Introdução à     FL   4   64    NE   OBR
+                         Linguística da
+                         Enunciação
+Sociolinguística    FL   Introdução       FL   4   64    NE   OBR
+                         aos Estudos
+                         da Linguagem
+Latim 2             FL   Latim 1          FL   4   64    NE   OBR
+Metodologia da      FL   100 % do NC,     FL   6   96    NE   OBR
+Pesquisa –               25% do NE
+Estudos
+Linguísticos
+Monografia 1 –      FL   Metodologia      FL   6   96    NE   OBR
+Estudos                  da Pesquisa -
+Linguísticos             Estudos
+                         Linguísticos
+Monografia 2 –      FL   Monografia 1     FL   6   96    NE   OBR
+Estudos                  – Estudos
+Linguísticos             Linguísticos
+Monografia 3 –      FL   Monografia 2     FL   7   112   NE   OBR
+Estudos                  – Estudos
+Linguísticos             Linguísticos
+
+Diversidade         FL   Introdução       FL   4   64    NE   OPT
+Linguística e            aos Estudos
+
+                                                                    15
+Direitos                 da Linguagem
+Humanos
+Educação para as    FL   Introdução       FL   4   64   NE   OPT
+Relações                 aos Estudos
+Etnicorraciais           da Linguagem
+Estudos             FL   Introdução à     FL   4   64   NE   OPT
+Diacrônicos do           Linguística
+Português                Descritiva
+Estudos do          FL   Introdução       FL   4   64   NE   OPT
+Léxico                   aos Estudos
+                         da Linguagem
+Estudos sobre       FL   Introdução       FL   4   64   NE   OPT
+Letramento               aos Estudos
+                         da Linguagem
+Internet e Ensino   FL   Introdução       FL   4   64   NE   OPT
+de Língua                aos Estudos
+Portuguesa               da Linguagem
+Introdução aos      FL   Introdução à     FL   4   64   NE   OPT
+Modelos                  Linguística
+Fonológicos Não          Descritiva
+Lineares
+Línguas             FL   Introdução à     FL   4   64   NE   OPT
+Indígenas                Linguística
+Brasileiras              Descritiva
+Linguística         FL   NÃO HÁ           FL   4   64   NE   OPT
+Antropológica
+Linguística         FL   Introdução       FL   4   64   NE   OPT
+Aplicada:                aos Estudos
+Línguas                  da Linguagem
+Estrangeiras
+Literaturas         FL   Introdução       FL   4   64   NE   OPT
+Africanas em             aos Estudos
+Língua                   Literários
+Portuguesa
+Pragmática          FL   Introdução à     FL   4   64   NE   OPT
+                         Linguística da
+                         Enunciação
+Produção do         FL   Leitura e        FL   4   64   NE   OPT
+Texto                    Produção
+Acadêmico                Textual
+Espanhol 1          FL   NÃO HÁ           FL   4   64   NE   OPT
+Espanhol 2          FL   Espanhol 1       FL   4   64   NE   OPT
+Espanhol 3          FL   Espanhol 2       FL   4   64   NE   OPT
+Espanhol 4          FL   Espanhol 3       FL   4   64   NE   OPT
+Francês 1           FL   NÃO HÁ           FL   4   64   NE   OPT
+Francês 2           FL   Francês 1        FL   4   64   NE   OPT
+Francês 3           FL   Francês 2        FL   4   64   NE   OPT
+Francês 4           FL   Francês 3        FL   4   64   NE   OPT
+Inglês 1            FL   NÃO HÁ           FL   4   64   NE   OPT
+Inglês 2            FL   Inglês 1         FL   4   64   NE   OPT
+Inglês 3            FL   Inglês 2         FL   4   64   NE   OPT
+Inglês 4            FL   Inglês 3         FL   4   64   NE   OPT
+Língua e Cultura    FL   NÃO HÁ           FL   4   64   NE   OPT
+Italiana 1
+
+
+                                                                   16
+Língua e Cultura    FL     Língua e          FL       4     64   NE       OPT
+Italiana 2                 Cultura
+                           Italiana 1
+Língua e Cultura    FL     Língua e          FL       4     64   NE       OPT
+Italiana 3                 Cultura
+                           Italiana 2
+Língua e Cultura    FL     Língua e          FL       4     64   NE       OPT
+Italiana 4                 Cultura
+                           Italiana 3
+Língua e Cultura    FL     Língua e          FL       4     64   NE       OPT
+Italiana 5                 Cultura
+                           Italiana 4
+Língua e Cultura    FL     Língua e          FL       4     64   NE       OPT
+Italiana 6                 Cultura
+                           Italiana 5
+
+
+
+LEGENDA:
+
+       NC: NÚCLEO COMUM
+       NE: NÚCLEO ESPECÍFICO
+       OBR: DISCIPLINAS DE NATUREZA OBRIGATÓRIA
+       OPT: DISCIPLINAS DE NATUREZA OPTATIVA
+       CHS: CARGA HORÁRIA SEMANAL
+       CHTS: CARGA HORÁRIA TOTAL POR SEMESTRE
+
+
+
+
+b) Quadro com Carga Horária
+
+       É a seguinte a distribuição da carga horária do curso:
+
+
+                                 CARGA HORÁRIA
+
+       NÚCLEO COMUM (NC)                                               384
+       NÚCLEO ESPECÍFICO OBRIGATÓRIO (NE-OBR)                         1.360
+       NÚCLEO ESPECÍFICO OPTATIVO (NE-OPT)                             576
+       NÚCLEO LIVRE (NL)                                               128
+       PRÁTICA COMO COMPONENTE CURRICULAR (PCC)                        400
+       ATIVIDADES COMPLEMENTARES                                       200
+       TOTAL                                                          3.048
+
+
+
+
+                                                                                17
+c) Sugestão de Fluxo Curricular para o Curso de Letras: Linguística
+
+              1º Semestre                 CHS THS                    2º Semestre               CHS THS
+Introdução aos Estudos Literários          4     64   Teoria e Crítica da Literatura            4   64
+Introdução aos Estudos da Linguagem        4     64   Introdução à Linguística Descritiva       4   64
+Leitura e Produção Textual                 4     64   Introdução à Linguística da Enunciação    4   64
+Latim 1                                    4     64   Latim 2                                   4   64
+Introdução à Língua Brasileira de Sinais - 4     64   Fonética e Fonologia                      4   64
+LIBRAS
+       TOTAL DE HORAS SEMANAIS 20                             TOTAL DE HORAS SEMANAIS          20
+    TOTAL DE HORAS SEMESTRAIS                   320         TOTAL DE HORAS SEMESTRAIS               320
+                                Prática como Componente Curricular (100h)
+
+
+              3º Semestre                 CHS THS                    4º Semestre               CHS THS
+Fonologia do Português                      4    64 Morfologia do Português                     4   64
+Morfologia                                  4    64 Sintaxe                                     4   64
+Disciplina de Núcleo Livre                  4    64 Sociolinguística                            4   64
+Disciplina Optativa                         4    64 Disciplina Optativa                         4   64
+Disciplina Optativa                         4    64 Disciplina Optativa                         4   64
+       TOTAL DE HORAS SEMANAIS 20                             TOTAL DE HORAS SEMANAIS          20
+    TOTAL DE HORAS SEMESTRAIS                   320         TOTAL DE HORAS SEMESTRAIS               320
+                                Prática como Componente Curricular (100h)
+
+
+              5º Semestre                 CHS THS                    6º Semestre               CHS THS
+Metodologia da Pesquisa em Linguística 6         96 Monografia 1 – Linguística                 6    96
+Psicolinguística                       4         64 Análise Linguística                        4    64
+Sintaxe do Português                   4         64 Disciplina Optativa                        4    64
+Disciplina Optativa                    4         64 Disciplina Optativa                        4    64
+        TOTAL DE HORAS SEMANAIS 18                          TOTAL DE HORAS SEMANAIS            18
+     TOTAL DE HORAS SEMESTRAIS                  288      TOTAL DE HORAS SEMESTRAIS                  288
+                                Prática como Componente Curricular (100h)
+
+
+              7º Semestre                 CHS THS                    8º Semestre               CHS THS
+Monografia 2 – Linguística      6                96 Monografia 3 – Linguística                 7    112
+Análise do Discurso             4                64 Semântica                                  4     64
+Disciplina de Núcleo Livre      4                64 Semiótica                                  4     64
+Disciplina Optativa             4                64 Disciplina Optativa                        4     64
+        TOTAL DE HORAS SEMANAIS 18                          TOTAL DE HORAS SEMANAIS            19
+     TOTAL DE HORAS SEMESTRAIS                  288      TOTAL DE HORAS SEMESTRAIS                  304
+                                Prática como Componente Curricular (100h)
+
+
+
+
+Núcleo Comum: 384 horas-aula (15,69 %)
+Núcleo Específico Obrigatório: 1.360 horas-aula (55,57 %)
+Núcleo Específico Optativo: 576 horas-aula (23,53 %)
+Núcleo Livre: 128 horas-aula (5,21 %)
+Total de horas-aula: 2.448 horas-aula
+
+Prática como Componente Curricular: 400 horas
+Atividades Complementares: 200 horas
+
+Total de horas do curso: 3.048 horas
+
+
+                                                                                                     18
+Obs.: O discente deverá inscrever-se em, no mínimo, uma (1) disciplina por
+semestre. O curso terá a duração mínima de 8 semestres e máxima de 12 semestres.
+
+
+
+d) Prática como Componente Curricular
+
+       A Resolução CNE/CP 2 (BRASIL, 2002) determina que os cursos de
+licenciatura devem dedicar “400 horas de prática como componente curricular,
+vivenciadas ao longo do curso”. Apesar de os bacharelados não serem regidos pela
+mesma determinação, a Faculdade de Letras entende que o discente poderá ampliar
+sua formação com as PCCs, visto tratar-se de uma atividade que integra teoria e
+prática. Assim, serão realizadas 4 PCCs ao longo do curso de Letras: Linguística,
+sendo uma por ano. Cada PCC terá a duração de 100 horas. A FL/UFG atende
+essa Resolução em seu item I do artigo 1º, bem como ao Parecer 15/2005 do CNE,
+que esclarece a diferença entre Prática como Componente Curricular (PCC),
+Atividades Práticas e Estágio Supervisionado. Conforme o CNE, “as atividades
+caracterizadas como prática como componente curricular podem ser desenvolvidas
+como núcleo ou como parte de disciplinas ou de outras atividades formativas”
+(CNE, 2005, p. 3). Dessa forma, a FL/UFG optou por desenvolver a PCC como
+núcleo e não como parte integrante das disciplinas do curso.
+       Durante a sua realização, que deverá ocorrer no primeiro semestre de cada
+ano, será reservada até uma semana para atividades de prática de pesquisa
+desenvolvidas nessa categoria.
+
+       No início de cada ano, a Coordenação do curso de Letras: Linguística
+aconselhará os discentes a, em grupos, procurarem um docente efetivo da unidade
+para a realização dessa prática, entendida como a inter-relação da teoria com a
+realidade social. Assim, prevê-se o envolvimento de todo o corpo docente da
+unidade no acompanhamento dessas atividades, que permeiam toda a formação do
+discente, levando-o a aprender, desde o início do curso, a pesquisar conteúdos
+teóricos, críticos e históricos.
+
+       A cada ano, os docentes devem preparar projetos para as atividades a serem
+realizadas durante o primeiro semestre. Dessa forma, o docente enviará à
+Coordenação da PCC o projeto a ser desenvolvido pelos discentes, em grupos de 3
+
+
+                                                                               19
+a 5 membros, num total máximo de 15 participantes. Após as inscrições dos
+discentes, o docente se reunirá com os inscritos em sua PCC para lhes passar
+orientações e material bibliográfico.
+
+       A Coordenação da PCC, juntamente com a Coordenação dos Cursos,
+indicará uma semana a ser destinada para o desenvolvimento de atividades de
+campo, que será apreciada e aprovada pelo Conselho Diretor da Faculdade de
+Letras. No final de cada ano, um relatório elaborado pelos discentes, a partir das
+observações realizadas durante as atividades, deve ser entregue ao(à) docente
+responsável. Os trabalhos poderão ser apresentados durante o Colóquio de Pesquisa
+e Extensão, realizado na Semana do Calouro, no início de cada ano letivo.
+
+
+
+
+e) Atividades Complementares
+
+       Quanto às outras formas de atividades acadêmico-científico-culturais, a
+Resolução CNE/CP 2 (BRASIL, 2002) determina, para os cursos de licenciatura,
+que sejam dedicadas 200 horas para esse fim. Este projeto prevê, portanto, a
+realização de 200 horas de atividades complementares que correspondem,
+principalmente, a participações em simpósios, seminários, congressos, cursos,
+minicursos e outros eventos científicos congêneres ou projetos de extensão,
+desenvolvidos na Faculdade de Letras, em outras unidades da Universidade
+Federal de Goiás, assim como em outras instituições.
+       Para que os certificados de participação, declarações de frequência,
+diplomas, entre outros documentos, sejam válidos, porém, é necessário que essas
+atividades estejam relacionadas direta ou interdisciplinarmente à área de Letras.
+Ademais, tais atividades devem ser de nível superior, ou equivalente, promovidas
+por instituições públicas ou privadas devidamente reconhecidas. Estabelece-se o
+limite de 20 horas, por evento, para o aproveitamento de atividades realizadas fora
+da Universidade Federal de Goiás. Estabelece-se, também, o limite máximo de 20
+horas para aproveitamento total de cursos realizados online, tendo em vista que o
+curso de Letras: Linguística prima pelo desenvolvimento formativo na modalidade
+presencial.
+
+
+
+
+                                                                                 20
+         Para os discentes do curso de Letras: Linguística, os cursos de Língua
+Portuguesa, de Línguas Estrangeiras e de Libras, oferecidos pelo Centro de Línguas
+da Faculdade de Letras da UFG ou por outros cursos de línguas não serão
+considerados como Atividades Complementares.
+         A presença em defesas de dissertação de mestrado (2 horas para cada defesa)
+ou tese de doutorado (4 horas para cada defesa), num limite total de 40 horas,
+poderá     ser   igualmente   computada    para   o   cumprimento     das   atividades
+complementares. Assim busca-se promover uma maior articulação entre a
+graduação e a pós-graduação e possibilitar que o discente tenha contato com a
+pesquisa e com a prática acadêmica das arguições públicas.
+         Todas as atividades do curso de Letras – sejam as disciplinas, seja a Prática
+como Componente Curricular ou ainda as Atividades Complementares – poderão
+ser realizadas, de acordo com as condições de oferta e/ou demanda, nos períodos
+de férias acadêmicas.
+
+
+
+
+                                                                                    21
+VI. Política e Gestão de Estágio Curricular
+
+
+ a) Estágio Curricular Obrigatório
+
+          Não há diretriz nacional nem resolução da Universidade Federal de Goiás
+que institua estágio curricular obrigatório para os bacharelados da área de Letras.
+
+
+
+b) Estágio Curricular Não Obrigatório
+
+          Este tipo de Estágio pode ser desenvolvido pelo discente do curso sem
+prejuízo do desenvolvimento do processo acadêmico. Não se configura como
+emprego, sendo proibido o estabelecimento de vínculos empregatícios, conforme
+consta na Lei no. 11.788, de 25 de setembro de 2008 (BRASIL, 2008). Essa
+modalidade de Estágio poderá ser desenvolvida a partir do 5º semestre letivo,
+durante o decorrer das atividades discentes do curso de Letras: Linguística, na
+modalidade presencial. Segundo a Resolução CEPEC no. 766, Art. 7º
+(UNIVERSIDADE FEDERAL DE GOIÁS, 2005), a finalidade do Estágio
+Curricular Não Obrigatório é ampliar o desenvolvimento profissional do discente,
+proporcionando-lhe a aquisição de conhecimentos que complementem a sua
+formação como bacharel em Linguística e como cidadão crítico e reflexivo. O
+Estágio Curricular Não Obrigatório somente será realizado em locais conveniados
+com a UFG ou por meio de Agentes de Integração devidamente conveniados e
+deverá abranger atividades ligadas à área, tais como: revisão, redação, edição de
+textos, assistente de entrevista em pesquisas amostrais, quantitativas ou
+qualitativas, assistente de edição de obras de linguística e demais áreas afins, entre
+outras.
+
+
+
+
+                                                                                      22
+VII. O Trabalho de Conclusão de Curso
+
+
+      Para a obtenção do grau de bacharel em Linguística, o discente deve
+realizar um Trabalho de Conclusão de Curso (doravante TCC), ou seja, um
+trabalho acadêmico, realizado individualmente, a partir de pesquisa sobre um tema
+relacionado com a sua área de formação profissional.
+      Para que isso seja possível, está prevista a oferta da disciplina Metodologia
+da Pesquisa – Estudos Linguísticos, no semestre imediatamente anterior às
+disciplinas de Monografia (1, 2 e 3) – Estudos Linguísticos, que tratará das normas
+científicas e das técnicas e procedimentos de pesquisa acadêmica, auxiliando o
+discente na construção de seu projeto de pesquisa. Já nas referidas disciplinas de
+Monografia, o discente será orientado a desenvolver pesquisa proposta em seu
+projeto. Serão estipulados, em regulamento específico, os procedimentos a serem
+adotados para a avaliação do TCC.
+
+
+
+
+                                                                                23
+VIII. Sistema de Avaliação do Processo de Ensino-Aprendizagem
+
+
+       A avaliação do discente deve servir não só para medir seu desempenho
+acadêmico, mas, sobretudo, para compor o processo educativo. O crescimento
+intelectual do discente deve ser incentivado, considerando-se os objetivos de cada
+etapa do processo de formação, valorizando-se as habilidades desenvolvidas.
+       A avaliação, entendida como forma de diagnóstico e acompanhamento do
+processo de aprendizagem, será realizada de modo contínuo e processual,
+apoiando-se em dados qualitativos e quantitativos. Ressalta-se a concepção do
+processo avaliativo com caráter formativo, no sentido de observar a evolução do
+desempenho discente, bem como indicar aspectos que podem ser melhorados.
+       O docente deve estar atento para reconhecer e assumir a diversidade cultural
+e social presente na universidade e na sociedade, valorizando-a. A avaliação deve
+constituir-se “um processo que considere as idiossincrasias e interesses específicos
+dos alunos, ao mesmo tempo em que respeite suas possibilidades intelectuais e
+sociais, além daquelas relativas ao tempo necessário para realizá-la” (FORGRAD,
+2000, p. 111).
+       No que se refere ao aspecto quantitativo da avaliação do desempenho, este
+projeto obedece ao que está previsto no Regulamento Geral dos Cursos de
+Graduação da Universidade Federal de Goiás.
+
+
+
+
+                                                                                 24
+IX. Integração ensino, pesquisa e extensão
+
+
+
+       O RGCG da Universidade Federal de Goiás (1996, p. 22-23), ao tratar do
+regime didático-científico, determina a indissociabilidade entre ensino, pesquisa e
+extensão, esclarecendo:
+
+                       Art. 54. O Ensino [...] será ministrado mediante a realização de cursos e
+                       outras atividades didáticas, curriculares e extracurriculares.
+
+                       Art. 60. A pesquisa, assegurada a liberdade de temas, terá por objetivo
+                       produzir, criticar e difundir conhecimentos culturais, artísticos,
+                       científicos e tecnológicos.
+
+                       Art. 62. A extensão terá como objetivo intensificar relações
+                       transformadoras entre a Universidade e a Sociedade, por meio de um
+                       processo educativo, cultural e científico.
+
+
+       Assim, a Faculdade de Letras busca a compreensão rigorosa dos métodos
+envolvidos na produção e comunicação dos saberes, articulando as três pontas
+desse tripé, considerando o que consta no Plano Nacional de Graduação (PNG),
+elaborado pelo Fórum de Pró-Reitores de Graduação das Universidades Brasileiras
+(2002, p. 10), em que consta:
+
+                       Ensino com extensão aponta para a formação contextualizada às agudas
+                       questões da sociedade contemporânea. Ensino com pesquisa aponta
+                       para o verdadeiro domínio dos instrumentos nos quais cada profissão se
+                       expressa, em seu próprio processo evolutivo.
+
+
+       As atividades de extensão da Faculdade de Letras originam-se na pesquisa e
+no ensino e se estendem ao público acadêmico, buscando também envolver a
+sociedade em geral. As ações compreendem palestras, conferências, seminários
+(como o de línguas estrangeiras, de linguística e língua portuguesa e de literatura e
+crítica), colóquios, simpósios e cursos, com a participação de especialistas da
+própria instituição, assim como de outras universidades ou demais entidades
+brasileiras e estrangeiras. A atuação dos docentes e discentes da Faculdade de
+Letras, nessas atividades, tem como objetivo apresentar propostas e alternativas de
+ensino, procurando proporcionar à sociedade questionamentos, reflexões e
+conhecimento no sentido de contribuir para a difusão e construção do saber e da
+cultura.
+
+
+                                                                                             25
+          No que tange à pesquisa, vista como princípio educativo e não apenas como
+princípio científico, observa-se uma articulação cada vez maior entre a graduação e
+a pós-graduação. Discentes da graduação participam de projetos de pesquisa de
+docentes que integram o Programa de Pós-Graduação. São convidados a assistir a
+palestras e conferências organizadas por esse Programa. Tomam conhecimento
+da(s) linha(s) de pesquisa em que atua cada docente durante o Colóquio de
+Pesquisa e Extensão que ocorre anualmente, no início do ano letivo, por ocasião da
+Semana do Calouro, bem como durante a realização do Seminário de Dissertações
+e Teses em andamento, do Programa de Pós-Graduação em Letras e Linguística,
+atividade que ocorre regularmente durante o segundo semestre letivo.
+          Dessa forma, procura-se superar o processo de ensino fragmentado,
+privilegiando ações integradas, nas quais a pesquisa é encarada como instrumento
+do ensino e a extensão como ponto de partida e de chegada da apreensão da
+realidade.
+          Para viabilizar essa integração, privilegia-se o regime de trabalho em tempo
+integral, com dedicação exclusiva (40h/DE), conforme ilustrado no quadro a
+seguir:
+                       Regime de trabalho      Número de docentes
+                     Parcial (20h)                     4
+                     Integral (40h/DE)                70
+
+
+
+
+                                                                                    26
+X. Política de Qualificação Docente e do Profissional Técnico-
+Administrativo da Faculdade de Letras
+
+          A Faculdade de Letras tem manifestado uma preocupação constante com a
+qualificação de seus formadores, de modo a atender à exigência da legislação em
+vigor quanto ao novo perfil de docente,
+
+                              que passa necessariamente, pela formação científica do professor na sua
+                              área de conhecimento, preferentemente no nível do doutorado, pelo
+                              conhecimento do complexo processo histórico de constituição de sua
+                              área, pela compreensão ampla e crítica dos métodos que produziram o
+                              conhecimento acumulado naquela especificidade, de modo a iniciar
+                              todo aluno aos fundamentos e aos métodos que produziram e produzem
+                              aquela ciência (FÓRUM DE PRÓ-REITORES DE GRADUAÇÃO
+                              DAS UNIVERSIDADES BRASILEIRAS, 2002, p. 22).
+
+
+          Seja por meio de autorização de afastamento para qualificação ou redução
+da carga horária dedicada ao ensino e demais atividades acadêmicas e
+administrativas, tem sido possibilitada a formação científica do docente na sua área
+de conhecimento (estudos linguísticos ou literários).
+          O quadro1 a seguir, que indica o número de docentes da unidade de acordo
+com sua titulação, pode comprovar essa preocupação:
+                              Titulação                Número de docentes
+                              Graduação                        2
+                              Mestrado                       23
+                              Doutorado                      49
+
+                          Dentre eles, 7 em doutoramento.
+                          Dentre eles, 8 com estágio pós-doutoral
+
+
+          Ressalte-se, ainda, que, nos últimos concursos para contratação de docente,
+foi exigida prioritariamente a titulação de doutor para a candidatura.
+          Por meio de concessão de passagem aérea e diárias, tem sido estimulada a
+participação de docentes com apresentação de trabalho em eventos científicos como
+congressos, seminários ou congêneres. Nessas ocasiões, docentes da unidade têm
+oportunidade tanto de adquirir novos conhecimentos, atualizando-se, como de
+divulgar os conhecimentos construídos na instituição.
+          No que se refere à qualificação do pessoal técnico-administrativo, a
+Faculdade de Letras tem possibilitado uma adequação no horário, entre os
+1
+    Dados atualizados em outubro de 2011.
+
+                                                                                                  27
+funcionários, de modo a viabilizar a realização de cursos de aperfeiçoamento. Além
+disso, o Centro de Línguas disponibiliza bolsas de estudo integrais para seus cursos.
+Ressalte-se também que a administração central da UFG tem uma política proativa
+de qualificação dos servidores.
+
+
+
+
+                                                                                  28
+XI. Sistema de Avaliação do Projeto Pedagógico do Curso de Letras:
+Linguística
+
+       A fim de propiciar o aperfeiçoamento contínuo e o crescimento qualitativo
+do curso, atribui-se, primeiramente, ao Núcleo Docente Estruturante a
+responsabilidade pela avaliação do projeto pedagógico. Em se observando
+necessidade de alterações no Projeto, estas serão apresentadas de modo
+formalizado ao Conselho Diretor da Faculdade de Letras para aprová-las,
+encaminhando a decisão às instâncias superiores da UFG, a saber: Câmara de
+Graduação e Câmara de Ensino, Extensão, Pesquisa e Cultura (CEPEC).
+       A Faculdade de Letras tem incentivado a participação de seus(suas)
+docentes em outros sistemas de avaliação externa, como os do INEP/MEC. Essas
+atividades se revertem em contribuição para o aperfeiçoamento da concepção e
+objetivos delineados no projeto, assim como para o perfil do profissional que se
+pretende formar.
+       A Resolução do Curso de Letras prevê a possibilidade de revisão da matriz
+curricular a cada dois anos.
+
+
+
+
+                                                                              29
+XII. Considerações Finais
+
+
+       Acredita-se que, por intermédio do ensino dos conteúdos programáticos
+desenvolvidos em cada disciplina, da promoção das demais atividades acadêmicas,
+da atenção conferida à capacidade de reflexão, questionamento e construção do
+conhecimento, o curso de Letras: Linguística da UFG possa formar profissionais
+que desenvolvam sua capacidade intelectiva e criativa por meio da linguagem,
+considerada nas suas múltiplas funções. Para tanto, terão contribuído, igualmente,
+a articulação entre a teoria e a prática, incentivada ao longo da formação, a ênfase
+na interdisciplinaridade e a indissociabilidade entre ensino, pesquisa, extensão e
+cultura.
+       Com este Projeto, pretende-se formar profissionais que apresentam uma
+atitude investigativa diante dos fatos da linguagem, que constituem sujeitos ativos
+capazes de transformar o mundo, que reconhecem e valorizam a diversidade, que
+propagam valores humanos.
+
+
+
+
+                                                                                 30
+XIII. Referências
+
+BRASIL. Conselho Nacional de Educação. Parecer CNE/CES 492, de 03 de abril de
+2001. Diretrizes curriculares para os cursos de Letras. 2001.
+
+_______. Conselho Nacional de Educação. Conselho Pleno. Resolução CNE/CP 2,
+de 19 de fevereiro de 2002. Institui a duração e a carga horária dos cursos de
+licenciatura, de graduação plena. 2002.
+
+_______. Conselho Nacional de Educação. Parecer CNE/CES 15, de 02 de
+fevereiro de 2005. Solicitação de esclarecimento sobre as Resoluções CNE/CP nºs
+1/2002, que institui Diretrizes Curriculares Nacionais para a Formação de
+Professores da Educação Básica, em nível superior, curso de licenciatura, de
+graduação plena, e 2/2002, que institui a duração e a carga horária dos cursos de
+licenciatura, de graduação plena, de Formação de Professores da Educação Básica,
+em nível superior. 2005.
+
+_______. Presidência da República. Lei 11.788, de 25 de setembro de 2008. Dispõe
+sobre o estágio de estudantes. 2008.
+
+_______. Ofício Circular no. 02/2010-CGOC/DESUP/SESu/MEC, de 16 de junho de
+2010.
+
+FIORIN, J. L. Curso de Letras: Desafios e perspectivas para o próximo milênio. In:
+Seminário Nacional de Literatura e Crítica, 4., Seminário Nacional de Linguística e
+Língua Portuguesa 2., 1999, Goiânia. Anais... Goiânia: Gráfica e Editora Vieira,
+2001. p. 13-21.
+
+FORGRAD. O currículo como expressão do projeto pedagógico: um processo flexível. Texto
+elaborado a partir da Oficina de Trabalho de Niterói/RJ, realizada de 17 a 19 de
+abril         de            2000.           Disponível             em:               <
+http://www.forgrad.com.br/arquivo/cur_expr_proj_ped.doc>. Acesso em: 11 set.
+2011.
+
+_______. Ensino de graduação: políticas, diretrizes e interfaces com a pesquisa e a extensão.
+Texto elaborado no XV Encontro Nacional do Fórum dos Pró-Reitores de
+Graduação, realizado em Recife/PE de 12 a 16 de maio de 2002. Disponível em:
+<http://www.forgrad.com.br/arquivo/carta_de_recife_introducao_xv_forgrad.rtf>
+. Acesso em: 11 set. 2011.
+
+UNIVERSIDADE FEDERAL DE GOIÁS. Conselho de Ensino Pesquisa
+Extensão e Cultura. Resolução CEPEC 329. Fixa o Currículo Pleno do curso de
+Letras - Licenciatura/Bacharelado. 1992.
+
+
+
+                                                                                          31
+_________. Conselho de Ensino Pesquisa Extensão e Cultura. Resolução CEPEC
+766. Disciplina os estágios curriculares obrigatórios e não obrigatórios dos Cursos
+de Bacharelado e Específicos da Profissão na Universidade Federal de Goiás. 2005.
+
+
+
+
+                                                                                 32
+Apêndice
+
+
+
+
+           33
+Apêndice A: Elenco de Disciplinas com Ementas
+
+
+
+                      DISCIPLINAS DO NÚCLEO COMUM
+
+INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM
+
+Panorama geral dos fenômenos da linguagem e suas abordagens científicas. As concepções
+de língua e linguagem. Trajetória dos estudos linguísticos desenvolvidos no âmbito da
+palavra, da oração, do texto e do discurso.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ILARI, R. O estruturalismo linguístico: alguns caminhos. In: MUSSALIM, F.; BENTES,
+A. C. (Org.). Introdução à linguística: fundamentos epistemológicos. v. 3. São Paulo: Cortez,
+2004. p. 53-92.
+FIORIN, J. L. (Org.). Introdução à linguística: objetos teóricos. São Paulo: Contexto, 2002.
+SARFATI, G.; PAVEAU, A.-M. As grandes teorias da linguística. Editora Claraluz, 2006.
+SAUSSURE, F. de. Curso de linguística geral. 16. ed. São Paulo: Cultrix, 1991.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BAKHTIN, M. MARXISMO E FILOSOFIA DA LINGUAGEM. SÃO PAULO: HUCITEC, 1995.
+CARBONI, F. Introdução à linguística. Belo Horizonte: Autêntica, 2008.
+GRANGER, G.-G. A ciência e as ciências. São Paulo: Editora UNESP, 1994.
+NEVES, M. H. de M. Gramática funcional. São Paulo: Martins Fontes, 1997.
+LOPES, E. Fundamentos da linguística contemporânea. São Paulo: Cultrix, 1996.
+MARTELOTTA, M. E. (Org.). Manual de linguística. São Paulo: Contexto, 2008.
+MARTIN, R. Para entender a linguística. São Paulo: Parábola, 2003.
+RAPOSO, E. Teoria da Gramática. A faculdade da linguagem. Lisboa: Caminho, 1992.
+WEEDWOOD, B. História concisa da linguística. São Paulo: Parábola, 2002.
+XAVIER, A.; CORTEZ, S. (Org.). Conversas com linguistas: virtudes e controvérsias da
+linguística. São Paulo: Parábola, 2003.
+
+
+
+
+INTRODUÇÃO AOS ESTUDOS LITERÁRIOS
+
+Introdução aos conceitos fundamentais da literatura. Abordagem da problemática dos
+gêneros literários. Leituras e estudos sistemáticos do poema, da narrativa e do drama.
+
+
+
+
+                                                                                          34
+BIBLIOGRAFIA BÁSICA:
+
+AGUIAR e SILVA, V. Teoria da Literatura. Coimbra: Almedina, 1983.
+AUERBACH, E. Introdução aos estudos literários. São Paulo, Cultrix, l972.
+COMPAGNON, A. O demônio da teoria: literatura e senso comum. Trad.: C. P. B. Mourão,
+C. F. Santiago. Belo Horizonte: Editora UFMG, 2001.
+CULLER, J. Introdução à Teoria Literária. São Paulo: Beca Edições, 1999.
+D’ONOFRIO, S. Teoria do texto 1. São Paulo: Ática, 1995.
+______. Teoria do texto 2. São Paulo: Ática, 1995.
+PORTELLA, E. et al. Teoria Literária. Rio de Janeiro: Tempo Brasileiro, 1979.
+SOUZA, R. A. de. Iniciação aos estudos literários. Objetos, disciplinas, instrumentos. São
+Paulo: Martins Fontes, 2006.
+STAIGER, E. Conceitos fundamentais de poética. Trad.: C. A. Galeão. Rio de Janeiro: Tempo
+Brasileiro, 1969.
+
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARISTÓTELES. HORÁCIO. LONGINO. A poética clássica. Trad.: J. Bruna. São Paulo:
+Cultrix, 1990.
+BARTHES, R. Existe uma escrita poética? In: ______. O grau zero da escrita: seguido de
+Novos ensaios críticos. Trad.: M. Laranjeira. São Paulo: Martins Fontes, 2000.
+CANDIDO, A. et al. A personagem de ficção. São Paulo: Perspectiva, 1976.
+COMPAGNON, A. O demônio da teoria. Literatura e senso comum. Trad.: C. P. B.
+Mourão. Belo Horizonte: Ed. UFMG, 1999.
+COSTA, L. M. da; REMÉDIOS, M. L. R. A tragédia. Estrutura e história. São Paulo:
+Ática, 1988.
+EAGLETON, T. Teoria da literatura: uma introdução. Trad.: W. Dutra. São Paulo: Martins
+Fontes, 1983.
+ECO, U. Sobre algumas funções da literatura. In _____. Sobre a literatura. 2.ed. Rio de
+Janeiro: Record, 2003.
+FISCHER, E. A necessidade da arte. Rio de Janeiro: Zahar, 1983.
+FOUCAULT, M. Linguagem e literatura. In: MACHADO, R. Foucault, a filosofia e a
+literatura. Rio de Janeiro: Jorge Zahar, 2000. p. 137-174.
+GONÇALVES, M. T.; BELLODI, Z. C. Teoria da literatura “revisitada”. Petrópolis, RJ;
+Vozes, 2005.
+JAKOBSON, R. Linguística e comunicação. São Paulo: Cultrix, 2001.
+JOBIM, J. L. (org.). Introdução aos termos literários. Rio de Janeiro: EDUERJ, 1999.
+MARX, K.; ENGELS, F. Cultura, arte e literatura: textos escolhidos. São Paulo: Expressão
+Popular, 2010 (Col. Arte e Sociedade).
+PLATÃO. Livro X. In: _____. A república. 2. ed. Trad.: J. Guinsburg. São Paulo: Difusão
+Européia do Livro, 1973. v. 1 p. 218-260.
+STALLONI, Y. Os gêneros literários. Trad.: F. Nascimento. Rio de Janeiro: Difel, 2001.
+WELLECK, R.; WARREN, A. Teoria da literatura. Lisboa: Publicações Europa-América,
+1976.
+
+
+
+
+                                                                                       35
+LEITURA E PRODUÇÃO TEXTUAL
+
+Prática de leitura e produção de textos com ênfase nos aspectos de sua organização.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+FIORIN, J. L.; SAVIOLI, F. P. Lições de texto: leitura e redação. São Paulo: Ática, 1999.
+FREIRE, P. A importância do ato de ler (em três artigos que se completam). São Paulo:
+Cortez, 1983.
+GERALDI, J. W. (Org.). O texto na sala de aula: leitura e produção. São Paulo: Ática, 1999.
+KOCH, I. V.; TRAVAGLIA, L. C. A coerência textual. São Paulo: Contexto, 1995.
+_______. A coesão textual. São Paulo: Contexto, 1993.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BAGNO, M. Preconceito linguístico: o que é, como se faz. São Paulo: Loyola, 1999.
+BECHARA. E. Ensino de gramática. Opressão? Liberdade? São Paulo: Ática, 1987.
+CUNHA, C.; CINTRA, L. Nova gramática do português contemporâneo. Rio de Janeiro: Nova
+Fronteira, 1985.
+FÁVERO. L. L. Coesão e coerência textuais. São Paulo: Ática, 1998.
+GARCIA, O. M. Comunicação em prosa moderna – aprenda a escrever, aprendendo a pensar.
+Rio de Janeiro: Editora da Fundação Getúlio Vargas, 1977.
+KOCH, I. V.; TRAVAGLIA, L. C. A coerência textual. São Paulo: Contexto, 1995.
+_______. A coesão textual. São Paulo: Contexto, 1993.
+LUFT, C. P. Língua e liberdade – o gigolô das palavras. Porto Alegre: L&PM, 1985.
+PAULINO, G.; WALTY, I.; FONSECA, M. N.; CURY, M. Z. Tipos de textos, modos de
+leitura. Belo Horizonte: Formato Editorial, 2001.
+PÉCORA, A. Problemas de redação. São Paulo: Martins Fontes, 1999.
+VAL, M. G. C. Redação e textualidade. São Paulo: Martins Fontes, 1994.
+
+
+INTRODUÇÃO À LINGUÍSTICA DA ENUNCIAÇÃO
+
+Teorias enunciativas e discursivas. Relações entre enunciado, enunciação, dialogismo,
+polifonia, heterogeneidade e argumentação. Componentes da situação enunciativa.
+Gêneros do discurso/texto. Aplicações à pesquisa e ao ensino.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAKHTIN, M. (VOLOCHINOV). Marxismo e filosofia da linguagem. 7. ed. São Paulo:
+Hucitec, 1995.
+BAKHTIN, M. Estética da criação verbal. Trad.: M. E. G. G. Pereira. 3. ed. São Paulo:
+Martins Fontes, 2000.
+BENVENISTE, E. Problemas de linguística geral I. Trad.: M. G. Novak; M. L. Neri. 5. ed.
+Campinas: Pontes, 2005.
+______. Problemas de linguística geral II. Trad.: M. G. Novak; M. L. Neri. 5. ed. Campinas:
+
+                                                                                        36
+Pontes, 2005.
+DUCROT, O. O dizer e o dito. Trad.: E. Guimarães Campinas: Pontes, 1987.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AUTHIER-REVUZ, J. Palavras incertas. As não-coincidências do dizer. Campinas-SP:
+Editora da UNICAMP, 1998.
+KERBRAT-ORECCHIONI, C. Análise da conversação: princípios e métodos. Trad.: C.
+Piovezani Filho. São Paulo: Parábola Editorial, 2006.
+_______. Os atos de linguagem no discurso: teoria e funcionamento. Niterói: EdUFF, 2005.
+
+
+INTRODUÇÃO À LINGUÍSTICA DESCRITIVA
+
+Conceitos básicos da linguística descritiva. O signo linguístico e suas relações. Os níveis de
+análise gramatical e seus respectivos objetos de investigação. Princípios de descrição
+linguística. Aplicações à pesquisa e ao ensino.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CASTILHO, A. Gramática do português brasileiro. São Paulo: Contexto, 2010.
+MATTOSO CÂMARA JR., J. Princípios de Linguística Geral. Rio de Janeiro: Ao Livro
+Técnico, 1998.
+PERINI, M. Princípios de linguística descritiva. São Paulo: Parábola, 2006
+SAUSSURE, F de. Curso de Linguística Geral. São Paulo: Cultrix, 1972.
+
+BIBLIOGRAFIA COMPLEMENTAR
+
+DUBOIS, J. et al. Dicionário de Linguística. São Paulo, Cultrix, 1988.
+LOBATO, M. L. Linguística e linguagem. In: ______. Sintaxe gerativa do português. Belo
+Horizonte: Vigília, 1986.
+LYONS, J. Linguagem e linguística. Rio de Janeiro: Guanabara, 1987.
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à linguística: domínios e fronteiras. São
+Paulo: Cortez, 2004. v. 1 e 2.
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à linguística. Fundamentos
+epistemológicos. São Paulo: Cortez, 2004. v. 3.
+ROBINS, R. H. Linguística Geral. Porto Alegre: Globo, 1981.
+ROBINS, R. Pequena história da linguística. Rio de Janeiro: Ao Livro Técnico, 1985.
+
+
+
+
+TEORIA E CRÍTICA DA LITERATURA
+
+Estudo dos conceitos fundamentais da teoria e da crítica literária. Estabelecimento de
+domínios das duas disciplinas. Funções, objetos e métodos. Análise de obras literárias.
+Teoria e Crítica Literárias no ensino de literatura.
+
+
+
+                                                                                           37
+BIBLIOGRAFIA BÁSICA:
+
+ARISTÓTELES. HORÁCIO. LONGINO. A poética clássica. Trad.: J. Bruna. São Paulo:
+Cultrix, 1990.
+AUERBACH, E. Mímesis: a representação da realidade na literatura ocidental. Trad.: G.
+Sperber. São Paulo: Perspectiva, 1971.
+BRUNEL, P. A crítica literária. São Paulo: Martins Fontes, 2003.
+COMPAGNON, A. O demônio da teoria: literatura e senso comum. Trad.: C. P. B. Mourão,
+C. F. Santiago. Belo Horizonte: Editora UFMG, 2001.
+EAGLETON, T. Teoria da literatura: uma introdução. Trad.: W. Dutra. São Paulo: Martins
+Fontes, 1983.
+EAGLETON, T. A função da crítica. Rio de Janeiro: Martins Fones, 2004.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BARBOSA, J. A. A biblioteca imaginária. São Paulo: Ateliê Editorial, 2003.
+CANDIDO, A. Literatura e sociedade. 9. ed. Rio de Janeiro: Ouro sobre azul, 2006.
+WINSATT, W. K.; BROOKS, C. Crítica literária: breve história. Lisboa: Calouste
+Gulbenkian, 1997.
+
+
+         DISCIPLINAS DO NÚCLEO ESPECÍFICO OBRIGATÓRIO
+
+INTRODUÇÃO À LINGUA BRASILEIRA DE SINAIS – LIBRAS
+
+Introdução às práticas de compreensão e produção em LIBRAS por meio do uso de
+estruturas e funções comunicativas elementares. Concepções sobre a Língua de Sinais. O
+surdo e a sociedade.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério
+da Educação e do Desporto/Secretaria de Educação Especial, 2001.
+
+GÓES, M. C. R. de. Linguagem, surdez e educação. Campinas, SP: Editora Autores
+Associados, 1999
+PIMENTA, N.; QUADROS, R. M. Curso de LIBRAS 1 – Iniciante. 3 ed. rev. e
+atualizada. Porto Alegre: Editora Pallotti, 2008.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Ensino de língua
+portuguesa para surdos: caminhos para a prática pedagógica. v 1. Brasília – DF: MEC/SEESP;
+2002
+CAPOVILLA, F. C., RAPHAEL, W. D. Dicionário Enciclopédico Ilustrado Trilíngüe da
+Língua de Sinais Brasileira, v 1 e 2. São Paulo: Editora da Universidade de São Paulo, 2001.
+
+
+                                                                                         38
+CAPOVILLA, F. C.; RAPHAEL, W. D. (Ed.). Enciclopédia da Língua de Sinais Brasileira. v.
+1 e 2. São Paulo: EDUSP, 2004
+GESSER, A. LIBRAS? Que língua é essa?: Crenças e preconceitos em torno da língua de
+sinais e da realidade surda. São Paulo: Parábola Editorial, 2009.
+QUADROS, R. M. de. Educação de Surdos: a aquisição da linguagem. Porto alegre: Artes
+Médicas, 1997
+QUADROS, R. M. de; KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos.
+ArtMed: Porto Alegre, 2004
+SACKS, O. Vendo Vozes: uma viagem ao mundo dos surdos. Tradução Laura Motta. São
+Paulo: Editora Cia das Letras, 1999.
+SASSAKI, R. K. Inclusão: construindo uma sociedade para todos. Rio de janeiro: WVA, 1997.
+
+LATIM 1
+
+Estudo morfossintático da língua latina. Estruturas do sistema verbo-nominal. Correlação
+entre estruturas linguísticas do Português e do Latim.
+
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+FARIA, E. Gramática da língua latina. Brasília: FAE, 1995.
+GARCIA, J. M. G. Língua latina: a teoria sintática na prática dos textos. Brasília: Ed. da
+UnB, 1997.
+REZENDE, A. M. Latina essentia. Belo Horizonte: Ed. da UFMG, 1996.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CART, A. et al. Gramática latina. São Paulo: TAQ/Edusp, 1986.
+FARIA, E. Dicionário escolar latino-português. Rio de Janeiro: Ministério da Educação e
+Cultura, FENAME (Fundação Nacional de Material escolar), 1982.
+LIMA, A. D. Uma estranha língua? Questões de linguagem e método. São Paulo: UNESP,
+1995.
+SARAIVA, F. R. dos Santos. Dicionário latino-português. Rio de Janeiro: Garnier, 2000.
+TORRINHA, F. Dicionário português latino. Porto: Maranus, 1945.
+
+ANÁLISE DO DISCURSO
+
+Vertentes da análise do discurso e sua contextualização histórica. Noções de discurso,
+ideologia, sujeito, história, efeito de sentido, condições de produção, ethos e cenografia.
+Formação discursiva, interdiscursividade.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BRANDÃO, H. N. Introdução à análise do discurso. Campinas: Editora da Unicamp, 1996.
+MAINGENEAU, D. Gênese dos discursos. Curitiba: Criar, 2005.
+ORLANDI, E. P. Análise de discurso: princípios e procedimentos. Campinas: Pontes, 2002.
+PÊCHEUX, M. Semântica e Discurso – uma crítica à afirmação do óbvio. Campinas, SP:
+
+                                                                                        39
+Editora da UNICAMP, 1997.
+SARFATI, G-E. Princípios da análise do discurso. Trad.: M. Bagno. São Paulo: Ática, 2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BRAIT, B. Bakhtin: conceitos-chave. São Paulo: Contexto, 2005.
+_______. Bakhtin: outros conceitos-chave. São Paulo: Contexto, 2006.
+FERNANDES, C. A. Análise do Discurso: reflexões introdutórias. Goiânia: Trilhas Urbanas,
+2005.
+FERNANDES, C. A.; SANTOS, J. B. C. (Org.). Análise do discurso: unidade e dispersão.
+Uberlândia: Entremeios, 2004.
+FOUCAULT, M. A ordem do discurso. São Paulo: Loyola, 1996.
+FAIRCLOUGH, N. Discurso e mudança social. Trad.: I. Magalhães. Brasília: Editora
+Universidade de Brasília, 2008.
+GREGOLIN, M. R. Discurso e mídia: a cultura do espetáculo. São Carlos: Claraluz, 2003.
+MUSSALIM, F.; BENTES, A. C. Introdução à Linguística. v. 2. São Paulo: Cortez, 2001.
+NAVARRO, P. (Org.). Estudos do texto e do discurso: mapeando conceitos e métodos. São
+Carlos: Claraluz, 2006.
+ORLANDI, E. P. (Org.). Gestos de leitura. 3.ed. Campinas, SP: Editora da Unicamp, 2010.
+
+
+
+SEMÂNTICA
+
+Objeto de estudo e percurso histórico da semântica. Teorias semânticas. Produção de
+significado nas línguas naturais, especialmente na língua portuguesa. Aplicações à pesquisa
+e ao ensino.
+
+BIBLIOGRAFIA BÁSICA:
+
+FREGE, G. Lógica e Filosofia da Linguagem. Trad.: P. Alcoforado. São Paulo:
+Cultrix/EDUSP, 1978.
+GREIMAS, A. J. Semântica estrutural. São Paulo, Cultrix, 1966.
+HJELMSLEV, L. T. Prolegômenos a uma teoria da linguagem. São Paulo: Cultrix, 2008.
+LYONS, J. Semântica. Lisboa: Presença/ Martins Fontes, 1980. v. I.
+LOPES, E. Fundamentos da linguística contemporânea. São Paulo: Cultrix, 2006.
+PIRES DE OLIVEIRA, R. Semântica Formal: uma breve introdução. Campinas: Mercado de
+Letras, 2001.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AUROUX, S. Filosofia da linguagem. Campinas: Editora da Unicamp, 1998. Anexo II.
+BENVENISTE, E. Problemas de linguística geral I e II. Campinas: Pontes, 1991.
+BLIKSTEIN, I. Kaspar Hauser ou a fabricação da realidade. 4. ed. São Paulo: Cultrix, 1995.
+BRÉAL, M. Ensaio de Semântica. Trad.: F. Aída et al. São Paulo: Pontes/Educ, 1992.
+ILARI, R; GERALDI, V. Semântica. São Paulo: Ática, 1994.
+MARQUES, M. H. D. Iniciação à semântica. Rio de Janeiro: Zahar, 1996.
+MATEUS, M. H. M. et al. Gramática da língua portuguesa. Coimbra: Almedina, 1983.
+OGDEN, C. K.; RICHARDS, I. A. O significado de significado. Rio de Janeiro: Zahar, 1972.
+
+
+                                                                                        40
+PIRES DE OLIVEIRA, R. Uma história de delimitações teóricas: trinta anos de Semântica
+no Brasil. DELTA, v. 15, n. esp., p. 291-321, 1999.
+RUSSELL, B. Da denotação. In: Ensaios escolhidos. São Paulo: Abril Cultural, 1978. (Os
+pensadores). p. 3-14.
+SAUSSURE, F. de. Curso de linguística geral. 16. ed. São Paulo: Cultrix, 1995.
+ULLMAN, S. Semântica: uma introdução à ciência do significado. 4. ed. Coimbra:
+Fundação Calouste Gulbenkian, 1977.
+
+
+ANÁLISE LINGUÍSTICA
+
+Análise de produtos da linguagem. A língua, a gramática e seus usos. O texto, a
+textualidade e os gêneros. O discurso, o sujeito, o sentido e a discursividade. A oralidade e
+a escrita. Os processos de produção e reelaboração de textos. Aplicações à pesquisa e ao
+ensino.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+GERALDI, J. W. Portos de passagem. São Paulo: Martins Fontes, 2002.
+KOCH, I. V. O texto e a construção dos sentidos. 7. ed. São Paulo: Contexto, 2003.
+MARCUSCHI, L. A. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola,
+2008.
+MARCUSCHI, L. A. Da fala para a escrita: atividades de retextualização. São Paulo:
+Cortez, 2004.
+NEVES, M. H. M. Que gramática estudar na escola: norma e uso na língua portuguesa. São
+Paulo: Contexto, 2003.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+FÁVERO, L. L.; ANDRADE, M. L. C. V. O; AQUINO, Z. G. O. Oralidade e escrita:
+perspectivas para o ensino de língua materna. São Paulo: Cortez, 1999.
+KOCH, I. V.; ELIAS, V. M. Ler e escrever: estratégias de produção textual. São Paulo:
+Contexto, 2009.
+
+FONÉTICA E FONOLOGIA
+
+Princípios gerais de produção e percepção dos sons das línguas naturais. Teorias e métodos
+de análise fonética, com ênfase na Fonética Articulatória. Prática de transcrição fonética e
+fonológica. Organização dos sons em sistemas fonológicos. Teorias e métodos de análise
+fonológica. Processos fonológicos.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CAGLIARI, L. C. Análise fonológica. Introdução à teoria e à prática com especial destaque
+para o modelo fonêmico. Campinas: Mercado das Letras, 2002.
+CALLOU, D.; LEITE, Y. Iniciação à fonética e à fonologia. Rio de Janeiro: Jorge Zahar
+Editor, 1990.
+
+                                                                                          41
+LYONS, J. Introdução à Linguística Teórica. São Paulo: Ed. Nacional/Ed. da USP, 1979.
+SILVA, T. C. Fonética e fonologia do português. São Paulo: Contexto, 1999.
+WEISS, H. E. Fonética articulatória. Guia e exercícios. 3a ed. Brasília: SIL, 1988.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BRANDÃO, S. F. Geografia linguística no Brasil. São Paulo: Ática, 1989.
+BISOL, L. Introdução a estudos de fonologia do português brasileiro. Porto Alegre: EDIPUCRS,
+2005
+COSERIU, E. Geografia linguística. Rio de Janeiro: Presença, 1987.
+CRYSTAL, D. Dicionário de Linguística e Fonética. Rio de Janeiro: Jorge Zahar Editor, 1988.
+HYMAN, L. M. Phonology: theory and analysis. New York: Holt, Rinehart and Winston,
+1975.
+JOHNSON, K. Acoustic and Auditory Phonetics. 2nd. ed. Oxford, UK; Victoria, Australia:
+Blackwell, [1997] 2003.
+KINDELL, G. E. Guia de análise fonológica. Brasília: SIL, 1981.
+_______. Manual de exercícios para análise fonológica. Brasília: SIL, 1981.
+LADEFOGED, P. Elements of Acoustic Phonetics. 2nd. ed. London; Chicago: University of
+Chicago Press, [1962] 1996.
+LADEFOGED, P.; MADDIESON, I. The sounds of the world’s languages. Oxford: Blackwell
+Publishers, 1996.
+REIS, C. Estudos em Fonética e Fonologia do Português. Belo Horizonte: FALE, 2002.
+RIOS, L. M. Subsídios da fonética e da fonologia para o ensino/aprendizagem de uma
+segunda língua. Cadernos de Letras, Goiânia, Série Linguística, n. 7, UFG, 1996.
+WETZELS, W. L. (Org.). Estudos fonológicos das línguas indígenas brasileiras. Rio de Janeiro:
+Editora da UFRJ, 1995.
+
+
+FONOLOGIA DO PORTUGUÊS
+
+Apresentação e análise do sistema e processos fonológicos do português brasileiro.
+Transcrição fonética e fonológica do português. Aspectos pertinentes à pesquisa e ao
+ensino de fonologia. Relações da fonologia com a escrita da língua portuguesa. O
+componente fonológico nas atividades de análise linguística.
+
+BIBLIOGRAFIA BÁSICA:
+
+CALLOU, D.; LEITE, Y. Iniciação à Fonética e à Fonologia. Rio de Janeiro: Jorge Zahar
+Editor, 1990.
+MAIA, E. M. No reino da fala: a linguagem e seus sons. São Paulo: Ática (Série Princípios),
+1985.
+MATTOSO CÂMARA JR., J. Problemas de Linguística Descritiva. Petrópolis: Vozes, 2010.
+SILVA, T. C. Fonética e fonologia do português. São Paulo: Contexto, 1999.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ABAURRE, M. B. M. Fonologia: a gramática dos sons. Letras. Santa Maria: UFSM, v. 5, p.
+9-24, 1993.
+BRANDÃO, S. F. Geografia linguística no Brasil. São Paulo: Ática, 1989.
+CAGLIARI, L. C. Alfabetização e Linguística. São Paulo: Scipione, 1995.
+
+                                                                                          42
+DELGADO MARTINS, M. R. Ouvir falar: Introdução à Fonética do Português. Lisboa:
+Caminho, 1988.
+FARACO, C. A. Escrita e alfabetização. São Paulo: Contexto, 1998.
+JAKOBSON, R. Fonema e Fonologia. Trad.: J. M. Câmara Jr. Rio de Janeiro: Liv.
+Acadêmica, 1972.
+MATTOSO CÂMARA JR., J. Princípios de Linguística Geral. Rio de Janeiro: Ao livro
+técnico, 1998.
+
+
+MORFOLOGIA
+
+Modelos de análise morfológica. Morfe, morfema, alomorfe. Palavra. Critérios para a
+identificação de classes de palavras em línguas diversas. Composição, derivação, flexão e
+outros processos morfológicos. Processos morfofonológicos.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ELSON, V.; PICKETT, V. Introdução à morfologia e à sintaxe. 2. ed. Petrópolis: Vozes, 1973.
+GLEASON JR., H. A. Introdução à Linguística Descritiva. 2. ed. Lisboa: Fundação Calouste
+Gulbenkian, 1985.
+MATTOSO CÂMARA JR. Problemas de linguística descritiva. Petrópolis: Vozes, 2010.
+ROSA, M. C. Introdução à morfologia. São Paulo: Contexto, 2000.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BASÍLIO, M. Teoria Lexical. São Paulo: Ática, 2001.
+KEHDI, V. Morfemas do português. São Paulo: Ática, 2001.
+_______. Formação de palavras do português. São Paulo: Ática, 2002.
+FROMKIM, V.; RODMAN, R. Introdução à linguagem. Coimbra: Almedina, 1993.
+LYONS, J. Introdução à Linguística Teórica. São Paulo: Ed. Nacional/Ed. da USP, 1979.
+MATEUS, M.H. et al. Fonética, fonologia e morfologia do português. Lisboa. Universidade
+Aberta, 1990.
+MATTHEWS, P. H. Morphology. 2. ed. Cambridge: Cambridge University Press, 1991.
+MATTOSO CÂMARA JR., J. Princípios de Linguística Geral. Rio de Janeiro: Ao livro
+técnico, 1998.
+PAYNE, T. E. Describing morphosyntax. A guide for field linguistics. Cambridge: Cambridge
+University Press, 1997.
+PETTER, M. M. T. Morfologia. In: FIORIN, J. L. (Org.). Introdução à Linguística II.
+Princípios de análise. São Paulo: Contexto, 2003. p. 59-79.
+RICHARDS, J. Exercícios de análise gramatical. Brasília: SIL, 1981.
+SÂNDALO, F. Morfologia. In: MUSSALIM, F.; BENTES, A. C. (org.). Introdução à
+Linguística. v. 1. São Paulo: Contexto, 2001. p. 181-206.
+STEINBERG, M. Morfologia inglesa. Noções introdutórias. São Paulo: Ática, 1985.
+WIESEMANN, U.; MATTOS, R. Metodologia de análise gramatical. Petrópolis: Vozes,
+1980.
+
+
+
+
+                                                                                        43
+MORFOLOGIA DO PORTUGUÊS
+
+Os principais processos morfológicos da língua portuguesa. A produtividade nos processos
+de formação de palavras em português. Aspectos relevantes da morfologia na pesquisa e no
+ensino da língua portuguesa. O componente morfológico nas atividades de análise
+linguística.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BASÍLIO, M. Teoria Lexical. São Paulo: Ática, 2001.
+BORBA, F. S. Introdução aos estudos linguísticos. São Paulo: Ed. UNESP, 2002.
+KEHDI, V. Morfemas do português. São Paulo: Ática, 2001.
+_______. Formação de palavras do português. São Paulo: Ática, 2002.
+MATTOSO CÂMARA JR., J. A estrutura da língua portuguesa. Petrópolis: Vozes, 2011.
+MONTEIRO, J. L. Morfologia portuguesa. Campinas: Pontes, 1991.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ALVES, I. M. NEOLOGISMO. SÃO PAULO: ÁTICA, 1995. COLEÇÃO PRINCÍPIOS.
+BASÍLIO, M. A Morfologia no Brasil: Indicadores e Questões. DELTA, v. 15, n. esp., p.
+53-70, 1999.
+CARONE, F. MORFOSSINTAXE. SÃO PAULO: ÁTICA, 1990. COLEÇÃO
+FUNDAMENTOS.
+FIORIN, J. L. INTRODUÇÃO À LINGUÍSTICA. SÃO PAULO: CONTEXTO, 2002.
+FROMKLIN, V. INTRODUÇÃO À LINGUÍSTICA. LISBOA: ALMEDINA, 1997.
+LOPES, E. FUNDAMENTOS DA LINGUÍSTICA CONTEMPORÂNEA. SÃO PAULO:
+CULTRIX, 1985.
+MATTOSO CÂMARA JR., J. Princípios de Linguística Geral. Rio de Janeiro: Ao Livro
+Técnico, 1998.
+MORENO, C. Morfologia Nominal do Português. 1997. Tese (Doutorado em Letras) –
+Faculdade de Letras, Pontifícia Universidade Católica do Rio Grande do Sul, Porto
+Alegre, 1997.
+MUSSALIN, F.; BENTES, A. C. (Org.). Introdução à linguística: domínios e fronteiras, v. 1.
+São Paulo: Cortez, 2001.
+ROCHA, L. C. Estruturas morfológicas do português. Belo Horizonte, Ed. UFMG, 1998.
+ROSA, M. C. INTRODUÇÃO À MORFOLOGIA. SÃO PAULO: CONTEXTO, 2002.
+GONÇALVES, C. A. Composição e derivação: polos prototípicos de um continuum?
+Pequeno estudo de casos. Salvador: UFBA, 2011.
+GONÇALVES, C. A. Introdução aos estudos morfológicos: flexão e derivação em português.
+São Paulo: Contexto, 2011.
+LEE. S. H. Morfologia e fonologia lexical do português do Brasil. 1995. Tese (Doutorado em
+Linguística)- Instituto de Estudos da Linguagem, Universidade Estadual de Campinas,
+Campinas 1995.
+LEMOS, J. M. Morfologia Portuguesa. 4. ed. São Paulo: Pontes, 2002.
+
+
+
+
+                                                                                       44
+PSICOLINGUÍSTICA
+
+Modelos teóricos de aquisição da linguagem. Aquisição da língua oral e escrita em L1 e
+L2. Os modelos teóricos da produção, da compreensão e da aquisição da linguagem e sua
+aplicação à pesquisa e ao ensino de línguas.
+
+
+Bibliografia Básica:
+
+ABAURRE, M. B. M. et al. Cenas de Aquisição da Escrita. São Paulo: Cia de Letras,1997.
+BRAGGIO, S. L. B. Da influência da prática de ensino no processo de aquisição da
+linguagem escrita. Letras em Revista, v.1, n.1/2. 1990.
+_______. Leitura e alfabetização: da concepção mecanicista à sociopsicolinguística. Porto Alegre:
+Artmed,1992.
+_______. (Org.). Contribuições da Linguística para a alfabetização. Goiânia: Ed. da UFG, 1995.
+_______. (Org.). Contribuições da Linguística para o ensino de línguas. Goiânia: Ed. da UFG,
+1998.
+MAIA. E. M. No reino da fala. A linguagem e seus sons. São Paulo: Ática, 1985.
+SCARPA, E. Aquisição da linguagem. In: MUSSALIN, F.; BENTES, A. C. (org.).
+Introdução à Linguística. v. 2. São Paulo: Cortez, 2002. p. 203-232.
+
+Bibliografia Complementar:
+
+ABAURRE, M. B. M. Língua oral e língua escrita: aspectos da aquisição da representação
+escrita da linguagem. Apresentado no IX Congresso Internacional da ALFAL. 1990. Mímeo.
+_______. Os estudos linguísticos e a aquisição da escrita. In: ENCONTRO
+NACIONAL SOBRE AQUISIÇÃO DA LINGUAGEM, 2., 1992, Porto Alegre.
+Anais... Porto Alegre: PUCRS - CEAAL, 1992.
+_______. Língua oral, língua escrita: interessa à linguística, os dados da
+representação escrita da linguagem? CONGRESSO INTERNACIONAL DE
+LINGUÍSTICA E FILOLOGIA DA AMÉRICA LATINA (ALFAL), 9., 1993,
+Campinas. Atas... Campinas: IEL/UNICAMP, 1993.
+_______. Explorando os limites da sistematicidade: Indícios da emergência de
+traços estilísticos na escrita infantil. Estudos Linguísticos XXII. SEMINÁRIO DO
+GEL, 40., 1993, Ribeirão Preto. Anais... v.1. Ribeirão Preto: Instituição Moura
+Lacerda, 1993.
+_______. Indícios das primeiras operações de reelaboração de textos infantis.
+Estudos Linguísticos XXXIII, SEMINÁRIO DO GEL, 41., São Paulo. Anais... v.1,
+São Paulo: USP, 1994.
+_______. Horizontes e limites de um programa de investigação em aquisição da escrita.
+2001. Mímeo.
+BALIEIRO JR., A. P. Psicolinguística. In: MUSSALIN, F.; BENTES, A. C. (org.).
+Introdução à Linguística. v. 2. São Paulo: Cortez, 2002. p. 171-201.
+GNERRE, M. Linguagem, Escrita e Poder. São Paulo: Martins Fontes, 1991.
+LEMOS, C. T. G. A sintaxe no espelho. Cadernos de Estudos Linguísticos, n. 10, 1986.
+_______. Sobre a aquisição da linguagem e seu dilema: pecado original. CEAAL-PUCRS.
+1989.
+_______. Uma abordagem socio-construtivista na aquisição da linguagem: um percurso e
+muitas questões. CEAAL-PUCRS, 1989. Mímeo.
+
+
+                                                                                              45
+_______. Língua e discurso na teorização sobre aquisição da linguagem, 1993. Mímeo.
+SMOLKA, A. L. B. A criança na fase inicial da escrita. São Paulo: Cortez, 1988.
+VYGOTZKY, L. S. Pensamento e Linguagem. São Paulo: Martins Fontes, 1987.
+_______. A Formação Social da Mente. São Paulo: Martins Fontes, 1984.
+_______ et al. Linguagem, desenvolvimento e aprendizagem. São Paulo: Ícone Editora.
+SLOBIN, D. Psicolinguística. São Paulo: EDUSP, 1980.
+
+
+
+SINTAXE
+
+Introdução aos paradigmas funcionalista e gerativista para o estudo da linguagem com base
+na análise de fenômenos das línguas naturais.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CASTILHO, A. T. Gramática do Português Brasileiro. São Paulo: Contexto, 2010.
+MATEUS, M. H. M. et al. Gramática da língua portuguesa. 6ª. ed. Lisboa: Caminho,
+2003.
+MIOTO, C.; SILVA, M. C. F.; LOPES, R. E. V. Novo Manual de Sintaxe. Florianópolis:
+Insular, 2005.
+NEVES, M. H. M. A Gramática Funcional. São Paulo: Contexto, 1997.
+PERINI, M. Estudos de gramática descritiva: as valências verbais. São Paulo: Ática, 2008.
+RAPOSO, E. Teoria da Gramática: a faculdade da linguagem. Lisboa: Caminho, 1992.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BECHARA, E. Moderna gramática portuguesa. Rio de Janeiro: Lucerna, 1999.
+BECHARA, E. Lições de português pela análise sintática. 16ª ed. rev. E ampl. Rio de Janeiro:
+Lucerna, 2002.
+CASTILHO, A.; KATO, M. (Org.). Gramática do Português Culto Falado no Brasil: a
+estrutura da sentença. Vol. 3. Campinas, SP: Editora da Unicamp, 2009.
+CHOMSKY, N. O conhecimento da língua: sua natureza, origem e uso. Tradução de
+Anabela Gonçalves e Ana Tereza Alves. Lisboa: Caminho, 1994. (obra original (1986))
+CUNHA, C.; CINTRA, L. Nova Gramática do Português Contemporâneo. 4 ed. revista. Rio de
+Janeiro: Lexikon Editora Digital, 2007.
+CUNHA, M. A. F.; OLIVEIRA, M.R.; MARTELOTTA, M. E. (Org.). Linguística
+Funcional: teoria e prática. Rio de Janeiro: DP&A, 2003.
+FIORIN, J. L. (Org.). Introdução à Linguística I: objetos teóricos. São Paulo: Contexto,
+2002.
+FIORIN, J. L. (Org.). Introdução à Linguística II: princípios de análise. São Paulo: Contexto,
+2002.
+KURY, A. da G. Novas lições de análise sintática. 9ª. São Paulo: Ática, 2006.
+MARTELOTTA, M. E. (Org.) Manual de linguística. São Paulo: Contexto, 2008.
+MUSSALIN, F.; BENTES, A.C. (Orgs.) Introdução à Lingüística: domínios e fronteiras, v.
+1. São Paulo: Cortez, 2001.
+NEGRÃO, E. et al.. Sintaxe: explorando a estrutura da sentença. In: FIORIN, J.L.
+Introdução à lingüística: II. São Paulo: Contexto, 2005. p.81-109.
+
+
+
+                                                                                           46
+OTHERO, G. de A. Teoria X-barra: descrição do português e aplicação computacional. São
+Paulo: Contexto, 2006.
+SILVA, M. C. S.; KOCH, I. V. Linguística aplicada ao ensino: sintaxe. São Paulo: Cortez,
+1997.
+
+
+SINTAXE DO PORTUGUÊS
+
+Estudo dos processos de estruturação sintática aplicado à pesquisa e ao ensino do
+português.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+GALVES, C. C. Ensaios sobre as gramáticas do português. Campinas, SP: Editora da
+Unicamp, 2001.
+GONÇALVES, S. C. L., M. C.; LIMA-HERNANDES; CASSEB-GALVÃO, V. C.
+(Org.). Introdução à gramaticalização: uma homenagem à Maria Luiza Braga. São Paulo:
+Parábola Editorial, 2007.
+NEVES, M. H. M. Que gramática ensinar na escola? São Paulo: Contexto, 2003.
+_______. A gramática: história, teoria e análise, ensino. São Paulo: Editora da UNESP,
+2002.
+_______. A gramática de usos do português. São Paulo: Editora da UNESP, 2000.
+PONTES, E. Sujeito: da sintaxe ao discurso. São Paulo: Ática, 1986.
+VIEIRA, S. R.; BRANDÃO, S. F. (Org.). Ensino de gramática: descrição e uso. São Paulo:
+Contexto, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BECHARA, E. Moderna gramática portuguesa. Rio de Janeiro: Lucerna, 1999.
+CASTILHO, A.; KATO, M. (Org.). Gramática do Português Culto Falado no Brasil: a
+estrutura da sentença. V. 3. Campinas, SP: Editora da Unicamp, 2009.
+CUNHA, C.; CINTRA, L. Nova Gramática do Português Contemporâneo. 4. ed. revista. Rio
+de Janeiro: Lexikon Editora Digital, 2007.
+GALVES, C. C. O enfraquecimento da concordância no português brasileiro. In:
+ROBERTS, Ian; KATO, M. A. (Org.). Português Brasileiro: uma viagem diacrônica. 2. ed.
+São Paulo: Editora da Unicamp, 1996. p. 387-408.
+ILARI, R.; NEVES, M. H. M. (Org.). Gramática do Português Culto Falado no Brasil: a
+estrutura da sentença. Vol. 2. Campinas, SP: Editora da Unicamp, 2008.
+ILARI, R.; NEVES, M. H. M. Gramática do português culto falado no Brasil: classes de
+palavras e processos de construção. Vol. 2. Campinas, São Paulo: Editora da Unicamp,
+2008.
+ILARI, R. A expressão do tempo em Português. São Paulo: Contexto, 2001.
+NEGRÃO, E. V.; SCHER, A. P.; VIOTTI, E. C. Sintaxe: explorando a estrutura da
+sentença. In: FIORIN, J. L. (Org.). Introdução à Linguística II: princípios de análise. 4. Ed.
+São Paulo: Contexto, 2008.
+NEVES, M. H. M. Ensino de língua e vivência de linguagem. São Paulo: Contexto, 2010.
+PERINI, M. Gramática descritiva do português. São Paulo: Ática, 2000.
+PERINI, M. A. Princípios de Linguística Descritiva: introdução ao pensamento gramatical.
+São Paulo: Parábola, 2006.
+
+
+                                                                                           47
+SEMIÓTICA
+
+Semiótica da ação. Noção de texto. Enunciação. Estruturas fundamentais, narrativas e
+discursivas. Semissimbolismo. Semiótica das paixões.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BARROS, D. L. P. de. Teoria semiótica do texto. São Paulo: Ática, 1990.
+_______. Teoria do discurso. São Paulo: Humanitas, 2002.
+BERTRAND, D. Caminhos da semiótica literária. Trad.: Grupo CASA. Bauru/SP: EDUSC,
+2003.
+BENVENISTE, E. Problemas de linguística Geral I e II. Trad.: M. G. Novak; M. L. Neri.
+SP: Pontes, 1995.
+FONTANILLE, J.; ZILBERBERG, C. Tensão e significação. Trad.: I. C. Lopes; L. Tatit;
+W. Beividas. São Paulo: Discurso Editorial: Humanitas/FFLCH/USP, 2001.
+GREIMAS, A.; FONTANILLE, J. Semiótica das paixões. São Paulo: Ática, 1993.
+LOPES, I. C.; HERNANDES, N. (Org.). Semiótica: objetos e práticas. São Paulo:
+Contexto, 2005.
+NÖTH, W. A semiótica no século XX. São Paulo: Annablume, 1999.
+PIETROFORTE, A. V. Semiótica visual. São Paulo: Contexto, 2004.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BAKHTIN, M. Marxismo e filosofia da linguagem. São Paulo: Hucitec, 1995.
+COURTÉS, J. Intoduction à la sémiotique narrative et discursive. Paris: Hachette, 1976.
+GREIMAS, A. J. Semântica estrutural. São Paulo: Cultrix, 1973.
+GREIMAS, A.; COURTÉS, J. Dicionário de semiótica. São Paulo: Cultrix, 1979.
+FIORIN, J. L. Elementos de análise do discurso. São Paulo: Contexto, 2001.
+________. Introdução à linguística. São Paulo: Contexto, 2002.
+________. Linguagem e ideologia. São Paulo: Ática, 2002.
+________. As astúcias da enunciação. São Paulo: Ática, 2001.
+FLOCH, J-M. Sémiotique, marketing et communication. Paris: PUF, 1985.
+________. Identités Visuelles. Paris: PUF, 1995.
+CHARAUDEAU, P.; MAINGUENEAU, D. Dicionário de análise do discurso. São Paulo:
+Contexto, 2004.
+HJELMSLEV, L. Prolegômenos a uma teoria da linguagem. Paris: Minuit, 1943.
+FIORIN, L. J.; SAVIOLI, F. P. Lições de texto: leitura e redação. São Paulo: Ática, 1996.
+
+
+
+SOCIOLINGUÍSTICA
+
+Concepção sociolinguística de linguagem. O paradigma sociolinguístico de estudo da
+linguagem. Metodologias de estudos sociolinguísticos. Os conceitos e as concepções de
+variação e mudança linguística na Sociolinguística. Modelos de descrição sociolinguística
+do português brasileiro. Sociolinguística aplicada ao ensino de línguas.
+
+
+
+                                                                                      48
+BIBLIOGRAFIA BÁSICA:
+
+ALKMIM, T. Sociolinguística – Parte I. In: MUSSALIM, F.; BENTES, A. C. (Org.).
+Introdução à Linguística. v. 1. São Paulo: Cortez. 2001. p. 21-47.
+MOLLICA, M. C.; BRAGA, M. L. (org.). Introdução à Sociolinguística: o tratamento da
+variação. São Paulo: Contexto, 2003.
+TARALLO, F.; ALKMIM, T. Falares crioulos. Línguas em contato. São Paulo: Ática, 1987.
+TARALLO, F. A pesquisa sociolinguística. São Paulo: Ática, 2000.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BELINE, R. A variação linguística. In: FIORIN, J. L. (Org.). Introdução à
+Linguística. v. I (Objetos teóricos). São Paulo: Contexto, 2002. p. 121-140.
+CAMACHO, R. Sociolinguística – Parte II. In: MUSSALIM, F.; BENTES, A. C.
+(Org.). Introdução à Linguística. v. 1. São Paulo: Cortez. 2001. p. 49-75.
+FIORIN, J. L. A linguagem em uso. In: FIORIN, J. L. (Org.). Introdução à
+Linguística. v. I (Objetos teóricos). São Paulo: Contexto, 2002. p. 165-186.
+ FERREIRA, C. et. al. Diversidade do português do Brasil – estudos de dialectologia
+rural e outros. Salvador: Editora UFBA, 1988.
+ ILARI, R.; BASSO, R. O português da gente. São Paulo: Contexto, 2006.
+ MOLLICA, M. C. Fala, letramento e inclusão social. São Paulo: Contexto, 2007.
+ NARO, A. J.; SCHERRE, M. M. P. Origens do português brasileiro. São Paulo:
+Parábola, 2007.
+ RIBEIRO, B. T.; GARCEZ, P. M. Sociolinguística interacional. Porto Alegre: AGE,
+1998.
+ TARALLO, F. (Org.). Fotografias sociolinguísticas. Campinas, SP: Pontes/Editora
+Unicamp, 1989.
+
+LATIM 2
+
+Elementos para compreensão de textos latinos. A fraseologia latina. A língua latina e os
+processos de tradução.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+FARIA, E. Gramática da língua latina. Brasília: FAE, 1995.
+GARCIA, J. M. G. Língua latina: a teoria sintática na prática dos textos. Brasília: Editora
+da UnB, 1997.
+REZENDE, A. M. Latina essentia. Belo Horizonte: Ed. da UFMG, 1996.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CART, A. et al. Gramática latina. São Paulo: TAQ/Edusp, 1986.
+LIMA, A. D. Uma estranha língua? Questões de linguagem e método. São Paulo: UNESP,
+1995.
+SARAIVA, F. R. dos S. Dicionário latino-português. Rio de Janeiro: Garnier, 2000.
+TORRINHA, F. Dicionário português latino. Porto: Maranus, 1945.
+
+                                                                                        49
+METODOLOGIA DA PESQUISA – ESTUDOS LINGUÍSTICOS
+
+Modelos de ciência e delimitação de objeto. Linguagem, objetos e métodos. Técnicas de
+produção do trabalho acadêmico e elaboração de projeto de Trabalho de Conclusão de
+Curso (TCC).
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ECO, U. Como se faz uma tese. Trad.: G. C. C. de Souza. São Paulo: Perspectiva, 1991.
+(Estudos, 85).
+KÖCHE, J. C. Fundamentos de metodologia científica: teoria da ciência e prática de pesquisa.
+Petrópolis: Vozes, 1997.
+KUHN, T. S. A estrutura das revoluções científicas. Trad.: B. V. Boeira; N. Boeira. 9. ed. São
+Paulo: Perspectiva, 2005. (Debates, 115).
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à Linguística: domínios e fronteiras, v.
+3. São Paulo: Cortez, 2001.
+SALOMON, D. V. Como fazer uma monografia. São Paulo: Martins Fontes, 1999.
+TACHIZAWA, T., MENDES, G. Como fazer monografia na prática. Rio de Janeiro: FGV,
+1998.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: informação e
+documentação: citações em documentos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e
+documentação: trabalhos acadêmicos: apresentação. 2. ed. Rio de Janeiro, 2005.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15287: informação e
+documentação: projeto de pesquisa: apresentação. Rio de Janeiro, 2005.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e
+documentação: referências: elaboração. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: informação e
+documentação: numeração progressiva das seções de um documento escrito: apresentação. Rio de
+Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: informação e
+documentação: sumário: elaboração. Rio de Janeiro, 2003.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 196 de 1996. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos. Bioética, Brasília, n. 4,
+p. 15-26, 1996.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 304 de 2000. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos – área de povos
+indígenas. Disponível em: www.conselho.saude.gov.br/deliberacoes/resolucoes.htm,
+2001.
+GRANGER, G-G. A ciência e as ciências. Trad.: R. L. Ferreira. São Paulo: Editora UNESP,
+1994.
+IANNI, O. Estilos de pensamento: explicar, compreender, revelar. Araraquara: Laboratório
+Editorial/FCL Unesp, 2003.
+MACHADO, A. R., LOUSADA, E. G., ABREU-TARDELLI, L. S. Trabalhos de pesquisa:
+diários de leitura para a revisão bibliográfica. São Paulo: Parábola, 2007. (Leitura e
+produção de textos técnicos e acadêmicos; v. 4).
+
+                                                                                           50
+MORIN, E. Ciência com consciência. 8. ed. Trad.: M. D. Alexandre; M. A. S. Dória. Rio de
+Janeiro: Bertrand Brasil, 2005.
+MOTTA-ROTH, D.; HENDGES, G. H. Produção textual na universidade. São Paulo:
+Parábola Editorial, 2010. (Estratégias de ensino; 20).
+RODRIGUES, A. D. Tarefas da linguística no Brasil. Estudos linguísticos, São Paulo, v. I, n.
+1, p. 4-15, jul. 1966.
+SANTOS, B. de S. Um discurso sobre as ciências. 2. ed. São Paulo: Cortez, 2004.
+
+
+
+MONOGRAFIA 1 – ESTUDOS LINGUÍSTICOS
+
+Primeira etapa da execução do Projeto de Pesquisa.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ECO, U. Como se faz uma tese. Trad.: G. C. C. de Souza. São Paulo: Perspectiva, 1991.
+(Estudos, 85).
+KÖCHE, J. C. Fundamentos de metodologia científica: teoria da ciência e prática de pesquisa.
+Petrópolis: Vozes, 1997.
+KUHN, T. S. A estrutura das revoluções científicas. Trad.: B. V. Boeira; N. Boeira. 9. ed. São
+Paulo: Perspectiva, 2005. (Debates, 115).
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à Linguística: domínios e fronteiras, v.
+3. São Paulo: Cortez, 2001.
+SALOMON, D. V. Como fazer uma monografia. São Paulo: Martins Fontes, 1999.
+TACHIZAWA, T., MENDES, G. Como fazer monografia na prática. Rio de Janeiro: FGV,
+1998.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: informação e
+documentação: citações em documentos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e
+documentação: trabalhos acadêmicos: apresentação. 2. ed. Rio de Janeiro, 2005.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15287: informação e
+documentação: projeto de pesquisa: apresentação. Rio de Janeiro, 2005.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e
+documentação: referências: elaboração. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: informação e
+documentação: numeração progressiva das seções de um documento escrito: apresentação. Rio de
+Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: informação e
+documentação: sumário: elaboração. Rio de Janeiro, 2003.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 196 de 1996. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos. Bioética, Brasília, n. 4,
+p. 15-26, 1996.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 304 de 2000. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos – área de povos
+indígenas. Disponível em: www.conselho.saude.gov.br/deliberacoes/resolucoes.htm,
+2001.
+
+                                                                                           51
+GRANGER, G-G. A ciência e as ciências. Trad.: R. L. Ferreira. São Paulo: Editora UNESP,
+1994.
+IANNI, O. Estilos de pensamento: explicar, compreender, revelar. Araraquara: Laboratório
+Editorial/FCL Unesp, 2003.
+MACHADO, A. R., LOUSADA, E. G., ABREU-TARDELLI, L. S. Trabalhos de pesquisa:
+diários de leitura para a revisão bibliográfica. São Paulo: Parábola, 2007. (Leitura e
+produção de textos técnicos e acadêmicos; v. 4).
+MORIN, E. Ciência com consciência. 8. ed. Trad.: M. D. Alexandre; M. A. S. Dória. Rio de
+Janeiro: Bertrand Brasil, 2005.
+MOTTA-ROTH, D.; HENDGES, G. H. Produção textual na universidade. São Paulo:
+Parábola Editorial, 2010. (Estratégias de ensino; 20).
+RODRIGUES, A. D. Tarefas da linguística no Brasil. Estudos linguísticos, São Paulo, v. I, n.
+1, p. 4-15, jul. 1966.
+SANTOS, B. de S. Um discurso sobre as ciências. 2. ed. São Paulo: Cortez, 2004.
+
+
+
+MONOGRAFIA 2 – ESTUDOS LINGUÍSTICOS
+
+Segunda etapa da execução do Projeto de Pesquisa.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ECO, U. Como se faz uma tese. Trad.: G. C. C. de Souza. São Paulo: Perspectiva, 1991.
+(Estudos, 85).
+KÖCHE, J. C. Fundamentos de metodologia científica: teoria da ciência e prática de pesquisa.
+Petrópolis: Vozes, 1997.
+KUHN, T. S. A estrutura das revoluções científicas. Trad.: B. V. Boeira; N. Boeira. 9. ed. São
+Paulo: Perspectiva, 2005. (Debates, 115).
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à Linguística: domínios e fronteiras, v.
+3. São Paulo: Cortez, 2001.
+SALOMON, D. V. Como fazer uma monografia. São Paulo: Martins Fontes, 1999.
+TACHIZAWA, T., MENDES, G. Como fazer monografia na prática. Rio de Janeiro: FGV,
+1998.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: informação e
+documentação: citações em documentos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e
+documentação: trabalhos acadêmicos: apresentação. 2. ed. Rio de Janeiro, 2005.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15287: informação e
+documentação: projeto de pesquisa: apresentação. Rio de Janeiro, 2005.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e
+documentação: referências: elaboração. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: informação e
+documentação: numeração progressiva das seções de um documento escrito: apresentação. Rio de
+Janeiro, 2003.
+
+
+
+                                                                                           52
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: informação e
+documentação: sumário: elaboração. Rio de Janeiro, 2003.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 196 de 1996. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos. Bioética, Brasília, n. 4,
+p. 15-26, 1996.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 304 de 2000. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos – área de povos
+indígenas. Disponível em: www.conselho.saude.gov.br/deliberacoes/resolucoes.htm,
+2001.
+GRANGER, G-G. A ciência e as ciências. Trad.: R. L. Ferreira. São Paulo: Editora UNESP,
+1994.
+IANNI, O. Estilos de pensamento: explicar, compreender, revelar. Araraquara: Laboratório
+Editorial/FCL Unesp, 2003.
+MACHADO, A. R., LOUSADA, E. G., ABREU-TARDELLI, L. S. Trabalhos de pesquisa:
+diários de leitura para a revisão bibliográfica. São Paulo: Parábola, 2007. (Leitura e
+produção de textos técnicos e acadêmicos; v. 4).
+MORIN, E. Ciência com consciência. 8. ed. Trad.: M. D. Alexandre; M. A. S. Dória. Rio de
+Janeiro: Bertrand Brasil, 2005.
+MOTTA-ROTH, D.; HENDGES, G. H. Produção textual na universidade. São Paulo:
+Parábola Editorial, 2010. (Estratégias de ensino; 20).
+RODRIGUES, A. D. Tarefas da linguística no Brasil. Estudos linguísticos, São Paulo, v. I, n.
+1, p. 4-15, jul. 1966.
+SANTOS, B. de S. Um discurso sobre as ciências. 2. ed. São Paulo: Cortez, 2004.
+
+
+
+MONOGRAFIA 3 – ESTUDOS LINGUÍSTICOS
+
+FINALIZAÇÃO DO PROJETO DE PESQUISA.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ECO, U. Como se faz uma tese. Trad.: G. C. C. de Souza. São Paulo: Perspectiva, 1991.
+(Estudos, 85).
+KÖCHE, J. C. Fundamentos de metodologia científica: teoria da ciência e prática de pesquisa.
+Petrópolis: Vozes, 1997.
+KUHN, T. S. A estrutura das revoluções científicas. Trad.: B. V. Boeira; N. Boeira. 9. ed. São
+Paulo: Perspectiva, 2005. (Debates, 115).
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à Linguística: domínios e fronteiras, v.
+3. São Paulo: Cortez, 2001.
+SALOMON, D. V. Como fazer uma monografia. SÃO PAULO: MARTINS FONTES, 1999.
+TACHIZAWA, T., MENDES, G. Como fazer monografia na prática. RIO DE JANEIRO:
+FGV, 1998.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: informação e
+documentação: citações em documentos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e
+documentação: trabalhos acadêmicos: apresentação. 2. ed. Rio de Janeiro, 2005.
+
+
+                                                                                           53
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15287: informação e
+documentação: projeto de pesquisa: apresentação. Rio de Janeiro, 2005.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e
+documentação: referências: elaboração. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: informação e
+documentação: numeração progressiva das seções de um documento escrito: apresentação. Rio de
+Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: INFORMAÇÃO E
+DOCUMENTAÇÃO: SUMÁRIO: ELABORAÇÃO. RIO DE JANEIRO, 2003.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 196 de 1996. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos. Bioética, Brasília, n. 4,
+p. 15-26, 1996.
+CONSELHO NACIONAL DE SAÚDE. Resolução n. 304 de 2000. Aprova diretrizes e
+normas regulamentadoras de pesquisas envolvendo seres humanos – área de povos
+indígenas. Disponível em: www.conselho.saude.gov.br/deliberacoes/resolucoes.htm,
+2001.
+GRANGER, G-G. A ciência e as ciências. Trad.: R. L. Ferreira. São Paulo: Editora UNESP,
+1994.
+IANNI, O. Estilos de pensamento: explicar, compreender, revelar. Araraquara: Laboratório
+Editorial/FCL Unesp, 2003.
+MACHADO, A. R., LOUSADA, E. G., ABREU-TARDELLI, L. S. Trabalhos de pesquisa:
+diários de leitura para a revisão bibliográfica. São Paulo: Parábola, 2007. (Leitura e
+produção de textos técnicos e acadêmicos; v. 4).
+MORIN, E. Ciência com consciência. 8. ed. Trad.: M. D. Alexandre; M. A. S. Dória. Rio de
+Janeiro: Bertrand Brasil, 2005.
+MOTTA-ROTH, D.; HENDGES, G. H. Produção textual na universidade. São Paulo:
+Parábola Editorial, 2010. (Estratégias de ensino; 20).
+RODRIGUES, A. D. Tarefas da linguística no Brasil. Estudos linguísticos, São Paulo, v. I, n.
+1, p. 4-15, jul. 1966.
+SANTOS, B. de S. Um discurso sobre as ciências. 2. ed. São Paulo: Cortez, 2004.
+
+
+
+
+             DISCIPLINAS DO NÚCLEO ESPECÍFICO OPTATIVO
+
+DIVERSIDADE LINGUÍSTICA E DIREITOS HUMANOS
+
+Panorama da diversidade linguística existente no Brasil. Línguas indígenas, línguas de
+sinais, línguas de contato e línguas de imigração faladas no Brasil. As línguas brasileiras e o
+patrimônio imaterial do Brasil. Língua oficial, língua nacional, variedade linguística. A
+Declaração Universal dos Direitos Linguísticos. Diversidade linguística e a ética na prática
+do profissional de Letras.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+OLIVEIRA, G. M. (Org.). Declaração Universal dos Direitos Linguísticos: novas perspectivas
+em política linguística. São Paulo: Mercado de Letras. 2009.
+
+
+                                                                                            54
+ONU. Declaração Universal dos Direitos Humanos. Disponível em:
+ <http://portal.mj.gov.br/sedh/ct/legis_intern/ddh_bib_inter_universal.htm>. Acesso
+em: 27 ago. 2011.
+IPHAN. Dossiê: Línguas do Brasil. Patrimônio - Revista Eletrônica do IPHAN, n. 6,
+Jan/Fev 2007. Disponível em:
+<http://www.labjor.unicamp.br/patrimonio/secao.php?id=1&ds=20>. Acesso em: 27
+ago. 2011.
+SBPC. Artigos. Ciência e Cultura, v. 57, n. 2. São Paulo, Abril/Junho 2005. Disponível
+em: <http://cienciaecultura.bvs.br/scielo.php?pid=0009-
+672520050002&script=sci_issuetoc>. Acesso em: 12 set. 2011.
+OLIVEIRA, M. R. Preconceito linguístico, variação e o papel da Universidade. Cadernos de
+Letras da UFF, n. 36, p. 115-129, 2008.
+VILHALVA, S. Mapeamento das línguas de sinais emergentes: um estudo sobre as
+comunidades linguísticas indígenas de Mato Grosso do Sul. 2009. Dissertação (Mestrado
+em Linguística) – Centro de Comunicação e Expressão, Universidade Federal de Santa
+Catarina, Florianópolis, 2009.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BOLOGNINI, C. Z.; PAYER, M. O. Línguas de imigrantes. Ciência e Cultura, São Paulo,
+v. 57, n. 2, Junho, p. 42-46. 2005.
+FERREIRA SILVA, M. N. Contato entre línguas, perda linguística e identidade étnica:
+notas sobre o povo Parkatejê. Cadernos de Letras da UFF, n. 40, p. 239-247, 2010.
+GESSER, A. Libras? Que língua é essa? São Paulo: Parábola, 2009.
+NOLL, V.; DIETRICH, W. (Org.). O Português e o Tupi no Brasil. São Paulo: Contexto.
+RODRIGUES, A.D. Línguas Brasileiras. Para o conhecimento das línguas indígenas. São
+Paulo: Loyola, 1986.
+SOUZA SILVA, S. (Org.). Línguas em Contato - Cenários de Bilinguismo no Brasil. São
+Paulo: Pontes, 2011.
+STURZA, E. R. Línguas de fronteira: o desconhecido território das práticas linguísticas
+nas fronteiras brasileiras. Ciência e Cultura, São Paulo, v. 57, n. 2, Junho 2005.
+
+
+EDUCAÇÃO PARA AS RELAÇÕES ETNICORRACIAIS
+
+Leitura e discussão das leis 10.639/2003 e 11.465/2008 e seus antecedentes. Leitura e
+discussão do aparato legal e das Diretrizes Curriculares Nacionais para a Educação das
+Relações Etnicorraciais. A complementação legal do Conselho Estadual de Educação do
+Estado de Goiás. O Estatuto da Igualdade Racial. Atitudes sociais em relação às propostas
+de educação das relações etnicorraciais.
+
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BRASIL. Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais
+(Resolução n. 1/2004). Brasília-DF: Conselho Nacional de Educação, 2004.
+
+
+                                                                                      55
+BRASIL. Lei 10.639. Brasília-DF: Presidência da República, 2003.
+BRASIL. Lei 11.465. Brasília-DF: Presidência da República, 2008.
+BRASIL. Lei 12.288. Brasília-DF: Presidência da República, 2010.
+GOIÁS. Resolução n. 3. Goiânia-GO: Conselho Estadual de Educação, 2009.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+A Matutina Meiapontense. Século XIX. Arquivo digital.
+ALMEIDA, A. C. A cabeça do brasileiro. Rio de Janeiro: Record, 2007.
+BLOOM, H. O cânone ocidental. Trad.: M. Santarrita. Rio de Janeiro: Objetiva, 2010.
+DA SILVA, T. T. Documentos de Identidade: uma introdução às teorias do currículo. Belo
+Horizonte-MG: Autêntica, 2007.
+GOMES, N. L.; e SILVA, P. B. G. (Org.). Experiências étnico-culturais para a formação de
+professores. Belo Horizonte: Autêntica, 2006.
+MUNANGA, K. Rediscutindo a mestiçagem no Brasil – identidade nacional versus identidade
+negra. Belo Horizonte: Autêntica, 2006.
+REZENDE, T. F. Discurso e identidade etnocultural em Pombal-GO. 2000. Dissertação
+(Mestrado em Letras e Linguística), Faculdade de Letras, Universidade Federal de Goiás,
+Goiânia, 2000.
+REZENDE, T. F. et al. Dossiê Retratos do Tempo – cotidiano dos quilombos goianos.
+(inédito).
+REZENDE, T. F. Relatório de Projeto de Extensão e Cultura – Qualificação de Professoras e
+Professores da Educação Básica em Goiás. (inédito).
+UNESCO. Coleção História Geral da África. Vs. 1, 2, 3, 4, 5, 6, 7 e 8. Disponível em:
+<http://www.unesco.org/new/pt/brasilia/about-this-office/single-
+view/news/general_history_of_africa_collection_in_portuguese-1/>. Acesso em: 09 set.
+2011.
+
+
+ESTUDOS DIACRÔNICOS DO PORTUGUÊS
+
+A história da língua portuguesa. A romanização e a formação da língua portuguesa.
+Línguas da lusofonia. O português brasileiro.
+
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CASTILHO, A; MORAIS, M. A. T; LOPES, R. E. V.; CYRINO, S. (Org.). Descrição,
+história e aquisição do português brasileiro. São Paulo: FAPESP; Campinas: Pontes, 2007.
+COUTINHO, I. de L. Gramática Histórica. Rio de Janeiro: Ao Livro Técnico, 1993.
+ILARI, R. Linguística românica. São Paulo: Ática, 2001.
+MATTOS e SILVA, R. V. Para a história do português brasileiro: primeiros estudos. São
+Paulo: Ed. USP, 2001.
+PAIVA, D. F. História da língua portuguesa. Lisboa: Clássica, 1943.
+SILVA NETO, S. da. História da língua portuguesa. Rio de Janeiro: Acadêmica, 1957.
+TARALLO, F. Tempos Linguísticos. São Paulo: Ática, 1994.
+
+
+
+
+                                                                                      56
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AQUINO, R. S. L. de. História da sociedade: das comunidades primitivas às sociedades
+medievais. Rio de Janeiro: Ao Livro Técnico, 1980.
+BASSETTO, B. F. Elementos de filologia românica: história externa das línguas. São Paulo:
+EDUSP, 2001.
+FACHIN, P. R. M. Descaminhos e dificuldade: leitura de manuscritos do século XVIII.
+Goiânia: Trilhas Urbanas, 2008.
+FARACO, C. A. Linguística histórica: uma introdução aos estudos da história das línguas.
+São Paulo: Parábola Editorial, 2005.
+ILARI, R. O português da gente. A língua que estudamos, a língua que falamos. São Paulo:
+Contexto, 2006.
+MATTOS E SILVA, R. V. O português arcaico: morfologia e sintaxe. São Paulo: Contexto,
+1993.
+NUNES DE FIGUEIREDO, J. Compêndio de gramática latina. 4. ed. Lisboa: Porto Editora,
+1989.
+ROBERTS, I.; KATO, M. (Org.). Português brasileiro: uma viagem diacrônica. Campinas:
+Editora da Unicamp, 1996.
+ECO, U. A linha e o pensamento: a estrutura do pensamento latino. (incompleto)
+VASCONCELOS, C. M. Lições de filologia portuguesa. Lisboa: Revista de Portugal, [1914?].
+VIDOS, B. E. Manual de linguística românica. Rio de Janeiro: EduERJ, 1996.
+
+
+
+
+ESTUDOS DO LÉXICO
+
+Significado lexical e relações lexicais. Lexicologia e lexicografia. A construção de
+dicionários. Léxico e ensino.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BASÍLIO, M. Teoria Lexical. São Paulo: Ática. 1987
+BIDERMAN, M. T. Teoria Linguística. São Paulo: Martins Fontes, 2001.
+_______. Dicionário didático de Português. São Paulo: Ática, 1998.
+BORBA, F. S. Introdução aos estudos linguísticos. São Paulo; Ed. da UNESP, 2002.
+BORBA, F. S. et al. Dicionário de Usos do Português. São Paulo: Ática, 2002.
+CARONE, F. Morfossintaxe. São Paulo: Ática, 1999.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ILARI, R. Introdução ao estudo do Léxico – brincando com as palavras. São Paulo: Contexto,
+2002.
+RANCHHOD, E. (Org.). Tratamento das Línguas por Computador. Uma Introdução à
+Linguística Computacional e suas Aplicações. Lisboa: Caminho, 2001.
+WELKER, H. A. Dicionários. Uma pequena introdução à Lexicografia. Brasília:
+Thesaurus, 2004.
+
+
+
+
+                                                                                       57
+ESTUDOS SOBRE LETRAMENTO
+
+Usos sociais da leitura e da escrita. Eventos e práticas de letramento. Abordagem das
+teorias do processo de aquisição de leitura e escrita. Análise das práticas escolares e não
+escolares de letramento.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CHARTIER, R. A aventura do livro. Do leitor ao navegador. São Paulo: Editora
+UNESP/Imprensa Oficial do Estado de São Paulo, 1999.
+KLEIMAN, A. B. (Org.). Os significados do letramento: uma nova perspectiva sobre a prática
+social da escrita. Campinas, SP: Mercado de Letras, 1995.
+MANGUEL, A. Uma história da leitura. 2. ed. São Paulo: Companhia das Letras, 2004.
+MARCUSCHI, L. A. Da fala para a escrita. Atividades de retextualização. São Paulo:
+Cortez Editora, 2003.
+OLSON, D.; TORRANCE, N. Cultura escrita e oralidade. 2. ed. São Paulo: Ática, 1997.
+RIBEIRO, V. M. (Org.). Letramento no Brasil. São Paulo: Global Editora, 2003.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BARTON, D. Literacy. An introduction to the ecology of written language. Oxford, UK;
+Cambridge, USA: Blackwell, 1994.
+BAYNHAM, M. Literacy Practices. Investigating literacy in social contexts. London:
+Longman, 1995.
+GEE, J. P. Social Linguistics and Literacies. Ideology in Discourses. Hampshire: The Falmer
+Press, 1990.
+HEATH, S. B. Ways with Words. Cambridge: Cambridge University Press, 1983.
+OLSON, D. O mundo no papel. São Paulo: Ática, 1997.
+STREET, B. V. Literacy in theory and practice. Cambridge: Cambridge University Press,
+1984.
+STREET, B. V. (Ed.). Cross-cultural approaches to literacy. Cambridge: Cambridge University
+Press, 1993.
+SOARES, M. Letramento. Um tema em três gêneros. Belo Horizonte: Autêntica, 2002.
+
+INTERNET E ENSINO DE LÍNGUA PORTUGUESA
+
+Recursos da Internet e ensino de língua portuguesa. O texto digital. Gêneros
+discursivos/textuais e suporte de gêneros no universo virtual. Comunicação, interação,
+pesquisa, produção e publicação de resultados investigativos na Internet. O processo de
+autoria no mundo virtual. Escrita e leitura em tela.
+
+
+BIBLIOGRAFIA BÁSICA
+
+ARAÚJO, J. C. (Org.). Internet; ensino: novos gêneros, outros desafios. Rio de Janeiro:
+Lucerna, 2007.
+CHARTIER, R. A Aventura do Livro: do Leitor ao Navegador. Trad.: R. de Moraes. São
+Paulo: Editora UNESP/Imprensa Oficial do Estado de São Paulo; Prisma, 2010.
+
+
+                                                                                        58
+MARCUSCHI, L. A.; XAVIER, A. C. (Org.). Hipertexto e gêneros digitais: novas formas de
+construção de sentido. Rio de Janeiro: Lucerna, 2004.
+MARCONDES, B. et al. Como usar outras linguagens na sala de aula. São Paulo: Contexto,
+2000.
+PAPERT, S. A máquina das crianças: repensando a escola na era da informática. Porto
+Alegre: Artes Médicas, 1994.
+
+BIBLIOGRAFIA COMPLEMENTAR
+
+ARAÚJO, J. C.; BIASI RODRIGUES, B. (Org.). Interação na Internet: novas formas de usar a
+linguagem – Rio de Janeiro: Lucerna, 2005.
+DINIZ, L. A. G. Cibercultura e literatura: hipertexto e as novas arquiteturas textuais. Disponível
+em: <http://www.scielo.br/pdf/alea/v7n2/a03v7n2.pdf>. Acesso em: 09 set. 2011.
+FREITAS, M. T. de A.; COSTA, S. R. Leitura e Escrita de Adolescentes na Internet e na Escola.
+Belo Horizonte: Ed. Autência, 2005.
+GARCIA, J.; BRITO, G. S.; PURIFICAÇÃO, I. da. Um Estudo Sobre a Reação dos
+Professores  Frente   à     Internet.   Disponível       em:     <http://e-spacio.uned.es/fez/
+eserv.php?pid=bibliuned:1377&dsID=n03garcia03.pdf.>. Acesso em: 19 set 2011.
+RAMAL, A.C. Educação na cibercultura: hipertextualidade, leitura, escrita e aprendizagem.
+Porto Alegre: Artmed, 2002.
+SANCHO, J. M.; HERNANDEZ, F. Tecnologias para transformar a Educação. Porto Alegre:
+Artmed, 2006.
+SCHNEIDER, M. B. D. As Repercussões da escrita eletrônica no desenvolvimento da escrita
+manual na sala de aula e as consequências no código verbal. 2005. Disponível
+em:<http://www.educacaoonline.pro.br/>. Acesso em: 19 set. 2011.
+SOARES, M. Novas práticas de leitura e escrita: letramento na cibercultura. Educação;
+Sociedade. Revista de Ciência da Educação. Campinas, CEDES, v. 23, n. 81, p. 143-160,
+dez.           de            2002.             (Também                 disponível             em:
+<http://www.scielo.br/pdf/es/v23n81/13935.pdf>. Acesso em: 18 set. 2011.)
+SEABRA, M. S. (Org.). Leitura na Tela: da mesmice à inovação. Goiânia: Ed. PUCGO,
+2010.
+
+INTRODUÇÃO AOS MODELOS FONOLÓGICOS NÃO LINEARES
+
+A divergência conceitual entre fonologia linear e fonologia não linear. Os tipos de
+fenômenos linguísticos que motivaram a concepção não linear de análise fonológica.
+Domínios fonológicos e os modelos teóricos relacionados. Tipologia linguística e a Teoria
+da Optimalidade.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BISOL, L. Introdução a estudos de fonologia do português brasileiro. Porto Alegre: EDIPUCRS,
+2005.
+WETZELS, W. L. (Org.). Estudos fonológicos das línguas indígenas brasileiras. Rio de Janeiro:
+Editora da UFRJ, 1995.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ARCHANGELI, D.; LANGDOEN, T. (Org.). Optimality Theory: an overview. Oxford,
+UK; Cambridge, Massachusetts: Blackwell, 1997.
+
+                                                                                               59
+CAGLIARI, L. C. Análise fonológica: Introdução à teoria e à prática. São Paulo: Mercado
+de Letras, 2002.
+GOLDSMITH, J. Autossegmental and Metrical Phonology. Oxford, UK; Cambridge,
+Massachusetts: Blackwell, 1990.
+GOLDSMITH, J. (Ed.). The Handbook of Phonological Theory. Cambridge, Massachusetts:
+Blackwell, [1995] 2001.
+HAYES, B. Metrical Stress Theory: Principles and Case Studies. University of Chicago Press,
+1995.
+KENSTOWICZ, M. Phonology in Generative Grammar. Oxford, UK; Cambridge,
+Massachusetts: Blackwell, 1994.
+MACCARTHY, J. A thematic guide to Optimality Theory. Cambridge University Press, 2002.
+
+LÍNGUAS INDÍGENAS BRASILEIRAS
+
+As línguas indígenas faladas no Brasil, suas afiliações genéticas, características gramaticais,
+distribuições geográficas, estado de conservação. Contribuição das línguas indígenas na
+formação do português brasileiro. As línguas gerais brasileiras. Línguas em contato, áreas
+linguísticas e seus traços linguísticos peculiares.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+FRANCHETTO, B. (Org.). Alto Xingu: uma sociedade multilíngue. Rio de Janeiro: Museu
+do Índio, 2011.
+RODRIGUES, A., D. Línguas brasileiras: para o conhecimento das línguas indígenas. São
+Paulo: Loyola, 1986.
+RODRIGUES, A., D. Panorama das línguas indígenas da amazônia. In: QUEIXALÓS,
+F.; RENAULT-LESCURE, O. (Org.). As línguas amazônicas hoje,. São Paulo:
+IRD/ISA/MPEG, 2000. p. 15-29
+SEKI, L. A linguística indígena no Brasil. DELTA, v. 15, p. 257-290, 1999.
+SEKI, L. Línguas indígenas do Brasil no limiar do século XXI. Impulso, v. 12, n. 27, p. 233-
+256, 2000.
+STENZEL, K.; GOMEZ-IMBERT, E. Contato linguístico e mudança linguística no
+noroeste amazônico: o caso do Kotiria (Wanano). Revista da ABRALIN, v. 8, n. 2, p. 71-
+100, 2009.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AIKHENVALD, A. Y.; MUYSKEN, P. (Org.). Multiverb constructions: a view from the
+Americas. Leiden: Brill, 2011.
+AIKHENVALD, A. Y. Areal diffusion in North-West Amazonia: the case of Tariana.
+Anthropological Linguistics, v.38, p. 73-116. 1996.
+AIKHENVALD, A. Y. Words, pauses and boundaries: evidence from South-American
+languages. Studies in Language, v. 20, p. 487-517. 1996.
+AIKHENVALD, A. Y. Classe nominal e gênero nas línguas Arawak. Boletim do Museu
+Paraense Emílio Goeldi, v. 10, n. 2, p. 137-258. 1996.
+AIKHENVALD, A. Y. Areal typology and grammaticalization: the emergence of new
+morphological typology in an obsolescent language. In: GILDEA, S. (Ed.). Reconstructing
+Grammar: Comparative Linguistics and Grammaticalization. Amesterdam: John Benjamins,
+2000. TSL 43, p. 1-37.
+
+
+                                                                                            60
+AIKHENVALD, A. Y. Areal diffusion, genetic inheritance and problems of subgrouping:
+a North-Arawak case study. In AIKHENVALD, A.Y.; DIXON, R.M.W. (Ed.). Areal
+diffusion and genetic inheritance: problems in comparative linguistics. Oxford: Oxford University
+Press, 2001.
+BORGES, M. V. Reduplicação em Avá-Canoeiro (Tupi-Guarani): uma língua brasileira
+ameaçada de extinção. UniverSOS, v. 5, p. 233-243. 2008.
+BORGES, M. V. Diferenças entre as falas masculina e feminina no Karajá e em outras
+línguas brasileiras: aspectos tipológicos. LIAMES, p.103-113. 2004.
+BORGES, M. V. Aspectos fonológicos e morfossintáticos do Ava-Canoeiro (Tupi-Guarani). 2006.
+Tese (Doutorado em Linguística) – Instituto de Estudos da Linguagem, Universidade
+Estadual de Campinas, Campinas, 2006.
+BRAGGIO, S. B. Línguas indígenas ameaçadas: documentação, tipologias
+sociolinguísticas e educação escolar. In: SILVA, D. (Org.). Língua, Gramática e Discurso.
+Goiânia: Cânone Editorial, 2006. p.43-53.
+MATTOSO CÂMARA JR, J. Introdução às línguas indígenas brasileiras. Rio de Janeiro: Ao
+Livro Técnico, 1997.
+LEITE, Y.; FRANCHETTO, B. 500 anos de línguas indígenas no Brasil. In: CARDOSO,
+S. A. M.; MOTA, J. A.; MATTOS E SILVA, R. V. (Org.). Quinhentos Anos de História
+Linguística do Brasil Salvador: Secretaria da Cultura e Turismo do Estado da Bahia, 2006. p.
+15-62.
+MARTINS FILHO, S. Aspectos morfossintáticos da língua Akwe-Xerente (Jê). Jundiaí: Paco,
+2010.
+OLIVEIRA, C. C. The language of the Apinaje people of Central Brazil. Tese de doutoramento.
+Eugene: University of Oregon, 2005.
+OLIVEIRA, C. C. Dupla negação em Baré: uma explicação diacrônica. Revista do Museu
+Antropológico, v. 4, n. 1, p. 105-119, 2000.
+OLIVEIRA, C. C. Lexical categories and the status of Descriptives in Apinaje (Jê).
+International Journal of American Linguistics, v. 69, n. 3, p. 243-274, 2003.
+QUEIXALÓS, F.; RENAULT-LESCURE, Odile. (Org.). As línguas amazônicas hoje. São
+Paulo: IRD/ISA/MPEG, 2000.
+SEKI, L. Problemas no estudo de uma língua em extinção. Boletim da ABRALIN, n. 6, p.
+109-118. 1984. Disponível em: <http://biblio.etnolinguistica.org/seki-1984-problemas>.
+Acesso em: 25 set. 2011.
+
+
+LINGUÍSTICA APLICADA: LÍNGUAS ESTRANGEIRAS
+
+Caracterização e domínios da área da Linguística Aplicada. Visão contemporânea da
+Linguística Aplicada. Processos de aquisição e aprendizagem de segunda língua e de língua
+estrangeira.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+FREIRE, M. M.; ABRAHAO, M. H. V.; BARCELOS, A. M. F. (Org.). Linguística aplicada
+& contemporaneidade. São Paulo: ALAB, Campinas: Pontes, 2005.
+LEFFA, V. J. A lingüística aplicada e o seu compromisso com a sociedade. In: Anais do VI
+congresso Brasileiro de Lingüística Aplicada, 2001.
+MENEZES, V. et al. Sessenta Anos de Linguistica Aplicada: de onde viemos e para onde
+vamos. In: PEREIRA, R. C.; ROCA, P. (Org.). Linguística aplicada: um caminho com
+diferentes acessos. São Paulo: Contexto, 2009.
+
+                                                                                              61
+MOITA LOPES, L. P. (Org.). Por uma lingüística aplicada indisciplinar. São Paulo: Parábola,
+2006.
+RAJAGOPALAN, K. Por uma lingüística crítica: linguagem, identidade e a questão ética.
+São Paulo: Parábola, 2003.
+SCHMITZ, J. R. Linguística aplicada: novas dimensões e identidades no século XXI.
+Santa Cruz do Sul, RS: EDUNISC. Signo, v. 30, n. 48, 2005.
+SIGNORINI, I. Lingua(gem) e identidade. Campinas: Mercado de Letras, 1998.
+SIGNORINI, I; CAVALCANTI, M. C. (Org.). Lingüística aplicada e transdisciplinaridade.
+Campinas: Mercado de Letras, 1998.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BERNS, M. Concise Encyclopedia of applied linguistics. Oxford: Elsevier, 2010.
+CAVALCANTI, M. C.; BORTONI-RICARDO, S. M. Transculturalidade, linguagem e
+educação. Campinas, SP: Mercado de Letras, 2007.
+CAVALCANTI, M. A propósito de Lingüística Aplicada. Trabalhos em Lingüística
+Aplicada, 7, p. 5-12,1986.
+CORACINI, M. J.; BERTOLDO E. S. (Org.). O desejo da teoria e a contingência da prática:
+discursos sobre e na sala de aula (língua materna e língua estrangeira). Campinas:
+Mercado de Letras, 2003.
+DAVIES, A. (Ed). The handbook of applied linguistics. Malden, MA: Blackwell Publishing,
+2004.
+ELLIS, R. Second Language Acquisition. Oxford : Oxford University Press, 1998.
+FREEMAN, D. E.; FREEMAN, Yvonne, S. Between worlds: access to second language
+acquisition. Portsmouth, NH: Heinemann, 1994.
+PENNYCOOK, A. Critical applied linguistics: a critical introduction. New Jersey: Lawrence
+Erlbaum Associates, 2001.
+RAJAGOPALAN, K.; SILVA, F. L. A lingüística que nos faz falhar: investigação crítica.
+São Paulo: Parábola, 2004.
+RICHARDS, J.; PLATT, J.; PLATT, H. Dictionary of language teaching & applied
+linguistics. Harlow: Longman, 1997.
+SCHMITZ, J. R. Some polemical issues in applied linguistics. RBLA, Belo Horizonte:
+UFMG, v. 10, n. 1, p. 21-42, 2010.
+VENTURI, M. A. Lingüística aplicada: área de investigação em pleno desenvolvimento.
+Domínios de Linguagem IV – 2004 ISBN: 85-903532-3-0.
+
+PERIÓDICOS ONLINE
+
+RBLA - Revista Brasileira de Linguística Aplicada: <www.letras.ufmg.br/rbla>
+Trabalhos em Linguística Aplicada:
+<http://www.scielo.br/scielo.php?script=sci_serial&pid=0103-1813&lng=pt>
+Linguagem & Ensino: Revista do Programa de Pós-graduação em Letras / Universidade
+Católica de Pelotas: < http://rle.ucpel.tche.br/ojs/index.php/rle>
+Revista Signum - Programa de Pós-Graduação em Estudos da Linguagem da Universidade
+Estadual de Londrina <http://www.uel.br/revistas/uel/index.php/signum>.
+Calidoscópio – Unisinos <http://www.unisinos.br/revistas/index.php/calidoscopio>.
+
+
+
+
+                                                                                        62
+LITERATURAS AFRICANAS EM LÍNGUA PORTUGUESA
+
+Estudo da história das literaturas africanas de língua portuguesa, da crítica literária de
+autores paradigmáticos de Portugal e do Brasil e das obras poética e narrativa de autores de
+referência de cada um dos países selecionados. O ensino das literaturas africanas de Língua
+Portuguesa.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ABDALA JR., B.. Literatura, história e política. São Paulo: Ática, 1989.
+FERREIRA, M. Literaturas africanas de expressão portuguesa. 2. ed. Lisboa: ICALP, 1987. 2
+vols.
+HAMILTON, R. Literatura africana, literatura necessária. Lisboa: Edições 70, 1984. 2 v.
+MARGARIDO, A. Estudos sobre a literatura das nações africanas de língua portuguesa. Lisboa:
+A regra do jogo, 1980.
+SANTILLI, M. A. C. B. Africanidade: contornos literários. São Paulo: Ática, 1985.
+______. Estórias africanas. São Paulo, Ática, 1985.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ANDRADE, C. Literatura Angolana. Lisboa: Edições 70, 1980.
+CHAVES, R. Angola e Moçambique: experiência colonial e territórios literários, Cotia,
+Ateliê, 2005.
+_____; MACÊDO, T. Marcas da Diferença: as literaturas africanas de língua portuguesa, São
+Paulo, Alameda Editorial, 2006.
+ERVEDOSA, C. Roteiro da literatura angolana. 3. ed. Luanda: UEA, 1985.
+FANON, F. Os condenados da terra. Cap. I. 2. ed. Rio de Janeiro: Paz e Terra, 1979.
+FERREIRA, M. (Org.). Literaturas africanas de Língua Portuguesa. Lisboa: Gulbenkian, 1987.
+_____. 50 poetas africanos. Lisboa: Plátano, 1989.
+_____. O discurso no percurso africano I. Lisboa: Plátano, 1990.
+LARANJEIRA, P. Literaturas Africanas de Expressão Portuguesa. Lisboa: Universidade
+Aberta, 1995.
+LEITE, A. M. Literaturas Africanas e Formulações Pós-coloniais. Lisboa: Colibri, 2003.
+MACEDO, J. Literatura Angolana e Texto Literário. Luanda: UEA, 1989.
+MACEDO, T. V., R. A kinda e a missanga. São Paulo/Luanda: Cultura acadêmica/Nzila,
+2007. p. 85-94.
+MATA, I. Pelos trilhos da literatura africana em língua portuguesa. Pontevedra/Braga:
+Cadernos do Povo, 1992.
+_____. Literaturas africanas de expressão portuguesa. Lisboa: Universidade Aberta, 1995.
+MEMMI, A. Retrato do colonizado precedido pelo retrato do colonizador. Rio de Janeiro: Paz e
+Terra, 1977.
+MENDONÇA, F. Literatura Moçambicana: a história e seus escritos. Maputo: Univ.
+Eduardo Mondlane, 1989.
+MOSER, G.; F., M. Bibliografia das Literaturas Africanas de expressão portuguesa. Lisboa: IN-
+CM, 1983.
+PADILHA, L. C. Entre Voz e Letra: a ancestralidade na literatura angolana. Lisboa, Novo
+Imbondeiro, 2005.
+RAMOS, M. M. Entre dois contares: o espaço da tradição na escrita de Uanhenga Xitu. Tese de
+doutorado. FFLCH-USP. 1996.
+SARTRE, J-P. Prefácio a Os condenados da terra. In: FANON, Franz. Os condenados da terra.
+Rio de Janeiro: Paz e Terra.
+SEPÚLVEDA, L. Luandino Vieira: paixão e arte de escre(vi)ver. In SEPÚLVEDA, Maria
+
+                                                                                          63
+do Carmo; SALGADO, Maria Teresa. (Org.) África & Brasil: letras em laços. Rio de
+Janeiro, Atlântica, 2000.
+TRIGO, S. Introdução à Literatura Angolana de Expressão Portuguesa. Porto, Brasília Editora,
+1977.
+_____. Ensaios de Literatura Comparada Afro-Luso-Brasileira. Lisboa. Veja: 1986.
+VENÂNCIO, J. C. Da libertação nacional à libertação econômica: a literatura angolana
+após a Independência. In: ESTUDOS Portugueses e Africanos, n. 10, Universidade
+Estadual de Campinas, 1987.
+PORTUGAL, F. S. Rosto negro. O contexto das literaturas africanas. Santiago de Compostela:
+Laiovento, 1994.
+
+
+
+PRAGMÁTICA
+
+Abordagens da linguagem em uso. Relações entre significado, ação e história. Estudos da
+comunicação na linguagem. Teoria dos atos de fala.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ARMENGAUD, F. A Pragmática. Trad.: M. Marcionilo. São Paulo: Parábola Editorial,
+2006. (Na ponta da língua; 8).
+AUSTIN, J. L. Performativo-constativo. In: OTTONI, P. Visão performativa da linguagem.
+Campinas: Editora da UNICAMP, 1998. p. 107-144.
+BENVENISTE, E. A filosofia analítica e a linguagem. In: Problemas de linguística geral I.
+Campinas: Pontes, 1991. p. 294-305.
+_______. O aparelho formal da enunciação. Problemas de linguística geral II. Campinas:
+Pontes, 1989. p. 81-90.
+BOURDIEU, P. A economia das trocas linguísticas: o que falar quer dizer. Trad.: S. Miceli et
+al. São Paulo: USP, 1996. (Clássicos, 4).
+MEY, J. L. As vozes da sociedade: seminários de pragmática. Trad.: A. C. de Aguiar.
+Campinas: Mercado das Letras, 2001. (Idéias sobre linguagem).
+OTTONI, P. Visão performativa da linguagem. Campinas: Editora da UNICAMP, 1998.
+RAJAGOPALAN, K. Nova Pragmática. Fases e feições de um fazer. São Paulo: Parábola
+Editorial, 2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+AUSTIN, J. L. How to do things with words. 2. ed. Oxford: Oxford University Press, 1980.
+FIORIN, J. L. Pragmática. In: FIORIN, J. L. (Org.). Introdução à Linguística. São Paulo:
+Contexto, 1999.
+PINTO, J. P. Pragmática. In: MUSSALIN, F.; BENTES, A. C. (Org.). Introdução à
+Linguística. v. 2. São Paulo: Cortez, 2001. p. 47-68.
+RAJAGOPALAN, K. Sobre a especificidade da pesquisa no campo da pragmática.
+Cadernos de Estudos Linguísticos. Campinas, n. 42, p. 89-98, 2002.
+
+
+
+
+                                                                                         64
+PRODUÇÃO DO TEXTO ACADÊMICO
+
+Gêneros discursivos. Tipologia textual. Prática da escrita acadêmica.
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+CARVALHO, M. C. M. (Org.). Construindo o saber – metodologia científica – fundamentos
+e técnicas. Campinas, São Paulo: Papirus Editora, 1997.
+MACHADO, A. R.; LOUSADA, E.; ABREU-TARDELLI, L. S. Planejar gêneros
+acadêmicos. São Paulo: Parábola Editorial, 2005.
+MOTTA-ROTH, D. (Org.). Redação acadêmica – princípios básicos. Santa Maria:
+Laboratório de Leitura e Redação – DLEM/UFSM, 2002.
+VAL, M. G. C. Redação e textualidade. São Paulo: Martins Fontes, 1994.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CITELLI, A. Linguagem e persuasão. São Paulo: Ática, 2000.
+FIORIN, J. L.; SAVIOLI, F. P. Para entender o texto: leitura e redação. São Paulo: Ática,
+1991.
+FERNANDES, J. Técnicas de estudo e pesquisa. Goiânia: Kelps, 1999.
+FIORIN. J. L. Linguagem e ideologia. São Paulo: Ática. 1997.
+MACHADO, A. R.; LOUSADA, E.; ABREU-TARDELLI, L. S. Resumo – leitura e
+produção de textos técnicos e acadêmicos. São Paulo: Parábola, 2004.
+_______. Resenha – leitura e produção de textos técnicos e acadêmicos. São Paulo: Parábola,
+2004.
+MEDEIROS, J. B. Redação científica – a prática de fichamentos, resumos, resenhas. São Paulo:
+Atlas, 1997.
+MENDONÇA, L. M., ROCHA, C. R. R.; GOMES, S. H. A. Guia para apresentação de
+trabalhos acadêmicos na UFG. Goiânia: UFG, 2005.
+
+
+
+ESPANHOL 1
+
+Introdução às práticas de compreensão e produção orais e escritas em espanhol em
+contexto de comunicação em nível elementar. Estudo de gêneros textuais da ordem do
+descrever.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ARTUÑEDO GUILLÉN, B.; GONZÁLEZ SÁINZ, M. T.; Taller de escritura: Cuaderno
+de actividades. Madrid: Edinumen, 2000.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa Libros,
+2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+
+
+
+                                                                                         65
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Elemental. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 1. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 1. Curso
+de español. Barcelona: Difusión, 2005.
+FERNÁNDEZ LÓPEZ, S. Las estrategias de aprendizaje. In: SÁNCHEZ LOBATO, J.;
+SANTOS GARGALLO. I. Vademécum para la formación de profesores. Enseñar español como
+L2/LE. Madrid: SGEL, 2005. p. 411-433.
+PINILLA GÓMEZ, R. Las estrategias de comunicación. In: SÁNCHEZ LOBATO, J.;
+SANTOS GARGALLO. I. Vademécum para la formación de profesores. Enseñar español como
+L2/LE. Madrid: SGEL, 2005. p. 435-446.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+SOLÉ, I. Estrategias de lectura. Barcelona: Editorial Graó, 1992.
+ESPANHOL 2
+
+Práticas de compreensão e produção orais e escritas em espanhol em contexto
+comunicativo em nível elementar. Estudo de gêneros textuais da ordem do descrever e do
+relatar.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ARTUÑEDO GUILLÉN, B.; GONZÁLEZ SÁINZ, M. T.; Taller de escritura: Cuaderno
+de actividades. Madrid: Edinumen, 2000.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa Libros,
+2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Elemental. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 2. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 2. Curso
+de español. Barcelona: Difusión, 2005.
+FANJUL, A. Gramática de español paso a paso. São Paulo: Moderna, 2005.
+MARCUSCHI, L. A. A produção textual, análise de gêneros e compreensão. São Paulo:
+Parábola, 2008.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+SOLÉ, I. Estrategias de lectura. Barcelona: Editorial Graó, 1992.
+
+
+
+
+                                                                                    66
+ESPANHOL 3
+
+Desenvolvimento sistemático da competência comunicativa e das habilidades linguísticas
+em espanhol em nível pré-intermediário. Estudo de gêneros textuais da ordem do relatar e
+do narrar.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ARTUÑEDO GUILLÉN, B.; GONZÁLEZ SÁINZ, M. T.; Taller de escritura: Cuaderno
+de actividades. Madrid: Edinumen, 2000.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa Libros,
+2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Elemental. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 3. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 3. Curso
+de español. Barcelona: Difusión, 2005.
+FERNÁNDEZ DÍAZ, R. Prácticas de léxico español para Hablantes de Portugués. Dificultades
+Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros, S.L., 1999.
+FANJUL, A. Gramática de español paso a paso. São Paulo: Moderna, 2005.
+MACHADO, A. R.; BEZERRA, M. A. Gêneros textuais e ensino. Rio de Janeiro: Lucena,
+2003.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+
+
+
+ESPANHOL 4
+
+Desenvolvimento sistemático da competência comunicativa e das habilidades linguísticas
+em espanhol em nível pré-intermediário. Estudo de gêneros textuais da ordem do narrar e
+do expor.
+
+BIBLIOGRAFIA BÁSICA:
+
+CASSANY, D. Taller de textos. Barcelona: Paidós, 2006.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Nueva Gramática de la lengua española – Manual. Madrid: Espasa Libros,
+2010.
+REAL ACADEMIA ESPAÑOLA; ASOCIACIÓN DE ACADEMIAS DE LA LENGUA
+ESPAÑOLA. Ortografía de la lengua española. Madrid: Espasa Libros, 2010.
+
+
+
+
+                                                                                     67
+BIBLIOGRAFIA COMPLEMENTAR:
+
+CASTRO, F. Uso de la gramática española. Gramática y ejercicios de sistematización para
+estudiantes de ELE de nivel Intermedio. Madrid: Edelsa, 2009.
+CENTELLAS, A.; NORRIS, D.; RUIZ, J. Español lengua viva 4. Madrid: Santillana, 2007.
+CORPAS, J.; GARCÍA, E.; GARMENDIA, A.; SORIANO, C. Aula Internacional 4. Curso
+de español. Barcelona: Difusión, 2005.
+FANJUL, A. Gramática de español paso a paso. São Paulo: Moderna, 2005.
+FERNÁNDEZ DÍAZ, R. Prácticas de léxico español para Hablantes de Portugués. Dificultades
+Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros, S.L., 1999.
+FERNÁNDEZ DÍAZ, R. Prácticas de Gramática Española para Hablantes de Portugués.
+Dificultades Generales, Cuadernos de Prácticas de Español/LE. Madrid: Arco/Libros,
+S.L., 1999.
+HENARES, Universidad de Alcalá de (Org.). SEÑAS: DICCIONARIO PARA
+ENSEÑANZA DE LA LENGUA ESPAÑOLA PARA BRASILEÑOS. São Paulo:
+Martins Fontes, 2001.
+
+
+
+FRANCÊS 1
+
+Introdução às práticas de compreensão e produção orais e escritas em francês, nível
+elementar, em contexto de comunicação.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BESCHERELLE. La conjugaison pour tous. Paris: Hatier, 1997.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+LE NOUVEAU BESCHERELLE 2 e 3. Paris: Hatier, 1980.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+ROBERT, P. Le Nouveau Petit Robert. Paris: Dictionnaires Le Robert, 1993.
+
+
+FRANCÊS 2
+
+Práticas de compreensão e produção orais e escritas em francês, nível elementar, em
+contexto de comunicação.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000.
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+
+                                                                                     68
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BESCHERELLE. La conjugaison pour tous. Paris: Hatier, 1997.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+LE NOUVEAU BESCHERELLE 2 e 3. Paris, Librairie Hatier, 1980.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+ROBERT, P. Le Nouveau Petit Robert. Paris: Dictionnaires Le Robert, 1993.
+
+
+FRANCÊS 3
+
+Desenvolvimento sistemático da competência comunicativa e das habilidades linguísticas
+em francês em nível pré-intermediário.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+BAYLON, C. et al. Forum - Méthode de Français 1. Paris :Hachette, 2000
+_______. Cahier d’exercices : Forum 1. Paris : Hachette, 2000.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BESCHERELLE. La conjugaison pour tous. Paris: Hatier, 1997.
+GENOUVRIER, E.; DÉSIRAT, G. ; HORDE, T. Dictionnaire des synonymes. Paris:
+Librairie Larousse, 1977.
+GREVISSE. M. Le bon usage. Belgique : Editions J. Duculot, 1975.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+RAT, M. Dictionnaire des locutions françaises. Paris : Librairie Larousse, 1957.
+ROBERT, P. Le Nouveau Petit Robert. Paris : Dictionnaires Le Robert, 1993.
+THOMAS, A. V. Dictionnaire des difficultés de la langue française. Paris : Librairie Larousse,
+1956.
+
+
+FRANCÊS 4
+
+Desenvolvimento da competência comunicativa e das habilidades linguísticas
+interpretativas, produtivas e interativas em francês em nível pré-intermediário.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+DUBOIS, J. LAGANE, R. La nouvelle grammaire du français. Paris: Larousse, 1997.
+GRÉGOIRE, M., THIÉVENAZ, O. Grammaire progressive du français. Paris: CLE
+International, 1995.
+LAROUSSE. Francês-português/português-francês. Paris: Larousse, 2008.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BESCHERELLE. La conjugaison pour tous. Paris : Hatier, 1997.
+
+                                                                                           69
+GREVISSE, M. Le bon usage. Louvain-la Neuve: Duculot, 1993.
+LAROUSSE. Dictionnaire Larousse de poche - dictionnaire noms communs et noms propres.
+Paris: Larousse, 1995.
+LE ROBERT et NATHAN. Conjugaison. Paris: Éditions Nathan, 1996.
+MONNERIE, A. Le français au présent. Paris: Didier/Hatier, 1987.
+ROBERT, P. Le nouveau Petit Robert . Paris: Dictionnaires Le Robert, 1993.
+
+
+INGLÊS 1
+
+Introdução às práticas de compreensão e expressão oral e escrita em inglês. Estudo de
+aspectos sistêmicos e discursivos da língua inglesa. Reflexão sobre os processos de
+aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+GRIFFITHS, C. Lessons from good language learners. Cambridge: Cambridge University
+Press, 2008.
+MURPHY, R. Essential grammar in use. Cambridge: Cambridge University Press, 2007.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press,
+2005.
+JONES D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+RUBIN, J.; THOMPSON, I. How to be a more successful language learner: toward learner
+autonomy. Boston: Heinle & Heinle, 1994.
+
+
+INGLÊS 2
+
+Desenvolvimento da compreensão e expressão oral e escrita em inglês em nível pré-
+intermediário. Estudo de aspectos sistêmicos e discursivos da língua inglesa. Reflexão
+sobre os processos de aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+GRIFFITHS, C. Lessons from good language learners. Cambridge: Cambridge University
+Press, 2008.
+MURPHY, R. Essential grammar in use. Cambridge: Cambridge University Press, 2007.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press,
+2005.
+
+                                                                                   70
+JONES, D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+RUBIN, J.; THOMPSON, I. How to be a more successful language learner: toward learner
+autonomy. Boston: Heinle & Heinle, 1994.
+
+
+INGLÊS 3
+
+Desenvolvimento da competência comunicativa em língua inglesa: compreensão e
+expressão oral e escrita em nível intermediário. Estudo de aspectos sistêmicos e discursivos
+da língua inglesa. Reflexão sobre os processos de aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+LIGHTBOWN, P. M.; SPADA, N. How languages are learned. Oxford: Oxford University
+Press, 2010.
+MURPHY, R. English grammar in use. Cambridge: Cambridge University Press, 2007.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press,
+2005.
+CRYSTAL, D. The Cambridge encyclopedia of language. Cambridge: Cambridge University
+Press. 2010.
+JONES, D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+
+
+INGLÊS 4
+
+Desenvolvimento da competência comunicativa em língua inglesa. Enriquecimento do
+léxico e aperfeiçoamento da compreensão e expressão oral e escrita em nível intermediário.
+Estudo de aspectos sistêmicos e discursivos da língua inglesa. Reflexão sobre os processos
+de aprendizagem de língua estrangeira.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+AZAR, B. F. Fundamentals of English grammar. 3. ed. London: Longman Pearson, 2002.
+LIGHTBOWN, P. M.; SPADA, N. How languages are learned. Oxford: Oxford: Oxford
+University Press, 2010.
+McKAY, S. L. Teaching English as an international language. Oxford: Oxford University
+Press, 2002.
+
+
+
+
+                                                                                         71
+BIBLIOGRAFIA COMPLEMENTAR:
+
+Dicionário Oxford escolar Ing-Port (VV) W/Cd-Rom. Oxford: Oxford University Press,
+2005.
+JONES, C.; GOLDSTEIN, B. New framework pre-intermediate level 2. London: Richmond
+Publishing, 2008.
+JONES, D. English pronouncing dictionary. Cambridge: Cambridge University Press, 1997.
+LARSEN-FREEMAN, D. Grammar dimensions: form, meaning, and use (Series). Boston,
+MA: Heinle & Heinle, 2000.
+MURPHY, R. English grammar in use. Cambridge: Cambridge University Press, 2007.
+
+
+
+
+LÍNGUA E CULTURA ITALIANA 1
+
+Introdução às práticas de compreensão e expressão oral e escrita em italiano em nível
+elementar e desenvolvimento da competência cultural através do estudo e reflexão de
+aspectos criativos da sociedade italiana. A arquitetura italiana.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ZIGLIO, L.; RIZZO, G. Corso di Italiano Espresso 1. 2ª ed. Firenze: Alma Edizioni, 2006.
+TRIFONE, M.; FILIPPONE, A.; SGAGLIONE, A. Affresco Italiano. Corso di língua e
+cultura italiana per stranieri. 4ª ed. Milano: Le Monnier, 2011.
+SECCHI, B. La città del ventesimo secolo. Roma-Bari:Laterza, 2005.
+MONTANARI, G.; BRUNO JR, A. Architettura e città nel Novecento. I movimenti e i
+protagonisti. Roma: Carocci, 2009.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+COZZI, N.; FEDERICO, F.; TANCORRE, A. Corso di italiano Caffè Italia 1.Recanati: ELI,
+2005.
+DAL CO, F. et alli. Storia dell'architettura italiana. Il Secondo Novecento. Milano: Elemond
+Electa – Mondadori, 1997.
+FAZI, M. C. Sinonimi e contrari.Perugia:Guerra Edizioni, 1989.
+FRATTER, I.; TRONCARELLI, C. Piazza Navona1. Corso di italiano per stranieri. 1ª ed.
+Genova: Cideb Editrice, 2006.
+MEZZADRI, M.; PEDERZANI, L. Civiltà punto it. Perugia: Guerra Edizioni, 2007.
+
+LÍNGUA E CULTURA ITALIANA 2
+
+Práticas de compreensão e expressão oral e escrita em italiano em nível elementar e
+desenvolvimento da competência cultural através do estudo e reflexão de aspectos criativos
+da sociedade italiana. O design italiano.
+
+
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ZIGLIO, L.; RIZZO, G. Corso di Italiano Espresso 1. 2ª ed. Firenze: Alma Edizioni, 2006.
+
+
+                                                                                           72
+TRIFONE, M.; FILIPPONE, A.; SGAGLIONE, A. Affresco Italiano. Corso di língua e
+cultura italiana per stranieri. 4ª ed. Milano: Le Monnier, 2011.
+BARONI, D.; VITTA, M. Storia del design gráfico. 1ª ed. Milano: Longanesi, 2003.
+DE FABIANIS, V. M. Capolavori del design italiano.Vercelli: White Star, 2011.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+COZZI, N.; FEDERICO, F.; TANCORRE, A. Corso di italiano Caffè Italia 1.Recanati: ELI,
+2005.
+FAZI, M. C. Sinonimi e contrari.Perugia:Guerra Edizioni, 1989.
+FRATTER, I.; TRONCARELLI, C. Piazza Navona1. Corso di italiano per stranieri.1ª ed.
+Genova: Cideb Editrice, 2006.
+MEZZADRI, M.; PEDERZANI, L. Civiltà punto it. Perugia: Guerra Edizioni, 2007.
+ROVELLI, U. Interviste sul progetto. Dieci anni di incontri col design su IdeaMagazine.
+Net.Milano: Franco Angeli, 2011.
+
+
+LÍNGUA E CULTURA ITALIANA 3
+
+Desenvolvimento da competência comunicativa em italiano: práticas de compreensão oral
+e escrita em nível pré-intermediário e desenvolvimento da competência cultural através do
+estudo e reflexão de aspectos criativos da sociedade italiana. O cinema italiano.
+
+BIBLIOGRAFIA BÁSICA:
+
+ARGENTIERI, M. Storia del Cinema Italiano. Roma: Newton & Compton, 2006.
+BRUNETTA, G. P. Il cinema italiano contemporaneo: da “La dolce vita” a “Centochiodi”.
+Roma: Laterza, 2007.
+ZIGLIO, L.; RIZZO, G. Corso di Italiano Espresso 2. Firenze: Alma Edizioni, 2008.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+COZZI, N.; FEDERICO, F.; TANCORRE, A. Corso di italiano Caffè Italia 1.Recanati: ELI,
+2005.
+FAZI, M. C. Sinonimi e contrari.Perugia:Guerra Edizioni, 1989.
+FRATTER, I.; TRONCARELLI, C. Piazza Navona1. Corso di italiano per stranieri.1ª ed.
+Genova: Cideb Editrice, 2006.
+MEZZADRI, M.; PEDERZANI, L. Civiltà punto it.Perugia: Guerra Edizioni, 2007.
+ROVELLI, U. Interviste sul progetto. Dieci anni di incontri col design su IdeaMagazine.
+Net.Milano: Franco Angeli, 2011.
+
+LÍNGUA E CULTURA ITALIANA 4
+
+Desenvolvimento da competência comunicativa em italiano com aperfeiçoamento da
+compreensão oral e escrita em nível pré-intermediário e desenvolvimento da competência
+cultural através do estudo e reflexão de aspectos criativos da sociedade italiana. A literatura
+italiana contemporânea.
+
+
+BIBLIOGRAFIA BÁSICA:
+
+ZIGLIO, L.; RIZZO, G. Corso di Italiano Espresso 2. Firenze: Alma Edizioni, 2008.
+
+                                                                                            73
+CALVINO, I. Lezioni americane, sei proposte per il prossimo millenio. Milano: Mondadori,
+2000.
+YEHOSHUA, A. Il lettore allo specchio, sul romanzo e la scrittura.Torino: Einaudi, 2003.
+FERRONI, G. Letteratura italiana contemporânea. Milano: Mondadori Università, 2007.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BALBONI, P. Parole comuni culture diverse.Venezia: Marsilio Editore, 2003.
+BALBONI, P. Le sfide di Babele.Torino:UTET, 2002.
+FAVARO, G. Alfabeti interculturali: idee, proposte e percorsi per l’accoglienza e per una
+didattica dell’italiano seconda lingua, della narrazione, dello scambio tra storie e culture.
+Milano:Guerini e Associati, 2000.
+FAZI, M. C. Sinonimi e contrari.Perugia:Guerra Edizioni, 1989.
+GUASTALLA, C. Giocare con la letteratura.Livello A2 a C1. Firenze: ALMA Edizioni,
+2002.
+
+
+LÍNGUA E CULTURA ITALIANA 5
+
+Desenvolvimento da competência comunicativa em italiano com aperfeiçoamento da
+compreensão oral e escrita em nível intermediário e desenvolvimento da competência
+cultural através do estudo e reflexão de aspectos criativos da sociedade italiana. O teatro
+italiano.
+
+BIBLIOGRAFIA BÁSICA:
+
+ZIGLIO, L.; RIZZO, G. Corso di Italiano Espresso 3. Firenze: Alma Edizioni, 2010.
+BENELLI, G. Il linguaggio nel teatro italiano contemporaneo.Firenze: Barbes, 2011.
+PROSPERI, M. Mussolini e il suo doppio-La città di Dio-Lo schiaffo di Anagni. Roma: Bulzoni,
+2003.
+VERDONE, M. La leggenda di Monna Bianca. Roma: Bulzoni, 2003.
+COMPATANGELO, L. M. Come te-I figli del silenzio-Il veliero e il pesce rosso. Roma: Bulzoni,
+2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+COZZI, N.; FEDERICO, F.; TANCORRE, A. Corso di italiano Caffè Italia 1.Recanati: ELI,
+2005.
+FAZI, M. C. Sinonimi e contrari.Perugia:Guerra Edizioni, 1989.
+FRATTER, I.; TRONCARELLI, C. Piazza Navona1. Corso di italiano per stranieri.1ª ed.
+Genova: Cideb Editrice, 2006.
+MEZZADRI, M.; PEDERZANI, L. Civiltà punto it.Perugia: Guerra Edizioni, 2007.
+ROVELLI, U. Interviste sul progetto. Dieci anni di incontri col design su IdeaMagazine.
+Net.Milano: Franco Angeli, 2011.
+VV. AA. Storia del teatro moderno e contemporaneo. III. Avanguardie e utopie del teatro. Il
+Novecento. Milano: Einaudi, 2001.
+
+
+LÍNGUA E CULTURA ITALIANA 6
+
+Aprimoramento da compreensão e expressão oral e escrita em italiano: nível intermediário
+e desenvolvimento da competência cultural através do estudo e reflexão de aspectos
+criativos da sociedade italiana. Autores italianos canonizados como paradigmas da
+literatura em língua italiana.
+
+                                                                                          74
+BIBLIOGRAFIA BÁSICA:
+
+ZIGLIO, L.; RIZZO, G. Corso di Italiano Espresso 3. Firenze: Alma Edizioni, 2010.
+PASOLINI,P.P. Passione e idelogia. Milano: Garzanti, 1973.
+CALVINO, I. Ultimo viene il corvo. Milano: Mondadori, 2000.
+
+
+BIBLIOGRAFIA COMPLEMENTAR:
+COZZI, N.; FEDERICO, F.; TANCORRE, A. Corso di italiano Caffè Italia 1.Recanati: ELI,
+2005.
+FAZI, M. C. Sinonimi e contrari.Perugia:Guerra Edizioni, 1989.
+FRATTER, I.; TRONCARELLI, C. Piazza Navona1. Corso di italiano per stranieri.1ª ed.
+Genova: Cideb Editrice, 2006.
+MEZZADRI, M.; PEDERZANI, L. Civiltà punto it.Perugia: Guerra Edizioni, 2007.
+ROVELLI, U. Interviste sul progetto. Dieci anni di incontri col design su IdeaMagazine.
+Net.Milano: Franco Angeli, 2011.
+PIROMALLI, A. Storia della letteratura italiana. Garigliano: Cassino, 1994.
+Dizionario della Letteratura Italiana, le opere.Milano: TEA, 1989.
+
+
+
+
+                                                                                    75
+

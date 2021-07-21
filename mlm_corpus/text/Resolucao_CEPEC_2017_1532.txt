@@ -1,0 +1,2582 @@
+                            SERVIÇO PÚBLICO FEDERAL
+                         UNIVERSIDADE FEDERAL DE GOIÁS
+
+                          RESOLUÇÃO – CEPEC Nº 1532
+
+                                                    Aprova o Projeto Pedagógico do Curso
+                                                    de Graduação em Física, grau acadêmico
+                                                    Bacharelado, modalidade presencial, do
+                                                    Instituto de Física, Regional Goiânia,
+                                                    para os alunos ingressos a partir de 2013.
+
+
+                   O VICE-REITOR, NO EXERCÍCIO DA REITORIA DA
+UNIVERSIDADE FEDERAL DE GOIÁS, AD-REFERENDUM DO CONSELHO DE
+ENSINO, PESQUISA, EXTENSÃO E CULTURA, no uso de suas atribuições legais,
+estatutárias e regimentais, tendo em vista o que consta do processo nº 23070.001876/2015-30 e
+considerando:
+                   a) a Lei de Diretrizes e Bases - LDB (Lei 9.394/96);
+                   b) as Diretrizes Curriculares Nacionais para o Curso de Física, Resolução
+                      CNE/CES nº 09/2002;
+                   c) a Resolução CNE/CES nº 02/2007, que estabelece a carga horária
+                      mínima para os cursos de graduação;
+                   d) a Resolução CNE/CP nº 01/2012, que estabelece as Diretrizes Nacionais
+                      para a Educação em Direitos Humanos;
+                   e) a Resolução CNE/CP nº 1/2004, que institui as Diretrizes Curriculares
+                      para a Educação das Relações Étnico-Raciais;
+                   f) o Decreto nº 5.626/2005 que regulamenta a Lei nº 10.436/2002, que
+                      dispõe sobre a língua brasileira de sinais – LIBRAS;
+                   g) o Decreto nº 4.281/2002 que regulamenta a Lei nº 9.795/1999, que
+                      dispõem sobre a Educação Ambiental;
+                   h) o Regimento e o Estatuto da UFG;
+                   i) o Regulamento Geral dos Cursos de Graduação da UFG, Resolução
+                      CEPEC nº 1122/2012;
+
+                 RESOLVE:
+
+                Art. 1º Aprovar o Projeto Pedagógico do Curso de Graduação em Física,
+grau acadêmico Bacharelado, modalidade presencial, do Instituto de Física – IF, Regional
+Goiânia da Universidade Federal de Goiás, na forma do Anexo a esta Resolução.
+
+                   Art. 2º Esta Resolução entra em vigor nesta data, com efeito para os alunos
+ingressos a partir do ano letivo de 2013, revogando-se as disposições em contrário.
+
+
+                              Goiânia, 4 de setembro de 2017.
+
+
+                              Prof. Manoel Rodrigues Chaves
+                          - Vice-Reitor no exercício da reitoria –
+                                    ANEXO À RESOLUÇÃO – CEPEC Nº 1532
+
+              PROJETO PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM
+                          FÍSICA - BACHARELADO
+
+                                       UNIVERSIDADE FEDERAL DE GOIÁS
+
+                                                            Reitor
+                                             Prof. Orlando Afonso Valle do Amaral
+
+                                                         Vice-Reitor
+                                                Prof. Manoel Rodrigues Chaves
+
+
+                                                  INSTITUTO DE FÍSICA
+
+                                                           Diretor
+                                               Prof. Tertius Lima da Fonseca
+
+                                                        Vice-Diretor
+                                               Prof. Salviano de Araújo Leão
+
+      Comissão de Reformulação do Projeto Pedagógico do Curso de Bacharelado em Física
+  Prof. Herbert de Castro Georg                Prof. Ricardo Costa de Santana
+  Prof. Álvaro de Almeida Caparica             Prof. Ardiley Torres Avelar
+
+                              Membros do Conselho Diretor do Instituto de Física
+Prof. Adolfo Franco Júnior                   Prof. Jefferson Adriany Ribeiro da Cunha   Prof. Orlando Afonso Valle do Amaral
+Prof. Álvaro de Almeida Caparica             Prof. Jesiel Freitas Carvalho              Prof. Osni Silva
+Prof. Andris Figueiroa Bakuzis               Prof. Jonas Oliveira da Silva              Prof. Pablo José Gonçalves
+Prof. Antônio Alonso                         Prof. José Nicodemos Teixeira Rabelo       Prof. Paulo Celso Ferrari
+Prof. Ardiley Torres Avelar                  Prof. José Ricardo Sabino                  Prof. Rafael de Morais Gomes
+Prof. Carlito Lariucci                       Prof. José Rildo de Oliveira Queiroz       Prof. Renato Borges Pontes
+Profª. Cássia Alessandra Marquezin           Prof. Ladir Candido da Silva               Prof. Renato Pessoa Vale
+Profª. Célia Maria Alves Dantas              Prof. Lauro June Queiroz Maia              Prof. Ricardo Avelino Gomes
+Profª. Cristhiane Gonçalves                  Prof. Leandro Felix de Sousa Bufaiçal      Prof. Ricardo Costa de Santana
+Prof. Ernanni Damião Vieira                  Prof. Lucas Chibebe Céleri                 Prof. Salviano de Araújo Leão
+Prof. Fábio Luis Braghin                     Prof. Luiz Gonzaga Roversi Genovese        Prof. Sebastião Antônio Mendanha Neto
+Prof. Francisco Aparecido Pinto Osório       Profª. Maria Amélia Pires                  Profª. Sheila Gonçalves do Couto Carvalho
+Prof. Giovanni Piacente                      Prof. Marcos Antônio de Castro             Prof. Silvio Leão Vieira
+Prof. Herbert de Castro Georg                Prof. Márcio Adriano Rodrigues Souza       Prof. Tertius Lima da Fonseca
+Prof. Hermann Freire Ferreira Lima e Silva   Prof. Nilson Mendes Borges                 Prof. Wagner Wilson Furtado
+Prof. Ivo de Almeida Marques                 Prof. Norton Gomes de Almeida              Prof. Wesley Bueno Cardoso
+                                    Representantes dos servidores técnico-administrativos
+  Altiva Garcia de Paula                 Cícero Alves Junqueira                  Jeveson Cardoso da Silva
+  André Gomes dos Santos                 Gustavo Henrique Pessoa Chaves          Juracy Leandro dos Santos Júnior
+                                                  Representantes dos estudantes
+  Abner Leonel Gadelha Gomes                 Matheus Carvalho José Pacheco              Nicholas Zufelato
+  Dhanyella Nunes Bispo                      Matheus Motta Moreira                      Vitor Caetano Paulo
+  Jheury Egezileu de Souza
+
+
+
+
+                                                         Goiânia - GO
+                                                          2015/2017
+                                                            SUMÁRIO
+
+1       APRESENTAÇÃO DO PROJETO ............................................................................... 4
+2       HISTÓRICO.................................................................................................................... 4
+3       EXPOSIÇÃO DE MOTIVOS ........................................................................................ 4
+4       OBJETIVOS DO CURSO .............................................................................................. 5
+5       PRINCÍPIOS NORTEADORES DA FORMAÇÃO DO PROFISSIONAL E O
+        PERFIL DOS FORMANDOS ........................................................................................ 5
+5.1     A Interdisciplinaridade................................................................................................... 6
+5.2     A Formação Ética e a Função Social do Profissional................................................... 7
+6       EXPECTATIVA DA FORMAÇÃO DO PROFISSIONAL ........................................ 7
+7       ESTRUTURA CURRICULAR ...................................................................................... 8
+7.1     Matriz Curricular ......................................................................................................... 11
+7.2     Sugestão de Fluxo para Integralização Curricular do Curso de Bacharelado
+        em Física ......................................................................................................................... 14
+7.3     Elenco de Disciplinas com Ementas e Bibliografias Básica e Complementar ......... 16
+7.4     Atividades Complementares ........................................................................................ 39
+8       POLÍTICA E GESTÃO DE ESTÁGIO CURRICULAR ......................................... 39
+9       TRABALHO DE CONCLUSÃO DE CURSO ........................................................... 40
+10 INTEGRAÇÃO ENTRE ENSINO, PESQUISA E EXTENSÃO ............................. 40
+10.1 Iniciação Científica........................................................................................................ 40
+10.2 Extensão ......................................................................................................................... 41
+11      SISTEMA DE AVALIAÇÃO DO PROCESSO DE ENSINO E DE
+        APRENDIZAGEM ....................................................................................................... 42
+12      SISTEMA DE AVALIAÇÃO DO PROJETO DE CURSO ...................................... 42
+13      POLÍTICA DE QUALIFICAÇÃO DOS DOCENTES E SERVIDORES
+        TÉCNICO-ADMINISTRATIVOS .............................................................................. 42
+14      REQUISITOS LEGAIS E NORMATIVOS ............................................................... 43
+14.1    Educação das Relações Étnico-Raciais........................................................................ 43
+14.2    Educação em Direitos Humanos .................................................................................. 43
+14.3    Educação Ambiental ..................................................................................................... 44
+14.4    Libras ............................................................................................................................. 44
+15      LEGISLAÇÃO .............................................................................................................. 45
+16      CONSIDERAÇÕES FINAIS ....................................................................................... 45
+
+
+
+
+                                                                                                                                             3
+1      APRESENTAÇÃO DO PROJETO
+
+          Através do presente documento apresentamos o projeto de reformulação do curso de
+Bacharelado em Física da área de conhecimento Ciências Exatas e da Terra, na modalidade
+presencial, tendo como unidade responsável o Instituto de Física da Universidade Federal de
+Goiás. Aos concluintes do curso será conferido o título de Bacharel em Física. O curso
+funcionará em período integral e serão oferecidas 25 vagas para ingresso anual com entrada
+apenas no primeiro semestre letivo através de processo seletivo (vestibular) ou sistema
+unificado de seleção e conforme disposto nos artigos 28 e 29 da Resolução CEPEC nº 1122.
+A carga horária mínima de 2848 horas será exigida para conclusão do curso e obtenção do
+título. A duração mínima do curso (prazo para integralização dos créditos) é de 8 semestres e
+a duração máxima de 14 semestres.
+
+
+
+2      HISTÓRICO
+
+          O curso de Física foi criado na Universidade Federal de Goiás em novembro de
+1963, com a criação do então chamado Instituto de Matemática e Física (IMF). O curso foi
+reconhecido pelo Decreto nº 65.784 de 15 de dezembro de 1969. Em 1996, com o
+desmembramento do IMF em Instituto de Física (IF), Instituto de Matemática e Estatística
+(IME) e Instituto de Informática (INF), o curso passou a ser de responsabilidade do IF.
+          Desde o início de seu funcionamento, o curso ofereceu uma formação sólida aos
+alunos, habilitando-os tanto ao desenvolvimento de uma carreira acadêmico-científica quanto
+ao exercício da atividade educacional.
+          O curso de Física passou por diversas reformulações, sempre no intuito de aprimorar
+a formação dos egressos para que pudessem atuar na sociedade de forma crítica, ética,
+participativa e construtiva e também enfrentar os desafios profissionais num mundo em
+constante mudança.
+          Até 2012, o Instituto de Física oferecia apenas o curso de Física em duas
+modalidades presenciais: Bacharelado (somente período integral) e Licenciatura (em dois
+turnos: vespertino e noturno). Em cada turno de cada modalidade o número de vagas para
+ingresso era 40, totalizando 120 vagas.
+          Naquele ano, o IF decidiu criar dois novos cursos presenciais (Engenharia Física e Física
+Médica) aprovados no CONSUNI em 28 de setembro de 2012, sendo ambos em período integral.
+Nessa nova composição, com os quatro cursos (tendo sido alterado o turno vespertino do curso de
+Licenciatura para o turno integral) passamos a uma oferta de 25 vagas para cada curso de período
+integral e mais 40 vagas na Licenciatura noturna, totalizando 140 vagas.
+
+
+
+3      EXPOSIÇÃO DE MOTIVOS
+
+         O Instituto de Física da UFG tem, ao longo de sua história, procurado refletir a respeito
+de suas atividades acadêmicas e, em particular, sobre o funcionamento dos cursos de Graduação.
+Como resultado dessas reflexões, vale a pena mencionar a criação da Semana da Física, a
+primeira da UFG, há 31 anos, bem como a adoção pioneira de um sistema de avaliação discente
+há cerca de 15 anos, recentemente substituída pela avaliação discente da UFG.
+         Ademais, a evolução natural cada vez mais rápida, que experimentam tanto a ciência
+quanto a sociedade, fazem necessárias as reformulações periódicas dos cursos de graduação,
+de modo a atender aos anseios e expectativas da sociedade sobre o profissional formado.
+
+                                                                                                 4
+         Além disso, a UFG vem sofrendo mudanças significativas na sua estrutura, tendo
+aumentado muito de tamanho, tanto no corpo discente quanto no corpo docente. Tais
+mudanças permitem que modernizações sejam feitas nos currículos dos cursos.
+         A presente reformulação de curso tem também alguns fatos ou situações motivadoras
+específicas, as quais relatamos abaixo:
+          necessidade de melhoria ou adequação de algumas disciplinas e percursos
+            temáticos, quer seja porque tenham sido detectadas algumas deficiências ao longo
+            dos últimos anos, quer seja porque esses percursos tenham sofrido modificações
+            nas unidades em que são oferecidas;
+          a decisão tomada em 2012, pelo Conselho Diretor do Instituto de Física, de se
+            criar 2 cursos novos (Engenharia Física e Física Médica) deflagrou mais
+            fortemente a necessidade da reestruturação dos 2 cursos já existentes
+            (Bacharelado e Licenciatura) de modo que os 4 cursos gozem de um núcleo
+            comum unificado e otimizado em termos de ementas e de oferta de disciplinas,
+            bem como o compartilhamento de disciplinas optativas;
+          a necessidade cada vez mais evidente de um processo de unificação de disciplinas
+            e ementas que permita a definição de ciclos básicos ou módulos básicos, que
+            motivou o IF a unificar os cursos de Física Geral Básica em 2 ciclos básicos: um
+            de 4 semestres para Ciências Exatas e Engenharias e outro de 2 semestres para
+            outros cursos que necessitem de conteúdos de Física em nível menos
+            aprofundado;
+          a aprovação do novo RGCG da UFG, na Resolução CEPEC nº 1122, de 9 de
+            novembro de 2012, que estabelece algumas modificações na estrutura dos projetos
+            pedagógicos dos cursos de graduação, dentre elas a necessidade de PPCs distintos
+            para as modalidades de Bacharelado e Licenciatura, com base no Parecer CNE/CP
+            nº 09/2001;
+          alterações na legislação sobre educação superior.
+
+
+
+4      OBJETIVOS DO CURSO
+
+          O Curso de Bacharelado em Física tem por objetivo formar profissionais para atuar
+na sociedade através de diversas atividades tais como a pesquisa e o desenvolvimento
+científico e tecnológico em centros de pesquisa, universidades e na indústria bem como o
+magistério em nível superior. O curso visa também preparar o egresso para o engajamento em
+cursos de pós-graduação em Física e áreas afins, para a continuação e o aprofundamento de
+sua formação de cientista e pesquisador, de modo que possa atuar de forma mais
+independente, madura e efetiva nas atividades citadas acima.
+
+
+
+5      PRINCÍPIOS NORTEADORES DA FORMAÇÃO DO PROFISSIONAL E O
+       PERFIL DOS FORMANDOS
+
+        Os princípios norteadores para a formação do profissional Físico estão delineados no
+Parecer CNE/CES nº 1304/2001, que define seu perfil geral e específico:
+                       “O físico, seja qual for sua área de atuação, deve ser um profissional que, apoiado
+                       em conhecimentos sólidos e atualizados em Física, deve ser capaz de abordar e tratar
+                       problemas novos e tradicionais e deve estar sempre preocupado em buscar novas
+                       formas do saber e do fazer científico ou tecnológico. Em todas as suas atividades a
+                       atitude de investigação deve estar sempre presente, embora associada a diferentes
+                       formas e objetivos de trabalho.
+
+                                                                                                         5
+                           Dentro deste perfil geral, podem se distinguir perfis específicos, tomados como
+                       referencial para o delineamento da formação em Física, em função da diversificação
+                       curricular proporcionada através de módulos sequenciais complementares ao núcleo
+                       básico comum:
+                           Físico – Pesquisador: ocupa-se preferencialmente de pesquisa, básica ou
+                           aplicada, em universidades e centros de pesquisa. Esse é com certeza, o campo
+                           de atuação mais bem definido e o que tradicionalmente tem representado o perfil
+                           profissional idealizado na maior parte dos cursos de graduação que conduzem ao
+                           Bacharelado em Física;
+                           Físico – Educador: dedica-se preferencialmente à formação e à disseminação do
+                           saber científico em diferentes instâncias sociais, seja através da atuação no
+                           ensino escolar formal, seja através de novas formas de educação científica, como
+                           vídeos, “software”, ou outros meios de comunicação. Não se ateria ao perfil da
+                           atual Licenciatura em Física, que está orientada para o ensino médio formal;
+                           Físico – Tecnólogo: dedica-se dominantemente ao desenvolvimento de
+                           equipamentos e processos, por exemplo, nas áreas de dispositivos opto-eletrônicos,
+                           eletro-acústicos, magnéticos, ou de outros transdutores, telecomunicações, acústica,
+                           termodinâmica de motores, metrologia, ciência dos materiais, microeletrônica e
+                           informática. Trabalha em geral de forma associada a engenheiros e outros
+                           profissionais, em microempresas, laboratórios especializados ou indústrias. Este
+                           perfil corresponderia ao esperado para o egresso de um Bacharelado em Física
+                           Aplicada;
+                           Físico – Interdisciplinar: utiliza prioritariamente o instrumental (teórico e/ ou
+                           experimental) da Física em conexão com outras áreas do saber, como, por
+                           exemplo, Física Médica, Oceanografia Física, Meteorologia, Geofísica,
+                           Biofísica, Química, Física Ambiental, Comunicação, Economia, Administração e
+                           incontáveis outros campos. Em quaisquer dessas situações, o físico passa a atuar
+                           de forma conjunta e harmônica com especialistas de outras áreas, tais como
+                           químicos, médicos, matemáticos, biólogos, engenheiros e administradores.”
+
+         Com a criação dos novos cursos, o IF contempla os 4 perfis. A Licenciatura está
+associada ao perfil de Físico-educador, a Engenharia Física ao perfil de Físico-tecnólogo e a
+Física Médica ao perfil de Físico-interdisciplinar.
+         O curso de Bacharelado em Física está associado ao perfil de Físico-pesquisador.
+Para contemplar esse perfil, o curso oferece uma base sólida de conhecimentos e procura
+passar para os estudantes uma forma científica de pensar e abordar os temas relevantes na
+sociedade e na vida profissional, sempre com uma postura crítica, inquiridora, participativa e
+construtiva. Com essa formação, espera-se que os egressos estejam preparados para se inserir
+no mercado de trabalho em áreas técnicas ou acadêmico-científicas, em empresas, na
+indústria, em universidades ou centros de pesquisa, ou mesmo para ingressarem em
+programas de Pós-Graduação em Física ou áreas afins.
+
+
+5.1    A Interdisciplinaridade
+          A formação de um físico contemporâneo é um grande desafio. Além da necessidade
+de abarcar todo um conhecimento acumulado ao longo de séculos de desenvolvimento dessa
+ciência é essencial, nos dias de hoje, estabelecer as necessárias e importantes conexões entre a
+física e outras ciências, tais como a química, a biologia, a computação, a medicina, e tantas
+outras. Os limites outrora bem demarcados entre as várias ciências tornam-se cada vez mais
+fluidos, obrigando o profissional atual a estar sintonizado com essas novas demandas que,
+muitas vezes, oferecem as melhores oportunidades de atuação profissional.
+          Dada à impossibilidade de se oferecer uma formação tão abrangente que envolva
+também conteúdos específicos de tantas outras disciplinas o desafio é fornecer aos egressos dos
+cursos de Física uma formação que seja sólida e abrangente em física e matemática, e que seja
+suficientemente flexível para permitir ao aluno incursões em outras áreas do conhecimento. Essa
+possibilidade deve ser garantida pela matrícula em disciplinas optativas e disciplinas de livre
+escolha do aluno (Núcleo Livre, descrito na página 15), por meio de participação no
+
+
+                                                                                                             6
+desenvolvimento de projetos conjuntos interdisciplinares ou pela participação em atividades
+complementares (palestras, conferências, simpósios, etc.) voltados para áreas interdisciplinares.
+          O aumento significativo de disciplinas optativas realizado nesta reformulação, bem
+como o aumento de carga horária mínima em disciplinas optativas também contribuem para a
+possibilidade de interação com outras áreas.
+          Por outro lado, a conexão com outras ciências, cada vez mais presente nos temas de
+fronteira da Física, se reflete cada vez mais nas linhas de pesquisa do Instituto de Física. Portanto,
+ao se engajar em atividades de pesquisa no IF, através do programa de Iniciação Científica (IC,
+detalhes à seguir), por exemplo, muitas vezes o aluno de Bacharelado se verá na necessidade de
+aprender conceitos e ideias de outras áreas de conhecimento. Dessa forma a participação em
+projetos de pesquisa contribui também para uma formação interdisciplinar dos alunos.
+
+
+5.2     A Formação Ética e a Função Social do Profissional
+         Para que o aluno atue na sociedade como cidadão, de maneira participativa, ética,
+responsável, utilizando seus conhecimentos de forma construtiva, ele deve ter também uma
+formação humanística. Mas, novamente recaímos no problema da impossibilidade de fornecer
+conhecimentos abrangentes nas várias áreas de conhecimento e sólidos em Física e
+Matemática. Entretanto, mesmo não sendo incluídas disciplinas específicas na área de
+ciências humanas na grade curricular, particularmente aquelas relacionadas à ética e à
+sociologia, o aspecto humanístico da formação de nossos estudantes não é negligenciado. A
+disciplina Evolução das Ideias da Física, que é obrigatória, oferece a oportunidade para que o
+professor e seus alunos possam contextualizar o desenvolvimento da Física e das ciências de
+uma maneira geral, e analisar suas implicações econômicas, sociais, morais e éticas.
+         O aluno terá ainda a oportunidade de estudar diversos assuntos de cunho humanístico,
+optando por disciplinas na área de ciências humanas dentro do elenco de disciplinas de sua livre
+escolha (Núcleo Livre), descritas posteriormente. Dessa forma ele poderá cursar disciplinas com
+diversas temáticas, tais como história, filosofia, ética, sociologia, questões étnico-raciais,
+educação, meio ambiente, direitos humanos, etc. Também poderá, dentro do rol de disciplinas
+optativas, que foi significativamente aumentado nesta reformulação, escolher disciplinas
+humanísticas provenientes do curso de Licenciatura em Física.
+         A oportunidade de se discutir essas questões não se restringe, entretanto, ao ambiente
+formal de uma disciplina específica. Em várias oportunidades e na apresentação e discussão de
+temas próprios da Física, as questões humanísticas e filosóficas são recorrentes ao longo do curso.
+         As atividades extracurriculares, como aquelas previstas nas atividades
+complementares, como participação em congressos, palestras, seminários e exposições são
+também excelentes oportunidades para os alunos. Essas atividades são fortemente
+incentivadas em nosso curso e oferecem aos alunos a oportunidade de não apenas expandirem
+seus conhecimentos técnicos e/ou científicos, mas também de ampliar sua visão humanística.
+
+
+
+6      EXPECTATIVA DA FORMAÇÃO DO PROFISSIONAL
+
+        As competências essenciais, que definem as qualificações profissionais básicas de
+um Físico podem ser elencadas da seguinte forma:
+         dominar princípios e conceitos gerais e fundamentais da Física, estando familiarizado
+           com suas aplicações no domínio da física clássica e da física moderna;
+         descrever e explicar fenômenos naturais, processos e equipamentos tecnológicos
+           em termos de conceitos, teorias e princípios físicos gerais;
+
+
+                                                                                                    7
+          diagnosticar, formular e encaminhar a solução de problemas físicos,
+           experimentais ou teóricos, práticos ou abstratos, fazendo uso dos instrumentos
+           laboratoriais ou matemáticos apropriados;
+          manter atualizada sua cultura científica geral e sua cultura técnica profissional
+           específica;
+          desenvolver uma ética de atuação profissional e de consequente responsabilidade
+           social, compreendendo a Ciência como conhecimento histórico, inserida em um
+           bem definido contexto sociopolítico, cultural e econômico.
+
+        Essas competências essenciais estão associadas a determinadas habilidades gerais
+que devem ser desenvolvidas ou aprimoradas durante o curso. Dentre essas destacamos:
+         utilizar com fluência a linguagem matemática para a abordagem, equacionamento
+          e elucidação de situações envolvendo fenômenos naturais;
+         resolver problemas experimentais, desde seu reconhecimento e a realização de
+          medições, até à análise de resultados;
+         propor, elaborar e utilizar modelos físicos, reconhecendo seus domínios de validade;
+         concentrar esforços e persistir na busca de soluções para problemas de solução
+          elaborada e demorada;
+         utilizar com propriedade a linguagem científica para exprimir conceitos físicos, para a
+          descrição de procedimentos de trabalhos científicos e para divulgação de resultados;
+         utilizar os diversos recursos da informática, dispondo de noções de linguagem
+          computacional;
+         conhecer e absorver novas técnicas, métodos ou uso de instrumentos, seja em
+          medições, seja em análise de dados (teóricos ou experimentais);
+         reconhecer as relações do desenvolvimento da Física com outras áreas do saber,
+          tecnologias e instâncias sociais, especialmente contemporâneas;
+         apresentar resultados científicos em distintas formas de expressão, tais como
+          relatórios, trabalhos para publicação, seminários e palestras.
+
+
+
+7      ESTRUTURA CURRICULAR
+
+         No parecer CNE/CES 1.304/2001, que estabelece as diretrizes curriculares dos
+cursos de Física, recomenda-se uma estrutura modular que contemple um Núcleo Comum de
+disciplinas – que todos os cursos de Física devem compartilhar e que deve representar cerca
+de 50% da carga horária dos cursos – acrescido de Módulos Sequenciais especializados que
+definem os diferentes perfis/cursos.
+
+Núcleo Comum
+         O Núcleo Comum (NC) consiste de um conjunto mínimo de disciplinas para a
+formação geral do físico. É composto por disciplinas de Física Geral, Matemática, Física
+Clássica, Física Moderna e Contemporânea e disciplinas complementares. Esses grupos são
+assim definidos no Parecer CNE/CES 1.304/2001:
+          Física Geral: “Consiste no conteúdo de Física do ensino médio, revisto em maior
+            profundidade, com conceitos e instrumental matemático adequados. Além de uma
+            apresentação teórica dos tópicos fundamentais (mecânica, termodinâmica,
+            eletromagnetismo, física ondulatória), devem ser contempladas práticas de
+            laboratório, ressaltando o caráter da Física como ciência experimental.”;
+            Esses conteúdos estão nas disciplinas 02–04, 06, 08, 14–23, 28–31, 36–39 na
+            Matriz Curricular, Tabela 1;
+
+                                                                                               8
+         Matemática: “Conjunto mínimo de conceitos e ferramentas matemáticas
+          necessárias ao tratamento adequado dos fenômenos em Física, composto por
+          cálculo diferencial e integral, geometria analítica, álgebra linear e equações
+          diferenciais, conceitos de probabilidade e estatística e computação.” Os conteúdos
+          de Cálculo Diferencial e Integral e de Equações Diferenciais são abordados nas
+          disciplinas 02–04 e 23 na Matriz Curricular. As disciplinas de Geometria
+          Analítica (26), Álgebra Linear (01), Probabilidade e Estatística (35), Cálculo
+          Numérico (05), Introdução à Computação (27) e Física Matemática II (24) não
+          fazem parte de um núcleo comum, mas são obrigatórias para o curso de
+          Bacharelado em Física;
+         Física Clássica: “Cursos com conceitos estabelecidos (em sua maior parte)
+          anteriormente ao Séc. XX, envolvendo mecânica clássica, eletromagnetismo e
+          termodinâmica.” Esses conteúdos correspondem às disciplinas 31, 06 e 38 na
+          Matriz Curricular. No caso do Bacharelado em Física há o complemento
+          obrigatório de Mecânica Clássica II (32) e Eletromagnetismo II (07);
+         Física Moderna e Contemporânea: “É a Física desde o início do Séc. XX,
+          compreendendo conceitos de mecânica quântica, física estatística, relatividade e
+          aplicações.” Esses conteúdos são abordados nas disciplinas 29 e 30 na Matriz
+          Curricular. As disciplinas de Física Estatística (13) e Fundamentos da Teoria da
+          Relatividade (25) não fazem parte de um núcleo comum, mas são obrigatórias
+          para o Bacharelado em Física;
+         Disciplinas Complementares: “Grupo de disciplinas que ampliam a educação do
+          formando. Estas disciplinas abrangem outras ciências naturais e também as
+          ciências humanas, contemplando questões como Ética, Filosofia e História da
+          Ciência, Gerenciamento e Política Científica, etc.” Neste projeto esses conteúdos
+          são levados em conta através das disciplinas de Química (36 e 37 na Matriz
+          Curricular). Já a disciplina de Evolução das Ideias da Física (09) contempla o
+          conteúdo de História da Ciência, mas está no núcleo específico, pois não é
+          obrigatória para os cursos de Física Médica e Engenharia Física, que possuem
+          outras disciplinas de conteúdo humanístico.
+
+Módulos Sequenciais
+         Para contemplar a formação do Bacharel em Física de modo que ele possa atuar em
+atividades de pesquisa científica e de desenvolvimento ou para que ele possa ter o preparo
+desejado para se engajar em um programa de Pós-Graduação em Física, é necessário um
+aprofundamento em conteúdos avançados de Matemática e Física.
+         Dessa forma, há um Núcleo Específico (NE) de disciplinas para o Bacharelado
+composto por disciplinas obrigatórias (OBR) e disciplinas optativas (OPT). As disciplinas
+obrigatórias são responsáveis por dar solidez à formação do estudante, contemplando esses
+conteúdos avançados de Matemática e Física, e também um aprofundamento nas habilidades
+de Computação enquanto que as disciplinas optativas são responsáveis pela flexibilização do
+currículo necessária para o direcionamento dos interesses de cada aluno.
+         Neste projeto pedagógico estabelecemos um mínimo de 256 horas em disciplinas
+optativas que devem ser cursadas pelo estudante. Tipicamente, essa carga horária será
+cumprida através de quatro disciplinas de 64 horas cada. Além disso, aumentamos
+sobremaneira o rol de disciplinas optativas (vide Matriz Curricular, Tabela 2), contemplando,
+principalmente, disciplinas que são obrigatórias nos cursos de Engenharia Física (ENG), de
+Física Médica (MED) e no curso de Licenciatura em Física (LIC). Também há disciplinas que
+são oferecidas regularmente no Instituto de Matemática e Estatística para o curso de
+Matemática (MAT). Isso garante que a grande maioria dessas disciplinas seja efetivamente
+oferecida, e com frequência, dando real oportunidade de escolha ao aluno.
+
+                                                                                           9
+         No caso das disciplinas provenientes da Licenciatura, somando essas às disciplinas
+obrigatórias do Bacharelado o aluno é capaz de cobrir boa parte das disciplinas do curso de
+Licenciatura. Assim, uma vez concluído o Bacharelado, ele pode ingressar no curso de
+Licenciatura (através de processo seletivo, ou como portador de diploma) e cumprir os
+requisitos para formar também nesse curso em mais 2 ou 3 semestres. A mesma filosofia é
+adotada na Licenciatura, em que muitas disciplinas do núcleo específico obrigatório do
+Bacharelado são oferecidas como optativas, de modo que o aluno formado em Licenciatura,
+se for de seu interesse, tenha a possibilidade de: (i) ingressar no curso de Bacharelado e
+completá-lo em 2 ou 3 semestres; ou (ii) ingressar diretamente num programa de Pós-
+Graduação em Física, tendo cursado as disciplinas avançadas do curso de Bacharelado que
+são indispensáveis para isso.
+
+Núcleo Livre
+         O Núcleo Livre (NL) consiste de disciplinas eletivas que podem ser ofertadas por
+qualquer unidade acadêmica da UFG e são importantes para permitir ao aluno transitar nas
+diversas áreas de conhecimento e, portanto, ter uma formação mais abrangente.
+         Nesse sentido, no curso de Bacharelado em Física ele tem o importante papel de
+permitir ao aluno contemplar melhor a sua formação humanística, o que deve ser encorajado.
+O aluno também pode direcionar seus interesses para disciplinas de outras ciências
+(Matemática, Química, Biologia, etc.) ou ainda disciplinas de cunho tecnológico, nas
+engenharias, por exemplo.
+         De acordo com o Regulamento Geral dos Cursos de Graduação (RGCG) da UFG,
+Resolução CEPEC nº 1122, cada unidade acadêmica deve ofertar vagas em disciplinas de
+Núcleo Livre em número igual ou maior que a sua própria demanda. Assim, há uma oferta
+regular institucionalizada de disciplinas dessa natureza que permite que os alunos possam
+efetivamente transitar pelas diversas áreas.
+         Além disso, também é previsto no RGCG, em seu artigo 66, que as vagas
+remanescentes em todas as disciplinas oferecidas na UFG, decorridos os prazos de acréscimo
+e cancelamento de disciplinas, ficam disponíveis como Núcleo Livre.
+
+Pré-requisitos
+        Ao longo desta reformulação, examinou-se bastante os prós e contras de se manter
+uma estrutura de pré ou co-requisitos e as comissões de reformulação decidiram pela abolição
+de quase todos, não havendo exceções no curso de Bacharelado em Física.
+        A diretriz que será seguida nos 4 cursos de Graduação do Instituto de Física é a de
+que cada professor deverá orientar os alunos nas primeiras aulas de sua disciplina a respeito
+do conhecimento prévio desejável para se cursar aquela disciplina. Além disso, será
+disponibilizado um fluxograma de disciplinas mostrando as dependências conceituais entre as
+mesmas, para que o aluno possa se orientar sobre quais disciplinas deverá se matricular em
+cada semestre, principalmente aquele que sair do fluxo sugerido para integralização curricular
+devido às reprovações, cancelamentos de disciplinas ou outras situações. Além disso, a
+Coordenação de Curso deverá atuar junto aos alunos para orientá-los com relação à matricula
+em disciplinas, reforçando a adoção pelos estudantes de um fluxo adequado de disciplinas.
+        A sugestão de fluxo, bem como o fluxograma das disciplinas do curso, deverão ficar
+disponíveis na página da Coordenação de Graduação do Instituto de Física e constarão
+também no Manual do Calouro/Manual do Curso, que deverá ser elaborado e entregue aos
+alunos no início do 1o Semestre de cada ano e/ou disponibilizado na página do Curso.
+
+
+
+
+                                                                                           10
+     7.1    Matriz Curricular
+
+                                              Unid.     Requisito     CHS
+                   Disciplina                                               CHT Núcleo Natureza
+                                              Resp.   PRÉ-    CO-   TEO PRA
+01    Álgebra Linear                          IME      -      -      4    -   64   NE    OBR
+02    Cálculo 1A                              IME      -      -      6    -   96   NC    OBR
+03    Cálculo 2A                              IME      -      -      6    -   96   NC    OBR
+04    Cálculo 3A                              IME      -      -      4    -   64   NC    OBR
+05    Cálculo Numérico                        IME      -      -      2   2    64   NE    OBR
+06    Eletromagnetismo I                       IF      -      -      4    -   64   NC    OBR
+07    Eletromagnetismo II                      IF      -      -      4    -   64   NE    OBR
+08    Equações Diferenciais Ordinárias        IME      -      -      4    -   64   NC    OBR
+09    Evolução das Ideias da Física            IF      -      -      4    -   64   NE    OBR
+10    Física Computacional I                   IF      -      -      2   2    64   NE    OBR
+11    Física do Estado Sólido I                IF      -      -      4    -   64   NE    OBR
+12    Física do Estado Sólido II               IF      -      -      4    -   64   NE    OBR
+13    Física Estatística                       IF      -      -      4    -   64   NE    OBR
+14    Física Experimental I                    IF      -      -      -   2    32   NC    OBR
+15    Física Experimental II                   IF      -      -      -   2    32   NC    OBR
+16    Física Experimental III                  IF      -      -      -   2    32   NC    OBR
+17    Física Experimental IV                   IF      -      -      -   2    32   NC    OBR
+18    Física Experimental V                    IF      -      -      -   4    64   NC    OBR
+19    Física I                                 IF      -      -      4    -   64   NC    OBR
+20    Física II                                IF      -      -      4    -   64   NC    OBR
+21    Física III                               IF      -      -      4    -   64   NC    OBR
+22    Física IV                                IF      -      -      4    -   64   NC    OBR
+23    Física Matemática I                      IF      -      -      4    -   64   NC    OBR
+24    Física Matemática II                     IF      -      -      4    -   64   NE    OBR
+      Fundamentos          da   Teoria   da
+25                                             IF      -      -      2    -   32   NE    OBR
+      Relatividade
+26    Geometria Analítica                     IME      -      -      4    -   64   NE    OBR
+27    Introdução à Computação                 INF      -      -      2   2    64   NE    OBR
+28    Introdução à Física                      IF      -      -      4    -   64   NC    OBR
+      Introdução à Física Nuclear e de
+29                                             IF      -      -      2    -   32   NC    OBR
+      Partículas
+30    Introdução à Física Quântica             IF      -      -      4    -   64   NC    OBR
+31    Mecânica Clássica I                      IF      -      -      4    -   64   NC    OBR
+32    Mecânica Clássica II                     IF      -      -      4    -   64   NE    OBR
+33    Mecânica Quântica I                      IF      -      -      4    -   64   NE    OBR
+34    Mecânica Quântica II                     IF      -      -      4    -   64   NE    OBR
+35    Probabilidade e Estatística             IME      -      -      4    -   64   NE    OBR
+
+
+                                                                                          11
+                                                  Unid.       Requisito          CHS
+                  Disciplina                                                           CHT Núcleo Natureza
+                                                  Resp.     PRÉ-    CO-        TEO PRA
+36     Química Geral B                              IQ        -          -        4       -     64    NC   OBR
+37     Química Geral Experimental                   IQ        -          -        -       2     32    NC   OBR
+38     Termodinâmica                                IF        -          -        4       -     64    NC   OBR
+39     Trabalho de Conclusão de Curso               IF        -          -        -       2     32    NC   OBR
+40-
+       Disciplina Optativa I                         -        -          -        4       -     64    NE   OPT
+70
+40-
+       Disciplina Optativa II                        -        -          -        4       -     64    NE   OPT
+70
+40-
+       Disciplina Optativa III                       -        -          -        4       -     64    NE   OPT
+70
+40-
+       Disciplina Optativa IV                        -        -          -        4       -     64    NE   OPT
+70
+ -     Disciplina de Livre Escolha do Aluno          -        *          *        4       -     64    NL   ELE
+ -     Disciplina de Livre Escolha do Aluno          -        *          *        4       -     64    NL   ELE
+                           Carga Horária Total                                  146       22   2688
+     Tabela 1: Matriz Curricular do Curso de Graduação em Física - Bacharelado
+               *pré ou co-requisito depende da disciplina eletiva escolhida pelo aluno.
+
+      Legenda:       CHS = Carga Horária Semanal;                   CHT = Carga Horária Total da disciplina;
+                     MAT = Matemática – Bacharelado;                ENGF = Engenharia Física;
+                     FMED = Física Médica;                          LIC = Física – Licenciatura.
+
+
+                                                  Unid.       Requisito          CHS
+                  Disciplina                                                           CHT Núcleo Natureza
+                                                  Resp.     PRÉ-    CO-        TEO PRA
+40     Análise Real I                              IME        -          -        6       -     96    NE       OPT
+41     Análise Real II                             IME        -          -        4       -     64    NE       OPT
+42     Biofísica I                                  IF        -          -        4       -     64    NE       OPT
+43     Cristalografia                               IF        -          -        4       -     64    NE       OPT
+       Desenvolvimento e Fabricação de
+44                                                  IF        -          -        4       -     64    NE       OPT
+       Materiais Avançados
+45     Didática para Ensino de Física               IF        -          -        4       -     64    NE       OPT
+       Fenômenos de Transporte para
+46                                                  IF        -          -        4       -     64    NE       OPT
+       Engenharia Física
+47     Física Atômica e Molecular                   IF        -          -        4       -     64    NE       OPT
+48     Física das Radiações                         IF        -          -        4       -     64    NE       OPT
+49     Física e Meio Ambiente                       IF        -          -        4       -     64    NE       OPT
+50     Física Matemática III                        IF        -          -        4       -     64    NE       OPT
+       Fundamentos Filosóficos e Sócio-
+51                                                  FE        -          -        4       -     64    NE       OPT
+       históricos da Educação
+52     Geometria Diferencial                       IME        -          -        6       -     96    NE       OPT
+53     Introdução à Ciência dos Materiais           IF        -          -        4       -     64    NE       OPT
+
+                                                                                                               12
+                                                Unid.      Requisito           CHS
+                 Disciplina                                                          CHT Núcleo Natureza
+                                                Resp.    PRÉ-    CO-         TEO PRA
+       Introdução à Computação e
+54                                                IF        -          -       4     -         64   NE        OPT
+       Informação Quântica
+55     Introdução à Engenharia Física             IF        -          -       2     -         32   NE        OPT
+56     Introdução à Física Médica                 IF        -          -       2     -         32   NE        OPT
+       Introdução à Instrumentação
+57                                                IF        -          -       4     -         64   NE        OPT
+       Biomédica
+       Introdução à Língua Brasileira de
+58                                               FL         -          -       4     -         64   NE        OPT
+       Sinais – Libras
+59     Introdução à Micro e Nanoeletrônica        IF        -          -       4     -         64   NE        OPT
+60     Introdução à Relatividade Geral            IF        -          -       4     -         64   NE        OPT
+       Lasers – Princípios e Aplicações
+61                                                IF        -          -       4     -         64   NE        OPT
+       Biomédicas
+       Metodologia Científica e Redação
+62                                                IF        -          -       4     -         64   NE        OPT
+       Técnica
+63     Óptica Física                              IF        -          -       4     -         64   NE        OPT
+64     Políticas Educacionais no Brasil          FE         -          -       4     -         64   NE        OPT
+65     Prática de Ensino I                        IF        -          -       4     -         64   NE        OPT
+66     Prática de Ensino II                       IF        -          -       4     -         64   NE        OPT
+67     Psicologia da Educação I                  FE         -          -       4     -         64   NE        OPT
+68     Química Orgânica                          IQ         -          -       2     -         32   NE        OPT
+69     Técnicas Experimentais I                   IF        -          -       4     -         64   NE        OPT
+70     Técnicas Experimentais II                  IF        -          -       4     -         64   NE        OPT
+     Tabela 2: Disciplinas Optativas do Curso de Graduação em Física - Bacharelado
+
+     Legenda:        CHS = Carga Horária Semanal;                  CHT = Carga Horária Total da disciplina;
+                     MAT = Matemática – Bacharelado;               ENGF = Engenharia Física;
+                     FMED = Física Médica;                         LIC = Física – Licenciatura.
+
+
+
+         Distribuição da Carga Horária                      Horas                        %
+      Núcleo Comum                                              1312                  46,1
+      Núcleo Específico Obrigatório                             992                   34,8
+      Núcleo Específico Optativo                                256                      9,0
+      Núcleo Livre                                              128                      4,5
+      Atividades Complementares                                 160                      5,6
+      TOTAL                                                     2848                 100,0
+     Tabela 3: Distribuição da Carga Horária nos Respectivos Núcleos
+
+
+
+
+                                                                                                              13
+7.2    Sugestão de Fluxo para Integralização Curricular do Curso de Bacharelado em
+       Física
+                                 Primeiro Período
+  Nº                  Disciplina           Unidade CHS CHT Natureza Núcleo
+  02    Cálculo 1A                           IME     6  96  OBR      NC
+  26    Geometria Analítica                  IME     4  64  OBR      NE
+  27    Introdução à Computação              INF     4  64  OBR      NE
+  28    Introdução à Física                   IF     4  64  OBR      NC
+               Carga Horária Semestral              18 288
+
+
+                                   Segundo Período
+  Nº                  Disciplina            Unidade CHS CHT Natureza Núcleo
+  01    Álgebra Linear                        IME     4  64  OBR      NE
+  03    Cálculo 2A                            IME     6  96  OBR      NC
+  14    Física Experimental I                  IF     2  32  OBR      NC
+  19    Física I                               IF     4  64  OBR      NC
+  36    Química Geral B                        IQ     4  64  OBR      NC
+  37    Química Geral Experimental             IQ     2  32  OBR      NC
+                 Carga Horária Semestral             22 352
+
+
+                                    Terceiro Período
+  Nº                  Disciplina              Unidade CHS CHT Natureza Núcleo
+  04    Cálculo 3A                              IME     4  64  OBR      NC
+  05    Cálculo Numérico                        IME     4  64  OBR      NE
+  08    Equações Diferenciais Ordinárias        IME     4  64  OBR      NC
+  15    Física Experimental II                   IF     2  32  OBR      NC
+  20    Física II                                IF     4  64  OBR      NC
+  35    Probabilidade e Estatística             IME     4  64  OBR      NE
+                Carga Horária Semestral                22 352
+
+
+                                    Quarto Período
+  Nº                  Disciplina            Unidade CHS CHT Natureza Núcleo
+  16    Física Experimental III                 IF    2  32  OBR      NC
+  21    Física III                              IF    4  64  OBR      NC
+  23    Física Matemática I                     IF    4  64  OBR      NC
+  31    Mecânica Clássica I                     IF    4  64  OBR      NC
+  38    Termodinâmica                           IF    4  64  OBR      NC
+        Disciplina de Livre Escolha              -   4* 64*   ELE     NL
+                Carga Horária Semestral              22 352
+
+
+
+                                                                                14
+                                   Quinto Período
+  Nº                  Disciplina            Unidade CHS CHT Natureza Núcleo
+  06    Eletromagnetismo I                     IF     4  64  OBR      NC
+  10    Física Computacional I                 IF     4  64  OBR      NE
+  17    Física Experimental IV                 IF     2  32  OBR      NC
+  22    Física IV                              IF     4  64  OBR      NC
+  24    Física Matemática II                   IF     4  64  OBR      NE
+  32    Mecânica Clássica                      IF     4  64  OBR      NE
+                Carga Horária Semestral              22 352
+
+
+                                  Sexto Período
+ Nº                 Disciplina            Unidade CHS CHT Natureza Núcleo
+ 07 Eletromagnetismo II                       IF    4  64  OBR      NE
+ 13 Física Estatística                        IF    4  64  OBR      NE
+ 25 Fundamentos da Teoria da                  IF    2  32  OBR      NE
+      Relatividade
+ 30 Introdução à Física Quântica              IF    4  64  OBR      NC
+40-70 Disciplina Optativa 1                    -   4* 64*   OPT     NE
+      Disciplina de Livre Escolha              -   4* 64*   ELE     NL
+              Carga Horária Semestral              22 352
+
+
+                                       Sétimo Período
+ Nº                   Disciplina                Unidade CHS CHT Natureza Núcleo
+ 11     Física do Estado Sólido I                  IF     4  64  OBR      NE
+ 18     Física Experimental V                      IF     4  64  OBR      NC
+ 29     Introdução à Física Nuclear e de           IF     2  32  OBR      NC
+ 33     Partículas Quântica I
+        Mecânica                                   IF     4  64  OBR      NE
+40-70   Disciplina Optativa 2                       -    4* 64*   OPT     NE
+40-70   Disciplina Optativa 3                       -    4* 64*   OPT     NE
+                Carga Horária Semestral                  22 352
+
+
+                                  Oitavo Período
+ Nº                 Disciplina             Unidade CHS CHT Natureza Núcleo
+ 09 Evolução das Ideias da Física             IF     4  64  OBR      NE
+ 12 Física do Estado Solido II                IF     4  64  OBR      NE
+ 34 Mecânica Quântica II                      IF     4  64  OBR      NE
+ 39 Trabalho de Conclusão de Curso            IF     2  32  OBR      NC
+40-70 Disciplina Optativa 4                    -    4* 64*   OPT     NE
+              Carga Horária Semestral               18 288
+
+Legenda:   CHS = Carga Horária Semanal;               CHT = Carga Horária Total da disciplina;
+           OBR = Disciplina Obrigatória;              OPT = Disciplina Optativa;
+           ELE = Disciplina Eletiva (Núcleo Livre);   NC = Núcleo Comum;
+           NE = Núcleo Específico;                    NL = Núcleo Livre.
+
+
+
+                                                                                                 15
+7.3     Elenco de Disciplinas com Ementas e Bibliografias Básica e Complementar
+Disciplinas de Natureza Obrigatória - Núcleo Comum e Específico
+ÁLGEBRA LINEAR
+Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços
+com produto interno.
+Bibliografia Básica:
+BOLDRINI, J. L.; COSTA, S. I. R.; FIGUEIREDO, V. L.; WETZLER, H. G. Álgebra Linear. São Paulo: Harbra.
+CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. Álgebra Linear e Aplicações. São Paulo: Atual.
+KOLMAN, B.; HILL, D. R. Introdução à Álgebra Linear. Rio de Janeiro: LTC.
+LIPSCHUTZ, S. Álgebra Linear. São Paulo: Makron Books.
+Bibliografia Complementar:
+APOSTOL, T. Linear Algebra: A First Course with Applications to Differential Equations. New York: Wiley
+Interscience.
+HOFFMAN, K.; KUNZE, R. Álgebra Linear. São Paulo: Polígono.
+HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações. Porto Alegre: Bookman.
+LIMA, E. L. Álgebra Linear. Rio de Janeiro: IMPA.
+SHOKRANIAN, S. Introdução à Álgebra Linear e Aplicações. Rio de Janeiro: Ciência Moderna.
+SILVA, V. V. Álgebra Linear. Goiânia: UFG.
+
+CÁLCULO IA
+Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade.
+Derivadas e aplicações. Série de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações.
+Bibliografia Básica:
+GUIDORIZZI, H. L. Um Curso de Cálculo, v. 1. Rio de Janeiro: LTC.
+ÁVILA, G. S. S. Cálculo das Funções de Uma Variável, v. 1. Rio de Janeiro: LTC.
+LEITHOLD, L. O Cálculo com Geometria Analítica, v. 1. São Paulo: Harbra.
+STEWART, J. Cálculo, v. 1. São Paulo: Thomson.
+Biliografia Complementar:
+SWOKOWSKI, E. W. Cálculo com Geometria Analítica, v. 1. São Paulo: Makron Books.
+HOFFMANN, L. D. Cálculo, v. 1. Rio de Janeiro: LTC.
+FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A. São Paulo: Pearson.
+ROGÉRIO, M. U.; SILVA, H.; BADAN A. A. F. A. Cálculo Diferencial e Integral: Funções de Uma Variável.
+Goiânia: Editora UFG.
+SIMMONS, G. F. Cálculo com Geometria Analítica, v. 1. São Paulo: McGraw-Hill.
+REIS, G. L.; SILVA, V. V. Geometria Analítica. Rio de Janeiro: LTC.
+
+CÁLCULO II A
+Sequências e séries numéricas. Séries de potência e convergência. Funções de várias variáveis. Limite e
+continuidade. Noções sobre quádricas. Funções diferenciáveis. Derivadas parciais e direcionais. Fórmula de
+Taylor. Máximos e mínimos. Integrais múltiplas. Mudança de coordenadas. Aplicações.
+Bibliografia Básica:
+STEWART, J. Cálculo, v. 2. São Paulo: Thomson.
+ÁVILA, G. S. S. Cálculo das Funções de Uma Variável, v. 2. Rio de Janeiro: LTC.
+ÁVILA, G. S. S. Cálculo das Funções de Múltiplas Variáveis, v. 3. Rio de Janeiro: LTC.
+LEITHOLD, L. O Cálculo com Geometria Analítica, v. 2. São Paulo: Harbra.
+GUIDORIZZI, H. L. Um Curso de Cálculo, v. 2 e 4. Rio de Janeiro: LTC.
+Bibliografia Complementar:
+SWOKOWSKI, E. W. Cálculo com Geometria Analítica, v. 2. São Paulo: Makron Books.
+HOFFMANN, L. D. Cálculo, v. 1. Rio de Janeiro: LTC.
+FLEMMING, D. M.; GONÇALVES, M. B. Cálculo B. São Paulo: Pearson.
+SIMMONS, G. F. Cálculo com Geometria Analítica, v. 2. São Paulo: McGraw-Hill.
+REIS, G. L.; SILVA, V. V. Geometria Analítica. Rio de Janeiro: LTC.
+
+CÁLCULO III A
+Séries de funções. Campos de vetores. Integral de linha. Integral de superfície. Diferenciais exatas. Teorema de
+Green. Teorema da divergência. Teorema de Stokes. Aplicações.
+Bibliografia Básica:
+GUIDORIZZI, H. L. Um Curso de Cálculo, v. 4. Rio de Janeiro: LTC.
+LEITHOLD, L. O Cálculo com Geometria Analítica, v. 2. São Paulo: Harbra.
+STEWART, J. Cálculo, v. 2. São Paulo: Thomson.
+ÁVILA, G. S. S. Cálculo das Funções de Uma Variável, v. 2. Rio de Janeiro: LTC.
+
+
+                                                                                                             16
+Bibliografia Complementar:
+FLEMMING, D. M.; GONÇALVES, M. B. Cálculo B. São Paulo: Pearson.
+HOFFMANN, L. D. Cálculo, v. 2. Rio de Janeiro: LTC.
+SIMMONS, G. F. Cálculo com Geometria Analítica, v. 2. São Paulo: McGraw-Hill.
+SWOKOWSKI, E. W. Cálculo com Geometria Analítica, v. 2. São Paulo: Makron Books.
+THOMAS, G. B. Cálculo, v. 2. São Paulo: Pearson.
+
+CÁLCULO NUMÉRICO
+Resolução de sistemas lineares, métodos diretos e métodos iterativos. Integração e interpolação. Cálculo de
+raízes de equações. Resolução numérica de equações diferenciais.
+Bibliografia Básica:
+CAMPOS FILHO, F. F. Algoritmos Numéricos, Rio de Janeiro: LTC.
+FRANCO, N. B. Cálculo Numérico. Rio de Janeiro: LTC.
+RUGGIERO, M. A. G.; LOPES, V. L. R. Cálculo Numérico: Aspectos Teóricos e Computacionais. São Paulo:
+Makron Books.
+Bibliografia Complementar:
+ARENALES, S. H. V.; DAREZZO FILHO, A. Cálculo Numérico. São Paulo: Thomson.
+BURDEN, R. L.; FAIRES, J. D. Análise Numérica. São Paulo: Cengage.
+BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC.
+KINCAID, D.; WARD, C. Numerical Analysis: Mathematics of Scientific Computing. Pacific Grove: Brooks Cole.
+SPERENDIO, D.; MENDES, J. T.; SILVA, L. H. M. Cálculo Numérico: Características Matemáticas e
+Computacionais dos Métodos Numéricos. São Paulo: Prentice Hall.
+
+ELETROMAGNETISMO I
+Eletrostática. Soluções de problemas eletrostáticos. Campo elétrico em meios materiais. Corrente elétrica.
+Magnetostática. Campo magnético em meios materiais.
+Bibliografia Básica:
+REITZ, J. R.; MILFORD, F. J.; CHRISTY, R. W. Fundamentos da Teoria Eletromagnética. Rio de Janeiro:
+Campus.
+GRIFFITHS, D. J. Introduction to Electrodynamics. Upper Saddle River: Prentice Hall.
+SADIKU, M. N. O. Elementos de Eletromagnetismo. Porto Alegre: Bookman.
+Bibliografia Complementar:
+WANGSNESS, R. K. Electromagnetic Fields. New York: Wiley.
+LORRAIN, P.; CORSON, D. R.; LORRAIN, F. Electromagnetic Fields and Waves. New York: W. H. Freeman.
+SMYTHE, W. R. Static and Dynamic Electricity. New York: McGraw-Hill.
+PANOFSKY, W. K. H.; PHILLIPS, M. Classical Electricity and Magnetism. Reading: Addison-Wesley.
+HEALD, M. A.; MARION, J. B. Classical Electromagnetic Radiation. Fort Worth: Saunders College.
+
+ELETROMAGNETISMO II
+Indução eletromagnética. Equações de Maxwell. Ondas eletromagnéticas. Ondas em regiões de contorno.
+Radiação.
+Bibliografia Básica:
+REITZ, J. R.; MILFORD, F. J.; CHRISTY, R. W. Fundamentos da Teoria Eletromagnética. Rio de Janeiro:
+Campus.
+GRIFFITHS, D. J. Introduction to Electrodynamics. Upper Saddle River: Prentice Hall.
+SADIKU, M. N. O. Elementos de Eletromagnetismo. Porto Alegre: Bookman.
+Bibliografia Complementar:
+WANGSNESS, R. K. Electromagnetic Fields. New York: Wiley.
+LORRAIN, P.; CORSON, D. R.; LORRAIN, F. Electromagnetic Fields and Waves. New York: W. H. Freeman.
+SMYTHE, W. R. Static and Dynamic Electricity. New York: McGraw-Hill.
+PANOFSKY, W. K. H.; PHILLIPS, M. Classical Electricity and Magnetism. Reading: Addison-Wesley.
+HEALD, M. A.; MARION, J. B. Classical Electromagnetic Radiation. Fort Worth: Saunders College.
+
+EQUAÇÕES DIFERENCIAIS ORDINÁRIAS
+Equações diferenciais ordinárias de 1ª ordem, lineares e não-lineares. Sistemas de equações diferenciais
+ordinárias. Equações diferenciais ordinárias de ordem superior. Aplicações.
+Bibliografia Básica:
+BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. Rio
+de Janeiro: LTC.
+DE FIGUEIREDO, D. G.; NEVES, A. F. Equações Diferenciais Aplicadas. Rio de Janeiro: IMPA.
+ZILL, D. G. Equações Diferenciais, vols. 1 e 2. São Paulo: Makron Books.
+ZILL, D. G. Equações Diferenciais com Aplicações em Modelagem. São Paulo: Thomson.
+
+
+                                                                                                        17
+Bibliografia Complementar:
+AYRES JR., F. Equações Diferenciais. Rio de Janeiro: Makron Books.
+BASSANEZI, R. C. Equações Diferenciais com Aplicações. São Paulo: Harbra.
+CODDINGTON, E. A. An Introduction to Ordinary Diferential Equations. New York: Dover.
+LEIGHTON, W. Equações Diferenciais Ordinárias, Rio de Janeiro: LTC.
+
+EVOLUÇÃO DAS IDEIAS DA FÍSICA
+A ciência e as teorias físicas na antiguidade. A revolução científica nos séculos XVI e XVII. O nascimento de
+uma nova Física. A Física nos séculos XVIII e XIX. A consolidação da Física Clássica. A Física e as revoluções
+tecnológicas. As origens da Física Moderna. Estrutura atômica da matéria e suas bases químicas. Natureza
+ondulatória da luz. Estrutura corpuscular da luz. Estrutura subatômica da matéria. Mecânica matricial e mecânica
+ondulatória.
+Bibliografia Básica:
+EINSTEIN, A.; INFELD, L. A Evolução da Física. Rio de Janeiro: Zahar.
+BURTT, E. A. As Bases Metafísicas da Ciência Moderna. Brasília: UnB.
+COHEN, I. B. O Nascimento de Uma Nova Física. São Paulo: Edart.
+KOYRÉ, A. Estudos de História do Pensamento Científico. Brasília: UnB.
+Bibliografia Complementar:
+HEMPEL, C. G. Filosofia da Ciência Natural. Rio de Janeiro: Zahar.
+SEGRÉ, E. Dos Raios-X aos Quarks. Brasília: Editora UnB.
+AMALDI, U. Imagens da Física: as Ideias e as Experiências do Pendulo aos Quarks. São Paulo: Scipione.
+HEISENBERG, W. The Physical Principles of the Quantum Theory. New York: Dover.
+SALVETTI, A. R. A História da Luz. Campo Grande: Editora UFMS.
+CRUZ, F. F. S. Faraday e Maxwell: Luz Sobre os Campos. São Paulo: Odysseus.
+BIEZUNSKI, M. História da Física Moderna. Instituto Piaget.
+MARTIN, J. B. A História do Átomo: De Demócrito aos Quarks. Rio de Janeiro: Ciência Moderna.
+
+FÍSICA COMPUTACIONAL I
+Ferramentas livres para uso científico: shell script, sed, awk, gnuplot, pacotes gráficos/imagens, scilab, maxima,
+LaTeX. Linguagens de alto nível para modelagem computacional. Técnicas numéricas aplicadas a sistemas
+físicos. Problemas de autovalores e autovetores. Técnicas de análise de Fourier e aplicações. Técnicas de solução
+de equações diferenciais ordinárias e parciais, lineares e não-lineares, em problemas físicos. Método Monte
+Carlo e aplicações.
+Bibliografia Básica:
+LANDAU, R. H.; PÁEZ, M. J.; BORDEIANU, C. C. Computational Physics: Problem Solving With Computers.
+New York: Wiley.
+PANG, T. An Introduction to Computational Physics. New York: Cambridge University.
+GOULD, H. An Introduction to Computer Simulation Methods: Applications to Physical Systems. San
+Francisco: Addison-Wesley.
+GIORDANO, N. J. Computational Physics. Cambridge: Cambridge University.
+DEVRIES, P. L. A First Course in Computational Physics. New York: Wiley.
+Bibliografia Complementar:
+VESELY, F. J. Computational Physics: An Introduction. New York: Plenum.
+LANDAU, R. H.; WANGBERG, R. A First Course in Scientific Computing: Symbolic, Graphic, and Numeric
+Modeling Using Maple, Java, Mathematica, and Fortran90. Princeton: Princeton University.
+PRESS, W. H. Numerical Recipes: The Art of Scientific Computing. Cambridge: Cambridge University Press.
+PRESS, W. H. Numerical Recipes in Fortran 90: The Art of Parallel Scientific Computing. Cambridge:
+Cambridge University Press.
+SMITH, R. W. Linux: Ferramentas Poderosas. Rio de Janeiro: Ciência Moderna.
+KOPKA, H.; DALY, P. W. Guide to LATEX. Boston: Addison-Wesley.
+RAPAPORT, D. C. The Art of Molecular Dynamics Simulation. Cambridge: Cambridge University Press.
+FRENKEL, D.; SMIT, B. Understanding Molecular Simulation: From Algorithms to Applications. San Diego:
+Academic Press.
+ROBERT, C. P.; CASELLA, G. Monte Carlo Statistical Methods. New York: Springer.
+NEWMAN, M. Computational Physics. CreateSpace Independent Publishing Platform.
+NEWHAM, C.; ROSENBLATT, B. Learning the Bash Shell. O’Reilly.
+METCALF, M.; REID, J. K.; COHEN, M. Fortran 95/2003 Explained. New York: Oxford University Press.
+AKIN, J. E. Object-Oriented Programming via Fortran 90/95 New York: Cambridge University Press.
+SCHWARTZ, R. L. Learning Perl. O’Reilly.
+LUTZ, M; ASCHER, D. Learning Python. O’Reilly. Manuais de linux, sed, awk, gnuplot, maxima e latex,
+dentre outros pacotes.
+
+                                                                                                               18
+FÍSICA DO ESTADO SÓLIDO I
+Estrutura cristalina. Ligações químicas. Dinâmica de rede. Teoria de bandas. Modelos de condução eletrônica.
+Bibliografia Básica:
+KITTEL, C. Introdução à Física do Estado Sólido. Rio de Janeiro: LTC.
+ASHCROFT, N. W.; MERMIN, N. D. Solid State Physics. Philadelphia: Saunders.
+OLIVEIRA, I. S.; DE JESUS, V. L. B. Introdução à Física do Estado Sólido. São Paulo: Livraria da Física.
+CHRISTMAN, J. R. Fundamentals of Solid State Physics. New York: Wiley.
+Bibliografia Complementar:
+LEITE, R. C. C.; DE CASTRO, A. R. B. Física do Estado Sólido. São Paulo: Edgard Blücher.
+HARRISON, W. A. Solid State Theory. New York: Dover.
+HARRISON, W. A. Electronic Structure and the Properties of Solids. New York: Dover.
+ZIMAN, J. M. Principles of the Theory of Solids. Cambridge: Cambridge University.
+ROSENBERG, H. M. The Solid State. New York: Oxford.
+
+FÍSICA DO ESTADO SÓLIDO II
+Materiais semicondutores. Propriedades magnéticas de sólidos. Processos ópticos. Supercondutividade.
+Bibliografia Básica:
+KITTEL, C. Introdução à Física do Estado Sólido. Rio de Janeiro: LTC.
+ASHCROFT, N. W.; MERMIN, N. D. Solid State Physics. Philadelphia: Saunders.
+OLIVEIRA, I. S.; DE JESUS, V. L. B. Introdução à Física do Estado Sólido. São Paulo: Livraria da Física.
+CHRISTMAN, J. R. Fundamentals of Solid State Physics. New York: Wiley.
+Bibliografia Complementar:
+LEITE, R. C. C.; DE CASTRO, A. R. B. Física do Estado Sólido. São Paulo: Edgard Blücher.
+HARRISON, W. A. Solid State Theory. New York: Dover.
+HARRISON, W. A. Electronic Structure and the Properties of Solids. New York: Dover.
+ZIMAN, J. M. Principles of the Theory of Solids. Cambridge: Cambridge University.
+ROSENBERG, H. M. The Solid State. New York: Oxford.
+
+FÍSICA ESTATÍSTICA
+Teoria cinética dos gases. Espaço de fase. Ensembles micro-canônico, canônico e grão-canônico. Gases ideais
+clássicos e quânticos. Dinâmica estocástica: movimento Browniano, difusão, equação de Fokker-Planck.
+Bibliografia Básica:
+REIF, F. Fundamentals of Statistical and Thermal Physics. New York: McGraw-Hill.
+HUANG, K. Statistical Mechanics. New York: Wiley, EUA.
+REICHL, L. E. A Modern Course in Statistical Physics. New York: Wiley.
+Bibliografia Complementar:
+PATHRIA, R. K. Statistical Mechanics. Oxford: Butterworth-Heinemann.
+SCHWABL, F. Statistical Mechanics. New York: Springer.
+KUBO, R.; ISHIMURA, H.; USUI, T.; HASHITSUME, N. Statistical Mechanics: An Advanced Course with
+Problems and Solutions. Amsterdam: North-Holland.
+LAGE, E. J. S. Física Estatística. Lisboa: Fundação Calouste Gulbenkian.
+HILL, T. L. An Introduction to Statistical Thermodynamics. New York: Dover.
+TOLMAN, R. C. The Principles of Statistical Mechanics. New York: Dover.
+
+FÍSICA EXPERIMENTAL I
+Introdução à física experimental. Grandezas Físicas. Medição direta e Indireta. Instrumentos de medição. Análise
+de erros. Noções básicas de estatística descritiva. Experimentos de Física.
+Bibliografia Básica:
+TAYLOR, J. R. Introdução à Análise de Erros: O Estudo de Incertezas em Medições Físicas. Porto Alegre:
+Bookman.
+VUOLO, J. H. Fundamentos da Teoria de Erros. São Paulo: Edgard Blücher.
+Roteiro de Experimentos. Instituto de Física - UFG.
+Bibliografia Complementar:
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Mecânica, v. 1. Rio de Janeiro: LTC.
+COOKE, C. An introduction to Experimental Physics. London: UCL.
+SQUIRES, G. L. Practical Physics. Cambridge: Cambridge University.
+MELISSINOS, A. C.; NAPOLITANO, J. Experiments in Modern Physics. New York: Academic Press.
+TABACNIKS, M. H. Conceitos Básicos da Teoria de Erros. São Paulo: Instituto de Física - USP. Disponível
+em: <http://fap.if.usp.br/~tabacnik/tutoriais/tabacniks_concbasteorerr_rev2007.pdf>. Acesso em: 17 maio 2013.
+
+                                                                                                               19
+FÍSICA EXPERIMENTAL II
+Escalas lineares. Ajuste por mínimos quadráticos. Elementos da teoria da probabilidade. Estimativas de
+parâmetros. Covariância e correlação. Distribuições. Teste do qui-quadrado. Experimentos de Física.
+Bibliografia Básica:
+TAYLOR, J. R. Introdução à Análise de Erros: O Estudo de Incertezas em Medições Físicas. Porto Alegre:
+Bookman.
+VUOLO, J. H. Fundamentos da Teoria de Erros. São Paulo: Edgard Blücher.
+Roteiro de Experimentos. Instituto de Física - UFG.
+Bibliografia Complementar:
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Mecânica, v. 2. Rio de Janeiro: LTC.
+COOKE, C. An introduction to Experimental Physics. London: UCL.
+SQUIRES, G. L. Practical Physics. Cambridge: Cambridge University.
+MELISSINOS, A. C.; NAPOLITANO, J. Experiments in Modern Physics. New York: Academic Press.
+TABACNIKS, M. H. Conceitos Básicos da Teoria de Erros. São Paulo: Instituto de Física - USP. Disponível
+em: <http://fap.if.usp.br/~tabacnik/tutoriais/tabacniks_concbasteorerr_rev2007.pdf>. Acesso em: 17 maio 2013.
+
+FÍSICA EXPERIMENTAL III
+Grandezas Físicas. Instrumentos de medição. Medidas, erros e incertezas. Gráficos, linearização e ajustes.
+Experimentos envolvendo fenômenos elétricos e magnéticos independentes do tempo.
+Bibliografia Básica:
+TAVARES, G. A.; VENCATO, I. Laboratório de Física III. Goiânia: IF-UFG.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Eletromagnetismo, v. 3. Rio de Janeiro: LTC.
+TAYLOR, J. R. Introdução à Análise de Erros. Porto Alegre: Bookman.
+Bibliografia Complementar:
+NUSSENZVEIG, H. M. Curso de Física Básica: Eletromagnetismo, v. 3. São Paulo: Edgard Blücher.
+YOUNG, H. D.; FREEDMAN, R. A. Física III: Eletromagnetismo, v. 3. São Paulo: Addison Wesley.
+INMETRO. Vocabulário Internacional de Termos Fundamentais e Gerais de Metrologia. Brasília: SENAI-DN.
+VUOLO, J. H. Fundamentos da Teoria de Erros. São Paulo: Edgard Blücher.
+DOMICIANO, J. B.; JURAITIS, K. R. Introdução ao Laboratório de Física Experimental: Métodos de
+Obtenção, Registro e Análise de Dados Experimentais. Londrina: Eduel.
+
+FÍSICA EXPERIMENTAL IV
+Grandezas Físicas. Instrumentos de medição. Medidas, erros e incertezas. Gráficos, linearização e ajustes.
+Experimentos envolvendo fenômenos elétricos e magnéticos dependentes do tempo: corrente alternada e óptica.
+Bibliografia Básica:
+TAVARES, G. A.; VENCATO, I. Laboratório de Física IV. Goiânia: IF-UFG.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Óptica e Física Moderna, v. 4. Rio de
+Janeiro: LTC.
+TAYLOR, J. R. Introdução à Análise de Erros. Porto Alegre: Bookman.
+Bibliografia Complementar:
+NUSSENZVEIG, H. M. Curso de Física Básica: Eletromagnetismo, v. 3. São Paulo: Edgard Blücher.
+YOUNG, H. D.; FREEDMAN, R. A. Física IV: Óptica e Física Moderna, v. 4. São Paulo: Addison Wesley.
+INMETRO. Vocabulário Internacional de Termos Fundamentais e Gerais de Metrologia. Brasília: SENAI-DN.
+VUOLO, J. H. Fundamentos da Teoria de Erros. São Paulo: Edgard Blücher.
+DOMICIANO, J. B.; JURAITIS, K. R. Introdução ao Laboratório de Física Experimental: Métodos de
+Obtenção, Registro e Análise de Dados Experimentais. Londrina: Eduel.
+
+FÍSICA EXPERIMENTAL V
+Experiências em física moderna e clássica envolvendo conceitos de física nuclear, estrutura atômica da matéria,
+física do estado sólido e óptica.
+Bibliografia Básica:
+CARVALHO, J. F.; SANTANA, R. C. Roteiros dos Experimentos do Laboratório de Física Moderna. Goiânia:
+Instituto de Física - UFG.
+EISBERG, R.; RESNICK, R. Física Quântica: Átomos, Moleculas, Sólidos, Núcleos e Partículas. Rio de
+Janeiro: Campus.
+NUSSENZVEIG, H. M. Curso de Física Básica: Ótica, Relatividade, Física Quântica, v. 4. São Paulo: Edgard
+Blücher.
+Bibliografia Complementar:
+TIPLER, P. A.; LLEWELLYN, R. A. Física Moderna. Rio de Janeiro: LTC.
+MELISSINOS, A.C. Experiments in Modern Physics. Boston: Academic Press.
+
+                                                                                                            20
+LABORATORY Experiments in Physics. Phywe Systeme GmbH, Göttingen.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Óptica e Física Moderna, v. 4. Rio de
+Janeiro: LTC.
+REZENDE, S. M. Materiais e Dispositivos Eletrônicos. São Paulo: Livraria da Física.
+REITZ, J. R.; MILFORD, F. J.; CHRISTY, R. W. Fundamentos da Teoria Eletromagnética. Rio de Janeiro: Campus.
+CHAVES, A.; SAMPAIO, J.L. Física Básica: Eletromagnetismo, v. 3. São Paulo: LTC.
+MCKELVEY, J. P. Física, v. 4. São Paulo: Harbra.
+SEARS, F.W.; ZEMANSKY, M.W.; YOUNG, H. D. Física, v. 4. Rio de Janeiro: LTC.
+SERWAY, R. A.; JEWETT JR., J. W. Princípios de Física, v. 4. São Paulo: Thomson.
+Manuais do fabricante dos aparatos experimentais.
+
+FÍSICA I
+Unidades, grandezas físicas e vetores. Cinemática da partícula. Leis de Newton do movimento. Trabalho e
+energia cinética. Energia potencial e conservação de energia. Momento linear, impulso e colisões. Cinemática da
+rotação. Dinâmica da rotação de corpos rígidos. Equilíbrio e elasticidade.
+Bibliografia Básica:
+YOUNG, H. D.; FREEDMAN, R. A. Física I: Mecânica, v. 1. São Paulo: Addison Wesley.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Mecânica, v. 1. Rio de Janeiro: LTC.
+NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica, v. 1. São Paulo: Edgard Blücher.
+Bibliografia Complementar:
+TIPLER, P. A.; MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas,
+Termodinâmica, v. 1. Rio de Janeiro: LTC.
+CHAVES, A.; SAMPAIO, J. L. Física Básica: Mecânica, v. 1. São Paulo: LTC.
+ALONSO, M.; FINN, E. J. Física: Um Curso Universitário, v. 1. São Paulo: Edgard Blücher.
+LUIZ, A. M. Problemas de Física, v. 1. Rio de Janeiro: Guanabara Dois.
+MCKELVEY, J. P. Física, vol. 1. São Paulo: Harbra.
+SEARS, F.W.; ZEMANSKY, M.W.; YOUNG, H.D. Física, v. 1. Rio de Janeiro: LTC.
+SERWAY, R. A.; JEWETT JR., J. W. Princípios de Física, v. 1. São Paulo: Thomson.
+
+FÍSICA II
+Gravitação. Movimento periódico. Mecânica dos fluidos. Ondas mecânicas. Som e audição. Temperatura e calor.
+Teoria cinética dos gases. Primeira lei da termodinâmica. Segunda lei da termodinâmica.
+Bibliografia Básica:
+YOUNG, H. D.; FREEDMAN, R. A. Física II: Termodinâmica e Ondas, v. 2. São Paulo: Addison Wesley.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Gravitação, Ondas e Termodinâmica, v.
+2. Rio de Janeiro: LTC.
+NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações e Ondas, Calor, v. 2. São Paulo: Edgard
+Blücher.
+Bibliografia Complementar:
+TIPLER, P. A. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica, v. 1. Rio
+de Janeiro: LTC.
+CHAVES, A.; SAMPAIO, J. L. Física Básica: Gravitação, Fluidos, Ondas, Termodinâmica, v. 2. São Paulo: LTC.
+LUIZ, A. M. Problemas de Física, v. 2. Rio de Janeiro: Guanabara Dois.
+MCKELVEY, J. P. Física, v. 2. São Paulo: Harbra.
+SEARS, F.W.; ZEMANSKY, M.W.; YOUNG, H.D. Física, v. 2. Rio de Janeiro: LTC.
+SERWAY, R. A.; JEWETT JR., J. W. Princípios de Física, v. 2. São Paulo: Thomson.
+
+FÍSICA III
+Carga elétrica e campo elétrico. Lei de Gauss. Potencial elétrico. Capacitância e dielétricos. Corrente e circuitos
+elétricos. Campo magnético e força magnética. Fontes de campo magnético. Indução eletromagnética. Corrente
+alternada.
+Bibliografia Básica:
+YOUNG, H. D.; FREEDMAN, R. A. Física III: Eletromagnetismo, v. 3. São Paulo: Addison Wesley.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Eletromagnetismo, v. 3. Rio de Janeiro: LTC.
+NUSSENZVEIG, H. M. Curso de Física Básica: Eletromagnetismo, v. 3. São Paulo: Edgard Blücher.
+Bibliografia Complementar:
+TIPLER, P. A. Física para Cientistas e Engenheiros: Eletricidade e Magnetismo, Ótica, v. 2. Rio de Janeiro: LTC.
+CHAVES, A.; SAMPAIO, J. L. Física Básica: Eletromagnetismo, v. 3. São Paulo: LTC.
+ALONSO, M.; FINN, E. J. Física: Um Curso Universitário, v. 2. São Paulo: Edgard Blücher.
+LUIZ, A. M. Problemas de Física, v. 3. Rio de Janeiro: Guanabara Dois.
+MCKELVEY, J. P. Física, v. 3. São Paulo: Harbra.
+SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D. Física, v. 3. Rio de Janeiro: LTC.
+SERWAY, R. A.; JEWETT JR., J. W. Princípios de Física, v. 3. São Paulo: Thomson.
+
+                                                                                                                21
+FÍSICA IV
+Ondas eletromagnéticas. Natureza e propagação da luz. Óptica geométrica. Instrumentos de óptica. Interferência.
+Difração. Fótons, elétrons e átomos.
+Bibliografia Básica:
+YOUNG, H. D.; FREEDMAN, R. A. Física III: Eletromagnetismo, v. 3. São Paulo: Addison Wesley; Física IV:
+Óptica e Física Moderna, v. 4. São Paulo: Addison Wesley.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Eletromagnetismo, v. 3. Rio de Janeiro:
+LTC.; Fundamentos de Física: Óptica e Física Moderna, v. 4. Rio de Janeiro: LTC.
+NUSSENZVEIG, H. M. Curso de Física Básica: Eletromagnetismo, v. 3. São Paulo: Edgard Blücher; Curso de
+Física Básica: Ótica, Relatividade, Física Quântica, v. 4. São Paulo: Edgard Blücher.
+Bibliografia Complementar:
+TIPLER, P. A. Física para Cientistas e Engenheiros: Eletricidade e Magnetismo, Ótica, v. 2. Rio de Janeiro:
+LTC.; Física para Cientistas e Engenheiros: Física Moderna, v. 3. Rio de Janeiro: LTC.
+CHAVES, A.; SAMPAIO, J. L. Física Básica: Eletromagnetismo, v. 3. São Paulo: LTC.
+ALONSO, M.; FINN, E. J. Física: Um Curso Universitário, v. 2. São Paulo: Edgard Blucher.
+LUIZ, A. M. Problemas de Física, v. 4. Rio de Janeiro: Guanabara Dois.
+MCKELVEY, J. P. Física, vol. 4. São Paulo: Harbra.
+SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D. Física, v. 4. Rio de Janeiro: LTC.
+SERWAY, R. A.; JEWETT JR., J. W. Princípios de Física, v. 4. São Paulo: Thomson.
+
+FÍSICA MATEMÁTICA
+Funções de uma variável complexa. Séries e transformadas de Fourier. Conceitos da teoria das distribuições.
+Análise vetorial. Equações diferenciais parciais.
+Bibliografia Básica:
+CHURCHILL, R. V. Variáveis Complexas e Suas Aplicações. McGraW-Hill, Brasil.
+BUTKOV, E. Física Matemática. Rio de Janeiro: LTC.
+ARFKEN, G.; WEBER, H. J. Física Matemática: Métodos Matemáticos para Engenharia e Física. Rio de
+Janeiro: Elsevier-Campus.
+ARFKEN, G.; WEBER, H. J. Mathematical Methods for Physicists. Boston: Elsevier.
+Bibliografia Complementar:
+ÁVILA, G. S. S. Variáveis Complexas e Aplicações. Rio de Janeiro: LTC.
+BOAS, M. L. Mathematical Methods in the Physical Sciences. Hoboken: Wiley.
+MORSE, P. M.; FESHBACH, H. Methods of Theoretical Physics, v. 1 e 2. New York: McGraw-Hill.
+COURANT, R.; HILBERT, D. Methods of Mathematical Physics, v. 1 e 2. New York: Interscience.
+CHOW, T. L. Mathematical Methods for Physicists: A Concise Introduction. Cambridge: Cambridge University.
+LEMOS, N. Convite à Física Matemática. São Paulo: Livraria da Física.
+
+FÍSICA MATEMÁTICA
+Equações diferenciais ordinárias de segunda ordem e funções especiais. Funções ortogonais e teoria de Sturm-
+Liouville. Espaços vetoriais de dimensão infinita. Funções de Green. Tensores. Transformações conformes.
+Bibliografia Básica:
+BUTKOV, E. Física Matemática. Rio de Janeiro: LTC.
+ARFKEN, G.; WEBER, H. J. Física Matemática: Métodos Matemáticos para Engenharia e Física. Rio de
+Janeiro: Elsevier-Campus.
+ARFKEN, G.; WEBER, H. J. Mathematical Methods for Physicists. Boston: Elsevier.
+CHURCHILL, R. V. Variáveis Complexas e Suas Aplicações. McGraW-Hill, Brasil.
+Bibliografia Complementar:
+BOAS, M. L. Mathematical Methods in the Physical Sciences. Hoboken: Wiley.
+MORSE, P. M.; FESHBACH, H. Methods of Theoretical Physics, v. 1 e 2. New York: McGraw-Hill.
+COURANT, R.; HILBERT, D. Methods of Mathematical Physics, v. 1 e 2. New York: Interscience.
+CHOW, T. L. Mathematical Methods for Physicists: A Concise Introduction. Cambridge: Cambridge University.
+ÁVILA, G. S. S. Variáveis Complexas e Aplicações. Rio de Janeiro: LTC.
+LEMOS, N. Convite à Física Matemática. São Paulo: Livraria da Física.
+
+FUNDAMENTOS DA TEORIA DA RELATIVIDADE
+Antecedentes experimentais e postulados da teoria da Relatividade. Cinemática relativística. Dinâmica
+relativística. Relatividade e eletromagnetismo.
+Bibliografia Básica:
+RESNICK, R. Introduction to Special Relativity. New York: Wiley.
+LORENTZ, H. A.; MINKOWSKI, H.; EINSTEIN, A. O Princípio da Relatividade. Lisboa: Fundação Calouste
+Gulbenkian.
+TAYLOR, E. F.; WHEELER, J. A. Spacetime Physics: Introduction to Special Relativity. New York: W. H.
+Freeman.
+SCHWARTZ, M. Principles of Electrodynamics. Tokyo: McGraw-Hill.
+
+
+                                                                                                            22
+Bibliografia Complementar:
+RESNICK, R.; HALLIDAY D. Basic Concepts in Special Relativity. New York: Macmillan.
+WOODHOUSE, N. M. J. Special Relativity. New York: Springer.
+BOHM, D. The Special Theory of Relativity. New York: W. A. Benjamin.
+GREINER, W. Classical Mechanics: Point Particles and Relativity. New York: Springer.
+CALLAHAN, J. The Geometry of Spacetime: An Introduction to Special and General Relativity. New York:
+Springer.
+
+GEOMETRIA ANALÍTICA
+Matrizes. Determinantes. Sistemas lineares. Vetores. Retas e planos. Curvas. Cônicas. Superfícies cônicas e
+cilíndricas. Superfícies quádricas.
+Bibliografia Básica:
+REIS, G. L.; SILVA, V. V. Geometria Analítica. Rio de Janeiro: LTC.
+STEINBRUCH, A.; WINTERLE, P. Geometria Analítica. São Paulo: McGraw-Hill.
+OLIVEIRA, I. C.; BOULOS, P. Geometria Analítica: Um Tratamento Vetorial. São Paulo: Pearson.
+Bibliografia Complementar:
+SWOKOWSKI, E. W. Cálculo com Geometria Analítica, v. 1. São Paulo: McGraw-Hill.
+LEITHOLD, L. O Cálculo com Geometria Analítica, v. 1. São Paulo: Harbra.
+BOULOS, P.; CAMARGO, I. Introdução à Geometria Analítica no Espaço. São Paulo: Makron Books.
+SIMMONS, G. F. Cálculo com Geometria Analítica, v. 1. São Paulo: McGraw-Hill.
+CARVALHO, P. C. P. Introdução à Geometria Espacial. Rio de Janeiro: SBM.
+
+INTRODUÇÃO À COMPUTAÇÃO
+Conceitos básicos: noções de lógica de programação; tipos primitivos; constantes e variáveis; operadores;
+expressões. Comandos básicos: atribuição, estrada e saída; Estruturas de controle: seleção e repetição. Estruturas
+de dados homogêneas: vetores e matrizes. Modularização. Desenvolvimento de programas usando linguagem C.
+Bibliografia Básica:
+FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação. São Paulo: Prentice Hall.
+DEITEL, H. M.; DEITEL, P. J. Como Programar em C. Rio de Janeiro: LTC.
+SCHILDT, H. C Completo e Total. São Paulo: Makron Books.
+Bibliografia Complementar:
+ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de Computadores: Algoritmos, Pascal,
+C/C++ e Java. São Paulo: Prentice Hall.
+LOPES, A.; GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. Rio de Janeiro: Campus.
+MANZANO, J. A. N. G.; OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de
+Computadores. São Paulo: Érica.
+CORMEN, T. H. et al. Algoritmos: Teoria e Prática. Rio de Janeiro: Campus.
+FARRER, H. et al. Algoritmos Estruturados. Rio de Janeiro: LTC.
+
+INTRODUÇÃO À FÍSICA
+A Física como ciência natural fundamental. Modelos matemáticos algébricos e geométricos da Física. Noções de
+grandezas vetoriais. Medidas e sistemas de unidades.
+Bibliografia Básica:
+NUSSENZVEIG, H. M. Curso de Física Básica, v. 1. São Paulo: Edgard Blücher.
+CHAVES, A. SAMPAIO, J. F. Física Básica, v. 1. Rio de Janeiro: LTC.
+FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. Lições de Física, v. 1. Porto Alegre: Artmed.
+Bibliografia Complementar:
+MODINOS, A. From Aristotle to Schrödinger: The Curiosity of Physics. New York: Springer.
+IEZZI, G.; MURAKAMI, C.; DOLCE, O.; HAZAN, S. Fundamentos de Matemática Elementar, vols. 1-4, 6, 9,
+10. São Paulo: Atual.
+SILVA, S. M.; SILVA, E. M.; SILVA, E M. Matemática Básica para Cursos Superiores. São Paulo: Atlas.
+KIME, L. A.; CLARK, J.; MICHAEL, B. K. Álgebra na Universidade: Um Curso Pré-Calculo. Rio de Janeiro: LTC.
+DEMANA, F. D.; WAITS, B. K.; FOLEY, G. D.; KENNEDY, D. Pré-Cálculo. São Paulo: Pearson.
+LIPPMAN, D.; RASMUSSEN, M., Precalculus. Disponível em: <http://www.opentextbookstore.com/precalc>.
+Acesso em: 20 abril 2015.
+7. FACCHINI, W. Matemática para a Escola de Hoje. São Paulo: FTD.
+
+INTRODUÇÃO À FÍSICA NUCLEAR E DE PARTÍCULAS
+Visão geral de propriedades nucleares. Modelos nucleares: modelo da gota líquida, modelo do gás de Fermi.
+Decaimento e reações nucleares. Partículas elementares: modelo padrão, interações eletromagnética, forte e
+fraca. Detectores de partículas. Raios cósmicos e aceleradores de partículas.
+
+                                                                                                               23
+Bibliografia Básica:
+EISBERG, R.; RESNICK, R. Física Quântica: Átomos, Moleculas, Sólidos, Núcleos e Partículas. Rio de
+Janeiro: Campus.
+CARUSO, F.; OGURI, V. Física Moderna: Origens Clássicas e Fundamentos Quânticos. Rio de Janeiro: Campus.
+LOPES, J. L. A Estrutura Quântica da Matéria: Do Átomo Pré-Socrático às Particulas Elementares. Rio de
+Janeiro: Editora UFRJ.
+Bibliografia Complementar:
+MAYER-KUCKUK, T. Física Nuclear: Uma Introdução. Lisboa: Fundação Calouste Gulbenkian.
+TIPLER, P. A.; LLEWELLYN, R. A. Física Moderna. Rio de Janeiro: LTC.
+BEISER, A. Concepts of Modern Physics. New York: McGraw-Hill.
+ACOSTA, V.; COWAN, C. L.; GRAHAM, B. J. Curso de Física Moderna. Harla.
+EISBERG, R. M. Fundamentos da Física Moderna. Rio de Janeiro: Guanabara Dois.
+MEDEIROS, D. Física Moderna. São Paulo: Livraria da Física.
+
+INTRODUÇÃO À FÍSICA QUÂNTICA
+Radiação térmica e fótons. Modelos atômicos. Mecânica matricial e ondulatória. Aplicações da equação de
+Schrödinger. Átomos de um elétron. Momento magnético orbital e de spin. Estatísticas quânticas.
+Bibliografia Básica:
+EISBERG, R.; RESNICK, R. Física Quântica: Átomos, Moleculas, Sólidos, Núcleos e Partículas. Rio de
+Janeiro: Campus.
+CARUSO, F.; OGURI, V. Física Moderna: Origens Clássicas e Fundamentos Quânticos. Rio de Janeiro: Campus.
+LOPES, J. L. A Estrutura Quântica da Matéria: Do Átomo Pré-Socrático às Particulas Elementares. Rio de
+Janeiro: Editora UFRJ.
+Bibliografia Complementar:
+TIPLER, P. A.; LLEWELLYN, R. A. Física Moderna. Rio de Janeiro: LTC.
+BEISER, A. Concepts of Modern Physics. New York: McGraw-Hill.
+ACOSTA, V.; COWAN, C. L.; GRAHAM, B. J. Curso de Física Moderna. Harla.
+EISBERG, R. M. Fundamentos da Física Moderna. Rio de Janeiro: Guanabara Dois.
+MEDEIROS, D. Física Moderna. São Paulo: Livraria da Física.
+
+MECÂNICA CLÁSSICA I
+Princípios gerais da mecânica newtoniana. Oscilações. Gravitação. Forças centrais. Sistemas de partículas.
+Referenciais não inerciais.
+Bibliografia Básica:
+CHOW, T. L. Classical Mechanics. New York: Wiley.
+TAYLOR, J. R. Mecânica Clássica. Porto Alegre: Bookman.
+MARION, J. B.; THORNTON, S. T. Dinâmica Clássica de Partículas e Sistemas. São Paulo: Cengage Learning.
+SYMON, K. R. Mecânica. Rio de Janeiro: Campus.
+MORIN, D. Introduction to Classical Mechanics. Cambridge University.
+Bibliografia Complementar:
+BARCELOS NETO, J. Mecânica Newtoniana, Lagrangiana e Hamiltoniana. São Paulo: Livraria da Física.
+GREINER, W. Classical Mechanics: Point Particles and Relativity. New York: Springer.
+LANCZOS, C. The Variational Principles of Mechanics. New York: Dover.
+FOWLES, G. R.; CASIDAY, G. L. Analytical Mechanics. Fort Worth : Saunders.
+WATARI, K. Mecânica Clássica, vols. 1 e 2. São Paulo: Livraria da Física.
+ARYA, A. P. Introduction to Classical Mechanics. Upper Saddle River: Prentice Hall.
+KIBBLE, T. W. B.; BERKSHIRE, F. H. Classical Mechanics. Imperial College.
+KNUDSEN, J. M.; HJORTH, P. G. Elements of Newtonian Mechanics. Springer.
+MARION, J. B.; THORNTON, S. T. Classical Dynamics of Particles and Systems. Fort Worth: Saunders.
+
+MECÂNICA CLÁSSICA II
+Formulação lagrangiana da mecânica. Pequenas oscilações. Cinemática e dinâmica de corpos rígidos.
+Formulação hamiltoniana da mecânica. Transformações canônicas. Teoria de Hamilton-Jacobi.
+Bibliografia Básica:
+CHOW, T. L. Classical Mechanics. New York: Wiley.
+GOLDSTEIN, H. Classical Mechanics. San Francisco: Addison-Wesley.
+LEMOS, N. A. Mecânica Analítica. São Paulo: Livraria da Física.
+Bibliografia Complementar:
+BARCELOS NETO, J. Mecânica Newtoniana, Lagrangiana e Hamiltoniana. São Paulo: Livraria da Física.
+LANCZOS, C. The Variational Principles of Mechanics. New York: Dover.
+
+
+                                                                                                       24
+GREINER, W. Classical Mechanics: Point Particles and Relativity. New York: Springer.
+GREINER, W. Classical Mechanics: System of Particles and Hamiltonian. New York: Springer.
+FOWLES, G. R.; CASIDAY, G. L. Analytical Mechanics. Saunders College.
+WATARI, K. Mecânica Clássica, vols. 1 e 2. São Paulo: Livraria da Física.
+ARYA, A. P. Introduction to Classical Mechanics. Upper Saddle River: Prentice Hall.
+KIBBLE, T. W. B.; BERKSHIRE, F. H. Classical Mechanics. Imperial College.
+KNUDSEN, J. M.; HJORTH, P. G. Elements of Newtonian Mechanics. Springer.
+1LANDAU, L. D.; LIFSHITZ, E. M. Mechanics. Elsevier.
+MORIN, D. Introduction to Classical Mechanics. Cambridge University.
+FETTER, A. L.; WALECKA, J. D. Theoretical Mechanics of Particles and Continua. New York: Dover.
+MARION, J. B.; THORNTON, S. T. Classical Dynamics of Particles and Systems. Fort worth: Saunders
+College.
+SYMON, K. R. Mecânica. Rio de Janeiro: Campus.
+
+MECÂNICA QUÂNTICA I
+Equação de Schrödinger. Pacotes de onda. Formalismo matemático da Mecânica Quântica. Postulados da
+Mecânica Quântica. Spin. Potenciais unidimensionais e oscilador harmônico. Momento angular. Potenciais
+centrais e átomo de hidrogênio.
+Bibliografia Básica:
+COHEN-TANNOUDJI, C.; DIU, B.; LALOË, F. Quantum Mechanics, vols. 1 e 2. New York: ACM.
+GRIFFITHS, D. J. Introduction to Quantum Mechanics. New Jersey: Prentice-Hall.
+ZETTILI, N. Quantum Mechanics: Concepts and Applications. Chichester: Wiley.
+WOLNEY FILHO, W. Mecânica Quântica. Goiânia: Editora UFG.
+Bibliografia Complementar:
+MERZBACHER, E. Quantum Mechanics. New York: Wiley.
+SCHIFF, L. I. Quantum Mechanics. New York: McGraw-Hill.
+SHANKAR, R. Principles of Quantum Mechanics. New York: Plenum.
+SCHWABL, F. Quantum Mechanics. New York: Springer.
+TOWNSEND, J. S. A Modern Approach to Quantum Mechanics. New York: McGraw-Hill.
+MCINTYRE, D. H. Quantum Mechanics: A Paradigms Approach. Boston: Pearson.
+MESSIAH, A. Quantum Mechanics. Mineola: Dover.
+LIBOFF, R. L. Introductory Quantum Mechanics. San Francisco: Addison-Wesley.
+BALLENTINE, L. E; MELISSINOS, A. C. Quantum Mechanics: A Modern Development. Singapore: World
+Scientific.
+PERES, A. Quantum Theory: Concepts and Methods. Dordrecht: Kluwer.
+
+MECÂNICA QUÂNTICA II
+Adição de momento angular. Métodos de aproximação e aplicações. Estrutura fina e hiperfina do átomo de
+hidrogênio. Teoria de perturbação dependente do tempo e aplicações. Espalhamento.
+Bibliografia Básica:
+COHEN-TANNOUDJI, C.; DIU, B.; LALOË, F. Quantum Mechanics, vols. 1 e 2. New York: ACM.
+GRIFFITHS, D. J. Introduction to Quantum Mechanics. New Jersey: Prentice-Hall.
+ZETTILI, N. Quantum Mechanics: Concepts and Applications. Chichester: Wiley.
+WOLNEY FILHO, W. Mecânica Quântica. Goiânia: Editora UFG.
+Bibliografia Complementar:
+MERZBACHER, E. Quantum Mechanics. New York: Wiley.
+SCHIFF, L. I. Quantum Mechanics. New York: McGraw-Hill.
+SHANKAR, R. Principles of Quantum Mechanics. New York: Plenum.
+SCHWABL, F. Quantum Mechanics. New York: Springer.
+TOWNSEND, J. S. A Modern Approach to Quantum Mechanics. New York: McGraw-Hill.
+MCINTYRE, D. H. Quantum Mechanics: A Paradigms Approach. Boston: Pearson.
+MESSIAH, A. Quantum Mechanics. Mineola: Dover.
+LIBOFF, R. L. Introductory Quantum Mechanics. San Francisco: Addison-Wesley.
+BALLENTINE, L. E; MELISSINOS, A. C. Quantum Mechanics: A Modern Development. Singapore: World
+Scientific.
+PERES, A. Quantum Theory: Concepts and Methods. Dordrecht: Kluwer.
+
+PROBABILIDADE E ESTATÍSTICA
+Teoria de probabilidade. Variáveis aleatórias. Distribuição de probabilidades; Funções de variáveis aleatórias.
+Geração de variáveis aleatórias. Intervalo de confiança. Regressão. Correlação. Teoria de probabilidades para
+múltiplas variáveis. Distribuição de probabilidade conjunta. Soma de variáveis aleatórias. Teste de hipóteses.
+Introdução às cadeias de Markov.
+
+                                                                                                            25
+Bibliografia Básica:
+BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica. São Paulo: Saraiva.
+MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC.
+TRIOLA, M. F. Introdução à Estatística. Rio de Janeiro: LTC.
+MAGALHÃES, N. M.; LIMA, A. C. P. Noções de Probabilidade e Estatística. São Paulo: Edusp.
+MONTGOMERY, D. C.; RUNGER, G. C. Estatística Aplicada e Probabilidade para Engenheiros. Rio de
+Janeiro: LTC.
+Bibliografia Complementar:
+HINES, W. W.; MONTGOMERY, D. C. G. D. M. B. C. M. Probabilidade e Estatística na Engenharia. Rio de
+Janeiro: LTC.
+STEVENSON, W. J. Estatística Aplicada à Administração. São Paulo: Harper & Row.
+WALPOLE, R. E.; MYERS, R. H. M. S. L. Y. K. Probabilidade e Estatística para Engenharia e Ciências. São
+Paulo: Pearson.
+MURRAY, R. S. Probabilidade e Estatística. McGraw-Hill.
+MORETTIN, L.G. Estatística Básica: Probabilidade e Inferência. São Paulo: Pearson.
+
+QUÍMICA GERAL B
+Estrutura atômica. Ligações químicas. Termodinâmica, soluções e reações de oxirredução. Estado sólido.
+Ciência dos materiais.
+Bibliografia Básica:
+KOTZ, J. C.; TREICHEL JR., P. Química e Reações Químicas, vols. 1 e 2. Rio de Janeiro: LTC.
+MAHAN, B. M.; MYERS, R. J. Química um Curso Universitário. São Paulo: Edgard Blücher.
+HEASLEY V. L.; CHRISTENSEN, V. J.; HEASLEY, G. E. Chemistry and Life in the Laboratory. Upper
+Saddle River: Prentice Hall.
+ROBERTS JR., J. L.; HOLLENBERG, J. L.; POSTMA, J. M. Chemistry in the Laboratory. New York: W. H.
+Freeman.
+ATKINS, P.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. Porto
+Alegre: Bookman.
+Bibliografia Complementar:
+BERAN, J. A. Chemistry in the Laboratory: A Study of Chemical and Physical Changes. New York: Wiley.
+EBBING, D. D. Química Geral, vols. 1 e 2. LTC.
+ATKINS, P.; JONES, L. Chemistry: Molecules, Matter and Change. New York: W. H. Freeman.
+
+QUÍMICA GERAL EXPERIMENTAL
+Propriedades das substâncias. Soluções. Reações Químicas. Equilíbrio Químico. Eletroquímica.
+Bibliografia Básica:
+KOTZ, J. C.; TREICHEL JR., P. Química e Reações Químicas, vols. 1 e 2. Rio de Janeiro: LTC.
+MAHAN, B. M.; MYERS, R. J. Química um Curso Universitário. São Paulo: Edgard Blücher.
+HEASLEY V. L.; CHRISTENSEN, V. J.; HEASLEY, G. E. Chemistry and Life in the Laboratory. Upper
+Saddle River: Prentice Hall.
+ROBERTS JR., J. L.; HOLLENBERG, J. L.; POSTMA, J. M. Chemistry in the Laboratory. New York: W. H. Freeman.
+ATKINS, P.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. Porto
+Alegre: Bookman.
+Bibliografia Complementar:
+BERAN, J. A. Chemistry in the Laboratory: A Study of Chemical and Physical Changes. New York: Wiley.
+EBBING, D. D. Química Geral, vols. 1 e 2. LTC.
+ATKINS, P.; JONES, L. Chemistry: Molecules, Matter and Change. New York: W. H. Freeman.
+
+TERMODINÂMICA
+Variáveis e equações de estado. Leis da termodinâmica. Entropia. Condições de equilíbrio e estabilidade.
+Potenciais termodinâmicos. Mudança de fase.
+Bibliografia Básica:
+CALLEN, H. B. Thermodynamics and an Introduction to Thermostatistics. New York: Wiley.
+ZEMANSKY, M. W. Calor e Termodinâmica. Rio de Janeiro: Guanabara Dois.
+OLIVEIRA, M. J. Termodinâmica, São Paulo: Livraria da Física.
+Bibliografia Complementar:
+GREINER, W. Thermodynamics and Statistical Mechanics. New York: Springer.
+SOMMERFELD, A. Thermodynamics and Statistical Mechanics. New York: Academic Press.
+FERMI, E. Thermodynamics. New York: Dover.
+KUBO, R. Thermodynamics: An Advanced Course with Problems and Solutions. Amsterdam: North-Holland
+Publishing.
+ADKNIS, C. J. Equilibrium Thermodynamics. New York: Cambridge University.
+
+
+                                                                                                       26
+TRABALHO DE CONCLUSÃO DE CURSO
+Monografia elaborada pelo aluno como resultado da realização de uma atividade de pesquisa em Física ou áreas
+afins, com o orientador sendo um professor da UFG.
+Bibliografia Básica:
+MENDONÇA, L. M. N.; ROCHA, C. R. R.; D’ALESSANDRO, W. T. Guia para Apresentação de Trabalhos
+Monográficos na UFG. PRPPG/UFG.
+LAKATOS, E. M.; MARCONI, M. A. Fundamentos de metodologia científica. São Paulo: Atlas.
+CERVO, A. L.; BERVIAN, P. A. Metodologia Científica. São Paulo: McGraw-Hill.
+SEVERINO, A. J. Metodologia do trabalho científico. São Paulo: Cortez.
+Bibliografia Complementar:
+LAKATOS, E. M.; MARCONI, M. A. Metodologia do Trabalho Científico: Procedimentos Básicos; Pesquisa
+Bibliográfica, Projeto e Relatório; Publicações e Trabalhos Científicos. São Paulo: Atlas.
+SALOMON, D. V. Como Fazer uma Monografia, São Paulo: Martins Fontes.
+CERVO, A. L.; BERVIAN, P. A. Metodologia Científica. São Paulo: Makron Books.
+TACHIZAWA, T.; MENDES, G. Como Fazer Monografia na Prática, Rio de Janeiro: Fundação Getulio Vargas.
+KERSCHER, M. A.; KERSCHER, S. A. Monografia: Como Fazer. Rio de Janeiro: Thex.
+
+Disciplinas de Natureza Optativa - Núcleo Específico
+ANÁLISE REAL I
+Conjuntos enumeráveis e não enumeráveis; Números Reais; Sequências e Séries de Números Reais; Noções
+Topológicas na Reta; Limite e Continuidade de funções.
+Bibliografia Básica:
+ÁVILA, G. S. S. Introdução à Análise Matemática. São Paulo: Edgard Blücher.
+FIGUEIREDO, D. G. D. Análise I. São Paulo: LTC.
+LIMA, E. L. Análise Real (Coleção Matemática Universitária), v. 1. Rio de Janeiro: IMPA.
+Bibliografia Complementar:
+BARTLE, R. G. The Elements of Real Analysis. New York: Wiley.
+PUGH, C. Real Mathematical Analysis. New York: Springer-Verlag.
+RUDIN, W. Princípios de Análise Matemática. Rio de Janeiro: Ao Livro Técnico.
+
+ANÁLISE REAL II
+Derivadas e Aplicações; Integral de Riemann; Teorema Fundamental do Cálculo; Fórmulas de Taylor; Integrais
+Impróprias; Sequências e Séries de Funções.
+Bibliografia Básica:
+ÁVILA, G. S. S. Introdução à Análise Matemática. São Paulo: Edgard Blücher.
+FIGUEIREDO, D. G. D. Análise I. São Paulo: LTC.
+LIMA, E. L. Análise Real (Coleção Matemática Universitária), v. 1. Rio de Janeiro: IMPA.
+Bibliografia Complementar:
+BARTLE, R. G. The Elements of Real Analysis. New York: Wiley.
+PUGH, C. Real Mathematical Analysis. New York: Springer-Verlag.
+RUDIN, W. Princípios de Análise Matemática. Rio de Janeiro: Ao Livro Técnico.
+
+BIOFÍSICA I
+Lei do crescimento e decaimento exponencial. Biomecânica. Energia mecânica e outras formas de energia em
+humanos e em espécimes biológicos. Bioacústica. Biofísica da visão. Movimento de corpos em fluidos. Fluxo
+através de uma membrana seletiva.
+Bibliografia Básica:
+HOBBIE, R. K.; ROTH, B. J. Intermediate Physics for Medicine and Biology. Springer.
+OKUNO, E. Física para Ciências Biológicas e Biomédicas. Harbra.
+GARCIA, E. A. C. Biofísica. Sarvier.
+Bibliografia Complementar:
+DURAN, J. E. R. Biofísica: Fundamentos e Aplicações. Pearson.
+HENEINE, I. F. Biofísica Básica. Atheneu.
+PATTABHI, V. Biophysics. Springer.
+FRUMENTO, A. S. Biofísica. Inter-médica.
+YEAGERS, E. K. Basic Biophysics for Biology. CRC.
+CAMERON, J. R.; SKOFRONICK, J. G.; GRANT, R. M. Physics of the Body (Medical Physics Series).
+Medical Physics Pub Corp.
+HOPPE, W.; LOHMANN, W.; MARKL, H.; ZIEGLER, H. Biophysics. Springer.
+PLONSEY, R.; BARR, R.C. Bioelectricity: A Quantitative Approach. Springer.
+
+
+                                                                                                         27
+CRISTALOGRAFIA
+Cristais. Crescimento de cristais. Propriedades de raios X. Difração de raios X. Aplicações.
+Bibliografia Básica:
+WOOLFSON, M. M. An Introduction to X-ray Crystallography. Cambridge University.
+CULLITY, B. D.; STOCK, S. R. Elements of X-ray Diffraction. Upper Saddle River: Prentice Hall.
+AREUD, H.; HULLIGER, J. Crystal Growth in Science and Technology. New York: Plenum.
+Bibliografia Complementar:
+LADD, M. F. C.; PALMER, R. A. Structure Determination by X-Ray Crystallography. New York: Plenum.
+BUERGER, M. J. X-ray crystallography: An Introduction to the Investigation of Crystals by their Diffraction of
+Monochromatic X-Radiation. New York: Wiley.
+SHERWOOD, D.; COOPER, J. Crystals, X-rays, and Proteins: Comprehensive Protein Crystallography. New
+York: Oxford University.
+WILSON, A. J. C. Elements of X-ray Crystallography. Reading: Addison-Wesley.
+AZAROFF, L. V. Elements of X-ray Crystallography. New York: McGraw-Hill.
+AZAROFF, L. V.; BUERGER, M. J. The Powder Method in X-ray Crystallography. New York: McGraw-Hill.
+BUERGER, M. J. The Precession Method in X-ray Crystallography. New York: Wiley.
+
+DESENVOLVIMENTO E FABRICAÇÃO DE MATERIAIS AVANÇADOS
+Materiais e tipos de materiais. Estrutura, forma, propriedades e funções. Fabricação de materiais: cerâmicas,
+monocristais, vidros, filmes, micro e nanoestruturas policristalinas. Propriedades físicas e aplicações: materiais e
+dispositivos para óptica (lasers, LEDs, fotônica, óptica integrada), materiais e dispositivos magnéticos (imãs,
+memórias, sensores), materiais e dispositivos dielétricos (capacitores, transdutores, sensores, microgeradores).
+Bibliografia Básica:
+CALLISTER, W. D. Fundamentos da Ciência e Engenharia de Materiais. Rio de Janeiro: LTC.
+KINGERY, W. D.; BOWEN, H. K.; UHLMANN, D. R. Introduction to Ceramics. New York: Wiley.
+SEGAL, D. Chemical Synthesis of Advanced Ceramic Materials. New York: Cambridge University.
+Bibliografia Complementar:
+REZENDE, S. M. Materiais e Dispositivos Eletrônicos. São Paulo: Livraria da Física.
+QUIMBY, R. S. Photonics and Lasers: An Introduction. New Jersey: Wiley. Disponível em:
+http://samples.sainsburysebooks.co.uk/9780471791584_sample_378844.pdf. Acesso em: 28 julho 2014.
+CULLITY, B. D.; GRAHAM, C.D. Introduction to Magnetic Materials, New Jersey: Wiley.
+PERKOWITZ, S. Optical Characterization of Semiconductors: Infrared, Raman and Photoluminescence
+Spectroscopy. Academic Press.
+WAGENDRISTEL, A.; WANG, Y. Introduction to Physics and Technology of Thin Films. Singapore: World
+Scientific.
+Artigos de revisão a serem escolhidos pelo docente.
+
+DIDÁTICA PARA O ENSINO DE FÍSICA
+Pressupostos fundamentais da Didática das Ciências. Enfoques teóricos de Ensino de Física. Legislação
+Educacional e Orientações Curriculares, Planejamento Escolar (ensino, aprendizagem e avaliação). Aspectos
+formativos da Docência.
+Bibliografia Básica:
+PIETROCOLA, M. Ensino de Física: Conteúdo, Metodologia em uma Concepção Integradora. Florianópolis:
+UFSC.
+LIBÂNEO, J. C. Didática. São Paulo: Cortez.
+HENRY, J. A Revolução Científica e as Origens da Ciência Moderna. Rio de Janeiro: Zahar.
+EINSTEIN, A.; INFELD, L. A Evolução da Física. Rio de Janeiro: Zahar.
+ZABALA, A. A Prática Educativa: Como Ensinar. Porto Alegre: Artmed.
+Bibliografia Complementar:
+ASTOLFI, J. P.; DELEVAY, M. A Didática das Ciências. Campinas: Papirus.
+BRONOWSKI, J. Um Sentido do Futuro. Brasília: UnB.
+BUNGE, M. Teoria e Realidade. São Paulo: Perspectiva.
+CARVALHO, A. M. P.; GIL-PÉREZ, D. Formação de Professores de Ciências: Tendências e Inovações. São
+Paulo: Cortez Editora.
+COHEN, B. I. O Nascimento de uma Nova Física. São Paulo: Edart.
+KOYRÉ, A. Estudos de História do Pensamento Científico. Brasília: UnB.
+MORTIMER, E. F. Linguagem e Formação de Conceitos no Ensino de Ciências. Belo Horizonte: UFMG.
+NÉRICI, I. G. Introdução à Didática Geral. São Paulo: Atlas.
+POZO, J. I.; CRESPO, M. A. G. A Aprendizagem e o Ensino de Ciências: Do Conhecimento Cotidiano ao
+Conhecimento Científico. Porto Alegre: Artmed.
+ROSMORDUC, J. Uma História da Física e da Química: De Tales a Einstein. Rio de Janeiro: Jorge Zahar.
+
+
+                                                                                                                 28
+BRASIL. Ministério da Educação. Secretaria da Educação Média e Tecnológica. Parâmetros Curriculares
+Nacionais + (PCN+) - Ciências da Natureza e suas Tecnologias. Brasília: MEC.
+CACHAPUZ, A.; PRAIA, J.; GIL-PÉREZ, D.; CARRASCOSA, J.; TERRADES, I. M. A emergência da
+didáctica das Ciências como campo específico de conhecimento. In: Revista Portuguesa de Educação, Portugal,
+v. 1, n. 14, p. 155-195, 2001.
+CACHAPUZ, A.; PRAIA, J.; JORGE, M. Da educação em ciência às orientações para o ensino de ciências: um
+repensar epistemológico. In: Ciência & Educação, v. 10, n. 3, p. 363-381, 2004.
+FOUREZ, G. Crise no Ensino de Ciências? In: Investigações em Ensino de Ciências. v. 8, n. 2, p. 109-123, 2003.
+GIL-PEREZ, D.; MONTORO, I. F.; CARRASCOSA, J. A.; CACHAPÚZ, A.; PRAIA, J. Para uma imagem não
+deformada do trabalho científico. In: Ciência & Educação, v. 7, n. 2, p. 125-153, 2001.
+LINHARES, M. P.; REIS, E. M. Estudos de caso como estratégia de ensino na formação de professores de
+física. In: Ciência & Educação, v. 14, n. 3, 2008.
+MEDEIROS, A.; BEZERRA FILHO, S. A natureza da ciência e a instrumentação para o ensino da física. In:
+Ciência & Educação, v.6, n. 2, p. 107-117, 2000.
+MORTIMER, E. F. Construtivismo, mudança conceitual e ensino de ciências: para onde vamos? In:
+Investigações em ensino de ciências, v. 1, n.1, abril, 1996.
+VILLANI, A. Filosofia da ciência e ensino de ciência: uma analogia. In: Ciência & Educação, v. 7, n. 2, p. 169-
+181, 2001.
+
+FENÔMENOS DE TRANSPORTE PARA ENGENHARIA FÍSICA
+Introdução aos fenômenos de transporte. Condução em regime estacionário. Condução transiente. Convecção.
+Escoamento interno. Escoamento externo. Ebulição e condensação. Radiação. Transporte de massa por difusão.
+Aplicações: trocadores de calor.
+Bibliografia Básica:
+INCROPERA, F. P.; DEWITT, D. P. Fundamentos de Transferência de Calor e de Massa, Rio de Janeiro: LTC.
+SCHMIDT, F. W.; HENDERSON, R. E.; WOLGEMUTH, C. H. Introdução às Ciências Térmicas:
+Termodinâmica, Mecânica dos Fluidos e Transferência de Calor. São Paulo: Edgard Blücher.
+FOX, R. W.; MCDONALD, A. T.; PRITCHARD, P. J. Introdução à Mecânica dos Fluidos. Rio de Janeiro: LTC.
+BIRD, R. B.; LIGHTFOOT, E. N.; STEWART, W. E. Fenômenos de Transporte. Rio de Janeiro: LTC.
+SISSOM, L. E. Fenômenos de Transporte. Rio de Janeiro: Guanabara Dois.
+Bibliografia Complementar:
+BRAGA FILHO, W. Fenômenos de Transporte para Engenharia. Rio de Janeiro: LTC.
+ROMA, W. N. L. Fenômenos de Transporte para Engenharia. São Carlos: RiMa.
+BENNETT, C. O.; MYERS, J. E. Fenômenos de Transporte: Quantidade de Movimento, Calor e Massa. São
+Paulo: McGraw-Hill.
+LIVI, C. P. Fundamentos de Fenômenos de Transporte: Um Texto para Cursos Básicos. Rio de Janeiro: LTC.
+SISSOM, L. E.; PITTS, D. R. Fenômenos de Transporte. Rio de Janeiro: LTC.
+
+FÍSICA ATÔMICA E MOLECULAR
+Átomos de um elétron. Átomos de muitos elétrons. Moléculas e ligação química. Espectroscopia molecular.
+Bibliografia Básica:
+KARPLUS, M., PORTER, R. N. Atoms and Molecules. Menlo Park: Benjamin Cummings.
+LEVINE, I. N. Quantum Chemistry. Englewood Cliffs: Prentice Hall.
+ATKINS, P. W., FRIEDMAN, R. S. Molecular Quantum Mechanics. Oxford: Oxford.
+DEMTRÖDER, W. Atoms, Molecules and Photons. New York: Springer.
+Bibliografia Complementar:
+ATKINS, P. W.; PAULA, J. Físico-Química, vol. 2. Rio de Janeiro: LTC.
+ATKINS, P. W. Physical Chemistry. Oxford: Oxford University.
+LEVINE, I. N. Molecular Spectroscopy. New York: Wiley.
+MCHALE, J. L. Molecular Spectroscopy. Upper Saddle River: Prentice Hall.
+
+FÍSICA DAS RADIAÇÕES
+Interação de partículas carregadas com a matéria; Produção e qualidade de raios X; Interação de raios X e gama
+com a matéria: Espalhamento elástico e inelástico; efeito fotoelétrico e produção de pares; Absorção de radiação:
+coeficientes de atenuação, de transferência e absorção de energia; Interação de nêutrons com a matéria;
+Conceitos de energia transferida e deposita e sua relação com grandezas dosimétricas; Aplicações médicas e
+efeitos biológicos da radiação eletromagnética não-ionizante; Processos de desexcitação atômica e nuclear e
+desintegração radiativa.
+Bibliografia Básica:
+PODGORSAK, E. B. Radiation Physics for Medical Physicists. Springer.
+OKUNO, E.; YOSHIMURA, E. M. Física das Radiações.Oficina de Textos.
+ATTIX, F. H. Introduction to Radiological Physics and Radiation Dosimetry. New York: Wiley.
+
+
+                                                                                                              29
+Bibliografia Complementar:
+HENDEE, W. R; RITENOUR, E. R. Medical Imaging Physics. New York: Wiley.
+BUSHBERG, J. T.; SEIBERT, J. A.; LEIDHOLFT JUNIOR, E. M.; BOONE, J. M. The Essential Physics of
+Medical Imaging. Lippincott Willians & Wilkins.
+JOHNS, H. E.; CUNNINGHAN, J. R. The Physics of Radiology. Charles C. Thomas.
+EVANS, R. D. The Atomic Nucleus. McGraw Hill.
+KNOLL, G. F. Radiation Detection and Measurement. New York: Wiley.
+
+FÍSICA E MEIO AMBIENTE
+O planeta Terra. Solos e hidrologia. Aspectos físicos da biosfera. Crise ambiental. Leis da conservação da massa e
+energia. Ecossistemas. Ciclos biogeoquímicos. Dinâmica das populações. Bases do desenvolvimento sustentável.
+Conservação de energia. Energia solar. Energia de combustíveis fósseis. Poluição do ar e uso de energia.
+Aquecimento global, destruição da camada de ozônio e resíduos de calor. Eletromagnetismo e geração de
+eletricidade. Eletricidade de fontes solares, eólicas e hídricas. Energia nuclear: fissão e fusão. Efeitos e usos da
+radiação. Biomassa. Energia geotérmica. Meio aquático, terrestre e atmosférico. Bioma cerrado brasileiro.
+Economia e meio ambiente. Aspectos legais e institucionais. Avaliação de impactos ambientais. Gestão ambiental.
+Bibliografia Básica:
+LEEDER, M.; PEREZ-ARLUCEA, M. Physical Processes in Earth and Environmental Sciences. Oxford:
+Blackwell Publishing.
+BRAGA, B.; HESPANHOL, I.; CONEJO, J. G. L.; MIERZWA, J. C.; BARROS, M. T. L.; VERAS, M.;
+PORTO, M. A. F.; NUCCI, N.; JULIANO, N.; EIGER, S. Introdução à Engenharia Ambiental. São Paulo:
+Prentice Hall.
+HINRICHS, R. A.; KLEINBACH, M.; REIS, L. B. Energia e Meio Ambiente. São Paulo: Cengage Learning.
+OKUNO, E.; CALDAS, I. L.; CHOW, C. Física para Ciências Biológicas e Biomédicas. São Paulo: Harbra.
+Bibliografia Complementar:
+BAECKER, E.; GRONDELLE, R. Environmental Physics. Chichester: Wiley.
+MILLER JR, G. T. Ciência Ambiental. São Paulo: Cengage Learning.
+PINHEIRO, A. C. F. B.; ANDRÉ MONTEIRO, A. L. F. B. P. Ciências do Ambiente: Ecologia, Poluição e
+Impacto Ambiental. Sao Paulo: Makron Books.
+FORINASH, K. Foundations of Environmental Physics: Understanding Energy Use and Human Impacts. Island
+Press.
+BRANCO, S. M.; ROCHA, A. A. Elementos de Ciências do Ambiente, São Paulo: CETESB.
+SMITH, C. Environmental Physics. London: Routledge.
+MONTEITH, J.; UNSWORTH, M. Principles of Environmental Physics. Academic Press.
+
+FÍSICA MATEMÁTICA III
+Estruturas algébricas básicas. Grupos discretos e aplicações. Grupos contínuos e aplicações. Álgebras de Lie.
+
+Bibliografia Básica:
+ARFKEN, G.; WEBER, H. J. Mathematical Methods for Physicists. Boston: Elsevier.
+JEEVANJEE, N. An Introduction to Tensors and Group Theory for Physicists. New York: Birkhäuser.
+HAMERMASH, M. Group Theory and Its Application to Physical Problems. New York: Dover.
+GILMORE, R. Lie Groups, Physics, and Geometry: An Introduction for Physicists, Engineers and Chemists.
+New York: Cambridge University.
+Bibliografia Complementar:
+ROTHMAN, J. J. An Introduction to the Theory of Groups. New York: Springer.
+TINKHAM, M. Group Theory and Quantum Mechanics. New York: Dover.
+BISHOP, D. M. Group Theory and Chemistry. New York: Dover.
+MCWEENY, R. Symmetry: An Introduction to Group Theory and Its Applications. New York: Dover.
+RAMOND, P. Group Theory: A Physicist's Survey. Cambridge: Cambridge University.
+
+FUNDAMENTOS FILOSÓFICOS E SÓCIO-HISTÓRICOS DA EDUCAÇÃO
+Ementa: A Educação como processo social; a educação brasileira na experiência histórica do ocidente; a
+ideologia liberal e os princípios da educação pública; sociedade, cultura e educação no Brasil: os movimentos
+educacionais e a luta pelo ensino público no Brasil, a relação entre a esfera pública e privada no campo da
+educação e os movimentos da educação popular.
+Bibliografia Básica:
+BRANDÃO, C. R. Educação Popular. São Paulo: Brasiliense.
+BOURDIEU, P. Coleção os Grandes Cientistas Sociais. São Paulo: Ática.
+COÊLHO, I. M. Realidade e Utopia na Construção da Universidade: Memorial. Goiânia: UFG.
+
+                                                                                                                 30
+_____. Ensino de graduação: a lógica de organização do currículo. In: Educação brasileira. Brasília, v.16, n.33,
+p.43-75, jul./dez. 1994.
+DELORS, J.; et al. Educação: Um Tesouro a Descobrir. São Paulo: Cortez; Brasília: MEC: UNESCO, 1998
+[Relatório para a UNESCO da Comissão Internacional sobre educação para o século XXI.].
+DURKHEIM, E. Educação e Sociologia. São Paulo: Melhoramentos.
+GERMANO, J. W. Estado Militar e Educação no Brasil - 1964-1985. São Paulo: UNICAMP/Cortez.
+LOPES, E. M. T.; et al. 500 Anos de Educação no Brasil. Belo Horizonte: Ed. Autêntica.
+ROMANELLI, O. O. F. História da Educação no Brasil (1930-1945). Petrópolis: Vozes.
+Bibliografia Complementar:
+BOURDIEU, P.; PASSERON, J. C. A Reprodução: Elementos Para uma Teoria do Sistema de Ensino. Rio de
+Janeiro: Francisco Alves.
+COÊLHO, I. M. Educação, escola, cultura e formação. In: Anais do Encontro Regional de Psicopedagogia.
+2002, p. 26-33.
+EVANGELISTA, E. G. S. Educação e Mundialização. Goiânia: UFG.
+FORACCHI, M.; MARTINS, J. S. Sociologia e Sociedade. Rio de Janeiro: LTC.
+ROWY, M. Ideologia e Ciência Social. São Paulo: Cortez.
+WEBER, M. Ensaios de Sociologia. Rio de Janeiro: Guanabara.
+
+GEOMETRIA DIFERENCIAL
+Curvas Planas e no espaço. Curvatura e torção. Triedro de Frenet-Serret. Teorema Fundamental das Curvas.
+Superfícies Regulares (1a e 2a formas fundamentais). Equações Fundamentais (Gauss-Weingarten e Gauss-
+Codazzi). Teorema Fundamental da Teoria das Superfícies. Geometria das Superfícies (linhas de Curvaturas,
+assintóticas e geodésicas). Superfícies de curvatura gaussiana e média constante.
+Bibliografia Básica:
+TENENBLAT, K. Introdução à Geometria Diferencial. São Paulo: Edgard Blucher.
+DO CARMO, M. P. Geometria Diferencial de Curvas e Superfícies. Rio de Janeiro: SBM.
+ARAÚJO, P. V. Geometria Diferencial. Rio de Janeiro: IMPA.
+Bibliografia Complementar:
+O NEIL, B. Elementary Differential Geometry. Academic Press.
+BOYCE, WILLIAM E.; DIPRIMA, R. C. Equações diferenciais Elementares e Problemas de Valores de
+Contorno. Rio de Janeiro: LTC.
+APOSTOL, T. Linear Algebra: a First Course: With Applications to Differential Equations. Wiley Interscience.
+LIMA, E. L. Álgebra Linear (Coleção Matemática Universitária). Rio de Janeiro: IMPA.
+LIMA, E. L. Curso de Análise, vol. 2. Rio de Janeiro: IMPA.
+SPIVAK, M. A Comprehensive Introduction to Differential Geometry, v. 3. Houston: Publish or Perish.
+
+INTRODUÇÃO À CIÊNCIA DOS MATERIAIS
+Tipos de materiais. Materiais para engenharia. Ligação química em sólidos. Estrutura cristalina. Diagramas de
+fase binários e ternários. Nucleação e cinética de transformação de fases. Processos de fabricação e propriedades
+de materiais.
+Bibliografia Básica:
+CALLISTER, W. D. Fundamentos da Ciência e Engenharia de Materiais: Uma Abordagem Integrada. Rio de
+Janeiro: LTC.
+SHACKELFORD, J. F. Ciência dos Materiais. São Paulo: Prentice Hall.
+VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais, Rio de Janeiro: Campus.
+ASKELAND, D. R. The Science and Engineering of Materials. Boston: PWS.
+Bibliografia Complementar:
+CALLISTER, W. D. Ciência e Engenharia de Materiais: Uma Introdução. Rio de Janeiro: LTC.
+VAN VLACK, L. H. Princípios de Ciência dos Materiais, São Paulo: Edgard Blücher.
+CALLISTER, E. D. Materials Science and Engineering: An Introduction. New York: Wiley.
+ASKELAND, D. R. The Science and Engineering of Materials. London: Chapman & Hall.
+ASKELAND, D. R.; PHULE, P. P. Ciência e Engenharia dos Materiais. São Paulo: Cengage Learning.
+
+INTRODUÇÃO À COMPUTAÇÃO E INFORMAÇÃO QUÂNTICA
+Noções de informação clássica. Circuitos quânticos. Demônios de Maxwell e o teorema de Landauer.
+Computadores quânticos. Algoritmos quânticos. Ruído quântico e operações quânticas. Normas de distância.
+Correção quântica de erros. Limite de Holevo. Teorema de Schumacher. Criptografia quântica.
+Bibliografia Básica:
+NIELSEN, M. A.; CHUANG, I. L. Computação Quântica e Informação Quântica. Porto Alegre: Bookman.
+VEDRAL, V. Introduction to Quantum Information Science. New York: Oxford University.
+WILDE, M. M. Quantum Information Theory. Cambridge: Cambridge University.
+
+
+                                                                                                              31
+Bibliografia Complementar:
+BENENTI, G.; CASATI, G.; STRINI, G. Principles of Quantum Computation and Information. vols. 1 e 2. Toh
+Tuck Link: World Scienfific.
+COVER, T.; THOMAS, J. A. Elements of Information Theory. New Jersey: Wiley Interscience.
+DESURVIRE, E. Classical and Quantum Information Theory. New York: Cambridge University.
+AARONSON, S. Quantum Computing Since Democritus. New York: Cambridge University.
+MCMAHON, D. Quantum Computing Explained. New Jersey: Wiley.
+AWSCHALOM, D. D.; LOSS, D.; SAMARTH, N. Semiconductor Spintronics and Quantum Computation. New
+York: Springer.
+HARRISON, P. Quantum Wells, Wires and Dots: Theoretical and Computational Physics of Semiconductor
+Nanostructures. Hoboken: Wiley.
+BUCHMANN, J. A. Introduction to Cryptography. New York: Springer-Verlag.
+
+INTRODUÇÃO À ENGENHARIA FÍSICA
+Engenharia e engenharia física: conceituação, posição nas engenharias, áreas de atuação e estrutura do curso.
+Atribuições profissionais e ética profissional. O engenheiro. Ética da engenharia. Desenvolvimento científico e
+tecnológico. Engenharia e sociedade. Organização e representação de sistemas de engenharia. Aprendizado e
+solução de problemas. Introdução a métodos de projeto. Projetos baseados em modelos. Palestras de
+Pesquisadores/Profissionais.
+Bibliografia Básica:
+BROCKMAN, J. B. Introdução à Engenharia. Rio de Janeiro: LTC.
+HOLTZAPPLE, M. T.; DAN REECE, W. Introdução à Engenharia. Rio de Janeiro: LTC.
+BAZZO, W. A.; PEREIRA, L. T. V. Introdução à Engenharia: Conceitos, Ferramentas e Comportamentos,
+Florianópolis: UFSC.
+Bibliografia Complementar:
+CHAVES, A. Física para um Brasil competitivo. CAPES, 2007. Disponível em: <http://www.sbfisica.org.br/
+v1/arquivos_diversos/publicacoes/FisicaCapes.pdf>. Acesso em: 27 agosto 2013.
+SMITH, R. J. Circuitos, Dispositivos e Sistemas: Um Curso de Introdução à Engenharia Elétrica, Rio de Janeiro:
+LTC.
+BAZZO, W. A.; PEREIRA, L. T. V. Introdução à Engenharia. Florianópolis: UFSC.
+WICKERT, J. Introdução à Engenharia Mecânica. São Paulo: Thomson.
+BRASIL, N. I. Introdução à Engenharia Química. Rio de Janeiro: Interciência.
+OGATA, K. Engenharia de Controle Moderno. São Paulo: Prentice-Hall.
+
+INTRODUÇÃO À FÍSICA MÉDICA
+Seminários introdutórios apresentados por membros dos grupos de pesquisa, professores e profissionais das
+áreas da física médica. Áreas de atuação e noções de legislação profissional do Físico Médico. Aplicações da
+Física Médica. Pratica do trabalho cientifico e tecnológico.
+Bibliografia Básica:
+BAFFA FILHO, O.; PISA, I. T. A Área de Física Médica e Suas Perspectivas no Brasil. Ribeirão Preto, SP,
+1999. Disponível em: <http://sites.ffclrp.usp.br/cefim/sobrenos/artigo.html>. Acesso em: 18 setembro 2013.
+BAFFA FILHO, O.; ZEZELL, D. M.; COSTA, P. R.; SILVA, A. M. M.; FREITAS, M. B. Física Médica. In:
+Física 2011 - Estado da arte, desafios e perspectivas para os próximos cinco anos. 1a ed., p. 83, São Paulo:
+McHilliard, 2011. Disponível em: <http://www.sbfisica.org.br/v1/arquivos_diversos/publicacoes/fisica-
+2011.pdf>. Acesso em: 18 setembro 2013.
+O que é Física Médica. Disponível em: <http://www.abfm.org.br/nabfm/n_home_fm.asp>. Acesso em: 18
+setembro 2013.
+Revista Brasileira de Física Médica, versão eletrônica. Associação Brasileira de Física Médica (ABFM).
+Disponível em: < http://www.abfm.org.br/rbfm/>. Acesso em: 18 setembro 2013.
+Bibliografia Complementar:
+GARCIA, E. A. C. Biofísica. São Paulo: Sarvier.
+HOBBIE, R. K.; ROTH, B. J. Intermediate Physics for Medicine and Biology. Springer.
+BROWN, M. A.; SEMEIKA, R. C., MRI: Basic Principles and Applications. New York: Wiley.
+ATTIX, F. H. Introduction to Radiological Physics and Radiation Dosimetry, New York: Wiley.
+BUSHBERG, J. T.; SEIBERT, J. A.; LEIDHOLFT JUNIOR, E. M.; BOONE, J. M. The Essential Physics of
+Medical Imaging. Lippincott Willians & Wilkins.
+ENDERLE, J. D.; BRONZINO, J. D.; BLANCHARD, S. M. Introduction to Biomedical Engineering.
+Amsterdam: Elsevier.
+
+
+                                                                                                            32
+INTRODUÇÃO À INSTRUMENTAÇÃO BIOMÉDICA
+Conceitos básicos de instrumentação biomédica. Sensores biomédicos. Noções de biopotenciais. Eletrodos de
+biopotencial. Tópicos de eletrônica analógica e digital. Construção de um sistema para medidas de biopotenciais.
+Conversão analógico-digital. Introdução à programação em LabView. Noções de equipamentos médico-
+hospitalares.
+Bibliografia Básica:
+WEBSTER, J. G. Medical Instrumentation: Application and Design. New York: Wiley.
+CARR, J. J.; BROWN, J. M. Introduction to Biomedical Equipment Technology. Prentice Hall.
+ENDERLE, J. D. Bioinstrumentation. Morgan & Claypool.
+Bibliografia Complementar:
+JAMAL, R.; PICHLIK, H. LabView Applications and Solutions. Upper Saddle River: Prentice Hall.
+BLACKBURN, J. A. Modern Instrumentation for Scientists and Engineers. New York: Springer.
+ENDERLE, J. D.; BRONZINO, J. D.; BLANCHARD, S. M. Introduction to Biomedical Engineering.
+Amsterdam: Elsevier.
+DEVASAHAYAM, S. R. Signals and Systems in Biomedical Engineering Signal Processing and Physiological
+Systems Modeling. New York: Kluwer Academic/Plenum Publishers.
+BRUCE, E. N. Biomedical Signal Processing and Signal Modeling. New York: Wiley.
+DIEFENDERFER, A. J.; HOLTON, B. E. Principles of Electronic Instrumentation. Philadelphia: Saunders College.
+NORTHROP, R. B. Signals and Systems Analysis in Biomedical Engineering. Boca Raton: CRC.
+BAURA, G. D. System Theory and Practical Applications of Biomedical Signals. Piscataway: Wiley
+Interscience.
+BRONZINO, J. D. The Biomedical Engineering Handbook. Boca Raton: CRC-IEEE.
+OPPENHEIM, A. V.; WILLSKY, A. S. Sinais e Sistemas. Pearson.
+
+INTRODUÇÃO À LÍNGUA BRASILEIRA DE SINAIS – LIBRAS
+Introdução às práticas de compreensão e produção em LIBRAS por meio do uso de estruturas e funções
+comunicativas elementares. Concepções sobre a Língua de Sinais. O surdo e a sociedade.
+Bibliografia Básica:
+BRITO, L. F. Por uma Gramática de Língua de Sinais. Rio de Janeiro: Tempo Brasileiro.
+FELIPE, T.; MONTEIRO, M. S. Libras em contexto. Curso Básico. Brasília: Ministério da Educação e do
+Desporto/Secretaria de Educação Especial, 2001.
+GÓES, M. C. R. Linguagem, Surdez e Educação. Campinas: Autores Associados.
+PIMENTA, N.; QUADROS, R. M. Curso de Libras 1 – Iniciante. Porto Alegre: Pallotti.
+Bibliografia Complementar:
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Ensino de Língua Portuguesa para Surdos:
+Caminhos para a Prática Pedagógica, v. 1. Brasília – DF: MEC/SEESP; 2002.
+CAPOVILLA, F. C., RAPHAEL, W. D. Dicionário Enciclopédico Ilustrado Trilíngue da Língua de Sinais
+Brasileira, vols. 1 e 2. São Paulo: Edusp.
+CAPOVILLA, F. C.; RAPHAEL, W. D. Enciclopédia da Língua de Sinais Brasileira, vols. 1 e 2. São Paulo: Edusp.
+GESSER, A. Libras? Que Língua é essa? Crenças e Preconceitos em Torno da Língua de Sinais e da Realidade
+Surda. São Paulo: Parábola.
+QUADROS, R. M. Educação de Surdos: A Aquisição da Linguagem. Porto Alegre: Artes Médicas.
+QUADROS, R. M.; KARNOPP, L. Língua de Sinais Brasileira: Estudos Linguísticos. Porto Alegre: Artmed.
+SACKS, O. Vendo Vozes: Uma Viagem ao Mundo dos Surdos. São Paulo: Cia das Letras.
+SASSAKI, R. K. Inclusão: Construindo uma Sociedade para Todos. Rio de Janeiro: WVA.
+
+INTRODUÇÃO À MICRO E NANOELETRÔNICA
+Noções de dispositivos e circuitos básicos. Circuitos integrados analógicos e digitais. Nanoescala. Partículas e
+ondas. Mecânica ondulatória. Materiais para nanoeletrônica. Crescimento, fabricação e técnicas de
+caracterização de nanoestruturas. Transporte eletrônico em semicondutores e nanoestruturas. Elétrons em
+estruturas de baixa dimensionalidade: poços, fios e pontos quânticos. Dispositivos nanoestruturados.
+Bibliografia Básica:
+MITIN, V. V.; KOCHELAP, V. A.; STROSCIO, M. A. Introduction to Nanoelectronics: Science,
+Nanotechnology, Engineering, and Applications. Cambridge: Cambridge University Press.
+SEDRA, A. S.; SMITH, K. C. Microeletrônica, São Paulo: Prentice Hall.
+GOSER, K.; GLOSEKOTTER, P.; DIENSTUH, J. Nanoelectronics and nanosystems: from transistors to
+molecular and quantum devices. Berlin; New York: Springer.
+Bibliografia Complementar:
+MILLMAN, J.; GRABEL, A. Microeletrônica. Lisboa: McGraw-Hill.
+KITTEL, C. Introduction to solid-state physics. Wiley.
+
+
+                                                                                                             33
+SINGH, J. Physics of Semiconductors and Their Heterostructures. New York: McGraw-Hill.
+MITIN, V. V.; KOCHELAP, V. A.; STROSCIO, M. A. Quantum Heterostructures. New York: Cambridge
+University Press.
+CHELAND, A. N. Foundations of Nanomechanics. Berlim: Springer-Verlag.
+STANGL, J.; HOL, V.; BAUER, G. Structural Properties of Self-Organized Semiconductor Nanostructures.
+Rev. Mod. Phys., 76, 725, 2004.
+ONO, Y.; FUJIWARA, A.; et al. Manipulation and Detection of SingleElectrons for Future Information
+Processing. J. Appl. Phys. 97, 031101, 2005.
+
+INTRODUÇÃO À RELATIVIDADE GERAL
+Relatividade especial e espaço-tempo plano. Variedades. Curvatura. Gravitação. Noções de Cosmologia.
+Bibliografia Básica:
+CARROLL, S. M. Spacetime and Geometry: An Introduction to General Relativity. San Francisco: Addison Wesley.
+SCHUTZ, B. F. A First Course in General Relativity. Cambridge: Cambridge University.
+TAYLOR, E. F.; WHEELER, J. A. Spacetime Physics. New York: W. H. Freeman.
+Bibliografia Complementar:
+TAYLOR, E. F.; WHEELER, J. A. Exploring Black Holes: An Introduction to General Relativity. Benjamin
+Cummings.
+WEINBERG, S. Gravitation and Cosmology. New York: Wiley.
+ELLlS G. F. R.; WILLIAMS, R. M. Flat and Curved Space-Times. Oxford: Oxford.
+FOSTER, J & NIGHTINGALE, J. D. A Short Course in General Relativity. New York: Springer.
+MISNER, C. W.; THORNE, K. S.; WHEELER, J. A. Gravitation. New York: W. H. Freeman.
+CALLAHAN, J. The Geometry of Spacetime: An Introduction to Special and General Relativity. New York:
+Springer.
+WOODHOUSE, N. M. J. General Relativity. London: Springer.
+HARTLE, J. B. Gravity: An Introduction to Einstein’s General Relativity. San Francisco: Addison Wesley.
+
+LASERS – PRINCÍPIOS E APLICAÇÕES BIOMÉDICAS
+Fundamentos da radiação laser; segurança no uso de lasers; propriedades ópticas dos tecidos; interação laser-
+tecido; efeitos fototérmicos e fotoquímicos originários desta interação; aplicações em diversas especialidades
+médicas.
+Bibliografia Básica:
+BRAUN, M.; GILCH, P.; ZINTH, W. Ultrashort Laser Pulses in Biology and Medicine, Springer, 2008.
+CSELE, M. Fundamentals of Light Sources and Lasers, John Wiley & Sons, Inc., 2004.
+SVELTO, O. Principles of Lasers, Springer, 2010.
+Bibliografia Complementar:
+SILFVAST, W. T. Laser Fundamentals, Cambridge University Press; 2 edition, 2008.
+IIZUKA, K. Engineering Optics, Springer Series in Optical Sciences, 35, 3 edition, 2008.
+BRIDGES, C. R.; HORVATH, K. A.; CHIU, R. C.-J. Myocardial Laser Revascularization, Blackwell Science
+Ltd., 2006.
+MESCHEDE, D. Optics, Light and Lasers: The Practical Approach to Modern Aspects of Photonics and Laser
+Physics, Wiley-VCH Verlag GmbH & Co. KGaA, 2007.
+QUIMBY, R. S. Photonics and Lasers: An Introduction, John Wiley & Sons, Inc., 2006.
+CHAVANTES, M. C. (editor), Laser em bio-medicina: Princípios e prática: Guia para iniciantes, pesquisadores
+e discentes na área de saúde e exatas, Atheneu, 2009.
+LENGYEL, B. A. Introduction to laser physics, John Wiley, 1966.
+BAGNATO, V. S. LASER e suas aplicações em ciência e tecnologia, Editora livraria da física, 1ª Ed. 2008.
+WAYNANT, R. W. Lasers in Medicine, CRC Press; 1 edition, 2001.
+THYAGARAJAN, K; GHATAK, A. Lasers: Fundamentals and Applications (Graduate Texts in Physics),
+Springer; 2nd, 2011.
+YARIV, A. Quantum Electronics, Wiley; 3th edition, 1989.
+NIEMZ, M. H. Laser-Tissue Interactions: Fundamentals and Applications, Springer; 3th Edition, 2007.
+
+METODOLOGIA CIENTÍFICA E REDAÇÃO TÉCNICA
+Ciência e conhecimento científico. Métodos científicos. Diretrizes metodológicas para a leitura, compreensão e
+documentação de textos e elaboração de seminários, artigo científico, resenha e monografia. Ética na redação de
+textos e Plágio. Processos e técnicas de elaboração do trabalho científico. Pesquisa – tipos; documentação –
+didática pessoal, fichamento; projeto e relatório de pesquisa – etapas; monografia – elaboração. Normatização
+para redação do trabalho de conclusão de curso (monografia) do IF/UFG.
+
+                                                                                                            34
+Bibliografia Básica:
+LAKATOS, E. M.; MARCONI, M. A. Fundamentos de metodologia científica. São Paulo: Atlas.
+CERVO, A. L.; BERVIAN, P. A. Metodologia Científica. São Paulo: McGraw-Hill.
+SEVERINO, A. J. Metodologia do Trabalho Científico. São Paulo: Cortez.
+Bibliografia Complementar:
+LAKATOS, E. M.; MARCONI, M. A. Metodologia do Trabalho Científico: Procedimentos Básicos; Pesquisa
+Bibliográfica, Projeto e Relatório; Publicações e Trabalhos Científicos. São Paulo: Atlas.
+SALOMON, D. V. Como Fazer uma Monografia, São Paulo: Martins Fontes.
+CERVO, A. L.; BERVIAN, P. A. Metodologia Científica. São Paulo: Makron Books.
+TACHIZAWA, T.; MENDES, G. Como Fazer Monografia na Pratica, Rio de Janeiro: Fundação Getulio Vargas.
+KERSCHER, M. A.; KERSCHER, S. A. Monografia: Como Fazer. Rio de Janeiro: Thex.
+MENDONÇA, L. M. N.; ROCHA, C. R. R.; D’ALESSANDRO, W. T. Guia para Apresentação de Trabalhos
+Monográficos na UFG, PRPPG/UFG, 2005.
+
+ÓPTICA FÍSICA
+Óptica geométrica. Ondas eletromagnéticas. Polarização. Interferência. Coerência. Difração. Óptica de Fourier.
+Interação da luz com a matéria. Óptica de cristais. Guias de ondas. Óptica não linear.
+Bibliografia Básica:
+FOWLES, G. R. Introduction to Modern Optics. New York: Dover.
+HECHT, E.; ZAJAC, A. Optics, Reading: Addison-Wesley.
+LIPSON, S.G.; LIPSON, H.; TANNHAUSER, D. S. Optical Physics. Cambridge: Cambridge University.
+Bibliografia Complementar:
+FREJLICH, J. Óptica. São Paulo: Oficina de Textos.
+ZILIO, S. C. Óptica Moderna: Fundamentos e Aplicações. IFSC-USP. Disponível em:
+<http://www.fotonica.ifsc.usp.br/ebook/book1/Optica-Moderna.pdf>. Acesso em: 23 outubro 2013.
+MEYER-ARENDT, J. R. Introduction to Classical and Modern Optics. Englewood Cliffs: Prentice Hall.
+FREJLICH, J. Photorefractive Materials: Fundamental Concepts, Holographic Recording and Materials
+Characterization. New Jersey: Wiley.
+KHOO, I.-C.; LAM, J. F.; SIMONI, F. Nonlinear Optics and Optical Physics. Singapore: World Scientific.
+DANGOISSE, D.; HENNEQUIN, D.; ZEHNLÉ, V. Les Lasers. Paris: Dunod.
+
+POLÍTICAS EDUCACIONAIS NO BRASIL
+Ementa: A relação Estado e polícias educacionais; os desdobramentos da política educacional no Brasil pós-64;
+as políticas de regulação e gestão da educação brasileira e a (re)democratização da sociedade brasileira; os
+movimentos de diversificação, diferenciação e avaliação da educação nacional. Legislação educacional atual; a
+regulamentação do sistema educativo goiano e as perspectivas para a escola pública em Goiás.
+Bibliografia Básica:
+DOURADO L. F.; PARO, V. H. Políticas Públicas e Educação Básica. São Paulo: Xamã.
+LIBÂNEO, J. C.; OLIVEIRA, J. F.; TOSCHI, M. S. Educação Escolar: Políticas, Estrutura e Organização. São
+Paulo: Cortez.
+LIMA, L. C. A Escola como Organização Educativa: Uma Abordagem Sociológica. São Paulo: Cortez.
+OLIVEIRA, R. P.; ADRIÃO, T. Organização do Ensino no Brasil: Níveis e Modalidades na Constituição
+Federal e na LDB. São Paulo: Xamã.
+Bibliografia Complementar:
+CURY, C. R. J. Lei de Diretrizes e Bases da Educação: Lei 9.394/96. Rio de Janeiro: DP&A.
+_____. Legislação Educacional Brasileira. Rio de Janeiro: DP&A.
+OLIVEIRA, R. P. Política Educacional: Impasses e Alternativas. São Paulo: Cortez.
+TOSCHI, M. S.; FALEIRO, M. O. L. A LDB do Estado de Goiás: Lei 26/98: Análises e Perspectivas. Goiânia:
+Alternativa.
+SILVA, T. T.; GENTILI, P. Escola S. A.: Quem Ganha e Quem Perde no Mercado Educacional do
+Neoliberalismo. CNTE, Brasília, 1996.
+
+PRÁTICA DE ENSINO I
+Análise do Livro Didático, dos Projetos de Ensino de Física e suas histórias. As diretrizes para o estudo das
+relações étnico-raciais. Relação entre os conteúdos abordados nas disciplinas de Física com a prática do ensino
+desses conteúdos na Educação Básica. Elaboração e apresentação de aulas simuladas de conteúdos de Física I.
+Bibliografia Básica:
+YOUNG, H. D.; FREEDMAN, R. A. Física I: Mecânica, vol. 1. São Paulo: Addison Wesley.
+_____. Física II: Termodinâmica e Ondas, vol. 2. São Paulo: Addison Wesley.
+_____. Física III: Eletromagnetismo, vol. 3. São Paulo: Addison Wesley.
+
+
+                                                                                                            35
+_____. Física IV: Óptica e Física Moderna, vol. 4. São Paulo: Addison Wesley.
+ALVES FILHO, J. P.; PINHEIRO, T. F. Instrumentação para o Ensino de Física A. Goiânia: FUNAPE.
+FRACALANZA, H.; MEGID-NETO, J. O Livro Didático de Ciências no Brasil. Campinas: Komedi.
+FREITAG, B.; MOTTA, V. R.; COSTA, W. F. O Livro Didático em Questão. São Paulo: Cortez.
+Bibliografia Complementar:
+ÁLVARÉS, B. A.;. LUZ, A. M. R. Curso de Física, vol. 1. São Paulo: Harbra.
+ANTUNES, A. A. N. Física: Escola Nova, vol. 1. São Paulo: Moderna.
+ASTOLFI, J.-P.; DELEVAY, M. A Didática das Ciências. Campinas: Papirus.
+BRASIL. Ministério da Educação. Secretaria da Educação Média e Tecnológica. Parâmetros Curriculares
+Nacionais + (PCN+) - Ciências da Natureza e suas Tecnologias. Brasília: MEC, 2002. Disponível em:
+<http://portal.mec.gov.br/index.php?id=12598:publicacoes&option=com_content&view=article>. Acesso em:
+02 junho 2014.
+CACHAPUZ, A.; PRAIA, J.; JORGE, M. Da educação em ciência às orientações para o ensino de ciências: um
+repensar epistemológico. In: Ciência & Educação, v. 10, n. 3, p. 363-381, 2004. Disponível em:
+<http://www.scielo.br/scielo.php?script=sci_serial&pid=1516-7313>. Acesso em: 02 junho 2014.
+COHEN, B. I. O Nascimento de uma Nova Física: de Copérnico a Newton. São Paulo: Edart.
+FEYNMAN, R. P. O Que é uma Lei Física. Lisboa: Gradiva.
+GIL-PEREZ, D.; MONTORO, I. F.; CARRASCOSA, J. A.; CACHAPÚZ, A.; PRAIA, J. Para uma imagem não
+deformada do trabalho científico. In: Ciência & Educação, v. 7, n. 2, p. 125-153, 2001. Disponível em:
+<http://www.scielo.br/scielo.php?script=sci_serial&pid=1516-7313>. Acesso em: 02 junho 2014.
+GRANGER, G. G. A Ciência e as Ciências. São Paulo: UNESP.
+GREF (Grupo de Reelaboração do Ensino de Física). Física 1: Mecânica. São Paulo: EDUSP.
+LOPES. A. Livros didáticos: obstáculos ao aprendizado da ciência química. In: Química Nova, v. 15, n. 3, p.
+254-261, 1992. Disponível em: <http://quimicanova.sbq.org.br/>. Acesso em: 06 junho 2014.
+12. MEGID NETO, J.; FRACALANZA, H. O livro didático de ciências: problemas e soluções. In: Ciência &
+Educação, v. 9, n. 2, p. 147- 157, 2003. Disponível em: <http://www.scielo.br/scielo.php?script=sci_
+serial&pid=1516-7313>. Acesso em: 02 junho 2014.
+MOREIRA, M.; AXT, R. O livro didático como veículo de ênfases curriculares no ensino de Física. In: Revista
+Brasileira de Ensino de Física, v. 8, n. 1, p. 33-48, jun/1986. Disponível em: < http://www.sbfisica.org.br/
+rbef/pdf/vol08a04.pdf >. Acesso em: 06 junho 2014.
+MOREIRA, M. A. O professor-pesquisador como instrumento de melhoria do Ensino de Ciências. In: Em
+Aberto, v. 7, n. 40, p. 43-54, out/dez, 1988. Disponível em: <http://emaberto.inep.gov.br/index.php/emaberto>.
+Acesso em: 06 junho 2014.
+MOREIRA, M. Ensino de Física no Brasil: retrospectivas e perspectivas. In: Revista Brasileira de Ensino de
+Física, v. 22, n. 1, p. 94-99, mar/2000. Disponível em: <http://www.sbfisica.org.br/rbef/pdf/v22_94.pdf >.
+Acesso em: 06 junho 2014.
+OREAR, J. Física Programada: Manual. Rio de Janeiro: LTC.
+POZO, J. I.; CRESPO, M. Á. G. A Aprendizagem e o Ensino de Ciências: Do Conhecimento Cotidiano ao
+Conhecimento Científico. Porto Alegre: Artmed.
+PSSC – Physical Science Study Committee (PSSC). Física, v. 1. São Paulo: EDART.
+ROSMORDUC, J. Uma História da Física e da Química: De Tales a Einstein. Rio de Janeiro: Jorge Zahar.
+SCHÖN, D. A. Educando O Profissional Reflexivo: Um Novo Design para o Ensino e a Aprendizagem. Porto
+Alegre: Artmed.
+PRÁTICA DE ENSINO II
+Avaliação da aprendizagem em Física: discussão teórica e construção de instrumentos de avaliação. Inclusão
+social de alunos com necessidades especiais: conceituação e preparação de recursos didáticos. Educação das
+relações étnico-raciais. Estratégias de resolução de problemas de Física. Elaboração e apresentação de aulas
+simuladas de conteúdos de Física II.
+Bibliografia Básica:
+YOUNG, H. D.; FREEDMAN, R. A. Física I: Mecânica, vol. 1. São Paulo: Addison Wesley.
+_____. Física II: Termodinâmica e Ondas, vol. 2. São Paulo: Addison Wesley.
+_____. Física III: Eletromagnetismo, vol. 3. São Paulo: Addison Wesley.
+_____. Física IV: Óptica e Física Moderna, vol. 4. São Paulo: Addison Wesley.
+HOFFMANN, J. M. L. Avaliação: Mito e Desafio – Uma Perspectiva Construtivista. Porto Alegre: Mediação.
+_____. Avaliação Mediadora: Uma Prática em Construção da Pré-Escola à Universidade. Porto Alegre: Mediação.
+LUCKESI, C. C. Avaliação da Aprendizagem Escolar: Estudos e Proposições. São Paulo: Cortez.
+MORETTO, V. P. Prova: Um Momento Privilegiado de Estudo, Não um Acerto de Contas. Rio de Janeiro: DP&A.
+VILLAS BOAS, B. M. F. Portfólio, Avaliação e Trabalho Pedagógico (Coleção Magistério: Formação e
+Trabalho Pedagógico). Campinas: Papirus.
+SKLIAR, C. A Surdez: Um Olhar Sobre as Diferenças. Porto Alegre: Mediação.
+PADILHA, A. M. L. Práticas Pedagógicas na Educação Especial: A Capacidade de Significar o Mundo e a
+Inserção Cultural do Deficiente Mental. Campinas: Autores Associados.
+
+
+                                                                                                           36
+Bibliografia Complementar:
+CHAVES, S. M. Avaliação da Aprendizagem no Ensino Fundamental: Realidade e Possibilidades. (Dissertação
+de Mestrado). Goiânia, UFG, 1992.
+VASCONCELLOS, C. S. Avaliação: Concepção Dialética - Libertadora do Processo de Avaliação Escolar. São
+Paulo: Libertad.
+CAMARGO, E. P. Ensino de Óptica para Alunos Cegos: Possibilidades. Curitiba: CRV.
+CAMARGO, E. P.; SILVA, D. O ensino de Física no contexto da deficiência visual: análise de uma atividade
+estruturada sobre um evento sonoro - posição de encontro de dois móveis. In: Ciência e Educação, v. 12, n. 2, p.
+155-169, 2006. Disponível em: <http://www.scielo.br/scielo.php?script=sci_serial&pid=1516-7313>. Acesso
+em: 02 junho 2014.
+CAMARGO, E. P.; NARDI, R. Dificuldades e alternativas encontradas por licenciandos para o planejamento de
+atividades de ensino de Eletromagnetismo para alunos com deficiência visual. In: Investigações em Ensino de
+Ciências, v. 12, n. 1, p. 55-69, 2007. Disponível em: <http://www.if.ufrgs.br/ienci/>. Acesso em: 02 junho 2014.
+CAMARGO, E. P.; NARDI, R.; CORREIA, J. N. A comunicação como barreira à inclusão de alunos com
+deficiência visual em aulas de Física Moderna. In: Revista Brasileira de Pesquisa em Educação em Ciências, v.
+10, n. 2, p. 1-18, 2010. Disponível em: <http://revistas.if.usp.br/rbpec>. Acesso em: 02 junho 2014.
+LOURENÇO, É. Conceitos e Práticas para Refletir Sobre a Educação Inclusiva. Ouro Preto: UFOP.
+SANTOS, M. P.; PAULINO, M. M. Inclusão em Educação: Culturas, Políticas E Práticas. São Paulo: Cortez.
+BEYER, H. O. Inclusão e Avaliação na Escola: De Alunos com Necessidades Educacionais Especiais. Porto
+Alegre: Mediação.
+MARTÍNEZ, A. M.; TACCA, M. C. V. R. Possibilidades de Aprendizagem: Ações Pedagógicas para Alunos
+com Dificuldade e Deficiência. Campinas: Alínea.
+SANT'ANA, I. M. Educação inclusiva: concepções de professores e diretores. In: Psicologia em Estudo, v. 10, nº
+2, agosto, 2005, p. 227-234: Disponível em: <http://www.redalyc.org/articulo.oa?id=287122083009>.
+AFONSO, G. Mitos e estações no céu tupi-guarani. Scientific American Brasil. Fevereiro de 2006, pág. 46.
+BORGES, L. C. Evolução do registro do tempo. Scientific American Brasil. fevereiro de 2006, pág. 39.
+FABIAN, S. M. Astrônomos do Cerrado. Scientific American Brasil. fevereiro de 2006, pág. 57.
+CAMPOS, M. D. A cosmologia dos Caiapó. Scientific American Brasil. fevereiro de 2006, pág. 63.
+AFONSO, G. Relações Afro-Indígenas. Scientific American Brasil. fevereiro de 2006, pág. 72.
+LIMA, F. P. Astronomia indígena na literatura. Scientific American Brasil. fevereiro de 2006, pág. 80.
+SILVA, M. P. Novas diretrizes curriculares para o estuda da história e da cultura afrobrasileira e africana: a Lei
+10.639/03 Disponível em: <http://www4.uninove.br/ojs/index.php/eccos/issue/view/40>. Acesso em: 09 junho 2014.
+PAULA, B. X.; PERON, C. M. R. (Orgs.) Educação, história e cultura da África e afrobrasileira: Teorias e
+experiências. Uberlândia: UFU.
+SANTOS, G. A. Selvagens, exóticos, demoníacos. Ideias e imagens sobre uma gente de cor preta. In: ESTUDOS
+AFRO-ASIÁTICOS. Revista do Centro de Estudos Afro-Asiáticos (CEAA). Rio de Janeiro: Universidade
+Cândido Mendes, Ano 24, no 2, 2002, pp. 275-289.
+FONSECA, M. N. S. (Org.). Brasil afro-brasileiro. Belo Horizonte: Autêntica.
+MATTOS, R. A. História e cultura afro-brasileira. São Paulo: Contexto.
+
+PSICOLOGIA DA EDUCAÇÃO I
+Introdução ao estudo da Psicologia: fundamentos históricos e epistemológicos; a relação Psicologia e Educação.
+Abordagens teóricas: comportamental e psicanalítica e suas contribuições para a compreensão do
+desenvolvimento cognitivo, afetivo, social e psicomotor e suas implicações no processo ensino-aprendizagem.
+Bibliografia Básica:
+BETTELHEIM, B. A Psicanálise dos Contos de Fadas. Rio de Janeiro: Paz e Terra.
+BOCK, A. M. B.; FURTADO, O.; TEIXEIRA, M. L. Psicologias: Uma Introdução ao Estudo da Psicologia. São
+Paulo: Saraiva.
+D’ANDREA, F. F. Desenvolvimento da Personalidade: Enfoque Psicodinâmico. São Paulo: Difel: Bertrand Brasil.
+GOULART, I. B. Psicologia da Educação: Fundamentos Teóricos e Aplicações à Prática Pedagógica. Petrópolis:
+Vozes.
+MIZUKAMI, M. G. N. Ensino: As Abordagens do Processo. São Paulo: EPU.
+Bibliografia Complementar:
+FREUD, S. Obras Completas. Rio de Janeiro: Imago.
+RAMOS, G. Infância. Rio de Janeiro: Record.
+KUPFER, M. C. M. Freud e a Educação: O Mestre do Impossível. São Paulo: Scipione.
+MATTOS, M. A. Análise das contingências no aprender e no ensinar. In: ALENCAR, E. S. (Org.) Novas
+contribuições da psicologia aos processos de ensino e aprendizagem. São Paulo: Cortez.
+ROUDINESCO, E. Por Que a Psicanálise? Rio de Janeiro: Jorge Zahar.
+
+
+                                                                                                               37
+SKINNER, B. F. Ciência e Comportamento Humano. São Paulo: Martins Fontes.
+SKINNER, B. F. Sobre o Behaviorismo. São Paulo: Cultrix.
+
+QUÍMICA ORGÂNICA
+Moléculas orgânicas: ressonância, polaridade, interações intermoleculares. Funções orgânicas e noções de
+estereoquímica. Acidez e basicidade em química orgânica. Princípios de reatividade em química orgânica.
+Bibliografia Básica:
+SOLOMONS, T. W. G.; FRYHLE, C. B. Química Orgânica, vol. 1. LTC.
+VOLLHARDT, K. P. C.; SCHORE, N. E. Química Orgânica: Estrutura e Função. Bookman.
+BRUICE, P.Y. Organic Chemistry. Pearson.
+Bibliografia Complementar:
+CLAYDEN, J.; GREEVES, N.; WARREN, S.; WOTHERS, P. Organic Chemistry. Oxford University.
+MCMURRY, J. Química Orgânica, vol. 1. Thomson Pioneira.
+MORRISON, R. T.; BOYD, R. N. Química Orgânica. Fundação Calouste Gulbenkian.
+COSTA, P.; FERREIRA, V. F.; ESTEVES, P.; VASCONCELLOS, M. Ácidos e Bases em Química Orgânica.
+Bookman, 2004.
+
+TÉCNICAS EXPERIMENTAIS I
+Ementa: Análises Térmicas: Análise Termogravimétrica (TG), Calorimetria Exploratória Diferencial (DSC),
+Análise Térmica Diferencial (DTA) e Análise Termomecânica (TMA). Difratometria de Raios X (DRX);
+Microscopia Eletrônica de Varredura (MEV). Microanálise Eletrônica (EDS e WDS). Microscopia Eletrônica de
+Transmissão (MET). Microscopia de Força Atômica (MFA).
+Bibliografia Básica:
+BROWN, M. E. Introduction to Thermal Analysis: Techniques and Applications. Kluwer Academic.
+CULLITY, B. D.; STOCK, S. R. Elements of X-Ray Diffraction. Prentice Hall.
+HOLLER, F. J.; SKOOG, D. A.; CROUCH, S. R. Princípios de Análise Instrumental. Porto Alegre: Bookman.
+SKOOG, D. A.; WEST, D. M.; HOLLER, F. J.; CROUCH, S. R. Fundamentos de Química Analítica. Pioneira
+Thomson Learning.
+EGERTON, R. F. Physical Principles of Electron Microscopy. Springer.
+ZANETTE, S. I. Introdução à Microscopia de Força Atômica. Rio de Janeiro: CBPF/Livraria da Física.
+Bibliografia Complementar:
+HOLLER, F. J.; SKOOG, D. A.; CROUCH, S. R. Princípios de Análise Instrumental. 2. Porto Alegre: Bookman.
+SKOOG, D. A.; et al. Fundamentos de Química Analítica. Sao Paulo: Thomson.
+SKOOG, D. A.; WEST, D. N. Fundamentos de Química Analítica. Barcelona: Reverte.
+RANGE, R. L. Fundamentos de Química Analítica. Cidade do México: Limusa.
+SKOOG, D. A.; et al. Fundamentos de Química Analítica. São Paulo: Cengage Learning.
+
+TÉCNICAS EXPERIMENTAIS II
+Fundamentos Instrumentais e Aplicações das Técnicas Espectroscópicas. Luminescência: Fluorescência e
+Fosforescência, Termoluminescência. Espectroscopia de Absorção Ultravioleta e Visível (UV-Vis).
+Espectroscopia Vibracional no Infravermelho com Transformada de Fourier (FTIR). Espectroscopia Raman.
+Espectroscopia de Ressonânica Magnética Nuclear (RMN). Ressonância Paramagnética Eletrônica (RPE).
+Bibliografia Básica:
+HOLLER, F. J.; SKOOG, D. A.; CROUCH, S. R. Princípios de Análise Instrumental. Porto Alegre: Bookman.
+SKOOG, D. A.; WEST, D. M.; HOLLER, F. J.; CROUCH, S. R. Fundamentos de Química Analítica. Pioneira
+Thomson Learning.
+GARCIA SOLÉ, J.; BAUSÁ, L. E.; JAQUE, D. An Introduction to the Optical Spectroscopy of Inorganic
+Solids. Wiley.
+SALA, O. Fundamentos da Espectroscopia Raman e no Infravermelho. São Paulo: Unesp.
+WEIL, J. A., BOLTON, J. R.; WERTZ, J. E. Electron Paramagnetic Resonance: Elementary Theory and
+Practical Applications. Wiley.
+Bibliografia Complementar:
+SKOOG, D. A.; et al. Fundamentos de Química Analítica. Sao Paulo: Thomson.
+SKOOG, D. A.; WEST, D. N. Fundamentos de Química Analítica. Barcelona: Reverte.
+RANGE, R. L. Fundamentos de Química Analítica. Cidade do México: Limusa.
+SKOOG, D. A.; et al. Fundamentos de Química Analítica. São Paulo: Cengage Learning.
+BLASSE, G.; GRABMAIER, B. C. Luminescent Materials. Springer.
+
+                                                                                                           38
+7.4    Atividades Complementares
+         Através de atividades extracurriculares, o aluno tem a oportunidade de complementar
+os conhecimentos, adquiridos nas disciplinas da grade curricular, e enriquecer sua vivência
+universitária através da participação em outras atividades acadêmicas. No sentido de estimular
+essa vivência acadêmica extracurricular, o aluno deve comprovar a participação em, pelo
+menos, 160 horas de atividades complementares ao longo do Curso.
+         Para efeito da contagem desta carga horária o aluno deve comprovar junto à
+coordenação do curso a sua participação em atividades, tais como: congressos, seminários,
+palestras, minicursos e oficinas. Embora o aluno possa realizar no próprio Instituto de Física
+uma série de atividades que se caracterizam como atividades complementares, ele deve buscá-
+las também em outras unidades da UFG, em outras universidades, instituições ou mesmo
+junto à comunidade em geral.
+         A regulamentação das atividades complementares deverá ser feita pelo Núcleo
+Docente Estruturante e aprovada pelo Conselho Diretor do Instituto de Física, devendo ficar
+disponível na página do curso, bem como integrar o Manual do Curso.
+
+
+
+8      POLÍTICA E GESTÃO DE ESTÁGIO CURRICULAR
+
+          A realização de um estágio não é requisito obrigatório para a conclusão do curso de
+Bacharelado em Física por se tratar de um curso que não possui caráter essencialmente
+profissionalizante. Portanto não há estágio curricular obrigatório no curso de Bacharelado em
+Física. Entretanto os alunos interessados podem realizar atividades de estágio não obrigatório.
+          O estágio não obrigatório deverá ser realizado de acordo com a Lei Federal nº
+11.788, de 25 de setembro de 2008 e com as Resoluções CEPEC/UFG no 731, 766 e 880 e
+demais normas elaboradas pela Coordenadoria de Estágios da PROGRAD. O estágio constará
+no histórico escolar, de acordo com as normas do RGCG.
+          Uma possibilidade é a realização de estágio em alguma empresa conveniada
+diretamente com a UFG ou com agente de integração que seja conveniado com a UFG. No
+local de estágio deve haver um supervisor responsável pelo acompanhamento do aluno
+enquanto que na Universidade o acompanhamento deverá ser feito por um orientador de
+estágio. O orientador pode ser qualquer professor do Instituto de Física. O aluno deverá
+elaborar o plano de estágio juntamente com o orientador e o supervisor. Além disso é
+obrigatório o preenchimento do termo de compromisso, a contratação de seguro (que deve ser
+feito pela empresa), o registro da frequência e a apresentação de relatório final.
+          Para que possa realizar esse tipo de estágio o aluno deverá ter sido aprovado em
+todas as disciplinas obrigatórias previstas nos 4 primeiros semestres do fluxo sugerido, tendo
+assim uma bagagem mínima de conhecimentos que possa utilizar na realização de seu estágio.
+Além disso, o estágio deverá ser desenvolvido apenas em tempo parcial e não poderá exceder
+20 horas semanais, de modo que não prejudique o desempenho do estudante no Curso.
+          O coordenador de estágio do curso de Bacharelado em Física será responsável pelos
+tramites burocráticos, pelo cumprimento do termo de compromisso e pela avaliação do
+relatório final, de acordo com o que dispõe a Lei 11.788/2008 e as Resoluções CEPEC
+766/2005 e 880/2008. O coordenador de estágio será definido pelo Conselho Diretor do IF.
+
+                                                                                            39
+9      TRABALHO DE CONCLUSÃO DE CURSO
+
+         Na formação do Bacharel em Física, dentro do perfil descrito anteriormente, e de
+acordo com os objetivos do projeto pedagógico do Curso, é de fundamental importância o
+engajamento dos alunos, durante a graduação, em atividades de pesquisa científica. Isso, de
+certa forma, é exigido através da necessidade de se apresentar um Trabalho de Conclusão de
+Curso (TCC), na forma de uma monografia, em que o aluno deverá expor os resultados de uma
+investigação científica promovida por ele a respeito de um tema de pesquisa relacionado à
+Física. A condução da investigação científica e a elaboração da monografia devem ser feitas sob
+orientação de um professor da UFG que deverá ser escolhido até o penúltimo semestre do curso.
+A monografia deverá ser defendida pelo aluno perante uma banca examinadora composta pelo
+orientador e mais dois professores da UFG. O TCC será registrado no histórico escolar através
+de uma disciplina (39 na Matriz Curricular), com carga horária de 32 horas-aula.
+         A normatização do TCC deverá ser feita pelo Núcleo Docente Estruturante e
+aprovada pelo Conselho Diretor do Instituto de Física e deverá ficar disponível na página do
+Curso, bem como integrar o Manual do Curso.
+
+
+
+10     INTEGRAÇÃO ENTRE ENSINO, PESQUISA E EXTENSÃO
+
+         A principal função da Universidade é formar profissionais bem qualificados que irão
+desenvolver suas atividades profissionais com competência, contribuindo para o
+desenvolvimento tecnológico, econômico e social do país. A geração de conhecimento,
+através de pesquisa científica, é outra importante missão das universidades, principalmente
+porque o país carece de instituições de pesquisa e, portanto, cabe às universidades, em grande
+parte, promover o desenvolvimento científico e tecnológico do país.
+         Já a extensão diz respeito às outras maneiras pelas quais a Universidade retorna à
+sociedade o investimento que nela foi depositado. Isso pode ser feito através da prestação de
+serviços, tanto para a comunidade como para o setor empresarial. Também pode ser feito
+através da oferta de cursos de aprimoramento profissional, especialização e outros. Outra
+maneira importante de dar retorno à sociedade é através de divulgação científica em geral,
+bem como divulgando as ações da Universidade, tanto na formação de profissionais, quanto
+na pesquisa e na geração de conhecimento, e mesmo na inovação tecnológica.
+         Assim, um dos princípios básicos do funcionamento da UFG assenta-se sobre a
+indissociabilidade entre o ensino, a pesquisa e a extensão. Procura-se desta forma garantir que
+a universidade cumpra as suas funções essenciais de formar pessoas altamente qualificadas,
+de fazer progredir o conhecimento através da pesquisa científica e de estender à comunidade
+os benefícios destes conhecimentos.
+
+
+10.1   Iniciação Científica
+         A integração entre o ensino e a pesquisa é exercida no curso de Bacharelado em
+Física através do engajamento dos alunos em atividades de pesquisa, onde ele irá utilizar os
+conhecimentos obtidos em sala de aula para realizar investigações a respeito de algum tema
+de Física que vai além do conteúdo explorado nas disciplinas. Nesse processo há uma
+interação entre ensino e pesquisa muito importante para a formação do estudante, onde ele
+percebe mais vivamente a aplicação dos conceitos discutidos em sala nos temas relevantes e
+atuais da ciência. Nesse processo há ainda a necessidade recorrente do aluno de expor seus
+resultados em seminários, nos quais ele terá que exercer suas habilidades para ensinar o tema
+estudado.
+
+                                                                                            40
+          Dessa forma, a participação em atividades de pesquisa é fortemente encorajada
+através de programas de Iniciação Científica (IC) seja de forma remunerada ou voluntária.
+Esses programas, como se sabe, estão já muito bem estabelecidos na UFG e, portanto, a
+participação em atividades de pesquisa já faz parte da formação do Bacharel em Física, o qual
+geralmente utiliza essa experiência em IC para escrever sua monografia referente ao TCC.
+Para participar dessas atividades, o aluno deverá procurar um orientador e elaborar com o
+mesmo um plano de trabalho que será desenvolvido pelo estudante.
+          Do ponto de vista formal, o plano de trabalho, tanto de alunos de IC com bolsa
+quanto voluntários, é submetido à avaliação de pareceristas internos e externos, dentro das
+normas do Programa Institucional de Iniciação Científica e Tecnológica (PIICT) da UFG. Os
+planos de trabalho aprovados são então desenvolvidos dentro do PIICT e são apresentados, no
+ano seguinte, no Seminário de Iniciação Científica da UFG, que é realizado anualmente, e que
+tem acontecido nos últimos anos durante o Congresso de Ensino, Pesquisa e Extensão da
+UFG. O cumprimento de todos esses requisitos formais confere ao estudante um certificado
+de participação no Programa de IC da UFG. Outra possibilidade, do ponto de vista formal, é
+através de programas de bolsas de IC diretamente de agências de fomento como o CNPq e a
+Fundação de Amparo à Pesquisa no Estado de Goiás (FAPEG). De qualquer forma o aluno
+deverá apresentar seu trabalho no Seminário de Iniciação Científica da UFG.
+          Para os alunos que irão se engajar em um curso de Pós-Graduação em Física ou áreas
+afins, a participação em projetos de IC é de enorme importância, tanto para aqueles estudantes
+que realizarão seus estudos em nível de mestrado ou doutorado na mesma área do projeto de
+IC (situação em que a experiência adquirida na graduação certamente irá impactar
+positivamente na qualidade do trabalho de mestrado/doutorado e no tempo necessário para a
+defesa da dissertação/tese) quanto para os estudantes que irão fazer mestrado ou doutorado em
+outra área.
+          De fato, apesar de acontecer com pouca frequência, os alunos têm a oportunidade de,
+durante a graduação, se engajar em projetos de IC relacionados a áreas diferentes e assim ter
+contato com visões diferentes da Física. Isso é possível porque o aluno pode se envolver com
+IC já no segundo ano de graduação, e os projetos de IC são dimensionados para o período de
+um ano, sendo possível, portanto, que o aluno participe de dois, e eventualmente até três
+projetos de IC ao longo do curso. Por motivos práticos, entretanto, a maioria dos alunos
+desenvolve os dois ou três projetos de IC na mesma área.
+
+
+10.2   Extensão
+          Os programas de extensão são aqueles que conectam a universidade com a sociedade
+de maneira mais direta e mais ampla. Apesar de a UFG realizar ações de extensão muito
+importantes em suas várias unidades, essa dimensão ainda é contemplada de maneira tímida
+pela instituição como um todo, e em particular pelo Instituto de Física, e é importante
+melhorarmos de um modo geral nossa conexão com a sociedade.
+          Nesse espírito, o IF tem se preocupado cada vez mais em promover atividades de
+extensão. Algumas ações têm sido realizadas recentemente, como a Escola de Física, focada
+em divulgação científica, que é voltada para alunos do ensino médio. Outra ação já mais
+tradicional, a Semana da Física, é realizada há 31 anos e é voltada para alunos de graduação e
+pós-graduação, da UFG e de outras universidades. Outro programa de extensão do IF, em
+parceria com o Instituto de Química, é o Pátio da Ciência, espaço próprio para a divulgação
+científica onde se demonstram experimentos científicos diversos, tendo como público alvo os
+alunos do ensino médio. Um detalhe importante é que em todas essas ações, é bastante
+encorajada a participação dos estudantes de graduação.
+
+                                                                                           41
+11     SISTEMA DE AVALIAÇÃO                   DO    PROCESSO         DE    ENSINO       E   DE
+       APRENDIZAGEM
+
+          A avaliação da aprendizagem é parte integrante e essencial em todo processo
+educativo. A avaliação é um instrumento extremamente importante para assegurar o
+cumprimento dos objetivos do curso, que se desmembra em objetivos dos percursos
+temáticos, que por sua vez se desmembram em objetivos das disciplinas.
+          Nesse sentido, a avaliação será concebida como um processo abrangente, que
+implicará na reflexão crítica para captar os avanços, resistências e as dificuldades, bem como
+possibilitar tomadas de decisões para poder superar obstáculos do processo educativo. Os
+professores trabalharão na elaboração significativa do conhecimento, no desenvolvimento da
+autonomia e da autoconfiança.
+          Os mecanismos de avaliação da aprendizagem são múltiplos e variam de professor a
+professor, e muitas vezes, de disciplina a disciplina. Provas, seminários, listas de exercícios,
+relatórios, trabalhos em grupo, participação nas atividades em classe e extraclasse são alguns
+dos instrumentos normalmente utilizados pelos docentes na avaliação da aprendizagem. O
+professor goza de autonomia para decidir sobre os instrumentos mais adequados para a
+disciplina que irá ministrar, mas sempre observando o que estabelece o RGCG, na Resolução
+CEPEC nº 1122/2012.
+          Com relação ao Projeto de Curso, cabe ao Núcleo Docente Estruturante (NDE) do
+Curso de Bacharelado em Física acompanhar e avaliar a sua implantação e desenvolvimento,
+bem como propor as medidas necessárias para a melhoria do curso ao Conselho Diretor.
+Dessa forma, o NDE se reúne periodicamente para analisar diversos aspectos relacionados ao
+curso, como, por exemplo, as avaliações discentes da CAVI. Naturalmente, o NDE também se
+reunirá pra analisar avaliações do MEC (ENADE, CPC, etc.) sempre que elas ocorrerem.
+          A percepção dos alunos, que é angariada pela Instituição em avaliações discentes e
+em outras consultas esporádicas, ou mesmo informalmente, constitui também uma informação
+importante para se decidir sobre eventuais correções de rumo.
+
+
+
+12     SISTEMA DE AVALIAÇÃO DO PROJETO DE CURSO
+
+         Além dos instrumentos institucionais oriundos do MEC, como avaliação para
+autorização, reconhecimento e renovação do curso e ENADE, a curso de Bacharelado em
+Física será continuamente avaliado através do seu corpo docente, por meio de instrumentos a
+serem criados pelo Núcleo Docente Estruturante (NDE).
+
+
+
+13     POLÍTICA DE QUALIFICAÇÃO DOS DOCENTES E SERVIDORES
+       TÉCNICO-ADMINISTRATIVOS
+
+          É política do Instituto incentivar os professores na participação em programas de
+pós-doutorado – atualmente, todos os professores do IF são doutores – encontros e congressos
+científicos. Incentivamos também os servidores técnico-administrativos a se qualificarem
+através de cursos oferecidos pelo Departamento de Desenvolvimento de Recursos Humanos
+da Universidade Federal de Goiás, ou mesmo através de cursos de pós-graduação oferecidos
+em diversas instituições.
+
+                                                                                             42
+14     REQUISITOS LEGAIS E NORMATIVOS
+
+14.1   Educação das Relações Étnico-Raciais
+        A Resolução CNE/CP nº 01/2004 estabelece, no § 1° do Art. 1°, que:
+                       “As Instituições de Ensino Superior incluirão nos conteúdos de disciplinas e
+                       atividades curriculares dos cursos que ministram, a Educação das Relações Étnico-
+                       Raciais, bem como o tratamento de questões e temáticas que dizem respeito aos
+                       afrodescendentes, nos termos explicitados no Parecer CNE/CP 3/2004.”
+
+        A principal maneira pela qual se contempla a resolução é através de disciplinas
+optativas do Bacharelado que são obrigatórias na Licenciatura, como Fundamentos
+Filosóficos e Sócio-históricos da Educação ou Políticas Educacionais no Brasil, ministradas
+pela Faculdade de Educação, bem como Prática de Ensino I e Prática de Ensino II,
+ministradas pelo IF. Essas disciplinas são propícias para a discussão das temáticas
+relacionadas à Educação das Relações Étnico-Raciais com um pouco mais de profundidade.
+         Outra maneira de atender a essas demandas é através da oferta de disciplinas de
+Núcleo Livre com essa temática. Com frequência, as unidades da UFG ofertam disciplinas
+relacionadas à história e cultura afrodescendente e/ou indígena. Vale esclarecer que, segundo
+o RGCG (Resolução CEPEC nº 1122/2012), todas as vagas não preenchidas em quaisquer
+disciplinas ofertadas pela UFG, esgotados os prazos para inclusão e cancelamento, se tornam
+vagas de Núcleo Livre, e portanto acessíveis a qualquer estudante da UFG.
+         Além disso, diversas atividades acadêmicas voltadas para a discussão desses temas,
+como seminários e minicursos, são frequentemente promovidas pela UFG. A participação dos
+estudantes nessas atividades acadêmicas é fortemente encorajada pelo IF, sendo reconhecida
+como parte importante da formação do indivíduo. Do ponto de vista prático, essas atividades
+são reconhecidas como válidas para integralização das 160 horas mínimas de Atividades
+Complementares.
+
+
+14.2   Educação em Direitos Humanos
+        A Resolução CNE/CP nº 01/2012 estabelece, no Art. 6o, que:
+                       “A Educação em Direitos Humanos, de modo transversal, deverá ser considerada na
+                       construção dos Projetos Político-pedagógicos (PPP); dos Regimentos Escolares; dos
+                       Planos de Desenvolvimento Institucionais (PDI); dos Programas Pedagógicos de
+                       Curso (PPC) das Instituições de Educação Superior; dos materiais didáticos e
+                       pedagógicos; do modelo de ensino, pesquisa e extensão; de gestão, bem como dos
+                       diferentes processos de avaliação.”
+
+         Já no Parecer 08/2012, que dá embasamento à Resolução CNE/CP 01/2012, no seu
+item 4.2, de título “Na Educação Superior”, coloca no seu parágrafo 3o que:
+                       “Vê-se, com isso, que a inserção da Educação em Direitos Humanos na Educação
+                       Superior deve ser transversalizada em todas as esferas institucionais, abrangendo o
+                       ensino, a pesquisa, a extensão e a gestão. No ensino, por exemplo, os Direitos
+                       Humanos, nos projetos pedagógicos dos cursos e suas atividades curriculares,
+                       podem ser incluídos como conteúdos complementares e flexíveis, por meio de
+                       seminários e atividades interdisciplinares, como disciplinas obrigatórias e/ou
+                       optativas ou ainda de maneira mista, combinando mais de um modo de inserção por
+                       meio do dialogo com varias áreas de conhecimento. Como ação transversal e
+                       interdisciplinar, numa perspectiva crítica de currículo, a EDH propõe a relação entre
+                       teoria e prática, entre as garantias formais e a efetivação dos direitos.” (grifo nosso).
+
+
+
+                                                                                                             43
+         Dessa forma, a maneira de atender a essa resolução é essencialmente a mesma
+mostrada anteriormente, ou seja, através das disciplinas optativas Fundamentos Filosóficos e
+Sócio-históricos da Educação, Políticas Educacionais no Brasil, Prática de Ensino I e Prática
+de Ensino II, que são propícias para discutir essa temática; através da oferta de disciplinas de
+Núcleo Livre que abordam essa temática; através de seminários, minicursos etc., que são
+frequentemente promovidas pela UFG, onde a participação dos estudantes é fortemente
+encorajada pelo IF, sendo reconhecida como parte importante da formação do indivíduo e
+validada para integralização das 160 horas mínimas de Atividades Complementares.
+
+
+14.3   Educação Ambiental
+         Em atendimento à lei nº 9.795/1999 regulamentada pelo decreto nº 4.281/2002, a
+disciplina Física e Meio Ambiente foi incluída no rol de disciplinas optativas do curso. Essa
+disciplina é obrigatória no curso de Engenharia Física e será ofertada pelo próprio IF
+anualmente.
+         Além disso, há uma abordagem transversal do tema “Meio Ambiente” através de
+diversas disciplinas obrigatórias do Núcleo Comum do curso. Esse tema não está explicitado
+nas ementas das disciplinas, mas está associado a tópicos mais gerais e constará nos
+programas das disciplinas, onde se descreve mais detalhadamente os tópicos das ementas.
+Especificamente, pode-se ressaltar que nas disciplinas:
+          Física I: no tópico “Energia potencial e conservação da energia” discute-se as
+            diversas transformações energéticas, como a incidência da radiação solar e sua
+            influência no ciclo da água e aquecimento global. O tópico de “Dinâmica da
+            rotação de corpos rígidos”, permite discutir as dimensões da barragem de uma
+            hidrelétrica e seu impacto ambiental;
+          Física II: os tópicos “Ondas mecânicas” e “Som e audição” fornecem a
+            oportunidade para discutir a poluição sonora devido à atividade humana e seus
+            impactos. Pode-se discutir, por exemplo, como sonares de submarinos afetam as
+            baleias, e como algumas tecnologias afetam a vida no planeta Terra. O tópico
+            “Gravitação” nos permite discutir os impactos dos satélites artificiais. O tópico
+            “Mecânica dos fluidos” permite a discussão da produção da energia eólica e seus
+            impactos sobre o meio ambiente. Os conteúdos de termodinâmica estão
+            intimamente relacionados com diversos processos ambientais, tais como: conforto
+            térmico, mudanças climáticas, poluição, eutrofização de rios e lagos e resíduos
+            gerados pelas diversas máquinas térmicas;
+          Física III: no tópico “Corrente e circuitos elétricos” pode-se abordar a
+            contaminação do solo e atmosfera causada por elementos constituintes de baterias.
+            No tópico “Indução eletromagnética” surge novamente toda a questão relacionada
+            às diversas formas de produção de energia elétrica, seus impactos ambientais e
+            seu uso racional e ético;
+          Física IV: Os tópicos “Ondas eletromagnéticas” e “Natureza e propagação da
+            luz” trazem novamente a questão do aquecimento global e mudanças climáticas.
+            Em “Fótons, elétrons e átomos” surgem questões sobre emissão e absorção de
+            radiação por objetos inanimados e seres vivos sobre a superfície terrestre.
+
+
+14.4   Libras
+         Em atendimento ao decreto nº 5.626/2005, a disciplina de Introdução à Língua
+Brasileira de Sinais – LIBRAS, foi incluída no rol de optativas do curso. Essa disciplina será
+ofertada pela Faculdade de Letras e é obrigatória no curso de Licenciatura, de modo que o
+aluno interessado poderá cursá-la.
+
+                                                                                             44
+15     LEGISLAÇÃO
+
+         O presente projeto pedagógico foi elaborado em observância à legislação pertinente e
+está em consonância com:
+          LEI nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da
+           educação nacional;
+          RESOLUÇÃO CNE/CES nº 9, de 11 de março de 2002, que estabelece as Diretrizes
+           Curriculares para os cursos de Física com base no Parecer CNE/CES 1.304/2001;
+          DECRETO nº 4.281 de 25 de junho de 2002, que regulamenta a lei nº 9.795, de
+           27 de abril de 1999, que dispõe sobre a educação ambiental;
+          RESOLUÇÃO CNE/CP nº 1, de 17 de junho de 2004, que institui as Diretrizes
+           Curriculares para a Educação das Relações Étnico-Raciais com base no Parecer
+           CNE/CP 3/2004.
+          DECRETO nº 5.626, de 22 de dezembro de 2005, que regulamenta a lei nº
+           10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais –
+           LIBRAS;
+          RESOLUÇÃO CNE/CES nº 2, de 18 de junho de 2007, que estabelece a carga
+           horária mínima para os cursos de graduação, que no caso do Bacharelado em
+           Física é de 2400 horas;
+          RESOLUÇÃO CNE/CP nº 1, de 30 de maio de 2012, que estabelece as diretrizes
+           nacionais para a Educação em Direitos Humanos, com base no Parecer CNE/CP
+           8/2008;
+          RESOLUÇÃO CEPEC nº 1122, de 9 de novembro de 2012, que estabelece o
+           novo Regulamento Geral dos Cursos de Graduação (RGCG) na Universidade
+           Federal de Goiás.
+
+
+
+16     CONSIDERAÇÕES FINAIS
+
+          Acreditamos que nesta reformulação do curso de Bacharelado em Física conseguimos
+avançar significativamente em relação ao projeto anterior. Os percursos temáticos estão mais
+lineares e coesos e numa sequência mais fluída. Esperamos que isso se reflita positivamente na
+formação de bacharéis mais bem preparados para a pós-graduação e a pesquisa, que é a função
+primária do curso, mas também bons profissionais para o mercado que, cada vez mais, absorve
+Físicos para ocupar as mais diversas funções, por causa da característica básica do profissional
+formado que é a capacitação em análise e solução de problemas.
+
+                                             ...
+
+
+
+
+                                                                                             45
+

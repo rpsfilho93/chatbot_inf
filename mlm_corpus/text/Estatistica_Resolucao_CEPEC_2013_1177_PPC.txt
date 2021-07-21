@@ -1,0 +1,2116 @@
+                          SERVIÇO PÚBLICO FEDERAL
+                        UNIVERSIDADE FEDERAL DE GOIÁS
+
+
+                         RESOLUÇÃO – CEPEC Nº 1177
+
+
+                                                   Aprova o Projeto Pedagógico do Curso de
+                                                   Graduação em Estatística, grau acadêmico
+                                                   Bacharelado, modalidade Presencial, do
+                                                   Instituto de Matemática e Estatística, para
+                                                   os alunos ingressos a partir de 2009.
+
+
+
+                      O CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E
+CULTURA DA UNIVERSIDADE FEDERAL DE GOIÁS, no uso de suas atribuições
+legais, estatutárias e regimentais, reunido em sessão plenária realizada no dia 5 de abril de
+2013, tendo em vista o que consta do processo nº 23070.011329/2008-33, e considerando:
+
+                    a) a Lei de Diretrizes e Bases - LDB (Lei 9.394/96);
+                    b) as Diretrizes Curriculares Nacionais para o Curso de Estatística, de
+                       graduação plena, em nível superior;
+                    c) a Resolução CNE/CES nº 08, de 28/11/2008;
+                    d) o Regimento e o Estatuto da UFG;
+                    e) o Regulamento Geral dos Cursos de Graduação da UFG,
+
+
+                    RESOLVE:
+
+
+                      Art. 1º Aprovar o Projeto Pedagógico do Curso de Graduação em
+Estatística, grau acadêmico Bacharelado, modalidade Presencial, grau acadêmico Bacharelado,
+modalidade Presencial, do Instituto de Matemática e Estatística – IME da Universidade
+Federal de Goiás, para os alunos ingressos a partir do ano letivo de 2009, na forma do Anexo
+a esta Resolução.
+
+                    Art. 2º Esta Resolução entra em vigor nesta data, revogando-se as
+disposições em contrário.
+
+
+
+                                 Goiânia, 5 de abril de 2013
+
+
+
+                               Prof. Edward Madureira Brasil
+                                        - Reitor -
+
+
+                                                                                            1
+                    ANEXO À RESOLUÇÃO – CEPEC Nº 1177
+
+
+     PROJETO PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM
+                     ESTATÍSTICA
+
+
+UNIDADE ACADÊMICA:
+      Instituto de Matemática e Estatística - IME
+
+
+DIRETOR:
+      Prof. Geci José Pereira da Silva
+
+
+COORDENADORES DO CURSO:
+     Prof. Marley Apolinário Saraiva (até janeiro/2013)
+     Prof. Luis Rodrigo Fernandes Baumann (a partir de fevereiro/2013)
+
+
+
+
+COORDENADORA ADMINISTRATIVA:
+     Marina Maria Porto de Castro
+
+
+
+
+                                     2003
+
+                                                                         2
+                                               SUMÁRIO
+1  APRESENTAÇÃO DO PROJETO .................................................................. 04
+2  OBJETIVOS GERAIS E ESPECÍFICOS.......................................................... 04
+3  PRINCÍPIOS NORTEADORES PARA A FORMAÇÃO DO PROFISSIONAL.... 04
+   3.1 A Prática Profissional E A Articulação Entre Teoria/Prática................ 04
+   3.2 A Formação Técnica ................................................................................ 05
+   3.3 A Interdisciplinaridade ............................................................................ 05
+   3.4 A Formação Ética e a Função Social do Profissional .......................... 05
+4 EXPECTATIVA DA FORMAÇÃO DO PROFISSIONAL ................................. 06
+   4.1 Perfil do Curso .......................................................................................... 06
+   4.2 Perfil e Habilidade do Egresso ................................................................ 07
+5 ESTRUTURA CURRICULAR ........................................................................... 08
+   5.1 Matriz Curricular ....................................................................................... 08
+   5.2 Carga Horária: Núcleo Comum, Núcleo Específico e Núcleo Livre .... 10
+   5.3 Elenco de Disciplinas com Ementas e Bibliografias Básicas e
+       Complementares........................................................................................ 11
+   5.4 Sugestão de Fluxo ................................................................................... 32
+   5.5 Duração do Curso em Semestres(duração mínima e máxima) ........... 33
+6 POLÍTICA E GESTÃO DO ESTÁGIO CURRICULAR OBRIGATÓRIO E
+   TRABALHO DE CONCLUSÃO DE CURSO ................................................... 33
+   6.1 Estágio Curricular Obrigatório ............................................................... 33
+   6.2 Trabalho de Conclusão de Curso (TCC) ................................................ 35
+7 ATIVIDADES COMPLEMENTARES (DEFINIÇÃO, CRITÉRIOS PARA
+   VALIDAÇÃO, CÔMPUTO E REGISTRO DAS NOTAS) .................................. 35
+8 SISTEM A DE AVALIAÇÃO DO PROCESSSO DE ENSINO E
+   APRENDIZAGEM ............................................................................................ 36
+9 INTEGRAÇÃO ENSINO, PESQUISA E EXTENSÃO ..................................... 36
+   9.1 Ensino ....................................................................................................... 36
+   9.2 Pesquisa ................................................................................................... 37
+   9.3 Extensão ................................................................................................... 37
+10 POLÍTICA DE QUALIFICAÇÃO DOCENTE E TÉCNICO-ADMINISTRATIVO .. 38
+11 SISTEMA DE AVALIAÇÃO DO PROJETO DO CURSO .................................. 38
+12 REFERÊNCIAS ............................................................................................... 39
+
+
+
+
+                                                                                                               3
+1      APRESENTAÇÃO DO PROJETO
+
+Área de Conhecimento: Ciências Exatas e da Terra
+Unidade Responsável: Instituto de Matemática e Estatística
+Modalidade: Presencial
+Curso: Estatística
+Título a Ser Conferido: Bacharel em Estatística
+Local de Oferta: Goiânia
+Número de Vagas: 50
+Carga Horária do Curso: 3.032 horas
+Duração Mínima do Curso: 8 semestres
+Duração Máxima do Curso: 15 semestres
+Turno de Funcionamento: Predominantemente noturno
+Forma de Ingresso ao Curso: Processo Seletivo
+Número de Entradas no Ano: 1
+
+
+
+
+2      OBJETIVOS GERAIS E ESPECÍFICOS
+          O Curso de Bacharelado em Estatística visa à formação de profissionais de
+estatística:
+
+        I- com as habilidades e as competências necessárias para o exercício da profissão;
+        II- com conhecimentos básicos consolidados e atualizados, sendo capazes de lidar
+             com as diversas situações-problema da área como a coleta, a organização, a
+             síntese de dados e o ajuste de modelos;
+        III- cientes da necessidade de permanente atualização profissional;
+        IV- com a capacidade de pesquisar, estudar, implementar e utilizar corretamente
+             novas técnicas para a solução de problemas;
+        V- capazes de interagir e se comunicar com profissionais e pesquisadores das mais
+             diferentes áreas do conhecimento;
+        VI- comprometidos com a ética profissional e consciente do seu papel social.
+
+
+
+
+3      PRINCÍPIOS NORTEADORES PARA A FORMAÇÃO DO PROFISSIONAL
+3.1    A Prática Profissional e a Articulação Entre a Teoria/Prática
+          A prática profissional, segundo Cunha (1992) é que define a possibilidade de
+relacionar a matéria de ensino com a vida prática, ajudando a dar exemplos e favorecendo a
+maior instrumentalização do aluno para trabalhar com a realidade.
+          A prática, sem embasamento teórico consistente, não deve ser concebida dentro de
+um sistema de ensino que seja sério. Por outro lado, a teoria pela teoria também não se
+justifica em um Curso de Graduação que tem por finalidade a formação do jovem para o
+exercício profissional futuro.
+
+
+                                                                                        4
+         Relacionar prática e teoria é fator de garantia de competência para o exercício
+profissional em qualquer profissão ou campo específico. O profissional com experiência
+prática no campo específico de atuação será mais atualizado e com visão mais ampla da
+aplicação da teoria à pratica.
+         O currículo do Curso de Graduação em Estatística permite o exercício da prática
+profissional e a articulação entre teoria/prática a partir do elenco de disciplinas propostas na
+área de formação através do componente prático de cada disciplina e também através das
+disciplinas Estágio I/TCC I e Estágio II/TCC II. Nas disciplinas Estágios os alunos terão
+contato direto com uma realidade atualizada de sua profissão.
+         O currículo desta forma permite formar um profissional que alia seu conhecimento
+teórico à prática profissional atualizada, que com certeza estará prestando um melhor serviço
+à comunidade.
+
+
+3.2    A Formação Técnica
+         A formação técnica refere-se ao domínio sobre os conteúdos específicos, qualquer
+que seja a atuação do profissional.
+         O domínio dos conteúdos específicos, acompanhado das constantes atualizações, é
+uma cobrança facilmente identificada no discurso proveniente do mercado de trabalho. Não se
+concebe um profissional que não conheça a área em que pretende trabalhar.
+         A formação técnica do profissional de estatística é trabalhada no currículo do Curso
+de Graduação em Estatística, através da porção teórica das disciplinas propostas,
+principalmente aquelas referentes à área específica de formação. A participação em
+Simpósios, Congressos, Palestras e cursos extracurriculares, será estimulada no sentido de
+criar condições para iniciação do aluno em um processo natural de produção e atualização
+constante, que ocorre extra muros da universidade após sua formação.
+         O curso está voltado, mais do que para instrumentalização de seus alunos para o
+exercício profissional, para a formação de indivíduos capazes de, com rapidez, originalidade e
+eficiência, adaptarem-se às necessidades diárias, com visão crítica do meio de atuação e
+consciência de suas responsabilidades profissionais e cidadã.
+
+
+3.3    A Interdisciplinaridade
+         O Profissional de estatística é habilitado para atuar em praticamente qualquer setor
+da atividade acadêmica ou empresarial. Essa diversidade de atuação, faz com que o
+profissional trabalhe com equipes interdisciplinares de profissionais de variada formação, em
+diferentes ramos da ciência ou tecnologia.
+         A presença de disciplinas sob responsabilidade de diferentes Unidades Acadêmicas
+que não o IME, as disciplinas de Estágio, as disciplinas de Núcleo Livre, bem como as
+Atividades Complementares, contempladas no currículo contribuem de forma determinante na
+formação multi e interdisciplinar do profissional.
+
+
+3.4    A Formação Ética e a Função Social do Profissional
+          A Ética pode ser entendida como a busca constante do bem humano, pela prática de
+justiça, com vistas a duas metas principais, a superação dos conflitos inerentes ao ser humano
+e à sociedade, e o dimensionamento dos comportamentos pessoais e coletivos no sentido da
+construção da vida feliz numa sociedade justa.
+
+                                                                                              5
+         O código de ética profissional do Estatístico foi aprovado pela resolução nº 58, de 06
+de outubro de 1976 do Conselho Federal de Estatística (CONFE), e tem por objetivo fixar
+normas de procedimento do Estatístico, quando no exercício de sua profissão, regulando-lhe
+as relações com a própria classe, com os poderes públicos e com a sociedade (Art. 1º). Na sua
+seção V, da conduta na profissão e na sociedade, diz, no exercício da profissão, que cumpre
+ao Estatístico dignificá-la, sobrepondo os interesses da coletividade aos seus interesses
+particulares (Art.17) e ainda deve envidar esforços para que se estabeleça a mais ampla
+coordenação entre todas as classes profissionais e sociais, de forma a concorrer para a maior
+harmonia coletiva (Art.18a).
+         As disciplinas de Estágios deverão ser orientadas no sentido a dar uma postura ética
+diante dos fatos e praticar a profissão dentro dos princípios da ética e cidadania.
+Adicionalmente, espera-se que a vivência na universidade também seja uma oportunidade de
+amadurecimento do aluno no processo de formação, já que neste ambiente oferece-se vários
+eventos que permitem discussões de questões políticas, humanistas, filosóficas e sociais
+significativas.
+
+
+
+
+4.     EXPECTATIVA DA FORMAÇÃO DO PROFISSIONAL
+4.1    Perfil do Curso
+         A Profissão de Estatístico foi estabelecida pela Lei nº 4739 de 15 de julho de 1965. O
+Decreto nº 62497 de 1º de abril de 1968 aprovou o regulamento da Profissão de Estatístico no
+Brasil. A Designação profissional de Estatístico é privativa:
+
+        I- dos possuidores de diploma de curso superior em Estatística no país e no exterior;
+        II- dos que, comprovadamente na data de promulgação da Lei nº 4739, ocupavam ou
+            estavam exercendo o cargo de Estatístico em entidades públicas ou privadas, ou
+            fossem professores de estatística.
+
+       De acordo com o artigo 6º da Lei 4739, "o exercício da profissão de Estatístico"
+compreende:
+
+        I-      planejar e dirigir a execução de pesquisas ou levantamentos estatísticos;
+        II-     planejar e dirigir os trabalhos de controle estatístico de produção e de
+                qualidade;
+        III-    efetuar pesquisas e análises estatísticas;
+        IV-     elaborar padronizações estatísticas;
+        V-      efetuar perícias em matéria de estatística e assinar os laudos respectivos;
+        VI-     emitir pareceres no campo da Estatística;
+        VII-    o assessoramento e a direção de órgãos e seções de Estatística;
+        VIII-   a escrituração dos livros de registro ou controle estatístico criados em lei.
+
+          A fiscalização do exercício da profissão é realizada pelo Conselho Federal de
+Estatística (CONFE) e Conselhos Regionais (CONRE). No Distrito Federal, essa fiscalização
+é exercida pelo Conselho Regional de Estatística 1ª região (CONRE1). Para exercer a
+profissão de Estatístico, é necessário obter o registro profissional junto ao CONRE de sua
+região.
+
+
+                                                                                                6
+         O curso de Estatística do IME-UFG tem como um de seus objetivos dar uma
+formação básica na maior parte das áreas de atuação do estatístico por isso optou-se por não
+definir ênfases. No entanto, o aluno tem a sua disposição um leque grande de disciplinas
+optativas, que juntamente com outras disciplinas obrigatórias permeiam em muitas das
+ênfases tradicionais oferecidas em outros cursos, tais como: ênfase para continuidade de
+estudos na pós-graduação, ênfase na área de Bioestatística e Estatística Médica, ênfase em
+Processos Industriais, ênfase na área de Econometria, ênfase na área de Ciências Atuariais,
+entre outras.
+
+
+4.2    Perfil e Habilidade do Egresso
+          Os recursos atuais de obtenção e armazenamento de dados dão uma dimensão muito
+maior do papel do Estatístico que deverá trabalhar com estes dados de forma persistente e
+criativa com a finalidade de extrair o máximo de informações possíveis através do uso de
+modernas técnicas de amostragem, modelagem e inferência. Assim o profissional de
+Estatística deverá desvendar as informações existentes e terá condições de dialogar e interagir
+com profissionais das mais diferentes áreas do conhecimento.
+          A formação acadêmica do Estatístico esta fundamentada em conhecimentos de
+Matemática, Cálculo e Teoria das Probabilidades, Técnicas e Métodos Estatísticos,
+Informática, Métodos de Análise Estatísticas e disciplinas de formação geral. A formação do
+Estatístico deve ainda permitir que ele desenvolva aptidões para solucionar problemas
+atuando como um detetive em busca de evidências quantitativas sobre determinados
+fenômenos. Para isso faz-se necessário:
+          I-     efetuar levantamentos e análises de informações;
+          II -   planejar e realizar experimentos e pesquisas em diferentes áreas do
+                 conhecimento;
+          III - formular a solução para os mais variados e complexos problemas
+                 relacionados a melhoria e otimização de processos;
+          IV - construir uma sólida base de conhecimentos matemáticos;
+          V-     incorporar habilidades no uso de recursos computacionais;
+          VI - desenvolver a boa capacidade de comunicação oral e escrita;
+          VII - estar permanentemente aberto ao aprendizado de novas técnicas e métodos de
+                 trabalho;
+          VIII - desenvolver a capacidade de trabalho em conjunto com profissionais de
+                 diferentes áreas de conhecimento.
+
+
+
+
+                                                                                             7
+         5       ESTRUTURA CURRICULAR
+
+
+         5.1     Matriz Curricular
+
+
+         Quadro 1 - Matriz Curricular – Núcleo Comum
+                                                          Unidade      Pré/Co Carga Horária
+Nº                         Disciplina                                                                   Núcleo      Área       Natureza
+                                                         Responsável   Requisit Teór Prát Total
+1    Amostragem I                                           IME        o Não há   64  32    96          Comum    Estatística   Obrigatória
+2    Análise Multivariada                                   IME          Não há   64  32    96          Comum    Estatística   Obrigatória
+3    Estatística I                                          IME          Não há   48  16    64          Comum    Estatística   Obrigatória
+4    Estatística II                                         IME          Não há   48  16    64          Comum    Estatística   Obrigatória
+5    Estatística Computacional I                            IME          Não há   48  16    64          Comum    Estatística   Obrigatória
+6    Estatística Computacional II                           IME          Não há   64  32    96          Comum    Estatística   Obrigatória
+7    Inferência I                                           IME          Não há   64        64          Comum    Estatística   Obrigatória
+8    Inferência II                                          IME          Não há   64        64          Comum    Estatística   Obrigatória
+9    Manipulação Estatística de Bancos de Dados (MEBD)      IME          Não há   32  32    64          Comum    Estatística   Obrigatória
+10   Métodos Não Paramétricos                               IME          Não há   48  16    64          Comum    Estatística   Obrigatória
+11   Modelos de Regressão                                   IME          Não há   64  32    96          Comum    Estatística   Obrigatória
+12   Modelos Lineares                                       IME          Não há   48  16    64          Comum    Estatística   Obrigatória
+13   Probabilidade I                                        IME          Não há   96        96          Comum    Estatística   Obrigatória
+14   Probabilidade II                                       IME          Não há   64        64          Comum    Estatística   Obrigatória
+15   Álgebra Linear I                                       IME          Não há   64        64          Comum    Matemática    Obrigatória
+16   Cálculo I                                              IME          Não há   96        96          Comum    Matemática    Obrigatória
+17   Cálculo II                                             IME          Não há   96        96          Comum    Matemática    Obrigatória
+18   Cálculo III                                            IME          Não há   64        64          Comum    Matemática    Obrigatória
+19   Geometria Analítica                                    IME          Não há   64        64          Comum    Matemática    Obrigatória
+20   Introdução à Computação                                 INF         Não há   32  32    64          Comum                  Obrigatória
+21   Redação e Expressão I                                    FL         Não há   64        64          Comum                  Obrigatória
+22   Inglês Instrumental                                      FL         Não há   64        64          Comum                  Obrigatória
+         IME - Instituto de Matemática e Estatística                                 Teór –         Teórica
+         INF - Instituto de Informática                                              Prát - Prática
+         FL –  Faculdade de Letras
+
+
+                                                                                                                                             8
+        Quadro 2 - Matriz Curricular – Núcleo Específico
+                                                                                          Carga Horária
+                                                            Unidade       Pré / Co
+Nº                              Disciplina                                                                      Núcleo        Área          Natureza
+                                                           Responsável    Requisito
+                                                                                          Teór   Prát Total
+1    Análise de Dados Categorizados                           IME           Não há          48    16      64   Específico   Estatística    Obrigatória
+2    Análise de Séries Temporais                              IME           Não há          48    16      64   Específico   Estatística    Obrigatória
+3    Controle Estatístico de Qualidade                        IME           Não há          48    16      64   Específico   Estatística    Obrigatória
+4    Estágio I                                                IME             (*)           32    64      96   Específico   Estatística   Optativa (***)
+5    Estágio II                                               IME        Estágio I/ Pré     32    64      96   Específico   Estatística   Optativa (***)
+6    TCC I                                                    IME            (**)           32    64      96   Específico   Estatística   Optativa (***)
+7    TCC II                                                   IME         TCC I / Co        32    64      96   Específico   Estatística   Optativa (***)
+8    Demografia                                               IME           Não há          48    16      64   Específico   Estatística    Obrigatória
+9    Planejamento e Análise de Experimentos                   IME           Não há          64    32      96   Específico   Estatística    Obrigatória
+10   Processos Estocásticos                                   IME           Não há          64            64   Específico   Estatística    Obrigatória
+11   Cálculo Numérico                                         IME           Não há          32    32      64   Específico   Matemática     Obrigatória
+12   Análise de Dados Longitudinais                           IME           Não há          64    32      96   Específico   Estatística     Optativa
+13   Análise de Regressão Não Linear                          IME           Não há          48    16      64   Específico   Estatística     Optativa
+14   Introdução à Análise de Risco                            IME           Não há          64    32      96   Específico   Estatística     Optativa
+15   Análise de Sobrevivência                                 IME           Não há          48    16      64   Específico   Estatística     Optativa
+16   Modelos Lineares Generalizados                           IME           Não há          48    16      64   Específico   Estatística     Optativa
+17   Tópicos em Estatística                                   IME           Não há          64            64   Específico   Estatística     Optativa
+18   Inferência Bayesiana                                     IME           Não há          48    16      64   Específico   Estatística     Optativa
+19   Bioestatística                                           IME           Não há          48    16      64   Específico   Estatística     Optativa
+20   Amostragem II                                            IME           Não há          64    32      96   Específico   Estatística     Optativa
+21   Iniciação a Pesquisa Científica I                        IME           Não há          32            32   Específico   Estatística     Optativa
+22   Iniciação a Pesquisa Científica II                       IME           Não há          32            32   Específico   Estatística     Optativa
+23   O Ensino de Estatística                                  IME           Não há          64            64   Específico    Ed. Mat.       Optativa
+24   Pesquisa Operacional                                     IME           Não há          64            64   Específico   Matemática      Optativa
+25   Introdução a Teoria da Medida                            IME           Não há          64            64   Específico   Matemática      Optativa
+26   Álgebra Linear II                                        IME           Não há          64            64   Específico   Matemática      Optativa
+27   Análise I                                                IME           Não há          96            96   Específico   Matemática      Optativa
+24   Análise II                                               IME           Não há          64            64   Específico   Matemática      Optativa
+25   Equações Diferenciais Ordinárias                         IME           Não há          64            64   Específico   Matemática      Optativa
+26   Pesquisa de Opinião e Mercado I                        FACOMB          Não há          64            64   Específico                   Optativa
+27   Econometria                                             FACE           Não há          64            64   Específico                   Optativa
+29   Introdução a Língua Brasileira de Sinais – LIBRAS         FL           Não há          64            64   Específico                   Optativa
+        IME – Instituto de Matemática e Estatística                                       FACOMB – Faculdade de Telecomunicação e Biblioteconomia
+        FL – Faculdade de Letras                                                          Ed. Mat. - Educação Matemática
+        FACEA - Faculdade de Ciências Econômicas
+                                                                                                                                                           9
+5.2   Carga Horária: Núcleo Comum, Núcleo Específico e Núcleo Livre
+
+
+
+
+                                  Natureza           Carga Horária     %
+                           Obrigatória                   1632         53,8
+                           Obrigatória                   480          15,8
+                           Optativa                      576          19,0
+                                                         160           5,3
+                                                         184           6,1
+                                                         3032         100,0
+
+
+
+
+                                                                              10
+5.3     Elenco de Disciplinas Com Ementas e Bibliografias Básicas e Complementares
+
+Disciplinas Obrigatórias
+AMOSTRAGEM I
+Ementa: Amostragem aleatória simples. Amostragem com probabilidades desiguais, Amostragem estratificada,
+sistemática. Estimadores de tipo razão. Estimadores de tipo regressão. Amostragem por conglomerados.
+Estimação com probabilidades desiguais. Experimento Aleatório.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+BUSSAB W., BOLFARINE, H., Elementos de Amostragem, Projeto fisher, Edgar Blucher, 2005.
+COCHRAN, W., Sampling Techniques. John Wiley & Sons, New York, 1977.
+SILVA, N. N. da, Amostragem Probabilística Um Curso Introdutório. EDUSP, 2ª Edição.
+Bibliografia Complementar:
+HANSEN, M. H., HURWITZ, W. N., MADOW, W.G. Sample survey methods and theory. Wiley-Interscience;
+Reprint edition, 1993.
+KISH, L., Survey Sampling. Wiley-Interscience, 1995.
+LEVY, P.S. and LEMESHOW, S. Sampling of Populations: Methods and Applications. Wiley; 4 edition , 2009.
+SUKHATME, B. V., SUKHATME, P.V. Sampling theory of surveys with applications. Iowa State Pr; 3 Sub
+edition, 1984.
+SHEAFER, R. L., MENDEKALL, W., OTT, L. Elementary survey sampling. Duxbury Press; 6 edition, 2005.
+THOMPSON, S.K. Sampling. Wiley-Interscience; 2 edition , 2002.
+
+ANÁLISE DE DADOS CATEGORIZADOS
+Ementa: Conceitos Básicos: escalas de medidas, esquemas amostrais, tipos de estudos, modelos estatísticos.
+Tabelas de Contingência Bidimensionais. Tabelas de Contingência Tridimensionais. Modelos para Dados de
+Freqüência: O Modelo Log-Linear. Modelos para Dados com Respostas Binárias: O Modelo de Regressão
+Logística. Modelo de Regressão de Poisson: forma do modelo, inferência e aplicações.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+AGRESTI, A., An Introduction to Categorical Data Analysis, John Wiley & Sons, New York, 1996.
+PESTANA, M. H.; GAGEIRO, J. N. Análise Categórica, Arvores de Decisão e Análise de Conteúdo - Em
+Ciências Sociais e da Saúde, com o SPSS. Editora Lidel, 2009.
+HOSMER, D. W., e LEMESHOW, S.. Applied Logistic Regression,. John Wiley & Sons, New York, 1989.
+Bibliografia Complementar:
+AGRESTI, A., Categorical Data Analysis, John Wiley & Sons, New York, 1990.
+FREEMAN, D.H. Applied Categorical Data Analysis. Marcel Dekker, 1987.
+BISHOP, M.M.I.; FIENBERG, S.E.; HOLLAND, P.W. Discrete Multivariate Analysis: Theory and Practice.
+Springer Verlag, 2007.
+COLLET, D, Modelling Binary Data, Chapman e Hall, 1994.
+STOKES, M. E., DAVIS, C. S. e KOCH, G.G., Categorical Data Analysis Using the SAS System, SAS
+Institute, 1995.
+PAULINO, C. D. e SINGER, J. M. Análise de Dados Categorizados. Edgard Blucher, 2006.
+
+ANÁLISE MULTIVARIADA
+Ementa: Tópicos em Álgebra Linear; Distribuição normal multivariada; Análise de componentes principais;
+Análise fatorial; Métodos de Classificação e Análise de Análise Discriminantes; Análise de correspondência.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+JOHNSON R. A., WICHERN D.W., Applied Multivariate Statistical Analysis, Prentice-Hall, 6th ed., 2007.
+MINGOTI S. A., Análise de Dados Através de Métodos de Estatística Multivariada: Uma Abordagem
+Aplicada, Editora UFMG, 2005.
+CARROL, J.D; GREEN P. E. ; LATTIN, J.; Análise de dados multivariados, Editora Cengage, 1a edição, 2011.
+                                                                                                              11
+Bibliografia Complementar:
+Press, S.J. Applied Multivariate Analysis Using Bayesian & Frequentist Methods Of Inference. Editora: Dover
+Science, 1a edição, 2005.
+FERREIRA, D.F. Estatística Multivariada. Editora Ufla, 2a edição, 2011.
+MARDIA K. V., KENT J. T., BIBBY J. M., Multivariate Analysis, Academic Press, 1979.
+OSEPH F. H., WILLIAM C. B., BARRY J. B., ROLPH E. A. e RONALD L. T., Análise Multivariada de
+dados. Bookman, 6a ed, 2009.
+HAIR, J., BLACK, B. e ANDERSON, H., Multivariate Data Analysis. 7a. ed. Prentice Hall, 2008.
+ANDERSON, T.W., An introduction to Multivariate Statistical Analysis. Jhon Wiley & Sons, 2003.
+MANLY, B.F.J. Métodos estatísticos Multivariados : uma introdução. Artmed, 3a edição, 2008.
+
+ANÁLISE DE SÉRIES TEMPORAIS
+Ementa:Conceitos iniciais. Séries estacionárias. Função de autocovariância e autocorrelação. Métodos de
+decomposição e de suavização e de auto-regressão. Modelagem Box-Jenkins: modelos ARMA, ARIMA e
+SARIMA. Modelos não-lineares e de volatilidade estocástica: ARCH, GARCH.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+MORETTIN, P. E TOLOI, C. - Análise de Séries Temporais – Ed. Blucher, 2004.
+CHATFIELD, C. Analysis of time series: an introduction. Editora Chapman-Hall, 6a, 2003.
+MONTGOMERY D.C.,JENNINGS C.L., KULAHCI M., Introduction to Time Series analysis and
+Forecasting, Wiley; 1a ed., 2008.
+Bibliografia Complementar:
+ABRAHAM, B. e LEDOLTER, J. Statistical Methods for Forecasting, Wiley-Interscience; 2a ed., 2005.
+WEI, W. W. Time Series Analysis. Addison Wesley, 2a ed., 2005.
+CRYER, J., Time Series Analysis. Duxbury Press, 1986.
+BROCKWELL, P. J. e DAVIS, R. A. Introduction to Time Series and Forecasting, Springer; 2a ed. (January
+15, 2010).
+HAMILTON, J Time Series Analysis. Princeton University Press 1994.
+LÜTKEPOHL, H New Introduction to Multiple Time Series, Ed, Springer 2005.
+
+CONTROLE ESTATÍSTICO DE QUALIDADE
+Ementa: Conceito de Qualidade e Perspectiva Histórica. Fundamentos do Controle Estatístico do Processo.
+Gráficos de Controle para Variáveis e para Atributos. Análise de Capacidade do Processo de Produção. Outros
+tipos principais de Gráficos de Controle. Inspeção de Qualidade, para Variáveis e para Atributos. Normas ISO
+9000 e Tópicos de Gestão de Qualidade.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+MONTGOMERY, D. C. Introdução ao Controle Estatístico da Qualidade, 4ª edição, LTC Editora. (versão
+traduzida p/ o português de Introduction to Statistical Quality Control. John Wiley & Sons, New York.).
+COSTA, A. F. B., EPPRECHT, E., K. , CARPINETTI, L. C. R. Controle Estatístico de Qualidade, 2ª edição,
+São Paulo, Editora Atlas, 2005.
+VIEIRA, SÔNIA , Estatística para a Qualidade, São Paulo, Ed. Campus, 1999.
+Bibliografia Complementar:
+LOURENÇO FILHO, R.C.B. Controle Estatístico de Qualidade. Rio de Janeiro : Livros Técnicos e
+científicos, 1980.
+JURAN, J. M. Quality Control Handbook, Mc Graw Hill, New York.
+JURAN, J.M., GRYNA, F. M. Quality Planning and Analysis, Mc Graw Hill, New York 2a Edition, 1980.
+EVANS, J. R. ; LINDSLAY, W. M. The Management and Control of Quality, West Publishing Co. New York.
+WERKEMA, M. C. C. , As Ferramentas da Qualidade no Gerenciamento de Processos, Vol. 1, 4a Edição.,
+Editora da FCO.
+PALADINI, E. P. , Qualidade Total na Prática - Implantação e avaliação de sistemas de qualidade total, São
+Paulo, Atlas, 1994.
+WERKEMA, M. C. C. , Como Estabelecer Conclusões com Confiança: Entendo Infer6encia Estatística, Vol
+4, 1a Edição., Editora da FCO.
+
+
+                                                                                                              12
+DEMOGRAFIA
+Ementa: Fontes de dados Demográficos no Brasil e no mundo. Avaliação e ajuste de dados demográficos:
+Padronização de dados demográficos., Diagrama de Lexis. Pirâmides populacionais. Componentes da dinâmica
+populacional: Fecundidade: Tendências e diferenciais da Fecundidade no Brasil. Mortalidade: Indicadores e
+tendencias. Mortalidade Infantil. Tabelas de Mortalidade. Migração: Definições para operativas para a migração
+interna e externa. Densidade Populacional. Saldo Migratório. Projeção de população: Modelos de população e
+Método das componentes.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens, resolução de exercícios e a aplicação das técnicas a uma caso real no
+Brasil.
+Bibliografia Básica:
+NEWELL, COLLIN: Methods and Models in demography. Guilford Press, New York, USA, 1990.
+PRESTON, SAMUEL H; HEUVELINE, PATRICK; GUILLOT, MICHEL: Demography: Measuring and
+Modelling Population Process. Blackwell Publishing, Madison, USA, 2001.
+SIEGEL, J.S.; SWANSON, D., The methods and materials of Demography. 2ª ed.,Editora Academic
+Press,2004.
+Bibliografia Complementar:
+NAMBOODIRI, KRISHNAN: Demographic Analysis: A stochastic Approach. Academic Press, New york,
+USA, 1991.
+CARVALHO, JOSÉ ALBERTO M; SAWYER, DIANA O; RODRIGUES, ROBERTO N. Conceitos básicos e
+medidas em demografia.Cedeplar. UFMG. 1992.
+HAKKERT, RALPH. Fontes de dados demográficos. ABEL (Associação Brasileira de Estudos Populacionais).
+Belo Horizonte: 1996 p. 13-71.
+SANTOS, J.L.F ; LEVY, M.S.F. ; SZMRECSÁNYI, T. (org). Dinâmica da População. Teoria, Métodos e
+Técnicos de Análise. Editora T.A. Queiroz, São Paulo. 1980.
+SMITH, DAVID: Formal demography. Plenum Press, New York, USA, 1994.
+YAUKEY, D; ANDERSON, D: Demography: The Study of Human population. Waveland Press, New York,
+USA, 2001.
+
+ESTÁGIO I
+Ementa: Evolução da estatística como campo de conhecimento e como profissão. Estatística no Brasil. Perfil
+profissional do estatístico. Regulamentação da profissão. Associações cientificas, conselhos regionais e conselho
+federal. Fundação IBGE. Recenseamentos. Estatísticas oficiais básicas. Pesquisas no âmbito de FIBGE. Mercado
+de trabalho. Atualidades no ramo da estatística. Metodologias para a elaboração e desenvolvimento de projetos.
+Elaboração de projeto de capacitação para estatísticos.
+Orientações Metodológicas: O aluno irá participar de aulas teóricas, minicursos , palestras e visitas. Até uma
+data limite, o aluno escolherá uma instituição, orgão ou empresa conveniada com a UFG, e junto com supervisor
+deste local e o professor orientador de estágio deverá apresentar um plano de estágio e elaborar um projeto de
+capacitação, o qual será acompanhado e avaliado por ambos. Todas as atividades do estagiário deve ser
+acompanhada pelo professor orientador, que poderá solicitar da instituição, por meio do supervisor, relatórios do
+desenrolar das atividades de elaboração do projeto. O projeto de Estágio deverá ser apresentado à coordenação
+de estágio em data previamente estipulada. Ao longo das atividades de estágio, quando solicitado, o aluno deve
+apresentar relatórios parciais à coordenação de estágio.
+Bibliografia Básica:
+COX, D.R.; SNELL, E.J. Applied Statistics: principles and examples. New York: Chapman & Hall, 1981. 189p.
+LAKATOS, E. M.; MARCON, M. A. Metodologia do Trabalho Científico. São Paulo: Átlas, 4ª ed., 1992.
+CONFE. Legislação Básica para Estatístico e Técnico em Estatística de Nível Médio.
+Bibliografia Complementar:
+ASSOCIAÇÃO BRASILEIRA DE ESTATÍSTICA (abe) Boletins.
+BARRASS, R. Os cientistas precisam escrever: guia de redação para Cientistas, Engenheiros e Estudantes.
+São Paulo: T. A. Queiroz, 1986. 218p.
+CONFE, sd.FIBGE. Legislação Básica. Rio de Janeiro, IBGE. Serviço Gráfico. sd.
+RESOLUÇÃO CONFE Nº 058, DE 06 DE OUTUBRO DE 1976 - Código de Ética Profissional do Estatístico.
+HAND, D.S.; EVERITT, B.S.: The Statistical Consultant in Action; Cambridge University Press, 2007.
+
+ESTÁGIO II
+Ementa: Execução do projeto de capacitação desenvolvido no estágio I sob responsabilidade do orientador.
+Orientações Metodológicas: O aluno irá apresentar um plano de trabalho e depois dará início às atividades de
+execução do projeto de estágio elaborado no estágio I, sob responsabilidade do professor orientador. Ao de
+
+                                                                                                              13
+Conclusão do estágio II, o estagiário deverá apresentar, perante uma banca examinadora, um relatório final,
+descrevendo as atividades desenvolvidas no estágio I e estágio II, com a fundamentação teórica necessária. Ao
+longo das atividades de estágio, quando solicitado, o aluno deve apresentar relatórios parciais à coordenação de
+estágio.
+Bibliografia Básica:
+CASTRO, C.M. Estrutura e apresentação de publicações científicas. São Paulo: McGraw-Hill, 1978. 70p.
+CUKIERMAN, Z. S.; DINSMORE, P. C. Administração de projetos: uma abordagem administrative. Rio de
+Janeiro: Interamericana, 1981. 144p.
+BARBASS, R. Os cientistas precisam escrever: guia de redação para Cientistas, Engenheiros e Estudantes.
+São Paulo: T. A. Queiroz, 1986, 218p.
+Bibliografia Complementar:
+ASSOCIAÇÃO BRASILEIRA DE ESTATÍSTICA (abe) Boletins.
+COX. D.R.: SNELL, E. J. Applied Statistics: principles and examples. New York: Chapman & Hall, 1981. 189p.
+CONFE, sd. FIBGE. Legislação Básica. Rio de Janeiro, IBGE. Serviço Gráfico. sd.
+LAKATOS, E. M.; MARCON, M. A. Metodologia do Trabalho Científico. São Paulo: Átlas. 4ª Ed.,1892.
+RESOLUÇÃO CONFE Nº 058, DE 06 DE OUTUBRO DE 1976 – Código de Ética Profissional do Estatístico.
+
+ESTATÍSTICA I
+Ementa: Introdução à Estatística: O que é a Estatística, História da Estatística, Estatística no Brasil, Áreas de
+atuação. Natureza de dados: População, amostras, preparação de uma pesquisa. Amostras aleatórias. Análise
+exploratória de dados: Resumo de dados, Séries Estatísticas, Representação Gráfica, Comparação de conjuntos
+de dados. Experimentos e estudos observacionais. Análise bidimensional. Números-índices. Conceitos Básicos
+de Probabilidade.
+Orientações Metodológicas: As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-
+show, retroprojetores e outros recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+BUSSAB W. O., MORETTIN P. A., Estatística Básica, 5a ed., Saraiva, São Paulo, 2006.
+TRIOLA, M.F. Introdução à Estatística. Rio de Janeiro: LTC, 2008.
+MAGALHÃES, M. N. e LIMA, A. C. P. Noções de Probabilidade e Estatística. São Paulo: Edusp, 2005.
+Bibliografia Complementar:
+MARTINS, G.A., Estatística Geral e Aplicada 3a ed. , São Paulo: Atlas, 2005.
+STEVENSON, W.J., Estatística Aplicada à Administração, São Paulo: Harbra, 1987.
+CRESPO, A. A. Estatística Fácil. São Paulo: Saraiva, 2002.
+TOLEDO, G. L. e OVALLE, I. I. Estatística básica. São Paulo: Atlas, 2a edição, 1985.
+WEBSTER, A.,L. Estatística aplicada à Administração e Economia. Mcgraw Hill, 3a ed., 2006.
+ESTATÍSTICA II
+Ementa: Introdução à Inferência Estatística. Teste de Hipótese. Modelo de Regressão Linear Simples. Análise
+de Variância de um Fator.
+Orientações Metodológicas: As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-
+show, retroprojetores e outros recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+BUSSAB W. O., MORETTIN P. A., Estatística Básica, 5a ed. São Paulo : Saraiva, 2008.
+MORETTIN, L.G. Estatística Básica: Probabilidade e Inferência. Volume Único. São Paulo: Pearson Practice
+Hall, 2010.
+TRIOLA, M.F. Introdução à Estatística. 10a ed. Rio de Janeiro: LTC, 2008.
+Bibliografia Complementar:
+MAGALHÃES, M. N. e LIMA, A. C. P. Noções de Probabilidade e Estatística. São Paulo: Edusp, 2005.
+DEGROOT, M. H. e SCHERVISH, M. J. Probability and Statistics. 3a ed., Addison-Wesley, 2002.
+DEVORE, J. L. Probabilidade e Estatística para engenharia e ciências. São Paulo: Thomson Learning, 2006.
+MARTINS, G.A., Estatística Geral e Aplicada 3a ed. , São Paulo: Atlas, 2005.
+STEVENSON, W.J., Estatística Aplicada à Administração, São Paulo: Harbra, 1987.
+
+ESTATÍSTICA COMPUTACIONAL I
+Ementa: Introdução à computação estatística e softwares estatísticos. Aplicações computacionais em estatística
+básica.. Métodos de geração de variáveis aleatórias uniformes e não-uniformes. Simulação estocástica.
+Introdução aos Métodos de Monte Carlo e bootstrap. Aplicações.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+
+                                                                                                              14
+Bibliografia Básica:
+ROSS, S. Simulation. Academic Press, 4 edition, 2006.
+GENTLE J. E. Elements of Computational Statistics, Springer, 2005.
+PATERNELLI, L. A. e MELLO, M. P. Conhecendo o R – uma visão estatística. Viçosa: Editora UFV, 2007.
+Bibliografia Complementar:
+RIZZO MARIA L., Statistical Computing with R , Chapman & Hall ,2007.
+PETER DALGAARD. Introductory Statistics with R. Springer, 2002.
+VENABLES, W. N.; RIPLEY, B. D. Modern Applied Statistics with S-Plus. Springer-Verlag, 1997.
+KRAUSE, A.; OLSON, M. The Basics of Statistics and S-Plus. Springer-Verlag, 1997.
+BISQUERA, R., SARRIERA, J. C. e MARTINEZ, F. Introdução à Estatística: Enfoque Informático Com o
+Pacote Estatístico SPSS. Rio Grande do Sul: Artmed, 2004.
+EFRON, B.; TIBSHIRANI, R. F. An Introdution to the Bootstrap. Chapman & Hall, 1993.
+
+ESTATÍSTICA COMPUTACIONAL II
+Ementa:Estimação de densidades: estimador de núcleo, spline, LOWESS, estimação Bayesiana de curvas.
+Métodos estatísticos intensivos: métodos Monte Carlo via cadeias de Markov, amostrador de Gibbs, algoritmo
+de Metropolis-Hastings, diagnósticos de convergência, Algoritmo EM.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+RONALD A. THISTED, Elements of Statistical Computing: Numerical Computation, Chapman and
+Hall/CRC,1988.
+RIZZO, M., Statistical Computing with R. Chapman & Hall, 2007.
+RIPLEY, Stochastic Simulation, John Wiley & Sons, 1987.
+Bibliografia Complementar:
+MANTOVAN, PIETRO, SECCHI, PIERCESARE. Complex Data Modeling and Computationally Intensive
+Statistical Methods, 1st Edition, Hardcover, Springer, 2010.
+GIVENS, G. H. & HOETING, J. A., Computational Statistics. John Wiley & Sons, 2005.
+ROSS, S. Simulation. Academic Press, 4 edition, 2006.
+JONES, O, MAILLARDET, R. & ROBINSON, A. Introduction to Scientific Programming and Simulation
+Using R. CRC Press, 2009.
+DANI GAMERMAN, Markov Chain : Stochastic Simulation for Bayesian Inference, Chapman and
+Hall/CRC, 1998.
+ROBERT AND CASELLA , Statistical Methods, Springer-Verlag. 1999.
+
+INFERÊNCIA I
+Ementa: Conceitos Básicos; Distribuições Amostrais; Redução de dados: Suficiência e Verossimilhança;
+Métodos de Estimação Pontual; Propriedades dos Estimadores. Estimação Pontual.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+BOLFARINE , H.; SANDOVAL, M. C., Introdução à Inferência Estatística, Ed. Sociedade Brasileira de
+Matemática, 2001.
+MOOD, A. M., GRAYBILL, F. A., BOES, D. C., Introduction to the Theory of Statistics. 3rd ed. MacGraw
+Hill, 1974.
+CASSELA, G. e BERGER, R.L. Inferência Estatística. 1a edição, Editora Cengage, 2010.
+Bibliografia Complementar:
+MIGON, H. AND GAMERMAN, D. , Statistical Inference: An Integrated Approach. Arnold, 1999.
+HOEL P.G., PORT S.C., STONE C. J., Introduction to Probability Theory, Mifflin, Boston, 1971.
+AZZALINI, A. Statistical Inference Based on the Likelihood. London: Chapman and Hall, 1996.
+ROHATGI, V.K., Statistical Inference. J. Wiley, New York, 2003.
+ROHATGI, V.K., An Introduction to probability Theory and Mathematical Statistics. J. Wiley, 2000.
+ROUSSAS, G.G. An Introduction to Probability and Statistical Inference. Academic Press, 2003.
+
+INFERÊNCIA II
+Ementa: Introdução à Teoria das Decisões. Estimação Intervalar. Testes de Hipóteses.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+                                                                                                              15
+Bibliografia Básica:
+BOLFARINE , H.; SANDOVAL, M. C., Introdução à Inferência Estatística, Ed. Sociedade Brasileira de
+Matemática, 2001.
+MOOD, A. M., GRAYBILL, F. A., BOES, D. C., Introduction to the Theory of Statistics. 3rd ed. MacGraw
+Hill, 1974.
+CASSELA, G. e BERGER, R.L. Inferência Estatística. 1a edição, Editora Cengage, 2010.
+Bibliografia Complementar:
+HOEL P. G., PORT S.C., STONE C. J., Introduction to Probability Theory, Mifflin, Boston, 1971.
+DEGROOT, M. H., Probability and Statistics. 2nd ed. Addison-Wesley Pub Co., 1989.
+GAMERMAN, D. E MIGON, H. S. Inferência Estatística: Uma Abordagem Intergrada, UFRJ Textos de
+Métodos Matemáticos, 1993.
+HUBER, P . Robust Statistics. John Wiley & Sons. New York, 2003.
+PRESS, S. J., Bayesian Statistics: Principles, Models, and Applications. John Wiley & Sons. New York, 1989.
+ROBERT, C. P., The Bayesian Choice. Springer. New York, 1994.
+
+MANIPULAÇÃO ESTATÍSTICA DE BANCO DE DADOS (MEBD)
+Ementa: Introdução aos bancos de dados: principais bancos de dados do mercado, softwares, planilhas
+eletrônicas e internet, arquitetura da informação. Introdução à linguagem SQL (Structured Query Language).
+Utilização de bancos de dados através de softwares estatísticos. Principais fontes e bancos de dados:
+Procedimentos de acesso, seleção de variáveis relevantes e seus possíveis usos.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+OLIVEIRA, C. H. P.; SQL: Curso Prático, Editora Novatec.
+STEPHENS, R. Aprenda em 24 Horas SQL - 2ª edição, Editora Campus, Use a Cabeça SQL.
+CINTO, A. F.; Excel Avançado, Novatec.
+RIPLEY, B., Package ‘RODBC’, September 19, 2011, versão, 1.3-3, www.r-project.org.
+Instituto Brasileiro de Geografia e Estatística (IBGE) [www.ibge.gov.br].
+Instituto de Pesquisa Econômica Aplicada (IEPA) – IPEAData [www.ipea.gov.br].
+Ministério da Saúde – Portal da Saúde [www.saude.gov.br].
+Departamento Nacional de Trânsito (DENATRAN) [www.denatran.gov.br].
+Departamento Nacional de Produção Mineral (DNPM) – anuários de Economia Mineral [www.dnpm.gov.br].
+Agência Nacional de Aviação Civil (ANAC) [www.anac.gov.br].
+INFRAERO [www.infraero.gov.br].
+Secretaria Nacional de Defesa Civil [www.defesacivil.gov.br].
+Confederação Nacional de Transporte (CNT) [www.cnt.org.br].
+Ministério da Previdência Social – Previdência Social (INSS) [www.previdenciasocial.gov.br].
+SEBRAE [www.sebrae.com.br].
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis ‐ IBAMA –[www.ibama.gov.br].
+Ministério da Educação (MEC) [www.educacao.gov.br].
+Instituto Nacional de Pesquisas Espaciais (INPE) [www.inpe.br].
+Ministério da Agricultura [www.agricultura.gov.br].
+Bibliografia Complementar:
+Manual de Referência do MySQL, versão 4.1, 03/11/2010.
+Vaswani, V.; MySQL Database Usage & Administration, McGraw-Hill, 2010.
+DuBois, P.; MySQL Cookbook, O’Reilly, 2007.
+Jelen, B.; Microsoft Excel 2010 In Depth, Que Publishing, 2010.
+Jelen B. ; Learn Excel 2007 Essential Skills with the Smart Method: Courseware Tutorial for Self-Instruction
+to Beginner and Intermediate Level, The Smart Method Ltda, 2010.
+Beighley L.; Head First SQL: Your Brain on SQL -- A Learner's Guide, O’Reilly, 2007.
+Beaulieu, A.; Learning SQL, O’Reilly, 2009.
+
+MÉTODOS NÃO PARAMÉTRICOS
+Ementa: Introdução aos métodos não paramétricos. Testes de hipóteses não paramétricos: para Amostra Única,
+para duas Amostras, testes para k Amostras. Testes de Associação e Correlação. Estimação de densidades pelo
+método de Kernel. Estatísticas do estimador por Kernel. A escolha do parâmetro de suavização. Outros
+estimadores de densidade. O estimador de Nadaraya-Watson. O método K-nn. Técnicas de regressão não
+paramétrica para dados correlacionados. Conjunto de dados com outliers: Lowess, L-suavização, R-suavização.
+Técnicas de regressão não paramétrica por funções de base.
+
+                                                                                                              16
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+CONOVER W. J., Practical Nonparametric Statistics, 3a Ed., Wiley, 1999.
+GIBBONS, J.D.; CHAKRABORTI, S.; Nonparametric Statistical Inference, 5a Edição, Editora: CRC PRESS,
+2009.
+HARDLE, W. Smoothing Techniques with implementation in S. Chapman and Hall/CRC; 5 edição, 2010.
+Bibliografia Complementar:
+SIEGEL, S.e CASTELLAN, Jr, N. J., Nonparametric Statistics for The Behavioral Sciences, McGraw-
+Hill,1988.
+SMEETON, N.C.; SPRENT, P. Applied Nonparametric Statistical Methods. Editora: IE-CRC PRESS, 4ª
+edição, 2000.
+SIEGEL, S.e CASTELLAN, Jr, N. J. Estatística não-paramétrica: para as ciências do comportamento. 2a ed.
+São Paulo: Bookman, 2006.
+PURI, M.L. Nonparametric Techniques In Statistical Inference. Editora: CAMBRIDGE - PRINT ON
+SILVERMAN B. W. Density Estimation: for statistics and data analysis. Chapman & Hall, 1986.
+HOLLANDER, M. e WOLFE, D.A., Nonparametric Statistical Methods, 2 ed , Wiley-Interscience, 1999.
+BOWMAN, A. W.; AZZALINI, A.., Applied Smoothing Techniques for Data Analysis: The Kernel approach
+with S-Plus Illustrations. Oxford University Press, 1997.
+
+MODELOS DE REGRESSÃO
+Ementa: Regressão Linear Simples. Regressão Linear Múltipla. Estimação de Parâmetros. Métodos de
+Diagnóstico. Métodos de Seleção de Variáveis. Modelos polinomiais. Análise de Resíduos: O problema de
+Colinearidade: Modelo de regressão Ridge. O problema da Heterocedasticidade. Introdução ao Modelo de
+regressão Logística e Regressão Probit. Aplicações.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+DRAPER N. R., SMITH H., Applied Regression Analysis, 3a ed., John Wiley, 1998.
+MONTGOMERY, D. C., PEC,. E. A. e VINING G. G., Introduction to Linear Regression Analysis, Hardcover,
+2006.
+CHARNET, R, BOVINO, H., FREIRE, C. A. L., EUGÊNIA, M. e CHARNET, R. Análise de Modelos de
+Regressão Linear com Aplicações. Unicamp, 2a ed., 2008.
+Bibliografia Complementar:
+GUNST, R.F., MASON, R.L. Regression analysis and its application. New York: Marcel Dekker INC, 1980.
+NETER J., KUTNER M. H., NACHTSHEIM C. J., WASSERMAN W., Applied Linear Statistical Models, 5a
+ed., MacGraw-Hill, 2004.
+RATKOVSKY D. A., Nonlinear Regression Modeling, Marcel Dekker, 1983.
+SEBER, G.A.F. e LEE, A.J., Linear Regression Analysis. John Wiley, 2003.
+WEISBERG, S. Applied Linear Regression Analysis, Third edition, Wesley 2005.
+BELSLEY, A, KUH, E & WELSCH, R.E. Regression Diagnostics: Identifying Influential Data and Sources
+of Collinearity. Ed John Wiley & Sons, 2004.
+
+MODELOS LINEARES
+Ementa: Tópicos em Álgebra Linear: Operações com matrizes. Matrizes inversas generalizadas: A inversa
+Penrose. Distribuição Normal Multivariada. Distribuição de Formas Quadráticas: Distribuição Chi Quadrado não
+Central e Distribuição F não central. Independência de Formas Quadráticas e lineares. Modelo Lineares de posto
+completo: Modelo de Regressão: Estimação e Testes de Hipótese para os parâmetros. Modelos de posto
+incompleto: Modelos de Delineamento Experimental. Estimação, Funções estimáveis. Testes de hipótese.
+Modelo de um critério de classificação. Modelo de dois critérios de classificação.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+FARAWAY J. J., Linear Models With R, Chapman & Hall, 2004.
+RAUDENBUSH S. W., BRYK A. S., Hierarchical Linear Models: Applications and Data Analysis Methods,
+Sage Publications, 2001.
+RAVISHANKER N., DEY D K. A First Course in Linear Model Theory, Chapman & Hall, 2001.
+                                                                                                              17
+Bibliografia Complementar:
+LITTELL R., STROUP W. W., FREUND R., SAS for Linear Models, Wiley-SAS, 2002.
+ZELTERMAN, D. Applied Linear Models With Sas. Editora CAMBRIDGE – USA.
+SEARLE, S.R. Linear Models, 1997.
+MENDEZ RAMIREZ, I. Modelos estadisticos lineales: interpretaction y applications. Foccavi/Conacyt,
+1976.
+HOCKING, RONALD R. Methods And Applications Of Linear Models. John Wiley, 2003.
+
+PLANEJAMENTO E ANÁLISE DE EXPERIMENTOS
+Ementa: Princípios de experimentação. Experimentos completamente aleatorizados com um fator. Comparações
+de tratamentos. Medidas de diagnostico. Componentes de variança. Delineamentos fatorial. Delineamento em
+blocos. Delineamentos em parcelas divididas. Outros delineamentos.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+MONTGOMERY, D. C., Design and Analysis of Experiments , 7a ed., J. Wiley, 2008.
+BANZATTO, D.A; NASCIMENTO, S. DO; Experimentação Agrícola; 4a edição, Editora Funep.
+NETER J., KUTNER M. H., NACHTSHEIM C. J., WASSERMAN W., Applied Linear Statistical Models, 5a
+ed., MacGraw-Hill, 2004.
+Bibliografia Complementar:
+COX, D. R. Planning of Experiments. Wiley-Interscience, 1992.
+HINKELMANN, K. e KEMPTHORNE. O. Design and analysis of Experiments. Wiley-Interscience; 2a ed.,
+2007.
+COCHRAN, W. G. , e COX, G. M. Experimental Designs. Wiley, 2a ed., 1992.
+BOX, G.E., HUNTER, J.S. HUNTER, W.G. Statistics for experimenters: an introduction to design, data
+analysis and model building. New York : John Wiley, 1978.
+SCHEFFÉ, H. The Analysis of Variance. Wiley-Interscience, 1a ed., 1999.
+
+PROCESSOS ESTOCÁSTICOS
+Ementa: Esperança condicional. Conceitos e propriedades básicas de processo estocástico. Processo de Poisson.
+Processos de Renovação. Cadeias de Markov. Martingales. Processos de ramificação. Passeios aleatórios.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+ROSS, S. M. Stochastic Processes. Wiley Series in Probability, second edition, 1996.
+HOEL, P. G., PORT, S. C. e STONE, C. J. Introduction to stochastic processes. Waveland Press, 1986.
+GRIMMETT, G. R. e STIRZAKER, D.R. Probability and Random Processes. Oxford University Press, 2001.
+Bibliografia Complementar:
+ROSS, S. M.. Introduction to Probability Models. Academic Press, 9a ed., 2006.
+TIJMS, H. C. A first course in stochastic models. Editora: John Wiley Professio. 1a edição, 2003.
+HSU, H. Schaum's Outline of Probability, Random Variables, and Random Processes. Editora McGraw-
+Hill, 2ª edição, 2010.
+STIRZAKER, D. Stochastic Processes and Models. Editora Oxford, 1a edição, 2005.
+BASU, A.K.; Introduction To Stochastic Process. Editora CRC Press, 1ª edição, 2002.
+
+PROBABILIDADE I
+Ementa: Técnicas de Contagem. Experimento Aleatório. Conceitos de Probabilidade. Espaço de Probabilidade.
+Probabilidade Condicional e Independência. Variáveis Aleatórias Discretas e Contínuas. Função de Distribuição
+Acumulada. Principais Distribuições Discretas e Contínuas. Vetores Aleatórios. Distribuições Conjuntas e
+Marginais. Independência Estocástica. Principais Distribuições Multivariadas. Funções de Variáveis e Vetores
+Aleatórios. Esperança e Variância: Propriedades e Aplicações.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+DANTAS, C.A.B., Probabilidade: Um curso introdutório. Editora USP, 1997.
+MEYER, P.L. Probabilidade: Aplicações e Estatística. 2 ed. Rio de Janeiro: livros técnicos e científicos. Editora
+S.A., 1984.
+                                                                                                               18
+ROSS, S. M. , Probabilidade um curso moderno com aplicações; Editora: Bookman , 8º edição 2010.
+Bibliografia Complementar:
+HOEL, P. G. , PORT, S. C. , STONE, C. S. Introdução a Teoria da Probabilidade. Rio de Janeiro: Luter-
+Ciência, 1971.
+JAMES, B. R. Probabilidade: Um curso em nível intermediário. Rio de Janeiro: IMPA, 1996.
+FELLER, W. Introdução à Teoria das Probabilidades e suas Aplicações. Parte 1: Espaços Amostrais Discretos,
+Edgard Blucher. São Paulo, 1976.
+MAGALHÃES, M.N. Probabilidade e Variaveis Aleatórias. Edusp. 2 edição. 2006.
+GRIMMETT, G.R.; STIRZAKER, D.R. Probability and random processes. 3 rd. ed. New York: Oxford
+University Press, 2001.
+STIRZAKER, D. Elementary Probability. Cambridge University Press, 2a edição, 2003.
+
+PROBABILIDADE II
+Ementa: Funções Geradoras de Momentos. Covariância e Correlação. Distribuições Condicionais. Esperança
+Condicional. Desigualdades. Tipos de Convergência. Lema de Borel-Cantelli. Lei dos Grandes Números.
+Funções Características. Teorema Central do Limite e Aplicações.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+DANTAS, C.A.B., Probabilidade: Um curso introdutório. Editora USP, 1997.
+ROSS, S. M.,Probabilidade um curso moderno com aplicações; Editora: Bookman , 8º edição 2010.
+JAMES, B. R. Probabilidade: Um curso em nível intermediário. Rio de Janeiro: IMPA, 1996.
+Bibliografia Complementar:
+HOEL, P. G. , PORT, S. C. , STONE, C. S. Introdução a Teoria da Probabilidade. Rio de Janeiro: Luter-
+Ciência, 1971.
+FELLER, W. Introdução à Teoria das Probabilidades e suas Aplicações. Parte 1: Espaços Amostrais Discretos,
+Edgard Blucher. São Paulo, 1976.
+MAGALHÃES, M.N. Probabilidade e Variaveis Aleatórias. Edusp. 2 edição. 2006.
+GRIMMETT, G.R.; STIRZAKER, D.R. Probability and random processes. 3 rd. ed. New York: Oxford
+University Press, 2001.
+MEYER, P.L. Probabilidade: Aplicações e Estatística. 2 ed. Rio de Janeiro: livros técnicos e científicos. Editora
+S.A., 1984.
+STIRZAKER, D. Elementary Probability. Cambridge University Press, 2a edição, 2003.
+
+TCC I
+Ementa: Elaboração de projeto de Trabalho de Conclusão de Curso (TCC) a partir de um tema e atividades
+desenvolvidas sob a orientação de um docente. Desenvolvimento da primeira parte do TCC.
+Orientações Metodológicas: O aluno deverá escolher um orientador para poder orientá-lo em uma determinada
+área da Estatística. Neste primeiro momento o aluno devera elaborar um projeto de Trabalho de Conclusão de
+Curso com o acompanhamento do orientador e posteriormente iniciar a primeira parte do TCC.
+Bibliografia Básica:
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 4. ed. SP: Atlas, 2002.
+LAKATOS, E. M.; MARCON, M. A. Metodologia do Trabalho Científico. São Paulo: Átlas, 4ª ed., 1992.
+ECO, Umberto. Como se Faz uma Tese - 14ª ed., São Paulo: Ed. Perspectiva, 1996.
+Bibliografia Complementar:
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e documentação:
+referências: elaboração. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: informação e documentação:
+numeração progressiva das seções de um documento escrito: apresentação. Rio de Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: informação e documentação: sumário:
+apresentação. Rio de Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6028: resumo: apresentação. Rio de Janeiro, 1990.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: informação e documentação: citações
+em documentos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 12225: informação e documentação:
+lombada: apresentação. Rio de Janeiro, 2004.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e documentação:
+trabalhos acadêmicos: apresentação. Rio de Janeiro, 2002.
+IBGE. Normas de apresentação tabular. 3. ed. Rio de Janeiro, 1993.
+                                                                                                              19
+TCC II
+Ementa: Finalização e apresentação do Trabalho de Conclusão de Curso.
+Orientações Metodológicas: Desenvolvimento e finalização do Trabalho de Conclusão de Curso através de
+uma análise crítica do tema escolhido. Apresentação do TCC à uma banca examinadora.
+Bibliografia Básica:
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 4. ed. SP: Atlas, 2002.
+LAKATOS, E. M.; MARCON, M. A. Metodologia do Trabalho Científico. São Paulo: Átlas, 4ª ed., 1992.
+ECO, Umberto. Como se Faz uma Tese - 14ª ed., São Paulo: Ed. Perspectiva, 1996.
+Bibliografia Complementar:
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e documentação:
+referências: elaboração. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: informação e documentação:
+numeração progressiva das seções de um documento escrito: apresentação. Rio de Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: informação e documentação: sumário:
+apresentação. Rio de Janeiro, 2003.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6028: resumo: apresentação. Rio de Janeiro, 1990.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: informação e documentação: citações
+em documentos: apresentação. Rio de Janeiro, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 12225: informação e documentação:
+lombada: apresentação. Rio de Janeiro, 2004.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: informação e documentação:
+trabalhos acadêmicos: apresentação. Rio de Janeiro, 2002.
+IBGE. Normas de apresentação tabular. 3. ed. Rio de Janeiro, 1993.
+
+ÁLGEBRA LINEAR I
+Ementa: Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores.
+Espaços com produto interno.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+BOLDRINI, J. L.; COSTA, S. I. R.; FIGUEIREDO, V. L.; WETZLER, H. G.: Álgebra Linear. 3a ed.,Harbra,
+São Paulo, 2003.
+CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R.C. F.: Álgebra Linear e Aplicações. Atual, Brasil, 1983.
+KOLMAN, B.; HILL, D. R.: Introdução a Álgebra Linear: com Aplicações. Prentice Hall, 2006.
+LIPSCHUTZ, S: Álgebra Linear. 2 ª ed., Mcgraw-Hill, São Paulo, 1974.
+Bibliografia Complementar:
+APOSTOL, T., Linear Algebra: a first course: with applications to differential equations. 1ª ed., Wiley-
+Interscience, São Paulo, 1997.
+HOFFMAN, K.; KUNZE, R.: Álgebra Linear . Polígono , São Paulo, 1971.
+HOWARD, A.; RORRES, C.: Álgebra Linear com Aplicações . 8a ed., Bookman , Porto Alegre, Brasil, 2001.
+LIMA, E. L., Álgebra Linear: Coleção Matemática Universitária. IMPA, Rio de Janeiro, 2006.
+SHOKRANIAN, S.: Introdução a Álgebra Linear e Aplicações . 1a ed., UnB , 2004.
+SILVA, V. V.: Álgebra Linear . CEGRAF , Goiânia , Brasil, 1992.
+
+CÁLCULO 1-A
+Ementa: Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e
+continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais
+impróprias. Aplicações.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+ÁVILA, G. S. S., Cálculo das Funções de Uma Variável. Vol. 1. 7a edição, LTC, Rio de Janeiro.
+GUIDORIZZI, H. L. Um Curso de Cálculo. V.1, 5a edição, LTC, Rio de Janeiro, 2001.
+LEITHOLD, L. O Cálculo com Geometria Analítica. Vol. 1, 3a edição, editora HARBRA, são Paulo,1994.
+STEWART, J., Cálculo. Vol. I, 5a ed, São Paulo: Thomson, 2006.
+Bibliografia Complementar:
+FLEMMING, D. M. e GONÇALVES, M. B., Cálculo A, São Paulo: Pearson, Prentice Hall, 2006.
+HOFFMANN, L. D., Cálculo, vol. 1, 2a ed, Rio de Janeiro: LTC, 1990.
+                                                                                                               20
+ROGÉRIO, M. U., SILVA, H. C., BADAN, A.A.F. A. – Cálculo Diferencial e Integral – Funções de uma
+Variável. Editora UFG.
+SIMMONS, G. F., Cálculo com Geometria Analítica, São Paulo: McGraw-Hill, 1987.
+SILVA, V. V. e REIS, G. L., Geometria Analítica, 2a ed, Rio de Janeiro: LTC, 1995.
+SWOKOWSKI, E. W., Cálculo com Geometria Analítica, vol. 1, Makron Books.
+
+CÁLCULO 2-A
+Ementa: Seqüências e séries numéricas. Séries de potência, convergência. Funções de várias variáveis. Limite e
+Continuidade. Noções sobre quádricas. Funções diferenciáveis. Derivadas parciais e direcionais. Fórmula de
+Taylor. Máximos e mínimos. Integrais múltiplas. Mudança de Coordenadas. Aplicações.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+ÁVILA, G. S. S., Cálculo das Funções de uma Variável, Vol. 2 e 3, 7a ed, Rio de Janeiro: LTC, 2001.
+GUIDORIZZI, H. L., Um Curso de Cálculo. Vol. 2 e 4, 4a, 5a ed, Rio de Janeiro: LTC, 2001.
+LEITHOLD, L., O Cálculo com Geometria Analítica, vol. 2, 3a ed, São Paulo: Harbra, 1994.
+STEWART, J., Cálculo, Vol. 2, 5a ed, São Paulo: Thomson, 2006.
+Bibliografia Complementar:
+FLEMMING, D. M. e GONÇALVES, M. B., Cálculo B, Ed. Pearson, Prentice Hall, São Paulo 2006.
+HOFFMANN, L. D., Cálculo, Vol. 1, 2ª Edição, LTC Editora, 1990, SP.
+SILVA, V. V.; REIS, G. L.: Geometria Analítica. 2a ed., LTC, São Paulo, 1995.
+SIMMONS, G. F.: Cálculo com Geometria Analítica. Vol. 2, Mcgraw-hill,, S. Paulo, 1987.
+SWOKOWSKI, E. W.: Cálculo com Geometria Analítica. Vol. 2, Makron Books, São Paulo.
+
+CÁLCULO 3-A
+Ementa: Séries de funções. Campo de vetores. Integral de linha. Integral de Superfície. Diferenciais exatas.
+Teorema de Green. Teorema da divergência. Teorema de Stokes. Equações Diferenciais Ordinárias.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+ÁVILA, G. S. S., Cálculo das Funções de uma Variável, vol. 2, 7a ed, Rio de Janeiro: LTC, 2001.
+GUIDORIZZI, H. L., Um Curso de Cálculo, vol. 4, 5a ed, Rio de Janeiro: LTC, 2008.
+LEITHOLD, L.: O Cálculo com Geometria Analítica. Vol. 2, 3a ed., Harbra, São Paulo, 1994.
+STEWART, J: Cálculo. Vol. II, 6a ed., Thomson, São Paulo, 2008.
+Bibliografia Complementar:
+FLEMMING, D.M.; GONÇALVES,M.B.: Cálculo B: Integrais duplas e triplas. Pearson, Prentice Hall, São
+Paulo, 2006.
+HOFFMANN, L. D.: Cálculo: Um curso moderno com aplicações. Vol. 2, 2a ed., LTC, São Paulo, 1990.
+SIMMONS, G. F., Cálculo com Geometria Analítica, São Paulo: McGraw-Hill, vol. 2.
+SWOKOWKI, E. W.; Cálculo com Geometria Analítica, volume 2, 2a edição, Makron Books, São Paulo, 1999.
+THOMAS, G. B: Cálculo. Vol. 2, 10a ed., Pearson, São Paulo, Brasil, 2002.
+
+Cálculo Numérico
+Ementa: Resolução de sistemas lineares, métodos diretos e métodos iterativos. Integração e interpolação.
+Cálculo de raízes de equações. Resolução numérica de equações diferenciais.
+Orientações Metodológicas: As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-
+show, retroprojetores e outros recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+CAMPOS FILHO, F. F.: Algoritmos Numéricos. Editora. Ltc, 2a ed., São Paulo, 2007.
+FRANCO, N. B.: Cálculo Numérico. Pearson Prentice Hall, São Paulo, 2007.
+RUGGIERO, M. A. G.; LOPES, V. L. R.: Cálculo Numérico: Aspectos teóricos e computacionais. 2a ed.,
+Makron Books, São Paulo, 1996.
+Bibliografia Complementar:
+ARENALES , S. H. DE V.; DAREZZO FILHO, A., Cálculo Numérico. Thomson Learning, São Paulo, 2008.
+BURDEN, R. L.; FAIRES, J. D., Análise Numérica. Cengage Learning, São Paulo, 2003.
+BURIAN, R.; LIMA, ANTÔNIO C.: Cálculo Numérico. 1a ed., Ltc, Rio de Janeiro, 2007.
+
+                                                                                                              21
+KINCAID, D., Numerical Analysis:mathematics of scientific computing. Brooks/Cole-Thomson Learning, 1991.
+SPERENDIO, D.; MENDES, J. T.; SILVA, L. H. M.: Cálculo numérico: características matemáticas e
+computacionais dos métodos numéricos. Prentice Hall, São Paulo, 2003.
+
+EQUAÇÕES DIFERENCIAIS ORDINÁRIAS
+Ementa: Equações diferenciais ordinárias de 1a ordem lineares e não lineares. Sistemas de equações diferenciais
+ordinárias. Equações diferenciais ordinárias de ordem superior. Aplicações.
+Orientações Metodológicas: As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-
+show, retroprojetores e outros recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+BOYCE, W. E.; DIPRIMA, R. C.: Equações diferenciais Elementares e Problemas de Valores de Contorno.
+LTC, Rio de Janeiro, 2007.
+DE FIGUEIREDO, D. G.; NEVES, A., Equações Diferenciais Aplicadas: Coleção Matemática Universitária.
+IMPA, São Paulo, 2001.
+ZILL D. G; Equações Diferenciais, Makron Books, Vol. 1, 3aª ed., São Paulo, 2001.
+ZILL, D. G; Equações Diferenciais, Makron Books, Vol. 2, 3aª ed., São Paulo, 2001.
+ZILL, D.G.; Equações Diferenciais com aplicações em modelagem, Pioneira Thomson Learning. São Paulo,
+2003.
+Bibliografia Complementar:
+AYRES JR, F.: Equações Diferenciais. Makron Books, Rio de Janeiro, 1994.
+BASSANEZI, R. C.; Equações Diferenciais com Aplicações, Harbra, S. Paulo, Brasil, 1988.
+CODDINGTON, E. A., An Introduction to Ordinary Differential Equations, Dover Plublications, INC. New
+York, 1989.
+GUIDORIZZI, H. L., Um Curso de Cálculo. Vol. 1, 5a ed., LTC, Rio de Janeiro, Brasil, 2001.
+LEIGHTON, W., Equações Diferenciais Ordinárias. Ltc, Rio de Janeiro, 1978.
+
+GEOMETRIA ANALÍTICA
+Ementa: Vetores no plano e no espaço: Produto escalar e vetorial; Retas: equações cartesiana e paramétricas;
+Planos; Cônicas; Superfícies Quádricas; Coordenadas polares.
+Orientações Metodológicas: As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-
+show, retroprojetores e outros recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+CAMARGO, I., BOULOS, P., Geometria Analítica, 3ª. Ed. Revisada e ampliada- São Paulo: Pearson Prentice
+Hall, 2005.
+LIMA, E. L., CARVALHO, P. C. P., WAGNER, E. e MORGADO, A. C. – A Matemática do Ensino Médio,
+Vol. 3, Coleção do Professor de Matemática, Sociedade Brasileira de Matemática, 2001.
+REIS, G. L. e SILVA, V. V.; Geometria Analítica, Rio de Janeiro: LTC Editora, 2ª Edição, 1997.
+Bibliografia Complementar:
+ÁVILA, G.S.S. – Cálculo das funções de uma variável Vol. II.e III. Editora LTC, 7a Edição,2003.
+FLEMMING, D. M. e GONÇALVES, M. B.- Cálculo A, 6ª. Ed. Revista e ampliada – São Paulo:Pearson
+Prentice Hall, 2006.
+LEITHOLD, L. – O Cálculo com Geometria Analítica – vols. 1 e 2. Editora Harbra.
+LIMA, E. L. , Geometria Analítica e Álgebra Linear, SBM, IMPA, Rio de Janeiro.
+STEINBRUCH, A.; Geometria Analítica, 2ª. Edição, 1987.
+SWOKOWSKI, E. W.; Cálculo com Geometria Analítica, vols. 1 e 2.
+
+INTRODUÇÃO À COMPUTAÇÃO
+Ementa: Conceitos básicos: Noções de lógica de programação; tipos primitivos; constantes e variáveis;
+operadores; expressões. Comandos básicos: atribuição, entrada e saída. Estruturas de controle; seleção e
+repetição. Estruturas de dados homogêneas: vetores e matrizes. Modularização. Desenvolvimento de programas
+utilizando uma linguagem de alto nível.
+Orientações Metodológicas:
+Aulas teóricas para exposição do conteúdo, exemplos, aplicações e resolução de exercícios, usando quadro
+negro, giz, notebook e projetor de multimídia. Aulas práticas no laboratório.
+Bibliografia Básica:
+FORBELLONE, A. L. V e HEN RI, EBERSPACHER, H. F., Lógica de Programação – A Construção de
+Algoritmos e Estruturas de Dados. Prentice Hall, 2005.
+DEITEL, H. M. e DEITEL, P. J. Como programar em C. LTC. 1999.
+ASCÊNCIO, A. F. G. e CAMPOS, E. A. V. Fundamentos da Programação de Computadore3s. Prentice Hall,
+2007.
+                                                                                                            22
+Bibliografia Complementar:
+FARRER, H. e OUTROS. Algoritmos Estruturados. LTC, 1999.
+FARRER, H. e OUTROS. Pascal Estruturados. LTC, 1999.
+GUIMARÃES, A. M. e LAGES, N. A. C. Algoritmos e Estrutura de Dados. GUIMARÃES, A. M. e LAGES,
+N. A. C. Algoritmos e Estrutura de Dados. LTC, 1994.
+HOLLOWAY, J. P. Introdução à Programação para Engenharia. LTC, 2006.
+O’BRIEN, S. Turbo Pascal 6 – Completo e total. Makron Books, 1993.
+
+INGLÊS INSTRUMENTAL
+Ementa: Introdução à leitura de textos em inglês. Estratégias de leitura. Vocabulário e estruturas básicas
+abordadas de forma funcional.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+COLLINS DICIONÁRIO ESCOLAR – Inglês-Português/Português-Inglês.
+OXFORD ESCOLAR para Estudantes Brasileiros de Inglês.
+DIAS, R. Reading critically in English. Belo Horizonte: Ed. UFMG, 3ª ed., ver. E ampl., 2002.
+Bibliografia Complementar:
+GADELHA, I. M. B. Inglês Instrumental: leitura, conscientização e prática. Teresina: EDUFPI, 2000.
+MURPHY, R. Basic grammar in use. Cambridge: C.U.P., 1996.
+SOUZA, A.; ABSY, C.; COSTA, G.; MELLO, L. Leitura em língua inglesa: uma abordagem instrumental.
+São Paulo: Disal Editora, 2005.
+Artigos em língua inglesa.
+Textos de livros e revistas em língua inglesa.
+
+REDAÇÃO E EXPRESSÃO I
+Ementa: Conceito de língua e linguagem. Modalidade oral e escrita. Expressão lingüística. Sintaxe e Semântica.
+Texto e textualidade. Mecanismos de construção textual. Leitura, interpretação e produção de textos.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+CUNHA, C. & CINTRA, Lindley. Nova gramática do português contemporâneo. Rio de Janeiro: Nova
+Fronteira, 1985.
+FÁVERO. L. L. Coesão e coerência textuais. São Paulo: Ática, 1998.
+FIORIN, J. L. & SAVIOLI, F. P. Lições de texto: leitura e redação. São Paulo: Ática, 1999.
+GARCIA, Othon M. Comunicação em prosa moderna – aprenda a escrever, aprendendo a pensar. Rio de
+Janeiro: Editora da Fundação Getúlio Vargas, 1977.
+FARACO, Carlos Alberto & TEZZA, Cristóvão. Prática de texto: língua portuguesa para nossos estudantes.
+Petrópolis: Vozes, 1992.
+Bibliografia Complementar:
+BAGNO, M. Preconceito lingüístico: o que é, como se faz. São Paulo: Loyola, 1999.
+BECHARA. E. Ensino de gramática. Opressão? Liberdade? São Paulo: Ática, 1987.
+CITELLI, A. Linguagem e persuasão. São Paulo: Ática, 1995.
+FIORIN, J. L. Linguagem e ideologia. São Paulo: Ática, 2001.
+FREIRE, P. A importância do ato de ler (em três artigos que se completam). São Paulo: Cortez, 1983.
+GERALDI, J. W. (org.). O texto na sala de aula: leitura e produção. São Paulo: Ática, 1999.
+GNERRE, M. Linguagem, escrita e poder. São Paulo: Martins Fontes, 1998.
+KOCH, I. V. & TRAVAGLIA, L. C. A coerência textual. São Paulo: Contexto, 1995.
+KOCH, I. V. & TRAVAGLIA, L. C. A coesão textual. São Paulo: Contexto, 1993.
+LUFT, C. P. Língua e liberdade – o gigolô das palavras. Porto Alegre: L&PM, 1985.
+MARTINS, M. H. O que é leitura. 19.ed. São Paulo: Braziliense, 1994.
+PAULINO, G., WALTY, I., FONSECA, M. N. & CURY, M. Z. Tipos de textos, modos de leitura. Belo
+Horizonte: Formato Editorial, 2001.
+PÉCORA, A. Problemas de redação. São Paulo: Martins Fontes, 1999.
+SOARES, M.S. & CAMPOS, E. N. Técnica de redação. Rio de Janeiro: Ao Livro Técnico, 1978.
+VAL, M. G. C. Redação e textualidade. São Paulo: Martins Fontes, 1994.
+Obs.: outros textos poderão ser escolhidos ao longo do semestre
+                                                                                                              23
+PLANO DE LEITURA:
+ALMEIDA, M. J. de. Ensinar Português? In: GERALDI, João W. (org.). O texto na sala de aula: leitura e
+produção. São Paulo: Ática, 1999.
+GERALDI, J. W. Concepções de linguagem e ensino de português. In: GERALDI, João W. (org.). O texto na
+sala de aula: leitura e produção. São Paulo: Ática, 1999.
+POSSENTI, S.. Gramática e política. In: In: GERALDI, João W. (org.). O texto na sala de aula: leitura e
+produção. São Paulo: Ática, 1999.
+SOUZA, J. E. de. A importância da leitura. Mimeo.
+
+Disciplinas Optatívas
+
+ANÁLISE DE DADOS LONGITUDINAIS
+Ementa: Considerações de desenhos. Explorando dados longitudinais. Modelos lineares gerais para dados longitudinais.
+Modelos paramétricos para a estrutura de covariância. Métodos de análise de variância. Modelos lineares generalizados
+para dados longitudinais. Modelos com efeitos aleatórios. Modelos de Análise de Sobrevivência.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+DIGGLE, P. J., HEAGERTY, P., LIANG, K. Y. e ZEGER, S. L. Analysis of Longitudinal Data. Oxford
+University Press, 2002.
+FITZMAURICE, G. M., LAIRD, N. M. e WARE, J. H. Applied Longitudinal Analysis. Wiley, 2004.
+HEDEKER, D. e GIBBONS, R. D. Longitudinal Data Analysis. Wiley, 2006.
+Bibliografia Complementar:
+LINDSEY, J Models for repeated measurements. Oxford, 1999.
+VERBEKE, G. e MOLENBERGHS, G. Linear Mixed Models for Longitudinal Data. Springer, 2ª printing
+edition, 2009.
+HSIAO, C. Analysis of Panel Data, Cambridge, 2002.
+COLLET, D. Modelling survival data in Medical Research, Second edition Chapman-Hall, 2003.
+KLEINBAUM, D & KLEIN, M. Survival Analysis: A self learning text. Second Edition, Springer, 2005.
+
+ANÁLISE DE REGRESSÃO NÃO LINEAR
+Ementa: Autocorrelação. Heteroscedasticidade. Multicolinearidade. Modelos de regressão não-linear. Modelos
+lineares generalizados. Regressão robusta.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+RITZ C., STREIBIG J. C., Nonlinear Regression with R, Springer,2008.
+SEBER G. A. F., WILD C. J., Nonlinear Regression, Wiley-Interscience, 2003.
+BATES D.M., WATTS D.G. Nonlinear Regression Analysis and Its Applications, Wiley-Interscience,2007.
+Bibliografia Complementar:
+SOUZA, G., Introdução aos Modelos de Regressão Linear e Não-Linear, EMBRAPA, 1998.
+BOUVIER, A.; HUET, S.; POURSAT, M.A. Statistical Tools For Nonlinear Regression A Practical Guide
+With S-Plus And R Examples. Editora SPRINGER VERLAG NY, 2ª Edição, 2003.
+BIRKES, D & DODGE, Y Alternative methods of regressions. Wiley-Interscience, 1993.
+RATKOVSKY D. A., Nonlinear Regression Modelling, Marcel Dekker, 1983.
+CORDEIRO, G.M. Modelos Lineares Generalizados, X SINAPE, Rio de Janeiro.1992.
+
+ANÁLISE DE SOBREVIVÊNCIA
+Ementa: Conceitos básicos. Modelagem paramétrica. Técnicas não-paramétricas. Modelos de regressão
+paramétricos. Modelo semiparamétrico de riscos proporcionais de Cox. Modelo aditivo de Aalen. Censura
+intervalar e dados agrupados Análise de sobrevivência multivariada.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+COLOSIMO, E.A., e GIOLO, S.R. Análise de Sobrevivência Aplicada, ABE-Projeto Fisher. 2006.
+COX, D.R., OAKES, D. Analysis of Survival Data. Chapman and Hall, London.1984.
+HOSMER, D.W. e LEMESHOW, S., Applied Survival Analysis. New York. John Wiley and Sons, 1999.
+                                                                                                               24
+Bibliografia Complementar:
+FLEMING, T.R. and HARRIGTON, D.P. Counting Processes and Survival Analysis. Wiley, New York. 1991.
+LAWLESS, J.F. Statistical Models and Methods for Lifetime Data. Wiley, New York. 1982.
+MILLER, R.G.; Survival Analysis. Editora: JOHN WILEY PROFESSIO, 1ª Edição - 1998.
+KALBFLISCH, D.J., PRENTICE, R.L. The Statistical Analysis of Failure Time Data. Wiley, New York.
+1980.
+LEE, E.T. e WANG, J.W., Statistical Methods for Survival Data Analysis. New York. John Wiley and Sons,
+2003.
+
+AMOSTRAGEM II
+Ementa: Amostragem de conglomerados sem sub-amostragem: Conglomerados de tamanhos iguais,
+conglomerados de tamanhos desiguais. Amostragem em varias etapas: Definições, vantagens e desvantagens.
+Teorema de Madow. Amostragem em duas etapas: Tamanhos de amostra ótimos. Estratificação. Método
+Random Route, e sua aplicação à pesquisa de mercados. Métodos de Estimação de Variâncias: Método dos
+grupos aleatórios. Introdução ao Bootstrap e Jacknife no contexto de amostragem. Outros Desenvolvimentos:
+Amostragem Duplo, definição, vantagens e método para a estimação por diferenças em amostras independentes.
+Erros que não são do amostragem: Introdução, Classificação. O problema da falta de resposta. Métodos de
+Hansen e Hurwitz.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios. Os alunos se organizaram para a apresentação
+de um projeto que envolva uma pesquisa por amostragem com um delineamento complexo.
+Bibliografia Básica:
+BUSSAB W., BOLFARINE, H., Elementos de Amostragem, Projeto fisher, Edgar Blucher, 2005.
+COCHRAN, W., Sampling Techniques. John Wiley & Sons, New York, 1977.
+KISH, L. Survey Sampling. Wiley-Interscience, 1995.
+Bibliografia Complementar:
+HANSEN, M. H., HURWITZ, W. N., MADOW, W.G. Sample survey methods and theory. Wiley-Interscience;
+Reprint edition , 1993.
+SILVA, N. N. da. Amostragem Probabilística Um Curso Introdutório. EDUSP, 2ª Edição.
+LEVY, P.S. and LEMESHOW, S. Sampling of Populations: Methods and Applications. Wiley; 4 edition2009.
+SUKHATME, B. V., SUKHATME, P.V. Sampling theory of surveys with applications. Iowa State Pr; 3 Sub
+edition , 1984.
+SHEAFER, R. L., MENDEKALL, W., OTT, L. Elementary survey sampling. Duxbury Press; 6 edition, 2005.
+THOMPSON, S.K. Sampling. Wiley-Interscience; 2 edition , 2002.
+
+BIOESTATÍSTICA
+Ementa: Introdução e conceitos básicos de epidemiologia. Ensaios clínicos aleatorizados. Tipos de estudos
+médicos; Determinação de tamanho de amostra; Comparação de duas proporções – amostras independentes;
+Extensão para tabelas r x c; Comparação de duas proporções – amostras emparelhadas; Regressão Logística;
+Introdução a Análise de Sobrevivência.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+SOARES, J.F.; SIQUEIRA, A.L. Introdução à Estatística Médica. 2ª ed., Belo Horizonte: Coopmed, 2002.
+PAGANO, M, GAUVREAU K. Princípios de bioestatística. São Paulo: Pioneira Thomson Learning, 2004.
+ARANGO, H.G. Bioestatística: Téorica e Computacional com bancos de dados reais em disco. 3ª ed. Rio de
+Janeiro: Guanabara Koogan, 2009.
+Bibliografia Complementar:
+FLETCHER R.H.; FLETCHER S.W.; WAGNER E.H. Epidemiologia Clínica. 3ª ed., Porto Alegre: Editora
+Artes Médicas, 1996.
+PESTANA, M. H.; GAGEIRO, J. N. Análise Categórica, Arvores de Decisão e Análise de Conteúdo - Em
+Ciências Sociais e da Saúde, com o SPSS. Editora Lidel, 2009.
+COLOSIMO, E. A.; GIOLO, S. R. Análise de Sobrevivência Aplicada. São Paulo: Edgard Blucher, 2006.
+GRESTI, A., An Introduction to Categorical Data Analysis, John Wiley & Sons, New York, 1996.
+LEE, E.T. & WANG, J.W. Statistical Methods for Survival Data Analysis. New York. John Wiley and Sons,
+2003.
+
+                                                                                                              25
+INFERÊNCIA BAYESIANA
+Ementa: Distribuições a priori e posteriori. Princípios gerais da inferência bayesiana e vínculo com a inferência
+clássica. Conflito entre priori e posteriori. Utilidade e perda. Permutabilidade: Teorema de De Finetti.
+Distribuições a priori: próprias, impróprias, conjugadas, informativas e não informativas. Fator de Bayes:
+comparação de modelos, sensibilidade. Teste de hipóteses bayesianos e regiões de credibilidade. Métodos
+clássicos de aproximação: integração numérica, integração por Monte Carlo e aproximação analítica de Laplace.
+Amostragem bayesiana e MCMC.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+GELMAN, A.;Carlin, J. B. ; Stern, H. S.; Rubin, D. B. Bayesian Data Analysis. 2th edition. Chapman & Hall. 2004.
+LEE, P. M. Bayesian Statistics: An Introduction. Wiley, 3a edição, 2004.
+BOLSTAD, W. M. Introduction to Bayesian statistics. Editora John Wiley Professio, 2a edição, 2007.
+Bibliografia Complementar:
+ROBERT CHRISTIAN, P. The Bayesian Choice. Springer. New York,1994.
+MIGON, H. AND GAMERMAN, D. Statistical Inference: An Integrated Approach. Arnold, 1999.
+GAMERMAN, D. ; Lopes, H.F. Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference.
+Chapman-Hall, 2a edição, 2006.
+PAULINO, C.D.M.; MURTEIRA, B.J.F.; TURKMAN, M.A.A. Estatística Bayesiana. Fundação Calouste
+Gulbenkian, 2003.
+BOX, G.E.P. , TIAO, G.C. Bayesian inference in statistical analysis. Reading, Mass. : Addison-Wesley, 1973.
+
+INICIAÇÃO À PESQUISA CIENTÍFICA I
+Ementa: Atividades de iniciação científica em estatística e/ou probabilidade supervisionadas por docentes do
+curso, resultando em apresentação de seminário(s) e relatório técnico.
+Orientações Metodológicas: Variável.
+Bibliografia Básica:
+BUSSAB W. O., MORETTIN P. A., Estatística Básica, 5a ed., Saraiva, São Paulo, 2006.
+NORRIS, J.R. Markov Chains.Cambridge University Press, 1998.
+ATHANASIOS, P. e UNNIKHRISHNA, P. Probability, Random Variables and Stochastic Processes, 4ª ed.,
+McGraw-Hill, 2002.
+LANGE, K. Mathematical and Statistical Methods for Genetic Analysis. Second Edition, Springer, 2002.
+Bibliografia Complementar:
+STIRZAKER, D. Elementary Probability. 2ª edição, Cambridge, 2003.
+HOEL, P. G.; PORT, S. C.; STONE, C. J. Introduction to stochastic processes. Boston: Houghton Milfflin, 1972.
+ROSS, S. Introduction to Probability Models, 8ª ed. Academic Press, 2003.
+FELLER, W. An Introduction to Probability Theory and its Applications, vol I. John Wiley, 1957.
+TRIOLA, M.F. Introdução à Estatística. Rio de Janeiro: LTC, 2008.
+CASSELA, G. e BERGER, R.L. Inferência Estatística. 1a edição, Editora Cengage, 2010.
+FERRATY, F.; VIEU, P. Nonparametric Functional Data Analysis. 1ª ed. New York: Springer-Velag Inc.,
+2006. (Springer Series in Statistics).
+WALLER, L. A.; GOTWAY, C. A. Applied spatial statistics for public health data, Wiley, 2003.
+NELSEN, R. B. An Introduction to Copulas. Second Edition, Springer, 2006.
+
+INICIAÇÃO À PESQUISA CIENTÍFICA II
+Ementa: Atividades de iniciação científica em estatística e/ou probabilidade supervisionadas por docentes do
+curso, resultando em apresentação de seminário(s) e relatório técnico.
+Orientações Metodológicas: Variável.
+Bibliografia Básica:
+BUSSAB W. O., MORETTIN P. A., Estatística Básica, 5a ed., Saraiva, São Paulo, 2006.
+NORRIS, J.R. Markov Chains.Cambridge University Press, 1998.
+ATHANASIOS, P. e UNNIKHRISHNA, P. Probability, Random Variables and Stochastic Processes, 4ª ed.,
+McGraw-Hill, 2002.
+LANGE, K. Mathematical and Statistical Methods for Genetic Analysis. Second Edition, Springer, 2002.
+Bibliografia Complementar:
+STIRZAKER, D. Elementary Probability. 2ª edição, Cambridge, 2003.
+HOEL, P. G.; PORT, S. C.; STONE, C. J. Introduction to stochastic processes. Boston: Houghton Milfflin, 1972.
+ROSS, S. Introduction to Probability Models, 8ª ed. Academic Press, 2003.
+
+                                                                                                              26
+FELLER, W. An Introduction to Probability Theory and its Applications, vol I. John Wiley, 1957.
+TRIOLA, M.F. Introdução à Estatística. Rio de Janeiro: LTC, 2008.
+CASSELA, G. e BERGER, R.L. Inferência Estatística. 1a edição, Editora Cengage, 2010.
+FERRATY, F.; VIEU, P. Nonparametric Functional Data Analysis. 1ª ed. New York: Springer-Velag Inc.,
+2006. (Springer Series in Statistics).
+WALLER, L. A.; GOTWAY, C. A. Applied spatial statistics for public health data, Wiley, 2003.
+NELSEN, R. B. An Introduction to Copulas. Second Edition, Springer, 2006.
+
+INTRODUÇÃO À ANÁLISE DE RISCO
+Ementa: Teoria da utilidade e seguro. Modelo do Risco Individual. Modelo do Risco Coletivo. Teoria da Ruína.
+Princípios de cálculo de prêmio. Sistema Bonus-Malus. Teoria da Credibilidade.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens, apresentação de seminários e resolução de exercícios.
+Bibliografia Básica:
+BOWERS, N.; GERBER, H.U.; HICKMAN, J.C; JONES,D.A; NESBITT, C.J. Actuarial Mathematics. The
+Society Of Actuaries, 1997.
+KAAS, R.; GOOVAERTS,M.; DHAENE,J.; DENUIT,M. Modern Actuarial Risk Theory, Springer, 2001.
+DENUIT, M.; DHAENE, J.; GOOVAERTS, M. and KAAS, R. Actuarial Theory of Dependent Risks:
+Measures, Orders and Models, Wiley, 2005.
+Bibliografia Complementar:
+CHAVAS, J.P.; Risk Analysis In Theory And Practice. Editora: ACADEMIC PRESS, 1ª Edição, 2004.
+BUHLMANN, H. Mathematical methods in risk theory. Springer, New York, 1996.
+MCNEIL, A.; Frey, L. and Embrechtes, P. Quantitative Risk Management. Princeton Series in Finance,
+Princeton, 2005.
+VILANOVA, W. Matemática Atuarial. Editora Pioneira USP, 1969.
+FILHO, A.C. Cálculo Atuarial Aplicado. Teoria e Aplicações. Exercícios Resolvidos e Propostos. Editora
+Atlas, 2009.
+
+TÓPICOS EM ESTATÍSTICA
+Ementa: Variável.
+Orientações Metodológicas: Variável.
+Bibliografia Básica:
+COSTA, A. F. B., EPPRECHT, E., K. , CARPINETTI, L. C. R. Controle Estatístico de Qualidade, 2ª edição,
+São Paulo, Editora Atlas, 2005.
+STIRZAKER, D. Elementary Probability. Editora: Cambridge, 2ª edição, 2003.
+ATHANASIOS, P. e UNNIKHRISHNA, P. Probability, Random Variables and Stochastic Processes, 4ª ed.,
+McGraw-Hill, 2002.
+EWENS, W. J.; GRANT, G. R. Statistical Methods in Bioinformatics. Springer, 2001.
+Bibliografia Complementar:
+ROSS, S. M. Stochastic Processes. Wiley Series in Probability, second edition, 1996.
+HOEL, P. G.; PORT, S. C.; STONE, C. J. Introduction to stochastic processes. Boston: Houghton Milfflin,
+1972.
+ROSS, S. Introduction to Probability Models, 8ª ed. Academic Press, 2003.
+FELLER, W. An Introduction to Probability Theory and its Applications, vol I. John Wiley, 1957.
+FERRATY, F.; VIEU, P. Nonparametric Functional Data Analysis. 1ª ed. New York: Springer-Velag Inc.,
+2006. (Springer Series in Statistics).
+RAMSAY, J.; SILVERMAN, B. W. Functional Data Analysis. 2ª ed. New York: Springer-Velag Inc., 2006.
+(Springer Series in Statistics).
+WALLER, L. A.; GOTWAY, C. A. Applied spatial statistics for public health data, Wiley, 2003.
+LANGE, K. Mathematical and Statistical Methods for Genetic Analysis. Second Edition, Springer, 2002.
+NELSEN, R. B. An Introduction to Copulas. Second Edition, Springer, 2006.
+
+MODELOS LINEARES GENERALIZADOS
+Ementa: Conceitos básicos e notação. Modelos lineares. Família exponencial e modelos lineares generalizados.
+Variáveis binárias e regressão logística. Regressão logística nominal e ordinal. Regressão de Poisson e modelos
+log-lineares. Análise de sobrevivência.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+                                                                                                              27
+Bibliografia Básica:
+MYERS, R.H.; MONTGOMERY, D.C.; VINING, G.G.; Generalized Linear Models With Applications In
+Engineering And The Sciences. Editora: JOHN WILEY PROFESSIO, 1ª Edição, 2010.
+HILBE, J.M; HARDIN, J.W. Generalized Linear Models Theory And Applications. Editora: CRC PRESS, 1ª
+Edição, 2007.
+DOBSON, A.J. An Introduction to Generalized Linear Models. Chapman & Hall, London.1989.
+Bibliografia Complementar:
+CORDEIRO, G.M. Modelos Lineares Generalizados, X SINAPE, Rio de Janeiro.1992.
+DEMÉTRIO, C.B.G.Modelos Lineares Generalizados na Experimentação Agronômica, SEAGRO, Porto
+Alegre. 1999.
+McCULLAGH, P., NELDER, J.A. Generalized Linear Models. 2nd ed. Chapman & Hall, London. 1991.
+NETER. J., KUTNER, M.H., NACHTSHEIM, C.J. e WASSERMAN, W. Applied Linear Statistical Models,
+4th ed., Irwin, Chicago.1996.
+SOUZA, G.S. Introdução aos Modelos de Regressão Linear e não-linear. Embrapa, Brasília, 1998.
+
+O ENSINO DE ESTATÍSTICA
+Ementa: Metodologias de ensino relacionadas ao desenvolvimento do pensamento probabilístico e estatístico.
+Elaboração e aplicação de materiais pedagógicos relacionado à educação estatística. Experiências relacionadas a
+observação, acompanhamento, planejamento e realização de atividades de ensino na educação básica.
+Orientações Metodológicas: As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-
+show, retroprojetores e outros recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+ANDRADE, M. M.; WODEWOTZKI, M. L. L. Um olhar sobre a Educação Estatística no Contexto da
+Educação Matemática. In: Encontro Nacional de Educação Matemática, 2007, Belo Horizonte - MG. Anais do
+IX ENEM - Encontro Nacional de Educação Matemática. Belo Horizonte, 2007.
+BATANERO, M. C., GODINO, J. D. E NAVARRO-PELAYO, V. Razonamiento combinatório. Madrid.
+Sintesis, 1994.
+CAMPOS, C. A Educação Estatística: Uma Investigação Acerca dos Aspectos Relevantes à Didática da
+Estatística em Cursos de Graduação. Tese (Doutorado em Educação Matemática [Rio Claro]) - Universidade
+Estadual Paulista Júlio de Mesquita Filho, 2007.
+CAMPOS, C. R.; WODEWOTZKI, M. L. L. A Didática da Estatística: Soluções para a Sala de Aula. In: V
+CIBEM - CONGRESSO IBERO-AMERICANO DE EDUCAÇÃO MATEMÁTICA, 2005, Porto. Actas do V
+CIBEM in Grupo de Discussão 03-Probabilidade e Estatística. Porto - Portugal: Faculdade de Ciências da
+Universidade do Porto, 2005.
+CAZORLA, I. A relação entre a habilidade viso-pictórica e o domínio de conceitos estatísticos na leitura de
+gráficos. Unicamp. 2002.
+CORDANI, L. O Ensino de Estatística na Universidade e a controvérsia sobre os fundamentos da Inferência.
+Faculdade de Educação da Universidade de São Paulo, 2001.
+FIGUEIREDO, A. Probabilidade Condicional: Um enfoque de seu ensino-aprendizagem. São Paulo: PUCSP,
+2000.
+GAMA, M. História da Estatística no Brasil. BOLETIM DA ABE, São Paulo, n.53, p.14-21, agosto, 2003.
+GONÇALVES, M. Concepções de professores e o ensino de probabilidade na escola básica. 2004. São Paulo:
+PEPGEM, PUC/SP.
+JACOBINI, O. A modelação matemática aplicada no ensino de estatística em cursos de graduação. Rio Claro,
+SP: UNESP, 1999.
+LOPES, C. A. E. A Probabilidade e a Estatística no Ensino Fundamental: uma analise curricular. Dissertação
+de Mestrado. FE/UNICAMP, 1998.
+LOPES, C. O conhecimento profissional dos professores e suas relações com estatística e probabilidade na
+educação infantil. Unicamp, 2003.
+LOPES, C.; MORAN, R.. A estatística e a probabilidade através das atividades propostas em alguns livros
+didáticos brasileiros recomendados para o ensino fundamental. In: CONFERÊNCIA INTERNACIONAL,
+EXPERIÊNCIAS E PERSPECTIVAS DO ENSINO DA ESTATÍSTICA: DESAFIOS PARA O SÉCULO XXI,
+1, 1999, Florianópolis. Anais...Florianópolis: UFSC/PRESTA/IASE,1999. p. 167-174.
+NETO, F. C. O Grande desafio da Estatística. BOLETIM DA ABE, São Paulo, n53, p.21-24, agosto, 2003.
+PANAINO, R. Estatística no ensino fundamental: uma proposta de inclusão de conteúdos matemáticos. Rio
+Claro: Unesp, 1998.
+PESTANA, D. Aprender a ler, aprender estatística. Educação e matemática, 38, 1, 1996.
+PESTANA, D. Estatística – os perigos da interpretação. Educação e matemática, 42, pp.31-33, 1997.
+ROSETTI JÚNIOR, H. Educação Estatística no ensino básico: uma exigência do mundo do trabalho. Revista
+Capixaba de Ciência e Tecnologia, Vitória, n. 2, p. 35-37, 1. sem. 2007. Disponível em
+http://recitec.cefetes.br/artigo/documentos/Artigo%205.pdf.
+                                                                                                            28
+SILVA, C. da. Atitudes em relação à estatística: um estudo com alunos de graduação. Campinas: FE-
+Unicamp, 2000.
+STELLA, C. Um estudo sobre o conceito de média com alunos do ensino médio. 2003. São Paulo, PEPGEM,
+PUC/SP.
+VENDRAMINI, C. Implicações das atitudes e das habilidades matemáticas na aprendizagem dos conceitos de
+Estatística. Campinas: FE-UNICAMP, 2000.
+WODEWOTZKI, M. L. L.; JACOBINI, O. R. O Ensino de Estatística no contexto da Educação Matemática.
+In: BICUDO, M.; BORBA, M. (Orgs.). Educação Matemática: Pesquisa em Movimento. São Paulo: Cortez
+Editora, 2004.
+Bibliografia Complementar:
+BARRETO, A. Uma abordagem histórica do desenvolvimento da Estatística no Estado de São Paulo. Rio
+Claro: UNESP, 1999.
+BEN-ZVI, Dani, GARFIELD, Joan. (Eds.). The challenge of developing statistical literacy, reasoning and
+thinking. Dordrecht (Netherlands): Kluwer, 2004.
+FEIJOÓ, N. R. Estudio de las actitudes de los estudiantes universitários hacia la matemática y la estadistica.
+Revista intercontinental de Psicologia e Educacion, 4(2), pp. 69-83, 1991.
+GARFIELD, Joan, BURRILL, Gail. (Eds.) Research on the role of technology in teaching and learning
+statistics. Proceedings of the 1996 IASE Round Table Conference. Voorburg (Netherlands): International
+Statistical Institute. 1997.
+HAWKINS, Anne, JOLLIFFE, Flavia, GLICKMAN, Leslie. Teaching statistical concepts. London: Longman,
+1992.
+LAJOIE, Susanne. (Ed.) Reflections on statistics: Learning, teaching, and assessment in grades K-12. Mahwah
+(NJ): Lawrence Erlbaum, 1998.
+SOUZA, C.. A distribuição binomial no ensino superior. 2002. São Paulo: PEPGEM, PUC/SP.
+MIGUEL, M.. Ensino e aprendizagem do modelo de Poisson: uma experiênca com modelagem. São Paulo:
+PEPGEM - PUCSP, 2005.
+VALLECILLOS, A J. Inferencia estadística y ensenanza: un análisis didáctico del contraste de hipótesis
+estadísticas. Granada - ES. Colección Mathema. ED. Comares, 1996.
+WODEWOTZKI, M. L. L.; CAMPOS, C. R. A Educação Estatística, a Modelagem Matemática e a Educação
+Crítica: Um Projeto. Teoria e Prática da Educação, 2008.
+
+PESQUISA OPERACIONAL
+Ementa: Problemas Clássicos de Programação Linear; Solução Gráfica de Problemas de Programação Linear;
+Método Simplex; Dualidade; Problema do transporte; Análise de Sensibilidade.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+DE ANDRADE, E. L, Introdução à Pesquisa Operacional: Métodos e Modelos Para Análise de Decisão,
+Terceira Edição, LTC, 2004.
+FREITAS G. L. A., Pesquisa operacional na tomada de decisão: modelagem em Excel, Terceira Edição,
+Editora Campus, 2006.
+YANASSE, H. H. e outros, Pesquisa Operacional – Modelagem e Algoritmos, Elsevier-Campus.
+Bibliografia Complementar:
+PRADO, D.. Programação linear, Quarta Edição, Indg Tecnologia e Serviços LTDA, 2005.
+DA SILVA, E. M. e outros, Pesquisa Operacional para os cursos de Economia, Administração e Ciências
+Contábeis, Terceira Edição, Atlas, 2007.
+CORRAR, L. J. E RENATO, C., Pesquisa Operacional para Decisão em Contabilidade e Administração,
+Atlas.
+MACULAN, N. E FAMPA, M. H. C., Otimização Linear, Editora UnB, 2006.
+MOREIRA, D. A., Pesquisa Operacional – Curso Introdutório, Thomson.
+BRONSON, R., Pesquisa Operacional, Schaum McGraw-Hill, 1985.
+
+INTRODUÇÃO A TEORIA DA MEDIDA
+Ementa: Funções mensuráveis. Espaços de medida. Construção de medidas. Funções integráveis. Teoremas de
+convergência. Espaços Lp. Teorema de Radon-Nikodým. Teorema de Riesz. Teorema de Fubini. Medidas
+produto.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+
+                                                                                                              29
+Bibliografia Básica:
+FERNANDEZ, P. Medida e Integração. Projeto Euclides. IMPA, Rio de Janeiro, 1976.
+CASTRO JR., A. A., Curso de Teoria da Medida, Rio de Janeiro, IMPA 2004.
+ROYDEN, H.L. Real Analysis. 2nd Edition, McMillan Publishing. New York, 1968.
+Bibliografia Complementar:
+BARTLE, R.G. A Modern Theory of Integration. American Mathematical Society. Providence, 2001.
+BARTLE, R. The Elements of Integration. John Wiley & Sons. New York, 1966.
+DE BARRA, G. Measure Theory and Integration. E. Horwood, 1981.
+RUDIN, W. Real and Complex Analysis. Higher Mathematics Series. 3rd Edition. McGraw-Hill Companies, 1986.
+LIMA, E. L. Curso de Análise, Vol 1, Projeto Euclides.
+
+ÁLGEBRA LINEAR II
+Ementa: Transformações Lineares; A álgebra das transformações lineares; Isomorfismos; Representação de
+transformações por matrizes; Funcionais lineares; Valores característicos; Polinômios anuladores; Sub-espaços
+invariantes; Decomposição em soma direta; Somas diretas invariantes; O teorema da decomposição primária;
+Sub-espaços cíclicos e anuladores; Decomposições cíclicas e anuladores; Decomposições cíclicas e a Forma
+Racional; A Forma Canônica de Jordan; Produtos Internos; Espaços com produto interno; Funcionais lineares e
+adjuntos; Operadores unitários; Operadores Normais; Teorema Espectral.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+HOFFMAN, K. KUNZE, R. Álgebra Linear, Livros Técnicos e Científicos Editora, 1979.
+LIMA, E. L., Álgebra Linear, CMU, IMPA, CNPq, 1999.
+HALMOS, P. R. Finite Dimensional Vector Spaces, Springer-Verlag, 1986.
+Bibliografia Complementar:
+LIPSCHULTZ, S., Algebra Linear, McGrawn-Hill, São Paulo, 1980.
+COELHO, F.U. e LOURENÇO, M. L., Um Curso de Álgebra Linear, EDUSP, São Paulo, 2001.
+NOMIZU, K. Fundamentals of Linear Algebra, Chelsea Publishing Company, 1979.
+NOBLE, B. e DANIEL, J. W., Algebra Linear Aplicada, 2ª Ed., Prentice Hall do Brasil, Rio de Janeiro, 1986.
+POOLE, D., Algebra Linear, Thomson Learning, SÃo Paulo, 2004.
+
+ANÁLISE I
+Ementa: Conjuntos enumeráveis e não enumeráveis; Números reais; Seqüências e Séries de Números Reais;
+Noções Topológicas na reta; Limite e Continuidade de funções.
+Orientações Metodológicas: As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-
+show, retroprojetores e outros recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+LIMA, E. L. Curso de Análise, Vol 1, Projeto Euclides.
+FIGUEIREDO, D. G., Análise l, LTC.
+ÁVILA, G. S. S. Elementos de Análise Real, Edgard Blucher.
+Bibliografia Complementar:
+LIMA, E. L. Análise Real Vol. I. Coleção Matemática Universitária, SBM.
+RUDIN, W., Princípios de Análise Matemática, Editora da UnB, 1971.
+PUGH, C., Real Mathematical Analysis, Springer Verlag, 2002.
+Lang, S., Analysis I, Addisson-Wesley , New York, 1968.
+Artigos elementares publicados na Revista Amer. Math. Monthly (disponível no portal da CAPES e Biblioteca
+Central da UFG).
+
+ANÁLISE II
+Ementa: Derivadas e Aplicações; Integral de Riemann; Teorema Fundamental do Cálculo; Fórmulas de Taylor;
+Integrais Impróprias; Seqüências e séries de funções.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+LIMA, E. L. Curso de Análise, Vol 1, Projeto Euclides.
+FIGUEIREDO, D. G., Análise l, LTC.
+ÁVILA, G. S. S. Elementos de Análise Real, Edgard Blucher.
+
+                                                                                                              30
+Bibliografia Complementar:
+LIMA, E. L. Análise Real Vol. I. Coleção Matemática Universitária, SBM.
+RUDIN, W., Princípios de Análise Matemática, Editora da UnB, 1971.
+PUGH, C., Real Mathematical Analysis, Springer Verlag, 2002.
+Lang, S., Analysis I, Addisson-Wesley , New York, 1968.
+Artigos elementares publicados na Revista Amer. Math. Monthly (disponível no portal da CAPES e Biblioteca
+Central da UFG).
+
+PESQUISA DE OPINIÃO E MERCADO I
+Ementa:Importância da pesquisa de opinião e mercado para o planejamento organizacional. Conceitos de
+pesquisa quantitativa e pesquisa qualitativa. Etapas de uma pesquisa de opinião e mercado. Execução de um
+projeto de pesquisa de opinião e mercado: elaboração do instrumento de pesquisa, amostragem, análise de dados
+e resultados e apresentação do relatório final.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+MALHOTRA. Nareks K. Pesquisa de Marketing. Uma orientação aplicada. 4ª. ed. Porto Alegre: Bookman,
+2006.
+MATTAR. Fauze Najib. Pesquisa de Marketing: metodologia, planejamento, execução e análise. São Paulo:
+Atlas, 2004.
+MARCONI, Marina de A. & LAKATOS, Eva M. Técnicas de Pesquisa. 5ª ed. São Paulo, Ed. Atlas, 2006.
+Bibliografia Complementar:
+DANCEY, Christine P. et. al. Estatística sem matemática. 3. ed. Porto Alegre: Artmet, 2006.
+OLIVEIRA, Silvio Luiz de. Tratado de Metodologia Científica: Projetos de Pesquisas, TGI, TCC,
+Monografias, Dissertações e Teses. São Paulo, Ed. Pioneira, 1997.
+RICHARDSON, Roberto J. Pesquisa Social: Métodos e Técnicas. 3ª ed. revista e ampliada. São Paulo, Ed.
+Atlas, 1999.
+SEVERINO, A.J. Metodologia do trabalho científico. 20a ed., São Paulo, Cortez, 1998.
+DENCKER, Ada de Freitas & DA VIÁ, Sarah C. Pesquisa Empírica em Ciências Humanas. São Paulo, Ed.
+Futura, 2001.
+
+ECONOMETRIA
+Ementa: Modelo linear. Multicolinearidade, heteroscedasticidade e autocorrelação. Variáveis binárias. Modelos
+dinâmicos: defasagens distribuídas, expectativas e ajustamento parcial. Equações simultâneas: tipos de
+estruturas, o problema de identificação e métodos de estimação.
+Orientações Metodológicas:
+As aulas teóricas serão abordadas, utilizando-se a exposição no quadro-giz e, data-show, retroprojetores e outros
+recursos, com reflexão das abordagens e resolução de exercícios.
+Bibliografia Básica:
+GUJARATI, D. N. Econometria Básica. Rio de Janeiro: Elsevier, 2006.
+PINDYCK, R. S., RUBINFELD, D. L. Econometria: modelos e previsões. Rio de Janeiro: Campus, 2004.
+WOOLDRIDGE, J.M. Introdução à Econometria: uma abordagem moderna. São Paulo : Pioneira Thomson
+Learning, 2006.
+Bibliografia Complementar:
+Hill, R.C, GRIFFITHS.W. e JUDGE, G.G. Econometria. São Paulo: Saraiva, 2003. 2ed.
+HOFFMANN, R. Estatística para Economistas. São Paulo: Pioneira,1980.
+BUSSAB, W. O., MORETTIN, P. A. Estatística Básica. 5. ed. São Paulo: Saraiva, 2002.
+GREEN, W. Econometrics Analysis. Prentice Hall, New Jersey, 5º ed, 2003.
+BUENO, R. de L. S. Econometria de Séries Temporais. São Paulo: Cengage Learning, 2008.
+MORETTIN, P. A., Econometria Financeira: um curso em séries temporais financeiras. São Paulo: Editora
+Blucher, 2008.
+
+INTRODUÇÃO A LÍNGUA BRASILEIRA DE SINAIS - LIBRAS
+Ementa: Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções
+comunicativas elementares. Concepções sobre a Língua de Sinais. O surdo e a sociedade.
+
+
+
+                                                                                                              31
+5.4        Sugestão de Fluxo
+
+                                    CHT    CHS
+            1º Semestre                          UR         2º Semestre          CHT CHS      UR
+                                    96h     6h
+Cálculo I                                        IME   Álgebra Linear I          64h   4h     IME
+Estatística I                        64h    4h   IME   Cálculo II                 96h  6h     IME
+Geometria Analítica                  64h    4h   INF   Estatística II             64h  4h     IME
+Introdução à Computação              64h    4h   IME   Probabilidade I            96h  6h     IME
+Total CH Semestre                   288h   18h         Total CH Semestre         320h 20h
+
+            3º Semestre             CHT    CHS              4º Semestre          CHS CHS
+
+Cálculo III                         64h    4h    IME   Demografia                64h    4h    IME
+Estatística Computacional I         64h    4h    IME   MEBD                      64h    4h    IME
+Inferência I                        64h    4h    IME   Inferência II             64h    4h    IME
+Probabilidade II                    64h    4h    IME   Inglês Instrumental       64h    4h     FL
+                                                       Métodos             não
+Redação e Expressão I               64h    4h    FL                              64h    4h    IME
+                                                       paramétricos
+Total CH Semestre                   320h   20h         Total CH Semestre         320h   20h
+            5º Semestre             CHT    CHS              6º Semestre          CHS CHS
+Amostragem I                        96h    6h    IME   Análise Multivariada      96h    6h    IME
+Cálculo Numérico                    64h    4h    IME   Modelos Lineares          64h    4h    IME
+Modelos de Regressão                96h    6h    IME   Optativa                  64h    4h    IME
+                                                       Planejamento e Análise
+Processos Estocásticos              64h    4h    IME                             96h    6h    IME
+                                                       de Experimentos
+Total CH Semestre                   320h   20h         Total CH Semestre         320h   20h   IME
+
+            7º Semestre             CHT    CHS              8º Semestre          CHS CHS
+
+Análise de Dados Categorizados      64h    4h    IME   Estágio I (**)            96h    6h    IME
+                                                       Estatística
+Análise de Séries Temporais         64h    4h    IME                             96h    6h    IME
+                                                       Computacional II
+Controle Estatístico de Qualidade   64h    4h    IME   Núcleo Livre              64h    4h
+Núcleo Livre                        32h    2h          Optativa                  64h    4h    IME
+Optativa                            96h    6h    IME   TCC I (**)                96h    6h    IME
+
+Total CH Semestre                   320h   20h         Total CH Semestre         320h   20h
+
+            9º Semestre             CHT    CHS
+Estágio II (**)                      96h    6h   IME
+Núcleo Livre                         64h    4h
+Optativa                             64h    4h   IME
+Optativa                             96h    6h   IME
+TCC II (**)                          96h    6h   IME
+Total CH Semestre                   320h   20h
+
+
+            (**) O aluno deverá optar entre Estágio e TCC, podendo ainda optar por fazer
+            os dois.
+
+
+                                                                                                32
+5.5    Duração do Curso Em Semestres (duração mínima e máxima)
+        O aluno deverá integralizar o Curso de Estatística no tempo mínimo de 8 (oito)
+semestres e máximo de 15 (quinze) semestres.
+
+
+
+6      POLÍTICA E GESTÃO DO ESTÁGIO CURRICULAR OBRIGATÓRIO E
+       TRABALHO DE CONCLUSÃO DE CURSO
+         De acordo com as Diretrizes Curriculares para o Curso de Estatística os alunos
+poderão optar pelo Estágio Curricular Obrigatório ou pelo Trabalho de Conclusão de Curso
+(TCC). Deste modo o estágio curricular obrigatório e o Trabalho de Conclusão de Curso
+(TCC) no Curso de Bacharelado em Estatística do IME-UFG são atividades curriculares
+integrantes do Projeto Político Pedagógico do Curso de caráter optativo, já que o aluno deve
+escolher entre o estágio curricular obrigatório ou o Trabalho de Conclusão de Curso, podendo
+ainda optar pelos dois, com observância da Coordenação e do aluno em relação ao tempo de
+conclusão de curso.
+
+
+6.1    Estágio Curricular Obrigatório
+          De acordo com a resolução nº766/05 do Conselho de Ensino, Pesquisa, Extensão e Cultura
+- CEPEC em seu "Art.2º - O estágio é um componente curricular de caráter teórico-prático que tem
+como objetivo principal proporcionar aos alunos a aproximação com a realidade profissional, com
+vistas ao aperfeiçoamento técnico, cultural, científico e pedagógico de sua formação acadêmica, no
+sentido de prepará-lo para o exercício da profissão e cidadania."
+          Podemos ainda acrescentar os seguintes objetivos do Estágio Curricular para o curso
+de Bacharelado em Estatística:
+          I-      integrar o processo de formação curricular e extra-curricular do futuro
+                  Bacharel em Estatística;
+          II -    promover uma interação entre conhecimento científico e técnico, assim como
+                  a articulação interdisciplinar entre teoria e prática;
+          III - proporcionar um espaço de prática investigativa, pensamento crítico e
+                  aplicação do conhecimento estatístico, a partir dos nexos com os demais
+                  componentes do currículo;
+          IV - constituir-se como um espaço formativo, de exercício e conscientização do
+                  papel social do estatístico, preservando os valores éticos que devem orientar a
+                  prática profissional;
+          V-      desenvolver a autonomia intelectual e profissional do estagiário;
+          VI - oferecer uma aproximação e compreensão da realidade profissional, assim
+                  como proporcionar contato com inovações, diversidade e interação com
+                  profissionais das demais áreas;
+          VII - facilitar a absorção do aluno pelo mercado de trabalho;
+          VIII - orientação do aluno na escolha de sua especialização profissional.
+
+         De acordo com a Lei 11.788 de 2008, o Estágio Curricular poderá ser realizado junto
+a pessoas jurídicas de direito privado e os órgãos da administração pública direta, autárquica e
+fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos
+Municípios, bem como junto a profissionais liberais de nível superior devidamente registrados
+em seus respectivos conselhos de fiscalização profissional. A parte concedente de estágio
+deve estar devidamente conveniada com a Universidade Federal de Goiás ou cadastrada por
+Agentes Integradores.
+
+                                                                                               33
+        O Estágio Curricular será desenvolvido em duas modalidades:
+          I - Estágio Curricular Obrigatório: atividades de estágio que serão desenvolvidas
+               pelo aluno em dois semestres letivos e através das disciplinas Estágio I e Estágio II,
+               cuja carga horária, feita esta opção, irá compor a carga horária total mínima do curso
+               de Bacharelado em Estatística, que é requisito para obtenção de diploma; o Estágio
+               Curricular Obrigatório pode ser desenvolvido pelo aluno após ele ter completado
+               50% da carga horária total e regular do curso de Estatística;
+          II - Estágio Curricular Não-Obrigatório: é desenvolvido como atividade optativa
+               que acresce à carga horária regular e obrigatória; pode ser desenvolvido pelos alunos
+               do curso de Estatística após ter cursado e ter sido aprovado nas disciplinas:
+               Estatística I, Estatística II, Probabilidade I e Estatística Computacional I.
+        Os agentes responsáveis e participantes do Estágio Curricular Obrigatório do Curso
+de Bacharelado em Estatística do IME/UFG são:
+        I-    Coordenador de Estágios: acompanha, organiza, coordena e fiscaliza as atividades
+              de estágio e de todos os outros agentes participantes do Estágio Curricular;
+        II - Orientador: orienta, assisti e avalia o aluno durante o estágio; é responsável
+              pelo desenvolvimento de todas as atividades do aluno estagiário; o professor
+              orientador deve ser escolhido entre o quadro de professores do Instituto de
+              Matemática e Estatística/UFG;
+        III - Supervisor: profissional indicado do quadro de pessoal da parte concedente de
+              estágio para orientar e supervisionar o estagiário. Deve ser graduado em
+              qualquer área e ter experiência com o tema do projeto de estágio desenvolvido
+              pelo estagiário;
+        IV - Estagiário: aluno regularmente matriculado no curso de Estatística e que esteja
+              desenvolvendo atividades de Estágio Curricular;
+        V - Professor Regente: professor responsável pela carga horária teórica, palestras e
+              seminários da disciplina Estágio I. Também é responsável por orientação sobre
+              a fundamentação e estruturação dos projetos desenvolvidos pelos estagiários.
+
+         No início do Estágio I e do Estágio II, com data previamente divulgada pela
+Coordenação de Estágios, o aluno deve apresentar para a Coordenação de Estágios,
+juntamente com o Professor Orientador e supervisor, o Plano de Estágio, que tem como
+finalidade orientar o estagiário no desenvolvimento de seu trabalho, bem como servir de
+instrumento para o acompanhamento, controle e avaliação do seu desempenho por parte do
+professor orientador, Supervisor e da coordenação de estágio. A Coordenação de Estágios
+deve aprovar ou não o Plano de Estágio. No Estágio I , até uma data limite, o aluno escolherá
+uma instituição, orgão ou empresa conveniada com a UFG, e junto com supervisor deste local
+e o professor orientador de estágio deverá elaborar um projeto de capacitação, o qual será
+acompanhado e avaliado por ambos. Todas as atividades do estagiário deve ser acompanhada
+pelo professor orientador, que poderá solicitar da instituição, por meio do supervisor,
+relatórios do desenrolar das atividades de elaboração do projeto. No final das atividades da
+disciplina Estágio I, o Estagiário, sob responsabilidade do Professor Orientador, deve
+apresentar a Coordenação de Estágios, o Projeto de Estágio, em data estipula pela
+Coordenação de Estágios, para ser desenvolvido pelo mesmo no Estágio II. O Estágio II será
+constituído de atividades que visam a execução do projeto de estágio. Ao final do Estágio II, o
+Estagiário deverá apresentar, perante uma banca examinadora, um Relatório Final,
+descrevendo as atividades desenvolvidas no Estágio Curricular Obrigatório, com a
+fundamentação teórica necessária. Ao longo das atividades de estágio, quando solicitado, o
+aluno deve apresentar Relatórios Parciais à coordenação de estágio. O Plano de Estágio e
+banca examinadora deverão ser aprovados pelo Conselho Diretor do IME.
+
+                                                                                                  34
+         A estrutura de Estágio Curricular apresentada neste documento tem suas premissas
+legais fundamentadas na Lei 11.788 de 2008, que dispõe sobre a forma como deve ser
+conduzido o Estágio Curricular Obrigatório e o Estágio Não-Obrigatório para as escolas de
+ensino superior e a resolução CEPEC-nº766/05, que regulamenta as atividades de estágio nos
+cursos de bacharelado da UFG.
+
+
+6.2       Trabalho de Conclusão de Curso (TCC)
+         Assim como o estágio supervisionado, o Trabalho de Conclusão de Curso é uma
+atividade de caráter optativo, direcionado a uma determinada área teórico-prática ou de
+formação do curso, como atividade de síntese e integração de conhecimentos e deverá ser
+elaborada sob a orientação de um docente do quadro de professores do Colegiado do Curso,
+desenvolvido ao longo do ultimo ano, e submetida a uma banca examinadora constituída por
+professores designados pelo orientador e aprovados pelo Conselho Diretor do Instituto de
+Matemática e Estatística.
+         As normas do estágio Curricular e do TCC do curso de Bacharelado em Estatística
+deverão ser elaboradas e aprovadas no Conselho Diretor do IME, de acordo com a resolução
+CONSUNI nº 06/02 - Regulamento Geral dos Cursos de Graduação - RGCG e a resolução CEPEC
+nº 766/05 que define regras para estágios dos Cursos Bacharelado e Específicos da Profissão.
+
+
+
+7         ATIVIDADES COMPLEMENTARES (DEFINIÇÃO, CRITÉRIOS PARA
+          VALIDAÇÃO, CÔMPUTO E REGISTRO DAS NOTAS)
+         O aluno do curso de Bacharelado em Estatística deve totalizar pelo menos 184 horas
+de atividades complementares.
+         As atividades complementares (AC), segundo o artigo 5º do Regimento Geral dos
+Cursos de Graduação - RGCG:
+                       " &7º - Atividades complementares (AC) é o conjunto de atividades
+                       acadêmicas, mas não de disciplinas, escolhidas e desenvolvidas pelos
+                       alunos durante o período disponível para a integralização curricular.
+                           II. Entende-se por atividades complementares a participação, sem
+                           vínculo empregatício, em pesquisas, conferências, seminários,
+                           palestras, congressos, debates e outras atividades científicas,
+                           artísticas e culturais."
+
+           Segue abaixo uma tabela com tipo de atividade com a pontuação:
+            Tipo de Atividade                          Carga Horária
+    Monitoria                                   Máximo de 60h
+    Iniciação Científica                        Máximo de 60h
+ Participação em eventos científicos
+devidamente comprovado com certificado Máximo de 40h por evento
+ Atividades de Extensão           devidamente Máximo de 40 horas por atividade de extensão
+comprovada com certificado
+
+         As normas mais específicas, que definem a distribuição da carga horária para cada
+tipo de atividades complementares deverá ser aprovado pelo Conselho Diretor do IME.
+                                                                                         35
+8      SISTEMA DE AVALIAÇÃO                         DO     PROCESSO           DE     ENSINO         E
+       APRENDIZAGEM
+        O sistema de avaliação do processo de ensino e aprendizagem dos alunos deverá
+atender em seu planejamento e execução o estipulado pelo RGCG, em especial no seu
+Capítulo IV, Sessão 1 - Da verificação da aprendizagem.
+
+
+
+
+9       INTEGRAÇÃO ENSINO, PESQUISA E EXTENSÃO
+          O IME desenvolve ações no ensino, pesquisa e extensão de forma atuante e
+consolidada através de grupos de pesquisa, projetos e a realização de eventos.
+          Para as atividades ligadas à Licenciatura contamos com o Laboratório de Educação
+Matemática, LEMAT. Neste laboratório nossos alunos, e também professores de várias
+escolas do Estado, têm suporte pedagógico e orientações dos mais diversos assuntos de
+matemática do ensino fundamental e médio. O LEMAT desenvolve vários projetos e em
+todos eles conta com a participação de alunos bolsistas e voluntários. O Laboratório de Apoio
+às Pesquisas Matemáticas, LAPEM, serve de apoio para projetos de pesquisa de professores e
+alunos de pós – graduação e alunos de graduação envolvidos em projetos de iniciação
+científica, extensão e licenciatura.
+
+
+9.1     Ensino
+         O IME é responsável pelo curso de graduação em Matemática, Licenciatura e
+Bacharelado, pelo curso de Mestrado em Matemática, pelo curso de Doutorado em
+Matemática, pelos cursos de Especialização em Matemática e Matemática do Ensino Básico,
+pelo ensino de disciplinas de Matemática e Estatística em outros cursos de graduação e de
+pós-graduação da UFG.
+         A Escola de Verão é realizada desde 1997, nos meses de Janeiro e Fevereiro. Neste
+período são oferecidas disciplinas em nível de mestrado, especialização e de iniciação científica, são
+também ministradas palestras com professores de outras instituições de ensino superior.
+         O Laboratório de Educação Matemática – LEMAT, tem um papel primordial de
+oferecer apoio ao estágio da licenciatura em matemática, oferecendo aos professores
+envolvidos, orientador, supervisor e ao estagiário material de consulta, materiais instrucionais
+tais como, vídeos educacionais, software educacionais de matemática, materiais manuseáveis,
+jogos voltados para o ensino e aprendizagem da matemática e outros do mesmo gênero. É o
+local no qual os estagiários confeccionam materiais instrucionais, e recebem orientação para a
+confecção, e quando necessário recebem auxílio na elaboração das aulas e/ou do trabalho de
+conclusão de curso. O LEMAT desenvolve vários projetos e em todos eles conta com a
+participação de alunos bolsistas e voluntários.
+         O PETMAT (PET do Curso de Licenciatura em Matemática) iniciou suas atividades
+em setembro de 2007 e, apesar de recém-nascido, suas propostas e objetivos são grandiosos.
+Possui projetos de pesquisas audaciosos que, direta ou indiretamente, estão ligados à
+formação da nossa sociedade, aliás, é pela Educação que se constrói o alicerce de uma
+sociedade crítica, que respeita a si e ao próximo. Os Projetos de pesquisas são: o Projeto
+Colméia, o projeto Vivenciando o Cálculo no Curso de Matemática. Para fomentar os estudos
+e as pesquisas, o PETMAT desenvolve o Fórum de Interação, realizado em momentos
+presenciais e não-presenciais – este último via MOODLE – onde se propõe um tema voltado à
+
+                                                                                                   36
+Educação Matemática. Além disso, o PETMAT deu início a elaboração de mais dois projetos:
+O IME Vivenciando a Escola e A Escola Vivenciando o IME. Projetos que mantêm o perfil do
+grupo e contemplam a proposta do PET e da Universidade: compromisso com Ensino,
+Pesquisa, Extensão e Responsabilidade Social.
+
+
+9.2    Pesquisa
+        O IME possui projetos de pesquisa financiados pela UFG, FUNAPE, CNPq,
+PRONEX/MCT, Petrobras e pelo Instituto do Milênio/AGIMB/ IMPA-OS. Nossos
+pesquisadores mantêm contatos com pesquisadores de vários centros de pesquisa nacional,
+como o IMPA, a USP, UNICAMP, UnB, UFC e COPPE/UFRJ, assim como com instituições
+no exterior: Geórgia Technology Institut (Estados Unidos), Universidad de Barcelona
+(Espanha), Oxford University (Inglaterra ), Universidade de Aveiros (Portugal), Rutgers
+University (Estados Unidos), Noth Carolina State University (Estados Unidos), Université de
+Dijon (França), Universidade Autônoma do México (México), Universidade de Santiago de
+Chile (Chile), Universidade Surcolombiana (Colômbia).
+        As linhas de pesquisas do IME são: Álgebra; Equações Diferenciais Parciais;
+Geometria Diferencial; Otimização; Sistemas Dinâmicos; Probabilidade e Estatística;
+Educação Matemática.
+
+
+9.3    Extensão
+         O IME realiza o Encontro de Matemática e Estatística e a Jornada de Educação
+Matemática, com grande participação de nossos alunos e da comunidade goiana e também de
+estados vizinhos. Nos últimos anos, estes eventos contaram com modesto, mais decisivo,
+apoio financeiro do CNPq.
+         Realizamos entre 1998 e 2006 o Curso de Recepção aos Calouros no período entre a
+matrícula/cadastramento dos calouros e o início das aulas. Neste curso foram realizadas
+palestras e mini-cursos sobre matemática e uma visita à biblioteca e aos laboratórios do IME.
+Na Palestra de Abertura do Curso de Recepção aos Calouros os alunos eram informados sobre
+assuntos gerais de sua vida acadêmica. Nos anos de 2007 e 2008 não houve espaço suficiente
+entre o período de matrícula e o início das aulas. Em 2009 o processo seletivo da 2ª fase para
+o curso de Matemática será feito durante o 1º semestre. O projeto está em tramitação nas
+instâncias superiores da UFG.
+         Outra atividade de extensão importante realizada pelo IME é a Olimpíada de
+Matemática do Estado de Goiás. Na Olimpíada participam aproximadamente mil e setecentos
+alunos de duzentas e cinqüenta escolas de todo o estado de Goiás. A partir de 2003 as provas
+da Olimpíada são aplicadas em Goiânia e em mais nove cidades do interior do Estado. Desde
+o ano 2000 publicamos a Revista da Olimpíada. Nossos alunos têm uma participação
+destacada na organização, aplicação da prova da Olimpíada, na elaboração da coletânea de
+problemas e em artigos publicados na Revista da Olimpíada. O IME coordena o pólo 1 da
+Olimpíada Brasileira de Matemática da Escola Pública, ficando responsável pela aplicação
+das provas de 1ª e 2ª etapa para mais de 300.000 alunos das escolas públicas do estado de
+Goiás.
+         No que diz respeito à extensão, o Laboratório de Educação Matemática - LEMAT,
+tem dois projetos permanentes:
+          de assessoria a professores de matemática do ensino básico e superior do estado
+            de Goiás, na preparação de suas aulas e cursos, e a alunos dos cursos de
+            especialização em educação matemática do IME e de outras IES;
+
+                                                                                           37
+         de atualização que visa atualizar conteúdos e metodologias do ensino de
+          matemática para professores do Estado de Goiás e a auxiliar esses professores nas
+          suas atividades docentes, que são oferecidos pelo IME e ministrados no próprio
+          instituto e outros cursos que são ministrados nas escolas de ensino fundamental e
+          médio, públicas ou particulares, atendendo a solicitação das próprias escolas.
+          Esses cursos têm uma carga horária que varia entre 20 horas a 60 horas.
+
+         O IME participa do Projeto de Aperfeiçoamento de Professores de Matemática do
+Ensino Médio, desde 2002 nos meses de janeiro e julho. Nestes meses durante uma semana os
+professores assistem aulas na parte da manhã, através de vídeo conferência, e na parte da tarde
+participam de grupos de estudos orientados pelos professores do IME. Em janeiro de 2008
+mais de 25 instituições de ensino superior participaram do projeto.
+
+
+
+
+10     POLÍTICA DE QUALIFICAÇÃO DOCENTE E TÉCNICO-ADMINISTRATIVO
+         É política do IME de longa data estimular e criar condições que permitam a
+qualificação de seu quadro docente e técnico-administrativo. Hoje, o quadro docente conta
+com quarenta e quatro (71) professores, destes, trinta (47) são doutores, quatorze (24) são
+mestres, dos quais três (12) estão em programas de doutorado no Brasil, e dois doutores (2)
+em pós-doutorado. Os professores doutores têm participado de programas de pós-doutorado
+no Brasil e no exterior.
+         Os objetivos quanto à atuação do corpo técnico-administrativo no âmbito do curso
+serão: a adequação da quantidade destes profissionais às necessidades do curso,
+implementação das políticas de capacitação no âmbito do curso e adequação da formação e
+experiência profissional.
+
+
+
+
+11     SISTEMA DE AVALIAÇÃO DO PROJETO DO CURSO
+         A avaliação do projeto do curso será orientada pelas diretrizes do Sistema Nacional
+de Avaliação da Educação Superior (SINAES) considerando duas dimensões, a avaliação
+interna e a avaliação externa.
+         A avaliação interna abordará 3 categorias:
+
+        I-     organização didático-pedagógica;
+        II-    corpo docente, discente e técnicos administrativos;
+        III-   instalações físicas.
+
+         A organização didático-pedagógica abordará a análise dos planos de ensino das
+disciplinas, a prática docente e critérios de avaliação. Durante a semana pedagógica será
+elaborado o planejamento pedagógico semestral do curso. O planejamento pedagógico terá
+como objetivo avaliar as atividades didáticas do semestre anterior, propor alterações e
+adequações nos programas das disciplinas para o próximo semestre e elaborar seus planos de
+ensino e atualizar a bibliografia de cada disciplina. Será também elaborado o plano de estágio
+para o semestre. As deliberações do planejamento pedagógico serão aprovados no Conselho
+Diretor do IME.
+                                                                                            38
+          A avaliação do corpo docente, do corpo discente e técnicos administrativos será
+feita através de questionários (avaliação do corpo docente pelo corpo discente) e abordará
+aspectos tais como elaboração do plano de ensino da disciplina, a prática docente, coerência e
+critérios de avaliação e o estágio, apoio do IME, ao corpo discente, à promoção e participação
+de evento, adequação e quantidade dos técnicos administrativos às necessidades do curso.
+          A avaliação das instalações físicas será abordada a adequação do acervo da
+Biblioteca Central, dos laboratórios e das salas de aulas às necessidades do curso.
+          Estas 3 categorias da avaliação interna também serão abordadas pela Comissão de
+Avaliação Institucional - CAVI da UFG.
+          A avaliação externa será feita pelo MEC.
+
+
+
+12     REFERÊNCIAS:
+
+RESOLUÇÃO CNE/CES nº. 08, de 28 de novembro de 2008.
+CÓDIGO de Ética Profissional do Estatística, resolução CONFE nº58 de 06/10/1976.
+REGULAMENTO Geral dos Cursos de Graduação- RGCG , Resolução CONSUNI nº.
+06/2002.
+ORIENTAÇÕES gerais para elaboração de projeto pedagógico dos cursos de graduação,
+adequados ao novo RGCG/UFG, PROGRAD, UFG, Agosto/ 2008.
+PRODIRH/UFG (Pró-Reitoria de Desenvolvimento Institucional e Recursos Humanos
+/Comissão de Avaliação Institucional / Universidade Federal de Goiás). Avaliação
+Institucional – 1998/2001: Uma Mudança em Curso. Goiânia, UFG, 2002, 277p.
+UNIVERSIDADE Federal de Goiás. Regimento da Universidade Federal de Goiás, (aprovado
+em Reunião conjunta dos Conselhos Superiores da Universidade: Universitário, Coordenador
+de Ensino e Pesquisa e de Curadores), 01 de novembro de 1995.
+UNIVERSIDADE Federal de Goiás. Estatuto da Universidade Federal de Goiás, aprovado
+pela Portaria nº 1.150 de 7 de novembro de 1996, do Ministério da Educação.
+PROJETO Político Pedagógico do Curso de Matemática, Instituto de Matemática e
+Estatística, UFG, 2005.
+PROJETO Pedagógico do Curso de Engenharia Elétrica, Escola de Engenharia Elétrica e de
+Computação, UFG, 2008.
+PARECER CNE/CES nº. 184/2006, de 07 de julho de 2006, Ministério da Educação.
+Conselho Nacional de Educação.
+RESOLUÇÃO CNE/CES nº. 03/2007, de 18 de junho de 2007.
+PORTAIS web: Conselho Federal de Estatística – CONFE.
+          Universidade de Brasília – UnB.
+          Universidade Estadual de Campinas – UNICAMP.
+          Universidade Federal do Ceará – UFC.
+          Universidade Federal Fluminense – UFF.
+          Universidade Federal de Minas Gerais – UFMG.
+          Universidade Federal do Paraná – UFPR.
+          Universidade Federal de Pernambuco – UFPE.
+          Universidade Federal do Rio Grande do Sul – UFGRS.
+          Universidade de São Paulo – USP.
+
+
+                                                                                           39
+SINAES, Lei Nº 10.861 de 14/04/2004 - Trata de toda a educação superior brasileira, seja ela
+oferecida pelo setor público ou privado, independente da forma de organização, se
+universidade, faculdade, centro universitário etc.
+LEI nº 11.788, de 25 de setembro de 2008. Dispõe sobre estágio de estudantes de
+estabelecimentos de ensino superior e dá outras providências.
+LEI nº 9394 de 20/12/1996. Lei de Diretrizes e Bases da Educação Nacional.
+Medida Provisória nº. 1.709-4, de 27 de novembro de 1998. Revoga a Medida Provisória nº.
+1.726, de 03 de novembro de 1998.
+RAO, C.R. Statistics: A technology for the millennium Internal. J. Math. & Statist. Sci, vol. 8,
+nº., june 1999, 5-25.
+PEGORARO, Olinto A., Ética é Justiça, Vozes, RJ, 9ª edição, 1995.
+VASCONCELOS, Maria Lúcia M. C., A formação do 3º grau, revisão Janet Yunes Elias,
+Pioneira, São Paulo, 1996.
+
+                                             ...
+
+
+
+
+                                                                                             40
+

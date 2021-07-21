@@ -1,0 +1,391 @@
+01234561789
+ 118 29
+
+        16
+                                MINISTÉRIO DA EDUCAÇÃO
+                             UNIVERSIDADE FEDERAL DE GOIÁS
+                ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+                                RESOLUÇÃO EMC N° 01/2017
+
+O Conselho Diretor da Escola de Engenharia Elétrica, Mecânica e de Computação da Universidade
+Federal de Goiás, em reunião do dia 17 de abril de 2017, no uso de suas atribuições estatutárias e
+regimentais, resolve aprovar o Regulamento das atividades de Estágios Supervisionados
+Obrigatório e Não Obrigatório dos Cursos de Graduação em Engenharia Elétrica, Engenharia
+Mecânica e Engenharia de Computação da Universidade Federal de Goiás da regional Goiânia.
+
+                                        CAPÍTULO I
+                                      DA FINALIDADE
+
+Art. 1 — A coordenação das atividades de Estágios Supervisionados Obrigatório e Não Obrigatório
+dos cursos de Engenharia Elétrica, Engenharia Mecânica e Engenharia de Computação da
+Universidade Federal de Goiás, são atribuições da Coordenadoria de Estágio, Projeto Final de
+Curso e Monitoria da Escola de Engenharia Elétrica, Mecânica e de Computação da Universidade
+Federal de Goiás — CEPFM/EMC/UFG de cada curso correspondente.
+
+                                       CAPÍTULO II
+                                      DA ESTRUTURA
+
+Art. 2 — A CEPFM será composta por, no mínimo, 3 (três) docentes, com dedicação exclusiva,
+indicados pela Diretoria da EMC mediante aprovação do Conselho Diretor da EMC.
+       §1° A CEPFM está subordinada à Diretoria da EMC.
+       §2º A Diretoria da EMC emitirá portaria nomeando os docentes aprovados no Conselho
+           Diretor para comporem a CEPFM.
+Art. 3 — A CEPFM deve ser composta pelos:
+       I. Docentes coordenadores de Estágio de cada curso de graduação da EMC/UFG;
+       II. Docentes coordenadores de Projeto Final de Curso de cada curso de graduação da
+       EMC/UFG;
+       III. Docente coordenador do Programa de Monitoria Acadêmica da EMC/UFG.
+       §1º A critério do Conselho Diretor, poderá ser designado um vice-coordenador de estágio
+            para cada curso, que auxiliará o coordenador de estágio em suas atribuições e o
+            substituirá em seus impedimentos.
+       §2º O mesmo docente pode ser concomitantemente coordenador de Estágio e Projeto Final
+            de Curso de um mesmo curso de graduação da EMC/UFG.
+       §3º Um mesmo docente pode ser concomitantemente coordenador de Estágio e Projeto Final
+            de Curso de um mesmo curso de graduação da EMC/UFG e coordenador do Programa
+            de Monitoria Acadêmica da EMC/UFG.
+       §4º Cada docente coordenador terá um mandato de 2 (dois) anos, sendo permitida a
+            recondução uma única vez.
+       §5º Ao Professor Coordenador da CEPFM serão atribuídas 8 (oito) horas semanais de
+            atividades específicas da Coordenação, ou seja, 256 (duzentos e cinquenta e seis) horas
+            anuais de atividades relacionadas à coordenadoria de estágio.
+Art. 4 — A Diretoria da EMC deverá proporcionar os recursos humanos e materiais necessários
+para o bom funcionamento da CEPFM.
+                                MINISTÉRIO DA EDUCAÇÃO
+                             UNIVERSIDADE FEDERAL DE GOIÁS
+                ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+                                   CAPÍTULO III
+                              DO ESTÁGIO CURRICULAR
+
+Art. 5 — O Estágio Curricular é ato educativo escolar supervisionado, desenvolvido no ambiente
+de trabalho, que visa à preparação para o trabalho produtivo dos estudantes de graduação da
+EMC/UFG. Consiste em atividades nas quais o estagiário deverá integrar os conceitos, teorias,
+técnicas, procedimentos e conhecimentos no campo da Engenharia do curso de graduação no qual
+está matriculado na EMC/UFG. Servindo para integrar os estudantes no mercado de trabalho e para
+a aquisição de treinamento técnico e prático.
+       § 1° O estudante de graduação da EMC/UFG poderá realizar dois tipos de estágio, o estágio
+             curricular obrigatório e o estágio curricular não obrigatório, definidos conforme os
+             Artigos 2º e 3° da Lei nº 11.788/08.
+       § 2° O Estágio Curricular, de qualquer tipo, não cria vínculo empregatício de qualquer
+             natureza.
+Art. 6 — A concessão de recesso de 30 dias é obrigatória quando o estágio tiver duração igual ou
+superior a um ano. O recesso deve ser remunerado quando o estagiário receber bolsa, e os dias de
+recesso serão concedidos de maneira proporcional nos casos em que o estágio tiver duração inferior
+a um ano, conforme a Lei de nº 11.788/08.
+Art. 7 — Aplica-se ao estagiário a legislação relacionada à saúde e à segurança no trabalho, sendo
+sua implementação de responsabilidade da parte concedente do estágio, conforme a Lei de nº
+11.788/08.
+
+                                CAPÍTULO IV
+                    DO ESTÁGIO CURRICULAR O BRIGATÓRIO
+
+Art. 8 — Estágio Curricular Obrigatório é aquele definido na Resolução de cada Curso, cuja carga
+horária e nota são requisitos para a integralização curricular do estudante.
+Art. 9 — Nos cursos de graduação da EMC/UFG as atividades do Estágio Curricular Obrigatório
+serão desenvolvidas na disciplina de Estágio, cujos nome, pré-requisitos, correquisitos e carga
+horária, estão estabelecidos nas respectivas Resoluções dos Cursos.
+       § 1° Conforme a Lei nº 11.788/08, a carga horária semanal do Estágio Curricular será de até
+             6 horas/dia (30 horas por semana).
+       § 2° Serão permitidas 40 horas por semana nos seguintes casos:
+             a) no período de verão, quando estiver matriculado somente na disciplina Estágio
+                Supervisionado; e
+             b) durante os semestres letivos (primeiro e segundo), quando estiver matriculado na
+                disciplina Estágio Supervisionado e em disciplinas que não estejam programadas
+                aulas presenciais.
+       § 3° Conforme Normativa MPOG nº.02/2016, em caso do estágio ser realizado em órgão ou
+             em entidade da administração pública federal direta, autárquica e fundacional, a carga
+             horária é de 4 ou de 6 horas/dia.
+       § 4° As atividades do Estágio Curricular Obrigatório não justifica a ausência do estudante
+             em sala de aula.
+       § 5° Caso o ingresso no Estágio Curricular Obrigatório ocorra no decorrer do semestre
+             letivo, o estudante poderá solicitar o cancelamento da(s) disciplina(s) que houver
+             choque de horário de acordo com os procedimentos de cancelamento de disciplina
+                                MINISTÉRIO DA EDUCAÇÃO
+                             UNIVERSIDADE FEDERAL DE GOIÁS
+                ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+            estabelecidos no RGCG da UFG.
+       § 6° Após o encerramento do contrato do Estágio Curricular Obrigatório, se o estudante
+            continuar na mesma empresa ou órgão concedente, o estágio passará a ser do tipo Não
+            Obrigatório, sendo exigida uma nova documentação para essa modalidade, obedecendo
+            um prazo máximo de dois anos na mesma parte concedente.
+
+Art. 10 — No Estágio Curricular Obrigatório, o seguro contra acidentes pessoais é obrigatório e de
+responsabilidade da Instituição de Ensino – UFG, conforme a Lei de nº 11.788/08.
+
+Art. 11 — A nota da disciplina Estágio Supervisionado é a média aritmética composta pelas notas:
+       1) do Formulário de Avaliação Final do Supervisor (disponível no sítio da EMC/UFG); e
+       2) do Formulário de Avaliação do Orientador, com base no Relatório Final de Estágio.
+       Parágrafo Único. O relatório final de estágio deve ser elaborado segundo as normas de
+            trabalhos acadêmicos da ABNT em vigor, contendo no mínimo os tópicos:
+            1) Identificação do estudante;
+            2) Identificação da empresa e do supervisor de estágio;
+            3) Ramo de atuação da empresa;
+            4) Atividades realizadas pelo estagiário;
+            5) Relação do estágio com o curso do estudante;
+            6) Conclusões.
+
+Art. 12 – É possível aproveitar as atividades de estágio curricular obrigatório:
+a) realizado em outro país, por meio de acordos internacionais de mobilidade acadêmica. É
+responsabilidade da Coordenadoria de Assuntos Internacionais (CAI/UFG) e a CEPFM/EMC tomar
+as providências necessárias para a efetivação do aproveitamento, respeitando os acordos
+internacionais, o RGCG/UFG, a resolução de curso e a presente resolução no que couber.
+b) caso o estudante já trabalhe na área do seu respectivo curso e tenha documentos comprobatórios.
+É responsabilidade do coordenador do seu respectivo curso e da CEPFM/EMC em conjunto
+analisarem a situação e tomar as providências necessárias para a efetivação do aproveitamento,
+respeitando o RGCG/UFG, a resolução do seu respectivo curso e a presente resolução no que
+couber.
+
+
+                              CAPÍTULO V
+                DO ESTÁGIO CURRICULAR N ÃO OBRIGATÓRIO
+Art. 13 — Estágio curricular não obrigatório é aquele desenvolvido como atividade opcional ,
+acrescida à carga horária regular e obrigatória.
+
+Art. 14 — Estágios curriculares não obrigatórios poderão ser realizados pelos estudantes dos cursos
+de Engenharia Elétrica, Engenharia Mecânica e de Engenharia de Computação, de acordo com os
+pré-requisitos estabelecidos na Resolução de cada um dos respectivos cursos.
+       § 1° Conforme a Lei nº 11.788/08, a carga horária semanal do Estágio Curricular Não
+             Obrigatório será de até 6 horas/dia (30 horas por semana). Serão permitidas 40
+             horas/semana somente nos períodos de férias ou em que não estiverem programadas
+             aulas presenciais.
+                                MINISTÉRIO DA EDUCAÇÃO
+                             UNIVERSIDADE FEDERAL DE GOIÁS
+                ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+       § 2° Conforme Normativa MPOG nº 02/2016, em caso do estágio ser realizado em órgão ou
+            em entidade da administração pública federal direta, autárquica e fundacional, a carga
+            horária é de 4 ou de 6 horas/dia.
+       § 3° O Estágio Curricular Não Obrigatório terá a duração máxima de dois anos, na mesma
+            Empresa ou Órgão Concedente, exceto quando se tratar de estagiários portadores de
+            necessidades especiais, conforme a Lei nº 11.788/08.
+       § 4° Caso seja constatada deficiência no desempenho acadêmico do estudante, a CEPFM
+            poderá solicitar à Empresa ou Órgão concedente, o cancelamento ou a redução da
+            carga horária semanal do Estágio Curricular Não Obrigatório.
+       § 5° O Estágio Curricular Não Obrigatório não poderá ser utilizado como justificativa para a
+            ausência do estudante em sala de aula.
+       § 6° Se o estágio for realizado em órgão ou em entidade da administração pública federal
+            direta, autárquica ou fundacional, o estudante deverá elaborar e encaminhar à Central
+            de Estágio/PROGRAD com os vistos do Supervisor e do Orientador, os relatórios
+            parciais de estágio (disponível em: ce.prograd.ufg.br) a cada seis meses de atividades,
+            conforme Normativa MPOG no 02/2016 ou a mais recente.
+
+Art. 15 — Impreterivelmente, antes do início do Estágio Curricular Não Obrigatório, o estudante
+deverá entregar à Central de Estágio/PROGRAD as documentações, disponíveis no sítio da Central
+de Estágios/PROGRAD (ce.prograd.ufg.br).
+
+Art. 16 — O controle de frequência deve ser feito pela parte concedente (supervisor), sendo que
+logo após o término do Estágio Curricular Não Obrigatório, o estudante deverá encaminhar à
+Central de Estágio/PROGRAD o Formulário de Relatório Final, disponível no sítio da Central de
+Estágio (ce.prograd.ufg.br).
+Art. 17 — O Estágio Curricular Não Obrigatório não pode ser aproveitado para a disciplina Estágio
+Supervisionado e nem como hora de atividade complementar.
+       Parágrafo Único. O estudante poderá solicitar a inclusão da carga horária realizada em
+            Estágio Não Obrigatório em seu Histórico, mediante a ausência de débitos documentais
+            junto à Central de Estágio/PROGRAD.
+Art. 18 — No Estágio Curricular Não Obrigatório, o seguro contra acidentes pessoais é obrigatório
+e de responsabilidade da parte concedente do estágio, conforme a Lei de nº 11.788/08.
+Art. 19 — No Estágio Curricular Não Obrigatório é compulsória a concessão de bolsa ou de outra
+forma de contraprestação que venha a ser acordada, bem como a do auxílio-transporte, conforme a
+Lei de nº 11.788/08.
+
+                                 CAPÍTULO VI
+                          DA COORDENAÇÃO DE EST ÁGIO
+
+Art. 20 — Compete aos Coordenadores de Estágio de cada curso de graduação da EMC/UFG, com
+relação ao Estágio Curricular Obrigatório:
+       a) administrar a realização dos estágios, adotando os procedimentos normativos necessários;
+       b) fazer cumprir o estabelecido na legislação vigente;
+       c) divulgar locais e oportunidades de estágio aos estudantes da EMC/UFG;
+       d) incentivar empresas e órgãos na celebração de convênios;
+       e) localizar órgãos e empresas para serem locais de Estágio, junto com os professores
+                                MINISTÉRIO DA EDUCAÇÃO
+                             UNIVERSIDADE FEDERAL DE GOIÁS
+                ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+          orientadores;
+       f) prestar informações e orientar os estudantes, professores e supervisores de estágio sobre
+          os atos administrativos que envolvem a realização do estágio;
+       g) fornecer o recibo para o estudante referente à entrega de qualquer documentação, no ato
+          da entrega;
+       h) efetuar, em conjunto com as coordenações de curso, a distribuição dos estudantes para
+          orientação na disciplina estágio supervisionado, quando for necessário;
+       i) disponibilizar, junto com a gerência de redes, a documentação e as informações no sítio
+          da EMC/UFG;
+       j) receber e arquivar, juntamente com a secretaria, os documentos relativos aos estágios
+          realizados pelos estudantes e necessários ao funcionamento da CEPFM,
+       k) assinar os Termos de Compromisso de Estágio e outros documentos necessários à
+          realização de estágio dos estudantes da EMC/UFG, desde que os mesmos estejam
+          preenchidos corretamente;
+       l) verificar in loco as atividades do estagiário, caso seja necessário.
+       m) digitar a nota e a frequência do estudante. Caso o Estágio Curricular Obrigatório não for
+          finalizado antes do prazo de consolidação da disciplina ou faltar alguma documentação
+          por parte do estagiário ou do órgão concedente, será lançada a nota zero (0,0) na
+          disciplina Estágio Supervisionado.
+       n) disponibilizar o seu horário de atendimento no sítio da EMC/UFG.
+       o) utilizar de agentes de integração públicos ou privados, quando necessário, que fazem a
+          intermediação Universidade-Empresa, a fim de facilitar o cumprimento das normas
+          legais, desde que eles estejam devidamente conveniados com a UFG.
+       p) solicitar à Empresa ou órgão concedente, a redução da carga horária semanal do estágio,
+          caso seja constatada deficiência no desempenho acadêmico do estudante.
+       q) auxiliar os coordenadores de curso no aproveitamento da disciplina estágio curricular
+          quando este for realizado nos termos do Art. 12.
+Art. 21 — A coordenação tem um prazo de 10 (dez) dias para o encaminhamento de quaisquer
+solicitações recebidas.
+
+                             CAPÍTULO VII
+               DAS ATRIBUIÇÕES DO O RIENTADOR DE ESTÁGIO
+
+Art. 22 — As atividades desenvolvidas no estágio curricular serão acompanhadas por um Professor
+Orientador.
+       § 1º. Para o Estágio Curricular Obrigatório, ao professor orientador serão atribuídas no
+             máximo 16 (dezesseis) horas no ano por estudante sob sua responsabilidade, como
+             atividade de orientação em estágio supervisionado. Cada professor pode orientar no
+             máximo 5 (cinco) estudantes de Estágio Curricular Obrigatório por ano.
+       § 2º. Para o Estágio Curricular Não Obrigatório, ao professor orientador serão atribuídas no
+             máximo 4 (quatro) horas no ano por estudante sob sua responsabilidade, como
+             atividade não curricular de orientação sem bolsa. Cada professor pode orientar no
+             máximo 4 (quatro) estudantes de Estágio Curricular não obrigatório por ano.
+       § 3º. Para o Estágio Curricular Obrigatório referido no Art. 12 da presente resolução, ao
+              professor orientador serão atribuídas no máximo 4 (quatro) horas no semestre por
+              estudante, como atividade de orientação não curricular sem bolsa.
+                                MINISTÉRIO DA EDUCAÇÃO
+                             UNIVERSIDADE FEDERAL DE GOIÁS
+                ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+Art.23 — Ao Professor Orientador de estágio compete:
+       a) acompanhar as atividades desenvolvidas pelo estudante, juntamente com o Supervisor de
+          Estágio;
+       b) assinar o Plano de atividades, desde que as atividades estejam de acordo com as
+          especificidades do estudante;
+       c) solicitar à CEPFM, quando necessário, consulta aos Formulários de Avaliação e
+          Formulários de Frequência do estudante no Estágio.
+       d) encaminhar à CEPFM a Avaliação Final, devidamente preenchida, em até 10 dias após o
+          recebimento do relatório final, respeitando o período de férias, licença e afastamento do
+          orientador.
+
+
+                          CAPÍTULO VIII
+       DAS ATRIBUIÇÕES DO SU PERVISOR NO LOCAL DE ESTÁGIO
+
+Art. 24 — O estudante deverá ter na empresa ou órgão que concede o estágio um Supervisor de
+Estágio, indicado no Termo de Compromisso de Estágio, que tenha formação superior na área de
+conhecimento dos cursos de graduação da EMC/UFG.
+§ 1º. O Supervisor de Estágio ou as empresas ou órgãos concedentes de estágios obrigatórios para
+os cursos de Engenharia Elétrica e Engenharia Mecânica devem possuir cadastro no CREA.
+§ 2º. Os supervisores de estágios obrigatórios quando forem docente efetivo da UFG não necessitam
+possuir cadastro no CREA.
+Art. 25 – Se o supervisor de estágio for docente efetivo da EMC serão atribuídas, no máximo, 32
+(trinta e duas) horas no semestre por estudante sob sua responsabilidade, como atividade
+administrativa designada por portaria da direção da EMC.
+Art. 26 — Ao Supervisor no local de Estágio compete:
+       a) planejar e acompanhar as atividades desenvolvidas pelo estudante, juntamente com o
+          Professor Orientador;
+       b) assinar o Plano de Atividades e os Relatórios de Estágio, desde que esteja de acordo;
+       c) encaminhar à CEPFM o Formulário de Avaliação Parcial, devidamente preenchido, em
+          até 15 dias após o cumprimento de metade do total das horas de Estágio Curricular
+          Obrigatório previstas na resolução do respectivo curso do estagiário;
+       d) encaminhar à CEPFM o Formulário de Avaliação Final, devidamente preenchido, em até
+          15 dias após o cumprimento do total das horas de Estágio Curricular Obrigatório
+          previstas na resolução do respectivo curso do estagiário.
+
+
+                                  CAPÍTULO IX
+                         DAS ATRIBUIÇÕES DO E STUDANTE
+
+Art. 27 — Como exigência para a matrícula na disciplina Estágio Supervisionado, o estudante
+deverá encaminhar à CEPFM:
+       a) o Termo de Compromisso de Estágio, que consiste em documento celebrado entre a
+          UFG, a Empresa ou Órgão concedente e o estudante, com interveniência da EMC/UFG
+                                  MINISTÉRIO DA EDUCAÇÃO
+                               UNIVERSIDADE FEDERAL DE GOIÁS
+                  ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+            (em três vias);
+       b)   o Plano de Atividades, onde consta a descrição das atividades a serem desenvolvidas no
+            local de Estágio (em três vias);
+       c)   o extrato acadêmico obtido no Portal do Estudante da UFG (em uma via) ; e
+       d)   o requerimento de saída para estágio.
+       §    1° O Plano de Atividades (três vias) deverá ser assinado pelo Supervisor e pelo Professor
+            Orientador.
+       §    2° O Termo de Compromisso de Estágio, em formulário elaborado pela
+            PROGRAD/UFG, deverá obrigatoriamente conter:
+                a) o número do Convênio entre a UFG e a Empresa ou Órgão concedente;
+                b) o número da apólice de seguro em nome do estudante;
+                c) o número de horas semanais do Estágio;
+                d) assinatura do representante legal da Empresa ou Órgão concedente ou do
+                     Supervisor;
+                e) assinatura do representante legal da Instituição intermediadora, quando houver;
+                f) indicação do nome do Supervisor no local de Estágio;
+                g) assinatura do Coordenador de Estágios da EMC/UFG do respectivo curso do
+                     estudante;
+                h) assinatura do estudante.
+
+Art. 28 — O estudante deverá guardar o recibo de entrega à CEPFM dos documentos solicitados e
+apresentá-lo no ato de entrega de novos documentos.
+Art. 29 — Após entregar, devidamente assinado, o Termo de Compromisso de Estágio, o estudante
+deverá encaminhar, mensalmente, à CEPFM o Formulário de Frequência no local de Estágio, para
+fins de registro das horas da disciplina Estágio Supervisionado.
+Art. 30 — Ao estudante estagiário compete:
+       a) participar do planejamento do estágio e solicitar esclarecimentos sobre o processo de
+          avaliação de seu desempenho;
+       b) informar-se e seguir as normas da empresa onde o estágio está sendo realizado;
+       c) solicitar orientações e acompanhamento do Professor Orientador e do Supervisor sempre
+          que isso se fizer necessário;
+       d) solicitar à CEPFM a mudança de local de estágio, mediante justificativa, quando as
+          normas estabelecidas e o planejamento do estágio não estiverem sendo seguidos;
+       e) elaborar e encaminhar à CEPFM (se estágio obrigatório) ou Central de
+          Estágio/PROGRAD (se estágio não obrigatório), com os vistos do supervisor e do
+          estudante, os relatórios parciais de estágio a cada seis meses de atividades se realizado em
+          órgão ou em entidade da administração pública federal direta, autárquica ou fundacional
+          conforme Normativa MPOG nº 02/2016, disponível em: ce.prograd.ufg.br.
+       f) elaborar e encaminhar à CEPFM, com os vistos do supervisor e do estudante, o relatório
+          final do Estágio Curricular Obrigatório se realizados em empresas, instituições, ONG’s e
+          pessoas físicas conveniadas.
+       g) elaborar e encaminhar à Central de Estágios/PROGRAD, com os vistos do supervisor,
+          professor orientador e do estudante, os relatórios parciais e o formulário de relatório final
+          do Estágio Curricular Não Obrigatório se realizados em empresas, instituições, ONG’s e
+          pessoas físicas conveniadas.
+                                 MINISTÉRIO DA EDUCAÇÃO
+                              UNIVERSIDADE FEDERAL DE GOIÁS
+                 ESCOLA DE ENGENHARIA ELÉTRICA, MECÂNICA E DE COMPUTAÇÃO
+
+
+Art. 31 — Ao concluir o total de horas exigidas para a disciplina Estágio Supervisionado, o
+estudante deverá elaborar o Relatório de Estágio Curricular Obrigatório, segundo o art. 11.
+       § 1° O Relatório Final de Estágio Curricular Obrigatório deverá ser encaminhado pelo
+           estudante à CEPFM, juntamente com o último Formulário de Frequência no local de
+           estágio, o Formulário de Avaliação do Supervisor e o Formulário de Avaliação do
+           Orientador, disponível no sítio da EMC/UFG.
+       § 2° Os Formulários de Avaliação e o Relatório Final deverão ser entregues na CEPFM até o
+           último dia de aulas do semestre letivo no qual o estágio foi concluído e, após este prazo,
+           caso não sejam entregues, será atribuída a nota zero (0,0) na disciplina de Estágio.
+
+                                     CAPÍTULO X
+                               DAS DISPOSIÇÕES GERA IS
+
+Art. 32 — Os casos omissos serão resolvidos pela CEPFM.
+       Parágrafo Único. As decisões a que se refere o caput deste artigo são passíveis de recurso ao
+       Conselho Diretor da EMC.
+Art. 33 — Esta Resolução entra em vigor no início do semestre letivo seguinte à data de sua
+aprovação, revogando-se as disposições em contrário.
+
+
+
+
+                                                                       Goiânia, 17 de abril de 2017.
+
+
+
+
+                               Prof. Dr. Marcelo Stehling de Castro
+                                      Diretor da EMC/UFG
+

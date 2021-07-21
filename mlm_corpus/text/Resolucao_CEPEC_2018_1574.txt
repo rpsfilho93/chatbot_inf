@@ -1,0 +1,2502 @@
+                           SERVIÇO PÚBLICO FEDERAL
+                        UNIVERSIDADE FEDERAL DE GOIÁS
+
+
+                          RESOLUÇÃO – CEPEC Nº 1574
+
+
+                                                    Aprova o Projeto Pedagógico do Curso
+                                                    de Graduação em Letras: Tradução e
+                                                    Interpretação em Libras/Português, grau
+                                                    acadêmico Bacharelado, modalidade
+                                                    Presencial, da Faculdade de Letras, para
+                                                    os alunos ingressos a partir de 2014.
+
+
+
+                   A VICE-REITORA, NO EXERCÍCIO DA REITORIA DA
+UNIVERSIDADE FEDERAL DE GOIÁS, AD REFERENDUM DO CONSELHO DE
+ENSINO, PESQUISA, EXTENSÃO E CULTURA, no uso de suas atribuições legais,
+estatutárias e regimentais, tendo em vista o que consta do processo nº 23070.024496/2012-21
+e considerando:
+                   a) a Lei de Diretrizes e Base - LDB (Lei 9.394/96);
+                   b) a Resolução CNE/CES nº 2/2007, que dispõe sobre a carga horária
+                      mínima e procedimentos relativos à integralização e duração dos cursos
+                      de graduação, bacharelados;
+                   c) as Diretrizes Curriculares Nacionais para o Curso de Letras: Tradução e
+                      Interpretação em Libras/Português;
+                   d) o Regimento e o Estatuto da UFG;
+                   e) o Regulamento Geral dos Cursos de Graduação da UFG,
+
+
+                 R E S O L VE :
+
+
+Art. 1º Aprovar o Projeto Pedagógico do Curso de Graduação em Letras: Tradução e
+Interpretação em Libras/Português, grau acadêmico Bacharelado, modalidade presencial, da
+Faculdade de Letras – FL, Regional Goiânia da Universidade Federal de Goiás, na forma do
+Anexo a esta Resolução.
+
+                   Art. 2º Esta resolução entra em vigor nesta data, com efeito para os alunos
+ingressos a partir de 2014, revogando-se as disposições em contrário.
+
+
+
+                                Goiânia, 7 de maio de 2018.
+
+
+                             Profª. Sandramara Matias Chaves
+                         - Vice-Reitora no exercício da Reitoria -
+                     ANEXO À RESOLUÇÃO – CEPEC Nº 1574
+
+    PROJETO PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM LETRAS:
+ TRADUÇÃO E INTERPRETAÇÃO EM LIBRAS/PORTUGUÊS - BACHARELADO
+
+
+
+                  UNIVERSIDADE FEDERAL DE GOIÁS
+
+                                Reitores (no período):
+                        Prof. Orlando Afonso Valle do Amaral
+                            Prof. Edward Madureira Brasil
+
+                            Vice-Reitores (no período):
+                           Prof. Manoel Rodrigues Chaves
+                          Profª. Sandramara Matias Chaves
+
+
+
+             FACULDADE DE LETRAS – FL/REGIONAL GOIÂNIA
+
+                                 Diretor (no período)
+                     Prof. Francisco José Quaresma de Figueiredo
+
+                             Vice-Diretor (no período)
+                          Prof. Jamesson Buarque de Souza
+
+
+
+   Coordenação do Curso de Letras: Tradução e Interpretação em Libras/Português
+
+                                    Coordenador:
+                       Prof. Claudinei Maria de Oliveira e Silva
+
+                                Vice-Coordenadora:
+                      Profª. Alessandra Campos Lima da Costa
+
+
+
+
+Coordenador Administrativo da FL:
+Rodrigo Damásio Lima
+
+
+
+
+                                    Goiânia – GO
+                                     2014/2018
+
+
+                                                                                  2
+                                                                     SUMÁRIO
+
+1    APRESENTAÇÃO ........................................................................................................................... 4
+1.1  Identificação ..................................................................................................................................... 5
+2    EXPOSIÇÃO DE MOTIVOS/JUSTIFICATIVA......................................................................... 6
+3    OBJETIVOS (GERAL E ESPECÍFICOS).................................................................................... 8
+4    PRINCÍPIOS NORTEADORES PARA A FORMAÇÃO PROFISSIONAL ........................... 8
+4.1  Prática Profissional ......................................................................................................................... 8
+4.2  Formação Técnica ........................................................................................................................... 9
+4.3  Formação Ética e a Função Social do Profissional..................................................................... 9
+4.4  A Interdisciplinaridade ................................................................................................................. 10
+4.5  Articulação Entre Teoria e Prática ............................................................................................. 10
+5    EXPECTATIVA DA FORMAÇÃO DO PROFISSIONAL ......................................................10
+5.1  Perfil do Curso ............................................................................................................................... 10
+5.2  Perfil do Egresso ............................................................................................................................ 10
+5.3  Habilidades do Egresso ................................................................................................................. 11
+5.4  Campos de Atuação do Tradutor e Intérprete de Libras/Português .................................... 11
+6    ESTRUTURA CURRICULAR.....................................................................................................13
+6.1  Matriz Curricular do Curso Letras: Tradução e Interpretação em Libras/Português ..... 13
+6.2  Elenco de Componentes Curriculares ........................................................................................ 15
+6.3  Quadro de Carga Horária ............................................................................................................ 31
+6.4  Sugestão de Fluxo Curricular do Curso de Letras: Tradução e Interpretação em
+     Libras/Português ........................................................................................................................... 31
+6.5 Prática como Componente Curricular ....................................................................................... 33
+6.6 Atividades Complementares ........................................................................................................ 33
+7    POLÍTICA E GESTÃO DE ESTÁGIO CURRICULAR OBRIGATÓRIO E NÃO
+     OBRIGATÓRIO ............................................................................................................................34
+7.1 Estágio Curricular Obrigatório .................................................................................................. 34
+7.2 Estágio Curricular não Obrigatório ........................................................................................... 35
+8    TRABALHO DE CONCLUSÃO DE CURSO ............................................................................35
+9    INTEGRAÇÃO ENSINO, PESQUISA E EXTENSÃO .............................................................36
+10 SISTEMA DE AVALIAÇÃO DO PROCESSO DE ENSINO E DE APRENDIZAGEM .....37
+11 XI. SISTEMA DE AVALIAÇÃO DO PROJETO DO CURSO LETRAS: TRADUÇÃO E
+     INTERPRETAÇÃO EM LIBRAS/PORTUGUÊS .....................................................................37
+12 POLÍTICA DE QUALIFICAÇÃO DOCENTE E DO TÉCNICO-ADMINISTRATIVO.....38
+13 REQUISITOS LEGAIS E NORMATIVOS ................................................................................39
+13.1 Diretrizes Curriculares Nacionais para Educação das Relações Étnico-raciais e para o
+     Ensino de História e Cultura Afro-brasileira e Indígena (Lei nº 11.645, de 10/03/2008, e
+     Resolução CNE/CP nº 01, de 17 de junho de 2004); Diretrizes Nacionais para Educação em
+     Direitos Humanos (Parecer CNE/CP nº 8, de 06/03/2012, Resolução CNE/CP nº 1, de
+     30/05/2012) e Políticas de educação ambiental (Lei n 9.795, de 27/04/1999 e Decreto n° 4.281,
+     de 25/06/2002)...............................................................................................................................................39
+13.2 Proteção dos direitos da Pessoa com Transtorno do Espectro Autista (Lei nº 12.764, de
+     27 de dezembro de 2012) .............................................................................................................. 39
+14 O PROFISSIONAL TRADUTOR E INTÉRPRETE DE LIBRAS NO QUADRO
+     ESTRUTURANTE DO CURSO ...................................................................................................40
+15 LABORATÓRIO DE TRADUÇÃO E INTERPRETAÇÃO ....................................................41
+16 CONSIDERAÇÕES FINAIS ........................................................................................................43
+17 REFERÊNCIAS .............................................................................................................................43
+
+
+
+         1                                                                                                                                                   3
+1       APRESENTAÇÃO
+
+         A Universidade Federal de Goiás (UFG) foi fundada em 14 de dezembro de 1960
+pela Lei nº 3.834C, que dispunha em seu Art. 2º, § 3º, que o Poder Executivo devia promover,
+no prazo de 3 anos, a criação de uma Faculdade de Filosofia, Ciências e Letras. Pelo Decreto
+nº 51582, de 8 de novembro de 1962, foi, então, criada a referida faculdade. O Diário Oficial
+da União publicou esse Decreto em 14 de novembro de 1962.
+         Com a reforma universitária de 1968, a Faculdade de Filosofia, Ciências e Letras foi
+desmembrada, dando origem ao Instituto de Ciências Humanas e Letras (ICHL). A
+reestruturação administrativa e acadêmica de 1996, por sua vez, propiciou o fracionamento
+desse instituto, resultando no estabelecimento da Faculdade de Letras (FL). O reconhecimento
+do curso de Letras da Universidade Federal de Goiás foi conferido pelo Decreto nº 63.636, de
+25 de novembro de 1968.
+         Desde a criação do curso de Letras, em 1962, com a oferta de licenciaturas em língua
+portuguesa, línguas estrangeiras e sólida pesquisa em línguas indígenas, que possibilitou a
+criação da Licenciatura Intercultural Indígena, a FL acumulou experiências em estudos de
+bilinguismo e em educação inclusiva. Nesse ínterim, a FL implantou o curso de licenciatura
+em Letras: Libras, no ano de 2009, por meio do Programa de Apoio a Planos de
+Reestruturação e Expansão das Universidades Federais (REUNI).
+         A licenciatura em Letras: Libras da UFG foi a primeira em nível presencial criada no
+Brasil. O curso Letras: Libras possui 40 vagas, sendo 15 dessas vagas destinadas a estudantes
+surdos por meio do programa UFGInclui, cujo objetivo é promover a política de inclusão e
+permanência de alunos e de servidores na universidade. A composição dos recursos humanos
+do curso tem em seu quadro docente professores ouvintes e surdos, e tradutores e intérpretes
+do par linguístico Libras/Português, o que reflete o perfil inclusivo do curso.
+         Em 2011, o Governo Federal lançou o Viver sem Limite – Plano Nacional dos
+Direitos da Pessoa com Deficiência. Este Plano tem como objetivo firmar um compromisso
+político com a plena cidadania das pessoas com deficiência no Brasil, assegurando
+oportunidades, direitos e cidadania para todas as pessoas. Entre as ações do Viver sem Limite
+estava a implementação dos cursos da área de Língua Brasileira de Sinais (Libras),
+modalidades licenciatura e bacharelado, em todas as universidades públicas do Brasil.
+         Para atender a essa demanda em relação ao bacharelado, a Faculdade de Letras da
+UFG, em reunião de seu Conselho Diretor, aprovou a criação do curso de Letras: Tradução e
+Interpretação em Libras/Português. Esta decisão é também amparada pelo Decreto nº 5.626,
+de 22 de dezembro de 2005, no que se refere à formação, em nível superior, do profissional
+tradutor e intérprete de Libras/Português (Art. 17, Capítulo V). Esse Decreto regulamenta a
+Lei nº 10.436, de 24 de abril de 2002, que reconhece a Língua Brasileira de Sinais (Libras)
+como um meio de comunicação legal das pessoas surdas no Brasil.
+         Em decorrência da legislação sobre o funcionamento dos cursos de graduação1, bem
+como da legislação pertinente à formação do profissional tradutor e intérprete de
+Libras/Português, o Projeto Pedagógico do Curso (PPC) foi elaborado por uma comissão de
+professores do Departamento de Libras e Tradução da Faculdade de Letras.
+
+
+1
+ Documentos consultados: i. Parecer CNE/CES 492/2001 e Diretrizes Curriculares para os cursos de Letras, ii.
+Parecer CNE/CES 1.363/2001, iii. Parecer CNE/CP 28/2001, iv. Resolução CNE/CP 1/2002, v. Resolução
+CNE/CP 2/2002, vi. Resolução CNE/CE 18/2002.
+
+
+                                                                                                          4
+1.1    Identificação
+Nome do Curso:
+       Letras: Tradução e Interpretação em Libras/Português.
+Grau Acadêmico:
+       Bacharelado.
+Título do Egresso:
+        Bacharel em Tradução e Interpretação em Libras/Português.
+Área do Conhecimento (CNPq):
+        Linguística, Letras e Artes (8.00.00.00-2).
+Modalidade:
+       Presencial.
+Local de Oferta:
+        Faculdade de Letras - Av. Esperança, S/N – Chácaras Califórnia, Goiânia (GO), CEP
+        74690-900.
+Responsável:
+       Faculdade de Letras (FL).
+Unidade Executora:
+       Faculdade de Letras (FL).
+Número de Vagas:
+      30 (trinta) vagas anuais.
+Carga Horária:
+       3.160.
+Duração do Curso em Semestres:
+       8 semestres.
+Turno de Funcionamento:
+       Noturno.
+Forma de Ingresso:
+       Sistema de Seleção Unificada (SiSU). Em caso de existência de vagas, é possível o
+       ingresso através: (a) de transferência de outras instituições de ensino superior; (b)
+       portadores de diploma ou (c) reingresso. Essas opções dependem de processo
+       seletivo específico na UFG.
+
+          O presente projeto atende ao que prevêem as Diretrizes Curriculares para os cursos
+de Letras (CONSELHO NACIONAL DE EDUCAÇÃO, 2001a, p.29), no que diz respeito à
+flexibilização curricular. Assim, são propostas estruturas flexíveis que:
+                       1 facultem ao profissional a ser formado opções de conhecimento e de atuação no
+                         mercado de trabalho;
+                       2 criem oportunidade para o desenvolvimento de habilidades necessárias para se
+                         atingir a competência desejada no desempenho profissional;
+                       3 deem prioridade à abordagem pedagógica centrada no desenvolvimento da
+                         autonomia do aluno;
+                       4 promovam articulação constante entre ensino, pesquisa e extensão, além de
+                         articulação direta com a pós-graduação. [...].
+         Destina-se o curso de Letras: Tradução e Interpretação em Libras/Português da UFG
+à formação de tradutores e intérpretes do par linguístico Libras/Português para atender às
+diversas demandas existentes na esfera social, no que se refere ao uso da Libras (Lei nº
+10.436/2002).
+
+                                                                                                    5
+          Ressalte-se que o Regulamento Geral dos Cursos de Graduação (RGCG) possibilita a
+flexibilização curricular ao determinar a distribuição das disciplinas em três núcleos:
+          a) Núcleo Comum (NC): “conjunto de conteúdos comuns para a formação do
+             respectivo profissional”, compreendendo disciplinas obrigatórias cuja carga
+             horária total não deve exceder a 70% da carga horária total de disciplinas;
+          b) Núcleo Específico (NE): “conjunto de conteúdos que darão especificidade à
+             formação do profissional”, compreendendo disciplinas obrigatórias e optativas,
+             cuja carga horária total deve ser maior que 20% da carga horária total de
+             disciplinas. Acrescente-se que o “somatório da carga horária do NC e do NE
+             totalizará um mínimo de 80% da carga horária de disciplinas”;
+          c) Núcleo Livre (NL): “conjunto de conteúdos que objetiva garantir liberdade ao
+             aluno para ampliar sua formação”, compreendendo “disciplinas eletivas por ele
+             escolhidas dentre todas as oferecidas nessa categoria no âmbito da universidade”,
+             cuja carga horária total deverá ser de no mínimo 128 horas.
+
+          Caso o aluno tenha proficiência em Libras, poderá submeter-se a um Exame de Nível
+que poderá dispensá-lo de cursar as disciplinas Libras Básico 1 e 2.
+          O Exame de Nível será permitido, também, para fins de dispensa de disciplina, a
+alunos com extraordinário domínio de conteúdo, com base no Art. 90 do RGCG
+(UNIVERSIDADE FEDERAL DE GOIÁS, 2012, p. 27). Esse artigo contempla o que prevê a
+LDB de 1996, no seu Art. 47, § 1º: “A dispensa de cursar disciplina ou eixo temático/módulo
+poderá abreviar a duração do curso de graduação para um tempo inferior ao mínimo previsto
+no PPC, de acordo com a legislação em vigor”.
+          No contexto atual, são disponibilizadas, anualmente, por meio de processo seletivo,
+30 vagas para o curso de Letras: Tradução e Interpretação em Libras/Português para o período
+noturno. Pode se candidatar ao curso qualquer pessoa que tenha interesse em estudos da área,
+tanto surdos quanto ouvintes.
+          O curso de Letras: Tradução e Interpretação em Libras/Português está inserido na
+grande área de conhecimento denominada Linguística, Letras e Artes e será ofertado na
+modalidade presencial, conferindo o título de Bacharel em Letras: Tradução e Interpretação
+em Libras/Português.
+          O curso de Letras: Tradução e Interpretação em Libras/Português terá duração
+mínima de oito semestres, máxima de 14 semestres e uma carga horária de 3.672 horas.
+          Assim, o presente projeto busca adequar o currículo de Letras: Tradução e
+Interpretação em Libras/Português às normas estatuídas no âmbito da UFG, por meio do
+RGCG, além de atender às determinações do Conselho Nacional de Educação, com suas
+diretrizes, resoluções e pareceres.
+
+
+
+2      EXPOSIÇÃO DE MOTIVOS/JUSTIFICATIVA
+
+          A formação do tradutor e intérprete de Libras e Língua Portuguesa está embasada na
+legislação brasileira que garante a acessibilidade linguística e social ao indivíduo surdo. É
+inegável o avanço obtido em relação ao sujeito surdo, à Libras e às políticas linguísticas no
+Brasil após a aprovação do Decreto nº 5.626/2005 (FELIPE, 2006; QUADROS; PATERNO,
+2006). Considera-se que o avanço trazido pelo Decreto é muito mais significativo do que as
+normativas implementadas anteriormente, como a própria Lei nº 10.436/2002 e a Lei nº
+10.098/2000, no seu artigo 18, que anunciou a responsabilidade do Poder Público na
+formação de profissionais tradutores e intérpretes de Libras/Língua Portuguesa, visando a
+facilitar qualquer tipo de comunicação entre surdos e ouvintes.
+
+
+                                                                                            6
+         A significância do Decreto nº 5.626/2005 se justifica por explicitar mecanismos
+imperativos e ações públicas para a formação de profissionais tanto para o ensino, quanto para
+a interpretação e a tradução da Libras e Português. Essa conquista é oriunda de um contexto
+histórico-político e social de movimento pelos direitos humanos e direitos linguísticos, com
+debates, ações e muitas lutas da comunidade surda, em âmbito nacional e internacional, que
+foram bem explorados em diversas publicações, como as de Soares (1999), Mazzotta (2001),
+Felipe (2006), Quadros (2006, 2009).
+         Porém, sabe-se que somente aspectos imperativos e mecanismos legais não são
+suficientes para que uma cultura secular de discriminação seja superada. É preciso instituir
+mecanismos e ações visando à busca pela superação das barreiras.
+         Historicamente, o surdo brasileiro foi submetido hegemonicamente à Língua
+Portuguesa, impactando na limitação de seu desenvolvimento e na sua leitura de mundo, visto
+que sua língua natural é a Libras. Uma das formas de se viabilizar esse desenvolvimento é a
+atuação do profissional tradutor e intérprete como agente que possibilita a transposição de
+barreiras na comunicação entre surdos e ouvintes.
+         O Decreto nº 5.626/2005 trata, em seu capítulo V, da formação do tradutor e
+intérprete em Libras e Português: “a formação do tradutor e intérprete de Libras - Língua
+Portuguesa deve efetivar-se por meio de curso superior de Tradução e Interpretação, com
+habilitação em Libras - Língua Portuguesa” (BRASIL, 2005).
+         Além disso, a profissão de tradutor e intérprete em Libras/Língua Portuguesa é
+reconhecida pela Lei 12.319/2010, que regulamenta o exercício da profissão e que, no Art. 6º,
+explicita as atribuições desse profissional:
+                        Art. 6º São atribuições do tradutor e intérprete, no exercício de suas competências:
+                        I- efetuar comunicação entre surdos e ouvintes, surdos e surdos, surdos e surdos-
+                             cegos, surdos-cegos e ouvintes, por meio da Libras para a língua oral e vice-versa;
+                        II- interpretar, em Língua Brasileira de Sinais - Língua Portuguesa, as atividades
+                             didático-pedagógicas e culturais desenvolvidas nas instituições de ensino nos
+                             níveis fundamental, médio e superior, de forma a viabilizar o acesso aos
+                             conteúdos curriculares;
+                        III- atuar nos processos seletivos para cursos na instituição de ensino e nos concursos
+                             públicos;
+                        IV-atuar no apoio à acessibilidade aos serviços e às atividades-fim das instituições
+                             de ensino e repartições públicas; e
+                        V- prestar seus serviços em depoimentos em juízo, em órgãos administrativos ou
+                             policiais.
+          Ainda a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa
+com Deficiência) nº 13.146 de 6 de julho de 2015 corrobora para a criação do curso em seu
+Capítulo IV, parágrafo 2º (II), que diz: “os tradutores e intérpretes de Libras, quando
+direcionados à tarefa de interpretar na sala de aula dos cursos de graduação e pós graduação,
+devem possuir nível superior, com habilitação prioritariamente, em Tradução e Interpretação
+em Libras” (BRASIL, 2015).
+          Dessa forma, a criação do curso de Letras: Tradução e Interpretação em
+Libras/Português, proposta pela UFG, expressa sua disposição em formar profissionais que
+promovam a interação do par linguístico Libras e Língua Portuguesa, resultando na
+acessibilidade de surdos e ouvintes à comunicação, informação e conhecimentos.
+          Além da demanda supracitada, há uma necessidade veemente de oferecer formação
+acadêmica científica a estes profissionais, uma vez que majoritariamente a formação desses se dá
+de forma empírica no seio das comunidades surdas, ou ainda, oriunda da necessidade de
+comunicação de seus familiares surdos com a sociedade. Assim, reflexões importantes sobre
+preceitos éticos, processos cognitivos, estratégias de tradução e interpretação e aspectos culturais
+das línguas envolvidas, deixam de acontecer quando a formação não é sistematizada para alcançar
+objetivos de desenvolvimento e profissionalização da atividade de traduzir e interpretar línguas.
+          Considerando o exposto, o curso de Letras: Tradução e Interpretação em Libras/
+Português habilita o tradutor e intérprete de Libras e Português para atuar em diferentes
+contextos de tradução e interpretação, intermediando relações entre pessoas e/ou situações
+que utilizem estas línguas.
+
+                                                                                                              7
+3      OBJETIVOS (GERAL E ESPECÍFICOS)
+
+          Esta proposta coincide com o que estabelece o Plano Nacional de Graduação (PNG),
+elaborado pelo Fórum de Pró-Reitores de Graduação das Universidades Brasileiras (2002, p.
+10), quando afirma que “a graduação necessita deixar de ser apenas o esforço da transmissão
+e da aquisição de informações para transformar-se no „locus‟ de construção/produção do
+conhecimento, em que o aluno atue como sujeito da aprendizagem”.
+          Desse modo, este curso tem por objetivo geral proporcionar uma formação crítico-
+reflexiva no que concerne aos estudos e práticas da tradução e interpretação de Libras/
+Português.
+          Pretende-se, assim, levar o discente a observar os fenômenos tradutório, linguístico e
+cultural, a refletir sobre eles, a se apropriar de técnicas e estratégias inerentes à atuação do
+tradutor e intérprete em Libras/Português. Pretende-se, também, levar o discente a identificar
+um problema e analisá-lo, descrevê-lo ou explicá-lo, por meio de elaboração de hipóteses e
+fundamentado em pesquisas atualizadas. Para tanto, o discente é apresentado a teorias de
+tradução e a teorias linguísticas que possibilitam a busca de conhecimento novo e não a
+reprodução do já sabido. Assim, afirma-se a função da universidade como produtora de
+conhecimento e como corresponsável pela busca de soluções para as questões sociais do País.
+          O curso apresentado neste projeto tem como objetivos específicos:
+          a) formar tradutores e intérpretes capazes de realizar tradução e interpretação de
+             Libras/Português;
+          b) formar tradutores e intérpretes capazes de analisar, descrever e refletir sobre
+             diversos fenômenos da linguagem em geral;
+          c) promover o conhecimento acadêmico sobre técnicas e estratégias de tradução e
+             interpretação e sobre as práticas e discursos que as envolvem;
+          d) proporcionar a prática da tradução e interpretação em diferentes contextos sociais;
+          e) propiciar a percepção da linguagem humana como prática social e relacional;
+          f) despertar e aprimorar habilidades de tradução e interpretação, a partir da
+             compreensão linguística e cultural;
+          g) possibilitar atitudes de pesquisa pela visão crítica de perspectivas teóricas e
+             metodológicas adotadas nos estudos de tradução e interpretação e suas
+             implicações sociais.
+
+        Portanto, os objetivos do curso de Letras: Tradução e Interpretação em
+Libras/Português fundamentam-se na relação entre a capacidade crítico-reflexiva de
+linguagem e o fenômeno tradutório como integrantes das experiências sociais e culturais.
+
+
+
+4      PRINCÍPIOS NORTEADORES PARA A FORMAÇÃO PROFISSIONAL
+
+4.1    Prática Profissional
+          A prática profissional do bacharel em Letras: Tradução e Interpretação em
+Libras/Português da UFG relaciona-se, sobretudo, ao planejamento, organização e
+desenvolvimento de ações voltadas à reflexão e à prática de tradução e interpretação do par
+linguístico Libras e Língua Portuguesa. Tal prática profissional também compreende análise,
+descrição e reflexão sobre línguas, contextos discursivos, sobre usos e variedades linguísticas
+e culturais das comunidades envolvidas.
+
+                                                                                              8
+        Seguindo o Código Brasileiro de Ocupações (CBO) do Ministério do Trabalho,
+podem ser apontadas as seguintes ocupações para o Bacharel em Tradução e Interpretação em
+Libras/Português:
+         Quadro 1      Ocupações do Bacharel em Tradução e Interpretação em Libras/Português
+CÓDIGO                                     CARGO/OCUPAÇÃO
+2614    Filólogos, tradutores, intérpretes e afins.
+2614-05 Filólogo crítico textual, filólogo dicionarista.
+2614-10 Intérprete comercial, intérprete de comunicação eletrônica, intérprete de conferência,
+        intérprete simultâneo, tradutor simultâneo.
+2614-15 Linguista Lexicógrafo, Lexicólogo, Linguista dicionarista, Terminógrafo, Terminólogo,
+        Vocabularista.
+2614-20 Tradutor de textos eletrônicos, Tradutor de textos escritos, Tradutor público juramentado.
+2614-25 Intérprete de língua de sinais Guia-intérprete, Intérprete de Libras, Intérprete educacional,
+        Tradutor de libras, Tradutor-intérprete de Libras.
+         Assim sendo, as habilidades esperadas para os bacharéis em Tradução e
+Interpretação em Libras/Português consistem na realização de tradução e interpretação na
+forma escrita de textos de qualquer natureza, de uma língua para outra, considerando as
+variáveis culturais, bem como os aspectos terminológicos e estilísticos, tendo em vista um
+público-alvo específico; consistem também na interpretação oral e/ou em língua de sinais, de
+forma simultânea ou consecutiva, de uma língua para outra, de discursos, debates, textos,
+formas de comunicação eletrônica, respeitando o respectivo contexto e as características
+culturais das partes. Tratam das características e do desenvolvimento de uma cultura,
+representados por sua linguagem; fazem a crítica dos textos. Prestam assessoria a clientes.
+
+
+4.2    Formação Técnica
+          O curso de Letras: Tradução e Interpretação em Libras/Português é composto por
+disciplinas teóricas que dão suporte às áreas de estudos linguísticos, de estudos literários e de
+estudos da tradução (disciplinas do Núcleo Comum), bem como por disciplinas específicas para a
+formação do tradutor e intérprete de Libras/Português (disciplinas do Núcleo Específico
+Obrigatório e Optativo), compreendendo os conteúdos: Libras, Escrita das Línguas de Sinais,
+Estudos da Cultura Surda, Ética, Estudos da Tradução, Laboratórios de Tradução e Interpretação,
+Estágio Supervisionado Obrigatório em Tradução e Interpretação. A integração dessas disciplinas
+garante uma formação consistente do bacharel em Letras: Tradução e Interpretação em
+Libras/Português por meio do acesso aos conhecimentos teóricos, técnicos e metodológicos.
+
+
+4.3    Formação Ética e a Função Social do Profissional
+         O curso de Letras: Tradução e Interpretação em Libras/Português da Universidade
+Federal de Goiás tem como um dos seus princípios norteadores o que preveem as Diretrizes
+curriculares para os cursos de Letras (BRASIL, 2001): “O profissional de Letras deverá [...]
+estar compromissado com a ética, com a responsabilidade social e educacional, e com as
+consequências de sua atuação no mundo do trabalho”. Dessa forma, o curso de Letras:
+Tradução e Interpretação em Libras/Português preocupa-se com a formação de indivíduos
+envolvidos com ideais emancipatórios e aptos a transformar a realidade social.
+         A prática educativa é concebida em associação ao contexto político-social,
+considerando que
+                         todo exercício profissional se dá em um tempo e lugar determinados, em estreita
+                         relação com projetos que podem fechar ou abrir os horizontes humanos,
+                         consolidando exclusões sociais ou ensejando aberturas crescentemente integradoras
+                         dos diferentes segmentos da sociedade (FÓRUM DE PRÓ-REITORES DE
+                         GRADUAÇÃO DAS UNIVERSIDADES BRASILEIRAS, 2002, p. 10).
+
+
+                                                                                                        9
+         O curso de Letras: Tradução e Interpretação em Libras/Português busca propagar o
+cultivo dos valores humanos, ressaltando a relação dialética entre estes e o pragmatismo da
+sociedade moderna (BRASIL, 2001). Promove ações que identificam e valorizam as
+diferenças, levando em conta o saber existente dos discentes, as experiências vividas, os
+significados compartilhados, as representações construídas nas interações sociais, a fim de
+reconstruir um quadro de referências nas dimensões cultural, técnica, social, política e ética.
+
+4.4    A Interdisciplinaridade
+         Os Estudos da Tradução têm conexão com outras ciências, tais como os Estudos
+Literários, os Estudos Linguísticos, a Educação, a Filosofia, a História, a Antropologia, a
+Sociologia, a Ética, os Estudos Culturais, entre outras. Essa conexão tem estado presente,
+implícita ou explicitamente, nos conteúdos programáticos das diferentes disciplinas e demais
+atividades acadêmicas do curso de Letras: Tradução e Interpretação em Libras/Português. O
+RGCG, ao permitir que o discente escolha disciplinas do Núcleo Livre, oferecidas por outras
+unidades acadêmicas da UFG, possibilita o alargamento dessa conexão e uma formação mais
+geral ao estudante, nos âmbitos profissional, cultural e humanístico. Dessa forma, pensa-se o
+currículo em sua amplitude de saberes e diversidade de modalidades de execução.
+         Entretanto, se, por um lado, se apoia essa posição de inter-relação com diferentes
+áreas do conhecimento, por outro, concebe-se o currículo como uma seleção com vistas a uma
+formação específica, que não seria atingida com pinceladas de conhecimentos oriundos de
+domínios diversos. Acredita-se, como alega Fiorin (2001, p. 20), que
+                        é a partir de sólidos conhecimentos num domínio específico do conhecimento que se
+                        pode abrir para as íntimas relações dos diversos campos do saber [...] [A]
+                        interdisciplinaridade estabelece-se como exigência do trabalho disciplinar, quando
+                        se verifica que um problema deve ser tratado sob diferentes óticas e perspectiva [...]
+                        [A] interdisciplinaridade não é dada como pré-condição, mas surge como exigência
+                        interna ao trabalho que está sendo realizado. Não é criada por decreto, mas
+                        construída no cotidiano do pesquisador.
+        Por esse motivo, a escolha das disciplinas optativas do Núcleo Específico do curso
+de Letras: Tradução e Interpretação em Libras/Português restringir-se-á àquelas oferecidas
+pela Faculdade de Letras.
+
+4.5    Articulação Entre Teoria e Prática
+         A articulação entre teoria e prática, entre ensino e pesquisa, será contemplada no âmbito
+das disciplinas. As atividades ligadas à pesquisa de iniciação científica, de extensão e cultura e à
+monitoria igualmente promovem essas interações. Espera-se levar o aluno a perceber que a prática
+atualiza e questiona a teoria. Considera-se que, desse modo, o diplomado estará mais apto a
+responder às necessidades educativas e tecnológicas da sociedade.
+
+
+5      EXPECTATIVA DA FORMAÇÃO DO PROFISSIONAL
+
+5.1    Perfil do Curso
+          O curso de Letras: Tradução e Interpretação em Libras/Português forma o tradutor e
+intérprete do par linguístico Libras e Língua Portuguesa para atuar em diversos contextos
+sociais, conforme prevê o Art. 6º da Lei nº 12.319, de 01 de setembro de 2010.
+
+
+5.2    Perfil do Egresso
+         Como pode ser observado pelos objetivos do curso de Letras: Tradução e Interpretação
+em Libras/Português, anteriormente apresentados, e pelas demais considerações tecidas no
+decorrer deste documento, o presente projeto incorpora o que prevê a Lei nº 12.319, Art. 6º
+quanto às atribuições do tradutor e intérprete de Libras e Língua Portuguesa (v. Capítulo 2).
+
+
+                                                                                                           10
+         Assim, define-se que os bacharéis em Letras: Tradução e Interpretação em
+Libras/Português devem desenvolver em sua formação, o domínio da Libras e da Língua
+Portuguesa, em termos de estrutura, funcionamento e manifestações culturais, bem como
+desenvolver a capacidade de compreensão e expressão em ambas as línguas. Devem ser
+capazes de refletir teoricamente sobre as questões de tradução, incluindo aspectos
+linguísticos, culturais e outros conhecimentos envolvidos, bem como as estratégias de
+tradução e interpretação do par linguístico Libras/Português. Esse profissional deve,
+ainda, ter capacidade de reflexão crítica sobre temas e questões relativas aos
+conhecimentos tradutórios, linguísticos e literários. Além disso, devem saber fazer uso de
+novas tecnologias e compreender sua formação profissional como processo contínuo,
+autônomo e permanente.
+         Prevê-se, sobretudo, a formação de um profissional crítico, reflexivo e investigativo,
+preparado para atuar em situações do cotidiano, considerando o eixo epistemológico do curso:
+a tradução e a interpretação. Espera-se, também, que o graduando desenvolva competências
+em práticas e legislações relacionadas à área.
+
+
+5.3    Habilidades do Egresso
+         Ao se pensar em um processo de aprendizagem que prepare o formando para ser
+tradutor e intérprete de Libras/Português, deverá ser exigido dos bacharéis:
+          domínio do uso da Libras e da Língua Portuguesa em termos de comunicação e
+             expressão;
+          domínio dos conteúdos, métodos e técnicas que são objeto dos estudos da
+             tradução e seus respectivos processos de tradução e interpretação em diversos
+             contextos sociais;
+          visão crítica das perspectivas teóricas adotadas nas investigações sobre linguística,
+             tradução e interpretação;
+          conhecimento dos componentes fonológico, morfossintático, lexical e semântico
+             da Libras e da Língua Portuguesa;
+          capacidade de reflexão sobre a Libras como fenômeno psicológico,
+             educacional, social, histórico, cultural, político e ideológico das comunidades
+             surdas no Brasil;
+          conhecimento das possibilidades das manifestações literárias nas duas línguas;
+          preparação profissional atualizada, de acordo com a dinâmica do mercado de
+             trabalho, incluindo as transformações tecnológicas e científicas da sociedade da
+             informação;
+          percepção de diferentes contextos interculturais.
+
+
+5.4    Campos de Atuação do Tradutor e Intérprete de Libras/Português
+        Segundo o compêndio Prolibras (Exame Nacional para Certificação de Proficiência
+no Ensino da Língua Brasileira de Sinais (Libras) e na Tradução e Interpretação da Libras-
+Língua Portuguesa-Libras) (2009, p. 19):
+                        Esses profissionais atuam basicamente em três diferentes campos de trabalho:
+                        a) intermedia a comunicação entre as pessoas surdas usuárias de Libras e as pessoas
+                           ouvintes usuárias da Língua Portuguesa em diferentes contextos;
+                        b) traduz os textos da Libras para a Língua Portuguesa e os textos da Língua
+                           Portuguesa para a Libras;
+                        c) auxilia no esclarecimento da forma escrita produzida pelos surdos em quaisquer
+                           contextos que se façam necessários (concursos, avaliações em sala de aula,
+                           documentos etc.).
+
+
+                                                                                                        11
+          Além dos campos acima listados, considerando que este profissional desenvolveu uma
+preparação teórica e prática em ambas as línguas, o mesmo poderá atuar nos seguintes contextos
+específicos: comunitário (educacional, médico e jurídico), de conferência (conferências
+internacionais, palestras, transmissões na televisão, reuniões e outros) e contexto social de
+interpretação (entretenimento, religioso, fúnebre, acompanhamento e outros).
+          Na sala de aula, a atuação do tradutor e intérprete de Libras/Português envolve a
+comunicação entre aluno surdo e aluno ouvinte e entre professor (surdo/ouvinte) e aluno
+(surdo/ouvinte). O intérprete exerce a função de mediação interlinguística dos conteúdos
+ministrados em sala de aula e das interações existentes neste ambiente.
+          Nos eventos científicos, culturais e artísticos, o tradutor e intérprete de
+Libras/Português atua na interação comunicativa dos públicos envolvidos nestes eventos.
+          Nas produções midiáticas, a atuação do tradutor e intérprete de Libras/Português
+envolve a tradução dos textos de Língua Portuguesa escrita/oral para Libras em vídeo e/ou
+vídeos em Libras traduzidos para a Língua Portuguesa por meio de texto produzidos em
+versão-voz ou legenda. Essa atuação envolve o uso da imagem, voz ou texto do intérprete na
+sua forma permanente de reprodução e de uma tradução e interpretação performática. Assim,
+tais produções podem abranger os seguintes contextos: televisivo e demais mídias, como por
+exemplo, internet e DVD.
+          Nas interpretações comunitárias, o tradutor e intérprete de Libras/Português atua nas
+interações comunicativas em contextos relacionados ao poder público e às necessidades
+sociais dos cidadãos surdos. Estes contextos abrangem, por exemplo, as áreas médica,
+política, jurídica, empresarial, educacional, recreacional entre outras.
+          Nas traduções de/para modalidade escrita, a atuação do tradutor e intérprete de
+Libras/Português envolve a tradução dos seguintes materiais: avaliação (provas, concursos e
+exames), material didático, textos científicos e literários, entre outros, que possam exigir a
+transferência de conteúdos ou informações da Libras para a Língua Portuguesa e vice-versa.
+          Quanto à revisão de textos, o tradutor e intérprete de Libras/Português atua para
+atender à demanda específica gerada por meio de textos escritos em Português por pessoas
+surdas. A Língua Portuguesa na modalidade escrita é uma L2 (segunda língua) para a
+comunidade surda. Desta forma, ao produzir a escrita na língua portuguesa é comum haver
+transferência de estruturas linguístico-culturais identificadas na escrita. O tradutor e intérprete
+de Libras/Português poderá atuar como revisor de textos em Português produzidos por surdos,
+atendendo a critérios culturais e linguísticos de produção em ambas as línguas. Além da
+Língua Portuguesa, o trabalho de revisão também poderá ocorrer em discursos proferidos em
+Libras, em suas modalidades sinalizada e escrita.
+          Todos estes contextos possíveis à atuação dos tradutores e intérpretes de
+Libras/Português estão de acordo com a formação mais ampla conferida ao profissional em
+Letras, conforme as Diretrizes Curriculares para os cursos de Letras, item 2, Competências e
+Habilidades:
+                        Nesse sentido, visando à formação de profissionais que demandem o domínio da
+                        língua estudada e suas culturas para atuar como professores, pesquisadores, críticos
+                        literários, tradutores, intérpretes, revisores de textos, roteiristas, secretários,
+                        assessores culturais, entre outras atividades, o curso de Letras deve contribuir para o
+                        desenvolvimento das seguintes competências e habilidade:
+                         domínio do uso da língua portuguesa ou de uma língua estrangeira, nas suas
+                            manifestações oral e escrita, em termos de recepção e produção de textos;
+                         reflexão analítica e crítica sobre a linguagem como fenômeno psicológico,
+                            educacional, social, histórico, cultural, político e ideológico;
+                         visão crítica das perspectivas teóricas adotadas nas investigações linguísticas e
+                            literárias, que fundamentam sua formação profissional;
+                         preparação profissional atualizada, de acordo com a dinâmica do mercado de
+                            trabalho;
+                         percepção de diferentes contextos interculturais;
+                         utilização dos recursos da informática;
+                         domínio dos conteúdos básicos que são objeto dos processos de ensino e
+                            aprendizagem no ensino fundamental e médio;
+                         domínio dos métodos e técnicas pedagógicas que permitam a transposição dos
+                            conhecimentos para os diferentes níveis de ensino.
+
+
+                                                                                                            12
+6       ESTRUTURA CURRICULAR
+
+         Como já foi mencionado, seguindo a normatização do RGCG, as disciplinas são divididas em três núcleos: o Núcleo Comum (NC); o
+Núcleo Específico (NE), composto por dois conjuntos de disciplinas: o Núcleo Específico Obrigatório (NE-OBR) e o Núcleo Específico Optativo
+(NE-OPT) e o Núcleo Livre (NL). A listagem das disciplinas do NC, do NE, tanto as de natureza Obrigatória quanto Específica, bem como as
+disciplinas do NL encontra-se a seguir, assim como as ementas e as bibliografias.
+         O período mínimo para integralização curricular do curso de Letras: Tradução e Interpretação em Libras/Português será de oito semestres, e
+o máximo será de quatorze semestres. O aluno deverá matricular-se em, no mínimo, uma disciplina por semestre.
+
+
+6.1     Matriz Curricular do Curso Letras: Tradução e Interpretação em Libras/Português
+
+                                                 Unidade                                                  CHS                                 CH
+                    Disciplina                                         Pré/Co-Requisito (Cr)                      CHT   Núcleo    Natureza
+                                                Responsável                                           TEO PRA                                PCC*
+1     Introdução aos Estudos Linguísticos          FL                                                  24    20    64    NC        OBR
+2     Estudos Surdos, Sociedade e Cultura          FL                                                  40    24    64    NE        OBR
+3     Língua Portuguesa 1                          FL                                                  20    44    64    NE        OBR
+4     Libras Básico 1                              FL                                                  26   102   128    NE        OBR
+5     Estudos Linguísticos 1                       FL         Introdução aos Estudos Linguísticos      24    20    64    NC        OBR
+6     Estudos da Tradução e Interpretação 1        FL                                                  50    14    64    NE        OBR
+7     Língua Portuguesa 2                          FL         Língua Portuguesa 1                      20    44    64    NE        OBR
+8     Libras Básico 2                              FL         Libras Básico 1                          26   102   128    NE        OBR
+ 9    Estudos Linguísticos 2                       FL         Estudos Linguísticos 1                   24    20    64    NC        OBR
+10    Estudos da Tradução e Interpretação 2        FL         Estudos da Tradução e Interpretação 1    50    14    64    NE        OBR
+11    Ética na Tradução e Interpretação            FL                                                  40    24    64    NE        OBR
+12    Libras Intermediário 1                       FL         Libras Básico 2                          26   102   128    NE        OBR
+13    Estudos Linguísticos 3                       FL         Estudos Linguísticos 2                   24    20    64    NC        OBR
+14    Princípios de Estudos Literários             FL                                                  40    24    64    NC        OBR
+15    Tecnologias na Tradução e Interpretação      FL         Libras Intermediário 1                   24    40    64    NE        OBR
+16    Tradução em Diferentes Contextos             FL         Libras Intermediário 1                   40    24    64    NE        OBR
+17    Libras Intermediário 2                       FL         Libras Intermediário 1                   14    50    64    NE        OBR
+
+
+                                                                                                                                                13
+                                                          Unidade                                                                 CHS                                              CH
+                        Disciplina                                                   Pré/Co-Requisito (Cr)                                      CHT       Núcleo       Natureza
+                                                         Responsável                                                          TEO PRA                                             PCC*
+18   Escrita de Sinais                                      FL           Libras Básico 2                                       20    44           64        NE           OBR
+19   Políticas Linguísticas e Tradutórias                   FL                                                                 50    14           64        NE           OBR
+20   Laboratório de Tradução e Interpretação                FL           Libras Intermediário 2                                14    50           64        NE           OBR
+21   Libras Avançado 1                                      FL           Libras Intermediário 2                                14    50           64        NE           OBR
+22   Interpretação em Diferentes Contextos                  FL           Libras Intermediário2                                 40    24           64        NE           OBR
+23   Introdução à Pesquisa                                  FL                                                                 30    34           64        NC           OBR
+24   Estágio em Tradução                                    FL           Libras Avançado 1                                     10    54           64        NE           OBR
+25   Laboratório de Tradução                                FL           Laboratório de Tradução e Interpretação               14    50           64        NE           OBR
+26   Libras Avançado 2                                      FL           Libras Avançado 1                                     14    50           64        NE           OBR
+27   Laboratório de Interpretação 1                         FL           Libras Avançado 1                                     14    50           64        NE           OBR
+28   Estágio em Interpretação 1                             FL           Libras Avançado 1                                     74    54          128        NE           OBR
+29   Trabalho de Conclusão de Curso 1 –
+                                                              FL         Introdução à Pesquisa                                 32       32       64         NE           OBR
+     Tradução e Interpretação
+30   Laboratório de Interpretação 2                           FL         Laboratório de Interpretação 1                        14       50       64         NE           OBR
+31   Estágio em Interpretação 2                               FL         Libras Avançado 2                                     10       54       64         NE           OBR
+32   Trabalho de Conclusão de Curso 2 –                                  Trabalho de Conclusão de Curso 1 –
+                                                              FL                                                               32       32       64         NE           OBR
+     Tradução e Interpretação                                            Estudos da Tradução
+33   Inglês Instrumental                                      FL                                                               14       50       64         NE           OPT
+34   Prática Profissional e Mercado de
+                                                              FL                                                               40       24       64         NE           OPT
+     Trabalho do Tradutor e Intérprete
+35   Produção do Texto Acadêmico                              FL                                                               14       50       64         NE           OPT
+36   Sinais Internacionais                                    FL         Libras Intermediário 2                                14       50       64         NE           OPT
+37   Técnica Vocal na Interpretação                           FL         Libras Intermediário 2                                30       34       64         NE           OPT
+38   Práticas de Escrita de Sinais                            FL         Escrita de Sinais                                     20       44       64         NE           OPT
+39   Processos de Tradução e Interpretação                    FL         Estudos da Tradução e Interpretação 2                 40       24       64         NE           OPT
+40   Literatura Surda                                         FL                                                               40       24       64         NE           OPT
+41   Literatura Infantil e Juvenil                            FL                                                               40       24       64         NE           OPT
+42   Conceitos de Preservação Ambiental nas
+     Literaturas de Tradição Oral de Culturas                 FL                                                               40       24       64         NE           OPT
+     Indígenas e Africanas
+*PCC = Prática como Componente Curricular (quando esta estiver contemplada na CH da disciplinas). A PCC é um componente curricular obrigatório nos cursos de licenciatura.
+
+
+                                                                                                                                                                                    14
+6.2     Elenco de Componentes Curriculares
+INTRODUÇÃO AOS ESTUDOS LINGUÍSTICOS:
+Panorama geral dos fenômenos da linguagem e suas abordagens científicas. Os níveis da descrição linguística.
+Teorias de aquisição e desenvolvimento da linguagem. Cognição e linguagem.
+Bibliografia Básica:
+ABREU, A. S. Linguística cognitiva: uma visão geral e aplicada. São Paulo: Ateliê Editorial, 2010.
+FINGER, I.; QUADROS, R. M. de. Teorias de aquisição da linguagem. Florianópolis: UFSC, 2008.
+MUSSALIM, F.; BENTES, A. C. (Org.). Introdução à linguística: fundamentos epistemológicos. São Paulo:
+Cortez, 2004.
+QUADROS, R. M. de. Educação de surdos: a aquisição da linguagem. Porto Alegre: Artmed, 1997.
+Bibliografia Complementar:
+FIORIN, J. L. (Org.). Introdução à linguística: objetos teóricos. São Paulo: Contexto, 2002.
+GOLDFELD, M. A criança surda: linguagem e cognição numa perspectiva sociointeracionista. São Paulo:
+Plexus, 1997.
+LYONS, J. Introdução à Linguística Teórica. São Paulo: Ed. Nacional/Ed. da USP, 1979.
+ORLANDI, E. P. O que é linguística. São Paulo: Brasiliense, 1986.
+PAVEAU, M.; SARFATI, G. 2006. As grandes teorias da Linguística. São Carlos: Claraluz, 2006.
+SAUSSURE, F. Curso de linguística geral. São Paulo: Cultrix, 1998.
+
+ESTUDOS SURDOS, SOCIEDADE E CULTURA:
+Cultura e multiculturalismo na sociedade humana. Culturas fronteiriças e línguas em contato. Relação entre
+surdos, língua de sinais e sociedade. Artefatos culturais e aspectos sócio-históricos da comunidade surda.
+Bibliografia Básica:
+BHABHA, H. O local da cultura. Belo Horizonte: Ed. UFMG, 2005.
+GESSER, A. LIBRAS?: Que língua é essa? Crenças e preconceitos em torno da língua de sinais e da realidade
+surda. São Paulo: Parábola, 2009.
+KARNOPP, L.; KLEIN, M.; LUNARDI-LAZZARIN, M. (Orgs). Cultura Surda na Contemporaneidade:
+negociações, intercorrências e provocações. Canoas: Ed ULBRA, 2011.
+LOPES, M. C.; VEIGA-NETO, A. Marcadores culturais surdos. In: COSTA, L. M.; LOPES, M. C. Educação
+de surdos: políticas, língua de sinais, comunidade e cultura surda. Santa Cruz do Sul: EDUNISC, 2010.
+TARALLO, F.; ALKIMIN, T. Falares crioulos. Línguas em contato. São Paulo: Ática, 1987.
+Bibliografia Complementar:
+PERLIN, G. A cultura surda e os intérpretes de línguas de sinais (ILS). Revista Educação Temática Digital,
+Campinas, v.7, n.2, p.136-147, jun.2006.
+SILVA, T. T. Identidade e diferença: a perspectiva dos Estudos Culturais. Petrópolis: Vozes, p. 73-102, 2000.
+SKLIAR, C. Surdez. Um olhar sobre as diferenças. Porto Alegre: Mediação, 1998.
+______. A invenção e exclusão da alteridade “deficiente” a partir dos significados da anormalidade.Revista
+Educação e Realidade. Porto Alegre: UFRGS, v.24, n.2, p.5-32, jul./dez, 1999.
+STROBEl, K. As imagens do outro sobre a cultura surda. 2 ed. Florianópolis: Ed. UFSC, 2009.
+YÚDICE, G. A convivência da cultura: usos da cultura na era global. Trad. Marie-Anne Kremer. Belo
+Horizonte: Ed. UFMG, 2004.
+
+LÍNGUA PORTUGUESA 1:
+Estratégias de leitura e produção de textos em português. Coesão e coerência na Língua Portuguesa. Gêneros
+textuais. Tópicos de gramática. Leitura, análise linguística e escrita em nível básico.
+Bibliografia Básica
+CUNHA, C.; CINTRA, L. Nova gramática do português contemporâneo. Rio de Janeiro: Lexikon, 2013.
+FAULSTICH, E. L. J. Como ler, entender e redigir um texto. Petrópolis, RJ: Vozes, 2010.
+FÁVERO, L. L. Coesão e coerência textuais. São Paulo: Ática, 2006.
+MARCUSCHI, L. A. Gêneros textuais: definição e funcionalidade. DIONISIO, A. P.; MACHADO, A. R.;
+BEZERRA, M.ª (Org.s.). In: Gêneros textuais & ensino. Ed. 2. Rio de Janeiro: Lucerna, 2003. p. 19-36.
+THEREZO, G. P. Redação e leitura para universitários. Campinas, SP: Ed. Alínea, 2008.
+Bibliografia Complementar:
+KOCH, I. V.; TRAVAGLIA, L. C. A coerência textual. São Paulo: Contexto, 1995.
+KOCH, I. V. A coesão textual. São Paulo: Contexto, 2008.
+NEVES, M. H. de M. Gramática de usos do português. São Paulo: Ed. UNESP, 2000.
+PERINI, M. A. Gramática do português brasileiro. São Paulo: Parábola Editorial, 2010.
+XAVIER, A. C. Como se faz um texto: a construção da dissertação argumentativa. Catanduva, SP: Editora
+Rêspel, 2010.
+LIBRAS BÁSICO 1:
+Desenvolvimento da competência comunicativa em Libras. Práticas de compreensão e produção em Libras por
+meio do uso de estruturas e funções comunicativas básicas. Uso da língua em situações que simulam a realidade.
+Bibliografia Básica:
+CAPOVILLA, F. C. et al. Novo DEIT LIBRAS – Dicionário Enciclopédico Ilustrado Trilíngue da Língua de
+Sinais Brasileira (Libras). Baseado em Linguística e Neurociências Cognitivas. São Paulo: EDUSP, 2011. Vol. 1 e 2.
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico: livro do professor. 6. ed. Brasília:
+Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2007.
+QUADROS, R. M. de; PIMENTA, N. Curso de Libras 1 (Básico). Rio de Janeiro: LSB Vídeo, 2009.
+Bibliografia Complementar:
+ALBRES, N. de A.; NEVES, S. L. G. De sinal em sinal: comunicação em Libras para aperfeiçoamento do
+ensino dos componentes curriculares. São Paulo: Duas Maõ s, 2008.
+FERREIRA-BRITO. L. F. Por uma gramática de língua de sinais    . Rio de Janeiro: Tempo Brasileiro/UFRJ, 2010.
+GESSER, A. Libras: que liń gua é essa? São Paulo: Parábola Editorial, 2009.
+LIBRAS - Dicionário da Língua Brasileira de Sinais. Disponível em: <www.acessobrasil.org.br/libras>. Acesso
+em: 16 mar. 2016.
+RAMOS, C. R. Libras: a língua de sinais dos surdos brasileiros. Rio de Janeiro: Arara Azul. Disponível em:
+<www.editora-arara-azul.com.br>. Acesso em: 16 mar. 2016.
+STUMPF, M.; QUADROS, R. M. de; LEITE, T. de A. (orgs). Estudos da Língua Brasileira de Sinais I.
+Florianópolis: Insular, 2013.
+
+ESTUDOS LINGUÍSTICOS:
+Introdução aos princípios gerais da Fonética, da Fonologia e da Morfologia. Relação entre a Fonética e a Fonologia
+das línguas orais e das línguas de sinais. Aspectos morfológicos das línguas orais e das línguas de sinais.
+Bibliografia Básica:
+CALLOU, D.; LEITE, Y. Iniciação à fonética e à fonologia. Rio de janeiro: Jorge Zahar Editor, 1990.
+FIORIN, J. L. (Org). Introdução à linguística. São Paulo: Contexto, 2006.
+MUSSALIN, F.; BENTES, A. C. Introdução à Linguística: domínios e fronteiras. São Paulo: Cortez, 2001.
+QUADROS, R. M. de; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.
+Bibliografia Complementar:
+BASÍLIO, M. Teoria Lexical. São Paulo: Ática, 2001.
+______. Formação e classes de palavras no português do Brasil. São Paulo: Contexto, 2004.
+LYONS, J. Introdução à Linguística Teórica. São Paulo: Nacional/ USP, 1979.
+MONTEIRO, J. L. Morfologia portuguesa. 4 ed. Campinas: Pontes, 2002.
+OLIVEIRA, S. G. de; BRENNER, T. de M. Introdução à fonética e à fonologia da língua portuguesa:
+fundamentação teórica e exercícios para o 3. Grau. Florianópolis: O Autor, 1988.
+ROSA, M. C. Introdução à morfologia. São Paulo: Contexto, 2000. Disponível em:
+<http://www.fonologia.org/index.php>. Acesso em: 16 mar. 2016.
+
+ESTUDOS DA TRADUÇÃO E INTERPRETAÇÃO 1:
+Conceitos de tradução e interpretação. Tradução e senso comum. Fundamentos e aspectos históricos da tradução
+e interpretação nas línguas orais e nas línguas de sinais. Campos de pesquisa e abordagens teóricas da tradução e
+interpretação nas línguas orais e nas línguas de sinais. Panorama das pesquisas realizadas sobre o tradutor e
+intérprete de Libras/Português.
+Bibliografia Básica:
+BERMAN, A. A Tradução e a Letra ou o Albergue do Longínquo . 2.ed. Trad. Marie Hélène C . Torres, Mauri
+Furlan, Andreia Guerini. Tubarão: Copiart; Florianópolis: PGET/UFSC, 2013.
+GENTZLER, E. Teorias contemporâneas da tradução. São Paulo: Madras, 2009.
+RÓNAI, P. A Tradução Vivida. 3 ed. Rio de Janeiro: Nova Fronteira, 1981.
+Bibliografia Complementar:
+CARDOSO, A. C. de A. Alguns apontamentos sobre a estética da recepção, o pós-estruturalismo e a tradução.
+Palavra (PUCRJ) , v. 2, p. 94-100, 1994.
+DELISLE, J.; WOODSWORTH, J. Os tradutores na história. São Paulo: Ática, 1998.
+GONÇALVES, J. L. V. R.; MACHADO, I. T. N. Um panorama do ensino de tradução e a busca da competência
+do tradutor. Cadernos de Tradução, v. 1, n. 17, p. 45-69, 2008.
+MARTINS, M. A. P. Novos desafios na formação de tradutores. Cadernos de Tradução, v. 1, n. 17, p. 25-44, 2008.
+PAGANO, A.; MAGALHÃES, C.; ALVES, F. Traduzir com Autonomia: estratégias para o tradutor em
+formação. São Paulo: Contexto, 2000.
+QUADROS, R. M. O Tradutor e Intérprete da língua brasileira de sinais e língua portuguesa. Brasil, Ministério
+da Educação e Cultura. 2004. Disponível em: <http://portal.mec.gov.br/index.php?option=com_content&view=
+article&id=12677:o-tradutor-e-interprete-de-lingua-brasileira-de-sinais-e-lingua-portuguesa&catid=192:seesp-
+esducacao-especial>. Acesso em: 2 dez. 2013.
+
+
+                                                                                                               16
+SANTOS, S. A. Tradução e interpretação de língua de sinais: deslocamentos nos processos de formação.
+Cadernos de Tradução, v. 2, n. 26, p. 145-164, 2010.
+VASCONCELLOS, M. L. Tradução e Interpretação de Língua de Sinais (TILS) na Pós-Graduação: a afiliaçaõ
+ao campo disciplinar “Estudos da Traduçaõ ”. Cadernos de Tradução. Florianópolis: UFSC/PGET, 2010.
+
+LÍNGUA PORTUGUESA 2:
+Práticas de leitura e escrita de textos em português. Introdução aos gêneros textuais acadêmicos. Tópicos de
+gramática. Aperfeiçoamento da leitura, análise linguística e escrita em língua portuguesa.
+Bibliografia Básica:
+CUNHA, C.; CINTRA, L. Nova gramática do português contemporâneo. Rio de Janeiro: Lexikon, 2013.
+MACHADO, A. R.; LOUSADA, E.; ABREU-TARDELLI, L. S. Planejar gêneros acadêmicos. São Paulo:
+Parábola Editorial, 2005.
+NEVES, M. H. de M. Gramática de usos do português. São Paulo: Ed. UNESP, 2000.
+THEREZO, G. P. Redação e leitura para universitários. Campinas, SP: Editora Alínea, 2008.
+Bibliografia Complementar:
+MACHADO, A. R.; LOUSADA, E.; ABREU-TARDELLI, L. S. Resumo. São Paulo: Parábola Editorial, 2004.
+___________. Resenha. São Paulo: Parábola Editorial, 2004.
+PERINI, M. A. Gramática do português brasileiro. São Paulo: Parábola Editorial, 2010.
+ROTH-MOTTA, D.; HENDGES, G. R. Produção textual na universidade. São Paulo: Parábola Editorial, 2010.
+XAVIER, A. C. Como se faz um texto: a construção da dissertação argumentativa. Catanduva, SP: Editora
+Rêspel, 2010.
+
+LIBRAS BÁSICO 2:
+Práticas de compreensão e produção em Libras por meio do uso de estruturas e funções comunicativas
+elementares. Uso de classificadores. Prática da comunicação em Libras em situações contextualizadas.
+Bibliografia Básica:
+ALBRES, N. de A.; NEVES, S. L. G. De sinal em sinal: comunicação em Libras para aperfeiçoamento do
+ensino dos componentes curriculares. São Paulo: Duas Maõ s, 2008.
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico: livro do professor. 6. ed. Brasília:
+Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2007.
+PEREIRA, M. C. C.; CHOI, D. (et al). LIBRAS: Conhecimento além dos sinais. São Paulo: Pearson, 2011.
+PIMENTA, N. Curso de Língua de Sinais, v. 2. Rio de Janeiro: LSB Vídeo, 2007. 1 DVD.
+Bibliografia Complementar:
+ALMEIDA, E. C.; DUARTE, P. M. Atividades ilustradas em sinais da Libras. São Paulo: Revinter, 2004.
+BRITO, L. F. Por uma gramática da língua de sinais.[reimpr.]. Rio de Janeiro: Tempo Brasileiro, 2010.
+CAPOVILLA, F. C. et al. Novo DEIT LIBRAS – Dicionário Enciclopédico Ilustrado Trilíngue da Língua deSinais
+Brasileira (Libras). Baseado em Linguística e Neurociências Cognitivas. São Paulo: EDUSP, 2011. Vol. 1 e 2.
+QUADROS, R. M. de; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. Porto Alegre: ArtMed, 2004.
+QUADROS, R. M. de; PIMENTA, N. Curso de Libras 1 (Básico). Rio de Janeiro: LSB Vídeo, 2009.
+STUMPF, M.; QUADROS, R. M. de; LEITE, T. de A. (orgs). Estudos da Língua Brasileira de Sinais I.
+Florianópolis: Insular, 2013.
+
+ESTUDOS LINGUÍSTICOS 2:
+Teorias sintáticas com base na análise de fenômenos linguísticos de línguas naturais. Relação entre Sintaxe das
+línguas orais e das línguas de sinais.
+Bibliografia Básica:
+BERLINCK, R. A.; AUGUSTO, M. R. A.; SCHER, A. P. Sintaxe. In: MUSSALIN, F.; BENTES, A. C. (Org.).
+Introdução à linguística: domínios e fronteiras, v. 1. São Paulo: Cortez, 2001.
+NEGRÃO, E. V.; SCHER, A. P.; VIOTTI, E. C. Sintaxe: explorando a estrutura da sentença. In: FIORIN, J. L.
+(Org.). Introdução à linguística II: princípios de análise. São Paulo: Contexto, 2012.
+OTHERO, G. A.; KENEDY, E. Sintaxe, sintaxes: uma introdução. São Paulo: Contexto, 2015.
+QUADROS, R. M. de & KARNOPP, L.A sintaxe espacial. In: QUADROS, R. M. de & KARNOPP, L. Língua
+de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.
+Bibliografia Complementar:
+BRITO, L. F. Por uma gramática de língua de sinais. [reimpr.]. Rio de Janeiro: Tempo Brasileiro, 2010.
+CAMARA Jr. J. M. Estrutura da língua portuguesa. Petrópolis: Vozes. 1970.
+CARNEIRO, B. G. A concepção de evento em construções representativas na Língua de Sinais Brasileira.
+Dissertação de Mestrado. Goiânia: Universidade Federal de Goiás, 2012.
+CHAIBUE, K. Universais linguísticos aplicáveis às línguas de sinais: discussão sobre as categorias Nome e
+Verbo. Dissertação de Mestrado. Goiânia: Universidade Federal de Goiás, 2013.
+LIMA, H. J. Categorias lexicais na Língua de Sinais Brasileira: Nomes e Verbos. Dissertação de Mestrado.
+Goiânia: Universidade Federal de Goiás, 2012.
+
+
+                                                                                                            17
+MIOTO, C.; SILVA, M. C. F.; LOPES, R. E. V. Novo manual de sintaxe. Florianópolis: Insular, 2013.
+RAPOSO, E. Teoria da gramática: a faculdade da linguagem. Lisboa: Caminho, 1992.
+SOUZA-E-SILVA, M. C. P.; KOCH, I. V. Linguística aplicada ao português: sintaxe. São Paulo: Cortez, 2011.
+
+ESTUDOS DA TRADUÇÃO E INTERPRETAÇÃO 2:
+Tópicos conceituais da área dos Estudos da Tradução e Interpretação nas línguas orais e nas línguas de sinais.
+Problematização das dicotomias forma e sentido, autor e tradutor, texto fonte e texto traduzido e problemas de
+tradução e os erros de tradução. Noções de equivalência e de (in)traduzibilidade. Tradução, língua e cultura.
+Bibliografia Básica:
+ARROJO, R. Oficina de tradução: A teoria na prática. São Paulo: Ática, 1986. Série Princípios.
+______ (Org.). O signo desconstruído. Campinas: Pontes, 1992.
+ROSA, A. S. Entre a visibilidade da tradução da língua de sinais e a invisibilidade da tarefa do intérprete.
+Disponível em: <http://www.editora-arara-azul.com.br/pdf/livro5.pdf>. Acesso em: 16 mar. 2016.
+SANTOS, S. A. Tradução/interpretação de língua de sinais no Brasil: uma análise das teses e dissertações de
+1990 a 2010. Tese (Doutorado em Estudos da Tradução). Universidade Federal de Santa Catarina, Florianópolis,
+2013, 313 p.
+Bibliografia Complementar:
+ALBES, N. A.; SANTIAGO, V. A. A. (Org.). Libras em estudo: tradução/interpretação. São Paulo: FENEIS, 2012.
+ARROJO, R. Tradução, Desconstrução e Psicanálise. Rio de Janeiro: Imago Ed., 1993.
+AUBERT, F. H. As (in)fidelidades da tradução: servidões e autonomia do tradutor. Campinas: Editora da
+UNICAMP, 1993.
+DENIAU, X. La francophonie. 5.ed. Paris: PUF, 2001. 126p. (Que sais-je?).
+MAGALHÃES JR, E. Sua majestade, o intérprete: o fascinante mundo da tradução simultânea. São Paulo:
+Parábola, 2007.
+VIEIRA, E. R. P. (Org.). Teorizando e contextualizando a Tradução. Belo Horizonte: UFMG, 1996.
+
+ÉTICA NA TRADUÇÃO E INTERPRETAÇÃO:
+Conceito e objetos da Ética. Ética, moral e valores. Código de ética profissional. Ética e profissionalismo na
+tradução e interpretação. A ética em diferentes contextos de tradução e interpretação. A relação ética entre o
+profissional tradutor e intérprete de língua de sinais e o surdo.
+Bibliografia Básica:
+FEBRAPILS. Código de Conduta e Ética. 2014. Disponível em : <http://www.acatils.com.br/wp-
+content/uploads/2013/10/CÓDIGO-DE-ÉTICA-FEBRAPILS.pdf>. Acesso em: 16 mar. 2016.
+PAES, J. P. Tradução: a ponte necessária. Aspectos e problemas da arte de traduzir. São Paulo: Ática, 1990.
+RAJAGOPALAN, K. A. Intertextualidade e a questão ética. In: ALBANO, E.C.; COUDRY, M. I. H.;
+POSSENTI, S. Et Al. Saudades da Língua. Campinas, SP: Mercado de Letras, 2004.
+VALLS, Álvaro L.M. O que é Ética? Coleção Primeiros Passos 177. São Paulo: Brasiliense, 2008.
+Bibliografia Complementar:
+ANIENTO, G. B. El papel y la ética de los intérpretes ensituaciones de conflicto. Dissertação de Mestrado em
+TraducciónProfesional e Institucional: Sória/Espanha, 2013. Disponível em: <http://uvadoc.uva.es/bitstream/
+10324/3167/1/TFM%20Gemma%20Beltran_%20El%20papel%20y%20la%20%C3%A9tica%20de%20los%20i
+nt%C3%A9rpretes%20en%20situaciones%20de%20conflicto.pdf>. Acesso em: 21 set. 2015.
+CANTO-SPERBER, M. (Org). Dicionário de ética e filosofia moral. v. 1. São Leopoldo: Editora Unisinos, 2007.
+FURROW, D. Ética: conceitos-chave em filosofia. Porto Alegre: Artmed, 2007.
+GLASS, M. H. F. Por uma abordagem performativa das línguas de sinais. Dissertação de Mestrado em
+Linguística Aplicada. Instituto de Estudos da Linguagem/Unicamp, Campinas, 1996.
+QUADROS, R. M. O Tradutor e Intérprete da língua brasileira de sinais e língua portuguesa. Brasil, Ministério
+da Educaçaõ e Cultura . 2004. Disponível em : <http://portal.mec.gov.br/index.php?option=com_content&view=
+article &id=12677:o-tradutor-e-interprete-de-lingua-brasileira-de-sinais-e- lingua-portuguesa&catid=192:seesp-
+esducacao-especial>. Acesso em: 2 dez. 2013.
+RUSSO, A. Intérprete de língua de sinais: uma posição discursiva em construção. 2010. 133 f. Dissertação
+(Mestrado em Educação) Programa de Pós-Graduação em Educação da Universidade Federal do Rio Grande do
+Sul. 2010. Disponível em: <http://www.lume.ufrgs.br/bitstream/handle/10183/21851/000738782.pdf>. Acesso
+em: 15 dez. 2014.
+
+LIBRAS INTERMEDIÁRIO 1:
+Desenvolvimento de práticas de compreensão e produção em Libras por meio do uso de textos e suas funções
+comunicativas em nível intermediário. Produção em Libras com foco em piadas e outras narrativas curtas.
+Prática da comunicação em Libras em situações contextualizadas.
+Bibliografia Básica:
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico: livro do professor. Brasília: Ministério da
+Educação e do Desporto/Secretaria de Educação Especial, 2001.
+
+
+                                                                                                             18
+HONORA, M. Livro Ilustrado de Língua Brasileira de Sinais: desenvolvendo a comunicação usada pelas
+pessoas com surdez. São Paulo: Ciranda Cultural, 2009, v. 2.
+MOURÃO, C. H. N. Literatura surda: produções culturais de surdos em língua de sinais. 2011. 132f.
+Dissertação (Mestrado em Educação). Programa de Pós-Graduação em Educação da Universidade Federal do
+Rio Grande do Sul. 2011. Disponível em: <http://hdl.handle.net/10183/32311>. Acesso em: 16 mar. 2016.
+QUADROS, R. M. de; PIMENTA, N. Curso de Libras 2 (Básico). Rio de Janeiro: LSB Vídeo, 2009.
+Bibliografia Complementar:
+ASSIS, M. O alienista. Coleção Clássicos da Literatura em CD-Rom Libras/Português. v. VI. Tradutores para a
+Libras: Alexandre Melendez e Roberta Almeida.
+CARROLL, L. Alice para crianças. Tradução e adaptação: Clélia Regina Ramos. Ilustração por Thiago Larrico.
+Tradutores para a Libras: Janine Oliveira e Toríbio Ramos Malagodi. Supervisão da Libras: Luciane Rangel.
+Editora Arara Azul.
+O LEÃO E A MENTIRA. Fábula em Libras. Disponível em: <https://www.youtube.com/watch?v=
+0Xa69QgjxJ>. Acesso em: 10 jan. 2016.
+QUADROS, R. M. de; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.
+SILVEIRA, C. H. Humor na cultura surda: piadas em língua de sinais. X Anped Sul. Florianópolis, outubro de
+2014. p. 1-15. Disponível em: <http://xanpedsul.faed.udesc.br/arq_pdf/1342-0.pdf>. Acesso em: 10 jan. 2016.
+
+ESTUDOS LINGUÍSTICOS 3:
+Introdução aos princípios gerais da Semântica. Produção do sentido nas línguas orais e nas línguas de sinais.
+Princípios básicos da Lexicologia e da Lexicografia nas línguas orais e nas línguas de sinais.
+Bibliografia Básica:
+BASÍLIO, M. Teoria lexical. São Paulo: Ática. 1987.
+BIDERMAN, M. T. Teoria linguística. São Paulo: Martins Fontes, 2001.
+CANÇADO, M. Manual de semântica: noções básicas e exercícios. 2. ed., rev. Belo Horizonte: Ed. UFMG, 2008.
+Bibliografia Complementar:
+CAPOVILLA, F. C. et al. Quando surdos nomeiam figuras: processos quirêmicos, semânticos e ortográficos.
+Perspectiva, Florianópolis, v. 24, n. Especial, p. 1-350, jul./dez. 2006.
+ESTELITA, M. Por uma ordem "alfabética" nos dicionários de línguas de sinais. In: QUADROS, R. M. de;
+STUMPF, M. R. Estudos surdos IV. Petrópolis, RJ: Arara Azul, 2008, p. 124-140.
+ILARI, R. Introdução à Semântica. São Paulo: Contexto, 2001.
+______. Introdução ao estudo do Léxico: brincando com as palavras. São Paulo: Contexto, 2002.
+FARIA-NASCIMENTO, S. P. Metáfora na LSB: Debaixo dos panos ou a um palmo de nosso nariz? ETD –
+Educação Temática Digital, Campinas, v.7, n.2, p. 179-199, jun. 2006. Disponível em:
+<ojs.fe.unicamp.br/ged/etd/article/download/1641/1488>. Acesso em: 18 mar. 2016.
+FELIPE, T. A., LIRA, G. A. Dicionário digital da Língua Brasileira de Sinais. Rio de Janeiro, 2005. Disponível
+em: http://www.acessobrasil.org.br/libras/ Acesso em: 20 set. 2015.
+WELKER, H. A. Uma pequena introdução à lexicografia. Brasília: Thesaurus, 2004.
+
+PRINCÍPIOS DE ESTUDOS LITERÁRIOS:
+Conceitos fundamentais da literatura. Abordagem da problemática dos gêneros literários e da periodização
+literária. Noções sobre as categorias e as técnicas narrativas. Literatura e formação do Surdo.
+Bibliografia Básica:
+AGUIAR E SILVA, V. Teoria da Literatura. Coimbra: Almedina, 1968.
+CULLER, J. Introdução à Teoria Literária. São Paulo: Beca Edições, 1999.
+D‟ONOFRIO, S. Teoria do texto 1. São Paulo: Ática, 1995.
+______. Teoria do texto 2. São Paulo: Ática, 1995.
+Bibliografia Complementar:
+FRIEDMAN, N. O Ponto de Vista na Ficção: o desenvolvimento de um conceito crítico. IN Revista USP. São
+Paulo, CCS-USP, n 53, março/maio 2002, trad. Fábio Fonseca de Melo, pp. 166 a 182.
+GUINSBURG, J. (Org.). O Romantismo. São Paulo: Perspectiva, 1993.
+______. (Org.). O Classicismo. São Paulo: Perspectiva, 1996.
+HUGO, V. Do grotesco e do sublime. São Paulo: Perspectiva, 2004.
+PORTELLA, E. et al. Teoria Literária. Rio de Janeiro: Tempo Brasileiro, 1979.
+STAIGER, E. Conceitos fundamentais de poética. Trad. Celeste Aída Galeão. Rio de Janeiro: Tempo Brasileiro, 1969.
+
+TECNOLOGIAS NA TRADUÇÃO E INTERPRETAÇÃO:
+Tecnologias envolvidas nas atividades de tradução e interpretação do par linguístico Libras/Português.
+Tecnologias assistivas no contexto da interpretação e da tradução. Noções de planejamento, produção, edição e
+publicação de vídeos.
+Bibliografia Básica:
+BARBOSA, R. M. Ambientes Virtuais de Aprendizagem. Porto Alegre: Artmed, 2005.
+FREITAS, L. C. A internet como fator de exclusão do surdo no Brasil. Rio de Janeiro: LSB Vídeo, 2007.
+
+
+                                                                                                              19
+LÉVY, P. As tecnologias da inteligência: o futuro do pensamento na era da informática. Tradução de Carlos
+Irineu da Costa. Rio de Janeiro: Editora 34, 1993.
+MORAES, D. (Org.). Por uma outra comunicação: mídia, mundialização cultural e poder. Rio de Janeiro:
+Record, 2003.
+Bibliografia Complementar:
+CASTELLS, M.. A sociedade em rede. São Paulo: Paz e Terra, 1999. (A era da informação: economia,
+sociedade e cultura; v.1).
+DUARTE, R. Cinema e educação. Belo Horizonte: Autêntica, 2002.
+PRETTO, N. Uma escola sem/com futuro, educação e multimídia. São Paulo: Papirus, 2001.
+QUADROS, R. M.; VASCONCELLOS, M. L. B. (Org.). Questões teóricas das pesquisas em línguas de sinais.
+Petrópolis, RJ: Arara Azul, 2008, p. 367-380.
+REGIS, M. C. A. S. As tecnologias de informação e comunicação aplicadas a educação especial: uma análise
+do ensino de surdos em classes especiais. Dissertação (Mestrado em Educação) São Paulo: USP, 2003.
+SANCHO, J. M. Para uma Tecnologia Educacional. Porto Alegre, Artmed, 1998.
+
+TRADUÇÃO EM DIFERENTES CONTEXTOS:
+A tradução aplicada aos contextos literário, jurídico, médico, acadêmico, técnico entre outros. Análise do texto
+fonte. Tradução comentada. Adequação estilística do texto traduzido.
+Bibliografia Básica:
+ALVES, F.; MAGALHAES, C.; PAGANO, A. Traduzir com autonomia: estratégias para o tradutor em
+formação. (ed.). São Paulo: Contexto, 2000.
+ARROJO, R. Oficina de Tradução. São Paulo: Editora Ática, 1990.
+MILTON, J. Tradução: teoria e prática. São Paulo: Martins Fontes, 1998.
+ROBINSON, D. Construindo o Tradutor. Tradução de Jussara Simões. Bauru, SP: Edusc, 2002.
+Bibliografia Complementar:
+BACKER, M.In Other Words: A course book on translation. UK: Routledge, 1999.
+BENEDETTI, I. C. & SOBRAL, A. Conversas com Tradutores: Balanços e Perspectivas da Tradução . São
+Paulo: Parábola, 2003.
+BENSON, M. et al.The BBI dictionary of English word combinations. Amsterdam: John Benjamins, 1986.
+FOWLER, R. Language in the news: discourse and ideology in the Press. London: Routledge, 1991.
+ROBINSON, Ds. The translator’s turn. Baltimore and London: Johns Hopkins University Press, 1991.
+VENUTI, L. Os Escândalos da Traduç ão. Bauru, SP: EDUSC, 2002.
+
+LIBRAS INTERMEDIÁRIO 2:
+Aprofundamento de práticas de compreensão e produção em Libras por meio do uso de textos e suas funções
+comunicativas em nível intermediário. Produção em Libras com foco em diferentes contextos sociais.
+Bibliografia Básica:
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do
+Desporto/Secretaria de Educação Especial, 2001.
+QUADROS, R. M. de; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.
+STROBEL, K. L.; FERNANDES, S. Aspectos linguísticos da Língua Brasileira de Sinais. Curitiba,
+SEED/SUED/DEE, 1998.
+Bibliografia Complementar:
+ALBRES, N. de A.; XAVIER, A. N. (orgs). Libras em estudo: descrição e análise. São Paulo: Feneis, 2012.
+Disponível em: <http://www.feneissp.org.br/index.php/e-books>.
+CAPOVILLA, F. C.; RAPHAEL, W. D. (Ed.). Enciclopédia da Língua de Sinais Brasileira. v. 1 e 2. São Paulo:
+EDUSP, 2004.
+CERVANTES, M. Dom Quixote. Ilustração Luther Schimidt. Adaptação: Clélia Regina Ramos. Tradutores para
+a Libras: Flávio Milani e Gildete Amorim. Editora Arara Azul.
+HONORA, M. Livro Ilustrado de Língua Brasileira de Sinais: desenvolvendo a comunicação usada pelas
+pessoas com surdez. São Paulo: Ciranda Cultural, 2009, v. 3.
+PIMENTA, N. C. A tradução de fábulas seguindo aspectos imagéticos da linguagem cinematográfica e da
+língua de sinais. 2012. 165f. Dissertação (Mestrado em Tradução). Programa de Pós-Graduação em Estudos da
+Tradução da Universidade Federal de Santa Catarina. 2012.
+PIMENTA, N. & QUADROS, R. M. de. Curso de Libras. Nível II. 2009.
+SEIS FÁBULAS de Esopo em LSB. Direção: Luiz Carlos Freitas. Ator: Nelson Pimenta. Rio de Janeiro: LSB
+Vídeo, 2002, 1 dvd (40 min).
+
+ESCRITA DE SINAIS:
+Conceitos sobre a escrita em geral e a escrita de sinais. Introdução às práticas de leitura e escrita das línguas de
+sinais. Escrita de sinais e tradução.
+
+
+                                                                                                                 20
+Bibliografia Básica:
+BARRETOS, M; BARRETOS, R. Escrita de sinais sem mistérios. Belo Horizonte: Ed. do autor, 2012.
+______. EliS: sistema brasileiro de escrita das línguas de sinais. Porto Alegre: Penso, 2015.
+BLIKSTEIN, I. Técnicas de comunicação escrita. 12a. ed. São Paulo: Ática, 1995.
+FERNANDES, L. A. ELiS: internacionalização da escrita das línguas de sinais. Saarbrücken, Deutschland:
+Novas Edições Acadêmicas, 2015.
+HIGOUNET, C. História concisa da escrita. Trad. Marcos Marcionilo. São Paulo: Parábola, 2003.
+Bibliografia Complementar:
+BARBOSA, H. (1990) Procedimentos técnicos da tradução: uma nova proposta. Campinas, SP: Pontes, 1990.
+BARROS, M. E. ELiS – Escrita das Línguas de Sinais: proposta teórica e verificação prática. 192f. Tese
+(Doutorado em Linguística) – Centro de Comunicação e Expressão, Universidade Federal de Santa Catarina,
+Florianópolis, 2008.
+LESSA-DE-OLIVEIRA, A. S. C. Libras escrita : o desafio de representar uma língua tridimensional por um
+sistema de escrita linear. ReVEL, v. 10, n. 19, 2012. [www.revel.inf.br].
+MAN, J. A história do alfabeto: como 26 letras transformaram o mundo ocidental. Trad. Edith Zonenschain.
+2.ed. Rio de Janeiro: Ediouro, 2002.
+MEURER, J. Aspectos do processo de produção de textos escritos. In: Trab. Ling. Apl. Campinas (21): 37 - 48,
+jan./jun. 1993.
+STUMPF, M. R. Aprendizagem de Escrita de Sinais pelo Sistema SignWriting: Línguas de Sinais no Papel e no
+Computador. 2005. 329F. Tese (Doutorado em Informática na Educação) - Programa de Pós-Graduação em
+Informática na Educação, Universidade Federal do Rio Grande do Sul, Rio Grande do Sul, 2005.
+
+POLÍTICAS LINGUÍSTICAS E TRADUTÓRIAS:
+Panorama das políticas linguísticas. Políticas monolíngues e plurilíngues. Direitos linguísticos e tradutórios.
+Tradução e legitimação profissional do tradutor e intérprete.
+Bibliografia Básica:
+CALVET, L-J. As políticas linguísticas. São Paulo: Parábola Editorial; Florianópolis: IPOL, 2007.
+_____. Sociolinguística: uma introdução crítica. São Paulo: Parábola Editorial; 2002.
+SEVERO, C. G. Política(s) linguística(s) e questões de poder. Revista Alfa, 52 (2), 2013 [p. 451-473].
+Disponível em http://seer.fclar.unesp.br/alfa/article/viewFile/5132/4670.
+RAJAGOPALAN, K. Política Linguística: do que é que se trata, afinal? In: Nicolaides, C. et. al (orgs.). Política
+e Políticas Linguísticas. SP: Pontes, 2013. [p. 19-42].
+Bibliografia Complementar:
+BRASIL, Decreto 5.625, de 22 de dezembro de 2005. Regulamenta a Lei no 10.436, de 24 de abril de 2002, que
+dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000. -
+Disponível em:http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm Acessoem 20 de
+abril de 2015.
+BRASIL. Lei nº. 12.319, de 1º de setembro de 2010. Regulamenta a profissão de Tradutor e Intérprete da Língua
+Brasileira de Sinais - LIBRAS. Disponível em: <http://www.planalto.gov.br/ccivil_03/_Ato2007-
+2010/2010/Lei/L12319.htm> Acesso em: 03 fev. 2016.
+FERREIRA, L. Legislação e a Língua Brasileira de Sinais. Ferreira e Bergoncci consultoria e publicações, São
+Paulo: 2003.
+NICOLAIDES, C.; SILVA, K. A.; TÍLIO, R.; ROCHA, C. H. (Orgs.). Política e políticas linguísticas.
+Campinas, SP: Pontes Editores, 2013.
+SANTOS, S. A. Intérpretes de Língua de Sinais: um estudo sobre as identidades. Dissertação de Mestrado:
+Universidade Federal de Santa Catarina, 2006.
+SOUZA, L.C.S. A Construção do Ethos dos Tradutores e Intérpretes de Língua Brasileira de Sinais e Português:
+concepções sobre a profissão. Dissertação de Mestrado: Universidade Federal do Rio de Janeiro, 2014.
+
+LABORATÓRIO DE TRADUÇÃO E INTERPRETAÇÃO:
+Introdução aos procedimentos práticos e estratégias de tradução e interpretação. Vivências e simulações de
+contextos de atuação profissional. Reflexão crítica dos conceitos teóricos que fundamentam a performance do
+ato tradutório.
+Bibliografia Básica:
+ARROJO, R. Oficina de tradução: a teoria na prática. 3º edição. São Paulo: Editora Ática, 1997.
+BARBOSA, H. G. Procedimentos Técnicos da Tradução: uma nova proposta. Campinas, SP: Pontes, 1990.
+GILE, D. Testando a hipótese da “corda bamba” do modelo dos esforços na interpretação simultânea – uma
+contribuição. Traduzido por: BARBOSA, D. M. SANTOS, G. B. F dos e WEININGER, M. J. Cadernos de
+Tradução, Florianópolis, v. 35, n. 2, p. 590-647, out. 2015. ISSN 2175-7968. Disponível em:
+<https://periodicos.ufsc.br/index.php/traducao/article/view/2175-7968.2015v35nesp2p590>. Acesso em: 16 fev.
+2016. doi:http://dx.doi.org/10.5007/2175-7968.2015v35nesp2p590.
+
+
+                                                                                                             21
+LEITE, E.M.C. Os papeis do intérprete de Libras na sala de aula inclusiva. Petrópolis – RJ: Arara Azul, 2005.
+RODRIGUES, C. H. A interpretaç ão para a língua de sinais brasileira : efeitos de modalidade e processos
+inferenciais. 2013. 244 f. Tese (Doutorado em Linguística Aplicada ), Faculdade de Letras, Universidade Federal
+de Minas Gerais, Belo Horizonte, 2013.
+Bibliografia Complementar:
+CORRÊA, A. M. S. Uma abordagem discursiva da tradução. RECORTE, 2007.
+MAGALHÃES JÚNIOR, E.Sua majestade, o intérprete:o fascinante mundo da tradução simultânea.
+São Paulo, Parábola. 2007.
+QUADROS, R. M. O Tradutor e Intérprete de Língua Brasileira de Sinais e Língua Portuguesa. Secretaria de
+Educação Especial; Programa Nacional de Apoio à Educação de Surdos - Brasília: MEC; SEESP, 2004.
+SEGALA, R. R. Tradução Intermodal e Intersemiótica/Interlingual: Português brasileiro escrito para Língua
+Brasileira de Sinais. Dissertação 2011.
+SILVA, A. M. Análise da participação dos alunos surdos no discurso de sala de aula do mestrado na UFSC
+mediada por intérpretes . 184 p. Dissertação (Mestrado). Universidade Federal de Santa Catarina , Centro de
+Comunicação e Expressaõ , Programa de Pós-Graduação em Estudos da Tradução, Florianópolis, SC, 2013.
+SOUZA, L.C.S. A Atuação do Tradutor e Intérprete de LIBRAS/Português em situação dialogal: uma proposta
+de representação esquemática da situação de interpretação. In: CONGRESSO BRASILEIRO DE
+LINGUÍSTICA APLICADA, v.2, n.1, Rio de Janeiro, 2013. Anais eletrônicos. Rio de Janeiro: Associação
+Brasileira de Linguística Aplicada.
+
+LIBRAS AVANÇADO 1:
+Desenvolvimento de práticas de compreensão e produção da Libras por meio do uso das estruturas dessa língua
+em funções comunicativas em nível avançado. Produção em Libras com foco em contextos sociais e
+comunitário. Uso da língua em situações que simulam a realidade.
+Bibliografia Básica:
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico: livro do professor. Brasília: 8ª. ed. Rio de
+Janeiro: WalPrint, 2007.
+HONORA, M. Livro Ilustrado de Língua Brasileira de Sinais: desenvolvendo a comunicação usada pelas
+pessoas com surdez. São Paulo: Ciranda Cultural, 2009, v. 3.
+PIMENTA, N. & QUADROS, R. M. de. Curso de Libras. Nível III. LSB Vídeo, 2009.
+Bibliografia Complementar:
+ALBRES, N. A., GRESPAN, S. L. Libras em estudo: política educacional. São Paulo: Feneis, 2013. Disponível
+em: <www.feneissp.org.br>.
+BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.
+CAPOVILLA, F. C.; RAPHAEL, W. D. (Ed.). Enciclopédia da Língua de Sinais Brasileira. v. 1 e 2. São Paulo:
+EDUSP, 2004.
+FELIPE, T. A. Sistema de flexão verbal na Libras: os classificadores enquanto marcadores de flexão de gênero.
+Anais do Congresso Surdez e Pós-modernidade: Novos rumos para a educação brasileira. 1° Congresso
+Internacional do INES. 7° Seminário Nacional do INES. Rio de Janeiro: INES, Divisão de estudos e pesquisas:
+2002, p. 37-58.
+STROBEL, K. L.; FERNANDES, S. Aspectos linguísticos da Língua Brasileira de Sinais. Curitiba,
+SEED/SUED/DEE, 1998.
+
+INTERPRETAÇÃO EM DIFERENTES CONTEXTOS:
+Reflexão crítica das diferentes posturas profissionais do intérprete de Libras/Português nos diversos contextos de
+interpretação. Noções de planejamento do evento interpretativo.
+Bibliografia Básica:
+BARBOSA, D. M. Omissões na Interpretação Simultânea de Conferência : Língua Portuguesa – Língua
+Brasileira de Sinais . Dissertação (Mestrado) – Universidade Federal de Santa Catarina , Programa de Pós
+Graduação em Estudos da Tradução, Florianópolis, 2014.
+LEAL, A. B. Funcionalismo alemão e tradução literária: quatro projetos para a tradução de The Years, de
+Virginia Woolf. Dissertação (Mestrado em Estudos da Tradução) - Universidade Federal de Santa Catarina,
+Florianópolis, 2007.
+QUADROS, R. M. de. O tradutor e intérprete de língua brasileira de sinais e língua portuguesa . Secretaria de
+Educação Especial; Programa Nacional de Apoio à Educaçaõ de Surdos - Brasília: MEC; SEESP, 2004.
+SANTOS, S. A. Tradução/interpretação de língua de sinais no Brasil : uma análise das teses e dissertações de
+1990 a 2010. 2013. 313 f. Tese (Doutorado em Estudos da Traduçaõ ) – Universidade Federal de Santa Catarina.
+Florianópolis, 2013.
+BibliografiaComplementar:
+COKELY, Dennis.Interpretation: A sociolinguistic model. Linstok Press, 1992.
+GILE, D. Basic concepts and models for interpreting and translatorn training.Benjamins Translation Library, 1995.
+NORD, C. Text analysis in Translation.Theory, Methodology, and Didatic Application of a Model for
+Translation - Oriented Text Analysis.Rodopi: Amsterdam, 1991.
+
+
+                                                                                                                 22
+PÖCHHACKER, F. Introducing Interpreting Studies. London-uk: Routledge, 2004.
+PÖCHHACKER, F.; QUEIROZ, M. Conexões Fundamentais: Afinidade e Convergência nos Estudos da
+Interpretação.ScientiaTraductionis, Florianópolis, n. 7, p. 61-75, jan. 2010. ISSN 1980-4237. Disponível em:
+<https://periodicos.ufsc.br/index.php/scientia/article/view/13946>.    Acessoem:   16    fev.   2016.    doi:
+http://dx.doi.org/10.5007/1980-4237.2010n7p61.
+WADENSJÖ, C. Interpreting as interaction : on dialogue interpreting in immigration hearings and medical
+encounters. Linköping University: Linköping Studies in Arts and Sciences . 1992.
+
+INTRODUÇÃO À PESQUISA:
+Introdução à pesquisa científica em áreas relacionadas à tradução e interpretação e às línguas de sinais. Métodos
+e técnicas de pesquisa e estrutura formal do trabalho acadêmico. Elaboração de projeto de pesquisa.
+Normalização de trabalhos científicos.
+Bibliografia Básica:
+GIL, A. C. Como elaborar projetos de pesquisa. 4 ed. São Paulo: Atlas, 2002.
+MENDONÇA, L. M.; ROCHA, C. R. R.; GOMES, S. H. A. Guia para apresentação de trabalhos acadêmicos
+na UFG. Goiânia: UFG, 2005.
+PAGANO, A. (Org.). Metodologias de pesquisa em tradução. Belo Horizonte: Faculdade de Letras, UFMG, 2001.
+SEVERINO, A. J. Metodologia do trabalho científico. 23. ed. rev. e atualizada. São Paulo: Cortez, 2007.
+Bibliografia Complementar:
+CRESWELL, J. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. Porto Alegre: Artmed, 2007.
+DENZIN, N. K.; LINCOLN, Y. S. O planejamento da pesquisa qualitativa: teoria e abordagens. Porto Alegre:
+Artmed, 2006.
+FERNANDES, J. Técnicas de estudo e pesquisa. Goiânia: Kelps, 1999.
+HALE, S.; NAPIER, J. Research methods in interpreting: a practical resource. A&C Black, 2013.
+KAHLMEYER-MERTENS, R. S. et al. Como elaborar projetos de pesquisa: linguagem e método. Rio de
+Janeiro: Ed. FGV, 2007.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. São Paulo: Atlas, 2003.
+Disponível em: <http://docente.ifrn.edu.br/olivianeta/disciplinas/copy_of_historia-i/historia-ii/china-e-india>.
+Acesso em 22: de set. 2015.
+
+ESTÁGIO EM TRADUÇÃO:
+Estágio supervisionado itinerante em tradução do par linguístico Libras/Português nos contextos literário,
+científico, midiático, técnico, entre outros.
+Bibliografia Básica:
+AUBERT, F. H. As (in)fidelidades da tradução: servidões e autonomia do tradutor. Campinas: Unicamp, 1993.
+ECO, U. Dizer quase a mesma coisa. Rio de Janeiro: Record, 2007.
+VENUTI, L.Escândalos da tradução: Por uma ética da diferença. EDUSC, 2002.
+SCHLEIERMACHER, F. Sobre os diferentes métodos de traduçaõ . Tradução de Margarete von MühlenPoll . In:
+Clássicos da teoria da tradução – vol. 1. Florianópolis: UFSC, 2001.
+Bibliografia Complementar:
+ALVES, F.; MAGALHÃES, C.; PAGANO, A. Traduzir com autonomia. Estratégias para o tradutor em
+formação. Rio de Janeiro: Editora contexto. 2000.
+CORRÊA, A. M. S; NEIVA, A. M. S. Estratégias e problemas do tradutor aprendiz: uma visão introspectiva no
+processo tradutório. Práticas Discursivas, 2000 UFRJ.
+CORRÊA, A. M. S. Uma abordagem discursiva da tradução. RECORTE, 2007.
+JAKOBSON, R. Linguística e Comunicação. São Paulo: Cultrix, 2011.
+ROY, Cynthia B. Advances in teaching sign language interpreters. GallaudetUniversity Press, 2005.
+SEGALA, R. R. Tradução Intermodal e Intersemiótica/Interlingual: Português brasileiro escrito para Língua
+Brasileira de Sinais. Dissertação (mestrado) - Universidade Federal de Santa Catarina, Centro de Comunicação e
+Expressão, Programa de Pós-Graduação em Estudos da Tradução, Florianópolis, 2010.
+
+LABORATÓRIO DE TRADUÇÃO:
+Fundamentos teóricos e práticos dos procedimentos técnicos da tradução aplicados aos contextos literário,
+científico, midiático, técnico, entre outros. Prática de revisão de textos e vídeos traduzidos.
+Bibliografia Básica:
+ALBIR, H. A. A aquisição da competência tradutória: aspectos teóricos e didáticos. In: ALVES, F.;
+MAGALHÃES, C.; PAGANO, A. Traduzir com autonomia. Estratégias para o tradutor em formação. Rio de
+Janeiro: Editora Contexto, 2000.
+BARBOSA, H. G. Procedimentos técnicos da tradução: uma nova proposta. Campinas, SP: Pontes, 1990.
+PAGANO, A.; MAGALHÃES, Célia; ALVES, Fábio (orgs.). Competência em tradução: cognição e discurso.
+Belo Horizonte: Editora UFMG, 2005.
+PEREIRA, M. C. P.; RUSSO, A. Tradução e interpretação de língua de sinais: técnicas e dinâmicas para
+cursos. São Paulo, SP: Cultura Surda, 2008.
+
+
+                                                                                                              23
+Bibliografia Complementar:
+AUBERT, F. H. As (in)fidelidades da tradução: servidões e autonomia do tradutor. Campinas: Unicamp, 1993.
+CORRÊA, A. M. S; NEIVA, A. M. S. Estratégias e problemas do tradutor aprendiz: uma visão introspectiva no
+processo tradutório. Práticas Discursivas, 2000 UFRJ.
+CORRÊA, A. M. S.Uma abordagem discursiva da tradução. RECORTE, 2007.
+JAKOBSON, R.Linguística e Comunicação. São Paulo: Cultrix, 2011.
+ROBINSON, D. Construindo o tradutor. Bauru, SP: EDUSC, 2002.
+SEGALA, R. R. Tradução Intermodal e Intersemiótica/Interlingual: Português brasileiro escrito para Língua
+Brasileira de Sinais. Dissertação (mestrado) - Universidade Federal de Santa Catarina, Centro de Comunicação e
+Expressão, Programa de Pós-Graduação em Estudos da Tradução. Florianópolis, 2010.
+
+LIBRAS AVANÇADO 2:
+Aprofundamento de práticas de compreensão e produção da Libras por meio do uso das estruturas dessa língua
+em funções comunicativas em nível avançado. Produção em Libras com foco em textos acadêmicos e literários.
+Conhecimento e uso de metáforas e expressões idiomáticas da Libras. Análise linguística e cultural de produções
+em Libras. Uso da língua em situações que simulam a realidade.
+Bibliografia Básica:
+FARIA, S. P. do. Metáfora na LSB: debaixo dos panos ou a um palmo de nosso nariz? In: ETD – Educação
+Temática Digital, Campinas, v. 7, n. 2, p. 179-199, jun. 2006. Disponível em: <https://www.fe.unicamp.br/
+revistas/ged/etd/article/view/1641/1488>.
+HONORA, M. Livro Ilustrado de Língua Brasileira de Sinais: desenvolvendo a comunicação usada pelas
+pessoas com surdez. São Paulo: Ciranda Cultural, 2009, v. 3.
+PIMENTA, N. & QUADROS, R. M. de. Curso de Libras. Nível III. LSB Vídeo, 2011.
+Bibliografia Complementar:
+ALBRES, N. A.; NEVES, S. L. G. De sinal em sinal: comunicação em Libras para aperfeiçoamento do ensino
+dos componentes curriculares. São Paulo: Duas Maõ s, 2008.
+CAPOVILLA, F. C., RAPHAEL, W. D.; MAURÍCIO, A. C. L. Dicionário Enciclopédico Ilustrado Trilíngue da
+Língua de Sinais Brasileira. v 1 e 2. São Paulo: EDUSP, 2010.
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do
+Desporto/Secretaria de Educação Especial, 2001.
+MACHADO, F. A. Simetria na poética visual na língua de sinais brasileira. 2013. 145f. Dissertação (Mestrado em
+Tradução). Programa de Pós-Graduação em Estudos da Tradução da Universidade Federal de Santa Catarina. 2013.
+SUTTON-SPENCE, R. “Imagens da identidade e cultura surdas na poesia em língua de sinais”. In: QUADROS,
+R. M.; VASCONCELLOS, M. L. B. (Org.). Questões teóricas das pesquisas em línguas de sinais. Petrópolis,
+RJ: Arara Azul, 2008, p. 339-349.
+
+LABORATÓRIO DE INTERPRETAÇÃO 1:
+Práticas de Interpretação no contexto comunitário e de conferência. Análise e planejamento das diferentes
+modalidades de interpretação. Adequação interpretativa ao registro da língua. Avaliação dos projetos de
+interpretação desenvolvidos.
+Bibliografia Básica:
+LACERDA, C. B. F. Intérprete de libras em atuação na educação infantil e no Ensino Fundamental              . Porto
+Alegre: Mediação. 2009.
+LEITE, E. M. C. Os papéis do intérprete de Libras na sala de aula inclusiva . Coleção cultura diversidade. Rio de
+Janeiro: Editora Arara Azul. 2005.
+NOVAES NETO, L. O intérprete de tribunal: um mero intérprete? Ceará: Editora CRV. 2011.
+QUEIROZ, M. Interpretação médica no Brasil. Dissertação (Mestrado em Estudos da Tradução) - Universidade
+Federal de Santa Catarina, Florianópolis, 2011.
+Bibliografia Complementar:
+CHAVEIRO N.; BARBOSA, M. A.; PORTO, C. C.; MUNARI, D. B.; MEDEIROS, M.; DUARTE, S. B. R.
+Atendimento à pessoa surda que utiliza a língua de sinais – na perspectiva do profissional da saúde.
+CogitareEnfermagem, UFPR, v. 15, n. 4, p. 639- 45, out./dez. 2010.
+DEAN, R. K.; POLLARD, R. Q. Application demand-control theory to sign language interpreting: implications
+for stress and interpreter training. University of Rochester School of Medicine.Journal of Deaf Studies and Deaf
+Education, 2001.Disponível em : <http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf+html>. Acesso em: 16
+nov. 2013.
+LEAL, A. B. Funcionalismo alemão e tradução literária: quatro projetos para a tradução de The Years, de
+Virginia Woolf. Dissertação (Mestrado em Estudos da Tradução) - Universidade Federal de Santa Catarina,
+Florianópolis, 2007.
+NORD, C. Text analysis in translation.Theory, methodology, and didatic application of a model for translation -
+Oriented Text Analysis.Rodopi: Amsterdam, 1991.
+
+
+                                                                                                                24
+PEREIRA, M. C. P.; RUSSO, A. Tradução e interpretação de língua de sinais: técnicas e dinâmicas para cursos.
+São Paulo: Cultura Surda, 2008.
+ROY, C. B. Advances in teaching sign language interpreters. Washington: Gallaudet University Press, 2005.
+
+ESTÁGIO EM INTERPRETAÇÃO 1:
+Estágio supervisionado itinerante nos diferentes contextos comunitário e de conferência. Posicionamento crítico
+e reflexivo sobre os conceitos teóricos que fundamentam a performance do ato interpretativo.
+Bibliografia Básica:
+BARBOSA, D. M. Omissões na Interpretaç ão Simultânea de Conferê ncia : Língua Portuguesa – Língua
+Brasileira de Sinais . Dissertação (Mestrado) – Universidade Federal de Santa Catarina , Programa de Pós
+Graduação em Estudos da Tradução, Florianópolis, 2014.
+LACERDA, C. B. F. de. O intérprete de língua de sinais no contexto de uma sala de aula de alunos ouvintes:
+problematizando a questão. In: LACERDA, C.B.F. de; GÓES, M. C. R. de (Org.). Surdez: Processos Educativos
+e Subjetividade. São Paulo: Editora Lovise, 2000. p. 51- 84.
+NASCIMENTO, M. V. B. Interpretação da língua brasileira de sinais a partir do gênero jornalístico televisivo:
+elementos verbo-visuais na produção de sentidos. Programa de Linguística Aplicada e Estudos da Linguagem.
+São Paulo: LAEL/PUC-SP, 2011.
+NOVAES NETO, L. O intérprete de tribunal: um mero intérprete? Ceará: Editora CRV. 2011.
+QUEIROZ, M. Interpretação médica no Brasil. Dissertação (Mestrado em Estudos da Tradução) - Universidade
+Federal de Santa Catarina, Florianópolis, 2011.
+TRIPP, D. Pesquisa-ação: uma introduçaõ metodológica. In: Educação e Pesquisa, São Paulo, v. 31, n. 3, p. 443-
+466, 2005.
+BibliografiaComplementar:
+COKELY, D. Interpretation: A sociolinguistic model. Burtonsville, MD: Linstok Press, 1992.
+DEAN, R. K.; POLLARD, R. Q. Application Demand-Control Theory to Sign Language Interpreting:
+Implications for Stress and Interpreter Training. University of Rochester School of Medicine.Journal of Deaf
+Studies and Deaf Education, 2001.Disponível em: <http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf+html>.
+Acessoem: 16 nov. 2013.
+PÖCHHACKER, F. Introducing Interpreting Studies. London-UK: Routledge, 2004.
+PÖCHHACKER, F.; QUEIROZ, M. Conexões Fundamentais: Afinidade e Convergência nos Estudos da
+Interpretação. ScientiaTraductionis, Florianópolis, n. 7, p. 61-75, jan. 2010. ISSN 1980-4237. Disponível em:
+<https://periodicos.ufsc.br/index.php/scientia/article/view/13946>.    Acessoem:     16    fev.     2016.       doi:
+http://dx.doi.org/10.5007/1980-4237.2010n7p61.
+ROY, C. B. Advances in teaching sign language interpreters. Washington: GallaudetUniversity Press, 2005.
+
+TRABALHO DE CONCLUSÃO DE CURSO 1 - TRADUÇÃO E INTERPRETAÇÃO:
+Concepções teóricas de áreas relacionadas aos Estudos da Tradução e Interpretação da Língua de Sinais. Coleta e
+análise preliminar dos dados. Desenvolvimento do Projeto do Trabalho de Conclusão de Curso.
+Bibliografia Básica:
+BELL, J. Projeto de pesquisa: guia para pesquisadores iniciantes em educação, saúde e ciências sociais.
+Traduzido por Magda França Lopes. 4. ed. Porto Alegre: Artmed, 2008.
+DENZIN, N. K.; LINCOLN, Y. S. O planejamento da pesquisa qualitativa: teorias e abordagens. 2 ed. Porto
+Alegre: Artmed, 2006.
+MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 7 ed. São Paulo: Atlas, 2008.
+PAGANO, A. (Org.). Metodologias de pesquisa em tradução. Belo Horizonte: Faculdade de Letras, UFMG, 2001.
+Bibliografia Complementar:
+FIGUEIREDO, F. J. Q. A elaboração e a apresentação do trabalho de Conclusão de Curso. (mimeo) p. 01-29.
+GOMES, R. A análise de dados em pesquisa qualitativa. In: MINAYO, M.C.S. (org.). Pesquisa social: Teoria,
+método e criatividade. 15. ed. Petrópolis, RJ: Vozes, 1994, p.60-80.
+HALE, S.; NAPIER, J. Research methods in interpreting: a practical resource. A&C Black, 2013.
+LIMA, T. C. S.; MIOTO, R. C. T. Procedimentos metodológicos na construção do conhecimento científico: a
+pesquisa bibliográfica. Rev. katálysis [online]. 2007, vol.10. Disponível em: <http://www.scielo.br/scielo.php?
+script=sci_arttext&pid=S1414-49802007000300004&lng=pt&nrm=iso>. Acesso em: 07 out. 2011.
+SEVERINO, A. J. Metodologia do trabalho científico. 22. ed. São Paulo: Cortez, 2003.
+STRAUSS, A.; CORBIN, J. Pesquisa qualitativa: técnicas e procedimentos para o desenvolvimento de teoria
+fundamental. Traduzido por L. O. Rocha. 2. ed. Porto Alegre: Artmed. 2008.
+
+LABORATÓRIO DE INTERPRETAÇÃO 2:
+Práticas de interpretação no contexto social. Análise e planejamento das diferentes modalidades de interpretação.
+Adequação interpretativa ao registro da língua. Avaliação dos projetos de interpretação desenvolvidos.
+
+
+                                                                                                                 25
+Bibliografia Básica:
+CASTRO, N. P. A tradução de fábulas seguindo aspectos imagéticos da linguagem cinematográfica e da língua
+de sinais. Dissertação (Mestrado em Estudos da Tradução). Universidade Federal de Santa Catarina, 2012.
+RAMOS, C. R. Uma leitura da traduç ão de Alice no País das Maravilhas para a Língua Brasileira de Sinais .
+Tese (Doutorado). Universidade Federal do Rio de Janeiro , Departamento de Ciência da Literatura, Programa de
+Pós-Graduação em Letras, Rio de Janeiro-RJ, 2000.
+RODRIGUES, C. H. A interpretaç ão para a língua de sinais brasileira : efeitos de modalidade e processos
+inferenciais. Tese (Doutorado em Linguiś tica Aplicada ), Faculdade de Letras, Universidade Federal de Minas
+Gerais, Belo Horizonte, 2013.
+BibliografiaComplementar:
+DEAN, R. K.; POLLARD, R. Q. Application Demand-Control Theory to Sign Language Interpreting:
+Implications for Stress and Interpreter Training. University of Rochester School of Medicine.Journal of Deaf
+Studies and Deaf Education, 2001.Disponível em: <http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf+html>.
+Acessoem: 16 nov. 2013.
+NORD, C. Text analysis in Translation.Theory, Methodology, and Didatic Application of a Model for
+Translation - Oriented Text Analysis.Rodopi: Amsterdam, 1991.
+PEREIRA, M. C. P.; RUSSO, A. Tradução e Interpretação de Língua de Sinais: técnicas e dinâmicas para
+cursos. São Paulo: Cultura Surda, 2008.
+RIGO, N. S. Tradução de Canções de LP para LSB: identificando e comparando recursos tradutórios
+empregados por sinalizantes surdos e ouvintes. Dissertação (Mestrado em Estudos da Tradução). Universidade
+Federal de Santa Catarina, 2013.
+ROY, C. B. Advances in teaching sign language interpreters. Washington: Gallaudet University Press, 2005.
+
+ESTÁGIO EM INTERPRETAÇÃO 2:
+Estágio supervisionado itinerante no contexto da interpretação social, como entretenimento, religioso. Posicionamento
+crítico e reflexivo sobre os conceitos teóricos que fundamentam a performance do ato interpretativo.
+Bibliografia Básica:
+MACHADO, F.M.A. Conceitos abstratos: escolhas interpretativas do português para libras. Ed. Prisma, Curitiba, 2015.
+PEREIRA, M. C. P. A interpretação interlíngue da Libras para o Português Brasileiro: Um estudo sobre as
+formas de tratamento. Tese (Doutorado em Estudos da Tradução). Universidade Federal de Santa Catarina, 2014.
+RIGO, N. S. Tradução de Canções de LP para LSB: identificando e comparando recursos tradutórios
+empregados por sinalizantes surdos e ouvintes. Dissertação (Mestrado em Estudos da Tradução). Universidade
+Federal de Santa Catarina, 2013.
+Bibliografia Complementar:
+CASTRO, N. P. A tradução de fábulas seguindo aspectos imagéticos da linguagem cinematográfica e da língua
+de sinais. Dissertação (Mestrado em Estudos da Tradução). Universidade Federal de Santa Catarina, 2012.
+COKELY, D. Interpretation: A sociolinguistic model. Burtonsville, MD: Linstok Press, 1992.
+DEAN, R. K.; POLLARD, R. Q. Application Demand-Control Theory to Sign Language Interpreting:
+Implications for Stress and Interpreter Training. University of Rochester School of Medicine.Journal of Deaf
+Studies and Deaf Education, 2001.Disponível em: <http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf+html>.
+Acesso em: 16 nov. 2013.
+RICOER, P. Interpretação e ideologias. 3. ed. Rio de Janeiro: Francisco Alves, 1988.
+ROY, C. B. Advances in teaching sign language interpreters. Washington: Gallaudet University Press, 2005.
+
+TRABALHO DE CONCLUSÃO DE CURSO 2 - TRADUÇÃO E INTERPRETAÇÃO:
+Concepções teóricas de áreas relacionadas aos Estudos da Tradução e Interpretação da Língua de Sinais. Conclusão
+da análise de dados e discussão de resultados. Redação e apresentação do Trabalho de Conclusão de Curso.
+Bibliografia Básica
+DENZIN, N. K.; LINCOLN, Y. S. O planejamento da pesquisa qualitativa: teorias e abordagens. 2 ed. Porto
+Alegre: Artmed, 2006.
+MARCONI, M. A.; LAKATOS, E. M. Técnicas de Pesquisa. 7 ed. São Paulo: Atlas, 2008.
+MENDONÇA, L. M. N.; ROCHA, C. R. R.; D„ALESSANDRO, W. T. (Org.). Guia para apresentação de
+trabalhos monográficos na UFG. Goiânia: Universidade Federal de Goiás. Pró-Reitoria de Pesquisa e Pós-
+Graduação, 2001.
+PAGANO, A. (Org.). Metodologias de pesquisa em tradução. Belo Horizonte: Faculdade de Letras, UFMG, 2001.
+Bibliografia Complementar
+ASSOCIAÇÃO BRASILEIRA DE NORMAS E TÉCNICAS. Informação e documentação: trabalhos
+acadêmicos - apresentação. NBR 14724. Rio de Janeiro: ABNT, 2006.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS E TÉCNICAS. Informação e documentação: citações em
+documentos - apresentação. NBR 10520. Rio de Janeiro: ABNT, 2002.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS E TÉCNICAS. Informação e documentação: referências -
+elaboração. NBR 6023. Rio de Janeiro: ABNT, 2002.
+
+
+                                                                                                                  26
+CRESWELL, J. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. 21a Ed. Porto Alegre:
+Artmed/Bookman, 2007.
+FIGUEIREDO, F. J. Q. A elaboração e a apresentação do trabalho de Conclusão de Curso. (mimeo) p. 01-29.
+HALE, S.; NAPIER, J. Research methods in interpreting: a practical resource. A&C Black, 2013.
+SEVERINO, A. J. Metodologia do trabalho científico. 22. ed. São Paulo: Cortez, 2003.
+
+Disciplinas Optativas
+INGLÊS INSTRUMENTAL (C/H 64):
+Desenvolvimento de estruturas básicas da língua inglesa por meio da prática de leitura de textos em inglês.
+Bibliografia Básica:
+BECHER, S. Inglês Instrumental: desenvolvendo o processo de leitura. Rio de Janeiro: Edição da autora/PUC-
+Rio, 2007.
+LAGE, H. L. et al. Leitura de Textos em Inglês: uma abordagem instrumental. Belo Horizonte: Edição dos
+autores/UFMG, 1992.
+MURPHY, R. Essential Grammar in Use. Cambridge: CUP, 2000.
+OLIVEIRA, S. R. F. Estratégias de Leitura para Inglês Instrumental. Ed. Unb. São Paulo, 1998.
+Bibliografia Complementar:
+ALMEIDA FILHO, J.C.P. Dimensões comunicativas no ensino de línguas. Campinas, SP: Pontes Editores, 1993.
+BOHN, H. I.; VANDRESEN, P. Tópicos de Línguística Aplicada: o ensino de línguas estrangeiras.
+Florianópolis: Editora da UFSC, 1988.
+DICIONÁRIO VISUAL DE BOLSO 3 EM 1.São Paulo: Editora Edgard BlucherLtda, 2008.
+FARRELL, T. S. C. Planejamento de atividades de leitura para aulas de idiomas. Coleção Portfolio Sbs13:
+reflexões sobre o ensino de idiomas. São Paulo: Editora SBS, 2006.
+FIELD, M. L. Componentes visuais e a compreensão de textos. (trad. Rosana Sakugawa Ramos Cruz Gouveia).
+São Paulo: SBS Livraria, 2004 (Portfolio SBS: 10).
+HOLDEN, S., RODGERS, M.. O ensino da língua inglesa. São Paulo: SBS, 2002.
+LANDO, I. M. Vocabulando: Vocabulário Prático Inglês-Português. São Paulo: SBS Livraria, 2000.
+RICHARDS, J.C.; RODGERS, T. S. Approaches and methods in language teaching.Cambridge: CUP, 1993.
+SOUZA, A. G. F.. Leitura Instrumental em Língua Inglesa. Londrina :Planográfica, 2003.
+TARDIN CARDOSO, R. C. The communicative approach to foreign language teaching: a short introduction.
+Campinas: Pontes, 2003.
+
+PRÁTICA PROFISSIONAL E MERCADO DE TRABALHO DO TRADUTOR E INTÉRPRETE:
+Tópicos de tradução e interpretação. Intérprete educacional. Intérprete Surdo. Guia-intérprete. Postura
+profissional. Relação Intérprete - Cliente.
+Bibliografia Básica:
+BENEDITTI, I. C; SOBRAL, A. (org.) Conversas com tradutores: balanços e perspectivas da tradução. São
+Paulo Parábola Editorial, 2003.
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Decreto nº. 5.626, de 22 de dezembro de
+2005. Regulamenta a Lei no 10.436, de 24 de abril de 2002.
+CADER-NASCIMENTO, F. A.A.A.; COSTA, M. P. R. et al. Descobrindo a surdocegueira: educação e
+comunicação. São Carlos: EdUFSCar, 2010.
+CAMPELLO, A. R. e S. Intérprete surdo de língua de sinais brasileira: o novo campo de tradução /
+interpretação cultural e seu desafio. Cadernos de Tradução, Florianópolis, v. 1, n. 33, p. 143-167, jul. 2014. ISSN
+2175-7968.           Disponível        em:           <https://periodicos.ufsc.br/index.php/traducao/article/view/2175-
+7968.2014v1n33p143> Acesso em: 03 fev. 2016. doi: http://dx.doi.org/10.5007/2175-7968.2014v1n33p143.
+LACERDA, C. B. F. de. O intérprete de língua de sinais no contexto de uma sala de aula de alunos ouvintes:
+problematizando a questão. In: LACERDA, C.B.F. de; GÓES, M. C. R. de (Org.). Surdez: Processos Educativos
+e Subjetividade. São Paulo: Editora Lovise, 2000. p. 51- 84.
+QUADROS, R. M. O tradutor e Intérprete de língua brasileira de sinais e língua portuguesa. Brasília: MEC;
+SEESP, 2002.
+Bibliografia Complementar:
+AUBERT, F. H. As (In) Fidelidades da Tradução. Servidões e autonomia do tradutor. Campinas: Unicamp, 1993.
+LACERDA, C. B. F. de. O intérprete educacional de língua de sinais no ensino fundamental: refletindo sobre
+limites e possibilidades In: LODI, A. C. E. et al. Letramento e Minorias. Porto Alegre: Mediação, 2002. p. 120-128.
+PEREIRA, M. C. P.; RUSSO, A. Tradução e interpretação de língua de sinais: técnicas e dinâmicas para
+cursos. São Paulo: Cultura Surda, 2008. v. 1. 90 p.
+RICOER, P. Interpretação e ideologias. 3. ed. Rio de Janeiro: Francisco Alves, 1988.
+ROBINSON, D. Construindo o tradutor. Bauru, SP: EDUSC, 2002.
+SOBRAL, A. Dizer o “mesmo” a outros: ensaios sobre tradução. São Paulo: SBS, 2008.
+SOUZA, V. C. de; VIEIRA, R. Uma Proposta para Tradução Automática entre Libras e Português no
+SignWebMessage.
+
+
+                                                                                                                   27
+PRODUÇÃO DO TEXTO ACADÊMICO:
+Gêneros textuais acadêmicos e a prática do texto acadêmico em Português e em Libras. Procedimentos de
+reescrita/reestruturação de textos. Tópicos de gramática. Leitura, análise linguística e escrita em nível avançado.
+Bibliografia Básica:
+CUNHA, C.; CINTRA, L. Nova gramática do português contemporâneo. Rio de Janeiro: Lexikon, 2013.
+MACHADO, A. R.; LOUSADA, E.; ABREU-TARDELLI, L. S. Planejar gêneros acadêmicos. São Paulo:
+Parábola Editorial, 2005.
+MARQUES, R. R.; OLIVEIRA, J. S. A normatização de artigos acadêmicos em Libras e sua relevância como
+instrumento de constituição do corpus de referência para tradutores. Disponível em:
+<http://www.congressotils.com.br/anais/anais/tils2012_metodologias_traducao_marquesoliveira.pdf>.            Acesso
+em: 15 jan. 2015.
+Bibliografia Complementar:
+MENDONÇA, L. M.; ROCHA, C. R. R.; GOMES, S. H. A. Guia para apresentação de trabalhos acadêmicos na
+UFG. Goiânia: UFG, 2005.
+NEVES, M. H. de M. Gramática de usos do português. São Paulo: Ed. UNESP, 2000.
+PERINI, M. A. Gramática do português brasileiro. São Paulo: Parábola Editorial, 2010.
+ROTH-MOTTA, D.; HENDGES, G. R. Produção textual na universidade. São Paulo: Parábola Editorial, 2010.
+REVISTA BRASILEIRA DE ARTIGOS EM LIBRAS. Disponível em: <http://revistabrasileiravrlibras.
+paginas.ufsc.br>. Acesso em: 2 mar. 2016.
+THEREZO, G. P. Redação e leitura para universitários. Campinas, SP: Editora Alínea, 2008.
+XAVIER, A. C. Como se faz um texto: a construção da dissertação argumentativa.
+
+SINAIS INTERNACIONAIS:
+Introdução aos Sinais Internacionais. Aspectos históricos e linguísticos dos Sinais Internacionais. Prática
+comunicativa.
+Bibliografia Básica:
+CAMPELLO, A. R. Pedagogia Visual na Educação dos Surdos. Tese (Doutorado em Educação) – Centro de
+Ciências da Educação, Universidade Federal de Santa Catarina, Florianópolis, 2008. p. 157-190.
+FELIPE, T. Libras em Contexto. MEC: 2001.
+PIMENTA, N.; QUADROS, R. M. de. Curso de Libras. Nível Básico I. 2007.
+QUADROS, R. M. de; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ArtMed: Porto Alegre, 2004.
+Bibliografia Complementar:
+BAR-TZUR, D. Internationalgesture: principlesandgestures, 2002. Disponível em: <http://theinterpretersfriend.
+org/indj/ig.html>. Acessoem: 2 mar. 2016.
+MOODY, W. International gesture. In: Van CLEVE, J. V. (ed.). Gallaudet encyclopedia of deaf people and
+deafness, Vol 3 SZ, Index. NewYork: McGraw-Hill Book Company Inc, 1987.
+ROSENSTOCK, R. An Investigation of International Sign: Analyzing Structure and Comprehension.
+Washington DC: Gallaudet University, 2004.
+RUBINO, F.; HAYHURST, A.; GUEJLMAN, J. Gestuno.International sign language of the deaf. Carlisle:
+British Deaf Association, 1975.
+SCOTT GIBSON, L.; OJALA, R. International Sign Interpreting. Paper presented to the Fourth East and South
+African Sign Language Seminar, Uganda, 1994.
+SEMATOS, EU. Disponível em: <www.sematos.eu>. Acesso em: 15 fev. 2016.
+
+TÉCNICA VOCAL NA INTERPRETAÇÃO:
+Introdução ao estudo das Práticas Discursivas aplicado à interpretação da Libras para o português. O texto
+falado como prática social. Técnica vocal e sua relação com os diferentes contextos do discurso em Libras.
+Formulação, organização e recursos do texto falado. Variação formal e informal. Saúde vocal.
+Bibliografia Básica:
+ALBRES, N. de A. As novas tendências metodológicas nos estudos da tradução/interpretação entre o par
+Português/Libras. In: QUADROS, R. M. WEININGERE, M. J. .(Org.). Estudos da Língua Brasileira de Sinais
+III. 1ed. Florianópolis: Insular, 2014, v. 3, p. 13-34.
+CASTILHO, A. T.; BASÍLIO, M. (Org.) Gramática do português falado. Estudos descritivos. Campinas:
+UNICAMP, 1993, v. IV.
+FARIA, D. M.; CAMISA, M. T.; GUIMARÃES, M. A. Muito além do ninho de mafagafos. São Paulo: J e H
+Editorações, 2011.
+Bibliografia Complementar:
+ALBRES, N. de A. Mesclagem de voz e tipos de discursos no processo de interpretação da língua de sinais para
+o português oral. In: QUADROS, R. M. de (org.). Cadernos de tradução. Universidade Federal de Santa
+Catarina. Centro de Comunicação e Expressão. Pós-graduação em Estudos da Tradução, n° 1 (1996).
+Florianópolis: Pós-graduação em Estudos da Tradução.
+
+
+                                                                                                                28
+ANTUNES, C. Jogos para bem falar: homo sapiens, homo loquens. Campinas, SP: Papirus, 2003.
+BEHLAU, M.; PONTES, H. Higiene vocal. São Paulo: Lovise, 1993.
+SILVA, L. A. da. A língua que falamos. Português: história, variação e discurso. São Paulo: Globo, 2005.
+KERBRAT-ORECCHIONI, C. Análise da conversação. São Paulo: Parábola Editorial, 2006.
+LEMOS, A. M; MONTEIRO-PLANTN. R.S. Com quantos paus se faz uma canoa? Estratégias de interpretação
+de Unidades Fraseológicas: português – língua de sinais. In: Anais do III Congresso Nacional de pesquisas em
+Tradução e Interpretação de Libras e Língua Portuguesa, 2012. Disponível em: <http://www.congressotils.
+com.br/anais/anais2012_busca.html>. Acesso em: 2 mar. 2016.
+
+PRÁTICAS DE ESCRITA DE SINAIS:
+Aprendizagem da leitura e da escrita utilizando o Sistema Brasileiro de Escrita de Sinais (ELiS) por meio de
+textos escritos em Libras. Prática de tradução de um texto simples escrito em Língua Portuguesa para a Libras.
+Prática de tradução de um texto simples escrito em Libras para a Língua Portuguesa.
+Bibliografia Básica:
+ALVES, F., MAGALHÃES, C.; PAGANO, A. Traduzir com autonomia: estratégias para o tradutor em
+formação. São Paulo: Contexto, 2000.
+BARROS, M. E.EliS: sistema brasileiro de escrita das línguas de sinais. Porto Alegre: Penso, 2015.
+FERNANDES, L. A. ELiS: internacionalização da escrita das línguas de sinais. Saarbrücken, Deutschland:
+Novas Edições Acadêmicas, 2015.
+Bibliografia Complementar:
+JAKOBSON, R. Aspectos linguísticos da tradução. In: Linguística e comunicação. Trad. IzidoroBlikistein. São
+Paulo: Cultrix, 1987.
+BARBOSA, H. Procedimentos técnicos da tradução: uma nova proposta. Campinas: Pontes, 1990.
+BARROS, M. E. ELiS – Escrita das Línguas de Sinais: proposta teórica e verificação prática. 192f. Tese
+(Doutorado em Linguística) – Centro de Comunicação e Expressão, Universidade Federal de Santa Catarina,
+Florianópolis, 2008.
+______. ELiS: Escrita das Línguas de Sinais: sua aprendizagem. In: Círculo de Estudos Linguísticos do Sul, 9.,
+2010. Palhoça, SC. Anais do IX Encontro do Círculo de Estudos Linguísticos do Sul. Palhoça: Universidade do
+Sul de Santa Catarina. 2010.
+PAES, J. P. Tradução. A ponte necessária: aspectos e problemas da arte de traduzir. São Paulo: Ática, 1990.
+
+PROCESSOS DE TRADUÇÃO E INTERPRETAÇÃO:
+Processos cognitivos na Tradução e na Interpretação. Práticas, competências e habilidades do Tradutor e do Intérprete.
+Bibliografia Básica:
+ALVES, F. Tradução, cognição e contextualização: triangulando a interface processo-produto no desempenho de
+tradutores novatos. D.E.L.T.A, v. 19, n. esp.: trabalhos de traduçaõ , p. 71-108, 2003.
+GILE, D. Testando a hipótese da “corda bamba” do modelo dos esforços na interpretação simultânea – uma
+contribuição. Traduzido por: BARBOSA, D. M. SANTOS, G. B. F dos e WEININGER, M. J. Cadernos de
+Tradução, Florianópolis, v. 35, n. 2, p. 590-647, out. 2015. ISSN 2175-7968. Disponível em:
+<https://periodicos.ufsc.br/index.php/traducao/article/view/2175-7968.2015v35nesp2p590>. Acesso em: 16 fev.
+2016. doi: <http://dx.doi.org/10.5007/2175-7968.2015v35nesp2p590>.
+PAGANO, A.; MAGALHÃES, C.; ALVES, F. (Orgs.). Competência em tradução : cognição e discurso . Belo
+Horizonte: Editora UFMG, 2005.
+RODRIGUES, C. H. A interpretaç ão para a língu a de sinais brasileira: efeitos de modalidade e processos
+inferenciais. Tese (Doutorado em Linguiś tica Aplicada ), Faculdade de Letras, Universidade Federal de Minas
+Gerais, Belo Horizonte, 2013.
+Bibliografia Complementar:
+ALVES, F. Esforço cognitivo e efeito contextual em traduçaõ : relevância no desempenho de tradutores novatos e
+expertos. Revista Linguagem em (Dis)curso – LemD, Tubarão, v.5, p.11-31, 2005b. (número especial).
+CARNEIRO, B. G. A Concepção de evento em construções representativas na língua de Sinais Brasileira.
+Dissertação (Mestrado em Letras) – Faculdade de Letras, Universidade Federal de Goiás, Goiânia, 2011.
+LAKOFF, G. Women, fire, and dangerous things: what categories reveal about the mind. Chicago: The
+University of Chicago Press, 1987.
+FELTES, H. P. de M. Semânticacognitiva: ilhas, pontes e teias. Porto Alegre: Edipucrs, 2007.
+MACHADO, F. M. A. Conceitos abstratos: escolhas interpretativas do português para libras. Ed. Prisma,
+Curitiba, 2015.
+
+LITERATURA SURDA:
+Estudo de diferentes produções literárias de autores culturalmente surdos, com ênfase no conto, na piada, no
+poema e na dramaturgia. Adaptação de textos literários existentes e criação de literatura surda.
+
+
+                                                                                                                   29
+Bibliografia Básica:
+CANDIDO,         A.     A     literatura    e      a     formação      do     homem.        Disponível  em:
+<https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&sqi=2&ved=0
+CBwQFjAAahUKEwjowd6qqrjIAhXFG5AKHZtFD1k&url=http%3A%2F%2Fperiodicos.bc.unicamp.br%2Fojs
+%2Findex.php%2Fremate%2Farticle%2Fdownload%2F8635992%2F3701&usg=AFQjCNFcnS09PovDG7lwpN
+nWRh0ekpqJMQ&bvm=bv.104819420,d.Y2I> Acesso em: 2 mar. 2016.
+COLLODI, C. As aventuras de Pinóquio. Coleção Clássicos da Literatura em CD-Rom em Libras/Português, v.
+III. Tradução de Ana Regina Campello e Nelson Pimenta. Rio de Janeiro: Arara Azul, 2003.
+COUTO, R. C. T. Casal feliz. Belém, PA, 2010.
+FERSEN, A. O teatro, em suma. Rio de Janeiro: Civilização Brasileira, 1987.
+HESSEL, C., ROSA, F., KARNOPP, L. Cinderela Surda. Canoas, RS: ULBRA, 2003.
+HESSEL, C., ROSA, F., KARNOPP, L. Rapunzel surda. Canoas, RS: ULBRA, 2003.
+KING, S. M. O homem que amava caixas. Tradução para a Libras: Neiva de Aquino Albres. São Paulo:
+Brinquebook, 2008.
+MACHADO, F. A árvore de Natal. Rio de Janeiro (RJ): LSB Vídeo, 2005. 1 DVD (20 min), som, cor.
+ROSA, F. S. Literatura surda: criação e produção de imagens e textos. ETD, v. 7, n° 2, 2006.
+_______; KARNOPP, L. B. Adão e Eva. Canoas: Ed. ULBRA, 2005.
+SEIS fábulas de Esopo em LSB. Direção: Luiz Carlos Freitas. Ator: Nelson Pimenta. Rio de Janeiro: LSB Vídeo,
+2002. 1 DVD (40 min).
+JOLLES, A. Forma simples. São Paulo: Cultrix, 1972.
+LITERATURA surda em LSB. Produção: Joe Dannis. Direção: Yon Lee. Criação: Nelson Pimenta. Tradução
+(LIBRAS-Português): Luiz Carlos Freitas. Rio de Janeiro: LSB Vídeo, 1999. 1 DVD (60 min).
+ROSA, F.; KARNOPP, L. Patinho Surdo. Ilustrações de Maristela Alano. Canoas, RS: ULBRA, 2005.
+SUTTON-SPENCE, R. Imagens da identidade e cultura surdas na poesia em língua de sinais. In: QUADROS, R.
+M.; VASCONCELLOS, M. L. B. (Org.). Questões teóricas das pesquisas em línguas de sinais. Petrópolis, RJ:
+Arara Azul, 2008, p. 339-349.
+Bibliografia Complementar:
+AMARAL, A. M. Teatro de animação. São Caetano do Sul: Ateliê editorial, 1997.
+AS AVENTURAS de Pinóquio em LSB. Inspirado na obra de Carlo Lorenzini. Adaptação e Roteiro: Luiz
+Carlos Freitas & Nelson Pimenta. Rio de Janeiro: Paulinas & LSB Vídeo, 2006. DVD (30 min), som, cor.
+BENTLEY, E. A experiência viva do teatro. Rio de Janeiro: Zahar, 1967.
+BORDINI, M. G. Poesia Infantil. São Paulo: Ed. Ática, 1986.
+CAMPBELL, J. O herói de mil faces. São Paulo, Cultrix, 2008.
+SIMÕES, M. A língua de sinais como foco de construção do imaginário do brincar de crianças surdas. ETD, v.
+7, n° 2, 2006.
+
+LITERATURA INFANTIL E JUVENIL:
+Tradição oral e os contos de fadas. Monteiro Lobato e a renovação da literatura infantil brasileira. A literatura
+infantil e juvenil brasileira contemporânea. Leitura de literatura infantil e juvenil voltada para o Surdo.
+Bibliografia Básica:
+BETTELHEIM, B. A psicanálise dos contos de fadas. Rio de Janeiro: Paz e Terra, 1978.
+COELHO, N. N. Literatura infantil. Teoria, análise, didática. São Paulo: Ática, 1991.
+SANT‟ANNA, A. R. de. Paródia, paráfrase e cia. São Paulo: Ática, 1993.
+SILVA, V. M. T. Literatura infantil brasileira: guia para professores e promotores de leitura. Goiânia: Cânone, 2008.
+ZILBERMANN, R.; LAJOLO, M. Literatura infantil brasileira. História & histórias. São Paulo: Ática, 1982.
+Bibliografia Complementar:
+CALVET, L-J. Tradição oral e tradição escrita. Trad. Waldemar Ferreira Netto. São Paulo: Parábola Editorial, 2011.
+CAMPBELL, J. O herói de mil faces. São Paulo, Cultrix, 2008.
+_____. Mito e transformação. São Paulo: Ágora, 2008.
+CHEVALIER, J.; GHEERBRANT, A. Dicionário de símbolos. Rio de Janeiro: José Olympio, 1989.
+CORSO, D. L.; CORSO, M. Fadas no divã. Porto Alegre: Artmed, 2006.
+HUSTON, N. A espécie fabuladora. Porto Alegre: L&PM, 2010.
+VON FRANZ, M. L. A interpretação dos contos de fadas. São Paulo: Paulinas, 1990.
+
+CONCEITOS DE PRESERVAÇÃO AMBIENTAL NAS LITERATURAS DE TRADIÇÃO ORAL DE
+CULTURAS INDÍGENAS E AFRICANAS:
+Cultura, educação e literatura nas sociedades ágrafas. Recolha e registro de textos de tradição oral. Cultura e
+literatura de povos indígenas do Brasil. Cultura e literatura de povos africanos no Brasil. Conceitos de
+preservação ambiental em mitos indígenas e africanos.
+Bibliografia Básica:
+CALVET, L.-J., Tradição oral e tradição escrita. São Paulo: Parábola, 2011.
+FERREIRA, M. Literaturas africanas de expressão portuguesa. 2ª ed. Lisboa: ICALP, 1987.
+
+
+                                                                                                                  30
+MARGARIDO, A. Estudos sobre a literatura das nações africanas de língua portuguesa. Lisboa: A regra do
+jogo, 1980.
+SANTILLI, M. A. C. B. Africanidade: contornos literários. São Paulo: Ática, 1985.
+_____. Estórias africanas. São Paulo, Ática, 1985.
+Bibliografia Complementar:
+CALVET, L-J. Tradição oral e tradição escrita. Trad. Waldemar Ferreira Netto. São Paulo: Parábola Editorial, 2011.
+COUTO, M. Estórias abensonhadas. São Paulo: Companhia das Letras, 2012.
+GOTLIB, N. B. Teoria do Conto. São Paulo: Ática, 1990.
+HUSTON, N. A espécie fabuladora. Porto Alegre: L&PM, 2010.
+LOBATO, M. Histórias de Tia Nastácia. São Paulo: Brasiliense, 1957.
+ONDJAKI. Os da minha rua. Rio de Janeiro: Língua Geral, 2007.
+
+
+6.3      Quadro de Carga Horária
+COMPONENTES CURRICULARES                                                       CH     PERCENTUAL
+NÚCLEO COMUM (NC)                                                              384        12,15%
+NÚCLEO ESPECÍFICO OBRIGATÓRIO (NEOB)                                          1.920       60,75%
+NÚCLEO ESPECÍFICO OPTATIVO (NEOP)                                              128         4,05%
+NÚCLEO LIVRE (NL)                                                              128         4,05%
+ATIVIDADES COMPLEMENTARES (AC)                                                 200         6,32%
+PRÁTICA COMO COMPONENTE CURRICULAR                                             400        12,65%
+CARGA HORÁRIA TOTAL (CHT)                                                             3160
+* A PCC é um componente curricular obrigatório nos cursos de licenciatura.
+
+6.4   Sugestão de Fluxo Curricular do Curso de Letras: Tradução e Interpretação em
+Libras/Português
+                                      1º PERÍODO
+                    DISCIPLINA                         CHT NATUREZA                                NÚCLEO
+Introdução aos Estudos Linguísticos                     64 Obrigatória                              Comum
+Estudos Surdos, Sociedade e Cultura                     64 Obrigatória                             Específico
+Língua Portuguesa 1                                     64 Obrigatória                             Específico
+Libras Básico 1                                        128 Obrigatória                             Específico
+Prática como Componente Curricular                      50 Obrigatória                              Comum
+                              Carga horária do período 370
+
+                                      2º PERÍODO
+                    DISCIPLINA                                               CHT NATUREZA          NÚCLEO
+Estudos Linguísticos 1                                                        64 Obrigatória        Comum
+Estudos da Tradução e Interpretação 1                                         64 Obrigatória       Específico
+Língua Portuguesa 2                                                           64 Obrigatória       Específico
+Libras Básico 2                                                              128 Obrigatória       Específico
+Prática como Componente Curricular                                            50 Obrigatória        Comum
+                              Carga horária do período                       370
+                              Carga horária acumulada                        740
+
+                                       3º PERÍODO
+                    DISCIPLINA                                           CHT NATUREZA              NÚCLEO
+Estudos Linguísticos 2                                                     64 Obrigatória           Comum
+Estudos da Tradução e Interpretação 2                                      64 Obrigatória          Específico
+Ética na Tradução e Interpretação                                          64 Obrigatória          Específico
+Libras Intermediário 1                                                    128 Obrigatória          Específico
+Prática como Componente Curricular                                         50 Obrigatória           Comum
+                               Carga horária do período                   370
+                               Carga horária acumulada                   1110
+
+
+                                                                                                                31
+                                       4º PERÍODO
+                    DISCIPLINA                          CHT NATUREZA           NÚCLEO
+Estudos Linguísticos 3                                   64 Obrigatória         Comum
+Princípios de Estudos Literários                         64 Obrigatória         Comum
+Tecnologias na Tradução e Interpretação                  64 Obrigatória        Específico
+Tradução em Diferentes Contextos                         64 Obrigatória        Específico
+Libras Intermediário 2                                   64 Obrigatória        Específico
+Prática como Componente Curricular                       50 Obrigatória         Comum
+                               Carga horária do período 370
+                               Carga horária acumulada 1480
+
+                                       5º PERÍODO
+                     DISCIPLINA                          CHT NATUREZA NÚCLEO
+Escrita de Sinais                                         64 Obrigatória Específico
+Políticas Linguísticas e Tradutórias                      64 Obrigatória Específico
+Laboratório de Tradução e Interpretação                   64 Obrigatória Específico
+Libras Avançado 1                                         64 Obrigatória Específico
+Interpretação em Diferentes Contextos                     64 Obrigatória Específico
+Prática como Componente Curricular                        50 Obrigatória  Comum
+                                Carga horária do período 370
+                                Carga horária acumulada 1850
+
+                                   6º PERÍODO
+                    DISCIPLINA                      CHT NATUREZA               NÚCLEO
+Introdução à Pesquisa                                64 Obrigatória             Comum
+Estágio em Tradução                                  64 Obrigatória            Específico
+Laboratório de Tradução                              64 Obrigatória            Específico
+Libras Avançado 2                                    64 Obrigatória            Específico
+DISCIPLINA OPTATIVA DO N.E.                          64  Optativa              Específico
+Prática como Componente Curricular                   50 Obrigatória             Comum
+                           Carga horária do período 370
+                           Carga horária acumulada 2220
+
+                                       7º PERÍODO
+                    DISCIPLINA                            CHT NATUREZA         NÚCLEO
+Laboratório de Interpretação 1                             64 Obrigatória      Específico
+Estágio em Interpretação 1                                128 Obrigatória      Específico
+Trabalho de Conclusão de Curso 1 – Tradução e              64 Obrigatória      Específico
+Interpretação
+DISCIPLINA DO NÚCLEO LIVRE                                  64    Optativa       Livre
+Prática como Componente Curricular                          50   Obrigatória    Comum
+                               Carga horária do período    370
+                               Carga horária acumulada    2590
+
+                                       8º PERÍODO
+                    DISCIPLINA                          CHT NATUREZA           NÚCLEO
+Laboratório de Interpretação 2                           64 Obrigatória        Específico
+Estágio em Interpretação 2                               64 Obrigatória        Específico
+Trabalho de Conclusão de Curso 2 – Tradução e            64 Obrigatória        Específico
+Interpretação.
+DISCIPLINA DO NÚCLEO LIVRE                               64  Optativa            Livre
+DISCIPLINA OPTATIVA DO N.E.                              64  Optativa          Específico
+Prática como Componente Curricular                       50 Obrigatória         Comum
+                               Carga horária do período 370
+                               Carga horária acumulada 2960
+
+
+                                                                                            32
+6.5    Prática como Componente Curricular
+         A Resolução CNE/CP 2 (BRASIL, 2002) determina que os cursos de licenciatura
+devem dedicar “400 horas de prática como componente curricular, vivenciadas ao longo do
+curso”. Apesar de os bacharelados não serem regidos pela mesma determinação, a Faculdade
+de Letras entende que o discente poderá ampliar sua formação com as Práticas como
+Componente Curricular (PCCs), visto tratar-se de uma atividade que integra teoria e prática.
+Assim, serão realizadas 4 PCCs ao longo do curso de Letras: Tradução e Interpretação em
+Libras/Português, sendo uma por ano. Cada PCC terá a duração de 100 horas. A FL/UFG
+atende essa Resolução em seu item I do artigo 1º, bem como ao Parecer 15/2005 do CNE, que
+esclarece a diferença entre Prática como Componente Curricular, Atividades Práticas e
+Estágio Supervisionado. Conforme o CNE, “as atividades caracterizadas como prática como
+componente curricular podem ser desenvolvidas como núcleo ou como parte de disciplinas ou
+de outras atividades formativas” (CNE, 2005, p. 3). Dessa forma, a FL/UFG optou por
+desenvolver a PCC como núcleo e não como parte integrante das disciplinas do curso.
+         No início de cada ano, a Coordenação do curso de Letras: Tradução e Interpretação
+em Libras/Português aconselhará os discentes a, em grupos, procurarem um docente da
+unidade para a realização dessa prática, entendida como a inter-relação da teoria com a
+realidade social. Assim, prevê-se o envolvimento de todo o corpo docente da unidade no
+acompanhamento dessas atividades, que permeiam toda a formação do discente, o qual é
+levado a aprender, desde o início do curso, a transformar os conteúdos transmitidos em prática
+pedagógica. Com isso, o curso de Letras: Tradução e Interpretação em Libras/Português da
+UFG visa ao cumprimento não só da resolução acima citada, mas também da determinação
+das Diretrizes curriculares para os cursos de Letras, que requerem o desdobramento do papel
+de docente na figura de orientador.
+         A cada ano os docentes devem preparar projetos para as atividades que serão
+realizadas durante o ano em curso. Dessa forma, o docente enviará à Coordenação da PCC o
+projeto a ser desenvolvido pelos discentes, num total máximo de quinze alunos por professor.
+Após as inscrições dos alunos, o docente se reunirá com os inscritos em sua PCC para lhes
+passar orientações e indicação de material bibliográfico básico.
+         A coordenação dos cursos indicará uma semana, em cada semestre letivo, destinada
+ao desenvolvimento de atividades de campo, que será apreciada e aprovada pelo Conselho
+Diretor da Faculdade de Letras. No final de cada ano, um relatório elaborado a partir das
+observações realizadas durante as atividades deve ser entregue ao docente responsável. Os
+trabalhos poderão ser apresentados durante o Colóquio de Pesquisa e Extensão da Faculdade
+de Letras, realizado na Semana do Calouro, no início de cada ano letivo.
+
+
+6.6    Atividades Complementares
+         O curso de Bacharelado em Letras: Tradução e Interpretação em Libras/Português
+seguirá as orientações da Resolução CD/FL N°1/2014 no que se refere à dedicação de uma
+carga horária específica em atividades acadêmico-científico-culturais por entender que o
+discente poderá ampliar sua formação ao participar destas atividades.
+         Este projeto prevê, portanto, a realização de 200 horas de atividades complementares
+que correspondem, principalmente, a participações em simpósios, seminários, congressos,
+cursos, minicursos e outros eventos científicos congêneres, desenvolvidos na Faculdade de
+Letras, em outras unidades da UFG, assim como em outras instituições.
+         Para que os certificados de participação, declarações de frequência, diplomas, entre
+outros documentos, sejam válidos, porém, é necessário que essas atividades estejam relacionadas
+direta ou interdisciplinarmente à área de Letras. Ademais, devem ser de nível superior e
+promovidas por instituições públicas ou privadas devidamente reconhecidas. Estabelece-se o
+limite de 20 (vinte) horas, por evento ou natureza de evento para o aproveitamento de atividades
+realizadas fora da UFG, mesmo que no certificado constem mais horas.
+
+
+                                                                                             33
+         A presença em defesas de dissertação de mestrado (2 horas para cada defesa) ou tese
+de doutorado (4 horas para cada defesa), num limite total de 40 (quarenta) horas, poderá ser
+igualmente computada para o cumprimento das atividades complementares. Assim, busca-se
+promover uma maior articulação entre a graduação e a pós-graduação e possibilitar que o
+discente tenha contato com a pesquisa e com a prática acadêmica das arguições públicas. Na
+Coordenação do Curso encontra-se disponível uma tabela discriminando as atividades
+complementares e as respectivas cargas horárias limites para cada uma delas.
+
+
+
+7       POLÍTICA E GESTÃO DE ESTÁGIO CURRICULAR OBRIGATÓRIO E NÃO
+        OBRIGATÓRIO
+
+7.1     Estágio Curricular Obrigatório2
+          A Faculdade de Letras entende que o discente de Letras: Tradução e Interpretação
+em Libras/Português poderá, por meio do estágio, desenvolver habilidades, atitudes e
+competências fundamentais para a atuação profissional, ainda que os cursos de bacharelados
+não sejam regidos pela Resolução CNE/CP 2 (CONSELHO NACIONAL DE EDUCAÇÃO,
+2002a), que estabelece uma carga horária específica de horas a ser dedicada ao estágio
+curricular supervisionado de ensino.
+          Desse modo, o aluno do curso de Letras: Tradução e Interpretação em Libras/Português
+da UFG deverá cursar três disciplinas de estágio supervisionado, distribuídas a partir do 6º
+semestre, sendo elas Estágio em Tradução e Estágio em Interpretação 1 e 2.
+          O estágio supervisionado constitui uma das modalidades de prática a ser realizada
+“sob a forma de uma ação desenvolvida enquanto vivência profissional prolongada,
+sistemática, intencional [e] acompanhada” (FÓRUM DE PRÓ-REITORES DE
+GRADUAÇÃO DAS UNIVERSIDADES BRASILEIRAS, 2002, p. 23). De acordo com a
+Resolução do Conselho de Ensino, Pesquisa, Extensão e Cultura (CEPEC) nº 766/05, o
+estágio visa à preparação para o trabalho produtivo de educandos (UNIVERSIDADE
+FEDERAL DE GOIÁS, 2005). Revela-se como espaço de construção de um profissional que
+tem domínio de sua própria prática e de seu papel social.
+          O estágio curricular obrigatório no curso de Letras: Tradução e Interpretação em
+Libras/Português é concebido não somente como observação e atuação prática. As atividades
+propostas nas disciplinas de estágio possibilitarão condições de os discentes desenvolverem a
+responsabilidade nas ações realizadas, o comprometimento com o trabalho, o aprimoramento
+técnico, o respeito nas relações interpessoais, o senso crítico, a criatividade, sobretudo
+oferecer condições de refletir sobre sua prática, perceber suas próprias deficiências e buscar
+aprimoramento. Para tanto, as atividades de estágio precisam estar em consonância com um
+dos princípios norteadores para a formação profissional: “a aprendizagem deverá ser orientada
+pelo princípio metodológico geral, que pode ser traduzido pela ação-reflexão-ação e que
+aponta a resolução de situações-problema como uma das estratégias didáticas privilegiadas”
+(RESOLUÇÃO CNE/CP Nº 1 DE 2002, ART. 5, INCISO V, PARÁGRAFO ÚNICO).
+          O estágio será realizado em três semestres letivos. Durante o Estágio em Tradução,
+com carga horária de 64h, o aluno aplicará os conhecimentos teóricos adquiridos ao longo do
+curso em momentos práticos de tradução desenvolvidos nos seguintes contextos: literário,
+científico, midiático, técnico e diversos. Para tanto, desenvolverá e aplicará projetos de
+tradução analisando contextos específicos, fatores externos ao texto (emissor, intenção,
+receptor, meio, lugar, tempo, propósito, função textual) e fatores internos ao texto (tema,
+conteúdo, pressuposições, estruturação, elementos não-verbais, léxico, sintaxe, elementos
+supra-segmentais, efeito do texto).
+2
+ Regulamento do estágio da Faculdade de Letras e documentos específicos para a realização do estágio no Curso
+de Letras: Libras como: ficha de frequência do estágio, solicitação de estágio, avaliação, orientações, termo de
+compromisso de estágio, orientações para os trabalhos de estágios.
+
+
+                                                                                                             34
+         O Estágio em Interpretação 1terá carga horária de 128h, sendo que o discente atuará
+como intérprete nos seguintes contextos: comunitário (educacional, médico e jurídico) e de
+conferência (conferências internacionais, palestras, transmissões na televisão, reuniões e
+outros). No Estágio em Interpretação 2, por sua vez, que terá carga horária de 64h, o discente
+atuará como intérprete dentro do contexto social de interpretação (entretenimento, religioso,
+acompanhamento e outros). Na conclusão do Estágio em Tradução será produzido um texto
+traduzido para a Língua Portuguesa ou para a Libras como produto final da disciplina.
+         O momento prático dos estágios realizar-se-á em equipes, em que as funções de
+intérprete atuante, intérprete de apoio e intérprete observador deverão ser exercidas por todos
+os integrantes da equipe. O intérprete atuante é aquele que estará com a responsabilidade de
+intermediar públicos que falam línguas diferentes, neste caso, Libras e Língua Portuguesa.
+         A cada contexto (comunitário, conferência e social) de atuação, a equipe
+desenvolverá um relatório parcial. Na conclusão do estágio em interpretação, será produzido
+um relatório final, contemplando as análises, as reflexões e as experiências vivenciadas.
+         O Estágio feito fora do país poderá ser aproveitado ou reconhecido como estágio
+curricular obrigatório, desde que garantidos os pré-requisitos acadêmicos e documentais e se
+adéquem a proposta acadêmica do presente curso.
+
+
+7.2    Estágio Curricular não Obrigatório
+          O estágio curricular não obrigatório pode ser realizado pelo aluno do curso sem
+prejuízo do desenvolvimento do processo acadêmico. Não se configura como emprego, sendo
+proibido o estabelecimento de vínculos empregatícios, conforme consta na Lei nº 11.788, de
+25 de setembro de 2008 (BRASIL, 2008). Essa modalidade de Estágio poderá ser
+desenvolvida a partir do segundo semestre letivo, durante o decorrer das atividades discentes
+dos alunos do curso de Letras: Tradução e Interpretação em Libras/Português, na modalidade
+presencial, desde que não interfiram no desenvolvimento do Estágio Curricular Obrigatório.
+          Segundo a Resolução CEPEC nº 766, Art. 7º (UNIVERSIDADE FEDERAL DE
+GOIÁS, 2005), a finalidade do Estágio Curricular não obrigatório é ampliar o
+desenvolvimento profissional do discente proporcionando-lhe a aquisição de conhecimentos
+que complementem a sua formação e como cidadão crítico e reflexivo.
+          O estágio curricular não obrigatório poderá abranger atividades ligadas à tradução e à
+interpretação entre o par linguístico Libras e Língua Portuguesa nos contextos social,
+comunitário e de conferência.
+          O estágio curricular obrigatório e o curricular não obrigatório só podem ser realizados
+em empresas/instituições devidamente conveniadas com a UFG ou utilizar-se de agente de
+integração também conveniados com a UFG, ter supervisor no local de estágio, ter orientador do
+estágio, sendo este um professor do curso da UFG. O aluno deverá apresentar relatórios
+semestrais e estar incluído em apólice de seguro que, no caso do estágio obrigatório, é por conta
+da UFG e, para o estágio não obrigatório, é por conta do local de estágio; o estágio sempre deve
+ser iniciado a partir da celebração do Termo de Compromisso e o plano de estágio.
+
+
+
+8      TRABALHO DE CONCLUSÃO DE CURSO
+
+         Para obter o grau de Bacharel em Letras: Tradução e Interpretação em
+Libras/Português, o discente deve realizar um Trabalho de Conclusão de Curso – TCC,
+conforme as orientações específicas. Entende-se por TCC um trabalho acadêmico, realizado
+individualmente, apresentando os resultados de uma pesquisa sobre tema relacionado à sua
+área de formação.
+
+
+                                                                                              35
+         Este trabalho deve ser feito sob a coordenação de um orientador, professor do curso 3,
+a partir de um projeto de pesquisa, previamente elaborado na disciplina de Introdução à
+Pesquisa, responsável pela formação metodológica do estudante.
+         O estudante, no final do curso, em data previamente divulgada pela Coordenação do
+curso de Letras: Tradução e Interpretação em Libras/Português, com a anuência do professor
+orientador, deverá submeter seu TCC à avaliação, entregando uma cópia digital à
+Coordenação de TCC e, posteriormente, apresentando-o em sessão pública organizada pela
+Faculdade de Letras/UFG para esta finalidade. Cada professor orientador deverá coordenar as
+sessões de apresentação de seus orientandos.
+         Após a apresentação do TCC, o aluno terá um prazo de até 30 dias para
+reencaminhar à Coordenação de TCC uma cópia digital da versão final do seu trabalho, com
+as modificações necessárias.
+         Serão concedidas horas de Atividade Complementar aos alunos da Faculdade de Letras
+que participarem das sessões públicas de apresentação dos TCC da Faculdade de Letras.
+
+
+
+9       INTEGRAÇÃO ENSINO, PESQUISA E EXTENSÃO
+
+          O Estatuto e Regimento da UFG (1996, p. 22-23), ao tratar do regime didático-
+científico, determina a indissociabilidade entre ensino, pesquisa e extensão, esclarecendo:
+                           Art. 54. O Ensino [...] será ministrado mediante a realização de cursos e outras
+                           atividades didáticas, curriculares e extracurriculares [...].
+                           Art. 60. A pesquisa, assegurada a liberdade de temas, terá por objetivo produzir,
+                           criticar e difundir conhecimentos culturais, artísticos, científicos e tecnológicos. [...]
+                           Art. 62. A extensão terá como objetivo intensificar relações transformadoras entre a
+                           Universidade e a Sociedade, por meio de um processo educativo, cultural e
+                           científico.
+        Assim, a Faculdade de Letras busca a compreensão rigorosa dos métodos envolvidos
+na produção e na comunicação dos saberes, articulando as três pontas desse tripé,
+considerando o que consta no Plano Nacional de Graduação (PNG), elaborado pelo Fórum de
+Pró-Reitores de Graduação das Universidades Brasileiras (2002, p. 10):
+                           Ensino com extensão aponta para a formação contextualizada às agudas questões da
+                           sociedade contemporânea. Ensino com pesquisa aponta para o verdadeiro domínio dos
+                           instrumentos nos quais cada profissão se expressa, em seu próprio processo evolutivo.
+         As atividades de extensão da Faculdade de Letras originam-se na pesquisa e no
+ensino e estendem-se ao público acadêmico, buscando envolver a sociedade em geral. As
+ações compreendem palestras, conferências, seminários, colóquios, simpósios e cursos, com a
+participação de especialistas da própria instituição, assim como de outras universidades ou
+demais entidades brasileiras e estrangeiras.
+         A formação do tradutor e intérprete de Libras/Português está pautada em
+experiências em diferentes contextos, como mencionado anteriormente. Sendo assim, as
+atividades de ensino compreendem a participação nas aulas teóricas e momentos práticos em
+um laboratório de tradução e interpretação e na Prática como Componente Curricular (PCC).
+         Como parte de sua política de extensão na formação do tradutor e intérprete de
+Libras/ Português, a Faculdade de Letras objetiva criar uma central de tradução e
+interpretação em Libras/Português no modelo de uma “empresa júnior”, onde serão ofertados
+serviços diversos de tradução e interpretação à comunidade universitária e à comunidade em
+geral.Pretende-se, com essa central, tornar-se referência em atividades de tradução e
+interpretação em Libras/Português no Estado de Goiás, privilegiado campo de estágio para os
+alunos do curso de Letras: Tradução e Interpretação em Libras/Português.
+
+3
+ Admitir-se-á a orientação feita por professores de outros cursos da Universidade Federal de Goiás, mediante
+acordo firmado entre coordenação de curso e coordenação de TCC do Curso de Letras: Tradução e Interpretação
+em Libras/Português.
+
+
+                                                                                                                  36
+         No que se refere à pesquisa, vista como princípio educativo e não apenas como
+princípio científico, observa-se uma articulação cada vez maior entre a graduação e a pós-
+graduação. Alunos da graduação podem participar de projetos de pesquisa e atividades da
+pós-graduação da UFG. Os resultados dessas atividades e projetos poderão ser apresentados
+durante o Colóquio Nacional de Letras e Colóquio de Pesquisa e Extensão da Faculdade de
+Letras/UFG, realizado anualmente por ocasião da Semana do Calouro.
+         Dessa forma, procura-se superar o processo de ensino fragmentado, privilegiando
+ações integradas, nas quais a pesquisa é encarada como instrumento do ensino e a extensão
+como ponto de partida e de chegada da apreensão da realidade.
+
+
+
+10     SISTEMA DE AVALIAÇÃO                      DO     PROCESSO           DE      ENSINO        E     DE
+       APRENDIZAGEM
+         A avaliação do discente deve servir não só para medir seu desempenho acadêmico,
+mas, sobretudo, para sustentar um desempenho satisfatório. O processo avaliativo tem um
+importante papel na qualidade do aprendizado. Dessa forma, o crescimento intelectual do
+aluno, ao longo do curso, e todo esforço de sua parte devem ser incentivados e valorizados,
+considerando-se os objetivos de cada etapa do processo de formação, ressaltando as
+qualidades desenvolvidas, apontando-se as insuficiências observadas.
+
+         O sistema de avaliação não deve incidir sobre elementos a serem memorizados, mas
+na verificação das capacidades de refletir sobre os fatos de linguagem, de questioná-los e de
+(re)construí-los dos pontos de vista científico, metodológico e político. Assim, a avaliação
+deve ser formativa, objetivando a regulação das aprendizagens, estimulando a participação
+dos autores do processo, sob a ótica das aprendizagens significativas. Avaliação, ensino e
+aprendizagem devem estar integrados, de modo a permitir o constante reajuste do processo de
+ensino pautado no diálogo.
+         Conforme menciona Esteban (2004), o momento da avaliação não visa a fazer
+julgamentos sobre a aprendizagem do aluno, pelo contrário, procura perceber o que o aluno
+sabe, os caminhos por ele percorridos para atingir tal aprendizado, o processo de construção
+desse conhecimento, o que ele ainda não sabe e o que é necessário para que ele venha a saber.
+         O professor deve estar atento para reconhecer e assumir o potencial e as necessidades
+do aluno, bem como a diversidade cultural e social presente na universidade e na sociedade,
+não excluindo pela diferença, mas, pelo contrário, valorizando-a. Diante disso, a avaliação
+deve constituir-se
+                       um processo que considere as idiossincrasias e interesses específicos dos alunos, ao
+                       mesmo tempo em que respeite suas possibilidades intelectuais e sociais, além
+                       daquelas relativas ao tempo necessário para realizá-la. (FORGRAD, 2002, p. 111)
+        No que se refere ao aspecto quantitativo da avaliação do desempenho, esse projeto
+obedece ao que está previsto no RGCG da UFG.
+
+
+
+11     SISTEMA DE AVALIAÇÃO DO PROJETO DO CURSO                                               LETRAS:
+       TRADUÇÃO E INTERPRETAÇÃO EM LIBRAS/PORTUGUÊS
+         A fim de propiciar o aperfeiçoamento contínuo e o crescimento qualitativo do curso,
+atribui-se ao Núcleo Docente Estruturante (NDE) a sistematização da avaliação do projeto
+pedagógico do curso e apresentação de propostas para serem apreciadas pelo Conselho
+Diretor da Faculdade de Letras.
+
+
+                                                                                                        37
+         A Faculdade de Letras tem incentivado a participação de seus docentes no sistema de
+avaliação externa. Essas atividades revertem em contribuição para o aperfeiçoamento da
+concepção e objetivos delineados no projeto, assim como para o perfil do profissional que se
+pretende formar.
+         Nesse sentido, estabeleceu-se que, no final de cada dois semestres letivos, o NDE
+organizará reunião com todos os professores do curso, com vistas à discussão sobre a
+coerência das atividades desenvolvidas no período. Desta forma, tanto as atividades
+desenvolvidas, quanto o projeto do curso, periodicamente, serão avaliados internamente pelos
+professores, convocados pelo NDE e as alterações que forem julgadas necessárias serão feitas.
+         No que concerne à avaliação do curso, tomar-se-á por instrumento a metodologia
+proposta pela Pró-Reitoria de Desenvolvimento e Recursos Humanos, que prevê a designação
+de uma comissão na Unidade Acadêmica para realizar com sistematicidade avaliações do
+curso, levando-se em conta aspectos pedagógicos e de infra-estrutura, por meio de
+questionários respondidos por alunos, professores e técnicos administrativos.
+         Estão previstas reuniões para análise das avaliações e planejamento estratégico para
+superar problemas e atingir metas de qualidade acadêmica.
+
+
+
+12     POLÍTICA DE QUALIFICAÇÃO                          DOCENTE           E     DO      TÉCNICO-
+       ADMINISTRATIVO
+
+         A Faculdade de Letras tem manifestado uma preocupação constante com a
+qualificação de seus formadores, de modo a atender à exigência da legislação em vigor quanto
+ao novo perfil do docente:
+
+                       Um perfil que passa necessariamente, pela formação científica do professor na sua
+                       área de conhecimento, preferentemente no nível do doutorado, pelo conhecimento
+                       do complexo processo histórico de constituição de sua área, pela compreensão
+                       ampla e crítica dos métodos que produziram o conhecimento acumulado naquela
+                       especificidade, de modo a iniciar todo aluno aos fundamentos e aos métodos que
+                       produziram e produzem aquela ciência (FÓRUM DE PRÓ-REITORES DE
+                       GRADUAÇÃO DAS UNIVERSIDADES BRASILEIRAS, 2002, p. 22).
+
+
+          Seja por meio de autorização de afastamento para qualificação ou redução da carga
+horária dedicada ao ensino e demais atividades acadêmicas e administrativas, tem sido
+possibilitada a formação científica do professor na sua área de conhecimento (estudos
+linguísticos ou estudos da tradução).
+          Por meio de concessão de passagens aéreas e diárias, quando possível, tem sido
+estimulada a participação dos docentes, com apresentação de trabalho em eventos científicos
+como congressos, seminários ou congêneres. Nessas ocasiões, os professores da unidade têm
+oportunidade, tanto de adquirir novos conhecimentos, atualizando-se, como de divulgar os
+conhecimentos construídos na instituição.
+          No que se refere à qualificação do pessoal técnico-administrativo, a Faculdade de
+Letras tem possibilitado uma adequação no horário, entre os funcionários, de modo a
+viabilizar a realização de cursos de aperfeiçoamento. Ressalte-se também que a administração
+central da UFG tem uma política proativa de qualificação dos servidores.
+
+
+
+                                                                                                     38
+13     REQUISITOS LEGAIS E NORMATIVOS
+
+13.1   Diretrizes Curriculares Nacionais para Educação das Relações Étnico-raciais e
+       para o Ensino de História e Cultura Afro-brasileira e Indígena (Lei nº 11.645, de
+       10/03/2008, e Resolução CNE/CP nº 01, de 17 de junho de 2004); Diretrizes
+       Nacionais para Educação em Direitos Humanos (Parecer CNE/CP nº 8, de
+       06/03/2012, Resolução CNE/CP nº 1, de 30/05/2012) e Políticas de educação
+       ambiental (Lei n 9.795, de 27/04/1999 e Decreto n° 4.281, de 25/06/2002)
+         Atendendo ao que dispõe a legislação e dando continuidade ao que se desenvolve na
+Faculdade de Letras, este projeto busca superar a dicotomia teoria/prática, prevendo
+componentes curriculares articuladores da relação entre teoria e prática e entre ensino e
+pesquisa, ao longo da formação do aluno, nas diversas etapas do processo.
+         Ressalta-se a realização da Prática como Componente Curricular (PCC), ao longo do
+curso, obrigatória a cada ano, conforme detalhado no item VI. As PCCs apresentam conexão
+com as diversas disciplinas, tanto do Núcleo Comum como do Núcleo Específico, envolvendo
+todo o corpo docente da unidade. Atende-se, assim, a exigência de se “incorporar outras
+formas de aprendizagem e formação presentes na realidade social” (FORGRAD, 2000, p.
+110-111). Dessa forma, conteúdos que envolvem questões indígenas, sócio-ambientais e
+afrodescendentes podem ser correlacionados com a formação do profissional de Letras:
+Tradução e Interpretação em Libras/Português. Esses conteúdos também são contemplados na
+disciplina optativa Conceitos de Preservação Ambiental nas Literaturas de Tradição Oral de
+Culturas Indígenas e Africanas.
+         Tem-se em mente o que determinam as Diretrizes curriculares para os cursos de
+Letras(CONSELHO NACIONAL DE EDUCAÇÃO, 2001a):
+                      [Os estudos linguísticos e literários] devem articular a reflexão teórico-crítica com
+                      os domínios da prática – essenciais aos profissionais de Letras, de modo a dar
+                      prioridade à abordagem intercultural, que concebe a diferença como valor
+                      antropológico e como forma de desenvolver o espírito crítico frente à realidade.
+
+
+13.2   Proteção dos direitos da Pessoa com Transtorno do Espectro Autista (Lei nº
+       12.764, de 27 de dezembro de 2012)
+         O curso contempla o atendimento a e a proteção dos direitos da pessoa com
+Transtorno do Espectro Autista, conforme previsto em Lei, por meio de parceria com o
+Núcleo de Acessibilidade. Dentre as diversas ações do Núcleo de Acessibilidade, estão
+previstos o atendimento ao aluno, bem como orientação e capacitação ao corpo docente.
+         O Núcleo de Acessibilidade da UFG foi criado em 2008 e tem como objetivo propor
+e viabilizar uma educação superior inclusiva aos estudantes com deficiência física, visual,
+auditiva, intelectual, com transtornos globais do desenvolvimento e altas
+habilidade/superdotação, por meio de apoios diversos para a eliminação de barreiras
+atitudinais, arquitetônicas, pedagógicas e de comunicação, buscando seu ingresso, acesso e
+permanência, favorecendo a aprendizagem, no ambiente universitário.
+         Tem-se como foco o respeito às diferenças, buscando a formação e a sensibilização
+da comunidade acadêmica, a aquisição de recursos e tecnologias assistivas para o acesso a
+todos os espaços, ambientes, ações e processos educativos desenvolvidos na instituição.
+         As diversas ações do Núcleo de acessibilidade seguem os eixos da Política de
+Acessibilidade da UFG, sendo eles:
+
+Eixo 1 – Acessibilidade: Inclusão e permanência
+        Programa de controle e aprimoramento dos procedimentos de Processos Seletivos da
+UFG e ENEM, e política de assistência estudantil específica para os alunos com deficiência
+e/ou necessidades educacionais especiais.
+
+
+                                                                                                        39
+Eixo 2 – A Infraestrutura Acessível
+        Programa de construção, reforma, ampliação e/ou adaptação das instalações físicas e
+equipamentos da UFG, conforme os princípios do desenho universal.
+
+Eixo 3 – A Acessibilidade Pedagógica e Curricular
+         Projetos e programas que visem à promoção da acessibilidade ao currículo e as ações
+didáticos pedagógicas, inclusive com Atendimento Educacional Especializado e apoio
+acadêmico, favorecendo a aprendizagem.
+
+Eixo 4 – A Acessibilidade Comunicacional e Informacional
+        Implementação do Laboratório de Acessibilidade Informacional (LAI) nas
+Regionais, para oferecimento de tecnologia assistiva e adequação de material pedagógico.
+Melhorar a acessibilidade aos sites da UFG. Garantir a Acessibilidade Comunicacional, por
+exemplo, com interpretação em libras.
+
+Eixo 5 - A Catalogação das Informações sobre Acessibilidade
+         Implementação de um sistema de informação centralizado com as informações da
+acessibilidade na UFG.
+
+Eixo 6 – O Ensino, a Pesquisa e a Inovação em Acessibilidade
+         Programas de ensino e/ou pesquisa inovadoras que possibilitem a qualificação e
+sensibilização da comunidade universitária e unidades acadêmicas sobre acessibilidade e
+direitos das pessoas com deficiência, e/ou a produção de conhecimentos, produtos,
+metodologias, processos e técnicas que contribuam para acessibilidade das pessoas com
+deficiência.
+
+Eixo 7 – A Extensão sobre/com Acessibilidade
+          Realização de atividades extensionistas e eventos acadêmicos, esportivos, culturais,
+artísticos e de lazer sobre acessibilidade e/ou de forma acessível às pessoas com deficiência
+e/ou necessidades especiais.
+
+Eixo 8 – Recursos Humanos e Financiamento da Política de Acessibilidade
+         Definição da política de recursos humanos e mecanismos de financiamento e
+captação de recursos financeiros para a implantação e implementação da política de
+acessibilidade da UFG.
+
+
+
+14     O PROFISSIONAL TRADUTOR E INTÉRPRETE DE LIBRAS NO QUADRO
+       ESTRUTURANTE DO CURSO
+
+          O curso de Letras: Tradução e Interpretação em Libras/Português tem por natureza a
+formação de profissionais para viabilizar a interação entre surdos e ouvintes. Contudo, o perfil
+exigido para ingresso no curso não prevê a fluência em Libras. Desta forma, é de suma
+importância a presença de tradutores e intérpretes de Libras/Português para que as ações, a
+seguir, sejam executadas:
+           traduzir/interpretar mensagens e informações da língua portuguesa oral para a
+            Libras e vice-versa em disciplinas, quando solicitados pelos professores do curso;
+
+
+                                                                                             40
+         interpretar reuniões em todas as necessidades pedagógicas do curso (reuniões de
+          Área, de Departamento, de Conselho Diretor, de Câmara de Graduação, de
+          Congregação, entre outras) ligadas à instituição;
+         interpretar eventos/atividades acadêmicas relacionados a docentes e discentes da
+          faculdade como congressos, encontros, colóquios, ciclos de debates, seminários,
+          defesa de dissertações e teses (mestrado e doutorado), bancas de processo seletivo
+          para professores da UFG;
+         traduzir para a Libras, provas e enunciados de trabalhos quando solicitados pelos
+          professores;
+         intermediar a comunicação dos alunos surdos e/ou ouvintes com os professores,
+          colegas e demais funcionários ouvintes e/ou surdos da instituição;
+         dar suporte aos professores na compreensão da diversidade linguística e cultural
+          dos alunos surdos;
+         estudar previamente todos os materiais utilizados nas aulas em que o trabalho do
+          tradutor/intérprete for solicitado;
+         mediar a comunicação do aluno e do professor (surdos ou ouvintes), quando
+          solicitado, na interpretação de situações de interação acadêmica dentro ou fora da
+          sala de aula;
+         observar e orientar, quando necessário, na adequação da estrutura física da sala de
+          aula (espaço, iluminação e acústica), bem como a forma de exposição por parte do
+          professor e disposição dos alunos em sala;
+         acompanhar o(a) coordenador(a), quando este(a) for surdo(a) em todas as
+          reuniões;
+         traduzir para a Libras divulgação de eventos da Faculdade de Letras para serem
+          postados na página do evento;
+         traduzir materiais pedagógicos do curso;
+         outros, a depender da demanda.
+
+         Para que o trabalho realizado pelos profissionais de tradução e interpretação de
+línguas de sinais seja realizado dentro dos padrões de saúde motora e cognitiva, salientamos
+que ele deve ser feito em duplas com tempo de atuação de aproximadamente 30 minutos,
+intercalados pela dupla, propiciando qualidade interpretativa da informação transmitida.
+Segundo estudos publicados, esse tempo ininterrupto de interpretação é o limite para manter a
+qualidade da atividade cognitiva do intérprete.
+         Após o tempo de 20 minutos ou 30 minutos, o processo mental que é dispensado a
+essa atividade começa apresentar sinais de comprometimento da informação repassada para a
+outra língua (BABINNI, 1976; BRASEL, 1976 citado por GABRIAN e WILLIAMS, 2009).
+Esclarecemos que, no trabalho em dupla, o intérprete que não está no ato interpretativo
+automaticamente fica em posição de apoio, auxiliando em terminologia específica, citações de
+autores e nomenclaturas, perda de sentidos que ocorram em decorrência de ruídos ou
+interferências externas, entre outros. O intérprete de apoio se localiza à frente ou ao lado do
+intérprete atuante, dependendo da modalidade de interpretação - interpretação do português
+oral para a Libras ou interpretação inversa – voz.
+
+
+
+15     LABORATÓRIO DE TRADUÇÃO E INTERPRETAÇÃO
+
+         Esta seção especifica uma das infraestruturas necessárias ao funcionamento do curso
+Letras: Tradução e Interpretação em Libras/Português, o laboratório de tradução e
+interpretação, específico para a formação do profissional tradutor e intérprete.
+
+
+
+                                                                                            41
+          A área da tecnologia e o campo disciplinar formado pelos Estudos da Tradução e da
+Interpretação, especialmente aplicados às línguas Libras/Português, prescindem de espaços
+tecnológicos específicos de ensino aprendizagem na formação de tradutores e intérpretes. O
+Laboratório de tradução e interpretação é um espaço específico do curso que tem por objetivo
+oportunizar o desenvolvimento da competência tradutória através de práticas que utilizem
+soluções e ferramentas tecnológicas. Além do aluno(a) egresso(a) aprender a utilizar a tecnologia
+aplicada ao trabalho de traduzir e interpretar, o laboratório é um dos principais ambientes de
+ensino aprendizagem do curso Letras: Tradução e Interpretação em Libras/Português.
+          O curso Letras Tradução e Interpretação em Libras/Português prevê em sua matriz
+curricular, disciplinas prática, tais como: (1) Laboratório de Tradução e Interpretação, (2)
+Laboratórios de Tradução, (3) Laboratório de Interpretação 1, (4) Laboratório de Interpretação
+2, (5) Tecnologia na Tradução e Interpretação, (6) Estágio em Tradução, (7) Estágio em
+Interpretação 1 e (8) Estágio em Interpretação 2. Para além das disciplinas específicas
+supracitadas, outras disciplinas como as de língua (Libras Básico 1 e 2; Libras Intermediário 1
+e 2 e Libras Avançado 1 e 3; Língua Portuguesa 1 e 2) e as de análise de línguas (Estudos
+Linguísticos 1, 2 e 3) poderão desenvolver suas práticas nesse laboratório. Este documento
+prevê alunos ingressantes sem proficiência na Libras. As modalidades: gesto-visual (da
+Língua de Sinais) e a oral-auditiva (do Português Brasileiro) torna imprescindível à formação
+de tradutores e intérpretes interlinguais, intersemióticos e intermodais. Sendo assim, o uso de
+som e de imagens de vídeo, ambos capturados e armazenados pela tecnologia bem como, as
+ferramentas de manipulação de vídeos, de imagens, de áudio e de textos escritos são
+tecnologias que associadas a metodologias de ensino, resultam na aquisição da competência
+tradutória exigida do aluno egresso (a). Assim, o currículo do curso, do ingresso à conclusão,
+torna imprescindível a presença do laboratório de tradução e interpretação.
+          Diversas metodologias são implementadas ao longo do curso com vistas a atingir o
+desenvolvimento de múltiplas competências e habilidades do egresso (a). As aulas no
+laboratório de tradução e interpretação envolvem processos de ensino aprendizagem tais
+como: a prática da tradução (projetos de tradução, prognósticos de interpretação), estudos das
+ferramentas de apoio à tradução, estudo e discussão dos diferentes contextos de atuação nas
+produções traduzidas e interpretadas, análises e revisões das traduções, interpretações e
+versões produzidas e ainda, práticas de compreensão e expressão de língua.
+          O ambiente de aula no laboratório conta com softwares que associam as estações de
+trabalho dos alunos e do professor. Assim, além de desenvolver as atividades práticas, os
+alunos têm o acompanhamento do professor de forma on-line e individualizada. As propostas
+de atividades práticas são realizadas durante a aula e as produções dos alunos armazenadas e
+disponibilizadas na estação de trabalho do professor que poderá avaliar em conjunto com o
+aluno, durante a aula.
+          A figura a seguir, apresenta a arquitetura do sistema que gerencia as atividades
+desenvolvidas no laboratório de tradução e interpretação durante as aulas de laboratório.
+
+
+
+
+                                                                                              42
+         Desta forma, o laboratório de tradução e interpretação em Libras/Português é uma
+ferramenta de base tecnológica que auxilia os alunos a treinarem suas habilidades a fim de
+constituir a competência tradutória ao proporcionar momentos práticos em que os graduandos
+desenvolvam as técnicas de tradução e interpretação por gravarem áudios e vídeos em
+sincronia com arquivos de estímulo. Além disso, viabiliza a análise e a avaliação dos
+professores sobre os produtos das traduções e interpretações realizadas em aula.
+
+
+
+16     CONSIDERAÇÕES FINAIS
+
+          Acredita-se que, por intermédio do ensino dos conteúdos programáticos desenvolvidos
+em cada disciplina, segundo a estrutura curricular e ementas propostas; da promoção das demais
+atividades acadêmicas; da atenção conferida à capacidade de reflexão, questionamento e
+construção do conhecimento, o curso de Letras: Tradução e Interpretação em Libras/Português da
+UFG possa formar profissionais que desenvolvam sua capacidade intelectiva e criativa por meio
+da linguagem, considerada nas suas múltiplas funções, apreendida na diversidade das línguas e
+nas diversas práticas de tradução e interpretação. Para tanto, terão contribuído, igualmente, a
+articulação entre a teoria e prática, incentivada ao longo da formação, a ênfase na
+interdisciplinaridade e a indissociabilidade entre ensino, pesquisa e extensão.
+          Espera-se que, dessa forma, se possam formar profissionais que apresentem uma
+atitude investigativa diante dos fatos da linguagem; que constituam sujeitos ativos capazes de
+transformar o mundo; que reconheçam e valorizem a diversidade; que propaguem valores
+humanistas. Esses egressos estarão preparados para atuar nos diversos contextos linguísticos
+que envolvam a Libras e o Português, ampliando o direito e os espaços para os surdos,
+reduzindo suas diferenças na sociedade brasileira.
+
+
+
+17     REFERÊNCIAS
+
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Lei nº 10.436, de 24 de
+abril de 2002. Dispõe sobre a Língua Brasileira de Sinais – LIBRAS e dá outras providências.
+BRASIL. Ministério da Educação. Secretaria de Educação Especial. Decreto no 5.626, de 22
+de dezembro de 2005. Regulamenta a Lei nº 10.436, de 24 de abril de 2002.
+BRASIL. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos. Lei nº 11.788,
+de 25 de dezembro de 2008. Dispõe sobre o estágio de estudantes e dá outras providências.
+CANÁRIO, R. A prática profissional na formação de professores. In: Anais do V Seminário
+fala outra escola. Campinas/SP: Unicamp, 2010. Disponível em: www.fe.unicamp.br/
+falaoutraescola/resumos.html. Acesso em: 23 set 2011.
+CONSELHO NACIONAL DE EDUCAÇÃO. Diretrizes curriculares para os cursos de Letras.
+Parecer CNE/CES 492/2001a.
+CONSELHO NACIONAL DE EDUCAÇÃO. Parecer CNE/CP 28/2001b.
+CONSELHO NACIONAL DE EDUCAÇÃO. Parecer CNE/CES 1363/2001c.
+CONSELHO NACIONAL DE EDUCAÇÃO. Conselho Pleno. Resolução CNE/CP 2, de 19
+de fevereiro de 2002a.
+CONSELHO NACIONAL DE EDUCAÇÃO. Câmara de Educação Superior. Resolução
+CNE/CES 18, de 13 de março de 2002b.
+CONSELHO NACIONAL DE EDUCAÇÃO. Conselho Pleno. Resolução CNE/CP 1, de 18
+de fevereiro de 2002c.
+FELIPE, T. A. Políticas públicas para a inserção da LIBRAS na educação de surdos. In:Espaço:
+informativo técnico-científico do INES. nº 25 (jan/jun 2006) - Rio de Janeiro: INES, 2006.
+
+
+                                                                                            43
+FIORIN, J. L. Curso de Letras: Desafios e perspectivas para o próximo milênio. In: Seminário
+Nacional de Literatura e Crítica 4, Seminário Nacional de Linguística e Língua Portuguesa 2,
+1999, Goiânia. Anais. Goiânia: Gráfica e Editora Vieira, 2001. p. 13-21.
+FORGRAD. O currículo como expressão do projeto pedagógico: um processo flexível (2000).
+In: FORGRAD. Resgatando espaços e construindo ideias. Niterói: Eduff, 2000. p. 103-116.
+FÓRUM DE PRÓ-REITORES DE GRADUAÇÃO DAS UNIVERSIDADES
+BRASILEIRAS. Diretrizes para a formação de professores: concepções e implementação.
+João Pessoa, 2002.
+GOLDFELD, M. A. Criança surda: linguagem e cognição numa perspectiva
+sóciointeracionista. São Paulo: Plexus, 1997.
+LDB. Lei de Diretrizes e Bases da Educação Nacional, no 9394/96. Disponível em:
+<http://www.unifesp.br/reitoria/reforma/ldb.pdf>. Acesso em: 22 nov. 2008.
+MAZZOTTA, M. J. S. Educação Especial no Brasil: história e políticas públicas. São Paulo:
+Cortez Editor, 2001.
+PAIVA, V. L. M. O. Estágio do curso de Letras. Mensagem para a CVL (Comunidade Virtual
+da Linguagem), encaminhada em 9 mar 2003. Mensagem em: 17 mar 2003.
+PAIVA, V. L. M. O. O novo perfil dos cursos de licenciatura em Letras. s/d.
+QUADROS, R. M. O impacto das políticas públicas na educação bilíngue (Libras e
+Português). In: 32 ARIC, Florianópolis: UFSC, 2009. v. 1. p. 1-10.
+QUADROS, R. M. Políticas linguísticas e bilinguismo na educação de surdos brasileiros. In:
+Ana M. Carvalho. (Org.). Linguística luso-brasileira. 1ed. Madrid: Iberoamericana Editorial
+Vervuert, 2009, v. 2, p. 215-235.
+QUADROS, R. M.; PATERNO, U. Políticas linguísticas: o impacto do decreto 5626 para os
+surdos brasileiros. In:Espaço: informativo técnico-científico do INES. nº 25 (jan/jun 2006) -
+Rio de Janeiro: INES, 2006.
+QUADROS, R. M. Desenvolvimento linguístico e educação de surdos. 1. ed. Santa Maria: UFSM -
+MEC, 2006. v. 1. 64p.
+QUADROS, R. M.; HEBERLE, V. Curso de Letras/Licenciatura com habilitação em língua
+brasileira de sinais: inclusão nas universidades públicas brasileiras. In: Desafios da Educação
+à Distância na Formação de Professores. 1 ed. Brasília: Ministério da Educação – Governo
+Federal, 2006, v. 1, p. 87-92.
+SACKS, O. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo: Companhia das
+Letras, 1999.
+SASSAKI, R. K. Inclusão: construindo uma sociedade para todos. Rio de Janeiro: WVA, 1997.
+SKILIAR, C. Uma perspectiva sócio-histórica sobre a psicologia e a educação dos surdos. In:
+SKILIAR, C. Educação e exclusão. Porto Alegre Ed. Medição,1997.
+SOARES, M. A. L. A Educação do Surdo no Brasil. Campinas, SP: Autores Associados,
+EDUSF, 1999.
+UNIVERSIDADE FEDERAL DE GOIÁS. Estatuto e Regimento. Goiânia: Gráfica da UFG, 1996.
+UNIVERSIDADE FEDERAL DE GOIÁS. Regulamento Geral dos Cursos de Graduação.
+Goiânia: Gráfica da UFG, 2002a.
+UNIVERSIDADE FEDERAL DE GOIÁS. Resolução CEPEC no 631, de 14 de outubro de
+2003. Define a política da UFG para a Formação de Professores da Educação Básica.
+UNIVERSIDADE FEDERAL DE GOIÁS. Resolução CEPEC no 766, de 6 de dezembro de
+2005. Disciplina os estágios curriculares obrigatórios e não obrigatórios dos Cursos de
+Bacharelado e Específicos da Profissão na Universidade Federal de Goiás, 2005.
+
+                                              *
+
+
+                                                                                            44
+

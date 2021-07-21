@@ -1,0 +1,3415 @@
+              MINISTÉRIO DA EDUCAÇÃO
+          UNIVERSIDADE FEDERAL DE GOIÁS
+             FACULDADE DE EDUCAÇÃO
+            Coordenação do Curso de Psicologia
+
+
+
+
+           PROJETO PEDAGÓGICO
+ DO CURSO DE GRADUAÇÃO EM PSICOLOGIA
+
+
+GRAU ACADÊMICO:​ ​BACHARELADO (Específico da
+              profissão – psicólogo)
+
+
+
+
+                       GOIÂNIA
+                    Dezembro/2014
+                                                                                 1
+
+I- Apresentação do projeto
+
+a) Área de Conhecimento: Psicologia
+b) Modalidade: Presencial
+c) Nome do curso: Psicologia
+d) Grau acadêmico: Bacharelado (Específico da profissão – psicólogo)
+e) Título a ser conferido: Psicólogo
+f) Ênfases: Processos Psicossociais; Processos Clínicos
+g) Unidade responsável: Faculdade de Educação – Campus Colemar Natal e Silva
+h) Carga Horária do curso
+       Bacharelado (Específico da profissão - Formação do Psicólogo): 4856h
+i) Turno do funcionamento: Integral – vespertino e noturno
+j) Número de vagas: 35/ano
+k) D​uração do curso em semestres (quantidade mínima e máxima em
+conformidade com a Resolução CNE/CES nº 02, de 18 de junho de 2007):
+       Mínimo de 10 semestres
+       Máximo de 15 semestres
+m) Forma de ingresso ao curso: ENEM/Sisu
+
+
+       O atual projeto do curso de Psicologia do Campus Colemar Natal e Silva da
+UFG foi elaborado por uma Comissão de Professores da área de Psicologia da
+Faculdade de Educação/UFG, designada para esse fim. Essa comissão estruturou o seu
+trabalho a partir da reformulação do PPC aprovado em 2006 (Resolução CEPEC Nº
+833, revogada pelas Resoluções Nº 952 e 953 de 2009) e elaborou a presente proposta
+pedagógica do curso referenciada pelos seguintes documentos:
+       Lei de Diretrizes e Bases da Educação Nacional – LDB (Lei 9.394/96);
+Resolução CNE/CES Nº 2/2007, que versa sobre a carga horária mínima dos cursos de
+graduação, bacharelados, na modalidade presencial;
+       Resolução – CONSUNI/CEPEC N° 16/2006, que cria o Curso de Graduação em
+Psicologia na UFG; 2006,
+       Resoluções que fixam o currículo do curso: Resoluções CEPEC Nº 952 e
+953/2009;
+                                                                                2
+
+      Diretrizes Nacionais Curriculares para o Curso de Graduação em Psicologia
+(Resolução CNE/CES Nº. 5/2011); Projeto Político Pedagógico da Faculdade de
+Educação/UFG;
+      Plano de Desenvolvimento Institucional; Regimento Geral dos Cursos de
+Graduação da UFG (​Resolução – CEPEC nº 1122/2012);
+      Resolução sobre o funcionamento do NDE na UFG (Resolução - CEPEC
+Nº 1302/2014).
+      O curso de Psicologia possui uma única entrada anual e é ofertado em
+dois graus acadêmicos, Bacharelado e Licenciatura, sendo que a opção por
+fazer a Licenciatura deve ser feita ao final do 2º período do curso. Isto porque,
+conforme determina a Resolução CNE/CES Nº 5/2011 que institui as Diretrizes
+Nacionais Curriculares para o Curso de Graduação em Psicologia, a formação
+em Licenciatura deve se dar de modo complementar à formação do Bacharel,
+grau acadêmico no qual se dá a formação e habilitação em Psicologia. No
+Sistema Acadêmico da UFG - Campus de Goiânia – o curso encontra-se
+cadastrado em duas matrizes curriculares: 1) Bacharel - Psicólogo; 2) Bacharel
+e Licenciado - Psicólogo e Professor de Psicologia.
+      O presente PPC refere-se à estrutura pedagógica e curricular do Curso
+de Psicologia, e aos princípios acadêmicos e políticos que o norteiam, em seu
+grau acadêmico de Bacharelado e deverá ser seguido pelo PPC complementar
+de Licenciatura.
+
+
+
+
+II- Exposição dos motivos
+
+
+      O curso de Psicologia da UFG foi criado foi criado por meio da resolução do
+CONSUNI N°.14/2005, aprovada em 31 de maio de 2005, para ingresso a partir do
+primeiro    semestre de 2006   e teve    seu   currículo   fixado   pela Resolução
+CONSUNI/CEPEC Nº. 16/2006, alterada posteriormente pelas Resoluções Nº. 952 e
+953/2009.
+      A criação do curso teve como uma das motivações o reduzido número de vagas
+públicas para o curso de Psicologia na região Centro-Oeste e imediações. Também
+                                                                                     3
+
+levou-se em conta o crescente incremento de vagas em instituições particulares de
+ensino. Nesse sentido, o Projeto Pedagógico do Curso (PPC) foi elaborado tendo em
+vista o princípio formativo que deve pautar uma Universidade pública, ou seja, estar
+sempre atento em seu processo formativo às necessidades complexas da sociedade, mas
+posicionando-se criticamente frente às ingerências mercadológicas imediatas e externas.
+       O curso pretende oferecer uma formação sólida, rigorosa e consistente que dê
+condições para seus alunos, no transcorrer do curso e no futuro como pesquisadores e
+profissionais, enfrentarem de forma consciente e crítica as vicissitudes do indivíduo
+emergentes na Sociedade Brasileira, sem esquecer as demandas regionais de
+intervenção humana, social e profissional em Psicologia.
+       Assim, buscando nortear-se por esses princípios, no decorrer do período de seu
+funcionamento, o curso de Psicologia tem se submetido a avaliações externas e internas,
+nas quais tem demonstrado sua qualidade e potencialidade formativa. Externamente, o
+curso foi avaliado em 2009, pelo INEP, com nota cinco (5), e já passou por dois
+processos de avaliação do ENADE, tendo obtido nota cinco (5), em 2009, e nota quatro
+(4), em 2012. Não obstante, no processo de avaliação interna, coordenado pelas
+comissões de NDE (Núcleo Docente Estruturante) de Bacharelado e de Licenciatura,
+tem se levantado a necessidade de se atualizar o projeto do curso. Isto porque,
+considerando que o PPC de Psicologia foi aprovado em 2007, deve-se realizar
+ajustes relacionados à legislação vigente; ajustes no âmbito da UFG, como a
+adequação ao Regulamento Geral dos Cursos de Graduação (RGCG) da UFG,
+aprovado pela Resolução – CEPEC nº 1122/2012, e no âmbito dos cursos de
+Psicologia, devido a alteração nas Diretrizes Curriculares de Psicologia,
+instituídas pela ​Resolução CNE/CES nº 5, de 15 de março de 2011, a qual revogou a
+Resolução CNE/CES nº 8, de 7 de maio de 2004.
+
+
+
+III- Objetivos (gerais e específicos​)
+
+
+       Em conformidade com as Diretrizes Curriculares Nacionais para o Curso de
+Graduação em Psicologia e com o Projeto Pedagógico do Curso, estão propostos os
+objetivos e princípios explicitados a seguir.
+                                                                                      4
+
+        O Curso de Psicologia orienta-se para: a construção e aprimoramento do
+conhecimento científico dos processos psicológicos em suas interfaces com o biológico
+e o social, abarcando a multiplicidade, a abrangência e a diversidade das abordagens
+metodológicas nesse campo; orienta-se, também, para a formação profissional em
+distintos setores e contextos sociais, visando a promoção da qualidade de vida dos
+indivíduos, grupos, organizações e comunidades, o que requer procedimento ético,
+responsável e comprometido com uma concepção crítica dos processos sociais, culturais
+e políticos. Para tanto, a formação proposta deve nortear-se pelos princípios de:
+- construção e desenvolvimento do conhecimento científico em Psicologia;
+- compreensão dos múltiplos referenciais que apreendem o fenômeno psicológico;
+- compreensão crítica do contexto nacional e mundial considerando os aspectos sociais,
+econômicos, políticos e culturais;
+- atuação em diferentes contextos considerando as questões sociais e éticas,com atenção
+às necessidades complexas e contraditórias da sociedade, promovendo a qualidade de
+vida.
+
+IV- Princípios norteadores para a formação do profissional
+
+
+
+        O presente tópico visa apresentar as concepções do PPC de Psicologia
+acerca da prática profissional, da formação técnica, da formação ética e da
+função social do profissional, da interdisciplinaridade e da articulação entre
+teoria e prática ao longo da graduação em Psicologia.
+        Os princípios que fundamentam este projeto pedagógico de curso partem da
+compreensão da psicologia como ciência e de sua realidade histórica e social constituída
+ao longo de pouco mais de um século. É no contexto do mundo moderno que a
+emergência do ​indivíduo passou a instigar o homem, desafiando-o a compreender a
+subjetividade que se produzia. As relações sociais e históricas ao longo dos últimos
+séculos provocaram o desenvolvimento de estudos e pesquisas que buscaram diferentes
+métodos e procedimentos, na perspectiva de apreender a subjetividade, os modos de ser
+e de se comportar dos homens, oferecendo subsídios fundamentais para a produção da
+psicologia como área específica de conhecimento, pesquisa e prática profissional.
+Significativos experimentos realizados ao longo do século XIX no campo da
+                                                                                        5
+
+psicofísica, da fisiologia e da psicologia animal, e as contribuições de muitos estudiosos
+constituíram bases sólidas para o desenvolvimento de diferentes abordagens em
+psicologia. As diferentes concepções de homem e de sua natureza permitiram construir
+uma complexa diversidade teórica e metodológica, tradicionalmente expressa por três
+sistemas predominantes: associacionismo, estruturalismo e funcionalismo.
+
+       No século XX, definiram-se as principais correntes do pensamento psicológico:
+a comportamental, a fenomenológica e a psicanalítica, ampliando as possibilidades de
+explicitação do psiquismo humano, estabelecendo interfaces com outros campos de
+conhecimento, sugerindo novas perspectivas de compreensão teórica e de atuação
+profissional.
+
+       Na atualidade, os dilemas postos para a psicologia, como ciência e profissão,
+tendem a se ampliar e a se tornar ainda mais complexos frente aos novos problemas
+gerados pelas grandes transformações sociais. Esse processo repõe questões
+fundamentais da psicologia, atualizando o debate sobre seu objeto, seus métodos, seus
+princípios explicativos, seus processos de investigação e suas implicações. Os temas da
+modernidade enfrentados pela ciência psicológica desde a sua origem agora se
+reconfiguram e adquirem novas particularidades. Colocar esses desafios em perspectiva
+é tarefa que se impõe, na atualidade, a todo projeto de formação no campo da
+psicologia. Nessa perspectiva, a formação do profissional da psicologia ganha
+relevância nas discussões sobre os rumos da ciência psicológica nos dias de hoje.
+
+       No Brasil, a profissão de psicólogo foi regulamentada por meio da Lei n° 4.119
+de 27 de agosto de 1962 e pela Resolução s/n de 19 de dezembro de 1962 do Conselho
+Federal de Educação (hoje CNE​). Essa regulamentação, ocorrida às vésperas do golpe
+militar de 1964, deu início a um processo de consolidação da profissão ajustado às
+necessidades de sustentação do modelo político vigente (BOCK, 1999; FERREIRA
+NETO, 2004).
+
+       Em 1988, uma pesquisa (​Quem é o psicólogo brasileiro)​ r​ ealizada pelo
+Conselho Federal de Psicologia (CFP) evidenciou as características desse profissional: a
+prevalência da formação técnica sobre a formação teórica, a incipiente inserção dos
+psicólogos no setor público e a ênfase na atuação clínica (BOCK, 1999). A partir do
+processo de distensão política ocorrido no Brasil na década de 1980, adensaram-se as
+                                                                                                    6
+
+críticas aos rumos que até então predominavam na psicologia, como profissão e como
+campo do conhecimento, dando lugar a um amplo debate visando a sua
+institucionalização, inserção e reconhecimento como teoria e prática fundamentais à
+vida social. Passou-se a defender a importância do processo formativo no
+desvendamento das relações sociais e das condições de subordinação humana. Nesse
+sentido, discutia-se a necessidade de preparar psicólogos para refletir e atuar sobre
+questões epistemológicas e ético-políticas, apreendendo a totalidade do ser humano que
+se toma como objeto. Para atingir esses objetivos, teorias e práticas deveriam abranger
+necessariamente as determinações sóciopolíticas na constituição da subjetividade dos
+indivíduos (PATTO, 2005).
+
+          Assim, os caminhos da psicologia no Brasil têm demonstrado a relevância de
+propor uma ciência que repense a cisão entre o normal e o patológico, o embate entre as
+determinações internas e externas no desenvolvimento do psiquismo, as classificações
+normativas e segmentárias do comportamento, o ideal de homogeneização das
+diferenças, enfim, a naturalização dos processos sociais e as fragmentações da
+compreensão do homem. Trata-se, assim, de desmistificar as definições prévias do fazer
+do psicólogo como um técnico especializado e aproximar a psicologia da filosofia, da
+literatura, da história, das artes e demais ciências humanas, resguardadas as
+especificidades desse campo de conhecimento.
+
+          Os embates, ocorridos nos últimos anos, entre diferentes posições teóricas e
+políticas sobre a formação do psicólogo vêm permear as reflexões acerca da
+regulamentação da formação do psicólogo no Brasil, tendo como resultado a nova
+normatização expressa pelas Diretrizes Nacionais para o Curso de Graduação em
+Psicologia1, que tem como perspectiva a formação do psicólogo voltada para a atuação
+profissional, para a pesquisa e para o ensino de psicologia.
+
+          De modo geral, as Diretrizes orientam-se em torno de um núcleo comum de
+formação, que define como desejável “uma capacitação básica para o formando lidar
+com os conteúdos da psicologia enquanto área de conhecimento e de atuação” e ofereça
+
+1
+     A Resolução nº. 5 de 15 de março de 2011 do CNE/CES, que institui as Diretrizes Nacionais para os
+    Cursos de Graduação em Psicologia, foi fundamentada nos pareceres CNE/CES 1.314, de 7 de
+    novembro de 2001, retificada pelo CNE/CES 72, de 19 de fevereiro de 2002, em adendo ao CNE/CES
+    62, de 19 de fevereiro de 2004 sendo, por fim, homologada pelo Ministro da Educação em 12 de abril
+    de 2004.
+                                                                                        7
+
+possibilidades de arranjos e ênfases curriculares que contemplem aspectos diversos da
+formação profissional do psicólogo. Fundamentalmente, o curso necessita garantir o
+compromisso do formando com a perspectiva científica, social, profissional e ética da
+psicologia. Para tanto, deve-se nortear pelos seguintes princípios e compromissos,
+presentes no artigo 3º da Resolução das DCN:
+
+I- Construção e desenvolvimento do conhecimento científico em psicologia.
+
+II- Compreensão dos múltiplos referenciais que buscam apreender a amplitude do
+fenômeno psicológico em suas interfaces com os fenômenos biológicos e sociais.
+
+III- Reconhecimento da diversidade de perspectivas necessárias para a compreensão do
+ser humano e incentivo à interlocução com campos de conhecimento que permitam a
+apreensão da complexidade e multideterminação do fenômeno psicológico.
+
+IV- Compreensão crítica dos fenômenos sociais, econômicos, culturais e políticos do
+País, fundamental ao exercício da cidadania e da profissão.
+
+V- Atuação em diferentes contextos considerando as necessidades sociais, os direitos
+humanos, tendo em vista a promoção da qualidade de vida dos indivíduos, grupos,
+organizações e comunidades.
+
+VI- Respeito à ética nas relações com clientes e usuários, com colegas, com o público e
+na produção e divulgação de pesquisas, trabalhos e informações da área de psicologia.
+
+VI- Aprimoramento e capacitação contínuos.
+
+       O curso deve, assim, se orientar para a construção e o aprimoramento do
+conhecimento científico dos processos psicológicos em toda a sua abrangência e em
+suas interfaces com o biológico e o social, mediante a compreensão de suas numerosas e
+variadas abordagens teórico-metodológicas. E, ainda, para a formação profissional em
+distintos setores e contextos sociais, visando à promoção da qualidade de vida dos
+indivíduos, grupos, organizações e comunidades, o que requer procedimento ético e
+responsável, com discernimento crítico dos processos sociais, culturais e políticos. Para
+tanto, a resolução delineia um perfil do profissional a ser formado arrolando um
+conjunto bastante abrangente de “competências e habilidades” gerais, como atenção à
+                                                                                      8
+
+saúde; tomada de decisões; comunicação; liderança; administração e gerenciamento; e
+educação permanente.
+
+       As Diretrizes defendem que os conhecimentos, “as habilidades e competências”,
+requeridos para o exercício profissional do psicólogo deverão articular-se em torno de
+eixos estruturantes, cuja finalidade é garantir a congruência do projeto de curso,
+listando:     fundamentos        epistemológicos     e     históricos;     fundamentos
+teórico-metodológicos; procedimentos para a investigação científica e prática
+profissional; fenômenos e processos psicológicos; interfaces com campos afins de
+conhecimento; e práticas profissionais.
+
+       O curso deve compreender, desse modo, um núcleo comum de formação, cuja
+finalidade é conferir identidade ao curso, ao assegurar uma capacitação básica em
+psicologia, como campo de conhecimento e de atuação, tendo por referência o
+desenvolvimento das “habilidades e competências” citadas. Para contemplar a
+diversidade de “orientações teórico-metodológicas, práticas e contextos de inserção
+profissional”, o curso deve definir, ainda, suas “ênfases curriculares”, entendidas como
+“um conjunto delimitado e articulado de ‘competências e habilidades’ que configuram
+oportunidades de concentração de estudos e estágios em algum domínio da psicologia”.
+Essas ênfases curriculares constituem e expressam as especificidades do curso, suas
+singularidades institucionais e regionais.
+
+       A existência de um núcleo comum assegura uma base homogênea para a
+formação e é definido por um conjunto de conhecimentos básicos relacionados a
+atuação inicial do formando em Psicologia e visa garantir o domínio do referencial
+teórico do campo psicológico e o desenvolvimento da capacidade de intervenção em
+diferentes contextos que demandam a investigação, análise, avaliação, prevenção e
+intervenção em processos psicológicos.
+
+       A formação, ainda com base nas referidas diretrizes, contempla diferentes
+ênfases curriculares, entendidas como um conjunto articulado de conhecimentos e
+habilidades que configuram oportunidades de concentração de estudos e estágios em
+algum domínio da Psicologia, articuladas ao redor dos eixos estruturantes, definindo
+domínios da Psicologia que concentrarão atividades, estudos e estágios. Essas ênfases
+devem ser suficientemente abrangentes para não se constituírem especializações, no
+                                                                                        9
+
+entanto asseguram o respeito às singularidades institucionais, às condições específicas e
+aos contextos regionais. A organização do curso expressa a compreensão da
+aprendizagem como processo de formação, sendo, por esse motivo, constante a
+preocupação de que o núcleo comum e as ênfases não se constituam como momentos
+estanques, compreendendo atividades teórico-práticas que devem ocorrer ao longo do
+curso.
+
+         Entendendo que a interdisciplinaridade encontra-se amalgamada à própria
+constituição da Psicologia, o curso conta com a colaboração das diversas unidades
+acadêmicas da UFG no cumprimento da carga horária definida para as disciplinas de
+Núcleo Livre. Em especial, na oferta de disciplinas constitutivas do Núcleo Comum
+Obrigatório, conta com a participação do Instituto de Ciências Biológicas e do Instituto
+de Matemática e Estatística.
+
+         Tendo em vista as características institucionais da FE/UFG, foram definidas, no
+projeto de curso ora apresentado, duas ênfases curriculares: “Psicologia e processos
+clínicos” e “Psicologia e processos psicossociais”. São descritos a seguir, para cada uma
+delas, os seguintes aspectos: a motivação que levou a sua escolha, o campo de estudos e
+pesquisas compreendido e o perfil do profissional que se pretende formar.
+
+
+V- Expectativa da formação do profissional
+
+
+
+a) perfil do curso
+
+
+         O Projeto Pedagógico do curso de Psicologia expressa a concordância com o
+princípio inalienável de defesa dos valores e dos princípios formativos que orientam
+uma instituição pública. Assim, orienta-se por uma concepção de formação consistente,
+rigorosa, consciente e crítica, compromissada com o enfrentamento da complexidade e
+vicissitudes de uma sociedade que conforma e consolida a passos alarmantes a
+desigualdade, a exclusão e a pauperização das condições de sobrevivência da maioria da
+população. Preconiza, nesse sentido, uma formação profissional ampla e diversificada,
+orientada por uma apreensão crítica dos processos culturais, políticos e sociais nos quais
+se inscreve o exercício profissional. A Psicologia é, portanto, um campo teórico
+                                                                                      10
+
+fundamental no âmbito das ciências humanas e o projeto em questão objetiva uma
+formação que visa garantir o domínio do referencial teórico do campo psicológico e o
+desenvolvimento da capacidade de intervenção em diferentes contextos que demandam
+a investigação, análise, avaliação, prevenção em processos psicológicos.
+       O projeto contempla, assim, uma formação abrangente, que considera os
+aspectos diversos da formação profissional do psicólogo, sedimentando uma perspectiva
+científica, social e ética. Para tanto, expressa princípios formativos essenciais que
+incluem uma compreensão sólida dos múltiplos referenciais do fenômeno psicológico
+em suas interfaces com os fenômenos biológicos e sociais; a interlocução com outros
+campos    do conhecimento que          permitem    a apreensão    da complexidade      e
+multideterminação do fenômeno psicológico; a compreensão crítica dos fenômenos
+sociais, econômicos, políticos e culturais;a articulação entre os fundamentos históricos,
+epistemológicos e metodológicos com a prática profissional e os contextos de inserção
+profissional, visando a promoção da qualidade de vida dos indivíduos, grupos,
+organizações e comunidades.
+
+
+b) perfil e habilidades do egresso:
+
+
+       Neste tópico apresentaremos o perfil profissional e habilidades do egresso
+previstos para a modalidade específica da profissão, nas ênfases em processos clínicos e
+processos psicossociais, e para formação de professores de Psicologia.
+       O Projeto do Curso de Psicologia - Específico da Profissão prevê duas ênfases
+curriculares: “Psicologia e processos clínicos” e “Psicologia e processos psicossociais”.
+São descritos a seguir, para cada uma delas, os perfis profissionais que se propõe
+formar:
+
+
+- Ênfase curricular I: Psicologia e processos clínicos
+Ao final do curso, o futuro profissional deverá ser capaz de:
+• Analisar as implicações, contribuições e limites da Psicologia no campo da saúde.
+• Realizar atendimento psicoterapêutico individual ou em grupo, adequado às diversas
+faixas etárias, em instituições de prestação de serviço de saúde, em consultórios
+particulares e em instituições formais e informais.
+                                                                                      11
+
+• Participar da elaboração de projetos e programas orientados para a saúde mental da
+população, bem como sobre a adequação das estratégias diagnósticas e terapêuticas à
+realidade psicossocial.
+• Participar da elaboração de políticas e programas educativos em saúde mental, e
+acompanhar sua realização em instituições formais e informais como: creches, asilos,
+sindicatos, associações, instituições de menores, penitenciárias, e entidades religiosas
+dentre outras.
+• Coordenar e supervisionar as atividades de Psicologia em instituições que incluam a
+prevenção e o tratamento psicológico em suas atividades.
+• Realizar pesquisas visando à construção e à ampliação do conhecimento teórico e
+pratico no campo da saúde mental.
+
+
+- Ênfase curricular II: Psicologia e processos psicossociais
+Ao final do curso, o futuro profissional deverá ser capaz de:
+• Analisar as implicações, contribuições e limites da Psicologia no campo institucional e
+comunitário.
+• Identificar e classificar a tipologia das instituições humanas, segundo suas
+características e princípios gerais que regem sua estrutura e funcionamento.
+• Atuar junto a organizações comunitárias e em equipes multiprofissionais, avaliando,
+planejando e executando programas no âmbito da saúde, lazer, educação, trabalho e
+segurança.
+• Participar da elaboração de programas de pesquisa sobre características psicossociais
+de grupos étnicos, religiosos, classes e segmentos sociais e culturais.
+• Realizar levantamentos de demandas para planejamento, execução e avaliação de
+programas referentes às políticas públicas direcionadas à comunidade.
+• Assessorar órgãos públicos e outros para atuar em situações, planejadas ou não, no
+contexto social.
+• Participar na elaboração de políticas e programas educativos, e acompanhar sua
+execução em instituições formais e informais como: escolas, asilos, sindicatos,
+associações, instituições de menores, penitenciárias, e entidades religiosas, dentre
+outras.
+                                                                                      12
+
+• Investigar e identificar as principais características de organização dos grupos e
+comunidades, urbanos e rurais, em seus aspectos psicológicos.
+
+
+
+
+VI- Estrutura curricular
+       A organização curricular respalda-se legalmente nas Diretrizes Curriculares para
+os cursos de graduação em Psicologia e no Regimento Geral dos Cursos de Graduação
+da UFG, que orienta para a produção e constante aprofundamento do conhecimento
+científico no campo da psicologia, considerando sua complexidade e abrangência e suas
+interfaces com     o   biológico   e o social, mediante as variadas abordagens
+teórico-metodológicas existentes. A estrutura curricular abrange uma formação
+profissional que contribua para a promoção da qualidade de vida dos indivíduos,
+grupos, organizações e comunidades nos diferentes contextos sócio-históricos,
+assegurando um procedimento profissional rigoroso, ético e responsável, com base em
+uma postura profissional responsável e compromissada, com discernimento crítico dos
+processos sociais, históricos culturais e políticos. Assegura, assim, uma capacitação que
+contemple a atuação e prática profissional em diferentes contextos que demandam a
+intervenção em processos psicológicos.
+       A ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA pautou-se, em grande parte,
+pelas Diretrizes Curriculares para o Curso de Psicologia (DCN), que indicam que o
+Curso de Psicologia deva orientar-se em torno de um núcleo comum de formação,
+sendo desejável que este ofereça “uma capacitação básica para o formando lidar com os
+conteúdos da psicologia enquanto área de conhecimento e de atuação” e ofereça
+possibilidades de arranjos e ênfases curriculares que contemplem aspectos diversos da
+formação profissional do psicólogo, em sua perspectiva científica, social, profissional e
+ética. As DCN defendem, ainda, que os conhecimentos requeridos para o exercício
+profissional do psicólogo deverão articular-se em eixos estruturantes, cuja finalidade é
+garantir a congruência do projeto de curso.
+       Em consonância, o Curso de Psicologia da FE/UFG estruturou-se em um núcleo
+comum de formação e em duas “ênfases curriculares”, buscando garantir a unidade do
+curso e, ainda, contemplar a diversidade de “orientações teórico-metodológicas, práticas
+e contextos de inserção profissional”. As duas ênfases curriculares são: (1) Psicologia e
+                                                                                      13
+
+Processos Clínicos e (2) Psicologia e Processos Psicossociais, que configuram
+oportunidades de concentração de estudos e estágios em domínios da Psicologia”. Essas
+ênfases curriculares constituem e expressam as especificidades do curso, suas
+singularidades institucionais e regionais.
+       Orientado pelas DCN e pelo Regimento Geral dos Cursos de Graduação/UFG, o
+Curso de Psicologia organizou-se didático-pedagogicamente por meio de DUAS
+MATRIZES CURRICULARES correspondentes às modalidades aprovadas: Específico
+da Profissão – Psicólogo e Formação do Professor de Psicologia.
+       As matrizes curriculares estruturam-se nos seguintes componentes (grupos de
+disciplinas e atividades):
+a) Núcleo Comum (NC);
+b) Núcleo Específico (NE);
+c) Núcleo Livre (NL);
+d) Atividades Complementares
+
+
+       Todos esses componentes convergem para o propósito de formar o psicólogo,
+como profissional e como pesquisador, levando em consideração as características da
+instituição formadora e as demandas sociais da região e do país. A matriz curricular, o
+ementário e o fluxograma do curso de Psicologia – Bacharelado (Habilitação do
+Psicólogo) são apresentados nas tabelas A (matriz curricular), B (ementas e
+bibliografias das disciplinas) e C (fluxograma).
+
+
+a) Núcleo Comum:
+       O NC compreende disciplinas e atividades cujo propósito é desenvolver uma
+“capacitação básica para lidar com os conteúdos da Psicologia, enquanto campo de
+conhecimento e de atuação”, articulando-se em torno dos eixos estruturantes previstos
+nas Diretrizes Curriculares, que aparecem assinalados nos parágrafos que se seguem.
+       Busca possibilitar uma sólida formação tendo em vista os princípios teóricos,
+epistemológicos e metodológicos que fundamentam os estudos em Psicologia, sendo
+esta compreendida em sua articulação com outras ciências e campos do saber.
+       O Núcleo Comum contempla o eixo das ​interfaces com campos afins do
+conhecimento,​ mediante estudos na área das ciências sociais, da filosofia e das ciências
+                                                                                        14
+
+biológicas, todos eles orientados para a compreensão do homem como um ser
+bio-psico-social, apreendido de uma perspectiva integral e contextualizada. Esse eixo,
+que procura assegurar as interfaces com outros campos do saber, é fundamental para a
+compreensão da especificidade dos processos psicológicos e deve permear todas as
+disciplinas e atividades curriculares. Ainda, assim algumas devem ser particularmente
+destacadas: Filosofia e Psicologia, Introdução às Ciências Sociais, Anatomia Humana,
+Fisiologia Humana e LIBRAS. Em seu conjunto essas disciplinas buscam ampliar os
+conhecimentos para além das fronteiras disciplinares e contribuir para maior inserção no
+universo do conhecimento, da cultura e dos contextos humanos.
+       Nessa perspectiva também se inserem disciplinas e atividades articuladas no eixo
+dos ​fundamentos epistemológicos e históricos da psicologia,​ que promovem uma
+primeira aproximação às temáticas próprias do campo da psicologia, a partir de uma
+visão de sua história e fundamentos, teorias e sistemas. Destacam-se, no Núcleo
+Comum, as disciplinas: História, Teorias e Sistemas I e II; Processos Psicológicos
+Básicos; Psicologia Geral e Experimental.
+       Tais estudos contribuem para uma visão histórica dos contextos sociais em que
+os conhecimentos psicológicos são produzidos, assim como da natureza e
+particularidade de seu estatuto epistemológico. Bem próxima a essas preocupações,
+articula-se um conjunto de disciplinas que visa apreender os fundamentos
+teórico-metodológicos que permeiam conhecimentos e práticas exercidas no campo da
+psicologia e, ao mesmo tempo, introduzem e oferecem oportunidade de aprofundamento
+dos estudos referentes ao eixo que trata dos ​fenômenos e processos psicológicos​.
+Pretende-se, com isso, assegurar uma ampla apreensão de diferentes abordagens
+teóricas, suas questões conceituais e modelos explicativos, desde sua formação inicial
+até seus recentes desdobramentos. As disciplinas relacionadas abaixo referem-se a
+processos    psicológicos,    abordagens     teórico-metodológicas     e     estágios   de
+desenvolvimento: Análise do comportamento; Psicologia do Desenvolvimento e da
+Aprendizagem (I, II, III, IV); Psicologia Social (I, II, III, IV); Psicologia e Trabalho;
+Psicologia e Instituições, Psicologia da Personalidade (I e II); Psicanálise (I e II);
+Neuropsicologia; Psicopatologia (I e II); Psicologia e Diversidade; Ética.
+       A preocupação com a produção do conhecimento no campo da psicologia
+perpassa todo o currículo em consonância com o princípio de que a formação supõe
+                                                                                        15
+
+reflexão crítica e autônoma sobre as teorias, processos e práticas estudadas. Nessa
+perspectiva também compõem o Núcleo Comum atividades e disciplinas orientadas
+segundo o eixo que articula procedimentos para ​a investigação cientifica​. Por um lado,
+essas disciplinas visam à atualização sobre o desenvolvimento da pesquisa psicológica
+no contexto nacional e internacional, à compreensão dos métodos e procedimentos da
+pesquisa na área e ao domínio de instrumentos e estratégias de avaliação e de
+intervenção. As disciplinas que cumprem essas finalidades quanto a investigação
+cientifica são: Estatística (I e II); Investigação e métodos em Psicologia (I e II);
+Trabalho de Conclusão de Curso – TCC (I e II).
+         Encontram-se ainda no Núcleo Comum as disciplinas que buscam assegurar
+uma primeira inserção do graduando aos diferentes contextos institucionais e sociais em
+que são exercidas as diversas ​práticas profissionais do psicólogo, ressaltando as
+articulações com os profissionais das áreas afins: Técnicas de Avaliação Psicológica -
+TAP – (I e II); Teoria e Técnicas Psicoterápicas –TTP – (I, II e III) e Psicodiagnóstico (I
+e II).
+         Devem ser particularmente destacadas na composição curricular do Núcleo
+Comum as disciplinas Laboratórios de Atividades Integradas (LAI) que compreendem
+temas, definidos anualmente, referentes à formação do psicólogo, que perpassam o
+conjunto de estudos, práticas e estágios previstos para aquele ano. Para tanto, são
+oferecidos Laboratórios de Atividades Integradas (LAI), com carga horária de 02 horas
+semanais, perfazendo um total de 64 horas desenvolvidas em dois semestres. Esses
+Laboratórios têm um formato distinto das disciplinas convencionais e está orientado
+para o desenvolvimento de diversificadas atividades de caráter acadêmico-cultural. Os
+Laboratórios demarcam na estrutura curricular um espaço diferenciado de formação. A
+cada ano, os Laboratórios serão orientados por uma temática geral referente à formação
+do psicólogo, a saber: 1º. ano: Psicologia e Formação; 2º. ano: Psicologia e ciência; 3º.
+ano: Psicologia, política e ideologia; 4º. ano: Psicologia e profissão; 5º. ano: Psicologia
+e intervenção social.
+         A cada Laboratório será possível propor um conjunto de atividades visando à
+abordagem da temática em pauta: entre outras, seminários, palestras, levantamentos
+bibliográficos e de outra natureza, mostras de vídeos, visitas orientadas, leituras
+dirigidas, entrevistas, produções de textos ou vídeos, exposições. Os princípios que
+                                                                                       16
+
+orientam os Laboratórios são: (1) contribuir para a formação integral do estudante de
+psicologia; (2) promover oportunidade para o questionamento dos processos formativos
+aos quais os estudantes estão submetidos não apenas na universidade, mas nas demais
+instâncias formativas; (3) contribuir para a compreensão da psicologia como ciência e
+profissão; (4) contribuir para a compreensão crítica das implicações sociais e culturais
+das práticas que se fundamentam ou se dizem fundamentadas nos preceitos
+psicológicos; (5) contribuir para a reflexão do estudante de psicologia acerca dos
+desafios ético-profissionais da profissão; e (6) incentivar a reflexão ​e o debate sobre
+questões da atualidade e suas implicações no campo da Psicologia como profissão e
+como ciência.
+       Os Laboratórios de Atividades Integradas são desenvolvidos de forma mais
+prática, tem a função dos Estágios Básicos. O aluno entrará em contato com o Campo
+da Psicologia em aspectos considerados essenciais para uma formação profissional
+consistente. E é nesse sentido que os LAI(s) estão distribuídos por todos os anos do
+curso e não simplesmente nas séries iniciais. Para tanto, trabalha a relação da Psicologia
+com a Formação, com a Ciência, com a Ideologia e a Política, com a Profissão e
+finalmente com as possibilidades de Intervenção Social do Psicólogo. É, portanto, um
+estágio básico não porque esta na base da matriz curricular, do fluxo curricular, mas,
+principalmente, está na base do processo formativo do futuro profissional de Psicologia.
+
+
+b) Núcleo Específico
+       O NE - Específico da Profissão/Psicólogo - contempla as duas ênfases
+curriculares presentes no PPC: Psicologia e Processos Clínicos e Psicologia e Processos
+Psicossociais. Busca assegurar um conjunto de conhecimentos, processos e práticas que
+configuram a formação para a atuação em campos específicos da Psicologia. Todos os
+eixos estruturantes que orientam o Núcleo Comum são mantidos aqui, desdobrando-se
+nas especificidades do campo em questão. O aluno deverá optar por um dos dois NE
+compostos pelas ênfases no final do 4º período.
+
+
+1) Núcleo Específico: ​Psicologia e processos clínicos
+            Implementando as particularidades dessa ênfase curricular já explicitadas
+anteriormente, esse Núcleo Específico dá continuidade ao estudo de processos e teorias
+                                                                                           17
+
+já iniciado no Núcleo Comum. As disciplinas específicas desse Núcleo Específico
+orientam-se para; (1) uma reflexão aprofundada sobre os processos clínicos, sua
+concepção, implicações e desdobramentos éticos e valorativos no contexto social; (2) a
+formação do pesquisador preocupado com a produção de conhecimento nessa área de
+atuação; (3) a capacitação dos graduandos para o desenvolvimento das práticas
+profissionais voltadas para a clínica, ressaltando os desafios da profissionalização do
+psicólogo nesse campo. São elas: ​Estágio Supervisionado –Processos Clínicos – I; Estágio
+Supervisionado –Processos Clínicos – II; Investigação e métodos em Processos Clínicos;
+Psicologia e processos Clínicos; Psicologia e Saúde; Psicofarmacologia e Técnicas de Avaliação
+Psicológica – IV.
+
+
+2-​Núcleo Específico: ​Psicologia e processos psicossociais.​
+       Em consonância com as particularidades dessa ênfase curricular anteriormente
+explicitada, esse Núcleo Específico também dá continuidade a uma formação já iniciada
+no Núcleo Comum. As disciplinas referentes a esse Núcleo Específico destacam o
+estudo dos processos psicossociais no trabalho, na comunidade, na escola, nos hospitais,
+no campo jurídico, dentre outros. Compreende ainda um aprofundamento nos processos
+de investigação nesse campo da psicologia. As disciplinas que constituem esse Núcleo
+Específico são: Estágio Supervisionado –Processos Psicossociais –I; Estágio
+Supervisionado –Processos Psicossociais – II; Investigação e métodos em Processos
+Psicossociais; Psicologia e Processos Psicossociais –I; Psicologia e Processos
+Psicossociais –II; Psicologia e Processos Psicossociais –III ​e ​Psicofarmacologia.
+
+
+c) Núcleo Livre
+
+
+       O Núcleo Livre, regulamentado pelo Regimento Geral dos Cursos de Graduação
+da UFG, está distribuído em cada semestre letivo, com exceção do primeiro. Consiste
+em um conjunto de disciplinas e visa: ampliar e diversificar o campo de formação dos
+cursos da UFG, pluralizando os conhecimentos, aprofundando o estudo em áreas de seu
+interesse e promovendo interfaces com outros campos de saber e de formação,
+fomentando assim a interdisciplinaridade e a transdisciplinaridade. Visa também
+ampliar e aprofundar sua formação humana e profissional. O NL, constitui-se, assim,
+                                                                                        18
+
+em oportunidades de flexibilização curricular que, no caso do Curso de Psicologia,
+fortalece sua orientação em promover a confluência dos campos de estudo.
+       No Núcleo Livre, os alunos são incentivados a cursar disciplinas eletivas em
+outras unidades e cursos da UFG, de acordo com a oferta registrada no cadastro do
+Sistema de Atendimento Acadêmico, viabilizando assim o intercâmbio entre estudantes
+de diferentes cursos da UFG
+       As disciplinas ofertadas pelo Curso de Psicologia como Núcleo Livre poderão,
+ainda, constituir-se aprofundamento e diversificação de estudos. Exemplos de
+disciplinas eletivas/áreas de aprofundamento de estudos que compõe o Núcleo Livre
+ofertadas pelo curso de Psicologia da UFG: Tópicos especiais em Psicopatologia;
+Psicologia Organizacional; Psicanálise e cultura; Esquizoanálise e Análise Institucional;
+Psicologia jurídica; Psicologia e políticas públicas de saúde mental; Psicanálise de
+grupo: teoria e técnica; Introdução à Psicologia Cognitiva; Fundamentos da clínica
+psicanalítica de Freud a Lacan; dentre outros.
+       As disciplinas de NL são propostas pelos professores e submetidas à aprovação
+do CD das Unidades Acadêmicas semestralmente, sendo, ofertadas a todos os alunos da
+UFG.
+
+
+d) Atividades complementares:
+
+       Compreendem atividades acadêmicas, escolhidas e desenvolvidas pelos
+estudantes durante o período disponível para a integralização curricular, excetuando-se
+as disciplinas ou os eixos temáticos/módulos. Dentre as atividades, destacam-se a
+participação em eventos diversos: seminários, simpósios, congressos, conferências,
+debates, colóquios, cursos e outras atividades nas áreas da cultura, da ciência, das artes,
+apresentação de trabalho e outras, validadas pela coordenação do curso e cuja carga
+horária estará distribuída pelo núcleo de estudos básicos e pelo núcleo de estudos
+integradores. Visam o enriquecimento da formação do graduando, mediante
+diversificação e ampliação de estudos e práticas não previstas na grade formal do curso.
+       O Coordenador de Curso e o professor do Laboratório de Atividades Integradas -
+Psicologia e Formação I e II orientam os alunos com relação às atividades
+complementares.
+                                                                                   19
+
+       Também na proposta de normatização das atividades complementares afirma
+que "O aproveitamento das atividades complementares, mediante avaliação de sua
+pertinência e validade, será realizado pela Coordenação do Curso de Psicologia, após
+análise dos comprovantes de participação entregues pelos alunos no decorrer do curso."
+Uma outra forma de acompanhamento são as atividades de monitorias, eventos
+realizados pelo curso de Psicologia ou pela FE e seus núcleos de pesquisa. Também, os
+eventos importantes da área de psicologia regionais, nacionais ou internacionais que a
+coordenação tem a preocupação de estar sempre divulgando no sentido de apontar aos
+alunos as melhores oportunidades para cumprirem a carga horária exigida no curso de
+atividades complementares e, também, desenvolver neles uma necessidade constante de
+participação em projetos de pesquisa, extensão, eventos etc.
+                                                                                         20
+
+                                                 Tabela A
+
+                           Matriz Curricular do Curso de Psicologia
+                                            Bacharelado
+
+                                         NÚCLEO COMUM
+
+Disciplina                                                  Unidade    CHS   CHTS Núcleo      Natureza
+                                                            Respons.
+Análise do Comportamento.                                      FE       4     64    NC         OBR
+Anatomia Humana                                               ICB       6     96    NC         OBR
+Estatística – I                                               IME       4     64    NC         OBR
+Estatística II                                                IME       4     64    NC         OBR
+Ética                                                          FE       4     64    NC         OBR
+Filosofia e Psicologia – I                                     FE       4     64    NC         OBR
+Filosofia e Psicologia – II                                    FE       4     64    NC         OBR
+Fisiologia Humana                                             ICB       5     80    NC         OBR
+História, Teorias e Sistemas em Psicologia -I                  FE       4     64    NC         OBR
+História, Teorias e Sistemas em Psicologia -II                 FE       4     64    NC         OBR
+Introdução às Ciências Sociais - I                             FE       4     64    NC         OBR
+Introdução às Ciências Sociais - II                            FE       4     64    NC         OBR
+LIBRAS                                                         FE       4     64    NC         OBR
+Investigação e métodos em Psicologia - I                       FE       4     64    NC         OBR
+Investigação e métodos em Psicologia - II                      FE       4     64    NC         OBR
+Laboratório de Atividades Integradas:                          FE       2     32    NC         OBR
+Psicologia e formação –I
+Laboratório de Atividades Integradas:                         FE        2     32    NC         OBR
+Psicologia e Ciência -I.
+Laboratório de Atividades Integradas:                         FE        2     32    NC         OBR
+Psicologia, Política e Ideologia - I.
+Laboratório de Atividades Integradas:                         FE        2     32    NC         OBR
+Psicologia e Profissão - I.
+Laboratório de Atividades Integradas s:                       FE        2     32    NC         OBR
+Psicologia e Intervenção Social -I.
+Laboratório de Atividades Integradas s:                       FE        2     32    NC         OBR
+Psicologia e formação - II.
+Laboratório de Atividades Integradas:                         FE        2     32    NC         OBR
+Psicologia e Ciência - II.
+Laboratório de Atividades Integradas:                         FE        2     32    NC         OBR
+Psicologia, Política e Ideologia - II.
+Laboratório de Atividades Integradas:                         FE        2     32    NC         OBR
+Psicologia e Profissão -II.
+Laboratório de Atividades Integradas:                         FE        2     32    NC         OBR
+Psicologia e Intervenção Social -II.
+Neuropsicologia                                               FE        4     64    NC         OBR
+Processos Psicológicos Básicos                                FE        4     64    NC         OBR
+Psicanálise – I                                               FE        4     64    NC         OBR
+Psicanálise – II                                              FE        4     64    NC         OBR
+Psicodiagnóstico – I                                          FE        4     64    NC         OBR
+                                                                                                                      21
+
+ Psicodiagnóstico – II                                                     FE                4        64         NC            OBR
+ Psicologia da Personalidade – I                                           FE                4        64         NC            OBR
+ Psicologia da Personalidade – II                                          FE                4        64         NC            OBR
+ Psicologia do Desenvolvimento e da Aprendizagem – I                       FE                4        64         NC            OBR
+ Psicologia do Desenvolvimento e da Aprendizagem – II                      FE                4        64         NC            OBR
+ Psicologia do Desenvolvimento e da Aprendizagem- III                      FE                4        64         NC            OBR
+ Psicologia do Desenvolvimento e da Aprendizagem –IV                       FE                4        64         NC            OBR
+ Psicologia e Diversidade                                                  FE                4        64         NC            OBR
+ Psicologia e Instituições                                                 FE                4        64         NC            OBR
+ Psicologia e Trabalho                                                     FE                4        64         NC            OBR
+ Psicologia Geral e Experimental                                           FE                4        64         NC            OBR
+ Psicologia Social – I                                                     FE                4        64         NC            OBR
+ Psicologia Social – II                                                    FE                4        64         NC            OBR
+ Psicologia Social – III                                                   FE                4        64         NC            OBR
+ Psicologia Social – IV                                                    FE                4        64         NC            OBR
+ Psicopatologia – I                                                        FE                4        64         NC            OBR
+ Psicopatologia – II                                                       FE                4        64         NC            OBR
+ Técnica de Avaliação Psicológica – I                                      FE                4        64         NC            OBR
+ Técnica de Avaliação Psicológica – II                                     FE                4        64         NC            OBR
+ Técnica de Avaliação Psicológica – III                                    FE                4        64         NC            OBR
+ Teorias e Técnicas Psicoterápicas – I                                     FE                4        64         NC            OBR
+ Teorias e Técnicas Psicoterápicas – II                                    FE                4        64         NC            OBR
+ Teorias e Técnicas Psicoterápicas – III                                   FE                4        64         NC            OBR
+ Trabalho de Conclusão de Curso – I (TCC)                                  FE                4        64         NC            OBR
+ Trabalho de Conclusão de Curso – II(TCC)                                  FE                4        64         NC            OBR
+
+
+
+                                             NÚCLEO ESPECÍFICO2
+
+
+                                        Ênfase I – Psicologia e Processos Clínicos
+
+ Disciplina                                                            Unidade        CHS        CHTS      Núcleo           Natureza
+                                                                       Respons.
+Estágio Supervisionado /Processos Clínicos I                             FE             20        320         NE              OPT
+Estágio Supervisionado /Processos Clínicos II                            FE             20        320         NE              OPT
+Psicofarmacologia                                                        FE             4          64         NE              OPT
+Investigação e métodos em Psicologia –Psicologia e                       FE             4          64         NE              OPT
+Processos Clínicos
+Psicologia e processos Clínicos                                            FE            4         64         NE              OPT
+Psicologia e Saúde                                                         FE            4         64         NE              OPT
+Técnicas de Avaliação Psicológica – IV                                     FE            4         64         NE              OPT
+
+
+                                    Ênfase II – Psicologia e Processos Psicossociais
+
+
+    2
+               ​No Curso de Psicologia (Específico da Profissão) o Núcleo Específico é composto por duas ênfases e os
+    alunos deveram ​optar por uma delas para a integralização do seu curso. As disciplinas da ênfase escolhida pelo aluno
+    são obrigatórias, porém as disciplinas da outra ênfase podem ser cursadas, pelo aluno, como disciplinas optativas.
+                                                                                               22
+
+ Disciplina                                           Unidade     CHS      CHTS       Núcleo        Natureza
+                                                      Respons.
+Estágio Supervisionado –Processos Psicossociais – I     FE         20       320        NE             OPT
+Estágio Supervisionado –Processos Psicossociais- II     FE         20       320        NE             OPT
+Psicofarmacologia                                       FE         4         64        NE             OPT
+Investigação e métodos em Psicologia – Psic. e          FE         4         64        NE             OPT
+Processos Psicossociais
+Psicologia e Processos Psicossociais –I                 FE          4        64        NE             OPT
+Psicologia e Processos Psicossociais – II               FE          4        64        NE             OPT
+Psicologia e Processos Psicossociais -III               FE          4        64        NE             OPT
+
+
+
+
+                            CARGA HORÁRIA​ –
+               Modalidade ​ ​ ​Formação Específica do Psicólogo.
+     Núcleo Comum                                            3184 horas/aulas
+
+     Núcleo Específico​ (uma ênfase)                             1024 horas/aulas
+
+     Núcleo Livre                                               448 horas/aulas
+     Total                                            4656 horas/aulas – (100%)
+
+     Atividades Complementares                                            200 horas
+     Integralização do Curso de Psicologia                              4856 horas
+     (Carga horária total)
+     Período para integralização – Mínimo                           10 semestres.
+     Período para integralização – Máximo                           15 semestres.
+                                                                                 23
+
+                                     Tabela B
+
+      Ementas do Curso de Psicologia – Modalidade Específico da Profissão
+
+                                  Núcleo Comum
+
+Análise do comportamento
+O método experimental na análise das relações comportamentais complexas:
+comportamentos conscientes, memória, pensamento e linguagem. Estudo psicológico
+das funções cognitivas. Inteligência, percepção, memória, solução de problemas,
+aquisições de conceitos, motivação e emoção.
+
+Bibliografia Básica:
+CATANIA, A. Charles. Aprendizagem: Comportamento, linguagem e cognição. 4.
+ed. Porto Alegre: Artmed, 1999. 467 p.
+COSTA, Nazaré; PORTO, Allana Ribeiro. Até onde o que você sabe sobre o
+behaviorismo é verdadeiro? - Respondendo as principais críticas direcionadas ao
+behaviorismo de Skinner. Santo André : ESETEC, 2004. 81 p.
+SKINNER, Burrhus Frederic. Sobre o Behaviorismo. 14. ed. São Paulo: Cultrix, 2012.
+216 p.
+
+Bibliografia Complementar:
+BANACO, Roberto Alves (org.) Sobre comportamento e cognição: aspectos
+teóricos, metodológicos e de formação em análise do comportamento e terapia
+cognitiva. Santo André : ESETEC, 2001. 536 p.
+BAUM, William. Compreender o behaviorismo: Ciência, comportamento e cultura.
+2. ed. Porto Alegre: Artmed, 2006. 311p.
+CARRARA, Kester. Behaviorismo radical: crítica e metacrítica Marilia. Sao Paulo:
+Ed. UNESP, 1998. 340 P.
+SKINNER, Burrhus Frederic. Questões recentes na analise comportamental 2. ed.
+Campinas : Papirus, 1995. 193 p.
+TOURINHO, Emmanuel. Zagury; Luna, Sergio Vasconcelos. Análise do
+Comportamento: Investigações históricas, conceituais e aplicadas. São Paulo:
+Roca, 2010. 242 p.
+
+Anatomia Humana
+A Anatomia como entendimento da organização estrutural e suas implicações no
+conhecimento das funções do organismo humano, com ênfase no estudo do sistema
+nervoso.
+
+Bibliografia Básica:
+MACHADO, A. B. M. ​Neuroanatomia funcional.​ 2ª Ed.​ ​São Paulo: Atheneu. 2006.
+MOORE, K. L.; DALLEY, A. F. ​Anatomia orientada para a clínica. 6ª Ed. Guanabara
+Koogan, Rio de Janeiro – RJ. 2011. 1136p.
+SOBOTTA, J.: Sobotta - Atlas de Anatomia Humana. 23. ed. Rio de Janeiro: Guanabara
+Koogan, 2013. 3v.
+
+Bibliografia Complementar:
+                                                                                       24
+
+CROSSMAN, A. R.; NEARY, D. ​Neuroanatomia. Um texto ilustrado em cores. Rio de
+Janeiro: Guanabara Koogan, 2002.
+SCHÜNKE, M.; SCHULTE, E.; SCHUMACHER, U.; VOLL, M.; WESKER, K.
+PROMETHEUS. Atlas de Anatomia Humana. Anatomia Geral e Aparelho Locomotor,
+Cabeça e Neuroanatomia, Pescoço e Órgãos Internos.​ Guanabara Koogan, Rio de
+Janeiro, 2006-2007. 3v.
+TORTORA, G. J. ​Princípios de Anatomia Humana. ​10ª Ed. Guanabara Koogan, Rio de
+Janeiro, 2007. 1038p.
+VALERIUS, K-P., DUNCKER, H-R. ​Atlas de Neuroanatomia. 1. reimpressão ed. Rio
+de Janeiro: Guanabara Koogan, 2011. 351p.
+WATANABE, I. ​ERHART - Elementos de anatomia humana - 10ª Edição – São Paulo:
+Atheneu, 2009.
+
+Estatística I
+Visto que o desenvolvimento da psicologia, como ciência social, é indissociável dos
+métodos estatísticos, a tal ponto que, historicamente, muitos estudiosos da psicologia
+dedicaram-se à elaboração de técnicas estatísticas descritivas e inferenciais e,
+inversamente, vários estudiosos da estatística impulsionaram boa parte das pesquisas
+psicológicas, a disciplina privilegia a chamada estatística descritiva e noções básicas de
+inferências com a finalidade de proporcionar o aluno: 1) entendimento acerca da
+relevância da estatística para a obtenção, organização, apresentação, descrição e
+interpretação de dados psicológicos e sociais; 2) a aquisição das habilidades básicas
+para selecionar e operar a)com as medidas estatísticas de tendência central, de dispersão
+e de correlação b) com as principais técnicas gráficas e tabulares voltadas para
+apresentação e interpretação de dados. 3) noções de probabilidade e distribuição de
+probabilidade, distribuições amostrais e intervalos de confiança, conteúdos essenciais
+para que se tenha um bom desempenho na disciplina Estatística II.
+
+Bibliografia Básica:
+BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica, 5 ed. Saraiva, São Paulo,
+Brasil, 2004.
+LEVIN, J.; FOX, J. A. Estatística para Ciências do Comportamento. Pearson Prentice
+Hall, 2004.
+MAGALHÃES, N. M. L. A. C. P. Noções de Probabilidade e Estatística. Edusp, São
+Paulo, Brasil, 2005.
+
+Bibliografia Complementar:
+CRESPO, A. A. Estatística Fácil. Saraiva, São Paulo, Brasil, 1998.
+FONSECA, J. S. D. Curso de Estatística. Atlas, São Paulo, Brasil, 1996.
+LARSON, R.; FARBER, B. Estatística Aplicada, 2 ed. Pearson Prentice Hall, São
+Paulo, Brasil, 2004.
+LIPSCHUTZ, S. Probabilidade: Coleção Schaum. McGraw-Hill.
+L., M. P. Probabilidade Aplicações à Estatística, 2 ed. LTC, Rio de Janeiro, Brasil,
+1983.
+
+Estatística II
+Com o mesmo enfoque adotado para ministrar Estatística I, a presente disciplina
+volta-se para as técnicas de inferência estatística, privilegiando: 1) a elaboração de
+hipóteses estatísticas como um modo especial de verificação de hipóteses científicas; 2)
+                                                                                      25
+
+os mais usuais testes de hipóteses paramétricas e não paramétricos para uma, duas e
+mais de duas amostras; 3) a título introdutório: análise de regressão linear, análise de
+variância e análise fatorial; 4) também, a título introdutório as técnicas básicas de
+amostragem, com ênfase, na extração de amostras representativas e do tamanho
+amostral.
+
+Bibliografia Básica:
+CRESPO, A. A. Estatística Fácil. Saraiva, São Paulo, Brasil, 1998.
+LARSON, R.; FARBER, B. Estatística Aplicada, 2 ed. Pearson Prentice Hall, São
+Paulo, Brasil, 2004.
+LEVIN, J.; FOX, J. A. Estatística para Ciências do Comportamento. Pearson Prentice
+Hall, 2004.
+
+Bibliografia Complementar:
+BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica, 5 ed. Saraiva, São Paulo,
+Brasil, 2004.
+FONSECA, J. S. D. Curso de Estatística. Atlas, São Paulo, Brasil, 1996.
+FONSECA, J. S. DA; TOLEDO, G. L. M. G. D. A. Estatística Aplicada. Atlas, São
+Paulo, Brasil, 1982.
+LIPSCHUTZ, S. Probabilidade: Coleção Schaum. McGraw-Hill.
+TRIOLA, M. F. Introdução à Estatística, 10 ed. LTC, Rio de Janeiro, Brasil, 2008.
+
+Ética
+O ser humano: razão, autonomia e liberdade. A constituição do campo ético. A ética e
+as éticas profissionais em questão. Psicologia e ética.
+
+Bibliografia Básica:
+ARISTÓTELES. ​Ética a Nicômaco. S    ​ ão Paulo: Abril Cultural, 1978.
+CHAUI, M. ​ Filosofia. ​ Cap. 24. São Paulo: Ática, 2003.
+CONSELHO FEDERAL DE PSICOLOGIA. Código de ética profissional do psicólogo.
+http://www.pol.org.br/pol/export/sites/default/pol/legislacao/legislacaoDocumentos/codi
+go_etica​.
+
+Bibliografia Complementar:
+BAUMAN, Zygmunt. Ética pós-moderna. São Paulo: PAULUS, 1997.
+FREIRE, Paulo. ​Educação como prática da liberdade.​ Rio de Janeiro: Paz e Terra.
+FREUD, S. ​O Mal estar na Civilização. ​Sem dados.
+GALLO, S. Ética e cidadania – caminhos da filosofia. Campinas- SP: Papirus, 1997.
+OLIVEIRA, Manfredo, A. Correntes fundamentais da ética contemporânea. 2ª ed.
+Petrópolis: Vozes, 2000.
+
+Filosofia e Psicologia – I
+Nascimento e natureza da filosofia. Antecedentes do conceito de ​psykhé ​e sua
+constituição na filosofia grega. A contribuição da filosofia medieval para a interrogação
+do corpo e da alma.
+
+Bibliografia Básica:
+AGOSTINHO. ​Confissões.​ São Paulo: Abril Cultural, 1980.
+AQUINO, Tomás. ​O ente e a essência.​ São Paulo: Abril Cultural, 1979.
+                                                                                     26
+
+ARISTÓTELES. ​De Anima.​ Tradução de Maria Cecília Gomes dos Reis. Rio de
+Janeiro: Editora 34, 2007.
+PLATÃO. ​Fédon​. São Paulo: Nova Cultural, 2000. (Coleção Os Pensadores).
+_______. ​Lisis​. Brasília: UNB, 1995.
+
+Bibliografia Complementar:
+CHAUÍ, Marilena. ​Introdução à história da filosofia: dos pré-socráticos a Aristóteles​.
+2ª ed. Ver. E ampl. São Paulo: Companhia das Letras, 2002, v. 1.
+GRANGER, Gilles-Gaston​. Filosofar sobre a filosofia.​ In: Por um conhecimento
+filosófico. Campinas: Papirus, 1989, p. 9-27.
+MEAL, João. ​São Tomás de Aquino: iniciação ao estudo de sua figura e de sua obra.​ 2ª
+ed. Ver. E ampl. São Paulo: Tavares Martins, 1941, parte 3, p. 295-364.
+STEENBERGHEN, Fernand Van. ​História da filosofia: período cristão​. Tradução J. M.
+da Cruz Pontes. Lisboa: Gradiva, s.d., p. 114-22.
+VERNANT, JeanPierre. ​As origens do pensamento grego.​ 12ª ed. Tradução Ísis Borges
+B. da Fonseca. Rio de Janeiro: Difel, 2002.
+
+Filosofia e Psicologia – II
+Descartes: o método, o cogito, a noção de homem. O empirismo inglês e o
+psicologismo. A fenomenologia: a crítica do empirismo e a busca dos fundamentos da
+psicologia.
+
+Bibliografia Básica:
+DESCARTES, René. ​Discurso do método.​ São Paulo: Nova Cultural, 2006. (Col. Os
+Pensadores).
+HUME, David. ​Investigações Sobre o Entendimento Humano.​ São Paulo: Abril
+Cultural, 1973.
+KANT, Immanuel. ​Crítica da Razão Pura.​ Lisboa: Caloustre Gulbenkian, 2001.
+HEGEL, G.W.F. ​Fenomenologia do espírito​. Petrópolis: Vozes, 2002.
+HUSSERL, Edmund. ​A crise da humanidade européia e a filosofia​. Porto Alegre:
+EDIPUCRS, 1996. (Col. Filosofia, 41).
+
+Bibliografia Complementar:
+KOYRÉ, Alexandre. ​Estudos de história do pensamento científico.​ Rio de Janeiro: Ed.
+Forense Universitária; Brasília: Ed. Da Universidade de Brasília, 1982.
+MENEZES, Paulo. ​Para ler a Fenomenologia do Espírito de Hegel.​ São Paulo: Loyola,
+1995.
+OLIVEIRA, Manfredo, de Araújo. “Hegel, síntese entre racionalidade antiga e
+moderna”, in: ​Comemoração aos 200 anos da “Fenomenologia do Espírito” de Hegel.​
+Fortaleza: UFC, 2007. (Série Filosofia).
+SANTOS, José Henrique. ​Trabalho e riqueza na Fenomenologia do Espírito de Hegel.​
+São Paulo: Loyola, 1993.
+REALE, Giovanni. ​História da filosofia.​ Vol II. São Paulo: Paulus, 1990.
+
+Fisiologia Humana
+Introdução ao estudo da fisiologia como entendimento da organização funcional do
+organismo humano, com ênfase no estudo do sistema nervoso.
+
+Bibliografia Básica:
+                                                                                      27
+
+Koeppen, B.M. e Stanton, B.A.- Berne & Levy Fisiologia – 6ta. Ed. – Editora Elsevier,
+2009.
+Mello Aires, M. - Fisiologia, 3da. Ed., Editora Guanabara - Koogan, 2008.
+Guyton, A. C. e Hall, J.E. Tratado de Fisiologia Médica, 12ª Edição. Editora Elsevier,
+2011.
+
+Bibliografia Complementar:
+Lent, R. Neurociência da Mente e do Comportamento. 1ª. Ed. Guanabara Koogan. Rio
+de Janeiro: 2008. 372p.
+Curi, R e Procópio, J Fisiologia Básica1ª. Ed. Guanabara Koogan. Rio de Janeiro: 2009.
+857 p.
+Silverthorn, D. Fisiologia Humana, 5a. Ed., Artmed Editora, 2010.
+Cingolani, H. e Houssay, A. Fisiologia Humana de Houssay, 7​a​. Ed. Artmed Editora,
+2003.
+Ganong. W.F. Fisiologia Humana, 22°. Ed. Artmed Editora, 2006.
+
+História, Teorias e Sistemas em Psicologia I
+Teorias do conhecimento e correntes filosóficas que deram origem à psicologia.
+Concepção de ciência e suas derivações na psicologia. Constituição e consolidação da
+Psicologia como ciência. Sistemas históricos da psicologia (associacionismo,
+estruturalismo e funcionalismo).
+
+Bibliografia Básica:
+BOCK, A.M.B.; FURTADO, O.; TEIXEIRA, M. DE L.T. ​Psicologias​: uma introdução
+ao estudo de psicologia. 14. ed. São Paulo: Saraiva, 2009. 368 p.
+FIGUEIREDO, L.C.M. ​Matrizes do pensamento psicológico​. 15. ed. Petrópolis, RJ:
+Vozes, 2009. 208 p. (Série Linhas de Fuga)
+GOODWIN, C. J. ​História da psicologia moderna​. 4. ed. São Paulo:
+Pensamento-Cultrix, 2010. 576 p.
+
+Bibliografia Complementar:
+ANDERY, M.A. et al. ​Para compreender a ciência.​ 15. ed. Rio de Janeiro; São Paulo:
+Garamond: EDUC. 2006. 436 p.
+FIGUEIREDO, L.C.M.; SANTI, P.L.R. de. ​Psicologia, uma nova introdução:​ uma
+visão histórica da psicologia como ciência. São Paulo: EDUC, 2010. 102 p. (Col.
+Trilhas)
+JACÓ-VILELA, A.M.; FERREIRA, A.A.L.; PORTUGAL, F.T. (Eds). ​História da
+psicologia:​ rumos e percursos. 3. ed. Rio de Janeiro: Nau, 2013. 718 p. (Col. Ensino da
+Psicologia)
+PENNA, A.G. ​Introdução à epistemologia​. Rio de Janeiro: Imago, 2000. 130 p.
+SCHULTZ, D.P.; SCHULTZ, S.E. ​História da psicologia moderna.​ 9. ed. Sao Paulo:
+Cengage Learning, 2013. 490 p.
+
+História, Teorias e Sistemas em Psicologia II
+Correntes epistemológicas e a formação dos grandes sistemas psicológicos: matrizes
+psicanalítica, comportamental e fenomenológica. Teorias contemporâneas da psicologia.
+História da psicologia no Brasil.
+
+Bibliografia Básica:
+                                                                                      28
+
+FIGUEIREDO, L.C.M. ​A invenção do psicológico.​ Quatro séculos de subjetivação
+(1500-1900). 3. ed. São Paulo: Escuta, 2012. 173 p.
+FIGUEIREDO, L.C.M. ​Matrizes do pensamento psicológico​. 15. ed. Petrópolis, RJ:
+Vozes, 2009. 208 p. (Série Linhas de Fuga)
+JACÓ-VILELA, A.M.; FERREIRA, A.A.L.; PORTUGAL, F.T. (Eds.). ​História da
+psicologia:​ rumos e percursos. 3. ed. Rio de Janeiro: Nau, 2013. 718 p. (Col. Ensino da
+Psicologia)
+
+Bibliografia Complementar:
+BROŽEK, J.; MASSIMI, M. (Orgs.) ​Historiografia da psicologia moderna​: versão
+brasileira. São Paulo: Edições Loyola, 1998. 439 p.
+CAMPOS, R.H. de F. (Org.) ​Dicionário biográfico da psicologia no Brasil​: pioneiros.
+Rio de janeiro; Brasília: Imago: Conselho Federal de Psicologia, 2001. 461 p.
+FRANCISCO, L. A.; BERTOLINO, P. ​Psicologia no Brasil​: direções epistemológicas.
+Brasilia: Conselho Federal de Psicologia, 1995. 180 p.
+GALIMBERTI, U. ​Dicionário de Psicologia.​ São Paulo: Loyola, 2010. 1195 p.
+SCHULTZ, D.P.; SCHULTZ, S.E. ​História da psicologia moderna.​ 9 ed. São Paulo:
+Thomson Learning, 2013. 490 p.
+
+Introdução às Ciências Sociais I
+Emergência das Ciências Humanas e Sociais e o Mundo Moderno. A contribuição das
+Ciências Sociais para o debate da relação sujeito x objeto e indivíduo x sociedade:
+Durkheim, Weber e Marx. Epistemologia e História. Relação indivíduo x sociedade
+
+Bibliografia Básica:
+DURKHEIM, Émile. ​As regras do método sociológico.​ São Paulo: Editora nacional;
+1995.
+______. ​O suicídio.​ São Paulo: Martins Fontes; 2000.
+GAY, Peter. ​A experiência burguesa da Rainha Vitória a Freud. ​A educação dos
+sentidos.​ São Paulo: Companhia das Letras; 1988.
+HOBSBAWN, Eric. ​A Era das revoluções: Europa 1789-1848.​ Rio de Janeiro: Paz e
+Terra, 2003.
+MARX, Karl e ENGELS, Friedrich. ​A ideologia alemã. S        ​ ão Paulo: Martins Fontes;
+2002.
+WEBER, Max. ​Economia e sociedade: B    ​ rasília. Editora UnB; 2000.
+
+Bibliografia Complementar:
+DURKHEIM, Émile. ​As formas elementares da vida religiosa​. São Paulo: Martins
+Fontes; 2000.
+______. ​Fato social e divisão do trabalho.​ São Paulo: Editora Ática; 2007.
+MARCELLINO, Nelson Carvalho. (Org.). ​Introdução às Ciências Sociais. Campinas:
+Papirus Editora;1998. 2º Capítulo.
+MARTINS, Carlos Brandão.​ ​O que é Sociologia​. São Paulo: Brasiliense; 1991.
+MARX, Karl. ​Contribuição à crítica da economia política. ​São Paulo: Martins Fontes;
+1983.
+RODRIGUES, José Albertino. (Org.). ​DURKHEIM. São Paulo: Ática; 1989. Col.
+Grandes Cientistas Sociais.
+SELL, Carlos Eduardo. ​Sociologia Clássica: Marx, Durkheim e Weber. P        ​ etrópolis:
+Vozes; 2010. 1º Capítulo.
+                                                                                       29
+
+WEBER, Max. ​Metodologia das ciências sociais​. São Paulo: Cortez/Editora Unicamp;
+1992.
+______. ​A ética protestante e o espírito do capitalismo.​ São Paulo: Companhia das
+letras; 2004.
+
+Introdução às Ciências Sociais II
+Cultura e civilização. Antropologia e Sociologia. Cultura e produção simbólica.
+Estrutura social. A diversidade dos sistemas simbólicos. Cultura e personalidade.
+
+Bibliografia Básica:
+DA MATTA, Roberto. ​Relativizando: uma introdução à Antropologia Social.​
+Petrópolis, Vozes, 1981.
+ADORNO, Theodor W. & HORKHEIMER, Max. ​Temas básicos da Sociologia.​ São
+Paulo: Cultrix; 1973.
+BERGER, Peter L. & LUCKMANN, THOMAS. ​A construção social da realidade​.
+Petrópolis, vozes, 1978.
+BERGER, Peter L. & BERGER, Brigitte. O que é uma instituição social? In:
+FORACCHI, Marialice Mencarini. & Martins, José de Sousa. (org.) ​Sociologia e
+Sociedade​. São Paulo: Livros Técnicos e Científicos, 1976.
+
+Bibliografia Complementar:
+ADORNO, Theodor W. ​Educação após Auschwitz in Cohn, Gabriel (org.). Theodor W.
+Adorno. São Paulo: Ática, 1986, Col. Grandes Cientistas Sociais.
+BERGER, Peter L. & BERGER, Brigitte. Socialização: como ser um membro da
+sociedade In: FORACCHI, Marialice Mencarini. & Martins, José de Sousa. (org.)
+Sociologia e Sociedade.​ São Paulo: Livros Técnicos e Científicos, 1976.
+BOURDIEU, Pierre. ​Escritos de Educação. (​ Org.) NOGUEIRA, Maria Alice &
+CATANI, Afrânio. Petrópolis: Vozes; 1999.
+IANNI, Octávio. A sociedade global. Rio de Janeiro: Civilização brasileira; 1995.
+LALLEMENT, Michel. ​História das ideias sociológicas:​ de Parson aos
+contemporâneos. Petrópolis: Vozes; 2004.
+LARAIA, Roque de Barros. ​Cultura. Um conceito antropológico.​ Rio de Janeiro: Jorge
+Zahar Editor; 2001.
+MANNHEIM, Karl. Liberdade, poder e planificação democrática. São Paulo, Mestre
+Jou, 1972.
+MARTINS, José de Souza. Reflexão crítica sobre o tema da “exclusão social”. In: ​A
+sociedade vista do abismo: novos estudos sobre exclusão, pobreza e classes sociais.​
+Petrópolis: Vozes; 2002.
+
+Investigação e métodos em Psicologia - I
+Aspectos epistemológicos e éticos da pesquisa científica em psicologia. A abordagem
+qualitativa e quantitativa na pesquisa em psicologia. Métodos de investigação em
+psicologia A investigação em psicologia no Brasil. A pesquisa psicológica na
+atualidade.
+
+Bibliografia Básica:
+Demo, P. (1995). ​Metodologia científica em ciências sociais (​ 3ª ed.). São Paulo: Atlas.
+Flick, U. (2009). ​Introdução à pesquisa qualitativa (​ 3ª ed.). Porto Alegre: Artmed.
+González Rey, F. (2005). ​Pesquisa qualitativa e subjetividade: Os processos de
+                                                                                     30
+
+construção da informação​. São Paulo: Thomson.
+
+Bibliografia Complementar:
+Baquero, M. (2009). ​Pesquisa quantitativa nas ciências sociais.​ Porto Alegre: Editora
+UFRGS.
+Campos, L. F. d. L. (2000). ​Métodos e técnicas de pesquisa em psicologia (1 ed.).
+Campinas, SP: Editora Alínea.
+Chizzotti, A. (2006). ​Pesquisa qualitative em ciências humanas e sociais.​ Petrópolis:
+Vozes.
+Miranda, M. I. (2005). A produção do conhecimento científico, os paradigmas
+epistemológicos e a pesquisa social. ​Educação e Filosofia, 19(​ 37), 239-251.
+Rudio, F. V. (2007). ​Introdução ao projeto de pesquisa científica​. Petrópolis: Vozes.
+
+Investigação e métodos em Psicologia - II
+Estudo teórico e prático do planejamento e do projeto de pesquisa. Tipos de
+delineamento de pesquisa. Problemas de mensuração em Psicologia. Técnicas de
+pesquisa em psicologia. Sistematização de dados. Postura investigativa no trabalho
+diário. Elaboração do projeto de pesquisa. A apresentação e a comunicação da pesquisa.
+
+Bibliografia Básica:
+BACHRACH, Arthur. Introdução à pesquisa psicológica​. ​São Paulo: Herder, 1972.
+MARTINS, Joel & BICUDO, Maria Aparecida Viggiani. A Pesquisa Qualitativa em
+Psicologia: fundamentos e recursos básicos. São Paulo: Morais, 1994.
+MINAYO, Maria Cecília de Souza. O Desafio do Conhecimento: pesquisa qualitativa
+em saúde​.​ São Paulo/ Rio de Janeiro: HUCITEC-ABRASCO, 2000.
+
+Bibliografia Complementar:
+GOLDENBERG, Mirian. A Arte de Pesquisar. Como Fazer Pesquisa Qualitativa em
+Ciências Sociais​.​ Rio de Janeiro: Record, 2000.
+BECKER, Howard. S. Métodos de pesquisa em Ciências Sociais​. ​São Paulo:
+HUCITEC, 1997.
+KERLINGER, Fred N. Metodologia da pesquisa em ciências sociais. Tradução: Helena
+Mendes Rotundo. São Paulo: Editora Pedagógica Universitária, 1980.
+                                                                    ​ etrópolis: Editora
+RUDIO, Franz Victor. Introdução ao projeto de pesquisa científica​. P
+Vozes, 2002.
+SÁ, Celso Pereira. A ​ Construção do Objeto de Pesquisa em Representações Sociais​. Rio
+de Janeiro: Ed. UERG, 1998.
+
+Laboratório de Atividades Integradas: Psicologia e formação I
+Desenvolvimento de atividades diversas visando à compreensão do processo de
+formação do psicólogo: a concepção de formação e suas especificidades no campo da
+psicologia. A proposta de formação do curso.
+
+Bibliografia Básica:
+ADORNO, T. W. Educação e emancipação. Rio de Janeiro: Paz e Terra, 2006.
+BOCK, A. M. B. As aventuras do Barão de Munchhausen na Psicologia. São Paulo:
+Cortez, 1999.
+FIGUEIREDO, L.C.M. Revisitando as Psicologias. Petrópolis: Vozes, 2009.
+                                                                                     31
+
+Bibliografia Complementar:
+ACHCAR, R. A. (org.). Psicólogo brasileiro: práticas emergentes e desafios para a
+formação. Conselho Federal de Psicologia/Câmara de Educação e Formação
+Profissional. São Paulo: Casa do Psicólogo, 2006.
+CONSELHO FEDERAL DE PSICOLOGIA. Código de ética profissional do psicólogo.
+http://www.pol.org.br/pol/export/sites/default/pol/legislacao/legislacaoDocumentos/codi
+go_etica.
+FERREIRA NETO, J. L. A formação do psicólogo: clínica, social e mercado. São
+Paulo: Escuta, 2004; Belo Horizonte: FUMEC/FCH, 2004.
+FIGUEIREDO, L.C.M. e SANTI, P.L.R. Psicologia: uma (nova) introdução. São Paulo:
+EDUC, 2013.
+RUSSO, J. O mundo PSI no Brasil. Rio de Janeiro: Zahar, 2002.
+
+Laboratório de Atividades Integradas: Psicologia e formação II
+Desenvolvimento de atividades diversas visando à compreensão do processo de
+formação do psicólogo. Formação e campos de atuação do psicólogo. A profissão de
+psicólogo no Brasil e em Goiás.
+
+Bibliografia Básica:
+ADORNO, T. W. Educação e emancipação. Rio de Janeiro: Paz e Terra, 2006.
+BOCK, A. M. B. As aventuras do Barão de Munchhausen na Psicologia. São Paulo:
+Cortez, 1999.
+FIGUEIREDO, L.C.M. Revisitando as Psicologias. Petrópolis: Vozes, 2009.
+
+Bibliografia Complementar:
+ACHCAR, R. A. (org.). Psicólogo brasileiro: práticas emergentes e desafios para a
+formação. Conselho Federal de Psicologia/Câmara de Educação e Formação
+Profissional. São Paulo: Casa do Psicólogo, 2006.
+CONSELHO FEDERAL DE PSICOLOGIA. Código de ética profissional do psicólogo.
+http://www.pol.org.br/pol/export/sites/default/pol/legislacao/legislacaoDocumentos/codi
+go_etica​.
+FERREIRA NETO, J. L. A formação do psicólogo: clínica, social e mercado. São
+Paulo: Escuta, 2004; Belo Horizonte: FUMEC/FCH, 2004.
+FIGUEIREDO, L.C.M. e SANTI, P.L.R. Psicologia: uma (nova) introdução. São Paulo:
+EDUC, 2013.
+RUSSO, J. O mundo PSI no Brasil. Rio de Janeiro: Zahar, 2002.
+
+Laboratório de Atividades Integradas: Psicologia e ciência I
+Desenvolvimento de atividades diversas visando à compreensão da psicologia como
+ciência: dificuldades, impasses e implicações da definição de seu estatuto científico. A
+psicologia e sua vinculação ou aproximação com os campos das ciências humanas,
+sociais e biológicas.
+
+Bibliografia Básica:
+CHAUÍ, M. Convite à Filosofia. São Paulo: Ed. Ática, 2000.
+FIGUEIREDO, L. C. Matrizes do pensamento psicológico. Petrópolis: Vozes, 1991.
+SANTOS, B. S. Um discurso sobre as ciências. São Paulo: Cortez, 2010.
+
+Bibliografia Complementar:
+                                                                                     32
+
+CONSELHO NACIONAL DE SAÚDE – RESOLUÇÃO 196/96. Diretrizes e normas
+regulamentadoras de pesquisas envolvendo seres humanos.
+MINAYO, M. C. S. O desafio do conhecimento pesquisa qualitativa em saúde. São
+Paulo:
+GIORGI, A. A Psicologia como Ciência Humana: uma abordagem fenomenológica.
+Belo Horizonte: Interlivros, 1978.
+GOLDENBERG, M. A Arte de Pesquisar. Como Fazer Pesquisa Qualitativa em
+Ciências Sociais​.​ Rio de Janeiro: Record, 2000.
+TURATO, E. R. Tratado de metodologia da pesquisa clínico-qualitativa. Petrópolis:
+Vozes, 2003.
+
+Laboratório de Atividades Integradas: Psicologia e ciência II
+Desenvolvimento de atividades diversas visando à compreensão da psicologia como
+ciência. O embate entre as diferentes concepções de psicologia. A pesquisa científica na
+formação do psicólogo.
+
+Bibliografia Básica:
+BARDIN, L. Análise de Conteúdo. Lisboa: Edições 70, 1997.
+BLEGER, J. Temas de Psicologia: entrevistas e grupos. São Paulo: Martins Fontes,
+1980.
+MORIN, E. Ciência com consciência. Rio de Janeiro: Bertrand Brasil, 1998.
+
+Bibliografia Complementar:
+BARBIER, R. A pesquisa-ação. Brasília: Plano Editora, 2002.
+ORLANDI, E. P. Análise de discurso: princípios e procedimentos. São Paulo:
+Campinas, Pontes, 2003.
+SANTOS, B. S. Um discurso sobre as ciências. São Paulo: Cortez, 2010.
+THIOLLENT, M. Metodologia da pesquisa-ação. São Paulo: Ed. Cortez. 7ª edição,
+1996.
+TURATO, E. R. Tratado de metodologia da pesquisa clínico-qualitativa. Petrópolis:
+Vozes, 2003.
+
+Laboratório de Atividades Integradas: Psicologia, política e ideologia I
+Desenvolvimento de atividades diversas visando à compreensão da psicologia, sua
+dimensão política, seus compromissos éticos, sua apropriação ideológica.
+
+Bibliografia Básica:
+ALTHUSSER, L. Aparelhos Ideológicos de Estado: Notas sobre os Aparelhos
+Ideológicos de Estado. Rio de Janeiro: Graal, 1985.
+CHAUÍ, M.C. Cultura e Democracia. São Paulo: Cortez, 9​o​ Ed, 2001.
+FOUCAULT, M. Microfísica do Poder. Rio de Janeiro: Graal, 1979.
+
+Bibliografia Complementar:
+BOBBIO, N.; MATEUCCI, N.; PASQUINO, G. (orgs). Dicionário de Política. Brasília:
+UnB, 1991.
+DELEUZE, G. & GUATTARI, F. O Anti-édipo. Rio de Janeiro, Imago, 1976.
+GUATTARI, F. A Revolução Molecular. São Paulo: Brasiliense, 1987.
+GUATTARI, F. Caosmose. São Paulo: 34, 1992.
+                                                                                   33
+
+LAZZARATO, M. As revoluções do capitalismo. Rio de Janeiro: Civilização
+Brasileira, 2006.
+
+Laboratório de Atividades Integradas: Psicologia, política e ideologia II
+Desenvolvimento de atividades diversas visando à compreensão da psicologia e sua
+dimensão política e ideológica. Psicologia e senso comum. Os riscos de normatização e
+regulação social. Políticas de educação ambiental.
+
+Bibliografia Básica:
+GUATTARI, F. As três ecologias. Campinas: Papirus, 1991.
+GUATTARI, F. & ROLNIK, S. Micropolítica: Cartografias do Desejo. Rio de Janeiro:
+Vozes, 1986.
+FOUCAULT, M. Nascimento da Biopolítica: Curso dado no Collège de France
+(1978-1979). São Paulo: Martins Fontes, 2008.
+
+Bibliografia Complementar:
+BUTLER, J. Problemas de Gênero: Feminismo e subversão da identidade. Rio de
+Janeiro: Civilização brasileira, 2010.
+FOUCAULT, M. Em defesa da sociedade. São Paulo: Martins Fontes, 1999.
+FOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2007.
+HARAWAY, D., KUNZRU, H., SILVA, T.T. Antropologia do ciborgue: as vertigens
+do pós-humano. Belo Horizonte: Autentica, 2000.
+MELUCCI, A. A invenção do presente: Movimentos Sociais nas sociedades
+complexas. São Paulo: Vozes, 2001.
+SOARES, L.E., PIMENTEL, R. e BATISTA, A. Elite da Tropa. Rio de Janeiro: Ed.
+Objetiva, 2006.
+
+Laboratório de Atividades Integradas: Psicologia e profissão I
+Desenvolvimento de atividades diversas visando à discussão da atuação do psicólogo
+nas diferentes áreas, suas implicações e desafios.
+
+Bibliografia Básica:
+ACHCAR, R. & DURAN, A. P. (Orgs.). ​Psicólogo brasileiro: Práticas emergentes e
+desafios para a formação​. São Paulo: Casa do Psicólogo, 2006.
+BOCK, A. M. B. (Org.). ​Psicologia e o compromisso social.​ São Paulo: Cortez, 2009.
+CFP. (Org.). ​Psicólogo brasileiro: Construção de novos espaços. C ​ ampinas: Alínea,
+2005.
+
+Bibliografia Complementar:
+HUR, D. U. Políticas da psicologia: Histórias e práticas das associações profissionais
+(CRP e SPESP) de São Paulo, entre a ditadura e a redemocratização do país. ​Psicologia
+USP,            23(​ 1),       69-90,           2012.          Disponível          em:
+http://www.scielo.br/pdf/pusp/v23n1/v23n1a04.pdf
+JACÓ-VILELA, M.; FERREIRA, A. A. L. & PORTUGAL, F. T. (Orgs.). ​História da
+psicologia: Rumos e percursos​. Rio de Janeiro: Nau Editora, 2006.
+MELLO, S. L. de. ​Psicologia e profissão em São Paulo​. São Paulo: Ática, 1975.
+YAMAMOTO, O. H. ​A crise e as alternativas da psicologia.​ São Paulo: Edicon, 1987.
+YAMAMOTO, O. H. & Costa, A. L. F. (Orgs.). ​Escritos sobre a profissão de psicólogo
+no Brasil​. Natal: EDUFRN, 2010.
+                                                                                    34
+
+
+
+
+Laboratório de Atividades Integradas: Psicologia e profissão II
+Desenvolvimento de atividades diversas visando à discussão da atuação do psicólogo
+nas diferentes áreas, suas implicações e desafios. Caminhos e perspectivas da atuação
+profissional em Goiás.
+
+Bibliografia Básica:
+ACHCAR, R. A. (org.). Psicólogo brasileiro: práticas emergentes e desafios para a
+formação. Conselho Federal de Psicologia/Câmara de Educação e Formação
+Profissional. São Paulo: Casa do Psicólogo, 2001.
+CONSELHO FEDERAL DE PSICOLOGIA. Código de ética profissional do psicólogo.
+http://www.pol.org.br/pol/export/sites/default/pol/legislacao/legislacaoDocumentos/codi
+go_etica​.
+CONSELHO FEDERAL DE PSICOLOGIA. Câmara de Educação e Formação
+Profissional. Psicólogo brasileiro: construção de novos espaços. Campinas: Átomo,
+1992.
+
+Bibliografia Complementar:
+BRASIL. Diretrizes Curriculares Nacionais para os Cursos de Graduação em Psicologia
+no Brasil. Brasília: MEC, 2005.
+FERREIRA NETO, J. L. A formação do psicólogo: clínica, social e mercado. São
+Paulo: Escuta, 2004; Belo Horizonte: FUMEC/FCH, 2004.
+MIETH, D. Pequeno estudo de Ética. São Paulo: Idéias e Letras, 2007
+PUCCI, B., LASTÓRIA, L. A. C. N. e COSTA, B. C. G. Tecnologia, cultura e
+formação... ainda Auschwitz. São Paulo: Cortez, 2003.
+ROMANO, R. A. Ética na Psicologia. Petrópolis: Vozes, 2006.
+RUSSO, J. O mundo PSI no Brasil. Rio de Janeiro: Zahar, 2002.
+
+
+Laboratório de Atividades Integradas: Psicologia e intervenção social I
+Desenvolvimento de atividades diversas visando à discussão da psicologia como ciência
+e profissão e seus desafios contemporâneos. A relação teoria e prática. Psicologia e
+intervenção social: limites e perspectivas.
+
+Bibliografia Básica:
+AFFONSO, M.L. Oficinas em dinâmica de grupo: um método de intervenção
+psicossocial. Sao Paulo: Casa do Psicólogo, 2010.
+MORE, C. & MACEDO, R.M. A psicologia na comunidade: uma proposta de
+intervenção. São Paulo: Casa do Psicólogo, 2006.
+MARRA, M.M. & FLEURY, H.J. Grupos: intervenção socioeducativa e método
+sociopsicodramático. São Paulo: Ágora, 2008.
+
+Bibliografia Complementar:
+CAMPOS, R.H.F. & LANE, S.T.M. Psicologia Social Comunitária: da solidariedade à
+autonomia. Petrópolis: Vozes, 1996.
+MONTAÑO, C. Terceiro setor e questão social : crítica ao padrão emergente de
+intervenção social. Sao Paulo: Cortez, 2008.
+PICHON-RIVIÈRE, E. O processo grupal. São Paulo: Martins Fontes: 1986.
+                                                                                     35
+
+SARRIERA, J.C. & SAFORCADA, E.T. Introdução à psicologia comunitária : bases
+teóricas e metodológicas. Porto Alegre: Sulina, 2010.
+VASCONCELOS, E.M. O que é a Psicologia comunitária. São Paulo: Brasiliense,
+1985.
+
+Laboratório de Atividades Integradas: Psicologia e intervenção social II
+Desenvolvimento de atividades diversas visando à discussão da psicologia como ciência
+e profissão e seus desafios contemporâneos. Novos campos de atuação do psicólogo. A
+pesquisa psicológica e a ação profissional em perspectiva.
+
+Bibliografia Básica:
+ARAGÃO, L.T. Clínica do social: ensaios. São Paulo: escuta, 1991.
+PASSOS, E; KASTRUP, V. & ESCOSSIA, L. Pistas do método da cartografia:
+pesquisa - intervenção e produção de subjetividade. Porto Alegre: Sulina, 2010.
+PICHON-RIVIÈRE, E. O processo grupal. São Paulo: Martins Fontes: 1986.
+
+Bibliografia Complementar:
+AFFONSO, M.L. Oficinas em dinâmica de grupo: um método de intervenção
+psicossocial. Sao Paulo: Casa do Psicólogo, 2010.
+CAMPOS, R.H.F. & LANE, S.T.M. Psicologia Social Comunitária: da solidariedade à
+autonomia. Petrópolis: Vozes, 1996.
+GUATTARI, F. Psicanálise e transversalidade. Aparecida, SP: Idéias e Letras, 2004.
+KAËS, R. A instituição e as instituições. São Paulo: Casa do psicólogo, 1991.
+MARRA, M.M. & FLEURY, H.J. Grupos: intervenção socioeducativa e método
+sociopsicodramático. São Paulo: Ágora, 2008.
+
+LIBRAS
+O Histórico e a legislação para a inclusão dos surdos; Língua Brasileira de Sinais,
+(conceito e prática); os aspectos gramaticais/linguísticos e culturais da Libras; Libras
+como instrumento de inclusão e acessibilidade de pessoas surdas.
+
+Bibliografia Básica:
+FELIPE, Tanya. A. LIBRAS em contexto.MEC.SEESP,Brasília,1999
+GESSER, Audrei, LIBRAS?: Que língua é essa?: Crenças e preconceitos em torno da
+Língua de Sinais e da realidade surda. São Paulo: Parábola Editorial, 2009
+PIRES, Edna Misseno; SANTOS, Zilda Misseno Pires. Apostila do Curso Básico de
+LIBRAS- Língua Brasileira de Sinais. Goiânia, 2011.
+
+Bibliografia Complementar:
+CAPOVILLA, Fernando César, Raphael Walquíria Duart.Dicionário Enciclopédia
+ilustrado trilíngue – LIBRAS , São Paulo . Editora Universidade de São Paulo, 2001.
+BRASIL – MEC. Língua Brasileira de Sinais V.III/ Org.por LucindaF.Brito ET AL-
+Brasília:SEESP,1998
+SASSAKI, Romeu Kasumi –Inclusao : Construindo uma sociedade para todos.Rio de
+Janeiro,W.V.A.1997
+QUADROS,Ronice Müller. O tradutor e intérprete de Língua de Sinais e Língua
+Portuguesa. Secretaria de Educação de surdos – Brasília: MEC; SEESP,2004.
+________ Ronice Muller. Educação dos surdos e a aquisição da linguagem . Porto
+Alegre. Editora Artes Médicas Sul Ltda, 1997.
+                                                                                  36
+
+
+
+Neuropsicologia
+Fundamentos orgânico-cerebrais da atividade mental superior, conseqüências das
+disfunções cerebrais, estratégias para avaliação da atividade mental superior e
+correlação das alterações com áreas provavelmente disfuncionais.
+
+Bibliografia Básica:
+CAIXETA, Leonardo. & FERREIRA. Sandra de Fátima Barboza. Manual de
+Neuropsicologia. São Paulo, Atheneu. (2012)
+GIL, Roger. Neuropsicologia. São Paulo: Santos. (2002).
+CARNEIRO, Marcos Antônio. Atlas de Neuroanatomia. Goiás. Editora UFG. 1997
+
+Bibliografia Complementar:
+CAIXETA,Leonardo. Demências. São Paulo: Lemos Editorial. 2004.
+CAIXETA, Leonardo. Demências do tipo não-Alzheimer. ARTMED. 2010
+CAIXETA,Leonardo & Teixeira, Antônio Lúcio. Neuropsicologia Geriátrica. Porto
+Alegre: Artmed, (2014).
+MACHADO, Angelo. Neuroanatomia Funcional. Rio de Janeiro. Atheneu. 1988
+MATURANA, Humberto. ​A árvore do conhecimento​: as bases biológicas da
+compreensão humana. São Paulo: Palas Athena, 2005.
+
+Processos Psicológicos Básicos
+Estudo dos Processos Psicológicos Básicos – relacionados aos aspectos
+comportamentais, cognitivos e emocionais – presentes nos processos de
+desenvolvimento e aprendizagem tais como: percepção, consciência, linguagem,
+memória etc.
+
+Bibliografia Básica:
+BOCK, Ana Maria; FURTADO, Odair & TEIXEIRA, M.L.T. ​Psicologias: uma
+introdução ao estudo da psicología.1​ 4ªedição. São Paulo: Saraiva, 2008.
+DAVIDOFF, Linda L. ​Introdução à Psicologia.​ São Paulo: Makron Books, 2012.
+VYGOTSKY, L. S. ​A formação Social da Mente.​ São Paulo: Martins Fontes, 1991.
+
+Bibliografia Complementar:
+LURIA, A. R. ​Desenvolvimento Cognitivo: fundamentos culturais e sociais​. São Paulo:
+Ícone, 1990.
+MELO, Otávio A. Mercado de Relações. In: ​Psicologia Social: indivíduo e cultura​.
+Campinas,SP: Editora Alínea, 2004.
+                                          ​ io de Janeiro: LTC, 1998.
+MYERS, David G. ​Introdução à psicologia. R
+OLIVEIRA, Martha Kohl. Vygotsky – aprendizado e desenvolvimento: um processo
+sócio-histórico. São Paulo: Scipione, 1997.
+PALANGANA, I. C. Individualidade: afirmação e negação na sociedade capitalista.
+São Paulo: Plexus, 1998.
+
+Psicanálise - I
+História da Psicanálise. Psicanálise: procedimento de investigação de processos
+mentais, método de tratamento, hipótese psicológica. Psicanálise e cultura.
+                                                                                     37
+
+
+
+Bibliografia Básica:
+FREUD, S. Além do Princípio do Prazer (1920) In: Obras Completas, vol. XVIII. Rio
+de Janeiro: Imago, 1976.
+FREUD, S. O inconsciente (1915). In: Obras Completas, vol. XIV. Rio de Janeiro:
+Imago, 1976.
+FREUD, S. Repressão (1915). In: Obras Completas, vol. XIV. Rio de Janeiro: Imago,
+1976.
+
+Bibliografia Complementar:
+BERMAN, Marshall. Introdução – Modernidade: ontem, hoje e amanhã. In: ______.
+Tudo que é sólido desmancha no ar. ​São Paulo: Companhia das Letras, 1986.
+FREUD, S. Cinco Lições de Psicanálise. In: Obras Completas, vol.XI. Rio de Janeiro;
+Imago, 1976.
+FREUD, S. Resistências à Psicanálise (1925) In: Obras Completas, vol. XIX. Rio de
+Janeiro: Imago, 1976.
+FREUD. S. A História do Movimento Psicanalítico (1914). In: ​Obras Completas​.
+Edição Standart Brasileira, vol. XIV. Rio de Janeiro: Imago Editora LTDA.
+FREUD, S. Novas Conferências Introdutórias sobre Psicanálise (1933). In: Obras
+Completas, vol. XXII. Rio de Janeiro: Imago, 1976.
+FREUD, S. Esboço de Psicanálise (1938). In: Obras Completas, vol. XXIII. Rio de
+Janeiro: Imago, 1976.
+GAY, Peter. Freud: uma vida para o nosso tempo. São Paulo: Companhia das Letras,
+1989.
+
+Psicanálise - II
+Aparelho psíquico. Sexualidade e Inconsciente. Pulsão, narcisismo e conflito edipiano.
+
+Bibliografia Básica:
+FREUD, S. (1914) A guisa de introdução ao narcisismo. Em: ​Escritos sobre a
+psicologia do inconsciente​, vol. I: 1911-1915. Rio de Janeiro: Imago, 2004.
+FREUD, S. (1915) Pulsões e destinos da pulsão. Em: ​Escritos sobre a psicologia do
+inconsciente,​ vol. I: 1911-1915. Rio de Janeiro: Imago, 2004.
+FREUD, S. (1920) Além do Princípio de Prazer. Em: ​Escritos sobre a psicologia do
+inconsciente,​ vol .II: 1915-1920 . Rio de Janeiro: Imago, 2006.
+FREUD, S. (1923) O eu e o id. Em: ​Escritos sobre a psicologia do inconsciente​, vol.
+III: 1923-1940. Rio de Janeiro: Imago, 2007.
+
+Bibliografia Complementar:
+FREUD, S. (1940[1938]) A cisão do eu no processo de defesa. Em: ​Escritos sobre a
+psicologia do inconsciente​, vol. III: 1923-1940. Rio de Janeiro: Imago, 2007.
+FREUD, S. A Dissolução do Complexo de Édipo (1924). Em: ​Obras Completas,​ v.
+XIX. Rio de Janeiro: Imago, 1976.
+FREUD, S. Algumas consequências psíquicas da distinção anatômica entre os sexos
+(1925). Em: ​Obras completas,​ v. XIX. Rio de Janeiro: Imago, 1976.
+FREUD, S. A Dissecção da personalidade psíquica (1933 [1932]). Em: ​Obras
+completas​, v. XXII. Rio de Janeiro: Imago, 1976.
+GARCIA-ROZA, L. A. ​Acaso e repetição em psicanálise: uma introdução à teoria das
+pulsões​. Rio de Janeiro: Jorge Zahar Ed., 2003.
+                                                                                       38
+
+JORGE, Marco Antonio Coutinho. ​Fundamentos da Psicanálise de Freud a Lacan.​ Rio
+de Janeiro: Jorge Zahar, 2000.
+LACAN, Jacques. ​O Seminário, livro 11: os quatro conceitos fundamentais da
+psicanálise.​ ​Rio de Janeiro: Jorge Zahar, 1998.
+ROUDINESCO, E. (1998) ​Dicionário de psicanálise​. Rio de Janeiro: Jorge Zahar.
+
+Psicodiagnóstico - I
+Avaliação psicológica: histórico e conceitos básicos. Instrumentos auxiliares do exame
+e diagnóstico psicológico. Qualidades e limitações das técnicas diagnósticas.
+
+Bibliografia Básica:
+CUNHA, Jurema Alcides Psicodiagnóstico - V 5. ed. rev. e ampl. - Porto Alegre :
+ARTMED, 2003.
+GARCIA ARZENO, Maria Esther Psicodiagnóstico clínico novas contribuições Porto
+Alegre : Artes Medicas, 1995.
+LAURA ALBAJARI, Verónica La entrevista en el proceso psicodiagnóstico Buenos
+Aires : Psicoteca Editorial, 1996
+
+Bibliografia Complementar:
+AUGRAS, Monique O ser da compreensão fenomenologia da situação de
+psicodiagnóstico 11.ed. - Petropolis : Vozes, 2004.
+SCHELINI, Patrícia Waltz Alguns domínios da avaliação psicológica Campinas, SP :
+Alinea, 2007.
+SIQUIER DE OCAMPO, Maria Luisa O processo psicodiagnóstico e as técnicas
+projetivas 11.ed Sao Paulo : Martins Fontes, 2010.
+TRINCA, Walter Diagnóstico psicológico a prática clínica Sao Paulo : E.P.U., 1984.
+YOSHIDA, Elisa Medici Pizão Psicoterapias psicodinâmicas breves e critérios
+psicodiagnósticos Sao Paulo : EPU, 1990.
+
+Psicodiagnóstico - II
+Seleção, aplicação, avaliação e interpretação de técnicas diagnósticas. Diagnósticos
+psicológicos especiais. Princípios éticos e resultados do processo de avaliação
+psicológica.
+
+Bibliografia Básica:
+BEE, Helen. O ciclo Vital​. ​Porto Alegre: Artes Médicas, 1997
+CUNHA, Jurema Alcides. Psicodiagnóstico V​.​ Porto Alegre: Artes Médicas: 2000.
+PAPALIA, Diane E.; OLDS, Sally Wendkos; FELDMAN, Ruth Duskin.
+Desenvolvimento humano. 7.ed. Porto Alegre: Artmed, 2000. 684 p
+
+Bibliografia Complementar:
+Ajuriaguerra, J. Manual de Psiquiatria Infantil. Masson-Atheneu. S/D.
+Buck, J.N. (2003). ​H.T.P.: C ​ asa- Arvore- Pessoa, Tecnica Projetiva de Desenho:
+Manual e guia de interpretação. São Paulo: Vetor.
+Hammer, E. (1991). Aplicações Clínicas dos Desenhos Projetivos. São Paulo: Casa do
+Psicólogo.
+OCAMPO, Maria .Luiza. O processo psicodiagnóstico e as técnicas projetivas. São
+Paulo: Martins Fontes. 1981
+                                                                                      39
+
+ORGANIZAÇÃO MUNDIAL DE SAÚDE. Classificação de Transtornos Mentais e de
+Comportamento da CID-10​: Descrições Clínicas e Diretrizes Diagnósticas.​ Porto
+Alegre: Artes Médicas, 1993.
+
+Psicologia da Personalidade I
+Aspectos epistemológicos decorrentes do campo de estudo da personalidade. Principais
+sistemas e teorias da personalidade e métodos de pesquisa decorrentes.
+
+Bibliografia Básica:
+CLONINGER, S. Terias da personalidade. São Paulo: Martins Fontes, 2003.
+KAFKA, F. Carta ao pai. São Paulo: Companhia da letras, 1997.
+HALL, C.; LINDZEY, G. & CAMPBELL. Teorias da personalidade. Porto Alegre:
+Artmed, 2006.
+
+Bibliografia Complementar:
+ALLPORT, G. Personalidade: padrões e desenvolvimento. São Paulo: Herder, 1969.
+FADIMAN, J. & FRAGER, R. Teorias da personalidade. São Paulo: Harbra, 1986.
+FROMM, E. Anatomia da destrutividade humana. (2ª edição). Rio de Janeiro: LTC,
+1987.
+LEWIN, K. Problemas de dinâmica de grupo. São Paulo: Cultrix, 1978.
+MASLOW, A. Introdução a psicologia do ser. Rio de Janeiro: Eldorado, 1966.
+ROGERS, C. A pessoa como centro. São Paulo: EPU, 1977.
+
+Psicologia da Personalidade II
+Teoria Psicanalítica da personalidade: Freud, Lacan. Estudos pós-freudianos: Adler,
+Horney, Klein e Reich.
+
+Bibliografia Básica:
+FREUD, S. (1914). A História do Movimento Psicanalítico. In: Obras Completas, vol.
+XIV. Rio de Janeiro: Imago, 1974.
+HORNEY, Karen. A personalidade neurótica de nosso tempo. São Paulo: DIFEL, 1983.
+JACOBY, Russell. Amnésia Social: uma crítica à Psicologia Conformista, de Adler a
+Laing. Rio de Janeiro: Zahar Editores, 1977.
+
+Bibliografia Complementar:
+FREUD, S. (1933). A dissecção da Personalidade Psíquica. In: Obras Completas, vol.
+XXXII. Rio de Janeiro: Imago, 1974
+KLEIN, M. Contribuições à Psicanálise. São Paulo: Mestre Jou, 1970.
+LACAN, J. Nota sobre a criança. Em: Outros Escritos. Rio de Janeiro: Jorge Zahar,
+2003.
+NASIO, J-D. Introdução às obras de Freud, Ferenczi, Groddeck, Klein, Winnicott,
+Dolto, Lacan. Rio de Janeiro: Jorge Zahar, 1995.
+REICH, W. Análise do Caráter. São Paulo: Martins Fontes, 1998.
+
+Psicologia do desenvolvimento e da aprendizagem I
+Pressupostos teóricos básicos da psicologia do desenvolvimento. Fatores do
+desenvolvimento humano. A relação entre aprendizagem e desenvolvimento humano.
+Historicidade da infância. Aspectos biológicos, psicológicos e sociais do
+desenvolvimento pré-natal, nascimento e fase neo-natal. Fatores envolvidos na
+                                                                                   40
+
+formação da criança com necessidades especiais. Os primeiros anos de vida:
+desenvolvimento e aprendizagem na abordagem psicanalítica.
+
+Bibliografia Básica:
+BEE,H. ​A criança em desenvolvimento.​ Porto Alegre: Artmed, 1996.
+COLL,C. Et al. Desenvolvimento psicológico e educação – Educação Evolutiva. Porto
+Alegre: Artes Médicas, v.01, 2004.
+PAPALIA, D.E. e FELDMAN, R.D. Desenvolvimento humano. Porto Alegre: AMGH,
+2013.
+
+Bibliografia Complementar:
+ARIÈS, P. História Social da Criança e da Família. Rio de Janeiro:Guanabara, 1981.
+BOWLBY,J. Apego e perda. São Paulo: Martins Fontes, 1984.
+JERUSALINSKY, A. Psicanálise e desenvolvimento infantil. Porto Alegre: Artes e
+Ofícios, 2004.
+SPITZ, R. A. O primeiro ano de vida. São Paulo: Martins Fontes, 2004.
+WINNICOTT, D.W. A família e o desenvolvimento individual. São Paulo: Martins
+Fontes, 2005.
+
+Psicologia do desenvolvimento e da aprendizagem II
+As fases da vida e sua constituição histórica, social e psicológica. Desenvolvimento e
+aprendizagem da criança e do adolescente nas abordagens da Psicologia Genética de J.
+Piaget e Psicologia Genética de H. Wallon.
+
+Bibliografia Básica:
+GALVÃO, I. ​Henri Wallon – Uma concepção dialética do desenvolvimento infantil.
+Petrópolis, RJ: Vozes, 1995.
+MAHONEY, A. A. e ALMEIDA, L. R. (Orgs.). ​Henri Wallon – psicologia e educação.​
+São Paulo: Edições Loyola, 2000.
+PIAGET, Jean; INHELDER. Bärbel. ​A psicologia da criança.​ São Paulo: Difel, 1974.
+PIAGET, J. ​Seis estudos de Psicologia​. 10 ed. RJ: Forense Universitária, 1982.
+WALLON, H. ​A evolução psicológica da criança.​ SP: Martins Fontes, 2007.
+
+Bibliografia Complementar:
+FLAVELL, J. H. ​A psicologia do desenvolvimento de Jean Piaget.​ São Paulo: Livraria
+Pioneira Editora, 1988.
+GOULART, Iris Barbosa. ​Piaget: experiências básicas para utilização pelo professor.
+21 ed. Revista e ampliada. Petrópolis, RJ: Vozes, 2005.
+PIAGET, Jean. ​A formação do símbolo na criança.​ 3 ed. RJ: Zahar Editores, 1978.
+                                             ​ J: Zahar Editores, 1975.
+_____. ​A gênese da inteligência na criança. R
+WALLON, H. ​Psicologia e educação da infância. L    ​ isboa: Estampa, 1975.
+
+Psicologia do desenvolvimento e da aprendizagem III
+A aprendizagem e sua constituição psicológica, social e cultural. Desenvolvimento e
+aprendizagem da criança e do adolescente nas seguintes abordagens: Teoria
+Sócio-histórica de Vygotsky; Teoria da Aprendizagem de J. Brunner; Teorias da
+Aprendizagem Social e Comportamentalismo; Teoria da Aprendizagem Centrada na
+Pessoa de Rogers e Aprendizagem Significativa de Ausubel.
+                                                                                41
+
+Bibliografia Básica:
+BRUNER, J. O processo da educação. Lisboa/Portugal: edições 70, 1977.
+MOREIRA, M. A. Ensino e aprendizagem: enfoques teóricos. 3 ed. São Paulo: Editora
+Moraes, 1983.
+VIGOTSKI, L.S. A formação social da mente. 4 ed. São Paulo: Martins Fontes, 1991.
+
+Bibliografia Complementar:
+BRUNER, J. Uma nova teoria da aprendizagem. 4 ed. RJ: Bloch editores, 1976.
+MILHOLLAN F.; FORISHA, B. E., Skinner X Rogers: maneiras contrastantes de
+encarar a educação. São Paulo: Summus, 1978.
+MOREIRA, M. A.; MASINI, E. F. S. Aprendizagem significativa: a teoria de David
+Ausubel. 2 ed. São Paulo: Centauro, 2001.
+ROGERS, C. R. Tornar-se pessoa. São Paulo: Martins Fontes, 2011.
+ROGERS, C. R. Um jeito de ser. São Paulo: EPU, 1983.
+SKINNER, B.F. Tecnologia do Ensino. São Paulo: EPU, 1972.
+VIGOTSKI, L. S.; LURIA, A. R.; LEONTIEV, A. Linguagem, desenvolvimento e
+aprendizagem. São Paulo: Martins Fontes, 1991.
+
+Psicologia do desenvolvimento e da aprendizagem IV
+Aspectos biológicos, psicológicos e sociais do adolescente. O processo de
+individualização e a aquisição da identidade. Tópicos especiais em adolescência e
+juventude. O processo de amadurecimento e de envelhecimento na sociedade
+contemporânea. Tópicos especiais em envelhecimento.
+
+Bibliografia Básica:
+CALLIGARIS, C. ​A Adolescência. (Coleção Folha Explica). São Paulo: Publifolha,
+2011.
+ERIKSON, E. H. ​Identidade, juventude e crise. 2 ed. Rio de Janeiro: Zahar
+Editores, 1976.
+FREITAS, E.; PY, L.; CANÇADO, F.; DOLL, J.; GORZONI, M. (Orgs.). ​Tratado de
+geriatria e gerontologia.​ 2 ed. Rio de Janeiro: Guanabara Koogan, 2006.
+MOTTA, A. B.; BARROS, M. M. (Orgs.). ​Velhice ou terceira idade? E         ​ studos
+antropológicos sobre identidade, memória e política. Rio de Janeiro: Editora FGV,
+2006.
+
+Bibliografia Complementar:
+BLOS, P. ​Adolescência: uma interpretação psicanalítica.​ 2 ed. São Paulo: Martins
+Fontes, 1998.
+BOSI, E. ​Memória e sociedade: l​ embranças de velhos. 14 ed. São Paulo: Companhia
+das Letras, 1994.
+CARTER, B.; MCGOLDRICK, M. (Orgs.). ​As mudanças no ciclo de vida familiar:
+uma estrutura para a terapia familiar. Porto Alegre: Artmed, 1995.
+DIAS, M.; FONTAINE, A. ​Tarefas desenvolvimentais e bem-estar de jovens
+universitários.​ Lisboa, Portugal: Fundação Calouste Gulbenkian, 2001.
+ SKINNER, B. ​Viva bem a velhice: ​aprendendo a programar a sua vida​. São Paulo:
+Summus, 1985.
+                                                                                       42
+
+Psicologia e Diversidade
+Igualdade e diferença: uma discussão da modernidade. Diferença e preconceito.
+Preconceito e relações de gênero, raça, etnia, religiosidade. Diversidade e cultura.
+Normal e patológico: estigma e estereótipos. Diversidade e necessidades especiais:
+quadros clínicos e intervenção.
+
+Bibliografia Básica:
+CROCHIK, José Leon. ​Preconceito: Indivíduo e cultura.​ São Paulo: Robel Editorial,
+1997.
+GOFFMAN, Erving. ​Estigma​ – Notas sobre a manipulação da identidade deteriorada.
+Rio de Janeiro: LTC Editora, 4ed., 1988.
+MARTINS, Maria Helena P. ​Somos todos diferentes.​ São Paulo: Moderna. 2001. –
+(Aprendendo a com-viver)
+
+Bibliografia Complementar:
+DELEUZE, G. Diferença e Repetição. São Paulo: Brasiliense, 2006.
+HELLER, A. O cotidiano e a história. São Paulo: Paz e Terra, 2004.
+KUNZRU, H., HARAWAY, D., SILVA, T.T. (org) Antropologia do ciborgue:
+vertigens do pós-humano. Belo Horizonte: Autêntica, 2000.
+PINSKY, Jaime (org). ​12 faces do preconceito​. São Paulo: Contexto, 2006.
+RESENDE, M., R. S. A crítica da razão como exigência para a formação do indivíduo
+autônomo. In: _____.Formação e autonomia do professor universitário: um estudo na
+UFG. São Paulo: PUC- Programa de Pós-Graduação em Psicologia Social – Tese de
+Doutorado – 2005.
+
+Psicologia e Instituições
+Psicologia Social de Grupos. Instituições. Organizações. Processos Grupais. Análise e
+Intervenção Institucional.
+
+Bibliografia Básica:
+BLEGER, J. Psico-higiene e Psicologia Institucional. Porto Alegre: Artes Médicas,
+1994.
+DELEUZE, G. & GUATTARI, F. Mil Platôs: Capitalismo e esquizofrenia. São Paulo:
+34, 1997.
+PICHON-RIVIÈRE, E. O Processo Grupal. São Paulo, Martins Fontes, 1986.
+
+Bibliografia Complementar:
+BLEGER, J. Temas de Psicologia: entrevistas e grupos. São Paulo: Martins Fontes,
+1980.
+DELEUZE, G. Conversações. São Paulo: 34, 1992.
+FOUCAULT, M. A História da Sexualidade I: A vontade de saber. Rio de Janeiro:
+Graal, 2006.
+GUIRADO, M. Psicologia Institucional. São Paulo: E.P.U., 1986.
+LOURAU, R. A análise institucional. Petrópolis: Vozes, 1975.
+
+Psicologia e Trabalho
+                                                                                    43
+
+O trabalho como princípio ontológico. O mundo do trabalho. Reestruturação produtiva e
+suas conseqüências. Intervenção.
+
+Bibliografia Básica:
+CAMPOS, Dinael C. de ​Atuando em psicologia do trabalho, psicologia organizacional
+e recursos humanos. ​Rio de Janeiro: LTC, 2008.
+MARX, Karl. ​Manuscritos econômicos-filosóficos.​ São Paulo, Boitempo Editorial,
+2004.
+ZANELLI, J. C., Borges-Andrade, J. E. & Bastos, V. B. Psicologia, Organizações e
+Trabalho no Brasil. Porto Alegre: Artmed, 2004.
+
+Bibliografia Complementar:
+CHIAVENATO, I. ​Gestão de Pessoas​. Rio de Janeiro: Elsevier, 2005.
+MARCUSE, Herbert. A ideologia da sociedade industrial: o homem unidimensional.
+Rio de janeiro, Zahar Editores. 4 ed. 1973.
+MARX, Karl. O ​capital: crítica da economia política​. Livro I. Tradução de Reginaldo
+Sant’Anna. 21 ed. Rio de Janeiro: Civilização Brasileira, 2003.
+ROBBINS, Stephen, P. Comportamento organizacional 11. ed. - São Paulo : Prentice
+Hall do Brasil, 2005.
+SINGER, Paul; SOUZA, André Ricardo de A economia solidária no Brasil a autogestão
+como resposta ao desemprego 2.ed. Sao Paulo : Contexto, 2003.
+
+Psicologia Geral e Experimental
+Estudo da aprendizagem a partir da interação organismo/ambiente e efeitos das
+variáveis que exercem controle sobre o comportamento dos organismos em diferentes
+situações. Princípios do comportamento reflexo e operante.
+
+Bibliografia Básica:
+MARTIN, Garry; PEAR, Joseph. Modificação de comportamento: o que é e como
+fazer. 8. ed. São Paulo: Roca, 2009. 544 p.
+MOREIRA, Marcio Borges; MEDEIROS, Carlos Augusto. Princípios básicos de
+Análise do Comportamento. 1. ed. Porto Alegre: Artmed, 2007. 224p.
+SKINNER, Burrhus Frederic. Ciência e comportamento humano. 9. ed. São Paulo:
+Martins Fontes, 1994. 420 p.
+
+Bibliografia Complementar:
+BALDWIN, John. D; BALDWIN, Janice I. Behavior principles in everyday life. 4​th​ ed.
+New Jersey: Prentice-Hall, 2001. 407 p.
+BAUM, William. Compreender o behaviorismo: Ciência, comportamento e cultura. 2.
+ed. Porto Alegre: Artmed, 2006. 311p.
+GOMIDE, Paula Inez Cunha; DOBRIANSKY, Lidia Natalia. Análise Experimental do
+Comportamento: Manual de Laboratório. 2. ed. Curitiba: Edicon, 1988. 104 p.
+KELLER, Fred Simons; SCHOENFELD, William. Princípios de Psicologia. 5. ed. São
+Paulo: EPU, 1974. 451 p.
+MILLENSON, J. R. Princípios de análise do comportamento. Brasília: Coordenada,
+1975. 436 p.
+                                                                                       44
+
+
+
+Psicologia Social - I
+A emergência da Psicologia Social no debate com as ciências sociais. Psicologia das
+Multidões. A institucionalização da Psicologia Social. Tendências pragmáticas.
+
+Bibliografia Básica:
+ÁLVARO, J.L. e GARRIDO, A. Psicologia social: perspectivas psicológicas e
+               ​ ão Paulo: McGraw Hill, 2009.
+sociológicas.​ S
+FARR, R. M. As raízes da psicologia social moderna. Petrópolis: Vozes, 1998.
+MICHENER, H.A.; DELAMATER, J.D.; MYERS, D.J. Psicologia social​. ​São Paulo:
+Pioneira Thompson Leaning, 2005.
+
+Bibliografia Complementar:
+ARONSON, E., WILSON, T., AKERT, R. Psicologia social. Rio de Janeiro: Vozes ,
+2002.
+ESTRAMIANA, J.L.A. Psicologia social: perspectivas teróricas y metodológicas.
+Madrid: Siglo XXI editores, 1995.
+RODRIGUES, A.; ASSMAR, E. M. L. e JABLONSKI, B. Psicologia social. Petrópolis:
+Vozes,1999.
+LANE, Silvia T. M. Psicologia social - o homem em movimento. São Paulo:
+Brasiliense, 1984.
+JACQUES, M.G. C (org.). Psicologia social contemporânea. Petrópolis: Vozes 1996.
+
+Psicologia Social – II
+A relação indivíduo sociedade. Mediações psicossociais. Processos de socialização.
+Internalização. As categorias psicossociais na constituição da subjetividade.
+
+Bibliografia Básica:
+CARTWRIGHT, D. e ZANDER, A. Dinâmica de grupo​: p​ esquisa e teoria​. S      ​ ão Paulo:
+E.P.U, 1975.
+DESCHAMPS, J.C. e MOLINER, P. A identidade em psicologia social: dos processos
+identitários às representações sociais. Petrópolis:​ ​Vozes, 2009.
+LEYENS, J e YZERBYT, V. Psicologia social.​ L     ​ isboa: Edições 70, 2010.
+
+Bibliografia Complementar:
+ÁLVARO, J.L. e GARRIDO, A. Psicologia social: perspectivas psicológicas e
+               ​ ão Paulo: McGraw Hill, 2009.
+sociológicas.​ S
+MOSCOVICI, S. Representações sociais: investigações em psicologia social.
+Petrópolis: Vozes, 2003.
+VALA, J. e MONTEIRO, M.B. Psicologia social. Lisboa: Fundação Calouste
+Gulbenkian, 2010.
+LEWIN, K. Problemas de Dinâmica de Grupo. São Paulo: Cultrix,1978.
+MAILHIOT, G.B. Dinâmica e gênese dos grupos​.​ São Paulo: Duas Cidades, 1985.
+
+Psicologia Social - III
+Estudos de Psicologia Social. Normas e Papéis. Liderança. Afiliação. Objetivos e
+Motivos individuais e de grupo. Trabalho. Identidade. Linguagem. Grupos.
+Organizações. Instituições.
+                                                                                    45
+
+Bibliografia Básica:
+BAREMBLITT, G. ​Compêndio de análise institucional e outras correntes teoria e
+prática.​ Belo Horizonte: Editora Instituto Félix Guattari, 1992.
+BERGER, P.; LUCKMANN, T. ​A construção social da realidade: Tratado de
+sociologia do conhecimento.​ Petrópolis: Vozes, 2002.
+VALA, J.; MONTEIRO, M. B. (Orgs.). ​Psicologia social (6ª ed.). Lisboa: Fundação
+Calouste Gulbenkian, 2004
+
+Bibliografia Complementar:
+ÁLVARO, J. L.; GARRIDO, A. ​Psicologia social: Perspectivas psicológicas e
+sociológicas. ​São Paulo: McGraw Hill, 2006.
+DESCHAMPS, J.; MOLINER, P. ​A identidade em psicologia social: Dos processos
+identitários às representações sociais​. Petrópolis: Vozes, 2009.
+JACQUES, M. da G. C. e cols. (Orgs.). ​Psicologia social contemporânea​. Petrópolis:
+Vozes, 1996.
+LAPASSADE, G. ​Grupos, organizações e instituições.​ Rio de Janeiro: Francisco Alves,
+1977.
+LEYENS, J.; YZERBYT, V. ​Psicologia social​. Lisboa: Edições 70, 2004.
+
+Psicologia Social – IV
+A Psicologia Social como crítica da psicologia e da sociedade. Teoria Crítica.
+Civilização e Barbárie. Educação e emancipação.
+
+Bibliografia Básica:
+JACQUES, M. da G. C.; STREY, M; BERNARDES, J. F. (Orgs.). ​Psicologia social
+contemporânea. P ​ etrópolis: Vozes, 2007.
+LANE, S. T. M.; CODO, W. (Orgs.). ​Psicologia social: O homem em movimento​. São
+Paulo: Brasiliense, 1994.
+LANE, S. T. M.; SAWAIA, B. B. (Orgs.). ​Novas veredas da psicologia social​. São
+Paulo: Brasiliense, 1995.
+
+Bibliografia Complementar:
+ÁLVARO, J. L.; GARRIDO, A. ​Psicologia social: P           ​ erspectivas psicológicas e
+sociológicas. São Paulo: McGraw Hill, 2006.
+CROCHÍK, J. L. ​Preconceito, indivíduo e cultura​. São Paulo: Casa do Psicólogo, 2006.
+JACÓ-VILELA, A. M.; FERREIRA, A. L.; PORTUGAL, F. T. (Orgs.). ​História da
+psicologia:​ Rumos e desafios Rio de Janeiro: Nau Editora, 2013
+MONTERO, M. ​Construcción y crítica de la psicologia social.​ Barcelona: Anthropos,
+1994.
+SAWAIA, B. B. ​As artimanhas da exclusão: A          ​ nálise psicossocial e ética da
+desigualdade social. Petrópolis: Vozes, 2013.
+
+Psicopatologia I
+A psicopatologia como área do conhecimento: delimitação do campo teórico. Saúde
+mental: formação de sintomas e exame do estado mental. Transtornos psicopatológicos:
+da atenção e memória, da consciência, senso-percepção, da atividade delirante.
+Manifestações psicopatológicas características dos quadros neuróticos, psicóticos e
+limítrofes. Conversões, fobias, obsessões e compulsões.
+                                                                                    46
+
+Bibliografia Básica:
+BERGERET, J. ​Psicopatologia – teoria e clínica​. Porto Alegre: Artmed, 2006.
+BIRMAN, J. ​O mal-estar na atualidade.​ Rio de Janeiro: Civilização Brasileira, 2001.
+CALLIGARIS, C. ​Introdução a uma clínica diferencial das psicoses.​ Porto Alegre:
+Artmed, 1989.
+
+Bibliografia Complementar:
+DALGALARRONDO, P. Psicopatologia e Semiologia dos Transtornos Mentais. São
+Paulo: Artmed, 2008.
+DELORENZO, R. ​Neurose Obsessiva (Coleção Clínica Psicanalítica). São Paulo: Casa
+do Psicólogo, 2007.
+DÖR, J. Estruturas e Clínica Psicanalítica. Rio de Janeiro: Taurus.
+FREUD, S. (1929). Neurose e Psicose. Em: Edição Standart das Obras Completas de
+Sigmund Freud (vol.XIX). Rio de Janeiro: Imago.
+FREUD, S. (1929). ​Algumas observações gerais sobre ataques histéricos.​ Em: ​Edição
+Standart das​ ​Obras Completas de Sigmund Freud​ (vol. IX). Rio de Janeiro: Imago.
+FUCKS, L. ​Narcisismo e vínculos ​(Coleção Clínica Psicanalítica). São Paulo: Casa do
+Psicólogo, 2008.
+
+Psicopatologia II
+Principais quadros psicopatológicos: neurose, psicose e outras manifestações psíquicas,
+a partir de uma perspectiva psicanalítica. Distúrbios psicossomáticos, toxicomanias e
+alcoolismo. Perversões. Depressão e mania. Esquizofrenia. Transtornos
+caracterológicos. Critérios diagnósticos do DSM-IV e da CID-10; os procedimentos,
+seus alcances e limites.
+
+Bibliografia Básica:
+BIRMAN, J. (org.) ​Sobre a Psicose​. Rio de Janeiro: Contracapa, 1999.
+DOR, J. ​Estrutura e Perversões.​ Porto Alegre: Artes Médicas, 1991.
+FREUD, S. A perda da realidade na Psicose e na Neurose ​Em Edição Standard
+brasileira das Obras psicológicas completas de S. F. Rio de Janeiro: Imago, 1987.
+
+Bibliografia Complementar:
+GRUMSPUM, H. ​Distúrbios Neuróticos da Criança - Psicopatologia e Psicodinâmica.​
+Atheneu, 1994.
+JASPERS, K. ​Psicopatologia General.​ Buenos Aires: Editorial Beta, 1963.
+KATZ, C. S. (org.) ​Psicose, uma leitura psicanalítica.​ São Paulo: Escuta, 1991.
+KRISTEVA, J. ​As novas doenças da alma.​ Rio de Janeiro: Rocco, 2002.
+QUINET, A. ​Psicose e laço social.​ Rio de Janeiro: Jorge Zahar Editor, 2006.
+
+Técnicas de Avaliação Psicológica I
+Natureza e origem dos testes psicológicos. Métodos e técnicas de avaliação psicológica.
+Técnicas de avaliação de desenvolvimento infantil.
+
+Bibliografia Básica:
+ALCHIERI, João Carlos; CRUZ, Roberto Moraes Avaliação psicológica conceito,
+métodos e instrumentos 3. ed. rev. e atual. - Sao Paulo : Casa do Psicologo, 2007.
+ANASTASI, Anne, Testes psicologicos teoria e aplicação - São Paulo EPU: Ed. Univ.
+S. Paulo, 1973.
+                                                                                         47
+
+ERTHAL, Tereza Cristina Manual de psicometria 7. ed.- Rio de Janeiro : Jorge Zahar,
+2003.
+
+Bibliografia Complementar:
+ALCHIERI, Joao Carlos; NORONHA, Ana Paula Porto; PRIMI, Ricardo Guia de
+referência testes psicológicos comercializados no Brasil Sao Paulo : Casa do
+Psicólogo/FAPESP, 2003.
+KOLCK, Odette Lourenção van, Tecnicas de exame psicologico e suas aplicações no
+Brasil 2. ed. - Petropolis: Vozes, 1977. 2v.
+PASQUALI, Luiz Psicometria teoria dos testes na psicologia e na educação 4. ed
+petropolis : Vozes, 2011.
+SCHELINI, Patrícia Waltz Alguns domínios da avaliação psicológica Campinas, SP :
+Alinea, 2007.
+SIMÕES, Mário Manuel Rodrigues Investigações no âmbito da aferição nacional do
+teste das matrizes progressivas coloridas de Raven (M.P.C.R.) Lisboa : Fundacao
+Calouste Gulbenkian, 2000.
+
+Técnicas de Avaliação Psicológica II
+Técnicas projetivas de avaliação da personalidade. Principais testes de inteligência e
+aptidão. Análise crítica dos testes e de outros instrumentos de medida psicológica.
+
+Bibliografia Básica:
+CUNHA, Jurema Alcides Psicodiagnóstico - V 5. ed. rev. e ampl. - Porto Alegre :
+ARTMED, 2003.
+SIMÕES, Mário Manuel Rodrigues Investigações no âmbito da aferição nacional do
+teste das matrizes progressivas coloridas de Raven (M.P.C.R.) Lisboa : Fundacao
+Calouste Gulbenkian, 2000.
+SIQUIER DE OCAMPO, Maria Luisa O processo psicodiagnóstico e as técnicas
+projetivas 11.ed Sao Paulo : Martins Fontes, 2010.
+TRAUBENBERG, N.(Nina) Rausch de A pratica do Rorschach Sao Paulo : Cultrix,
+1975.
+
+Bibliografia Complementar:
+ALCHIERI, Joao Carlos; NORONHA, Ana Paula Porto; PRIMI, Ricardo Guia de
+referência testes psicológicos comercializados no Brasil Sao Paulo : Casa do
+Psicólogo/FAPESP, 2003.
+GARCIA ARZENO, Maria Esther Psicodiagnóstico clínico novas contribuições Porto
+Alegre : Artes Medicas, 1995.
+KOLCK, Odette Lourenção van, Tecnicas de exame psicologico e suas aplicações no
+Brasil 2. ed. – Petropolis: Vozes, 1977.
+PRIMI, Ricardo Temas em avaliação psicológica Sao Paulo ; Porto Alegre : Casa do
+Psicólogo : IBAP, 2005.
+SCHELINI, Patrícia Waltz Alguns domínios da avaliação psicológica Campinas, SP :
+Alinea, 2007.
+
+Técnicas de Avaliação Psicológica III
+Técnicas projetivas gráficas. Aprofundamento em instrumentos de investigação da
+personalidade. Diagnóstico e implicações éticas.
+                                                                                     48
+
+Bibliografia Básica:
+CUNHA, J.A. (org.). Psicodiagnóstico – V. Porto Alegre: Artmed; 2000.
+OCAMPO, M.L.S. O Processo Psicodiagnóstico e as Técnicas Projetivas. São Paulo:
+Martins Fontes; 1995.
+HAMMER, E.F. Aplicações Clínicas dos Desenhos Projetivos. São Paulo: Casa do
+Psicológo; 1991.
+
+Bibliografia Complementar:
+ALVES, I.C.B.; & ESTEVES, C. O Teste Palográfico na Avaliação da Personalidade.
+São Paulo: Vetor, 2009.
+BUCK, J. N. HTP: casa-árvore-pessoa, técnica projetiva de desenho (manual e guia de
+interpretação). São Paulo: Vetor, 2003.
+de MIRA, A.M.G. Psicodiagnóstico Miocinético. São Paulo: Vetor, 2002.
+PASQUALI, L.; AZEVEDO, M.M. ; & GHESTI, I. Inventário Fatorial de
+Personalidade – IFP ( manual técnico e de aplicação). São Paulo: Casa do Psicológo,
+2010.
+SCHULTZ, D. P., & SCHULTZ, S. E. Teorias da Personalidade. São Paulo: Thomson,
+2002.
+
+Teorias e Técnicas Psicoterápicas I
+Principais abordagens teóricas em psicoterapia: conceitos básicos, estrutura, objetivos,
+fundamentos e limites da relação psicoterapêutica. Formas de psicoterapia: individual e
+grupal. Especificidades da psicoterapia com crianças, adolescentes, adultos e família.
+Especificidades do atendimento institucional. Enfoque psicoterápico comportamental:
+princípios   teóricos    da    Análise    do    Comportamento       e do        modelo
+cognitivo-comportamental aplicados à terapia com crianças, adolescentes e adultos.
+
+Bibliografia Básica:
+COSTA, Maria Nazaré Bento. Terapia analítico-comportamental: Dos fundamentos
+filosóficos à relação com o modelo cognitivista. Santo Andre: ESETEC, 2002. 79 p.
+FARIAS, Ana Karina C. R. de. Análise comportamental clínica: Aspectos teóricos e
+estudos de caso. Porto Alegre: ARTMED, 2010. 341 p.
+KOHLENBERG, Robert J; TSAI, Mavis. Psicoterapia analítica funcional: Criando
+relações terapêuticas intensas e curativas. Santo Andre: ESETEC, 2001. 238 p.
+
+Bibliografia Complementar:
+ABREU, Cristiano Nabuco; GUILHARDI, Hélio José. Terapia comportamental e
+cognitivo-comportamental: Práticas clínicas. Sao Paulo: Roca, 2004. 482 p.
+ABREU-RODRIGUES, Josele; RIBEIRO, Michela Rodrigues. (Orgs.). Análise do
+comportamento: pesquisa, teoria e aplicação. 1. ed. Porto Alegre: Artmed, 2005. 304 p.
+SILVARES, Edwiges F. M. (Org.) Estudos de caso em psicologia clínica
+comportamental infantil. 7. ed. Campinas: Papirus, 2012. 288 p.
+TOURINHO, Emmanuel. Zagury; Luna, Sergio Vasconcelos. Análise do
+Comportamento: Investigações históricas, conceituais e aplicadas. São Paulo: Roca,
+2010. 242 p.
+VASCONCELOS, Laercia Abreu (Org.). Brincando com histórias infantis: Uma
+contribuição da Análise do Comportamento para o desenvolvimento de crianças e
+jovens. 1. ed. Santo André: ESETEC, 2008. 196 p.
+                                                                                       49
+
+Teorias e Técnicas Psicoterápicas II
+Principais abordagens teóricas em psicoterapia: conceitos básicos, estrutura, objetivos,
+fundamentos e limites da relação psicoterapêutica. O enfoque
+fenomenológico-existencial: processos clínicos em Gestalt-terapia. Enfoque da Terapia
+Centrada na Pessoa: psicoterapia e aconselhamento. Enfoque psicodramático: princípios
+básicos.
+
+Bibliografia Básica:
+ALMEIDA, Wilson Castello. Psicoterapia aberta: o método do psicodrama. São Paulo:
+Zahar, 1982.
+RIBEIRO, Jorge Ponciano. Gestalt-terapia: refazendo um caminho. São Paulo:
+Summus, 1985.
+ROGERS, Carl Ransom. Tornar-se pessoa. São Paulo: Martins Fontes, 1997.
+
+Bibliografia Complementar:
+FORGHIERI, Yolanda Cintrão. Psicoterapia Fenomenológica. São Paulo: Pioneira,
+1993.
+GIORGI, Amedeo. A Psicologia como Ciência Humana: uma abordagem
+fenomenológica. Belo Horizonte: Interlivros, 1978.
+MORENO, Jacob Levy. Fundamentos do psicodrama​. ​São Paulo: Summus Editorial,
+1983.
+ROGERS, Carl Ransom & ROSENBERG, Raquel. A pessoa como centro​. São Paulo:
+EPU, 1977.
+PERLS, Frederick, HEFFERLINE, Ralph & GOODMAN, Paul. Gestalt-terapia​. S ​ ão
+Paulo: Summus, 1997.
+
+Teorias e Técnicas Psicoterápicas III
+Principais abordagens teóricas em psicoterapia: conceitos básicos, estrutura, objetivos,
+fundamentos e limites da relação psicoterapêutica. O enfoque psicanalítico: princípios
+básicos. A escuta psicanalítica: associação livre e interpretação dos sonhos.
+Reconhecimento e manejo de: transferência, contra-transferência, resistência, angústia e
+mecanismos de defesa explícitos numa terapia. Aspectos teóricos, éticos e profissionais
+relacionados à formação nos diversos enfoques psicoterápicos.
+
+Bibliografia Básica:
+FREUD, S. A dinâmica da transferência (1912). In: ​Obras Completas,​ v. XII. Rio de
+Janeiro: Imago, 1976.
+FREUD, S. Observações sobre o amor transferencial (1915[1914]). In: ​Obras
+Completas​, v. XII. Rio de Janeiro: Imago, 1976.
+FREUD, S. Recomendações aos médicos que exercem psicanálise (1912). In: ​Obras
+Completas​, v. XII. Rio de Janeiro: Imago, 1976.
+
+Bibliografia Complementar:
+                                                                          ​ io de Janeiro:
+DOR, J. Diagnóstico e estrutura. In: ​Estruturas e clínica psicanalítica. R
+Taurus, 1991.
+FREUD, S. O manejo da interpretação dos sonhos na psicanálise (1911). In: ​Obras
+Completas​, v. XII. Rio de Janeiro: Imago, 1976.
+FREUD, S. Sobre o início do tratamento (1913). In: ​Obras Completas,​ v. XII. Rio de
+Janeiro: Imago, 1976.
+                                                                                   50
+
+FREUD, S. Recordar, repetir, elaborar (1914). In: ​Obras Completas,​ v. XII. Rio de
+Janeiro: Imago, 1976.
+FREUD, S. Análise terminável e interminável (1937). In: ​Obras Completas​, v. XXIII.
+Rio de Janeiro: Imago, 1976.
+QUINET, A. ​As quatro +1 condições da análise​. Rio de Janeiro: Jorge Zahar, 2002.
+
+Trabalho de Conclusão de Curso – I (TCC)
+Metodologia do trabalho científico. Procedimentos básicos para o trabalho intelectual.
+A questão do conhecimento. Senso comum e saber científico. Limites da ciência. Mito
+da neutralidade científica. Conhecimento e poder. Normas e técnicas para a produção da
+monografia.
+
+Bibliografia Básica:
+CARVALHO, M. C. M de. Construindo o saber: metodologia científica: fundamentos e
+técnicas. Campinas, SP: Papirus, 1994.
+ECO, U. Como se faz uma tese. São Paulo: Editora Perspectiva S. A, 1992.
+LAKATOS, Eva Maria e MARCONI, Marina de Andrade. Metodologia científica. São
+Paulo: Atlas, 1986.
+
+Bibliografia Complementar:
+CERVO, Amado Luiz e BERVIAN, Pedro Alcino. Metodologia científica: para uso dos
+estudantes universitários. São Paulo: McGraw-Hill do Brasil, 1978.
+FEITOSA, V. C. Redação de textos científicos. Campinas, SP: Papirus, 1995.
+GIL, Antônio Carlos. Como elaborar projetos de pesquisa.-4ª.ed.- São Paulo:
+Atlas,2002.
+PIETRAFESA, José Paulo e BORBA, Odiones de Fátima (org). Do contexto ao texto:
+os desafios da linguagem científica. Goiânia: Kelps, 2006.
+RUDIO, Franz Vitor. Introdução ao projeto de pesquisa científica. Petrópolis: Vozes,
+1985.
+
+Trabalho de Conclusão de Curso – II (TCC)
+Elaboração da monografia. Documentação e leitura da bibliografia. Construção lógica
+do trabalho. Redação final.
+
+Bibliografia Básica:
+CHAUÍ, M. Atitude Científica. In: Convite à filosofia. São Paulo: Ática, 1994.
+DEMO. P. Metodologia científica nas ciências sociais. São Paulo: Atlas, 1989.
+SEVERINO, A. J. Metodologia do trabalho científico. São Paulo: Cortez, 2001.
+
+Bibliografia Complementar:
+BARROS, A.J.da S & LEHFELD,N.A.de S.- Fundamentos de metodologia científica:
+um guia para a iniciação científica. - 2ed.- São Paulo: Makron Books Ltda, 2000.
+FEITOSA, V. C. Redação de textos científicos. Campinas, SP: Papirus, 1995.
+GIL, Antônio Carlos. Como elaborar projetos de pesquisa.-4ª.ed.- São Paulo:
+Atlas,2002.
+_____. Métodos e técnicas de pesquisa social. - 5ª. ed.- São Paulo: Atlas,1999.
+MARCONI Marina de A & LAKATOS, Eva Maria. Metodologia do trabalho científico:
+procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e
+trabalhos científicos. - 6ª. ed. - São Paulo: Atlas.
+                                                                                      51
+
+
+
+
+                                   Núcleo Específico
+
+Núcleo Específico - A ​ Ê
+                        ​ nfase I​ – Psicologia e Processos Clínicos
+
+Estágio Supervisionado –Processos Clínicos – I
+Análise teórico-prática dos processos vivenciados na prática clínica do psicólogo no
+campo de estágio, a partir dos aportes teóricos do curso. Ênfase no projeto de atividades
+que propõem intervenção, por meio da identificação e diferenciação dos processos e das
+relações produzidas.
+
+Bibliografia Básica:
+CORDIOLI, Aristides Volpato. Psicoterapias: Abordagens Atuais. Porto Alegre: Artes
+Médicas, 1993.
+LOEW, Clemens; GRAYSON, Henry, & LOEW, Glória Heiman. Três abordagens em
+psicoterapia: uma comparação clínica. São Paulo: Summus, 1984.
+LANGS, Robert. As Bases da Psicoterapia. Porto Alegre: Artes Médicas, 1984.
+
+Bibliografia Complementar:
+DIAS, V. ​Psicodrama: t​ eoria e prática. São Paulo: Ágora. 1987.
+FORGHIERI, Yolanda Cintrão. Psicoterapia fenomenológica. São Paulo: Pioneira,
+1993.
+MORENO, J. L. ​Psicodrama.​ São Paulo: Cultrix. 1978.
+PERLS, Frederick, HEFFERLINE, Ralph & GOODMAN, Paul. Gestalt-terapia​. S   ​ ão
+Paulo: Summus, 1997.
+RIBEIRO, Jorge Ponciano. Gestalt-terapia: refazendo um caminho. São Paulo:
+Summus, 1985.
+
+Estágio Supervisionado –Processos Clínicos – II
+Análise dos processos vivenciados na prática clínica do psicólogo no campo de estágio,
+a partir dos aportes teóricos do curso. Ênfase na sistematização, análise e apresentação
+de relatório do trabalho desenvolvido.
+
+Bibliografia Básica:
+ANGERAMI-CAMON, Valdemar Augusto - Org. E a psicologia entrou no hospital.
+São Paulo: Pioneira. (1996)
+ANGERAMI-CAMON, Valdemar Augusto - Org. Urgências psicológicas no hospital.
+São Paulo: Pioneira Thonsom (2002).
+SIMONETTI, A. Manual de psicologia hospitalar: o mapa da doença. 6 ed. São Paulo:
+Casa do Psicólogo, 2011.
+
+Bibliografia Complementar:
+ANGERAMI-CAMON, Valdemar Augusto - Org. Novos rumos da psicologia da saúde.
+1 ed. São Paulo: Pioneira. (2007).
+ANGERAMI-CAMON, Valdemar Augusto - Org. A Ética na saúde. São Paulo:
+Pioneira. (1997).
+                                                                                   52
+
+ANGERAMI-CAMON, Valdemar Augusto - Org. Psicologia da saúde – um novo
+significado para a prática clínica. São Paulo: Pioneira. (2000).
+LENGRUBER, Vera Braga. (Org.). O futuro da integração: desenvolvimento em
+psicoterapia​ ​breve. ARTMED. (2000).
+STRAUB, RICHARD. O. Psicologia da Saúde. Porto Alegre: ARTMED. (2005).
+
+
+Psicofarmacologia
+Noções básicas de psicofarmacologia, critérios, condutas e aplicação em tratamentos
+psicoterápicos. Ações dos psicofármacos no SNC. Funcionamento mental sob o efeito
+dos psicofarmacológicos. Transformações do psiquismo e da conduta individual
+determinadas por agentes farmacológicos comparadas a outras determinadas pela
+interação psicológica com o meio.
+
+Bibliografia Básica:
+GRAEFF, F.G. Fundamentos de psicofarmacologia. São Paulo: Atheneu, 1999.
+LINDEN, M. Psicofarmacologia para psicólogos. São Paulo: E.P.U., 1980.
+SILVA, P. As bases farmacológicas do sistema nervoso autônomo. Rio de Janeiro:
+Guanabara Koogan, 1977.
+
+Bibliografia Complementar:
+CORDIOLI, A.V. Psicofármacos: consulta rápida. Porto Alegre: Artes Médicas, 1997.
+GRAEFF, F.G. Drogas psicotrópicas e seu modo de ação. São Paulo: EPU, 1989.
+RODRIGUES, V.A. Patologia da personalidade: teoria, clínica e terapêutica. Lisboa:
+Fundação Calouste Gulbenkian, Serviço de Educação e Bolsas, 2004.
+SCHATZBERG, A.F. Manual de Psicofarmacologia clínica. Porto Alegre: Artes
+Médicas, 1993.
+STAHL, S. Psicofarmacologia: base neurocientífica e aplicações práticas. Rio de
+Janeiro: MEDSI, 2002.
+
+
+Investigação e métodos em Psicologia e Processos clínicos
+Produção do conhecimento clínico na psicologia. A pesquisa em processos clínicos
+psicológicos: atualidade e perspectivas. Matrizes psicológicas no campo clínico e suas
+propostas metodológicas.
+
+Bibliografia Básica:
+BARDIN, L. Análise de Conteúdo. Lisboa: Edições 70, 1997
+BLEGER, J. Temas de Psicologia: entrevistas e grupos. São Paulo: Martins Fontes,
+1980.
+TURATO, E. R. Tratado de metodologia da pesquisa clínico-qualitativa. Petrópolis:
+Vozes, 2003.
+
+Bibliografia Complementar:
+FIGUEIREDO, L. C. Matrizes do pensamento psicológico. Petrópolis: Vozes, 1991.
+MINAYO, M. C. S. O desafio do conhecimento pesquisa qualitativa em saúde. São
+Paulo: Abrasco, 1992.
+ORLANDI, E. P. Análise de discurso: princípios e procedimentos. São Paulo:
+Campinas, Pontes, 2003.
+                                                                                        53
+
+SANTOS, B. S. Um discurso sobre as ciências. São Paulo: Cortez, 2010.
+THIOLLENT, M. Metodologia da pesquisa-ação. São Paulo: Ed. Cortez. 7ª edição,
+1996.
+
+Psicologia e processos Clínicos
+Histórico dos processos clínicos. Relações de poder e limitações da clínica.
+Fundamentação teórica, o método e as estruturas clínicas básicas. Pressupostos básicos
+da relação psicólogo-paciente em diferentes condições terapêuticas.
+
+Bibliografia Básica:
+AMATUZZI, M. M. ​O resgate da fala autêntica: f​ ilosofia da Psicoterapia e da
+Educação​.​ Campinas, SP: Papirus, 1989.
+BUSTOS, D. (Org.). ​O psicodrama: ​aplicações da técnica psicodramática​. São Paulo:
+Ágora, 2005.
+OSORIO, L. C. ​Psicologia grupal: ​uma nova disciplina para o advento de um era​. Porto
+Alegre: Artmed, 2003.
+
+Bibliografia Complementar:
+BRAIER, E. A. ​Psicoterapia breve de orientação psicanalítica​. 3ed. (IPEPLAN, Trad.).
+São Paulo: Martins Fontes, 1997.
+BUCHER, R. ​A psicoterapia pela fala: f​ undamentos, princípios, questionamentos​. São
+Paulo: EPU, 1989.
+CALLIGARIS, C. ​Cartas a um jovem terapeuta.​ Rio de Janeiro: Elsevier, 2008.
+OAKLANDER, V. ​Descobrindo crianças: ​a abordagem gestáltica com crianças e
+adolescentes​. (​ G. Schlesinger, Trad.). São Paulo: Summus Editorial, 1980.
+ROGERS, C. ​Psicoterapia e consulta psicológica.​ (M. Ferreira, Trad.). São Paulo:
+Martins Fontes, 1987.
+
+Psicologia e Saúde
+Psicologia, movimentos sociais e a questão da cidadania. Direitos humanos: igualdade e
+diferença, normalidade e patologia. A constituição histórica da doença mental e as
+instituições psiquiátricas. Saúde e qualidade de vida. O psicólogo e sua atuação em
+equipes da área da saúde.
+
+Bibliografia Básica:
+CAMON-ANGERAMI, V. (org.). Psicologia da Saúde: um novo significado para a
+prática clínica. São Paulo: Pioneira, 2000.
+SPINK, M. J. P. Psicologia social e saúde: práticas, saberes e sentidos. 4 .ed. Petrópolis:
+Vozes, 2009.
+STRAUB, R. Psicologia da Saúde. Porto Alegre: Artmed, 2005.
+
+Bibliografia Complementar:
+CAMON-ANGERAMI, V.(org). E a Psicologia entrou no hospital.... São Paulo:
+Pioneira, 2000.
+CAMON-ANGERAMI, V.(org). Novos Rumos na Psicologia da Saúde. São Paulo:
+Pioneira, 2002.
+CANGUILHEM, g.; Trad. Maria Thereza Redig de Carvalho Barrocas. O normal e o
+patológico. ​Rio de Janeiro: Forense Universitaria, 2006.
+                                                                                        54
+
+FOUCAULT, M. História da Loucura: na idade clássica. Trad. José Teixeira Coelho
+Neto. São Paulo: Perspectiva, 2005. (Coleção Estudos; 61).
+MATTA, G. C., LIMA, J. C. F. ​(orgs). ​Estado, sociedade e formação profissional em
+saúde: contradições e desafios em 20 anos de SUS. ​Rio de Janeiro: Editora Fiocruz
+/Escola Politécnica de Saúde Joaquim Venâncio, 2008.
+REGO, S. Palácios M, Siqueira-Batista R.(orgs). Bioética para profissionais de saúde.
+Rio de Janeiro: Editora Fiocruz; 2009. 160 p. (Coleção Temas em Saúde).
+
+Técnicas de Avaliação Psicológica – IV
+Métodos de exploração e diagnóstico na clínica psicológica. Entrevistas iniciais e de
+devolução. Aplicação, recursos e limitações do processo psicodiagnóstico. Relatório
+final.
+
+Bibliografia Básica:
+LAURA ALBAJARI, Verónica La entrevista en el proceso psicodiagnóstico Buenos
+Aires : Psicoteca Editorial, 1996.
+TRINCA, Walter Diagnóstico psicológico a prática clínica Sao Paulo : E.P.U., 1984.
+YOSHIDA, Elisa Medici Pizão Psicoterapias psicodinâmicas breves e critérios
+psicodiagnósticos Sao Paulo : EPU, 1990.
+
+Bibliografia Complementar:
+AUGRAS, Monique O ser da compreensão fenomenologia da situação de
+psicodiagnóstico 11.ed. - Petropolis : Vozes, 2004.
+CUNHA, Jurema Alcides Psicodiagnóstico - V 5. ed. rev. e ampl. - Porto Alegre :
+ARTMED, 2003.
+KOLCK, Odette Lourenção van, Tecnicas de exame psicologico e suas aplicações no
+Brasil 2. ed. - Petropolis : : Vozes,, 1977.
+PRIMI, Ricardo Temas em avaliação psicológica Sao Paulo ; Porto Alegre : Casa do
+Psicologo : IBAP, 2005.
+SCHELINI, Patrícia Waltz Alguns domínios da avaliação psicológica Campinas, SP :
+Alinea, 2007.
+
+
+Núcleo Específico - B ​ Ê
+                        ​ nfase II​ – Psicologia e Processos Psicossociais.
+
+Estágio Supervisionado – Processos Psicossociais – I
+Análise dos processos vivenciados na prática do psicólogo no campo de estágio nas
+diferentes instituições: escola, trabalho e comunidade, a partir dos aportes teóricos do
+curso. Ênfase no projeto de atividades que propõem intervenção, por meio da
+identificação e diferenciação dos processos e das relações produzidas.
+
+Bibliografia Básica:
+CANGUILHEM, G. O normal e o patológico. Rio de Janeiro: Forense-Universitária,
+1978.
+FOUCAULT, M. História da Loucura. São Paulo: Perspectiva, 1978.
+SARACENO, B., Asioli, F., & Tognoni, G. Manual de Saúde Mental: guia básico para
+atenção primária. São Paulo: Hucitec, 2010.
+
+Bibliografia Complementar:
+                                                                                     55
+
+KAES, R. et al .O grupo e o sujeito do grupo. São Paulo: Casa do Psicólogo, 1997.
+LAPASSADE, G. Grupos, Organizações e instituições. Rio de Janeiro: J. Francisco
+Alves, 1977.
+PICHON-RIVIÈRE, E. Teoria do vínculo. São Paulo: Martins Fontes, 1991.
+
+Estágio Supervisionado – Processos Psicossociais – II
+Análise dos processos vivenciados na prática do psicólogo no campo de estágio nas
+diferentes instituições: escola, trabalho e comunidade, a partir dos aportes teóricos do
+curso. Ênfase na sistematização, análise e apresentação de relatório do trabalho
+desenvolvido.
+
+Bibliografia Básica:
+ANGERAMI-CAMON, Valdemar Augusto - Org. Novos rumos da psicologia da saúde.
+1 ed. São Paulo: Pioneira. (2007).
+ANGERAMI-CAMON, Valdemar Augusto - Org. Psicologia da saúde – um novo
+significado para a prática clínica. São Paulo: Pioneira. (2000).
+BRASIL. LEI 8080/90. Sistema Único de Saúde. Brasília. 1990
+
+Bibliografia Complementar:
+ANGERAMI-CAMON, Valdemar Augusto - Org. E a psicologia entrou no hospital.
+São Paulo: Pioneira. (1996)
+ANGERAMI-CAMON, Valdemar Augusto - Org. Urgências psicológicas no hospital.
+São Paulo: Pioneira Thonsom (2002).
+ANGERAMI-CAMON, Valdemar Augusto - Org. A Ética na saúde. São Paulo:
+Pioneira. (1997).
+LENGRUBER, Vera Braga. (Org.). O futuro da integração: desenvolvimento em
+psicoterapia​ ​breve. ARTMED. (2000).
+STRAUB, RICHARD. O. Psicologia da Saúde. Porto Alegre: ARTMED. (2005).
+
+Psicofarmacologia
+Noções básicas de psicofarmacologia, critérios, condutas e aplicação em tratamentos
+psicoterápicos. Ações dos psicofármacos no SNC. Funcionamento mental sob o efeito
+dos psicofarmacológicos. Transformações do psiquismo e da conduta individual
+determinadas por agentes farmacológicos comparadas a outras determinadas pela
+interação psicológica com o meio.
+
+Bibliografia Básica:
+GRAEFF, F.G. Fundamentos de psicofarmacologia. São Paulo: Atheneu, 1999.
+LINDEN, M. Psicofarmacologia para psicólogos. São Paulo: E.P.U., 1980.
+SILVA, P. As bases farmacológicas do sistema nervoso autônomo. Rio de Janeiro:
+Guanabara Koogan, 1977.
+
+Bibliografia Complementar:
+CORDIOLI, A.V. Psicofármacos: consulta rápida. Porto Alegre: Artes Médicas, 1997.
+GRAEFF, F.G. Drogas psicotrópicas e seu modo de ação. São Paulo: EPU, 1989.
+RODRIGUES, V.A. Patologia da personalidade: teoria, clínica e terapêutica. Lisboa:
+Fundação Calouste Gulbenkian, Serviço de Educação e Bolsas, 2004.
+SCHATZBERG, A.F. Manual de Psicofarmacologia clínica. Porto Alegre: Artes
+Médicas, 1993.
+                                                                                     56
+
+STAHL, S. Psicofarmacologia: base neurocientífica e aplicações práticas. Rio de
+Janeiro: MEDSI, 2002.
+
+Investigação e métodos em Psicologia e Processos Psicossociais
+Produção do conhecimento na psicologia e os processos psicossociais. A pesquisa em
+processos psicossociais: atualidade e perspectivas Pensamento teórico do campo
+psicossocial na psicologia e suas propostas metodológicas.
+
+Bibliografia Básica:
+BOSI, E. Memória e Sociedade: Lembranças de velhos. São Paulo: Companhia das
+Letras, 3​a​ edição, 1994.
+CRESWELL, J.W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. Porto
+Alegre: Artmed, 2010.
+FOUCAULT, M. A verdade e as formas jurídicas. Rio de Janeiro: Nau, 1996.
+
+Bibliografia Complementar:
+BLEGER, J. Temas de Psicologia: entrevistas e grupos. São Paulo: Martins Fontes,
+1980.
+ÍÑIGUEZ, L. Manual de análise de discurso em Ciências Sociais. Petrópolis, RJ: Vozes,
+2004.
+MINAYO, M.C.S. Pesquisa social: teoria, método e criatividade. Petrópolis, RJ: Vozes,
+2007.
+RODRIGUES, A. A. Psicologia Social. Petrópolis, RJ: Vozes, 1988.
+SPINK, M. J. Práticas discursivas e produção de sentidos no cotidiano. São Paulo:
+Cortez, 2000.
+
+Psicologia e Processos Psicossociais -I
+A educação como processo social. Relação psicologia e educação. Processos
+educacionais e escolares. Políticas educacionais e psicologia. Tendências atuais da
+relação psicologia e educação: psicopedagogia, construtivismo, ciclos de formação,
+entre outros. Função social da escola. Relação ensino-aprendizagem. Psicologização e
+medicalização do fracasso escolar: encaminhamentos, psicodiagnósticos e testes
+psicológicos. O psicológico como agente promotor de saúde dos processos de
+aprendizagem e institucionais.
+
+Bibliografia Básica:
+PATTO, M.H.S. ​Introdução à psicologia escolar.​ São Paulo: Casa do Psicólogo, 2007.
+468 p.
+PATTO, M.H.S. ​A produção do fracasso escolar: ​histórias de submissão e rebeldia. 3
+ed. 1 reimpr. São Paulo: Casa do Psicólogo, 2010.
+SOUZA, B.P. (Org.) ​Orientação à queixa escolar​. 2 ed. São Paulo: Casa do Psicólogo,
+2007. 419 p.
+
+Bibliografia Complementar:
+DUARTE, N. ​Educação escolar, teoria do cotidiano e a Escola de Vigotski​. 3a. ed. rev.
+e ampl. Campinas, SP: Autores Associados, 2001. 115 p.
+MARTÍNEZ, A.M. (Org.) ​Psicologia escolar e compromisso social:​ novos discursos,
+novas práticas. Alínea Editora, 2005. 262 p. (Coleção Psicologia Escolar e Educacional)
+MEIRA, M.E.M; ANTUNES, M.(Orgs.) ​Psicologia Escolar:​ Práticas Críticas. São
+                                                                                       57
+
+Paulo: Casa do Psicólogo, 2003. 127 p.
+SAVIANI, D. ​Pedagogia histórico-crítica. 9 ed. São Paulo: Autores Associados, 2003.
+156 p. (Col. Educação Contemporânea)
+SOUZA, M.P.R de (Org.). ​Ouvindo crianças na escola:​ abordagens qualitativas e
+desafios metodológicos para a Psicologia. São Paulo: Casa do Psicólogo, 2010. 284 p.
+
+Psicologia e Processos Psicossociais – II
+Histórico, origem e evolução da concepção do trabalho. Cultura e subjetividade.
+Relação saúde e trabalho. Trabalho, instituição e sofrimento psíquico. Tecnologia no
+mundo do trabalho e subordinação do indivíduo. Tipos de trabalho e o ​stress
+ocupacional. Intervenção nas organizações formais e não-formais.
+
+Bibliografia Básica:
+DEJOURS, Christophe. A banalização da injustiça social. 7. ed. São Paulo: FGV. 2006.
+DEJOURS, Christophe. O fator humano. 5. ed. São Paulo: FGV, 2005.
+ZANELLI, José Carlos; BORGES-ANDRADE, Jairo Eduardo; BASTOS, Antônio
+Virgílio (Org.). Psicologia, Organizações e Trabalho no Brasil. Porto Alegre: Artmed,
+2004.
+
+Bibliografia Complementar:
+ANTUNES, Ricardo. Adeus ao trabalho?: ensaio sobre as metamorfoses e a
+centralidade do mundo do trabalho. 15. ed. São Paulo: Cortez, 2011.
+CAMPOS, Dinael Correa de. Atuando em Psicologia do trabalho, psicologia
+organizacional e recursos humanos. São Paulo: Ltc, 2008.
+ALBORNOZ, Suzana. O que é trabalho?. 6 ed. São Paulo: Brasiliense. 1994.
+CODO, Wanderley; SAMPAIO, Jose Jackson Coelho; HITOMI, Alberto Haruyoshi.
+Individuo, trabalho e sofrimento : uma abordagem interdisciplinar. Petrópolis: Vozes,
+1994.
+SELIGMANN-SILVA, Edith. Desgaste mental do trabalho dominado. São Paulo:
+Cortez, 1994.
+
+Psicologia e Processos Psicossociais –III
+Sociedade e comunidade: aspectos conceituais. Diversidade cultural e subjetividade.
+Psicologia na comunidade, psicologia da comunidade e psicologia comunitária.
+Processos psicossociais e comunidade: história, fundamentos e práticas.
+
+Bibliografia Básica:
+CAMPOS, R. H. de F. (Org.). ​Psicologia social comunitária: D ​ a solidariedade à
+autonomia. Petrópolis: Vozes, 2009.
+LANE, S. T. M.; CODO, W. (Orgs.). ​Psicologia social: O homem em movimento​. São
+Paulo: Brasiliense, 1994.
+SARRIERA, J. C.; SAFORCADA, E. T. (Org.). ​Introdução à psicologia comunitária:
+bases teóricas e metodológicas. Porto Alegre: Sulina, 2010.
+
+Bibliografia Complementar:
+BEHRING, E. R.; BOSCHETII, I. ​Política social: Fundamentos e história. São Paulo:
+Cortez, 2009.
+BRANDÃO, C. R. (Org.). ​Pesquisa participante​. São Paulo: Brasiliense, 1990.
+                                                                              58
+
+FREIRE, P. ​Conscientização: ​Teoria e prática da libertação. São Paulo: Cortez &
+Moraes, 1980.
+REBOREDO, L. A. ​De eu e tu a nós: O        ​ grupo em movimento como espaço de
+transformação das relações sociais. Piracicaba, UNIMEP, 1995.
+VASCONCELOS, E. M. ​O que é psicologia comunitária? ​São Paulo: Brasiliense, 1985
+                                                                                             59
+
+                                             Tabela C
+
+             Sugestão de Fluxo das Disciplinas do Bacharelado em Psicologia
+
+Disciplina                                                      Unidade      CHTS   Núcleo    Natureza
+                                                               Responsável
+
+                                                 1º. Período
+Anatomia Humana                                                   ICB         96     NC           OBR
+Estatística – I                                                   IME         64     NC           OBR
+Filosofia e Psicologia – I                                         FE         64     NC           OBR
+História, Teorias e Sistemas em Psicologia -I                      FE         64     NC           OBR
+Introdução às Ciências Sociais - I                                 FE         64     NC           OBR
+Processos Psicológicos Básicos                                     FE         64     NC           OBR
+LAI3 :Psicologia e formação -I                                     FE         32     NC           OBR
+
+
+                                                 2º. Período
+Estatística – II                                                  IME         64     NC           OBR
+Filosofia e Psicologia – II                                        FE         64     NC           OBR
+Fisiologia Humana                                                 ICB         80     NC           OBR
+História, Teorias e Sistemas em Psicologia -II                     FE         64     NC           OBR
+Introdução às Ciências Sociais - II                                FE         64     NC           OBR
+Investigação e métodos em Psicologia - I                           FE         64     NC           OBR
+LAI: Psicologia e formação -II                                     FE         32     NC           OBR
+LIBRAS                                                             FE         64     NC           OBR
+Disciplina de Núcleo Livre                                                           NL
+                                            3º. Período
+Investigação e métodos em Psicologia - II                          FE         64     NC           OBR
+Psicanálise – I                                                    FE         64     NC           OBR
+Psicologia da Personalidade - I                                    FE         64     NC           OBR
+Psicologia do Desenvolvimento e da Aprendizagem – I                FE         64     NC           OBR
+Psicologia Geral e Experimental                                    FE         64     NC           OBR
+Psicologia Social – I                                              FE         64     NC           OBR
+LAI: Psicologia e Ciência -I.                                      FE         32     NC           OBR
+Disciplina de Núcleo Livre                                                           NL
+                                                 4º. Período
+Psicanálise – II                                                   FE         64     NC           OBR
+Psicologia da Personalidade - II                                   FE         64     NC           OBR
+Psicologia do Desenvolvimento e da Aprendizagem – II               FE         64     NC           OBR
+Análise do Comportamento.                                          FE         64     NC           OBR
+Psicologia Social – II                                             FE         64     NC           OBR
+LAI: Psicologia e Ciência -II.                                     FE         32     NC           OBR
+Disciplina de Núcleo Livre                                                           NL
+                                            5º. Período
+Psicologia do Desenvolvimento e da Aprendizagem – III              FE         64     NC           OBR
+Psicopatologia – I                                                 FE         64     NC           OBR
+
+3
+         LAI = Laboratório de Atividades Integradas.
+                                                                            60
+
+Técnica de Avaliação Psicológica - I                        FE   72    NC        OBR
+Psicologia Social – III                                     FE   64    NC        OBR
+Teorias e Técnicas Psicoterápicas - I                       FE   72    NC        OBR
+LAI: Psicologia, Política e Ideologia - I.                  FE   32    NC        OBR
+Disciplina de Núcleo Livre                                             NL
+                                            6º. Período
+Psicologia do Desenvolvimento e da Aprendizagem –IV         FE   64    NC        OBR
+Psicologia Social – IV                                      FE   64    NC        OBR
+Psicopatologia – II                                         FE   64    NC        OBR
+Técnica de Avaliação Psicológica - II                       FE   72    NC        OBR
+Teorias e Técnicas Psicoterápicas - II                      FE   72    NC        OBR
+LAI: Psicologia, Política e Ideologia - II.                 FE   32    NC        OBR
+Disciplina de Núcleo Livre                                             NL
+Investigação e métodos em Psic. – Psicologia e ​Processos   FE   64    NE        OBR
+Clínicos
+Investigação e métodos em Psic. – Psicologia e ​Processos   FE   64    NE        OBR
+Psicossociais
+                                              7º. Período
+Psicodiagnóstico – I                                        FE   72    NC        OBR
+Neuropsicologia                                             FE   64    NC        OBR
+Psicologia e Trabalho                                       FE   64    NC        OBR
+Psicologia e Diversidade                                    FE   64    NC        OBR
+Teorias e Técnicas Psicoterápicas - III                     FE   72    NC        OBR
+LAI: Psicologia e Profissão - I.                            FE   32    NC        OBR
+Disciplina de Núcleo Livre                                             NL
+Psicologia e Saúde                                          FE   72    NE        OBR
+Psicologia e Processos Psicossociais – I                    FE   72    NE        OBR
+
+                                              8º. Período
+Psicodiagnóstico – II                                       FE   72    NC        OBR
+Técnica de Avaliação Psicológica – III                      FE   72    NC        OBR
+Psicologia e Instituições                                   FE   64    NC        OBR
+Ética                                                       FE   64    NC        OBR
+LAI: Psicologia e Profissão -II.                            FE   32    NC        OBR
+Disciplina de Núcleo Livre                                             NL
+Técnicas de Avaliação Psicológica – IV                      FE   72    NE        OBR
+Psicologia e processos Clínicos                             FE   72    NE        OBR
+Psic. e Processos Psicossociais – II                        FE   72    NE        OBR
+Psic.e Processos Psicossociais – III                        FE   72    NE        OBR
+Psicofarmacologia                                           FE   64    NE        OBR
+
+                                              9º. Período
+Trabalho de Conclusão de Curso – I (TCC)                    FE    64   NC        OBR
+LAI: Psicologia e Intervenção Social -I.                    FE    32   NC        OBR
+Estágio Supervisionado –Processos Clínicos – I              FE   320   NE        OBR
+Estágio Supervisionado –Processos Psicossociais – I         FE   320   NE        OBR
+                                             10º. Período
+Trabalho de Conclusão de Curso – II (TCC)                   FE   64    NC        OBR
+LAI: Psicologia e Intervenção Social –II.                   FE   32    NC        OBR
+                                                                      61
+
+Estágio Supervisionado –Processos Clínicos – II       FE   320   NE        OBR
+Estágio Supervisionado –Processos Psicossociais- II   FE   320   NE        OBR
+                                                                                                     62
+
+
+
+
+VII – Política e gestão do estágio curricular obrigatório e não obrigatório
+
+
+           Os estágios visam o contato do graduando com situações, contextos e
+instituições permitindo que a formação presente no curso se concretize em ações
+profissionais. As Diretrizes Curriculares Nacionais para o curso de Graduação em
+Psicologia (Brasil, 2011), a resolução CEPPEC Nº 7314, e o RGCG/UFG - Regulamento
+Geral para os Cursos de Graduação da UFG que determinam que o estágio curricular
+seja desenvolvido em forma de disciplina(s) pertencente(s) ao núcleo comum ou ao
+núcleo específico, mediante atividades de caráter eminentemente pedagógico e
+cumprido em campo específico de atuação do profissional de cada área.
+           As disciplinas nomeadas como "Laboratórios de Atividades Integradas" (LAI)
+têm, entre suas funções, as designadas nas DCN como Estágios Básicos. As atividades o
+LAI são desenvolvidas de forma mais prática e supervisionadas pelos professores que
+ministram as disciplinas. O aluno entra em contato com o Campo da Psicologia em
+aspectos considerados essenciais para uma formação profissional consistente, realizando
+reflexões e debates acerca do que vivencia no campo. É, nesse sentido, que os LAI(s)
+estão distribuídos por todos os anos do curso e não, simplesmente, nas séries iniciais.
+Para tanto, trabalha-se a relação da Psicologia com a FORMAÇÃO; com a CIÊNCIA;
+com a IDEOLOGIA e a POLÍTICA; com a PROFISSÃO e com as possibilidades de
+INTERVENÇÃO SOCIAL do Psicólogo. É, portanto, um estágio básico não porque
+está na base da matriz curricular, mas, principalmente, está na base do processo
+formativo do futuro profissional de Psicologia.
+           O estágio supervisionado compreende atividades supervisionadas que permitem
+a integralização dos conteúdos e reflexões com a realidade social e a participação
+efetiva do formando no campo de atuação profissional no decorrer do curso.
+Constituem,        portanto,     conjunto     de atividades       de formação programadas e
+supervisionadas por membros do corpo docente da instituição formadora. Estes estágios
+deverão assegurar a consolidação e articulação dos objetivos estabelecidos no projeto de
+
+
+
+
+4
+    Resolução que define a política de estágios da UFG para a formação de professores da Educação Básica
+                                                                                       63
+
+formação. Deverão desenvolver práticas integrativas aos fundamentos dos Núcleos de
+Formação (Comum, Específico e Livre).
+         As atividades de estágio supervisionado devem ser documentadas e avaliadas
+segundo o parâmetro da instituição (UFG), utilizados para a avaliação das demais
+atividades acadêmicas, devendo ser articuladas com as demais atividades curriculares.
+Algumas disciplinas contêm em sua estrutura horas de estágios não computadas
+separadamente como os Laboratórios de Atividades Integradas, entre outras.
+         O curso possui um "Regulamento dos Estágios do Curso de Psicologia", tanto
+para a formação específica (bacharelado), com para a formação de professor de
+psicologia (licenciatura). Foi aprovado pelo Conselho Diretor da Unidade, bem como
+pelas demais instâncias da Universidade. Normatizam a prática de estágio e estão em
+consonância com toda a legislação nacional, regional e institucional, que rege a
+estruturação dos estágios nos cursos de graduação, em especial, no de Psicologia
+(Específico da Profissão) e do Professor de Psicologia.
+         O Estágio curricular obrigatório terá seu número de vagas definido a partir dos
+projetos e campos de estágio apresentados pelos professores supervisores, em
+conformidade com o projeto pedagógico do curso e a resolução CEPEC 731/2005, bem
+como com a disponibilidade de vagas das instituições conveniadas com a UFG.
+         Os estágios curriculares não obrigatórios serão autorizados pela coordenação do
+curso de psicologia FE/UFG somente a partir do 5º período do curso, e com carga
+horária máxima de 20 horas semanais, conforme estabelecido no Projeto Pedagógico do
+Curso.
+         Os estágios supervisionados, assim como os extracurriculares, respeitam a
+legislação existente, assim como, as normatizações sobre o assunto presentes na FE,
+UFG e em outras instâncias superiores e devem ser desenvolvidas somente em
+instituições conveniadas a UFG.
+         Ressalta-se que para a prática de estágio e de extensão universitária dispomos de
+um órgão denominado CENTRO DE PSICOLOGIA/FE. Este foi constituído tendo em
+vista às exigências para a formação do psicólogo compatível com a proposta do curso.
+O Centro de Psicologia visa desenvolver atendimento psicológico da comunidade, tal
+como uma Clínica-escola, articulando-se com outros serviços no campo da Psicologia,
+já presentes na UFG, como os existentes no Hospital das Clínicas, na PROCOM –
+                                                                                    64
+
+Pró-Reitoria   de     Assuntos   da   Comunidade   Universitária   da    UFG   (projeto
+Saudavelmente), no CEPEA – Centro de Ensino, Pesquisa e Extensão do adolescente
+(FE-UFG), Centro de Saúde, entre outros. Também busca se articular com instituições
+externas a UFG que proporcionem condições de convênios e estágios condizentes com
+o projeto do curso.
+
+
+VIII – Trabalho de conclusão de curso
+
+
+       O Trabalho de Conclusão de Curso (TCC) será oferecido sob a forma de
+disciplina do núcleo básico específico e se situa no último ano do curso, normatizado
+por Resolução própria do Conselho Diretor (Resolução CD/FE 02/2009). O TCC,
+realizado nas disciplinas TCC I e TCC II, tem como finalidade a formação dos
+estudantes como sujeitos que pensam e recriam o conhecimento, a sociedade e a cultura,
+o que implica o aprofundamento de estudos na área das ciências, da filosofia, da
+sociologia, da política e das artes, em sua relação intrínseca com a psicologia. A
+aprovação na disciplina TCC I é pré-requisito para a matrícula no TCC II.
+       No PPC de psicologia aponta-se em seu contexto a importância da pesquisa na
+formação do profissional de psicologia, seja ele, professor ou psicólogo. No
+desenvolvimento do curso, desde os primeiros períodos, disciplinas de Investigação e
+Métodos estão presentes, dando um suporte para a realização de trabalhos científicos.
+Os Laboratórios de Atividades Integradas proporcionam discussões no campo da
+psicologia extremamente ricas na relação teórico-prática que poderão/deverão despertar,
+ou melhor, vem despertando, os alunos para temas importantes a serem estudados e
+pesquisados no campo da psicologia. Nas outras disciplinas, também há essa
+preocupação.
+       Portanto, a formação presente no transcorrer do curso se apresentará no
+desenvolvimento dos Trabalhos de Conclusão de Curso, pois as atividades estão
+articuladas. O suporte recebido nos períodos anteriores será importante no
+desenvolvimento das disciplinas de TCC-I e TCC-II.
+       Utilizamos a Resolução 02/2009, da Faculdade de Educação da UFG, como
+normatização das disciplinas e dos trabalhos finais de TCC-I e TCC-II.
+                                                                                      65
+
+       Na resolução o aluno será acompanhado durante dois semestres por um
+professor efetivo ligado ao curso de psicologia. O sistema de avaliação será o
+determinado pelo Regimento Geral dos Cursos de Graduação da UFG. Os alunos serão
+acompanhados semanalmente por seus professores, como exige qualquer disciplina
+regular da UFG.
+       O trabalho monográfico elaborado na disciplina TCC-II será apresentado em
+sessão pública e será avaliado pelo professor orientador e um professor convidado,
+devendo a avaliação ser divulgada ao final da sessão. Uma sessão pública é a forma de
+divulgação do TCC, no futuro, novas formas de divulgação, como publicações, deverão
+ser fomentadas. Também deverão ser entregues na coordenação do curso por meio de
+cópia digitalizada e impressa.
+       A relação aluno/orientador é de no mínimo 2 e no máximo 10 alunos para cada
+orientador.
+
+
+
+IX – Integração ensino, pesquisa e extensão
+
+       Neste tópico, acerca da indissociabilidade entre ensino, pesquisa e extensão,
+abordaremos as práticas que atestam tal integração. Apresentaremos os a) laboratórios
+de pesquisa e o Centro de Psicologia que também servem ao ensino, os b) programas de
+pós-graduação da Unidade acadêmica, os c) núcleos de pesquisa que aglutinam os
+professores efetivos do curso e o d) apoio à participação e organização de eventos.
+
+
+a) INSTALAÇÕES ESPECIAIS E LABORATÓRIOS ESPECÍFICOS:
+
+
+       Os laboratórios de Anatomia Humana e Fisiologia Humana que servem às
+disciplinas do mesmo nome estão instalados e são de responsabilidade do Instituto de
+Ciências Biológicas da Universidade Federal de Goiás, situado no Campus Samambaia.
+São os mesmos laboratórios utilizados para os cursos das áreas de Ciências Biológicas e
+Ciências da Saúde (Medicina, Odontologia, Farmácia, etc.). Esses laboratórios são bem
+estruturados e bem avaliados pelo INEP e, nesses nove anos de curso, têm atendido
+satisfatoriamente às turmas de psicologia.
+                                                                                         66
+
+          Na Faculdade de Educação, o curso conta com diversos laboratórios que são
+utilizados para atividades de ensino e pesquisa: 1- Laboratório de Informática; 2-
+Laboratório de Observação; 3- Laboratório de Análise comportamental/Infra-humano;
+4- Laboratório de Análise Comportamental e o 5- Centro de Psicologia.
+          Todos os laboratórios já estão devidamente equipados com materiais e
+instrumentos fundamentais para seu funcionamento.
+          No 1- Laboratório de Informática e Multimídia há: 22 computadores com as
+seguintes especificações: 256 de memória Ram, HD de 80 e Processador de 1,7 GHZ.
+Todos encontram-se conectados à rede da UFGnet e permitem acesso irrestrito à
+internet. O acesso do aluno é feito mediante cadastro e outorga de senha, sem qualquer
+ônus financeiro e sem limite de tempo. Os professores podem fazer livre uso do
+laboratório, sendo possível agendamento para o desenvolvimento de atividades
+acadêmicas com grupos ou turmas de alunos. Toda a comunidade UFG tem acesso
+gratuito e livre ao Portal de Periódicos da CAPES. Há uma previsão de uma ampliação
+desse laboratório em decorrência de projeto de extensão/pesquisa em decorrência de
+parceria da FE/UFG e CEFET.
+          No 2- Laboratório de Observação, há uma sala-espelho, em que pesquisadores e
+alunos poderão acompanhar algum atendimento ou pesquisa sem interferir na sessão.
+          No 3- Laboratório de Análise Experimental - Infra-humanos se encontram: 20
+caixas de Skinner; 01 interface de 64 canais; 01 programa de Condicionamento
+Operante; 24 caixas de policarbonato; 06 caixas de polipropileno, 01 gabinete para
+biotério; 01 estante para biotério e 01 balança eletrônica de precisão.
+          No 4- Laboratório de Análise Comportamental há sete gabinetes equipados com
+micro-computadores destinados à coleta e análise de dados provenientes de pesquisas de
+alunos.
+          Esses laboratórios darão suporte às práticas de várias disciplinas entre as quais:
+Psicologia Geral e Experimental, Análise do Comportamento, Processos psicológicos
+básicos, Investigação e métodos de pesquisa I e II, Estatística, dentre outras. Permitirão,
+ainda, integrar práticas referentes às disciplinas dos Núcleos Comum, Específico, como
+também do Núcleo Livre.
+          Ressalta-se que a produção de conhecimento dos professores e alunos, à medida
+que o curso e os estudos forem aprofundando e, ao mesmo tempo, se diversificando,
+                                                                                     67
+
+poderá orientar a estruturação de novos laboratórios que possam atender à diversidade
+da formação no campo psicológico.
+       O 5- Centro de Psicologia é um espaço de atendimentos construído tendo como
+base as tradicionais clínicas-escolas. Entretanto buscou-se ampliar o escopo de
+atendimento, não se restringindo à clínica tradicional, mas também abrindo espaço às
+intervenções psicossociais de grupos, institucionais e comunitárias. O centro foi criado
+tendo em vista às exigências para a formação do psicólogo compatível com a proposta
+do curso. É sediado numa casa que se encontra a cem metros de distância da Faculdade
+de Educação e conta com seis salas de atendimento individual e uma sala de
+atendimento de grupos. Visa desenvolver atendimento psicológico da comunidade,
+articulando-se com outros serviços no campo da Psicologia, já presentes na UFG, como
+os existentes no Hospital das Clínicas, na PROCOM (projeto Saudavelmente), no
+CEPEA, entre outros. Também deverá se articular com instituições externas a UFG que
+proporcionem condições de convênios e estágios condizentes com o projeto do curso.
+Além das atividades de estágio, o Centro de Psicologia sedia projetos de extensão
+universitária coordenados pelos professores efetivos do curso, como: “Oficina de
+revisão de vida: uma proposta de investigação da velhice”, “GRITE – Grupos,
+Instituições e Trabalho Emancipatório”, etc. Tais projetos, além de configurarem como
+atendimento à comunidade, é espaço de prática dos estudantes e de coleta de dados para
+projetos de pesquisa.
+       Também foram selecionados, licitados e comprados diferentes tipos de testes
+psicológicos (todos revalidados pelo CFP) que se encontram na FE/UFG à disposição
+do curso, e servem aos atendimentos à comunidade no Centro de Psicologia.
+
+
+b) PROGRAMAS DE PÓS-GRADUAÇÃO NA FE-UFG
+
+
+       A FE/UFG tem primado pela indissociabilidade entre ensino, pesquisa e
+extensão. Além de se apresentar como referência na graduação, no que tange às áreas de
+conhecimento da psicologia e da educação, mantém curso de pós-graduação stricto
+sensu na área de Educação: mestrado (desde 1986) e doutorado (desde 2001), com
+conceito 5 na avaliação CAPES no triênio 2010-2012.
+                                                                                    68
+
+       No ano de 2014 finalmente foi criado o mestrado acadêmico na área de
+Psicologia, com a participação de oito professores do seu corpo permanente. O
+Programa de Pós-Graduação em Psicologia – PPGP-FE tem o primeiro curso de
+mestrado em Psicologia em uma Universidade Pública no Estado de Goiás. A segunda
+turma de alunos acabou de ser selecionada em novembro de 2014. Dentre os alunos da
+primeira seleção, já contamos com cinco que recebem bolsas de estudos (seja da
+CAPES, da UFG, ou de inclusão social).
+
+
+c) NÚCLEOS DE PESQUISA
+
+
+       A atuação consolidada na graduação e na pós-graduação implica o
+desenvolvimento de Grupos de Estudos e Núcleos de Pesquisas, cuja produção finda por
+ensejar articulação de pesquisas entre diferentes docentes e discentes, aprofundamento
+de estudos e uma agenda sistemática e prolífica de eventos como congressos, seminários
+e colóquios.
+       Atualmente há três núcleos de estudos e pesquisas que contam com a
+participação de professores do curso de Psicologia:
+- NEPPEC: Núcleo de Estudos e Pesquisas em Psicologia, Educação e Cultura;
+- NUPESE: Núcleo de Pesquisas e Estudos Sociedade, Subjetividade e Educação;
+- CRISE: Núcleo de Estudos e Pesquisas Crítica, Insurgência, Subjetividade e
+Emancipação.
+           Ambos os núcleos organizam inúmeros eventos acadêmicos, têm projetos de
+pesquisa financiados pelo CNPq/CAPES, projetos de extensão e produzem livros e
+artigos.
+           Além dos núcleos de pesquisa, há a existência da Liga de Análise do
+Comportamento – LAC - e da Liga de Psicologia do Trabalho, que futuramente com sua
+consolidação podem vir a se tornar novos núcleos. Ressalta-se também a existência de
+projetos de pesquisa coletivos de professores, que contam inclusive com financiamento
+de agências de fomento à pesquisa, como por exemplo o Projeto “A atenção
+clínica/psicossocial aos usuários de drogas ilícitas e álcool”, financiado pela FAPEG e
+sob a coordenação de cinco professoras do curso.
+                                                                                      69
+
+       Salienta-se também a existência de outros núcleos de pesquisa na FE, mas que
+atualmente não contam com a participação de nenhum professor do curso: Núcleo de
+Estudos e Documentação Educação, Sociedade e Cultura (NEDESC); Núcleo para o
+Desenvolvimento do Ensino de Ciências (NUDEC); Núcleo de Estudos e Pesquisas de
+Apoio à Formação de Professores (NUFOP); Núcleo de Estudos Rurais; Núcleo de
+Estudos e Pesquisas da Infância e sua Educação em diferentes contextos (NEPIEC);
+Núcleo de Estudos e Pesquisas em Fenomenologia (NEPEFE) e Núcleo de Estudos
+Afrodescendentes e Indígenas (NEADI).
+
+
+d) APOIO À PARTICIPAÇÃO E PROMOÇÃO DE EVENTOS ACADÊMICOS:
+
+
+       Expressando uma política da própria UFG, no que se refere à participação dos
+alunos em eventos científicos, técnicos e culturais, o Curso de Psicologia promove a
+divulgação sistemática de eventos da área de conhecimento e atuação do psicólogo e
+tem envidado esforços para que professores e alunos deles participem efetivamente.
+Nesses nove anos de funcionamento do curso, os alunos já estiveram presentes em
+eventos nacionais e internacionais, conforme se verifica no Arquivo de Registro de
+Atividades Complementares.
+       Deve-se salientar que a UFG, por meio da Pró-Reitoria de Assuntos da
+Comunidade Universitária, PROCOM, mantém em funcionamento o Programa de
+Incentivo à participação do estudante em eventos científicos e culturais. Este programa
+tem por objetivo conceder passagens terrestres para estudantes de graduação que
+queiram participar de atividades científicas, culturais e político-estudantis em âmbito
+nacional.
+       A UFG dispõe, ainda, de ônibus e micro-ônibus que podem ser requisitados,
+com a chancela da Unidade Acadêmica de origem, para transporte de grupos de alunos
+com vistas à participação em eventos em todo o território nacional.
+       Afora o incentivo à participação de alunos em eventos científicos e culturais fora
+da FE/UFG, o Curso de Psicologia também possui em sua grade curricular a proposta
+dos Laboratórios de Atividades Integradas, que oferecidos desde o primeiro período,
+encerram temáticas a serem trabalhadas de modo flexível, integrado às demais
+disciplinas e aberto ao contato com a realidade da formação e da atuação do psicólogo
+                                                                                     70
+
+nos diversos espaços em que estas ocorrem. Os LAIs incentivam a participação em
+seminários, palestras, mostras de vídeos, visitas orientadas, entrevistas, produções de
+textos ou vídeos.
+       A Coordenação do Curso de Psicologia tem promovido, nesses nove anos,
+encontros e palestras que, articulando Atividades do LAI (Laboratório de Atividades
+Integradas), e das atividades dos núcleos (NEPPEC, NUPESE & CRISE) trazem a
+participação de professores, pesquisadores e profissionais da psicologia não apenas do
+estado de Goiás, mas de outras regiões do país e do exterior. Articulado ao LAI de
+intervenção social, em todos esses anos organiza-se o Congresso de Psicologia da UFG,
+em que no ano de 2014 chegou-se à nona edição, contando com a participação de
+trezentos psicólogos e estudantes de Psicologia do Estado de Goiás.
+       Ressalta-se que o curso de Psicologia, em parceria com associações nacionais da
+Psicologia organizou e sediou três encontros nacionais. Em 2011 foi o Encontro
+Nacional da ABEP – Associação Brasileira de Psicologia, em que a coordenação do
+curso foi fundamental para a logística e infra-estrutura do evento. Em 2013, os
+estudantes de Psicologia do CAPSI – Centro Acadêmico de Psicologia da UFG,
+organizaram o XXVI – ENEP – Encontro Nacional de Estudantes de Psicologia,
+contando com a participação de quase mil estudantes de todo o país, trinta anos após sua
+única edição no Estado de Goiás, em 1983 na UCG – Universidade Católica de Goiás.
+Em 2014, o núcleo CRISE e a coordenação de Psicologia da FE-UFG, em parceria com
+a Associação Brasileira de Psicologia Política – ABPP, organizaram e sediaram o VIII
+Simpósio Brasileiro de Psicologia Política. O evento contou com a participação de
+quatrocentos professores e pesquisadores da área e teve a participação de conferencistas
+de oito países estrangeiros, recebendo o apoio do CNPq, CAPES e FAPEG.
+       Além desses, a FE organiza há 23 anos o Simpósio de Estudos e Pesquisas da
+FE/UFG, que, contando com a participação de conferencistas de renome nacional e
+internacional, com espaço reservado a comunicações de pesquisa e oferta de
+mini-cursos e oficinas relativas às temáticas da psicologia e da educação, atende a uma
+clientela de, em média, de cerca de mil pessoas, sendo pesquisadores da região
+Centro-Oeste e professores da rede municipal estadual. Os eventos, promovidos por
+meio de planejamento, coordenação e organização de professores, alunos e servidores,
+contam com apoio das instâncias acadêmicas e administrativas da FE e da UFG e são
+                                                                                    71
+
+fértil manancial para a formação dos estudantes de graduação e pós-graduação em
+psicologia.
+
+
+X – Sistema de avaliação do processo de ensino e da aprendizagem
+
+
+       O Projeto Pedagógico do curso orienta-se por uma concepção de formação
+sólida, ampla, consistente e responsável, garantindo o compromisso do psicólogo com a
+perspectiva científica, social, ética e profissional da psicologia. Objetiva, assim, um
+exercício profissional consciente, competente e crítico, capacitado para enfrentar as
+vicissitudes da sociedade brasileira. O curso se estrutura em eixos que expressam os
+pressupostos e fundamentos epistemológicos e históricos, teórico-metodológicos,
+procedimentos e práticas no campo da Psicologia, que envolvem toda a grade curricular.
+Assim, os projetos pedagógicos dos cursos e os planos de ensino devem articular
+objetivos formativos que expressam coerência com a concepção formativa do curso,
+assegurando, assim, uma formação que visa garantir o domínio do referencial teórico do
+campo psicológico e o desenvolvimento da capacidade de intervenção em diferentes
+contextos que demandam a investigação, análise avaliação e prevenção em processos
+psicológicos.
+       Essa perspectiva deve se fazer presente nos instrumentos, critérios e objetivos
+estabelecidos   pelos   professores   para   proceder   a   avaliação    do   processo
+ensino-aprendizagem.
+       A organização metodológica do curso expressa a compreensão da aprendizagem
+como processo de formação, abrangendo atividades teórico-práticas ao longo do curso.
+Nessa perspectiva, os processos avaliativos devem considerar e proporcionar diversos e
+diversificados instrumentos, vinculados a uma formação teórica sólida e uma formação
+de intervenção em diversificados e diferentes espaços e contextos sociais. Os processos
+avaliativos devem articular diferentes procedimentos de verificação da aprendizagem,
+garantindo um processo de acompanhamento do aluno através da mediação dos
+elementos constituídos ao longo do processo acadêmico, expressando seus avanços,
+dificuldades e perspectivas, possibilitando os encaminhamentos necessários e coerentes
+com a concepção formativa do curso.
+                                                                                    72
+
+       A avaliação do processo ensino aprendizagem pressupõe atenção permanente a
+todos os aspectos que dizem respeito à definição do plano de curso pelos professores,
+desde a definição dos fundamentos, princípios e concepções de formação presentes no
+PPC até a definição do plano de aula. Nesse sentido, o processo de avaliação também
+inclui uma autoavaliação do professor acerca do seu trabalho, de modo a possibilitar
+uma contínua melhoria das aulas, do relacionamento com os estudantes, dos
+procedimentos e instrumentos de avaliação discente.
+       Na avaliação da aprendizagem é importante que os aspectos qualitativos
+sobreponham aos aspectos quantitativos e que os resultados da avaliação sejam
+discutidos com os estudantes de modo a propiciar a todos uma reflexão sobre o
+andamento do processo acadêmico. A avaliação, com isso, extrapola sua função
+burocrática, cumprindo também uma função formativa, subsidiando mudanças no
+trabalho docente que possam contribuir para melhorar qualitativamente o processo de
+ensino aprendizagem da disciplina.
+       Todos os procedimentos que envolvem o processo avaliativo da aprendizagem
+discente, assim como a verificação da freqüência e do aproveitamento de disciplinas
+serão realizados de acordo com o Regulamento Geral dos Cursos de Graduação
+(RGCG) da UFG (Resolução – CEPEC Nº 1122/2012).
+
+
+XI – Sistema de avaliação do projeto do curso
+
+
+       A avaliação do curso de Psicologia envolve dois aspectos: a avaliação docente e
+discente e a avaliação do curso. Esses aspectos supõem procedimentos diferenciados
+para acompanhar a estruturação e desenvolvimento tanto do trabalho docente, da
+formação discente assim como da implantação do curso.
+       Os procedimentos indicados no Projeto para acompanhar a avaliação docente e
+discente objetivam avaliar o desenvolvimento dos planos de curso de cada disciplina, o
+trabalho docente e o acompanhamento do processo formativo do aluno. Esses
+instrumentos constituem ferramentas de reflexão e discussão dos processos avaliativos e
+asseguram as ações necessárias a melhoria da qualidade de ensino. Além dessas
+avaliações, também contamos com a avaliação institucional encaminhada pela UFG e a
+avaliação externa realizada pelo MEC.
+                                                                                     73
+
+       As ações acadêmico-administrativas para avaliação do curso, realizadas
+anualmente, são as seguintes:
+
+
+1- ​Avaliação do Desempenho Didático do Docente pelo Discente
+
+
+       Trata-se de um instrumento de avaliação institucional da UFG respondido pelos
+estudantes, baseado em pressupostos filosóficos, teóricos e metodológicos, que busca
+verificar o desempenho acadêmico dos professores da universidade em relação à
+aprendizagem e formação dos alunos. Tem sido utilizado com o objetivo de acompanhar
+a avaliação discente do trabalho docente e fornece elementos que permitem acompanhar
+o desenvolvimento das disciplinas, almejando a melhoria da qualidade do processo
+ensino-aprendizagem.
+       O questionário está online, disponível no Portal UFGnet e é realizado no final de
+cada semestre pelos alunos do curso de Psicologia. A participação dos discentes é
+importante para contribuição nas melhorias da instituição e aperfeiçoamento da prática
+pedagógica.
+(​https://www.ufg.br/n/69458-avaliacao-do-desempenho-didatico-do-docente-pelo-disce
+nte-esta-disponivel-no-portal-ufgnet​).
+       Com relação aos discentes, destaca-se um questionário auto-avaliativo, aplicado
+ao final de cada semestre letivo em cada uma das disciplinas cursadas pelo aluno. Esse
+instrumento objetiva a auto-avaliação do discente do seu processo formativo e se
+constitui como uma possibilidade de reflexão e conscientização das responsabilidades
+com seu processo ensino-aprendizagem.
+
+
+2- Comissão de Avaliação Institucional (CAVI)
+
+
+       A CAVI, prevista no Regimento Geral da UFG tem como missão instituir na
+UFG uma cultura de avaliação subsidiando de modo pleno a gestão acadêmica, rumo à
+potencialização e desenvolvimento do desempenho institucional. O processo de
+Avaliação da UFG está concebido no interior de um projeto maior, denominado
+Programa      de Gestão    Estratégica (PGE), que pode ser conferido no link
+                                                                                       74
+
+abaixo. (​https://cavi.prodirh.ufg.br/p/730-autoavaliacao-institucional-da-ufg-o-projeto-e
+-o-processo​).
+
+
+3- Núcleo Docente Estruturante
+
+
+       O curso de Psicologia da Faculdade de Educação (UFG) possui um núcleo
+docente estruturante de Bacharelado e outro de licenciatura, (Resolução CEPEC
+n°.1302/2014),   compostos por       um grupo de docentes com atribuições de
+acompanhamento, avaliação, discussão e reformulação do projeto pedagógico do curso,
+entre outras funções. Os NDEs visam elaborar os instrumentos, critérios e as análises
+necessárias para acompanhar a estruturação, implantação e avaliação do curso.
+       Deve apresentar a análise dos dados coletados e os encaminhamentos
+necessários para concretizar os objetivos propostos no Projeto, apontando os ajustes
+necessários à sua implementação. Para tanto, deve utilizar instrumentos avaliativos que
+possibilitem verificar e analisar se objetivos que orientam a formação proposta no
+projeto pedagógico estão sendo alcançados, considerando a coerência com a concepção
+do curso em relação aos projetos pedagógicos dos cursos e seus planos de ensino; à
+prática pedagógica dos professores; os processos avaliativos utilizados no processo
+ensino-aprendizagem; as atividades realizadas durante a estruturação e implantação do
+curso; a interface com as outras áreas de conhecimento; os espaços constituídos como
+momentos de flexibilização curricular; as atividades complementares, entre outros.
+Objetiva, ainda, verificar se os eixos estruturantes e os princípios que norteiam o curso
+têm sido assegurados na implantação do currículo e no desenvolvimento do trabalho
+docente. Esse procedimento de avaliação assume centralidade, pois permite acompanhar
+a estruturação e implantação do curso e, ainda, possibilita a reflexão sobre os
+desdobramentos do curso, que devem orientar e definir as ações, alterações e
+adequações necessárias, no decorrer do curso, para a concretização dos objetivos
+propostos.
+       Ambos NDEs, tanto de bacharelado como de licenciatura em Psicologia,
+realizam a cada ano uma avaliação com os egressos do curso para analisar possíveis
+reformulações em seu projeto. Nessa avaliação são formuladas questões a respeito do
+curso: núcleo comum, ênfases clínica e social, licenciatura, estágios, núcleos livres,
+                                                                                   75
+
+atividades complementares, pesquisa e extensão. Além disso, são avaliadas as
+disciplinas, quanto a: relevância, ementa, domínio do conteúdo pelo professor,
+metodologia e referências bibliográficas.
+        Nas reuniões dos NDEs conta-se com participação estudantil, com direito a voz,
+mas sem direito a voto, como preconiza a Resolução ​CEPEC Nº 1302/2014​, sobre os
+NDEs. Portanto, as reuniões e debates entre professores e alunos são realizados com
+freqüência (três reuniões por semestre) e como forma de acompanhamento da
+estruturação e avaliação do curso de Psicologia na FE/UFG.
+
+
+4-ENADE​.
+
+
+        Além das avaliações internas e no âmbito da UFG, passamos também por uma
+avaliação externa a cada triênio: o ENADE. “De acordo com a ​Portaria Normativa nº 40
+de 12 de dezembro de 2007​, Art. 33-D, o Exame Nacional de Desempenho de
+Estudantes (Enade), que integra o ​Sistema Nacional de Avaliação da Educação Superior
+(Sinaes)​, tem como objetivo aferir o desempenho dos estudantes em relação aos
+conteúdos programáticos previstos nas diretrizes curriculares do respectivo curso de
+graduação,      e    as     habilidades     e   competências   em   sua    formação.”
+(​http://portal.inep.gov.br/enade​).
+        Os alunos do curso de Psicologia da FE-UFG foram avaliados pelo ENADE em
+duas oportunidades, recebendo respectivamente os conceitos 5 e 4. Em 2015
+passaremos pela terceira avaliação.
+        Todavia ainda não temos um planejamento de ações acadêmicas em função dos
+resultados do ENADE.
+        Portanto, todos os procedimentos e instrumentos avaliativos, a par da
+especificidade dos aspectos desenvolvidos e analisados, objetivam assegurar a
+implementação e o desenvolvimento do curso enquanto totalidade referida a todos os
+aspectos nela constituintes e constituídos: projeto pedagógico, objetivos e princípios
+norteadores do curso, estrutura curricular, projetos pedagógicos e planos de ensino;
+trabalho docente e processo formativo discente.
+                                                                                       76
+
+XII- Política de qualificação docente e técnico-administrativo da unidade
+acadêmica
+
+
+       A UFG e a Faculdade de Educação entendem que a formação qualificada do
+corpo docente, sobretudo em nível de doutorado, é de fundamental importância para
+garantir uma formação acadêmica de qualidade e, ao mesmo tempo, a indissociabilidade
+entre ensino, pesquisa e extensão. Nas últimas décadas, a UFG e a Faculdade de
+Educação vem efetivando uma política de qualificação docente e dos servidores
+técnico-administrativos comprometida com essa compreensão. Tendo por base a
+política institucional, todos os esforços institucionais e acadêmicos serão empreendidos
+para que a formação, sobretudo ​stricto sensu​, seja garantida a esses segmentos. Além
+disso, a formação continuada, seja para docentes, seja para técnicos, é de fundamental
+importância para o aperfeiçoamento do trabalho acadêmico. A política de qualificação
+está definida em resoluções próprias, acompanhadas da firme decisão institucional e
+acadêmica em favorecer esse processo.
+       O corpo docente do curso de Psicologia possui vinte e cinco professores. Destes,
+vinte e um têm o título de doutor, três estão concluindo e uma está iniciando seus
+estudos de doutorado (as quatro possuem título de mestre). A FE-UFG concedeu licença
+para o mestrado e doutorado para praticamente todos os professores que solicitaram.
+Duas professoras, que realizaram pós-doutorado, em instituições externas à UFG,
+também tiveram suas licenças concedidas.
+       A    FE     conta,   atualmente,     com     um    quadro     de    13   servidores
+técnico-administrativos, sendo que, 10 deles possuem formação em nível superior,
+alguns com mestrado e a maior parte já serve à UFG por mais de 15 anos. Trata-se,
+portanto, de um corpo técnico-administrativo qualificado e com satisfatória experiência
+profissional junto à gestão de instituição de ensino superior e público.
+       Ademais, a UFG oferece regularmente cursos de aperfeiçoamento, propostos
+mediante avaliação institucional e planejamento estratégico (conforme se verifica nos
+documentos gerados pela CAVI, pelos PDI e PPI, dispostos no sítio da UFG:
+www.prodirh.ufg.br). Ainda que o processo de qualificação e de aperfeiçoamento do
+quadro de servidores busque atingir um patamar de excelência e, portanto, seja uma
+demanda em constante crescimento, o desenvolvimento do projeto pedagógico do curso
+                                                                                     77
+
+de Psicologia tem se dado a contento e tem recebido apoio por parte do corpo
+técnico-administrativo.
+       A UFG possui uma política consolidada de qualificação e aperfeiçoamento,
+conforme se evidencia na Resolução - ECU n° 07/96, que tem como objetivo "promover
+o desenvolvimento do servidor, visando a melhoria de seu desempenho quanto às suas
+funções e compromissos para com a Universidade, desenvolvendo sua capacidade
+reflexiva e crítica e estimulando o exercício pleno de cidadania e o consequente
+comprometimento com os objetivos sociais da Instituição".
+       Em seu Art. 3º, a Resolução ECU N° 07/96 afirma que "os projetos que
+compõem o PCA (Programa de Capacitarão e Aperfeiçoamento dos Servidores
+Técnico-Administrativos da Universidade Federal de Goiás) serão planejados em
+conjunto com as Unidades acadêmicas/Órgãos Administrativos a partir de suas
+necessidades e, sempre que possível, serem executados com a participação desses
+setores".
+       Assim, a FE/UFG possui uma política institucional de capacitação e qualificação
+de seus quadros. Os cursos de aperfeiçoamento são sugeridos a partir de levantamento
+da CAVI (Comissão de Avaliação Institucional), do PDI e do PPI e são realizados pelo
+DDRH (Departamento de Desenvolvimento de Recursos Humanos), da Pró-reitoria de
+Assuntos Institucionais, e disponibilizados ao servidor como parte do cumprimento de
+sua carga horária de trabalho, mediante inscrição e agendamento.
+       Para a capacitação em nível superior e em pós-graduação Lato Sensu, o servidor
+tem direito ao cumprimento de carga horária reduzida. Para a qualificação em nível de
+pós-graduação em nível Stricto Sensu, o servidor conta com o direito à licença integral,
+se requerida pela Unidade Acadêmica/Órgão de origem.
+
+
+XIII – Requisitos legais e normativos
+
+
+a) Diretrizes Curriculares Nacionais de Psicologia:
+
+
+       Os requisitos legais e normativos que embasam este projeto estão devidamente
+nomeados ao longo do texto e também integram as referencias básicas. Dentre os
+principais documentos legais que o orientam destacam-se: Lei de Diretrizes e Bases da
+                                                                                     78
+
+Educação Nacional – LDB (Lei nº. 9394/96); Resolução que institui as Diretrizes
+Curriculares Nacionais para a Formação de Professores da Educação Básica, em nível
+superior, curso de licenciatura (CNE/CP nº. 28/2001); Resolução CNE/CES nº 5, de 15
+de março de 2011, que estabelece as Diretrizes Curriculares do Curso de Psicologia;
+Regulamento Geral de Cursos de Graduação da Universidade Federal de Goiás
+(Resolução Cepec nº. 1122/2012). O presente PPC obedece rigorosamente a legislação.
+
+
+b) Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-raciais e para
+o Ensino de História e Cultura Afro-brasileira e Indígena (Lei nº 11.645, de 10/03/2008.
+e Resolução CNE/CP nº 01, de 17 de junho de 2004:
+
+
+       A Lei nº 11. 645 de 10 de março de 2008 e a resolução CNE/CP nº 01, de junho
+de 2004 que trata da obrigatoriedade de incluir assuntos sobre a Educação das Relações
+Étnicos Raciais para o Ensino de História e Cultura Afro-brasileira e Indígena nas
+ementas das disciplinas dos cursos de licenciatura, ou criar disciplinas que realizem
+essas discussões, está contemplada na disciplina do núcleo comum “Psicologia e
+Diversidade”, que ocorre no 4º período. A ementa da disciplina é a seguinte: “Igualdade
+e diferença: uma discussão da modernidade. Diferença e preconceito. Preconceito e
+relações de gênero, raça, etnia, religiosidade. Diversidade e cultura. Normal e
+patológico: estigma e estereótipos. Diversidade e necessidades especiais: quadros
+clínicos e intervenção”.
+
+
+c) LIBRAS (Dec. 5626/2005)
+
+
+       O Decreto 5626/2005 que institui a obrigatoriedade da disciplina de Libras nos
+cursos de licenciatura está contemplado na disciplina de “LIBRAS”, que é ofertada
+como disciplina do núcleo comum aos alunos do 2º período.
+
+
+d) Políticas de educação ambiental (Lei nº 9.795, de 27/04/1999 e Decreto nº 4.281, de
+25/06/2002)
+                                                                                        79
+
+       Cabe destacar que a Lei nº 9. 795, de 27 de abril de 1999 e o Decreto nº 4.281 de
+25 de junho de 2002 que trata da obrigatoriedade da inclusão das discussões sobre
+educação ambiental nas ementas das disciplinas do curso estão contempladas na
+disciplina do núcleo comum Laboratório de Atividades Integradas – Psicologia, Política
+e Ideologia II, no 6º período. A ementa da disciplina é a seguinte: “Desenvolvimento de
+atividades diversas visando à compreensão da psicologia e sua dimensão política e
+ideológica. Psicologia e senso comum. Os riscos de normatização e regulação social.
+Políticas de educação ambiental”.
+
+
+
+XIV- Referências
+
+
+BOCK, A. M. B. ​Aventuras do Barão de Münchhausen na psicologia. São Paulo:
+EDUC/Cortez, 1999.
+BRASIL. Conselho Nacional de Educação. Resolução no. 8 de 07 de maio de 2004 da
+Câmara de Educação Superior do Conselho Nacional de Educação.
+_____. Lei nº. 9394, de 20-12-96 que estabelece as Diretrizes e Bases da Educação
+Nacional (LDB).
+_____. Lei nº. 5.540, de 28 de novembro de 1968. Fixa as normas de organização e
+funcionamento do Ensino Superior. Diário Oficial da União, Brasília, DF, 29 nov. 1968.
+_____. Lei nº. 4119, de agosto de 1962, que dispõe sobre os cursos de formação em
+Psicologia e regulamenta a profissão de Psicólogo.
+_____. Lei nº 9.795, de 27/04/1999, que dispõe sobre a educação ambiental.
+_____. Lei nº 11.645, de 10/03/2008, que inclui currículo oficial da rede de ensino a
+obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”.
+_____. Decreto nº. 53.464 de 21-01-1964 que regulamenta a Lei nº. 4.119, de agosto de
+1962, que dispõe sobre a Profissão de Psicólogo.
+______. Decreto nº 4.281, de 25/06/2002, que institui a Política nacional de educação
+ambiental.
+______. Decreto. 5626 de 22 de dezembro de 2005, que dispõe sobre LIBRAS.
+                                                                                     80
+
+______. Ministério da Educação. Conselho Nacional de Educação. Parecer CNE/CES.
+Parecer nº. 28/2001, que institui as Diretrizes Curriculares Nacionais para a Formação
+de Professores da Educação Básica, em nível superior, curso de licenciatura
+______. Ministério da Educação. Conselho Nacional de Educação. Parecer CNE/CES.
+Parecer 1314/2001 relativo às Diretrizes Curriculares para os cursos de graduação em
+Psicologia.
+______. Ministério da Educação. Conselho Nacional de Educação. Parecer CNE/CES
+072/2002, que retifica o parecer CNE/CES de 1.314/2001 relativo às Diretrizes
+Curriculares para os cursos de graduação em Psicologia.
+______. Ministério da Educação. Conselho Nacional de Educação. Parecer CNE/CES.
+Parecer 0062/2004, que retifica o parecer CNE/CES de 1.314/2001 e o parecer
+CNE/CES 072/2002 relativos às Diretrizes Curriculares para os cursos de graduação em
+Psicologia.
+______. Ministério da Educação. Conselho Nacional de Educação. Resolução
+CNE/CES nº 8, de 7 de maio de 2004, relativo às diretrizes curriculares nacionais para o
+curso de Psicologia.
+______. Ministério da Educação. Conselho Nacional de Educação. Resolução CNE/CP
+nº 01, de 17 de junho de 2004, que institui as Diretrizes Curriculares Nacionais para a
+Educação das Relações Étnico-raciais e para o Ensino de História e Cultura
+Afro-brasileira e Indígena.
+______. Ministério da Educação. Conselho Nacional de Educação. Resolução CNE/
+CES Nº 2/2007, que versa sobre a carga horária mínima dos cursos de graduação,
+bacharelados, na modalidade presencial.
+______. Ministério da Educação. Conselho Nacional de Educação. Resolução CNE/
+CES nº 5, de 15 de março de 2011, que estabelece as Diretrizes Curriculares do Curso
+de Psicologia.
+______. Ministério da Educação. Gabinete do ministro. ​Portaria Normativa nº 40 de 12
+de dezembro de 2007​, que institui o e-mec.
+Conselho Federal de Psicologia. Quem é o psicólogo brasileiro.​ São Paulo: Edicon,
+1988.
+FERREIRA NETO, João Leite. ​A formação do Psicólogo – clínica, social e mercado​.
+São Paulo: Escuta, 2004; Belo Horizonte: FUMEC/FCH.
+                                                                                81
+
+GOIÁS. UFG. CONSUNI. Resolução n°. 06/2002. Institui o Regimento Geral dos
+Cursos de Graduação (RGCG).
+______. UFG. CONSUNI. Resolução nº. 14/2005 que cria o Curso de Psicologia na
+Faculdade de Educação/UFG.
+______. UFG. CONSUNI/CEPEC. Resolução nº. 16/2006, que fixa o currículo do curso
+de Psicologia.
+______. UFG. CEPEC. Resolução n°. 631/2003. Define a política da UFG para a
+Formação de Professores da Educação Básica.
+______. UFG. CEPEC. Resolução n°. 731/2005. Define a política de estágios da UFG
+para a Formação de Professores da Educação Básica.
+______. UFG. CEPEC. Resolução n°. 952, que altera o currículo do curso de
+Psicologia.
+______. UFG. CEPEC. Resolução n°. 953 de 2009, que altera o currículo do curso de
+Psicologia.
+______. UFG. CEPEC. Resolução n°. 1122/2012. Institui o Regimento Geral dos
+Cursos de Graduação (RGCG).
+______. UFG. CEPEC. Resolução n°.1302/2014, que normatiza o funcionamento dos
+núcleos docentes estruturantes – NDE - na UFG.
+______. UFG. Faculdade de Educação. Projeto Político Pedagógico do curso de
+Psicologia, 2006.
+______. UFG. Faculdade de Educação. Resolução 02/2009, que dispõe sobre a
+normatização das disciplinas de Trabalho de conclusão de curso.
+______. UFG. CONSUNI. Resolução - ECU n° 07/96, que Dispõe sobre Normas para O
+Programa de Capacitação e Aperfeiçoamento dos Servidores técnico-administrativos da
+UFG.
+PATTO, M.H.S. Exercícios de Indignação: escritos de educação e psicologia. São
+Paulo: Casa do Psicólogo, 2005.
+
