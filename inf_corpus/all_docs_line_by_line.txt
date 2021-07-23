@@ -1661,6 +1661,87 @@ Supervisor (a) (Assinatura, carimbo e nº registro profissional) ANEXO V Minist�
 ( ) Satisfatório ( ) Insatisfatório Você está satisfeito com o desenvolvimento de suas atividades
 ( ) Sim ( ) Não Outras observações
 // (dia, mês, ano)   // (dia, mês, ano) Início do Semestre                Término do Semestre
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE FEDERAL DE GOIÁS
+Dispõe sobre o regulamento das atividades de pesquisa na Universidade Federal de Goiás - UFG, revogando a Resolução CEPEC N° 462, de 1999
+O CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E CULTURA DA UNIVERSIDADE FEDERAL DE GOIÁS, reunido em sessão plenária no dia 24 de março de 2017, tendo em vista o que consta do processo nº 23070
+a)    os artigos 206 (inciso II), 207 e 208 da Constituição da República Federativa do Brasil de 1988
+b)    os artigos 43 (incisos III e IV), 52 e 86 da Lei nº 9
+394, de 20 de dezembro de 1996, que estabelece as Diretrizes e Bases da Educação Nacional
+c)    o artigo 2º (incisos V, VI, VIII e X) da Lei no 10
+973, de 2 de dezembro de 2004, que dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências (modificada pela Lei nº 13
+d)    que o Estatuto da UFG expressa a relevância da pesquisa na instituição e considerando especificamente o que consta nos artigos 2º, 6º (inciso I), 62, 67 (inciso V) e 82 (inciso V)
+e)    que o Regimento da UFG expressa a relevância da pesquisa na instituição e considerando, especificamente, o que consta nos artigos 2º e 134
+1º A pesquisa é atividade inerente ao exercício do magistério superior devendo ser desenvolvida no âmbito da Universidade Federal de Goiás (UFG), Instituição Pública Federal de Ensino Superior (IFES), obedecendo ao princípio da indissociabilidade entre ensino, pesquisa e extensão tendo, portanto, o papel de instituição científica, tecnológica e de inovação (ICT)
+CAPITULO I DAS DISPOSIÇÕES GERAIS
+2º Para os fins previstos nesta Resolução, atividades de pesquisa relacionam-se à produção e à difusão de conhecimentos científicos básicos e aplicados, conhecimentos tecnológicos e conhecimentos culturais e artísticos
+§ 1º A atividade de pesquisa, ao seu final, pressupõe como requisito imprescindível, para sua caracterização como tal, resultados na forma de produção intelectual em suas diferentes modalidades
+§ 2º As atividades de pesquisa serão desenvolvidas por professores do magistério superior e do magistério do ensino básico, técnico e tecnológico e por discentes da UFG
+§ 3º Os servidores técnico-administrativos poderão exercer atividades de pesquisa, desde que não comprometam as atividades do seu cargo e estejam previstas no planejamento das atividades das unidades ou órgãos
+3º As atividades de pesquisa na UFG serão desenvolvidas com recursos orçamentários próprios ou oriundos de fundos externos, públicos ou privados captados pelos pesquisadores
+§ 1º A UFG destinará dotação orçamentária específica, nunca inferior a 6% (seis por cento), de seus recursos de custeio oriundos do tesouro, após descontar as despesas básicas da instituição, para o financiamento de projetos de pesquisa
+§ 2º A captação de recursos externos para a viabilização das atividades de pesquisa constitui obrigação inerente às atividades de pesquisa, sendo de responsabilidade do(s) proponente(s) do(s) projeto(s)
+§ 3º As atividades de pesquisa envolvendo recursos externos terão sua gestão financeira executada pelos coordenadores dos projetos, pela própria Universidade ou por suas Fundações de Apoio, em consonância com os requisitos das partes envolvidas e de acordo com a legislação vigente
+4º As atividades de pesquisa serão incentivadas, acompanhadas e avaliadas pelas Unidades ou Órgãos, e contarão com o apoio/acompanhamento da Pró- Reitoria de Pesquisa e Inovação (PRPI)
+5º A citação explícita do nome da UFG é obrigatória em publicações, ou em outras formas de divulgação do conhecimento, oriundos de pesquisas desenvolvidas no âmbito da universidade ou que contem com a participação de seus docentes, discentes ou técnicos-administrativos, devendo seguir regulamentação específica
+6º Os direitos relativos à propriedade intelectual resultante de atividades de pesquisa realizadas no âmbito da UFG por seus servidores e discentes serão objeto de proteção
+Seguindo a legislação vigente, a PRPI normatizará as regras de titularidade, de registro, de gestão e de transferência da propriedade intelectual
+CAPITULO II DA COORDENAÇÃO DE PESQUISA
+7º Cada Unidade Acadêmica (UA), Unidade Específica que Oferecerá a Educação Básica (UEB) e Unidade Acadêmica Especial (UAE) terá um Coordenador e um Vice-coordenador de Pesquisa ou uma Coordenadoria de Pesquisa presidida pelo Coordenador
+8º São atribuições do Coordenador e, quando for o caso, da Coordenadoria de Pesquisa da UA, UEB ou UAE
+I-    estimular o desenvolvimento da pesquisa na unidade
+II -  contribuir para a elaboração de políticas de auxílio e gestão estratégica de pesquisa
+III - contribuir para incrementar a qualidade das práticas de uso da estrutura de pesquisa da unidade, estimulando o uso compartilhado de laboratórios
+IV - contribuir para a articulação entre pesquisadores da unidade e desses com os de outras unidades, visando à participação em ações integradas para obtenção de financiamento à pesquisa
+V - acompanhar a execução e desencadear o processo de avaliação dos projetos de pesquisa, que ao seu término, não apresentaram produção intelectual
+VI - assessorar a Coordenação de Pesquisa ou a Coordenação de Pesquisa e Pós-graduação da Regional e a PRPI nos assuntos relativos à pesquisa científica, tecnológica e artística
+O Coordenador de Pesquisa integra o Conselho Diretor (CD) da UA e UEB ou o Colegiado da UAE, bem como a Câmara Regional de Pesquisa e Pós-Graduação, tendo como suplente o Vice-coordenador de Pesquisa
+CAPITULO III DO PROJETO E DOS GRUPOS DE PESQUISA
+9º As atividades de pesquisa serão desenvolvidas vinculadas a projetos e, quando pertinente, aos grupos de pesquisa ou às linhas de pesquisa dos Programas de Pós-graduação, sendo que, para os efeitos desta Resolução, considera-se
+investigação com início e final definidos, fundamentada em objetivos específicos, com metodologias definidas, visando à obtenção de resultados que impliquem o desenvolvimento do conhecimento científico ou tecnológico
+II - Grupo de Pesquisa
+conjunto de indivíduos organizados hierarquicamente, cujo fundamento organizador da hierarquia é a experiência, o destaque e a liderança no terreno científico ou tecnológico, em que há envolvimento profissional e permanente desses indivíduos com as atividades de pesquisa e no qual o trabalho se organiza em torno de linhas comuns de pesquisa, além do que, em algum grau, compartilham instalações e equipamentos
+III - Linha de Pesquisa
+expressão de temas aglutinadores de estudos científicos que se fundamentam em tradição investigativa, de onde se originam projetos cujos resultados guardam afinidades entre si
+§ 1º A criação de Grupos de Pesquisa deverá observar as Normas do Diretório de Grupos de Pesquisa do CNPq e as Diretrizes para Credenciamento de Líderes e Certificação de Grupos de Pesquisa da UFG
+§ 2º A responsabilidade pela criação do grupo de pesquisa e pela sua atualização será do líder do grupo
+§ 3º Caberá à PRPI a certificação dos grupos junto ao Diretório de Grupos de Pesquisa do CNPq
+§ 4º Solicitações de cadastro e/ou certificação no Diretório de Grupos de Pesquisa do CNPq somente serão realizadas se houver aprovação prévia do CD (UA e UEB), do Colegiado (UAE) ou do dirigente do Órgão
+§ 5º Caso não exista manifestação formal por parte do CD (UA e UEB), do Colegiado (UAE) ou do dirigente do Órgão, 60 (sessenta) dias após a apresentação da solicitação pelo Líder, o pedido, mediante demanda e justificativa, poderá ser apreciado diretamente pela PRPI, que dará conhecimento à unidade de origem
+O projeto de pesquisa será coordenado por servidor docente ou técnico-administrativo em efetivo exercício na UFG
+§ 1º Excetuam-se do disposto no caput deste artigo os doutores servidores docentes ou técnico-administrativos inativos da UFG, mas participantes do Programa UFG Voluntário, Professores/Pesquisadores Visitantes e os Bolsistas de Pós- Doutorado regularmente cadastrados na Pró-Reitoria de Pós-graduação
+§ 2º A participação de servidor técnico-administrativo em atividades de pesquisa, como coordenador de projeto, implica a compatibilidade do tema da pesquisa com a formação ou com sua atividade na UFG, além de não comprometer as atividades técnicas e administrativas do seu cargo
+§ 3º Os projetos de pesquisa, sempre que possível, devem contar com a participação de discentes
+Todos os participantes de projetos de pesquisa deverão manter atualizados os seus currículos na plataforma Lattes do CNPq
+Os projetos de pesquisa terão a seguinte tramitação interna na UFG
+I-     submissão ao Coordenador e, quando for o caso à Coordenadoria de Pesquisa, que providenciará a avaliação preliminar do mérito técnico e científico e da viabilidade financeira do projeto, a ser encaminhada para apreciação do CD (UA e UEB), do Colegiado (UAE) ou dirigente do Órgão
+II -   os projetos já aprovados por instituições ou órgãos de fomento à pesquisa, bem como os aprovados por comissões especialmente constituídas para este fim nos Programas de Pós-graduação, seguem a mesma tramitação dos demais, eliminando-se avaliação do mérito técnico e científico e da viabilidade financeira do projeto
+III - aprovação pelo CD (UA e UEB), Colegiado (UAE) ou pelo dirigente do Órgão, observando para os servidores técnico- administrativos se o tempo dedicado ao projeto é compatível com as atribuições do seu cargo
+IV - encaminhamento do projeto de pesquisa ao Comitê de Ética em Pesquisa (CEP), se for o caso, para análise e aprovação
+V - encaminhamento do projeto de pesquisa à Comissão de Ética no Uso de Animais (CEUA), se for o caso, para análise e aprovação
+VI - encaminhamento do projeto de pesquisa que utilizar técnicas e métodos de engenharia genética ou realizar pesquisas com organismo geneticamente modificado (OGM) e seus derivados à Comissão Interna de Biossegurança (CIBio)
+VII - cadastramento do projeto de pesquisa no sistema da UFG pelo coordenador do projeto, com inclusão da certidão de ata de aprovação do projeto pelo CD, Colegiado ou dirigente do órgão e, quando for o caso, do comprovante de financiamento e dos documentos      relativos    à   aprovação      do    projeto nos comitês/comissões de ética
+A finalização de um projeto de pesquisa requer comprovação de produção intelectual
+§ 1º Cabe ao coordenador do projeto de pesquisa a ser encerrado, cujo resultado não apresentar produção intelectual, encaminhar o relatório final à Coordenadoria de Pesquisa, que providenciará parecer a ser apreciado pelo CD da UA e UEB ou Colegiado da UAE, ou pelo dirigente do Órgão
+§ 2º De posse da justificativa constante no relatório final, o Coordenador de Pesquisa oficiará imediatamente à Coordenadoria Geral de Pesquisa da PRPI, indicando o número do projeto e os nomes dos pesquisadores envolvidos, que encerrará o cadastro do referido projeto
+§ 3º Pesquisador com pendência de finalização de projeto fica impedido de cadastrar novo projeto
+É facultado ao pesquisador coordenador solicitar o cancelamento do projeto de pesquisa, antes do término da sua vigência, mediante justificativa, nos seguintes casos
+I-    perda de vínculo funcional com a instituição
+II -  licenças e afastamentos legais que prejudiquem o desenvolvimento do projeto
+III - interrupção de convênio/contrato
+IV - não recebimento do recurso financeiro vinculado ao projeto aprovado em edital ou chamadas de agências de fomento
+V - por solicitação do proponente, após anuência da Coordenadoria de Pesquisa
+CAPÍTULO IV DA CARGA HORÁRIA DE TRABALHO NA PESQUISA Art
+A atribuição da carga horária em atividades de pesquisa deverá estar vinculada aos projetos de pesquisa cadastrados no sistema da UFG
+Para os docentes que desempenham atividades de pesquisa, comprovadas com produtos ou orientações, deve ser observada a adequada distribuição da carga horária em relação as demais atividades inerentes ao cargo (ensino, extensão e administração)
+CAPÍTULO V DA PRODUÇÃO INTELECTUAL E DA ORIENTAÇÃO
+Para os fins desta Resolução, considera-se produção intelectual o resultado da atividade de pesquisa abrangendo a produção científica, artística, técnica e cultural representada por publicações ou formas de expressão usuais e pertinentes aos ambientes acadêmicos específicos, cujas tipificações encontram-se estabelecidas na Plataforma Lattes do CNPq
+A produção intelectual, ou seja, os produtos decorrentes dos projetos de pesquisa deverão ser descritos no Relatório Anual do Docente
+§ 1º Toda a produção intelectual oriunda dos projetos de pesquisa deverá ser registrada na plataforma Lattes do CNPq
+§ 2º A produção intelectual será disponibilizada no Repositório Institucional da UFG, segundo normas e procedimentos vigentes
+As atividades de orientação na graduação e na pós-graduação, diretamente relacionadas a projeto de pesquisa cadastrado, deverão ser descritas no Relatório Anual do Docente, vinculando a formação de recursos humanos ao projeto
+CAPÍTULO VI DAS DISPOSIÇÕES FINAIS
+Os casos omissos serão resolvidos pela Câmara Superior de Pesquisa e Pós-Graduação - CSPPG
+Esta Resolução entra em vigor na data de sua aprovação pelo plenário do CEPEC, revogadas as disposições em contrário
 Regulamento do Trabalho de Conclusão de Curso do Bacharelado em Ciência da Computação
 Capítulo I Das Disposições Preliminares
 Este regulamento define as diretrizes técnicas, procedimentos de acompanhamento e critérios de avaliação do Trabalho de Conclusão de Curso (TCC)
