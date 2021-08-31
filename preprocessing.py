@@ -16,26 +16,20 @@ converter = PDFToTextConverter(
     remove_numeric_tables=True, valid_languages=['pt'])
 
 docs = []
-for pdf in pdf_files:
-    doc_pdf = converter.convert(file_path=join(dir_path, pdf), meta={
-                                'name': pdf.split('.')[0]}, encoding='UTF-8')
-    doc_name = doc_pdf['meta']['name'] + ' [SEP] '
+for pdf in pdf_files: 
+    doc_pdf = converter.convert(file_path=join(dir_path, pdf), meta={'name': pdf.split('.')[0]}, encoding='UTF-8')
 
     preprocessor = PreProcessor(
         clean_empty_lines=True,
         clean_whitespace=True,
         clean_header_footer=False,
         split_by="word",
-        split_length=100 - len(doc_name),
+        split_length=100,
         split_respect_sentence_boundary=False
     )
 
-    doc_splits = preprocessor.process(doc_pdf)
-
-    for doc_split in doc_splits:
-        doc_split['text'] = doc_name + doc_split['text']
-        docs.append(doc_split)
-
+    doc_splits = preprocessor.process(doc_pdf) 
+    docs = docs + doc_splits
 
 document_store = ElasticsearchDocumentStore()
 document_store.delete_documents()
