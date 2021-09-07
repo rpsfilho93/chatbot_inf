@@ -8,29 +8,32 @@ from haystack.document_store import ElasticsearchDocumentStore
 from os import listdir
 from os.path import isfile, join
 
-dir_path = './inf_corpus/pdf'
-files = [f for f in listdir(dir_path) if isfile(join(dir_path, f))]
+dir_path_pdf = './inf_corpus/pdf'
+files = [f for f in listdir(dir_path_pdf) if isfile(join(dir_path_pdf, f))]
 pdf_files = [file for file in files if file.split('.')[1] == 'pdf']
 
 converter = PDFToTextConverter(
     remove_numeric_tables=True, valid_languages=['pt'])
 
+preprocessor = PreProcessor(
+    clean_empty_lines=True,
+    clean_whitespace=True,
+    clean_header_footer=False,
+    split_by="word",
+    split_length=100,
+    split_respect_sentence_boundary=False
+)
+
 docs = []
-for pdf in pdf_files: 
-    doc_pdf = converter.convert(file_path=join(dir_path, pdf), meta={'name': pdf.split('.')[0]}, encoding='UTF-8')
+for pdf in pdf_files:
+    doc_pdf = converter.convert(file_path=join(dir_path_pdf, pdf), meta={
+                                'name': pdf.split('.')[0]}, encoding='UTF-8')
 
-    preprocessor = PreProcessor(
-        clean_empty_lines=True,
-        clean_whitespace=True,
-        clean_header_footer=False,
-        split_by="word",
-        split_length=100,
-        split_respect_sentence_boundary=False
-    )
-
-    doc_splits = preprocessor.process(doc_pdf) 
+    doc_splits = preprocessor.process(doc_pdf)
     docs = docs + doc_splits
 
 document_store = ElasticsearchDocumentStore()
 document_store.delete_documents()
 document_store.write_documents(docs)
+
+print(f"n_files_input: {len(pdf_files)}\nn_docs_output: {len(docs)}")
