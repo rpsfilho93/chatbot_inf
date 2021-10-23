@@ -1,0 +1,22 @@
+Complementar
+
+
+
+
+
+
+FILHO, W. P. P. Engenharia de Software: fundamentos, métodos e padrões. 3. ed., Rio de Janeiro:
+LTC, 2009.
+KOTONYA, G.; SOMMERVILLE, I. Requirements Engineering: Process and Techniques. 2. ed.,
+Chichester: John Wiley & Sons, 1998.
+LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e
+ao desenvolvimento interativo. 3. ed., Porto Alegre: Bookman, 2007.
+SWEBOK v3.0. Guide to the Software Engineering Body of Knowledge Version 3.0. Editado por IEEE
+Computer Society. Disponível em http://www.swebok.org/.
+WIEGERS, K. E. Software requirements: practical techniques for gathering and managing
+requirements throughout the product development cycle. 2. ed., Redmond, Wash: Microsoft Press,
+2003.
+
+ENGENHARIA DE SISTEMAS DE INFORMAÇÃO 1
+Ementa
+Sistemas

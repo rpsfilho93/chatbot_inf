@@ -1,0 +1,14 @@
+contradições e contingências.
+Implicação Lógica. Equivalência Lógica. Álgebra das proposições. Métodos para
+determinação da validade de fórmulas da Lógica Proposicional. Demonstração condicional e
+demonstração indireta. Lógica de Predicados.
+24. Manutenção de Software
+Ementa: Conceitos básicos sobre manutenção de software. Manutenabilidade. Processos de
+Manutenção. Gestão da manutenção de software (processo, planejamento, gestão de
+configuração, gestão de riscos). Teste de software e teste de regressão. Compreensão de
+programas. Engenharia reversa. Reengenharia. Ferramentas aplicadas à manutenção.
+25. Matemática Discreta
+Ementa: Princípios dos números naturais, inteiros, racionais e reais. Conjuntos: interseção,
+união, complemento, produto. Figuras de Venn. Noção de relação e de função. Classificação
+de funções. Técnicas de demonstração. Recursão e Relação de Recorrência. Matrizes. Sistema
+de

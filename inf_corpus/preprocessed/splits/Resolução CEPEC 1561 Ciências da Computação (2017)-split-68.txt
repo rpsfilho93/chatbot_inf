@@ -1,0 +1,10 @@
+R. J.; WIDMER, N. S.; MOSS, G. L. Sistemas Digitais – Princípios e Aplicações . 11 Ed. São Paulo:
+Pearson Prentice Hall, 2011.
+MANO, M.; KIME, C. Logic & Computer Design Fundamentals. 5th ed. Pearson, 2015.
+MENDONÇA, A.; ZELENOVSKY, R. Eletrônica Digital: Curso Práticoe Exercić ios. MZ Editora Ltda, 2004.
+Bibliografia Complementar:
+VAHID, F. Digital Design with RTL Design, VHDL, and Verilog. 2nd ed. New Jersey, USA: John Wiley &
+Sons, Inc, 2011.
+WAGNER, F. R.; REIS, A. I.; RIBAS, R. P. Fundamentos de Circuitos Digitais . Editora Sagra Luzzato , 2006.
+(Série Livros Didáticos do Instituto de Informática da UFRGS - Vol. 17).
+ERCEGOVAC, M.; LANG, T.; MORENO,

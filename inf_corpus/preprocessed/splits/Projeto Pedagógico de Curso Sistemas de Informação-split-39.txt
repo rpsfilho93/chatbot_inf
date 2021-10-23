@@ -1,0 +1,35 @@
+de forma autônoma e contínua;
+
+
+
+Ter capacidade de comunicação e colaboração;
+
+
+
+Ser criativo na adoção de TI;
+
+
+
+Exercer liderança atuando em equipe multidisciplinar;
+
+
+
+Desenvolver raciocínio lógico;
+
+
+
+Ter capacidade de abstração;
+
+
+
+Ser pró-ativo, ético e empreendedor.
+
+VI – Estrutura Curricular
+As referências para a estruturação do currículo do Curso de Bacharelado em Sistemas de
+Informação estão estabelecidas pela confluência das áreas de computação, sistemas e
+informação e desenvolvimento organizacional – vide Figura 1.
+
+Figura 1. Referências em BSI para a Estruturação Curricular.
+Em grande medida, este currículo está aderente ao que preceitua o modelo de competências
+da ACM (MSIS 2016, 2017)1, o qual compreende nove áreas de competência de SI (todos os
+nomes completos são

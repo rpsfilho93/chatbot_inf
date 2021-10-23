@@ -1,0 +1,48 @@
+Informações
+Bibliografia Básica
+1. CARD, S. K.; MACKINLAY, J. D.; SHNEIDERMAN, B. Readings in Information Visualization: Using Vision to Think. Morgan Kaufmann Series in Interactive Technologies, Academic
+
+2. SPENCE, R. Information Visualization: An Introduction. 3rd edition, Springer, 2014.
+
+G
+
+Press, 1999.
+
+Bibliografia Complementar
+
+UF
+
+Interactive Technologies, 2012.
+
+pe
+las
+
+3. WARE, C. Information Visualization: Perception for Design. 3rd Edition, Morgan Kaufmann
+
+tics Press, 2009.
+
+da
+
+1. FEW, S. Now You See It: Simple Visualization Techniques for Quantitative Analysis. Analy-
+
+çã
+o
+
+2. TAMASSIA, R. Handbook of Graph Drawing and Visualization (Discrete Mathematics
+
+https://cs.brown.edu/ rt/gdhandbook/)
+
+ore
+s
+
+and Its Applications). 1st edition, Chapman and Hall/CRC, 2013. (Acesso digital em
+
+3. TUFTE, E. R. Visual Explanations: Images and Quantities, Evidence and Narrative. Graphics
+
+lia
+
+Press, 1997.
+
+eri
+
+4.

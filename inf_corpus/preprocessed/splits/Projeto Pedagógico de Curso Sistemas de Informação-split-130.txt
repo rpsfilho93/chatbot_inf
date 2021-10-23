@@ -1,0 +1,28 @@
+de decisão e análise de conteúdo. Lisboa: LIDEL, 2009,
+PIDD, M. Modelagem empresarial: ferramentas para tomada de decisão. Porto Alegre: Bookman,
+1998.
+
+SISTEMAS MULTIAGENTES
+Ementa
+Introdução à Inteligência Artificial e Agentes Inteligentes. Arquiteturas para construção de Sistemas
+Multiagentes (SMA). Comunicação e cooperação em SMA. Tomada de Decisão em SMA.
+Bibliografia Básica
+
+
+
+
+FIPA. Foundation for Intelligent Physical Agents, Standard Specifications, 2002. Available on-line on
+<http://www.fipa.org/repository/standardspecs.html>
+RUSSELL, S.; NORVIG, P. Inteligência Artificial, 3. ed., Ed. Campus, 2013.
+WOOLDRIDGE, M. An Introduction to MultiAgent Systems, 2. ed., John Wiley and Sons, 2009.
+
+Bibliografia Complementar
+
+
+
+
+
+
+BELLIFEMINE, F. et al. Jade 4.0 Programmer's Guide, 2010. Disponível on-line em
+<http://jade.tilab.com/documentation/tutorials-guides/>
+BORDINI, R. H.; HÜBNER, J. Documentation for Jason, a Java-besed interpreter

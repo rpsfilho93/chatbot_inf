@@ -1,0 +1,181 @@
+relacionados à área computacional. A ementa e o
+plano de ensino serão definidos e aprovados de acordo com os conteúdos e temas propostos.
+42. Linguagem Brasileira de Sinais - Libras
+Ementa: Introdução às práticas de compreensão e produção em LIBRAS através do uso de
+estruturas e funções comunicativas elementares. Concepções sobre a Língua de Sinais. O
+surdo e a sociedade.
+
+ANEXO III DA RESOLUÇÃO – CEPEC Nº 1023
+
+SUGESTÃO DE FLUXO CURRICULAR
+
+CHS
+Disciplina
+
+CHT
+
+Pré-requisito(s)
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+
+TEO PRA
+Arquitetura de Computadores
+
+-
+
+OBR
+
+NC
+
+INF
+
+Introdução à Programação
+
+-
+
+OBR
+
+NC
+
+INF
+
+Introdução aos Sistemas de Informação
+
+-
+
+OBR
+
+NE
+
+INF
+
+Lógica
+
+-
+
+OBR
+
+NC
+
+INF
+
+Teoria Geral da Administração
+
+-
+
+OBR
+
+NE
+
+FACE
+
+Pré-requisito(s)
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+INF
+
+Carga Horária do Período: 320
+
+Disciplina
+
+CHS
+
+CHT
+
+TEO PRA
+Engenharia de Requisitos
+
+-
+
+OBR
+
+NC
+
+Engenharia de Software
+
+-
+
+OBR
+
+NC
+
+INF
+
+Fundamentos em Contabilidade
+
+-
+
+OBR
+
+NE
+
+FACE
+
+Matemática Discreta
+
+-
+
+OBR
+
+NC
+
+INF
+
+Programação Imperativa
+
+Introdução à Programação
+
+OBR
+
+NC
+
+INF
+
+Pré-requisito(s)
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+
+Carga Horária do Período: 320
+
+CHS
+Disciplina
+
+CHT
+TEO PRA
+
+Matemática Financeira
+
+-
+
+OBR
+
+NE
+
+IME
+
+Estruturas de Dados
+
+-
+
+OBR
+
+NC
+
+INF
+
+Programação

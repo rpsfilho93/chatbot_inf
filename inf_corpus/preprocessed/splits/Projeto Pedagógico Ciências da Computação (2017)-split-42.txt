@@ -1,0 +1,240 @@
+Móvel e Ubíqua
+
+INF
+
+NE
+
+OPT
+
+50. Computação Verde
+
+INF
+
+NE
+
+OPT
+
+Câ
+
+44. Aprendizagem de Máquina e Mineração de Dados
+
+Disciplinas de natureza optativa – Continuação
+
+Disciplina
+
+Unid.
+Resp.
+
+PréReq.
+
+C. H.
+Semestral
+Teo. Prat.
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+NE
+
+OPT
+
+52. Desenvolvimento de Software Dirigido por Modelos
+
+INF
+
+NE
+
+OPT
+
+53. Empreendedorismo Digital
+
+INF
+
+NE
+
+OPT
+
+54. Engenharia de Sistemas
+
+INF
+
+NE
+
+OPT
+
+55. Engenharia de Software Baseada em
+Busca
+
+INF
+
+NE
+
+OPT
+
+IF
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+58. Integração de Dados
+
+INF
+
+59. Introdução à Língua Brasileira de Sinais
+
+FL
+
+60. Introdução à Teoria das Provas
+
+INF
+
+61. Introdução à Teoria dos Tipos
+
+INF
+
+62. Jogos Digitais
+
+INF
+
+INF
+
+Av
+a
+
+64. Metodologia e Experimentação em
+Engenharia de Software
+
+INF
+
+eri
+ore
+s
+
+INF
+
+lia
+çã
+o
+
+57. Fundamentos da Programação Lógica e Funcional
+
+da
+
+56. Física I
+
+UF
+G
+
+INF
+
+pe
+las
+
+51. Desenvolvimento de Sistemas para
+Web
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+66. Processamento Digital de Imagens
+
+INF
+
+NE
+
+OPT
+
+67. Recuperação de Informação
+
+INF
+
+NE
+
+OPT
+
+68. Redes Neuronais Artificiais
+
+INF
+
+NE
+
+OPT
+
+69. Segurança e Auditoria de Sistemas
+
+INF
+
+NE
+
+OPT
+
+70. Sistemas Multiagentes
+
+INF
+
+NE
+
+OPT
+
+71. Tópicos Avançados em Redes Sem
+Fio
+
+INF
+
+NE
+
+OPT
+
+72. Tópicos em Computação
+
+INF
+
+NE
+
+OPT
+
+INF
+
+NE
+
+OPT
+
+74. Verificação

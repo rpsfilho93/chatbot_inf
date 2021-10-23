@@ -1,0 +1,26 @@
+Arquiteturas Orientadas
+a Serviços e utilização de serviços Web. Computação Móvel e Ubíqua. Estudo de Casos de Tópicos
+Emergentes em Sistemas Distribuídos.
+Bibliografia Básica
+
+
+
+
+ANDREWS, G. R. Foundations of multithreaded, parallel, and distributed programming Reading
+(Mass.): Addison-Wesley, 2000. xx, 664 p.
+COULOURIS, G. F. et al. Distributed Systems: Concepts and Design. 5. ed., Addison-Wesley, 2012.
+Reading (Mass.): Addison-Wesley, 2000. 664 p.
+KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed. Pearson Education, 2013.
+
+Bibliografia Complementar
+
+
+
+
+
+
+BIRMAN, K. P. Reliable distributed systems: technologies, web services, and applications, New York:
+Springer, 2005. ISBN 0387215093.
+CLARK, M. et al. Web services business strategies and architectures, Chicago, Illinois: Expert Press,
+2002. ISBN 1904284132.
+JOSUTTIS,

@@ -1,0 +1,61 @@
+o curso.
+
+PROJETO FINAL DE CURSO 2
+
+Ementa
+Desenvolvimento do projeto acompanhado por professor orientador. Tem como finali-
+
+UF
+G
+
+dade dar experiência adquiridos durante o curso.
+
+REDES DE COMPUTADORES 1
+
+pe
+las
+
+Ementa
+
+Fundamentos. Arquitetura de Redes TCP/IP (Internet). Camadas de Aplicação, Trans-
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+REDES DE COMPUTADORES 2
+
+da
+
+porte, Rede, Enlace e Física. Estudo de Caso de Tópicos Emergentes em Redes.
+
+Redes sem fio e redes móveis. Redes definidas por software. Virtualização em redes.
+Avaliação de desempenho em redes. Gerenciamento de redes. Tópicos recentes de pes-
+
+Av
+a
+
+quisa em redes.
+
+Ementa
+
+Su
+p
+
+SISTEMAS DISTRIBUÍDOS
+
+Conceitos fundamentais de sistemas distribuídos, caracterização de sistemas de com-
+
+Em
+
+putação distribuída e aplicações distribuídas (características e aspectos de projeto). Ob-
+
+ras
+
+jetivos básicos de sistemas distribuídos (transparência, abertura, escalabilidade,

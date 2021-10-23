@@ -1,0 +1,18 @@
+e Prática. 2. ed., Rio de Janeiro: Editora Campus, 2002.
+FARRER, H. et al. Programação Estruturada de Computadores - Algoritmos Estruturados. 3. ed., Rio
+de Janeiro: LTC, 1989.
+FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+SALVETTI, D. D.; BARBOSA, L. M. Algoritmos. São Paulo: Makron Books, 1998.
+SEDGEWICK, R. Algorithms in C. 3. ed., Reading: Addison-Wesley, 1998.
+
+INTRODUÇÃO AOS SISTEMAS DE INFORMAÇÃO
+Ementa
+Introdução aos Sistemas de Informação (SI). Ontologia de sistemas. Teoria geral de sistemas.
+Tipificação de SI. SI no contexto organizacional. Infraestrutura de Tecnologia da Informação. SI e suas
+aplicações. Visão geral de SI. Estudos de casos.
+Bibliografia Básica
+
+
+
+
+LAUDON, K. C.; LAUDON, J. P. Sistemas de informação

@@ -1,0 +1,11 @@
+múltiplas. Mudança de Coordenadas. Aplicações.
+Bibliografia Básica:
+ÁVILA, G. S. S. Cálculo: Funções de Uma Variável. 7 ed. Rio de Janeiro: LTC, 2003. volume 2.
+ÁVILA, G. S. S. Cálculo: Funções de Várias Variáveis. 7 ed. Rio de Janeiro: LTC, 2003. Volume 3.
+STEWART, J. Cálculo, vol. 2. São Paulo: Cengage Learning, 2006.
+Bibliografia Complementar:
+SWOKOWSKI, E. W. Cálculo com Geometria Analítica. São Paulo: McGraw-Hill do Brasil, 1983. Volume 2.
+HOFFMANN, L. D.; BRADLEY, G. L. Cálculo, Um curso moderno com aplicações . 9. ed. Rio de Janeiro:
+LTC, 2008.
+FLEMMING, D. M; GONÇALVES, M. B. Cálculo B: funções de várias variáveis , integrais múltiplas, integrais
+curvilíneas e de superfície.

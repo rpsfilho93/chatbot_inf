@@ -1,0 +1,12 @@
+alunos de graduação: a OBI (Olimpíada Brasileira de
+Informática), a Maratona de Programação e o Apoema. Estes projetos promovem a
+aproximação da Universidade com o ensino médio e fundamental (a OBI), com alunos de
+graduação e pós-graduação de outras instituições de ensino superior nacionais e internacionais
+(a Maratona de Programação) e com empresas de inovação (via o Apoema), respectivamente.
+
+METODOLOGIAS DE ENSINO E APRENDIZAGEM
+
+O curso de BCC cobre diversos conteúdos, sendo alguns deles fortemente teóricos,
+enquanto outros possuem com enfoque mais prático. Assim, é importante que haja
+flexibilidade a fim de que o professor possa adotar a metodologia de ensino e de
+aprendizagem mais adequada à disciplina e

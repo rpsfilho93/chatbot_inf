@@ -1,0 +1,12 @@
+C. Advanced topics in types and programming languages. MIT Press, 2005.
+PIERCE, B. C. Types and Programming Languages. MIT Press, 2002.
+BERTOT, Y; CASTÉRAN, P. Interactive Theorem Proving and Program Development: Coq’Art: The Calculus
+of Inductive Constructions. Springer, 2004.(In EATCS Series Texts in Theoretical Computer Science).
+FRIEDMAN, D. P; EASTLUND, C.The Little Prover.MIT Press, 2015.
+GUNTER, C. A. Semantics of Programming Languages: Structures and Techniques. MIT Press, 1992.(In
+Foundations of Computer Series).
+VISÃO ROBÓTICA:
+Processo de formação de imagens. Transformações 2D e 3D. Modelos de câmeras. Geometria de câmeras. Calibração
+de câmeras. Filtragem, segmentação e extração de características. Visão estéreo. Rastreamento em vídeo.
+Bibliografia Básica:
+HARTLEY, R.; ZISSERMAN, A. Multiple view

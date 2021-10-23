@@ -1,0 +1,16 @@
+SI
+Ementa
+Fundamentos de gestão de processos de negócio. Modelo de gestão por processos. Análise e
+modelagem de processos. Desempenho de processos. Práticas e tecnologias de gerenciamento de
+processos. Simulação e automatização de processos. Fundamentos do gerenciamento de serviços de
+TI. Gerenciamento de serviços como uma prática. Fundamentos de gerenciamento de projetos.
+Metodologias e práticas de gerenciamento de projetos. Modelos de referência e corpo de
+conhecimento em gerenciamento de projetos: ciclo de vida do projeto, áreas do conhecimento.
+Bibliografia Básica
+
+
+
+
+CARVALHO, M. M.; RABECHINI Jr, R. Fundamentos em gestão de projetos: construindo
+competências para gerenciar projetos. 4. ed., São Paulo: Atlas, 2015.
+PAVANI JUNIOR, O. Mapeamento e gestão por processos: BPM.

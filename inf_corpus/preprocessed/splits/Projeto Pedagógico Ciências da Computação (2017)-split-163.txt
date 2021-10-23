@@ -1,0 +1,62 @@
+ed. Pearson, 2009.
+2. SILBERSCHATZ, A.; GALVIN, P.; GAGNE, G. Fundamentos de Sistemas Operacionais. 8.
+
+3. MAZIERO, C. A.. Sistemas Operacionais: Conceitos e Mecanismos. Disponível em:
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+http://wiki.inf.ufpr.br/maziero/doku.php?id=so:livro_de_sistemas_operacionais
+
+G
+
+ed. LTC, 2010.
+
+ed. Bookman, 2008.
+
+da
+
+1. TANEMBAUM, A.; WOODHULL, A. Sistemas Operacionais: Projeto e Implementação. 3.
+
+2. KIFER, M.; SMOLKA, S. OSP: An environment for Operating Systems Projects. Addison-
+
+çã
+o
+
+Wesley, 1991.
+
+4. VAHALIA, U. Unix Internals. Prentice Hall, 1996.
+
+ore
+s
+
+3. STALLINGS, W. Operating Systems: Internals and Design Principals; 8th ed. Pearson, 2014.
+
+5. OLIVEIRA, R.; CARISSINI, A.; TOSCANI, S. Sistemas Operacionais. Bookman, 2010. (Série
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Livros Didáticos Informática UFGRS).
+
+Disciplina: Software Básico
+Bibliografia Básica
+1. BRYANT, R.; O’HALLARON, D. Computer Systems: A programmer’s Perspective. 2nd ed.
+Prentice Hall,

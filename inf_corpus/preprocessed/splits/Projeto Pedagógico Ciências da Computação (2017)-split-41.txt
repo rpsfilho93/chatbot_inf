@@ -1,0 +1,71 @@
+Teoria dos Grafos
+
+O aluno deve cursar obrigatoriamente quatro disciplinas optativas durante o Curso.
+A tabela 2 lista as disciplinas optativas, a unidade responsável pelas disciplinas, os
+relacionamentos de pré-requisitos entre elas e suas cargas horárias.
+
+A disciplina Tópicos em Computação (linha 72 da tabela 2) é uma disciplina optativa, de tema e bibliografias variáveis cujo objetivo é o de dar ao curso e aos seus
+professores flexibilidade para ministrarem novos conteúdos que possam surgir devido
+à grande dinamicidade da área de Computação.
+
+Em
+
+Tabela 2: Disciplinas de natureza optativa.
+
+Disciplina
+
+Unid.
+Resp.
+
+PréReq.
+
+C. H.
+Semestral
+Teo. Prat.
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+INF
+
+NE
+
+OPT
+
+45. Armazém de Dados
+
+INF
+
+NE
+
+OPT
+
+46. Avaliação de Desempenho de Sistemas Computacionais
+
+INF
+
+NE
+
+OPT
+
+47. Banco de Dados Distribuídos
+
+INF
+
+NE
+
+OPT
+
+48. Computação Evolucionária
+
+INF
+
+NE
+
+OPT
+
+49. Computação

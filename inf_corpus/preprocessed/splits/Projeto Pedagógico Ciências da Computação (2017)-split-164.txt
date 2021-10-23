@@ -1,0 +1,74 @@
+2011.
+2. DUNTEMANN, J. Assembly Language Step-by-Step: Programming wiht Linux. 3rd. ed.
+
+G
+
+Willey, 1999.
+
+P.
+
+A.
+
+PC
+
+Assembly
+
+http://www.drpaulcarter.com/pcasm/)
+
+Language,
+
+2006.
+
+UF
+
+(disponível
+
+em:
+
+da
+
+Bibliografia Complementar
+
+pe
+las
+
+3. WARFORD, J. S. Computer Systems. 4th ed. Jones and Bartlet Publishers, 2010.
+
+2. CARPINELLI, J. D. Computer systems organization & architecture. Addison-Wesley, 2001.
+
+çã
+o
+
+3. HENNESSY, J. L.; PATTERSON, D. A. Computer organization and design: the hardware /
+
+4. LOVE, R. Linux system programming. O’Reilly, 2007.
+
+ore
+s
+
+software interface, 2nd ed. Morgan Kaufmann Publishers, 1998.
+
+5. KERRISK, M. The Linux Programming Interface: A Linux and Unix System Programming
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Handbook. No Starch Press, 2010.
+
+Disciplina: Teoria dos Grafos
+Bibliografia Básica
+1. BONDY, A.; MURTY, U. S. R. Graph Theory. Springer, 2008. (Graduate Texts in Mathematics).
+2. ROSEN, K. H. Matemática

@@ -1,0 +1,12 @@
+oportunidades de escolha do
+aluno dentro da grade curricular, permitindo-lhe aprofundar seus estudos em um tópico
+específico ou ter contato com diversos assuntos na área. Portanto, não há a ideia de ênfase por
+áreas no Curso.
+
+Matriz Curricular
+
+A Matriz curricular do curso de BCC está organizada em duas tabelas. A tabela 1
+lista as disciplinas de natureza obrigatória, indicando as disciplinas que são do núcleo comum
+(NC), do núcleo específico (NE); as disciplinas atendem às diretrizes nacionais curriculares
+para os cursos de graduação Ciência da Computação--uma aula corresponde ao tempo de 60
+minutos e o número de semanas por semestre é de 16. Na Tabela, constam ainda, a

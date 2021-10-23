@@ -1,0 +1,15 @@
+ao
+desenvolvimento interativo. Bookman, 2008.
+Bibliografia Complementar
+GAMMA, E. Design patterns elements of reusable object-oriented software Reading: Addison Wesley, 1995.
+FREEMAN, E. et al. Use a cabeça!: padrões de projetos (design patterns). Alta Books, 2007.
+BOOCH, G. UML guia do usuário : o mais avançado tutorial s obre Unified Modeling Language (UML).
+Elsevier, 2006.
+NYGARD, M. Release It!: Design and Deploy Production-Ready Software. Pragmatic Bookshelf, 2007.(The
+Pragmatic Programmers).
+FOWLER, M. Patterns of enterprise application architecture. Addison-Wesley, 2003.
+
+Disciplinas Obrigatórias do Núcleo Específico
+Sequências e séries numéricas. Séries de potência, convergência. Funções de várias variáveis. Limite e
+Continuidade. Noções sobre quádricas. Funções diferenciáveis. Derivadas parciais e direcionais. Polinômio de
+Taylor. Máximos e mínimos. Integrais

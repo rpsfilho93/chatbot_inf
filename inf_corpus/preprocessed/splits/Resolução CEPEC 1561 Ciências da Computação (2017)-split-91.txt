@@ -1,0 +1,14 @@
+J.J.; SHERALI, H. D. Linear Programming and Network Flows.Wiley, 2009.
+HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional.9.ed. AmghEditora, 2013.
+PARLAR, M. Interactive Operations Research with Maple: Methods and Models. Birkhauser, 2000.
+SILVA, E. M. et al. Pesquisa Operacional: Programação Linear, simulação. 3. ed.Atlas, 1998.
+WINSTON, W. L. Operations Research Applications and Algorithms.3rd ed. Duxbury Press, 1997.
+PROJETO FINAL DE CURSO 1:
+Desenvolvimento do projeto acompanhado por professor orientador. Tem como finalidade dar experiência
+adquiridos durante o curso.
+Bibliografia Básica:
+Bibliografia a ser definida sob supervisão de um professor orientador.
+Bibliografia Complementar:
+Bibliografia a ser definida sob supervisão de um professor orientador.
+PROJETO FINAL DE CURSO 2:
+Desenvolvimento do projeto acompanhado

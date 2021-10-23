@@ -1,0 +1,13 @@
+ofertada for de componente curricular de uma
+unidade acadêmica ou unidade acadêmica especial diferente daquela do coordenador de curso, o
+aumento do número de vagas da turma só será permitido com anuência da unidade responsável
+pelo componente curricular.
+Art. 49.Cada curso deverá ofertar um número de vagas igual ou maior à sua
+demanda em componentes curriculares de NL, calculado da seguinte forma:
+
+em que:
+NA = número de estudantes matriculados no curso.
+DiNL = número de componentes curriculares de NL que alcance a carga horária mínima de NL
+do curso, considerando 64h (sessenta e quatro horas) cada componente curricular.
+DMC = duração média do curso, em semestres, conforme PPC.
+§ 1º

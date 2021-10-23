@@ -1,0 +1,45 @@
+LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.
+
+da
+
+2. BURDEN, R. L.; FAIRES, J. D. Análise Numérica. São Paulo: Cengage Learning, 2003.
+
+Brooks/Cole-Thomson Learning, 1991.
+
+ore
+s
+
+çã
+o
+
+4. KINCAID, D.; WARD, C. Numerical Analysis:mathematics of scientific computing.
+
+5. SPERENDIO, D.; MENDES, J. A. T. S. L. H. M. Cálculo Numérico: características matemáticas
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+e computacionais dos métodos numéricos. São Paulo: Prentice Hall, 2003.
+
+Disciplina: Circuitos Digitais
+Bibliografia Básica
+1. TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L. Sistemas Digitais – Princípios e Aplicações. 11ª
+Ed. São Paulo: Pearson Prentice Hall, 2011.
+2. MANO, M.; KIME, C. Logic & Computer Design Fundamentals. 5th ed. Pearson, 2015.
+
+G
+
+3. MENDONÇA, A.; ZELENOVSKY, R. Eletrônica

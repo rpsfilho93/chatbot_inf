@@ -1,0 +1,126 @@
+Nacional de Educação
+
+CNPQ
+
+Conselho Nacional de Desenvolvimento Científico e Tecnológico
+
+CONAES
+
+Comissão Nacional de Avaliação da Educação Superior
+
+CONSUNI
+
+Conselho Universitário
+
+CPC
+
+Conceito Preliminar de Curso
+
+CR
+
+Co-requisito
+
+CTS
+
+Centro Tecnológico de Software
+
+DCN
+
+Diretrizes Curriculares Nacionais
+
+ENADE
+
+Exame Nacional de Desempenho de Estudantes
+
+EPE
+
+Ensino, Pesquisa e Extensão
+
+ERI-GO
+
+Escola Regional de Informática de Goiás
+
+ERSI-GO
+
+Escola Regional de Sistemas de Informação de Goiás
+
+ERAD-CO
+
+Escola Regional de Alto Desempenho do Centro-Oeste
+
+FACE
+
+Faculdade de Administração, Ciências Contábeis e Ciências
+Econômicas
+
+FL
+
+Faculdade de Letras
+
+FUNAPE
+
+Fundação de Apoio à Pesquisa
+
+IBGE
+
+Instituto Brasileiro de Geografia e Estatística
+
+IES
+
+Instituição de Ensino Superior
+
+IME
+
+Instituto de Matemática e Estatística
+
+INF
+
+Instituto de Informática
+
+JOPINF
+
+Jornada de Pesquisa do Instituto de Informática
+
+LIBRAS
+
+Língua Brasileira de Sinais
+
+MEC
+
+Ministério da Educação
+
+NC
+
+Núcleo Comum
+
+NE
+
+Núcleo Específico
+
+NEOB
+
+Núcleo Específico Obrigatório
+
+NEOP
+
+Núcleo Específico Optativo
+
+NL
+
+Núcleo Livre
+
+OBI
+
+Olimpíada Brasileira de Informática
+
+OBR
+
+Disciplina Obrigatória
+
+OPT
+
+Disciplina Optativa
+
+PDI
+
+Plano de

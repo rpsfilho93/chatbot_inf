@@ -1,0 +1,47 @@
+Básica
+1. KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach, 6th ed. Pearson,
+2012.
+2. STALLINGS, W. Data and Computer Communications, 10th ed. Pearson, 2014.
+
+G
+
+3. STEWART, W. J. Probability, Markov chains, queues and simulation: the mathematical basis
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+of performance modeling, 1st ed. Princeton University Press, 2009.
+
+Kaufmann, 2011.
+
+da
+
+1. PETERSON, L.L.; DAVIE, B.S. Computer Networks: A Systems Approach. 5th ed. Morgan
+
+2. BEHROUZ F. A. Data Communications and Networking. 5th ed. McGraw-Hill Education,
+
+çã
+o
+
+2012.
+
+ore
+s
+
+3. MOLISCH, A. F. Wireless Communications. 2nd ed. John Wiley & Sons, 2011.
+
+4. STALLINGS, W. Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud. 1st
+ed. Addison-Wesley Professional, 2015.
+
+eri
+
+Av
+a
+
+lia
+
+5. GRAYVER, E. Implementing Software

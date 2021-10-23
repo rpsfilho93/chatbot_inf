@@ -1,0 +1,53 @@
+Prentice Hall, 2004.
+
+Moderna, 2010.
+
+ore
+s
+
+4. RIBEIRO, M. M. Uma breve introdução à computação gráfica. Rio de Janeiro, RJ: Ciência
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. ROGERS, D. Procedural Elements for Computer Graphics. Mc-Graw-wHill, 1997.
+
+Disciplina: Computação Paralela
+Bibliografia Básica
+1. GRAMA, A.; KUMAR, V.; GUPTA, A.; KARYPIS, G.: An Introduction to Parallel Computing,
+Design and Analysis of Algorithms, 2.ed. Addison-Wesley, 2003.
+2. PACHECO, P. An Introduction to Parallel Programming. Kaufmann Publishers, 2011.
+
+G
+
+3. KIRK, D.; HWU, W. Programming Massively Parallel Processors: A Hands On Approach.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+2nd ed. Morgan Kaufmann Publishers, 2012.
+
+Wesley, 2004.
+
+da
+
+1. MATTSON, T.; SANDERS, B.; MASSINGILL, B. Patterns for Parallel Programming. Addison-
+
+2. GROPP, W.; et al. Using MPI: Portable Parallel Programming with

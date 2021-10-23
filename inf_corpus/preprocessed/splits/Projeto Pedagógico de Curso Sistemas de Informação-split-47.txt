@@ -1,0 +1,22 @@
+Usando C, São Paulo:
+Makron Books, 1995.
+
+Bibliografia Complementar
+
+
+
+
+
+
+CORMEN, T. H. et al. Algoritmos: Teoria e Prática. 2. ed., Rio de Janeiro: Editora Campus, 2002.
+SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, São Paulo: Makron Books, 1998.
+SEDGEWICK, R. Algorithms in C++ (Parts 1-4), 3. ed., Addison-Wesley, 1998.
+ZIVIANI N. Projeto de Algoritmos com implementação em Pascal e C. 3. ed., São Paulo: Editora
+Thomson, 2010.
+ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora Thomson,
+2006.
+
+ALGORITMOS E ESTRUTURAS DE DADOS 2
+Ementa
+Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca,
+árvores balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps, Heapsort.

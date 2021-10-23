@@ -1,0 +1,13 @@
+elétrica e campo elétrico. Lei de Gauss. Potencial elétrico. Capacitância e dielétricos. Corrente e circuitos
+elétricos. Campo magnético e força magnética. Fontes de campo magnético. Indução eletromagnética.
+Indutância. Corrente alternada.
+Bibliografia Básica:
+YOUNG, H. D.; FREEDMAN, R. A. Física III: Eletromagnetismo, São Paulo: Addison Wesley, 2008. Volume 3.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física : Eletromagnetismo. Rio de Janeiro: LTC.
+1996. Volume 3.
+NUSSENZVEIG, H. M. Curso de Física Básica : Eletromagnetismo. São Paulo: Ed. Edgard Blücher Ltda, 1996.
+Volume 3.
+Bibliografia Complementar:
+TIPLER, P. A. Física para cientistas e engenheiros : Eletricidade e Magnetismo, Ótica 5. ed. Rio de Janeiro:
+LTC, 2006. Volume 2.
+CHAVES, A.; SAMPAIO, J.

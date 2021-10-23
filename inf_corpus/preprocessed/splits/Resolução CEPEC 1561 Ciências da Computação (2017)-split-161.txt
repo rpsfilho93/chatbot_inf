@@ -1,0 +1,12 @@
+de integração das mesmas com a graduação.
+
+Pesquisa
+
+Os estudantes são estimulados a se engajar em atividades de pesquisa já na primeira
+metade curso. Neste contexto, a disciplina Metodologia de Pesquisa em Computação tem
+como objetivos, além do ensino de técnicas e métodos de pesquisa científica, a apresentação
+dos programas e projetos institucionais de pesquisas e a divulgação de vagas para participar
+dos mesmos. No âmbito do INF, existem vários grupos de pesquisa ativos e certificados pelo
+CNPq, que atuam em diversas áreas da Computação. Muitos dos projetos de pesquisa
+vigentes contam com auxílio financeiro de agências executoras de políticas de C&T&I, como
+CNPq, FINEP e FAPEG, e envolvem

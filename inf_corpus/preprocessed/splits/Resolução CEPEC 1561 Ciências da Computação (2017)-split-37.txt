@@ -1,0 +1,33 @@
+Quadro Resumo da Carga Horária
+Componentes Curriculares
+
+Carga Horária
+
+Percentual
+
+Núcleo Comum (NC)
+
+Núcleo Específico Obrigatório
+
+Núcleo Livre
+
+Disciplinas Optativas
+
+Atividades Complementares
+
+Carga Horária Total
+
+Componentes Curriculares com Ementas e Bibliografias Básicas e Complementares
+
+Disciplinas Obrigatórias do Núcleo Comum
+ÁLGEBRA LINEAR:
+Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços
+com produto interno.
+Bibliografia Básica:
+BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. Álgebra Linear. 3ed. Harbra, São
+Paulo, 2003.
+LIPSCHUTZ, S. Álgebra Linear, 2ed. MaKron-Books, SãoPaulo, Brasil, 1974.
+CALLIOLI, C. A.; DOMINGUES, H. H; COSTA, R. C. F. Álgebra Linear e Aplicações. Atual, Brasil, 1983.
+Bibliografia Complementar:
+APOSTOL, T. Linear Algebra: A First Course with Applications to Differential Equations,1st ed. WileyInterscience, 1997.
+HOWARD,

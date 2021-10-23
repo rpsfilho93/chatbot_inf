@@ -1,0 +1,26 @@
+Ordem. SÃO PAULO: UNESP. 2009.
+5. CASANOVA, M. A.; GIORNO, F. A. C.; FURTADO, A. L. Programação em Lógica e a Lin-
+
+Câ
+
+guagem PROLOG. Edgard Blucher, 1987.
+
+6. GALLIER, J. H. Logic for Computer Science: Foundations of Automatic Theorem Proving.
+2nd ed. Dover Publications Inc., 2015.
+
+Disciplina: Probabilidade e Estatística A
+Bibliografia Básica
+1. WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K.: Probabilidade e Estatística para Engenharia e Ciências. 8. Ed. São Paulo: Pearson, 2009.
+2. MAGALHÃES, M.N. Noções de Probabilidade e Estatística. 7a. Ed. São Paulo: EDUSP, 2010.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC, 1969.
+
+1. ROSS, S. Probabilidade.

@@ -1,0 +1,13 @@
+e ao Processo de
+Desenvolvimento de Software - Fase Requisitos; Conceitos sobre Requisitos; Requisitos de
+Sistema e Requisitos de Software (Funcionais e Não-Funcionais); Técnicas de Levantamento
+de Requisitos (Joint Application Development); Gerência de Requisitos; CASE para
+Requisitos; Documentação da Visão.
+12. Engenharia de Software
+Ementa: Caracterização de software enquanto produto e processo. Gerência de projetos de
+software: planejamento; métricas; análise e gerência de riscos e acompanhamento de projetos.
+Controle de qualidade de software. Gerência de configuração de software. Engenharia de
+sistemas. Análise e projeto de software. Ferramentas de apoio ao desenvolvimento de
+software. Noções de tópicos avançados em engenharia de software (métodos formais,
+reengenharia e outros). Técnicas e ferramentas CASE.
+13. Estruturas

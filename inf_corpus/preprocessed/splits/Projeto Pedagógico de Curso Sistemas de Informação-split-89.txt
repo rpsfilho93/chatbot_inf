@@ -1,0 +1,13 @@
+Paulo: Saraiva, 2010.
+REZENDE, D..A., Tecnologia da informação aplicada a sistemas de informação empresariais: o papel
+estratégico da informação e dos sistemas de informação nas empresas. 8. ed., 2011.
+VASCONCELLOS, M. J. Pensamento sistêmico: o novo paradigma da ciência. 10. ed. rev. e atual,
+Campinas: Papirus, 2013.
+
+LINGUAGENS E PARADIGMAS DE PROGRAMAÇÃO
+Ementa
+Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural,
+funcional, lógico, orientado a objeto e script. Reflexão sobre as características desejáveis em uma
+linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades
+dos domínios de aplicação. Descrição de sintaxe e semântica. Estudo sobre tipos de dados, estruturas
+de

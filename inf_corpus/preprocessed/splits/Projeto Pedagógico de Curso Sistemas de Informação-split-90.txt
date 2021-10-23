@@ -1,0 +1,24 @@
+controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de
+programação.
+Bibliografia Básica
+
+
+
+
+GHEZZI, C.; JAZYERI, M. Programming Language Concepts, 3. ed., Wiley, 1997.
+SCOTT, M. L. S. Programming Language Pragmatics, 3. ed., Morgan Kaufmann, 2009.
+SEBESTA, R. W. Concepts of Programming Languages; 10. ed., Pearson, 2012.
+
+Bibliografia Complementar
+
+
+
+
+
+
+FRIEDMAN, D. P.; WAND, M. Essentials of Programming Languages, 3. ed., The MIT Press, 2008.
+PRATT, T. W.; ZELKOWITZ, M. V. Programming Languages: Design and Implementation, 4. ed.,
+Prentice Hall, 2000.
+ROY, P. V.; HARIFI, S. Concepts, Techniques, and Models of Computer Programming, 1. ed., The MIT
+Press, 2004.
+TURBAK, F.; GIFFORD D. Design Concepts in Programming Languages, 1. ed., The MIT

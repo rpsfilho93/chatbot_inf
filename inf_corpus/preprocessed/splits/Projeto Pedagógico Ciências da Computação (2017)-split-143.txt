@@ -1,0 +1,54 @@
+the Message-Passing In-
+
+çã
+o
+
+terface. 3rd ed. The MIT Press, 2014.
+
+Efficient Computation. Morgan Kaufmann, 2012.
+
+ore
+s
+
+3. MCCOOL, M.; REINDERS, J.; ROBISON, A.: Structured Parallel Programming Patterns for
+
+4. CHAPMAN, B.; JOST, G.; PAS, A. V.der. Using OpenMP, The MIT Press, 2007.
+
+lia
+
+5. COOK, S. CUDA Programming: A Developer’s Guide to Parallel Computing with GPUs.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Morgan Kaufmann, 2013.
+
+Disciplina: Eletrônica para Computação
+Bibliografia Básica
+1 SADIKU, M. N.; MUSA, S.; ALEXANDER, C. K. Análise de circuitos elétricos com aplicações.
+Porto Alegre: AMGH (McGraw-Hill - Bookman), 2014. 616p. ISBN: 9788580553024
+2 IRWIN, J. D. Análise Básica de Circuitos para Engenharia. 10a ed. São Paulo: LTC, 2013. 700
+
+G
+
+p. ISBN: 9788521621805
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3 SEDRA, A. S.;

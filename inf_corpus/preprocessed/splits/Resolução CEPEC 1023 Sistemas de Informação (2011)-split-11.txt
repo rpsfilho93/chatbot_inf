@@ -1,0 +1,12 @@
+Comunicação Empresarial
+Ementa: A comunicação nas organizações suas funções e fases; o volume de riqueza da informação
+nas organizações; as redes e os canais de comunicação nas organizações; comunicação empresarial e o
+processo de gestão; comunicações internas nas organizações em uma nova abordagem:
+
+endomarketing; comunicação e liderança; comunicação interpessoal nas organizações: conhecimento,
+habilidade e atitude; comunicação verbal e não-verbal; barreiras da comunicação.
+8. Construção de Software
+Ementa: Definição de construção de software. Pré-requisitos para a construção. Boas práticas
+para definição dos requisitos. Arquitetura de software e seus componentes. Escolha da
+linguagem de programação. Convenções de programação. Principais práticas de construção de
+software. Projeto de software (conceitos, práticas, níveis e abordagens

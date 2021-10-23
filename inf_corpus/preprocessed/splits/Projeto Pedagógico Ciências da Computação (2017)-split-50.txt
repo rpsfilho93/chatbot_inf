@@ -1,0 +1,31 @@
+por valor e por referência, recursividade. Manipulação de
+arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos
+para uma linguagem de programação. Domínio de uma linguagem de programação:
+
+UF
+G
+
+sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvol-
+
+pe
+las
+
+vimento de programas; estilo de codificação; documentação de código; técnicas de de-
+
+LINGUAGENS E PARADIGMAS DE PROGRAMAÇÃO
+
+Ementa
+
+da
+
+puração e técnicas de profiling; desenvolvimento e uso de bibliotecas.
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script. Reflexão sobre as características desejáveis em uma

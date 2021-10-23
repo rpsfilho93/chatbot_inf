@@ -1,0 +1,132 @@
+Contabilidade
+
+FACE
+
+NE
+
+OPT
+
+5.
+
+Gestão de Pessoas I
+
+FACE
+
+NE
+
+OPT
+
+6.
+
+Introdução à Língua Brasileira de Sinais - LIBRAS
+
+FL
+
+NE
+
+OPT
+
+7.
+
+Jogos Digitais
+
+INF
+
+NE
+
+OPT
+
+8.
+
+Logística Empresarial
+
+FACE
+
+NE
+
+OPT
+
+9.
+
+Matemática Financeira
+
+IME
+
+NE
+
+OPT
+
+10. Processo de Tomada de Decisão em Cenários Complexos
+
+INF
+
+NE
+
+OPT
+
+11. Sistemas Multiagentes
+
+INF
+
+NE
+
+OPT
+
+12. Sustentação de Sistemas de Informação
+
+INF
+
+NE
+
+OPT
+
+13. Teste de Software
+
+INF
+
+NE
+
+OPT
+
+14. Tópicos Avançados em Sistemas de Informação 1
+
+INF
+
+NE
+
+OPT
+
+15. Tópicos Avançados em Sistemas de Informação 2
+
+INF
+
+NE
+
+OPT
+
+16. Visualização de Informações
+
+INF
+
+NE
+
+OPT
+
+17. Web Semântica
+
+INF
+
+NE
+
+OPT
+
+c) Elenco de Componentes Curriculares
+O conteúdo a ser ministrado e as atividades a serem desenvolvidas à distância deverão estar
+devidamente especificadas nos respectivos planos de ensino (totalizando no máximo 20% da
+carga horária), além de explicitar a metodologia, as ferramentas e a estrutura de
+acompanhamento e apoio ao docente.
+
+DISCIPLINAS OBRIGATÓRIAS
+ÁLGEBRA LINEAR
+Ementa
+Sistemas lineares e

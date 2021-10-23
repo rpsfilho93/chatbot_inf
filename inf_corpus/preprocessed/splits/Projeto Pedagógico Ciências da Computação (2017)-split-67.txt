@@ -1,0 +1,46 @@
+físicas e vetores. Cinemática da partícula. Leis de Newton do
+
+da
+
+movimento. Trabalho e energia cinética. Energia potencial e conservação da energia.
+Momento linear, impulso e colisões. Cinemática da rotação. Dinâmica da rotação de
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+corpos rígidos. Equilíbrio e elasticidade.
+
+FUNDAMENTOS DA PROGRAMAÇÃO LÓGICA E FUNCIONAL
+
+Ementa
+
+Av
+a
+
+Princípio de resolução. Unificação de primeira ordem. Teorema do ponto fixo. Resolução SLD, correção e completitude. Funções recursivamente computáveis. Noções de
+
+Su
+p
+
+teoria de reescrita. Cálculo Lambda e reescrita de ordem superior (computabilidade
+via reescrita). Confluência e Terminação. Ordens Noetherianas. Algoritmo de comple-
+
+INTEGRAÇÃO DE DADOS
+
+Ementa
+
+ras
+
+Em
+
+tamento de Knuth-Bendix, correção e completitude.
+
+Câ
+ma
+
+Conceitos fundamentais em integração de dados. Arquiteturas de sistemas de integração de dados. Descrição de

@@ -1,0 +1,25 @@
+e suas inversas. Noções sobre cônicas. Limite e
+continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração.
+Integrais impróprias. Aplicações.
+Bibliografia Básica
+
+
+
+
+
+LEITHOLD, L. O cálculo com geometria analítica. 3 ed. V. 1. São Paulo: Harbra, 1994.
+GUIDORIZZI, H. L. Um curso de cálculo. 5 ed. V. 1. Rio de Janeiro: LTC, 2001.
+ÁVILA, G. S. S. Cálculo das funções de uma variável. 7 ed. V. 1. Rio de Janeiro: LTC, 2004.
+STEWART, J. Cálculo. 5. ed. V. 1. São Paulo: Pioneira Thomson Learning, 2006.
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A: funções, limite, derivação e integração. 6 ed. São
+Paulo: Pearson Prentice Hall, 2006.
+SWOKOWSKI,

@@ -1,0 +1,19 @@
+Rio de Janeiro: IMPA, 2006.
+SHOKRANIAN, S. Introdução a Álgebra Linear e Aplicações, 1. ed. UNB, 2004.
+
+ALGORITMOS E ESTRUTURAS DE DADOS 1
+Ementa
+Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de pesquisa:
+pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de
+dados utilizando vetores: pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação
+dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e
+circulares).
+Bibliografia Básica
+
+
+
+
+FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+SZWARCFITER, J. L.; MARKENZON, L., Estruturas de Dados e seus Algoritmos. 2. ed., Rio de
+Janeiro: LTC, 1994.
+TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados

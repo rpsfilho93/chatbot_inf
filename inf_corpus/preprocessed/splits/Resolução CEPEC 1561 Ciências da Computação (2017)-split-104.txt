@@ -1,0 +1,13 @@
+de computação e comunicação.
+Bibliografia Básica:
+JAIN, R. The Art of Computer Systems Performance Analysis: Techniques for Experimental Design,
+Measurement, Simulation, and Modeling. John Wiley and Sons, 1991.
+ROSS, S. M. Introduction to Probability Models. 9th ed. Academic Press, Elsevier 2006.
+MENASCE, D. A.; ALMEIDA, V. Capacity planning for web services. Upper Saddle River, NJ, USA: Prentice
+Hall PTR, 2001.
+Bibliografia Complementar:
+KLEINROCK, L. Queueing Systems Theory. John Wiley and Sons, Inc., 1975.(Vol. I).
+KLEINROCK, L. Queueing Systems: Computer Applications. John Wiley and Sons, 1975. (Vol. II).
+CROVELLA, M.; KHRISHNAMURTHY, B. Internet Measurement: Infrastructure,Traffic and Applications.
+John Wiley and Sons, 2006.
+LAZOWSKA, E.; ZAHORJAN J.; GRAHAM, S.; SEVCIK, K. Quantitative System Performance.Prentice-Hall,

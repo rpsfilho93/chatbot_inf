@@ -1,0 +1,282 @@
+Semestral
+Teo.
+
+Prat.
+
+CHTot.
+
+Núcleo Natureza
+
+Aprendizagem de Máquina e Mineração de Dados
+
+INF
+
+NE
+
+OPT
+
+Armazém de Dados
+
+INF
+
+NE
+
+OPT
+
+Avaliação de Desempenho de Sistemas Computacionais
+
+INF
+
+NE
+
+OPT
+
+Banco de Dados Distribuídos
+
+INF
+
+NE
+
+OPT
+
+Computação Evolucionária
+
+INF
+
+NE
+
+OPT
+
+Computação Móvel e Ubíqua
+
+INF
+
+NE
+
+OPT
+
+Computação Verde
+
+INF
+
+NE
+
+OPT
+
+Desenvolvimento de Sistemas para Web
+
+INF
+
+NE
+
+OPT
+
+Desenvolvimento de Software Dirigido por Modelos
+
+INF
+
+NE
+
+OPT
+
+Empreendedorismo Digital
+
+INF
+
+NE
+
+OPT
+
+Engenharia de Sistemas
+
+INF
+
+NE
+
+OPT
+
+Engenharia de Software Baseada em Busca
+
+INF
+
+NE
+
+OPT
+
+Fundamentos da Programação Lógica e Funcional
+
+INF
+
+NE
+
+OPT
+
+Integração de Dados
+
+INF
+
+NE
+
+OPT
+
+Introdução à Língua Brasileira de Sinais
+
+FL
+
+NE
+
+OPT
+
+Introdução à Teoria das Provas
+
+INF
+
+NE
+
+OPT
+
+Introdução à Teoria dos Tipos
+
+INF
+
+NE
+
+OPT
+
+Jogos Digitais
+
+INF
+
+NE
+
+OPT
+
+Meta-heurísticas
+
+INF
+
+NE
+
+OPT
+
+Metodologia e Experimentação em Engenharia de Software
+
+INF
+
+NE
+
+OPT
+
+Microcontroladores
+
+INF
+
+NE
+
+OPT
+
+Processamento Digital de Imagens
+
+INF
+
+NE
+
+OPT
+
+Recuperação de Informação
+
+INF
+
+NE
+
+OPT
+
+Redes de Computadores 2
+
+INF
+
+NE
+
+OPT
+
+Redes Neuronais Artificiais
+
+INF
+
+NE
+
+OPT
+
+Segurança e Auditoria de Sistemas
+
+INF
+
+NE
+
+OPT
+
+Sistemas Multiagentes
+
+INF
+
+NE
+
+OPT
+
+Tópicos Avançados em Redes Sem Fio
+
+INF
+
+NE
+
+OPT
+
+Tópicos em Computação
+
+INF
+
+NE
+
+OPT
+
+Tópicos em Teste de Software
+
+INF
+
+NE
+
+OPT
+
+Verificação Formal de Programas
+
+INF
+
+NE
+
+OPT
+
+Visão Robótica
+
+INF
+
+NE
+
+OPT
+
+Visualização de Informações
+
+INF
+
+NE
+
+OPT
+
+Web Semântica
+
+INF
+
+NE
+
+OPT
+
+Tabela3:

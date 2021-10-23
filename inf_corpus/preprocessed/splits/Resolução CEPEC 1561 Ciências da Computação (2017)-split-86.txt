@@ -1,0 +1,16 @@
+fundamentos da
+matemática. 2. ed. Unesp, 2009.
+BALCÁZAR, J.; DIAZ, J.; GABARRÓ, J. Structural complexity I. 2nd ed. Springer, 1994.(In Text in
+Theoretical Computer Science EATCS Series).
+LINGUAGENS FORMAIS E AUTÔMATOS:
+Conceitos básicos de linguagens. Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não
+determinísticos) de linguagens regulares, livres de contexto e sensíveis ao contexto; relação entre estas classes de
+linguagens e suas principais propriedades. Hierarquia de Chomsky.
+Bibliografia Básica:
+SUDKAMP, T. A. Languages and machines. 3. ed. Addison Wesley, 2006.
+SIPSER, M. Introduction tot he theory of computation. ITP, 1997.
+HOPCROFT, J.E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos
+: linguagens e
+computação. Campus, 2002.
+Bibliografia Complementar:
+RAMOS, M. V. M.; NETO,

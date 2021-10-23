@@ -1,0 +1,59 @@
+OPERACIONAIS
+
+lia
+çã
+o
+
+Ementa
+
+da
+
+pe
+las
+
+de Consultas. Transações, Controle de Concorrência e Recuperação após Falhas. Segu-
+
+eri
+ore
+s
+
+Gerenciamento de processos. Gerenciamento de memória. Sistemas de arquivos. Processamento de entrada/saída. Virtualização. Sistemas multiprocessados.
+
+Ementa
+
+Av
+a
+
+SOFTWARE BÁSICO
+
+Visão geral de um sistema computacional. Linguagem de montagem. Mapeamento de
+
+Su
+p
+
+estruturas de linguagens de alto nível para a linguagem Assembly. Pilha de execução
+
+Em
+
+e modelo de chamadas de função. Interrupções e seus tipos. "Link-edição"e bibliotecas.
+
+Ementa
+
+ras
+
+TEORIA DOS GRAFOS
+
+Noções e notações básicas de grafos. Árvores. Conectividade. Coloração. Emparelha-
+
+Câ
+ma
+
+mento. Conjuntos dominantes. Planaridade. Algoritmos de busca e aplicações. Algoritmos do menor caminho. Grafos Eulerianos e Hamiltonianos. Fluxo em redes. Grafos
+Infinitos.
+
+Ementas das disciplinas optativas
+
+APRENDIZAGEM DE MÁQUINA E MINERAÇÃO DE DADOS
+
+Ementa
+Conceitos básicos

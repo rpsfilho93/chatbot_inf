@@ -1,0 +1,17 @@
+2015.
+PERRY, W. E. Effective methods for software testing.2nd. Edition. J. Wiley, 1999.
+
+VERIFICAÇÃO FORMAL DE PROGRAMAS:
+Sistemas de Dedução Natural para Lógicas Proposicional e de Predicados. Lambda-calculus com tipos simples.
+Isomorfismo de Curry-Howard-de Bruijn. Extração de código. Tipos Indutivos. Polimorfismo. Produtos
+Dependentes. Definições Impredicativas. Definições Indutivas. Objetos e Provas Infinitos. Coindução. Subtipos.
+Checagem de Tipos. Normalização. Provas por reflexão.
+Bibliografia Básica:
+NEDERPELT, R.; GEUVERS, H. .Type Theory and Formal Proof: An Introduction. Cambridge University
+Press, 2014.
+RAAMSDONK, F. Logic Verification : Course Notes . Vrije Universiteit Amsterdam , 2008.(Disponível em
+http://www.cs.ru.nl/ freek/courses/tt-2014/public/notes.pdf).
+CHIPALA, A. Certified Programming with Dependent Types: A Pragmatic Introduction to the Coq Proof
+Assistant. MIT Press 2013.
+Bibliografia Complementar:
+PIERCE, B.

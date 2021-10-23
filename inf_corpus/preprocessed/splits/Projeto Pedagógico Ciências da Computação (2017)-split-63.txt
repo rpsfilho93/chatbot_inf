@@ -1,0 +1,44 @@
+de Dados. Sistemas de banco de dados paralelos.
+
+COMPUTAÇÃO EVOLUCIONÁRIA
+
+Ementa
+
+Conceito. Histórico. Os principais paradigmas e algoritmos. Projeto de algoritmo. Algoritmos Genéticos e aplicações da Computação Evolucionária.
+
+COMPUTAÇÃO MÓVEL E UBÍQUA
+
+Ementa
+Computação móvel e ubíqua: conceitos, principais características, internet das coisas,
+smart spaces, sensibilidade a contexto,tecnologias de comunicação e desafios. Platafor-
+
+UF
+G
+
+mas de desenvolvimento móvel e modelos de negócio para comercialização. Projeto de
+
+pe
+las
+
+aplicações móveis: macro e micro arquitetura, padrões de interface com usuário, persistência de dados, segurança, privacidade e comunicação. Programação de aplicações
+
+Ementa
+
+eri
+ore
+s
+
+COMPUTAÇÃO VERDE
+
+lia
+çã
+o
+
+ções móveis.
+
+da
+
+móveis: middlewares, frameworks e sensores. Prática em desenvolvimento de aplica-
+
+Introdução a eficiência energética em computação. Eficiência energética em redes de
+comunicação. Modelos de

@@ -1,0 +1,12 @@
+Janeiro: Zahar, 1969.
+BUCKLEY, W F. A sociologia e a moderna teoria dos sistemas. Tradução de Octavio Mendes Cajado.
+2. ed. São Paulo: Cultrix, 1976.
+CHANDOR, A; GRAHAM, J; WILLIAMSON, R. Análise de sistemas: teoria e prática. Tradução de
+Antônio Garcia de Miranda Netto. Rio de Janeiro: LTCE, 1977.
+CHURCHMAN, C. W. Introdução à teoria dos sistemas. Tradução de Francisco M. Guimarães. 2. ed.,
+Petrópolis: Vozes, 1972.
+
+Sinopse
+Durante os sete primeiros semestres do curso de Bacharelado em Sistemas de Informação, o estudante deverá
+vivenciar o aprendizado dos diversos paradigmas e técnicas relacionadas à Sistemas de Informação e à Ciência
+de Dados. As disciplinas cursadas pelo estudante e as demais

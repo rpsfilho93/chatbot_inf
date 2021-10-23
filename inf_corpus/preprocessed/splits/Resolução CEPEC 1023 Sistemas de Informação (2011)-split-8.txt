@@ -1,0 +1,14 @@
+RESOLUÇÃO – CEPEC Nº 1023
+
+EMENTÁRIO DAS DISCIPLINAS
+1. Aplicações Distribuídas
+Ementa: Introduzir os conceitos fundamentais de sistemas distribuídos, a caracterização de
+sistemas de computação distribuída, aplicações distribuídas (características e aspectos de
+projeto), objetivos básicos de sistemas distribuídos (transparência, abertura, escalabilidade
+etc). Estudar e dominar os princípios e aplicações dos principais modelos de sistemas
+distribuídos: sistemas cliente/servidor e sistemas multi-camadas; sistemas peer-to-peer.
+Compreender a teoria e prática de objetos distribuídos: interface x implementação; objetos
+remotos; chamadas de métodos remotos (RMI). Estudar os princípios e uso dos principais
+serviços de sistemas distribuídos: serviços de nomes; compartilhamento de
+documentos/recursos distribuídos (ex.: WWW e sistemas de trabalho cooperativo).
+Princípio e implementação de SOA – Arquiteturas

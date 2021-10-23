@@ -1,0 +1,46 @@
+DE MATEMÁTICA PARA COMPUTAÇÃO
+
+Ementa
+
+UF
+G
+
+Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e
+Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e
+
+Ementa
+
+da
+
+INTERAÇÃO HUMANO-COMPUTADOR
+
+pe
+las
+
+Funções. Representações numéricas e Mudança de base numérica.
+
+lia
+çã
+o
+
+Aspectos gerais sobre interação humano-computador. Características humanísticas e
+
+eri
+ore
+s
+
+biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e
+culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre
+outros. Ciclo da interação e principais problemas. Metas de usabilidade e experiência
+do usuário. Fatores humanos em software interativo: teoria, princípios e regras básicas.
+
+Av
+a
+
+Modelos conceituais e metáforas. Estilos de interação. Elementos de interação (menus,
+formulários, manipulação direta e outros). Voz, linguagem natural, sons, páginas Web.
+
+Su
+p
+
+Padrões para interface.

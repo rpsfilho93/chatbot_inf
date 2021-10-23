@@ -1,0 +1,49 @@
+Systems. 3a. edição, Sprin-
+
+ceitos e Projeto. 5. ed. Bookman Editora, 2013.
+
+da
+
+1. COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. Sistemas Distribuídos: Con-
+
+ore
+s
+
+Kaufmann, 1992.
+
+çã
+o
+
+2. GRAY, G., REUTER, A., Transaction Processing: Concepts and Techniques. 1ª ed., Morgan
+
+3. ELMASRI, R., NAVATHE, S. B., Sistemas de Banco de Dados, 6ª ed., Pearson - Addison Wesley, 2015.
+
+Ed. Campus, Rio de Janeiro, 2006.
+
+eri
+
+lia
+
+4. SILBERSCHATZ, A., KORTH, H.F. e SUDARSHAN, S., Sistema de Banco de Dados, 5ª ed.,
+
+Av
+a
+
+5. TANENBAUM, A. S; STEEN, M. van. Sistemas Distribuídos: Princípios e Paradigmas. 2.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+edição, Pearson Education do Brasil, 2008.
+
+Disciplina: Computação Evolucionária
+Bibliografia Básica
+1. LIDEN, R. Algoritmos Genéticos. 3. ed. Brasport, 2008.
+2. ENGELBRECHT,

@@ -1,0 +1,12 @@
+and Engineering Optimization. New York: Wiley, 2000.
+Bibliografia Complementar:
+ENGELBRECHT, A. P. Computational Intelligence: An Introduction. New York: Wiley, 2002.
+LINDEN, R. Algoritmos Genéticos. 3. ed. Brasport, 2008.
+RUSSELL, S. J. Artificial intelligence a modern approach. 3. ed. Upper Saddle River: Prentice- Hall, 2010.
+ENGELBRECHT, A. P. Fundamentals of Computational Swarm Intelligence. Hoboken, NJ: Wiley, 2005.
+HARMAN M.; MCMINN, P.; SOUZA, J. T de; YOO, S. Search based Software Engineering: Techniques,
+Taxonomy, Tutorial. Berlin, Heidelberg: Springer-Verlag, 2012. (In Empirical Software Engineering and
+Verification.Bertrand Meyer and Martin Nordio (Eds.)).
+FUNDAMENTOS DA PROGRAMAÇÃO LÓGICA E FUNCIONAL
+Princípio de resolução. Unificação de primeira ordem. Teorema do ponto fixo. Resolução SLD, correção e
+completitude. Funções

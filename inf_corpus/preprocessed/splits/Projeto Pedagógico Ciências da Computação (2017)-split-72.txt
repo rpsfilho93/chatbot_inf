@@ -1,0 +1,56 @@
+modelos de linguagem, máquinas de busca
+para a Web. Algoritmos e heurísticas para mineração de informações: classificação de
+
+REDES NEURONAIS ARTIFICIAIS
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Informação.
+
+da
+
+textos, agrupamento (clustering) de textos. Tópicos de pesquisa em Recuperação de
+
+Conceitos básicos. Redes em camadas com aprendizagem supervisionada. Redes re-
+
+Av
+a
+
+correntes e de processamento temporal. Redes auto-organizáveis. Aplicações.
+
+Ementa
+
+Su
+p
+
+SEGURANÇA E AUDITORIA DE SISTEMAS
+
+Auditoria de sistemas. Políticas de segurança. Classificação das informações. Normas
+
+Em
+
+de segurança. Ética em segurança da informação. Segurança de sistemas. Ameaças
+
+ras
+
+e Ataques. Vulnerabilidades em softwares, serviços e protocolos. Aspectos especiais:
+vírus, fraudes, criptografia, acesso não autorizado. Engenharia Social. Tópicos Emer-
+
+Câ
+ma
+
+gentes em Segurança.
+
+SISTEMAS MULTIAGENTES
+
+Ementa
+
+Introdução à Inteligência Artificial e Agentes Inteligentes. Arquiteturas para construção de Sistemas

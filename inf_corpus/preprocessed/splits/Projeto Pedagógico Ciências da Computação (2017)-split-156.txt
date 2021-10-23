@@ -1,0 +1,56 @@
+Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. ZOBEL, J. Writing for Computer Science, 3. ed., Springer, 2014.
+
+Disciplina: Pesquisa Operacional
+Bibliografia Básica
+1. BREGALDA, P. F.; OLIVEIRA, A. A. F.; BORNSTEIN, C. T. Introdução à Programação Linear.
+3. ed. Rio de Janeiro: Campus, 1983.
+2. GOLBARG, M.; LUNA, H. Otimização Combinatória e Programação Linear. 2. ed. Campus,
+
+G
+
+2005.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. TAHA, H. Pesquisa Operacional. 8. ed. Prentice Hall, 2008.
+
+Wiley, 2009.
+
+da
+
+1. BAZARAA M.S.; JARVIS, J.J.; SHERALI, H. D. Linear Programming and Network Flows.
+
+2. HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9. ed. Amgh Editora,
+
+çã
+o
+
+2013.
+
+2000.
+
+ore
+s
+
+3. PARLAR, M. Interactive Operations Research with Maple: Methods

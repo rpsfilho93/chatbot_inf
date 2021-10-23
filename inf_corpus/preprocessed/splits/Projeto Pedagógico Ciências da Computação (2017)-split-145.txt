@@ -1,0 +1,37 @@
+Porto Alegre: Bookman, 2015. 328p. (Série Tekne).
+
+Disciplina: Engenharia de Requisitos
+Bibliografia Básica
+1. SOMMERVILLE, I. Engenharia de Software. 9. ed. Sao Paulo: Pearson Prentice Hall, 2011.
+2. PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 7. ed. Porto Alegre: McGraw-Hill, 2011.
+
+G
+
+3. PFLEEGER, S. L. Engenharia de software: teoria e prática. 1. ed. São Paulo: Prentice Hall,
+
+UF
+
+Bibliografia Complementar
+
+pe
+las
+
+2004.
+
+ed. Chichester: John Wiley & Sons, 1998.
+
+da
+
+1. KOTONYA, G.; SOMMERVILLE, I. Requirements Engineering: Process and Techniques. 2.
+
+2. LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados
+
+çã
+o
+
+a objetos e ao desenvolvimento interativo. 3. ed. Porto Alegre: Bookman, 2007.
+
+ore
+s
+
+3. SWEBOK v3.0. Guide to

@@ -1,0 +1,112 @@
+Formal de Programas
+
+INF
+
+NE
+
+OPT
+
+75. Visão Robótica
+
+ras
+
+Su
+p
+
+INF
+
+Em
+
+INF
+
+NE
+
+OPT
+
+76. Visualização de Informações
+
+INF
+
+NE
+
+OPT
+
+77. Web Semântica
+
+INF
+
+NE
+
+OPT
+
+Câ
+ma
+
+73. Tópicos em Teste de Software
+
+Carga Horária
+
+Percentual
+
+Núcleo Comum (NC)
+
+Núcleo Específico Obrigatório
+
+Núcleo Livre
+
+Disciplinas Optativas
+
+Atividades Complementares
+
+Carga Horária Total
+
+pe
+las
+
+Componentes Curriculares
+
+UF
+G
+
+Tabela 3: Quadro resumo da carga horária
+
+A tabela 3 apresenta um resumo da carga horária das disciplinas obrigatórias, por
+
+núcleo, bem como, das disciplinas optativas e das atividades complementares. A ta-
+
+Componentes curriculares
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+curricular.
+
+da
+
+bela apresenta também a porcentagem da carga horária dedicada a cada componente
+
+As ementas das disciplinas de natureza obrigatória e optativa são apresentadas nesta
+seção. As bibliografias básica e complementar das disciplinas obrigatórias e optativas
+
+Ementas das disciplinas obrigatórias do núcleo comum
+
+Ementa
+
+Em
+
+ÁLGEBRA LINEAR
+
+Su
+p
+
+Av
+a
+
+são descritas no apêndice A.
+
+Sistemas lineares

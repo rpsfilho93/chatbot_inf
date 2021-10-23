@@ -1,0 +1,25 @@
+arquitetura, padrões de
+interface com usuário, persistência de dados, segurança, privacidade e comunicação.
+Bibliografia Básica
+
+
+
+
+GREBE, S. Hands-On Full-Stack Web Development with GraphQL and React: Build scalable full-stack
+applications while learning to solve complex problems with GraphQL. Birmingham, Inglaterra: Pack
+Publishing, 2019.
+KRUMM, J. Ubiquitous Computing Fundamentals. 1. ed., Chapman & Hall/CRC, 2009.
+NORTHWOOD, Chris. The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected
+of a Modern Full Stack Web Developer. Manchester, Inglaterra: Apress, 2018.
+
+Bibliografia Complementar
+
+
+
+
+
+
+APPLE. Apple Developer (https://developer.apple.com), acessado em Junho de 2016.
+GARDNER, D.; GRIGSBY, J. Head First Mobile Web. O’Reilly. 2011.
+GOOGLE. Android Developers (https://developer.android.com/), acessado em Junho de 2016.
+GUBBI, J.; BUYYA, R.; MARUSIC,

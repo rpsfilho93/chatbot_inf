@@ -1,0 +1,206 @@
+– CEPEC Nº 1023
+
+MATRIZ CURRICULAR DO CURSO DE GRADUAÇÃO
+EM SISTEMAS DE INFORMAÇÃO
+CHS
+DISCIPLINA
+
+Aplicações Distribuídas
+Arquitetura de Computadores
+Arquitetura de Software
+Auditoria de Sistemas
+Banco de Dados 1
+Banco de Dados 2
+Comunicação Empresarial
+Construção de Software
+Direito
+Empreendedorismo
+Engenharia de Requisitos
+Engenharia de Software
+Estruturas de Dados
+Ética, Computador e Sociedade
+Fundamentos em Contabilidade
+Gerência de Projetos 1
+Gerência de Projetos 2
+Gestão de Pessoas
+Gestão em Tecnologia da Informação
+Interação Homem-Computador
+Introdução à Programação
+Introdução aos Sistemas de
+Informação
+Lógica
+Manutenção de Software
+Matemática Discreta
+Matemática Financeira
+Projeto Final de Curso 1
+Projeto Final de Curso 2
+Planejamento Estratégico
+Programação Imperativa
+Programação Orientada a Objetos
+Programação para Web
+Projetos de Software
+Qualidade de Software
+Redes de Computadores
+Segurança em Sistemas de Informação
+Sistemas Operacionais
+Teoria Geral da Administração
+Linguagem Brasileira de Sinais
+- Libras
+
+Carga Horária Total (NC +NE)
+
+CHT
+
+TEO
+
+PRA
+
+PRÉREQUI
+SITOS
+
+NATU
+REZA
+
+NÚCL
+EO
+
+UNIDADE
+RESPONSÁVEL
+
+-
+
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+
+NE
+NC
+NC
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NC
+NC
+NC
+NC
+NE
+NE
+NE
+NE
+NE
+NE
+NC
+NE
+
+INF
+INF
+INF
+INF
+INF
+INF
+FACOMB
+INF
+FD
+INF
+INF
+INF
+INF
+INF
+EA
+INF
+INF
+FACE
+INF
+INF
+INF
+INF
+
+-
+
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OBR
+OPT
+OPT
+
+NC
+NC
+NC
+NE
+NE
+NE
+NE
+NC
+NC
+NC
+NC
+NC
+NE
+NE
+NC
+NE
+NE
+NE
+NE
+NE
+
+INF
+INF
+INF
+IME
+INF
+INF
+FACE
+INF
+INF
+INF
+INF
+INF
+INF
+INF
+INF
+FACE
+INF
+INF
+INF
+FL
+
+ANEXO II DA

@@ -1,0 +1,36 @@
+fontes de dados. Processamento de consultas. Similaridade
+textual. Pareamento e mapeamento de esquemas. Identificação e eliminação de dados
+duplicados. Tópicos emergentes em integração de dados.
+
+INTRODUÇÃO À LÍNGUA BRASILEIRA DE SINAIS
+
+Ementa
+Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares. Concepções sobre a Língua de Sinais.
+
+Ementa
+
+UF
+G
+
+INTRODUÇÃO À TEORIA DAS PROVAS
+
+pe
+las
+
+O surdo e a sociedade.
+
+Provas como objetos matemáticos e o programa de Hilbert. Estrutura geral de provas
+
+da
+
+matemáticas. Teorias de tipos simples. Sistemas de deduçao natural. Sistemas de dedução de Hilbert. Relações entre lógicas clássica, intuicionista e minimal. Sistemas de
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+dedução à la Gentzen (cálculo de sequentes). Equivalência

@@ -1,0 +1,339 @@
+Orientada a Objetos
+
+Introdução à Programação
+
+OBR
+
+NC
+
+INF
+
+Sistemas Operacionais
+
+-
+
+OBR
+
+NC
+
+INF
+
+Carga Horária do Período: 320
+
+Disciplina
+
+CHS
+
+CHT
+
+Pré-requisito(s)
+
+TEO PRA
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+
+NE
+
+INF
+
+Banco de Dados 1
+
+OBR
+
+Ética, Computador e Sociedade
+
+OBR
+
+NC
+
+INF
+
+Planejamento Estratégico
+
+OBR
+
+NE
+
+FACE
+
+Programação para Web
+
+OBR
+
+NC
+
+INF
+
+Projeto de Software
+
+OBR
+
+NC
+
+INF
+
+Pré-requisito(s)
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+
+Banco de Dados I
+
+Prog. Orientada a Objetos
+
+Carga Horária do Período: 320
+
+Disciplina
+
+CHS
+
+CHT
+
+TEO PRA
+Banco de Dados 2
+
+OBR
+
+NE
+
+INF
+
+Construção de Software
+
+OBR
+
+NE
+
+INF
+
+Gerência de Projetos 1
+
+OBR
+
+NE
+
+INF
+
+Qualidade de Software
+
+OBR
+
+NC
+
+INF
+
+Redes de Computadores
+
+OBR
+
+NE
+
+INF
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+
+Carga Horária do Período: 320
+
+Disciplina
+
+CHS
+CHT
+
+Pré-requisito(s)
+
+TEO PRA
+
+Aplicações Distribuídas
+
+OBR
+
+NE
+
+INF
+
+Auditoria de Sistemas
+
+OBR
+
+NE
+
+INF
+
+OBR
+
+NE
+
+INF
+
+OBR
+
+NC
+
+INF
+
+OBR
+
+NE
+
+INF
+
+Gerência de Projetos 2
+Arquitetura de Software
+Gestão em Tecnologia da Informação
+
+Gerência de Projetos I
+Planejamento Estratégico
+
+Carga Horária do Período: 320
+
+Disciplina
+
+CHS
+
+CHT
+
+Pré-requisito(s)
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+
+Planejamento Estratégico
+
+OBR
+
+NE
+
+INF
+
+TEO PRA
+Empreendedorismo
+
+Comunicação Empresarial
+
+OBR
+
+NE
+
+FACOMB
+
+Interação Homem-Computador
+
+OBR
+
+NE
+
+INF
+
+OBR
+
+NE
+
+INF
+
+Segurança em Sistemas de Informação
+
+OBR
+
+NE
+
+INF
+
+OBR
+
+NE
+
+INF
+
+Natureza
+
+Núcleo
+
+Unidade
+Responsável
+
+OBR
+
+NE
+
+FD
+
+Carga Horária do Período: 352
+
+Disciplina
+
+CHS
+
+CHT
+
+Pré-requisito(s)
+
+TEO PRA
+Direito
+
+Gestão de Pessoas
+
+Manutenção de Software
+
+Linguagem Brasileira de Sinais - Libras
+
+OBR
+
+NE
+
+FACE
+
+Engenharia de Software
+
+OBR
+
+NC
+
+INF
+
+OBR
+
+NE
+
+INF
+
+OBR
+
+NE
+
+INF
+
+OPT
+
+NE
+
+INF
+
+OPT
+
+NC
+
+FL
+
+Carga Horária do Período: 352
+
+Disciplinas
+Núcleo Comum (NC)
+Núcleo

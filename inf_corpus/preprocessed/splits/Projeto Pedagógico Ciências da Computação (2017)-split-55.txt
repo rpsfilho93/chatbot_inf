@@ -1,0 +1,42 @@
+paralela e perspectiva.
+Recorte e seleção bi-dimensional. Curvas e Superfícies. Representação e Modelagem;
+
+Modelos de cor. Visualização tridimensional: iluminação, eliminação de linhas superfícies escondidas, modelos de tonalização (“shading”). Aplicação de texturas. Animação. Noções de processamento digital de imagens.
+
+UF
+G
+
+COMPUTAÇÃO PARALELA
+
+Ementa
+
+pe
+las
+
+Fundamentos da computação paralela. Classificação de computadores. Métricas de
+avaliação de desempenho de programas paralelos. Projeto e análise de algoritmos para-
+
+ELETRÔNICA PARA COMPUTAÇÃO
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+memória distribuída.
+
+da
+
+lelos. Programação paralela com memória compartilhada. Programação paralela com
+
+Elementos de circuitos elétricos. Grandezas de corrente e tensão elétrica. Leis de Kirchhoff. Métodos de análise de circuitos resistivos. Teoremas de circuitos. Capacitor
+
+Av
+a
+
+e indutor como elemento de circuito. Análise de circuitos elétricos em regime

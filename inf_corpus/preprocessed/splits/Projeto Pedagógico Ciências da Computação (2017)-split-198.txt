@@ -1,0 +1,46 @@
+S. Redes Neurais: Princípios e Prática. 2. ed. Bookman, 2001.
+
+Abordagem de Aprendizado de Máquina, LTC, 2011.
+
+da
+
+1. FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. P. L. F. Inteligência Artificial: Uma
+
+Kaufmann Publishers, 2011.
+
+çã
+o
+
+2. HAN, J.; KAMBER, M.; PEI, J. Data Mining: Concepts and Techniques, 3rd ed. Morgan
+
+ore
+s
+
+3. WITTEN, I. H.; FRANK, E.; HALL, M. A. Data Mining: Practical Machine Learning Tools
+and Techniques. 3rd ed. Morgan Kaufmann Publishers, 2011.
+
+4. TAN, P-N.; STENBACH, M.; KUMAR, V. Introduction to Data Mining. Addison-Wesley,
+
+lia
+
+2005.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. ALPAYDIN, E. Introduction to Machine Learning. MIT Press, 2004.
+
+Disciplina: Segurança e Auditoria de Sistemas
+Bibliografia Básica
+1. IMONIANA, JOSHUA O.. Auditoria de Sistemas

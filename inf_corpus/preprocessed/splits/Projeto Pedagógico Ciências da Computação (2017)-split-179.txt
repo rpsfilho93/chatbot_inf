@@ -1,0 +1,58 @@
+3.2.2. San Diego, CA, USA: International Council on Systems Engineering
+
+UF
+
+pe
+las
+
+(INCOSE), INCOSE-TP-2003-002-03.2.2, 2012.
+
+Boston: Addison Wesley, 2001.
+
+Bibliografia Complementar
+
+da
+
+3. WIDRIG, D.; LEFFINGWELL, D, Managing Software Requirements: a Unified Approach.
+
+1. MADACHY, R. J. Systems Engineering Principles for Software Engineers. 1a. ed. CRC Press,
+
+çã
+o
+
+2016.
+
+nica, 1968.
+
+ore
+s
+
+2. WILSON, W. E. Conceptos sobre Ingenieria. Buenos Aires. Centro Regional de Ayuda Tec-
+
+3. SILVA FILHO, B. S.; NISE, N. S. Engenharia de Sistemas de Controle, 3 ed. LTC, 2002.
+
+1992.
+
+eri
+
+lia
+
+4. MAFFEO, B. Engenharia de Software e Especificação de Sistemas. Rio de Janeiro: Campus,
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. NASCIMENTO, J. B. Metodologias de Desenvolvimento de Sistemas. São Paulo: Erica, 1993.
+
+Disciplina: Engenharia de Software Baseada em Busca
+Bibliografia

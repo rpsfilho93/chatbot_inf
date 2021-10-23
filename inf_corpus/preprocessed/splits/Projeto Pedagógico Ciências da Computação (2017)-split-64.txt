@@ -1,0 +1,35 @@
+consumo energético. Algoritmos e protocolos energeticamente eficientes. Tópicos e pesquisas emergentes em computação verde. Estudo de
+
+Su
+p
+
+Av
+a
+
+caso através de simulação e ambiente real.
+
+Ementa
+
+Em
+
+DESENVOLVIMENTO DE SISTEMAS PARA WEB
+
+Abordagens, técnicas, tecnologias e ferramentas para desenvolvimento de sistemas de
+
+Câ
+ma
+
+de sistemas.
+
+ras
+
+informação para web tendo em consideração todo o ciclo de vida do desenvolvimento
+
+DESENVOLVIMENTO DE SOFTWARE DIRIGIDO POR MODELOS
+
+Ementa
+
+Apresentar os conceitos fundamentais relacionados ao desenvolvimento de software
+dirigido por modelos (DSDM), incluindo abstração, modelagem, meta-modelagem, geração automática de código por meio de transformações, transformações modelo-para30
+
+modelo, transformações modelo-para-texto, transformações texto-para-texto, gramáticas e árvores de sintaxe abstrata, técnicas e ferramentas de apoio às atividades fundamentais do método de DSDM,

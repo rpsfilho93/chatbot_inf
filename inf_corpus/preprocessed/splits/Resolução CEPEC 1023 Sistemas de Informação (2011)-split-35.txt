@@ -1,0 +1,34 @@
+Específico (NE) - Obrigatória
+Núcleo Específico (NE) - Optativa
+Núcleo Livre (NL)
+Atividades complementares
+Carga Horária Total
+
+Horas
+
+Porcentagem
+
+Legenda
+CHT
+CHS
+TEO
+PRA
+
+Carga horária total
+Carga horária semanal
+Carga didática teórica
+Carga didática Prática
+
+NC
+NE
+NL
+OBR
+OPT
+
+...
+
+Disciplina do Núcleo Comum
+Disciplina do Núcleo Específico
+Disciplina do Núcleo Livre
+Disciplina Obrigatória
+Disciplina Optativa

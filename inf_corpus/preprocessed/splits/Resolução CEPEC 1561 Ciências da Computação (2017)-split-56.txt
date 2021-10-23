@@ -1,0 +1,13 @@
+da Programaçaõ de Computadores . 3. ed. Editora
+Pearson, 2010.
+SCHILDT, H. C Completo e Total. 3a Ed. São Paulo: Makron Books, 1996.
+Bibliografia Complementar:
+FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+FARRER, H. et al. Programação Estruturada de Computadores -Algoritmos Estruturados. 3. ed. Rio de Janeiro:
+LTC, 1989.
+SEDGEWICK, R. Algorithms in C. 3.ed. Reading, Mss: Addison-Wesley, 1998. ISBN 0201314525.
+SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, São Paulo: Makron Books,1998.
+CORMEN, T. H et al., Algoritmos: Teoria e Prática. 2. ed. Rio de Janeiro: Editora Campus, 2002.
+LINGUAGENS E PARADIGMAS DE PROGRAMAÇÃO
+Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional,
+lógico, orientado

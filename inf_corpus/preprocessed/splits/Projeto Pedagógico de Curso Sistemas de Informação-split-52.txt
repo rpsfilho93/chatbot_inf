@@ -1,0 +1,19 @@
+ed., Rio de Janeiro: LTC, 2001.
+ISBN: 8521612915.
+PATTERSON, D. A.; HENNESSY, J. L. Computer Organization and Design: The Hardware/Software
+Interface, 3. ed., Morgan Kaufmann, 2007.
+STALLINGS, W. Computer Organization and Architecture: Designing for Performance, 10. ed.,
+Prentice-Hall, Inc., Upper Saddle River, NJ, USA. 2010.
+WEBER, R. F. Fundamentos de Arquiteturas de Computadores, 2. ed., Editora Sagra-Luzzatto, 2001.
+
+BANCO DE DADOS
+Ementa
+Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco de Dados: álgebra
+relacional, cálculo relacional e SQL. Modelo Entidade-Relacionamento e extensões. Mapeamento ERrelacional. Normalização.
+Bibliografia Básica
+
+
+
+
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed., Pearson - Addison Wesley, 2011.
+HEUSER, C. A. Projeto de Banco

@@ -1,0 +1,10 @@
+Comunicaçao e Computadores: abordagem quantitativa. Florianópolis: Visual Books, 2010.
+BEHROUZ F. A. Data Communications and Networking, 5th ed. McGraw-Hill Education, 2012.
+DAY, J. Patterns in Network Architecture: A Return to Fundamentals. 1st ed. Pearson, 2008.
+TORRES, G. - Redes de Computadores : curso completo. Rio de janeiro: Axcel Books, 2001.
+SOARES, L .F .G. Redes de Computadores: das LANS, MANS e WANS as Redes ATM. 2ed. rev. e ampl. Rio
+de Janeiro: Campus, 1995.
+SISTEMAS DISTRIBUÍDOS:
+Conceitos fundamentais de sistemas distribuídos, caracterização de sistemas de computação distribuída e
+aplicações distribuídas (características e aspectos de projeto). Objetivos básicos de sistemas distribuídos
+(transparência, abertura, escalabilidade, etc). Princípios e aplicações dos principais

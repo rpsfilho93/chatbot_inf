@@ -1,0 +1,13 @@
+em
+jogos. Aplicação de técnicas de apresentação dos jogos. Deploy de jogos em plataformas. Noções de Mercado e
+tendências tecnológicas para jogos.
+Bibliografia Básica:
+MARTINHO, C.; SANTOS, P.; PRADA, R. Design e Desenvolvimento de Jogos. 1.ed. Lisboa: FCA - Editora
+de Informática, 2014.
+SCHELL, J. The Art of Game Design: A book of lenses. Nova Iorque: CRC Press, 2008.
+SCHUYTEMA. P. Design de Games - Uma Abordagem Prática. 1. ed. Cengage CTP, 2008.
+Bibliografia Complementar:
+LIMA, A. Design de personagens para games Next-Gen. Rio de Janeiro: Ed. Ciência Moderna, 2011.
+FEIJÓ, B.; CLUA, E.; SILVA, F. Introdução à Ciência da Computação com Jogos. Rio de Ja- neiro: Ed. Campus,
+2009.
+PERUCIA, A.

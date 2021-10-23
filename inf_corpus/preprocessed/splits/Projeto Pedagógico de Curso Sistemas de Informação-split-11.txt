@@ -1,0 +1,11 @@
+forma intensa no sentido de
+investigar as Diretrizes Curriculares Nacionais (DCN) para cursos de Computação, os
+Currículos de Referência para o curso de BSI da Sociedade Brasileira de Computação (SBC)
+
+e da Association for Computing Machinery (ACM), os PPCs de cursos de BSI com Conceito
+Preliminar de Curso (CPC) máximo, bem como os conteúdos cobrados no Exame Nacional
+de Desempenho de Estudantes (ENADE) para BSI.
+Como resultado, foi constatada a deficiência do PPC de BSI e a sua urgente
+necessidade de reformulação de determinados conteúdos. Dentre as principais necessidades
+de mudanças identificadas pelo NDE de BSI, sobressaem-se:
+a) maior compatibilidade entre os conteúdos curriculares do PPC de 2009 com

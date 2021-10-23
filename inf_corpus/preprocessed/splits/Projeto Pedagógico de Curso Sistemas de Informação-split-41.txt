@@ -1,0 +1,91 @@
+Probabilidade e Estatística A
+
+INF
+INF
+INF
+INF
+IME
+
+10. Algoritmos e Estruturas de Dados 2
+11. Arquitetura de Computadores
+12. Banco de Dados
+13. Engenharia de Sistemas de Informação 1
+14. Programação Orientada a Objetos
+
+INF
+INF
+INF
+INF
+INF
+
+15. Álgebra Linear
+16. Análise e Projeto de Algoritmos
+17. Banco de Dados 2
+18. Engenharia de Software
+19. Sistemas Operacionais
+
+IME
+INF
+INF
+INF
+INF
+
+CH SEMESTRAL
+TEO.
+PRÁ.
+
+CHT
+
+NÚCLEO
+
+NATUREZA
+
+NC
+NC
+NC
+NC
+
+OBR
+OBR
+OBR
+OBR
+
+NC
+NE
+NC
+NE
+NC
+
+OBR
+OBR
+OBR
+OBR
+OBR
+
+NC
+NC
+NC
+NE
+NC
+
+OBR
+OBR
+OBR
+OBR
+OBR
+
+NC
+NC
+NE
+NC
+NE
+
+OBR
+OBR
+OBR
+OBR
+OBR
+
+Seguem algumas observações sobre as disciplinas obrigatórias e optativas deste curso: a coluna UNIDADE RESPONS. Descreve a unidade acadêmica da UFG responsável
+pela oferta de uma disciplina; a coluna NÚCLEO indica se uma disciplina é de formação básica, denominada Núcleo Comum (NC), ou se é de formação específica em Sistemas
+de Informação, denominada Núcleo Específico (NE); e a coluna NATUREZA

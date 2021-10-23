@@ -1,0 +1,118 @@
+determina se uma disciplina é de caráter obrigatório (OBR) ou optativo (OPT).
+
+DISCIPLINA
+
+20. Engenharia de Requisitos
+21. Sistemas Inteligentes de Apoio à Decisão
+22. Introdução à Administração de Empresas
+23. Pesquisa Operacional
+24. Redes de Computadores
+
+UNIDADE
+RESPONS.
+
+INF
+INF
+FACE
+INF
+INF
+
+PRÉ-REQ. (PR)
+/ CO-REQ. (CR)
+
+CH SEMESTRAL
+TEO.
+PRÁ.
+
+CHT
+
+NÚCLEO
+
+NATUREZA
+
+NE
+NE
+NE
+NE
+NE
+
+OBR
+OBR
+OBR
+OBR
+OBR
+
+25. Gestão de Sistemas e de TI
+26. Engenharia de Sistemas de Informação 2
+27. Linguagens e Paradigmas de Programação
+28. Projeto de Software
+29. Sistemas Distribuídos
+
+INF
+INF
+INF
+INF
+INF
+
+NE
+NE
+NC
+NC
+NE
+
+OBR
+OBR
+OBR
+OBR
+OBR
+
+30. Governança Corporativa e de TI
+31. Gerenciamento de Processos e Serviços em SI
+32. Desenvolvimento Full stack
+33. Interação Humano-Computador
+34. Disciplina de Núcleo Livre
+
+INF
+INF
+INF
+INF
+INF
+
+NE
+NE
+NE
+NC
+NL
+
+OBR
+OBR
+OBR
+OBR
+
+35. Gestão de Segurança da Informação
+36. Empreendedorismo Digital
+37. Disciplina de Núcleo Livre
+40. Residência Técnica em Sistemas de Informação
+
+INF
+INF
+INF
+INF
+INF
+INF
+
+NE
+NE
+NL
+NE
+NE
+NE
+
+OBR
+OBR
+
+OPT
+OPT
+OBR
+
+Os discentes deverão cursar 2 (duas)

@@ -1,0 +1,47 @@
+Defined Radio. 1st ed. Springer, 2013.
+
+Bibliografia Básica
+
+Su
+p
+
+Disciplina: Tópicos em Computação
+
+Em
+
+• A bibliografia deve ser definida de acordo com o tema a ser ministrado.
+
+Bibliografia Complementar
+
+Câ
+
+ma
+ras
+
+• A bibliografia deve ser definida de acordo com o tema a ser ministrado.
+
+Disciplina: Tópicos em Teste de Software
+Bibliografia Básica
+1. MYERS, G. J. The Art of Software Testing. Wiley, 2011.
+2. DELAMARO, M. E.; Maldonado, J. C.; JINO, M. Introdução ao Teste de Software. Campus,
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. COPELAND, L. A Practitioner’s Guide to Software Test Design. Artech House, 2003.
+
+G
+
+2007.
+
+1. PEZZÈ, M., YOUNG, M. Teste e análise de software : processos, princípios e técnicas. Bookman, 2008.
+
+ley, 1999.
+
+da
+
+2. BINDER, R. V.

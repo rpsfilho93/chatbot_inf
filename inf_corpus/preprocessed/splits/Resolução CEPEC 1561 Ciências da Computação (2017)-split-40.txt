@@ -1,0 +1,12 @@
+representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores
+balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps, Heapsort. Hashing: tipos de funções de hashing;
+tratamento de colisões. Definições de Grafos. Estruturas de Dados para representação de grafos. Algoritmos
+básicos em grafos.
+Bibliografia Básica:
+TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados Usando C. São Paulo: Makron
+Books, 1995.
+SZWARCFITER, J. L.; Markenzon, L. Estruturas de Dados e seus Algoritmos. 2a ediçaõ . LTC, 1994.
+FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+Bibliografia Complementar:
+CORMEN, T. et al. Algoritmos: Teoria e Prática .2a ediçaõ , Rio de Janeiro: Editora Campus, 2002.
+ZIVIANI, N. Projeto de Algoritmos

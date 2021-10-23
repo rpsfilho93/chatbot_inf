@@ -1,0 +1,39 @@
+e matrizes. Espaços vetoriais. Transformações lineares. Autovalores
+
+ras
+
+e autovetores. Espaços com produto interno.
+
+Ementa
+
+Câ
+ma
+
+ALGORITMOS E ESTRUTURAS DE DADOS 1
+
+Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de
+pesquisa: pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de
+dados. Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares).
+Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simples17
+
+mente encadeadas, duplamente encadeadas e circulares).
+
+ALGORITMOS E ESTRUTURAS DE DADOS 2
+
+Ementa
+
+UF
+G
+
+Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps,
+
+pe
+las
+
+Heapsort. Hashing: tipos de funções de hashing; tratamento de colisões. Definições
+
+lia
+çã
+o
+
+ANÁLISE E

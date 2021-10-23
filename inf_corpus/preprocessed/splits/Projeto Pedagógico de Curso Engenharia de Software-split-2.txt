@@ -1,0 +1,257 @@
+horária
+
+Componentes curriculares
+
+CARGA HORÁRIA TOTAL (CHT)
+
+CHT
+
+Percentual
+
+Fluxo sugerido
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+Pré-requisitos
+
+Disciplinas de formação básica (obrigatórias)
+Computação e Sociedade
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+Introdução à Programação
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+ã
+
+n
+
+n
+õ
+
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+IME
+
+Nenhum
+
+Sim
+
+Ementa
+
+Fundamentos de Matemática para Computação
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Arquitetura de Computadores
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+INF
+
+Sim
+
+Fundamentos de Matemática para Computação
+
+Ementa
+
+Algoritmos e Estruturas de Dados 1
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Introdução à Programação
+
+Sim
+
+Ementa
+
+Probabilidade e Estatística A
+Núcleo
+
+TEO PRA
+
+TOTAL

@@ -1,0 +1,25 @@
+de Inteligência de negócios. Data mining
+e visualização de dados. Data warehousing. Análise Inteligente de Dados.
+Bibliografia Básica
+
+
+
+
+CHOO, C. W. A organização do conhecimento: como as organizações usam a informação para criar
+significado, construir conhecimento e tomar decisões. 2. ed. São Paulo: Ed. SENAC, 2006.
+JOHNSON, J. D. Gestão de redes de conhecimento. São Paulo: Ed. SENAC, 2009.
+VERCELLIS, C. Business intelligence: data mining and optimization for decision making. Chichester,
+U.K.: Wiley, 2009, 417p.
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+BIGUS, J. P. Data mining with neural networks: solving business problems from application
+development to decision support. New York: McGraw-Hill, 1996, 220 p.
+CARVALHO, L. A. V. Datamining: a mineração de dados no marketing,

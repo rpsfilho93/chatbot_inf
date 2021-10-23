@@ -1,0 +1,303 @@
+Orientada a Objetos
+
+Sim
+
+Disciplinas optativas
+
+Sistemas Operacionais
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Arquitetura de Computadores
+
+Não
+
+Ementa
+
+Pesquisa Operacional
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Álgebra Linear
+
+Não
+
+Ementa
+
+Linguagens Formais e Autômatos
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NE
+
+Ementa
+
+INF
+
+Não
+
+Fundamentos
+Computação
+
+de
+
+Matemática
+
+para
+
+Redes de computadores
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Sistemas Operacionais
+
+Não
+
+Ementa
+
+Introdução à Língua Brasileira de Sinais
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+Unidade
+
+Obrigatória
+
+LETRAS Não
+
+Pré-requisito:
+
+Nenhum
+
+Ementa
+
+Compiladores
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Linguagens Formais e Autômatos
+Algoritmos e Estruturas de Dados 2
+
+Não
+
+Sistemas Distribuídos
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Programação Orientada a Objetos
+
+Não
+
+Disciplinas específicas de Engenharia de Software
+
+Condições mínimas
+
+
+
+
+
+
+
+Construção de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Nenhum
+
+Sim
+
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modelagem de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+Processos de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+Engenharia de Sistemas
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+Design de Software
+Núcleo
+
+TEO PRA
+
+TOTAL

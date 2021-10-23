@@ -1,0 +1,14 @@
+DAREZZO FILHO, A. Cálculo Numérico. São Paulo: Thomson Lear- ning, 2008.
+BURDEN, R. L.; FAIRES, J. D. Análise Numérica.São Paulo: Cengage Learning, 2003.
+BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.
+KINCAID, D.; WARD, C. Numerical Analysis:mathematics of scientific computing. Brooks/Cole-Thomson
+Learning, 1991.
+SPERENDIO, D.; MENDES, J. A. T. S. L. H. M. Clculo Numérico : características matemáticas e
+computacionais dos métodos numéricos. São Paulo: Prentice Hall, 2003.
+
+CIRCUITOS DIGITAIS:
+Álgebra booleana e portas lógicas. Introdução a Circuitos Combinacionais, Circuitos Seqüenciais e Famílias
+Lógicas de Circuitos Integrados. Técnicas de minimização e síntese de Circuitos Combinacionais e Circuitos
+Seqüenciais. Conversores Analógico-Digitais e Digitais-Analógicos. Dispositivos de memória.
+Bibliografia Básica:
+TOCCI,

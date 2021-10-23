@@ -1,0 +1,15 @@
+sistemas. Deve ter consciência das
+limitações da computabilidade e ter conhecimento sobre complexidade de
+algoritmos para analisar soluções de problemas tratáveis computacionalmente;
+ conhecer a estrutura dos sistemas de Computação e os processos envolvidos na
+sua construção e análise;
+ possuir visão crítica e inovadora sobre soluções, métodos e sistemas
+computacionais;
+
+ possuir a capacidade de criar soluções para problemas complexos e
+multidisciplinares;
+ ser criativo e inovador com respeito às oportunidades de negócio;
+ ser capaz de se comunicar e desenvolver trabalhos em grupo;
+ ter uma visão humanística e consistente sobre o impacto de sua atuação
+profissional na sociedade. O egresso deve refletir sobre a construção de sistemas
+de Computação e

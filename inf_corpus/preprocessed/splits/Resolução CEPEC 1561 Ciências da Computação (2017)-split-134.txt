@@ -1,0 +1,10 @@
+1984.
+SOUZA, D. J. Desbravando o PIC: ampliado e atualizado para PIC 16F628A. 6. ed. São Paulo: Érica, 2003. 268
+p. ISBN 8571948674.
+ZELENOVSKY, R. Microcontroladores: programação e projeto com a família 8051, Editora MZ, 2005.
+PEREIRA, F. Microcontroladores MSP430: Teoria e Prática, Editora É rica, 2005.
+TITUS, J. A. et al. Microcomputer, analog converter software and hardware interfacing.Howard W. Sams & Co., 1979.
+PROCESSAMENTO DIGITAL DE IMAGENS:
+Origem e Objetivos do processamento de imagens. Fundamentos de visão computacional e seu relacionamento
+com a visão humana. Dispositivos e formas de aquisição de imagens. Amostragem e Quantização. Sistemas de
+cores. Técnicas de modificação de escala de cinza. Suavização. Aguçamento de

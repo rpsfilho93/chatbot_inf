@@ -1,0 +1,55 @@
+de
+
+ore
+s
+
+Jogos Eletrônicos – Teoria e Prática. 2. ed. São Paulo: Ed. Novatec, 2007.
+
+4. VASCONCELOS, J. B.; RIBEIRO, N. M. Tecnologias de Programação de Jogos. 1. ed. Lisboa:
+FCA - Editora de Informática, 2013.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+1996.
+
+eri
+
+lia
+
+5. HUIZINGA, J. Homo ludens: O jogo como elemento da cultura. São Paulo: Perspectiva,
+
+Disciplina: Meta-heurísticas
+Bibliografia Básica
+1. GLOVER, F.; KOCHENBERGER, G. A Handbook of metaheuristics Boston: Kluwer Academic Publishers, 2003. 556 p. (International series in operations research & management science).
+
+G
+
+2. TALBI, E-G. Metaheuristics from design to implementation Hoboken, N.J.: John Wiley &
+
+UF
+
+pe
+las
+
+Sons, 2009.
+
+Berlin, 2006.
+
+Bibliografia Complementar
+
+da
+
+3. DRÉO, J. Metaheuristics for hard optimization: methods and case studies Berlin: Springer
+
+1. CHENG, R.; GEN,

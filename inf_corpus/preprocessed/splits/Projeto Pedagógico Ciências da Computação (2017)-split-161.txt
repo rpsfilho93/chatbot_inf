@@ -1,0 +1,49 @@
+Algorithms. Morgan Kaufmann, 1997. (The Morgan Kaufmann series in data management systems).
+
+Systems. Cambridge University Press, 2008.
+
+eri
+
+lia
+
+4. KSHEMKALYANI, D.; SINGHAL, M. Distributed Computing Principles, Algorithms, and
+
+Av
+a
+
+5. LININGTON, P.; MILOSEVIC, Z.; TANAKA, A.; VALLECILLO, A. Building Enterprise Sys-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+tems with ODP. Chapman & Hall/CRC Press, 2011.
+
+Disciplina: Sistemas Gerenciadores de Bancos de Dados
+Bibliografia Básica
+1. ELMASRI, R.; NAVATHE, S.B. Sistemas de Banco de Dados. 6. ed. Pearson - Addison Wesley,
+2015.
+2. GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete
+
+G
+
+Book. 2. ed. Prentice Hall, 2009.
+
+de Janeiro: Campus, 2006.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. Sistema de Banco de Dados. 5. ed. Rio
+
+ção

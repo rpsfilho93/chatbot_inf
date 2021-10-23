@@ -1,0 +1,17 @@
+Publications, 2004.
+
+GESTÃO DE SISTEMAS E DE TI
+Ementa
+Fundamentos de gestão. Entendendo a organização de TI. Processos de gestão de tecnologia da
+informação. Modelos e tecnologias de gestão. Gestão estratégica de tecnologia da informação. Gestão
+de sistemas de produção e operações de TI. Análise de negócio. Modelos e padrões de referência em
+gerenciamento de serviços de TI. Método de implementação do gerenciamento de serviços de TI.
+Gerenciamento do ciclo de vida de serviços de TI. Gerenciamento de projetos no contexto de TI.
+Projeto e desenvolvimento de serviços de TI.
+Bibliografia Básica
+
+
+
+
+FERNANDES, A. A. Implantando a governança de TI: da estratégia à gestão dos processos e serviços.
+3. ed., Rio

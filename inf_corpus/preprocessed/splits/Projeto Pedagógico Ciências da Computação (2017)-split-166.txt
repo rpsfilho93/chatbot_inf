@@ -1,0 +1,56 @@
+de Máquina. LTC, 2011.
+
+UF
+
+pe
+las
+
+Kaufmann Publishers, 2011.
+
+G
+
+2. HAN, J.; KAMBER, M.; PEI, J. Data Mining: Concepts and Techniques. 3rd ed. Morgan
+
+3. WITTEN, I. H.; FRANK, E.; HALL, M. A. Data Mining: Practical Machine Learning Tools
+
+Bibliografia Complementar
+
+da
+
+and Techniques. 3rd ed. Morgan Kaufmann Publishers, 2011.
+
+1. TAN, Pang-Ning; STENBACH M.; KUMAR, V. Introduction to Data Mining. Addison-
+
+çã
+o
+
+3. MITCHELL, T. Machine Learning. McGraw Hill, 1997.
+
+ore
+s
+
+2. ALPAYDIN, E. Introduction to Machine Learning. MIT Press, 2004.
+
+lia
+
+4. BISHOP, C. M. Pattern Recognition and Machine Learning, Springer, 2006.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. RUSSELL, S; NORVIG P. Inteligência Artificial. 3. ed. Campus, 2013.
+
+Disciplina: Armazém de Dados
+Bibliografia Básica
+1. KIMBALL, R.; ROSS, M.: The Data Warehouse

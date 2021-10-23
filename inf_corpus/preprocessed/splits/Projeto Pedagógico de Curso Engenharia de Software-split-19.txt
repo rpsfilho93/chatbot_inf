@@ -1,0 +1,222 @@
+de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Design de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Governança e Gestão de Serviços de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Arquitetura de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Requisitos de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Experiência do Usuário de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Software Concorrente e Distribuído
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Padrões de Arquitetura de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Teste de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Software para Sistemas Ubíquos
+Bibliografia básica
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Software para Persistência de Dados
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Prática em Engenharia de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+

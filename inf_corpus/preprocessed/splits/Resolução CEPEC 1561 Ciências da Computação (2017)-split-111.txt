@@ -1,0 +1,14 @@
+para web
+tendo em consideração todo o ciclo de vida do desenvolvimento de sistemas.
+
+Bibliografia Básica:
+LAUDON, K. C; LAUDON, J. P. Sistemas de informaçaõ gerenciais : administrando a empresa digital . 9. ed.,
+São Paulo: Pearson Prentice-Hall, 2010.
+MATTOS, A. C. M. Sistemas de informaçaõ : uma visaõ executiva. 2.ed., SãoPaulo: Saraiva, 2010.
+PRESSMAN, R. S. Software engineering: a practitioner’s approach. 7. ed., McGraw-Hill, 2010.
+Bibliografia Complementar:
+BATISTA, E. O. Sistemas de Informaçaõ : o uso consciente da tecnologia para o gerenciamento. 1. ed., São
+Paulo: Saraiva, 2006.
+Software Engineering Body of Knowledge (SWEBOK), Version 3.0, IEEE Computer Society , 2014. Disponível
+on-line em: http://www.computer.org/web/swebok/v3.
+ELMASRI, R.; NAVATHE, S. B. Sistemas

@@ -1,0 +1,25 @@
+Hashing: tipos de
+funções de hashing; tratamento de colisões. Definições de Grafos. Estruturas de Dados para
+representação de grafos. Algoritmos básicos em grafos.
+Bibliografia Básica
+
+
+
+
+FEOFILOFF, P., Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+SZWARCFITER, J. L.; MARKENZON, L. Estruturas de Dados e seus Algoritmos. 2. ed., Rio de
+Janeiro: LTC, 1994.
+TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M., Estruturas de Dados Usando C, São Paulo:
+Makron Books, 1995.
+
+Bibliografia Complementar
+
+
+
+
+
+
+CORMEN, T. H. et al. Algoritmos: Teoria e Prática. 2. ed., Rio de Janeiro: Editora Campus, 2002.
+SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, São Paulo: Makron Books, 1998.
+SEDGEWICK, R. Algorithms in C++ (Parts 1-4), 3. ed., Addison-Wesley, 1998.
+ZIVIANI N.

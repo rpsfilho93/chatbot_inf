@@ -1,0 +1,59 @@
+em Aprendizado de Máquina e Mineração de Dados. Preparação de
+
+ARMAZÉM DE DADOS
+
+Ementa
+
+UF
+G
+
+pe
+las
+
+dados. Modelos preditivos. Modelos descritivos. Avaliação de modelos.
+
+lia
+çã
+o
+
+Estudos de Caso. Consultas. Implementação.
+
+da
+
+Conceitos básicos em Data Warehouse. Arquitetura. Projeto conceitual. Projeto lógico.
+
+Ementa
+
+eri
+ore
+s
+
+AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS
+
+Pilares da avaliação de desempenho. Modelagem analítica. Medições. Simulação. Conceitos básicos de desempenho. Leis Operacionais de desempenho. Redes de filas aber-
+
+Av
+a
+
+tas e fechadas e suas soluções. Planejamento de capacidade. Noções de Teoria de Filas.
+
+Ementa
+
+Em
+
+BANCO DE DADOS DISTRIBUÍDOS
+
+Su
+p
+
+Aplicação em sistemas de computação e comunicação.
+
+ras
+
+Conceitos básicos em banco de dados distribuídos. Arquitetura. Projeto de banco de
+dados distribuído. Processamento de consultas distribuídas. Processamento de tran-
+
+Câ
+ma
+
+sações distribuídas. Replicação

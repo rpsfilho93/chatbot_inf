@@ -1,0 +1,12 @@
+de sistemas: conceituação, planejamento, controle interno, ponto de
+controle, produtos gerados, função do auditor e técnicas de auditoria de sistemas. Gerência de
+projetos: conceituação de projeto, modelo pmi, gerência da qualidade, proposta, ciclo de vida,
+estrutura organizacional, atuação do gerente de projeto, gerência de escopo, tempo e custo,
+ferramentas de gerencia de projeto e estimativas.
+5. Banco de Dados 1
+Ementa: Sistemas de bancos de dados. Projeto de banco de dados. Modelo entidaderelacionamento. Modelo relacional. Álgebra relacional. Normalização. SQL.
+6. Banco de Dados 2
+Ementa: Programação de Banco de Dados. Funções, gatilhos e procedimentos armazenados.
+Organização de Dados e Estruturas de Armazenamento. Transações. Controle de
+concorrência. Recuperação após falhas. Segurança.
+7.

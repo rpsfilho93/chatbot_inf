@@ -1,0 +1,64 @@
+5a edição. Prentice-Hall,
+2010.
+
+G
+
+3. BRYANT, R.; O’RALLARON, D. Computer Systems: A Programmer’s Perspective. 2nd Edi-
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+tion. Addison Wesley, 2010.
+
+ware/Software Interface. 3rd edition. Morgan Kaufmann, 2007.
+
+da
+
+1. PATTERSON, D. A.; HENNESSY, J. L. Computer Organization and Design: The Hard-
+
+Luzzatto, 2001.
+
+çã
+o
+
+2. WEBER, R.F. Fundamentos de Arquiteturas de Computadores. 2a Edição. Editora Sagra-
+
+Editora LTC, 2001.
+
+ore
+s
+
+3. MONTEIRO, M. A. Introdução a Organização de Computadores. 4a. edição, Rio de Janeiro:
+
+Edition. Elsevier, 2007.
+
+lia
+
+4. HENNESSY, J. L.; PATTERSON, D. A. Computer Architecture: A Quantitative Approach 4th
+
+eri
+
+5. STALLINGS, W. Computer Organization and Architecture: Designing for Performance. 10th
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Edition. Saddle River, NJ, USA: Prentice-Hall, Inc., 2016.
+
+Disciplina: Banco de Dados
+Bibliografia Básica
+1. ELMASRI, R.;

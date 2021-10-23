@@ -1,0 +1,12 @@
+de sistemas. Ameaças e Ataques. Vulnerabilidades em softwares, serviços e
+protocolos. Aspectos especiais: vírus, fraudes, criptografia, acesso não autorizado. Engenharia Social. Tópicos
+Emergentes em Segurança.
+Bibliografia Básica:
+IMONIANA, JOSHUA O. Auditoria de Sistemas de Informaçaõ .2.ed. São Paulo: Atlas, 2008.
+SCHMIDT, P. Fundamentos de Auditoria de Sistemas. São Paulo: Atlas, 2006.
+STALLINGS, W. Criptografia e segurança de redes : princípios e práticas. 4. ed. Prentice Hal, 2008.
+Bibliografia Complementar:
+LYRA, M. R. Segurança e Auditoria em Sistemas de Informação. 1. ed.Ciência Moderna. 2009.
+KIZZA, J. Computer Network Security. New York: Springer, 2005.
+KUROSE, J. F. ;ROSS, K. Redes de Computadores e a Internet. 6. ed. Pearson Education, 2013.
+TCU. Manual de

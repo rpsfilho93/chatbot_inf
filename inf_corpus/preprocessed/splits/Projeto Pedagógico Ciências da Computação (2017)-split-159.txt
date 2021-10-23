@@ -1,0 +1,42 @@
+as Redes ATM. 2 ed.
+
+Câ
+
+rev. e ampl. Rio de Janeiro: Campus, 1995.
+
+Disciplina: Redes de Computadores 2
+Bibliografia Básica
+1. KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach. 6th ed. Pearson,
+2012.
+2. STALLINGS, W. Data and Computer Communications. 10th ed. Pearson, 2014.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. TANENBAUM, A. S. Computer Networks. 5th ed. Pearson, 2010.
+
+1. PETERSON, L.L.; DAVIE, B.S. Computer Networks: A Systems Approach. 5th ed. Morgan
+Kaufmann, 2011.
+
+2012.
+
+da
+
+2. BEHROUZ F. A. Data Communications and Networking. 5th ed. McGraw-Hill Education,
+
+çã
+o
+
+3. MOLISCH, A. F. Wireless Communications. 2nd ed. John Wiley & Sons, 2011.
+
+ed. Addison-Wesley Professional, 2015.
+
+ore
+s
+
+4. STALLINGS, W. Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud.

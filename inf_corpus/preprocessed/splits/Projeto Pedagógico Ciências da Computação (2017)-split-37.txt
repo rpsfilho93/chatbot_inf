@@ -1,0 +1,28 @@
+curricular
+
+Nesta seção é apresentada a estruturação geral do curso de BCC. As disciplinas estão
+organizadas em dois grupos, conforme suas naturezas sejam obrigatória ou optativa,
+
+ma
+Av
+ali
+ras
+a
+çã
+Su
+op
+pe
+ela
+rio
+res
+s
+da
+UF
+G
+
+conforme previsto no Regulamento Geral dos Cursos de Graduação da UFG.
+
+As disciplinas de natureza obrigatória estão ainda organizadas em três núcleos: núcleo comum, núcleo específico e núcleo livre. As disciplinas do núcleo comum são
+disciplinas que compõem o Núcleo Básico Comum e, portanto, ocorrem nos três cursos
+do INF. As disciplinas do núcleo específico dão especificidade à formação do bacharel
+em Ciência da Computação. As disciplinas do núcleo livre visam promover a interdisciplinaridade e a transdisciplinaridade, possibilitar o aprofundamento de

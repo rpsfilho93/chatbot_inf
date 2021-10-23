@@ -1,0 +1,34 @@
+systems). Sistemas
+intensivos em software (software-intensive systems). Sistemas de sistemas. Comple-
+
+ras
+
+xidade de sistemas. Propriedades emergentes. Princípios do pensamento sistêmico.
+Representação de sistemas por modelos. Engenharia de Sistemas: abordagens e me-
+
+Câ
+ma
+
+todologias. Partes interessadas (stakeholders) e suas necessidades. Ciclo de vida de
+sistemas de engenharia (concepção, conceitos operacionais, design, validação de design, construção, validação de construção, implantação, sustentação e descontinuação).
+Processos do ciclo de vida de sistemas (negociação, preparação para projeto organizacional, gestão técnica, processos técnicos). Qualidade de processo.
+
+ENGENHARIA DE SOFTWARE BASEADA EM BUSCA
+
+Ementa
+Engenharia de Software Baseada em Busca. Problemas de Busca. Meta-heurísticas.
+Aplicações de SBSE em teste de Software, planejamento, manutenção, segurança e per-
+
+FÍSICA I
+
+Ementa
+
+UF
+G
+
+pe
+las
+
+formance.
+
+Unidades, grandezas

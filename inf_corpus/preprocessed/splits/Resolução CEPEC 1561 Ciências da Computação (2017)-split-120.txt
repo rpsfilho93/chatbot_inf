@@ -1,0 +1,12 @@
+recursivamente computáveis. Noções de teoria de reescrita. Cálculo Lambda e reescrita
+de ordem superior (computabilidade via reescrita). Confluência e Terminação. Ordens Noetherianas. Algoritmo
+de completamento de Knuth-Bendix, correção e completitude.
+Bibliografia Básica:
+AYALA-RINCÓN, M. ; MOURA, F.L.C. Fundamentos da Programaçaõ Lóg ica e Funcional : O Princip
+́ io de
+Resolução e a Teoria de Reescrita. Notas de Aula.
+BAADER, F.; NIPKOW, T. Term Rewriting and All That.Cambridge Univ. Press, 1998.
+GALLIER, J. H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2nd ed. Dover, 2015.
+Bibliografia Complementar:
+LLOYD, J. W. Foundations of Logic Programming. 2. ed. Springer, 1987.
+FURTADO, A. L.; GIORNO, F.A.C.; CASANOVA, M. A. Programação em Lógica

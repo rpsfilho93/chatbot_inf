@@ -1,0 +1,14 @@
+2008.
+VISUALIZAÇÃO DE INFORMAÇÕES:
+Definições, história, modelos e categorias de visualizações de informação. Semiótica e percepção visual.
+Expressividade e efetividade de visualizações. Interação com o usuário. Exemplos de técnicas de visualização de
+informações. Metodologias para desenvolvimento de uma visualização de informação. Avaliação de
+visualizações. Tendências futuras na área.
+Bibliografia Básica:
+CARD, S. K.; MACKINLAY, J. D.; SHNEIDERMAN, B. Readings in Information Visualization: Using Vision
+to Think. Morgan Kaufmann Series in Interactive Technologies, Academic Press, 1999.
+SPENCE, R. Information Visualization: An Introduction. 3rd edition, Springer, 2014.
+WARE, C. Information Visualization: Perception for Design. 3rd ed. Morgan Kaufmann Interactive
+Technologies, 2012.
+Bibliografia Complementar:
+FEW, S. Now You See It: Simple Visualization Techniques for Quantitative Analysis.

@@ -1,0 +1,14 @@
+Fundamentos Matemáticos para a Ciência da Computac
+, ̧ 5.
+aõ ed. Rio de Janeiro: Editora LTC, 2004.
+SCHEINERMAN, E. R. Matemática Discreta, Uma introduçaõ . Cengage Learning, Thompson Pioneira, 2003.
+GRIMALDI, R. P. Discrete and Combinatorial Mathematics - An Applied Introduction, 5th ed. Boston: Pearson
+- Addison-Wesley, 2003.
+Bibliografia Complementar:
+ROSS, K. A.; WRIGHT, C. R. B. Discrete mathematics, Prentice Hall, 1998.
+ROSEN, Kenneth H. Discrete Mathematics and Its Applications, 6th ed., Boston: McGraw-Hill, 2009.
+
+MATTSON, Jr. ,H. F. Discrete Mathematics with applications, New York: John Wiley & Sons 1993.
+SANTOS, J. P. O. Introdução à Teoria dos Números . Rio de Janeiro : CNPQ-IMPA, 2003. (Coleção Matemática
+Universitária).
+GONÇALVES, A.

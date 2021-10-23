@@ -1,0 +1,20 @@
+de Dados, 6. ed., Porto Alegre: Bookman, 2009.
+SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. Sistema de Banco de Dados, 5. ed., Rio de
+Janeiro: Ed. Campus, 2006.
+
+Bibliografia Complementar
+
+
+
+
+
+
+CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database systems: a practical approach to
+design, implementation and management, 3. ed., Addison Wesley, 2010.
+DATE, C. J. Introdução a Sistemas de Banco de Dados, tradução da 8º edição americana, Rio de
+Janeiro: Ed. Campus, 2004.
+GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book, 2. ed.,
+Prentice Hall, 2009.
+RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados, tradução da 3ª
+edição, São Paulo: McGraw-Hill, 2008.
+TEOREY,

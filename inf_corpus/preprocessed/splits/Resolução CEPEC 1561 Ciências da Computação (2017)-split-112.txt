@@ -1,0 +1,13 @@
+de Banco de Dados. 6.ed. Pearson-AddisonWesley, 2011.
+TIDWELL, J. Designing interfaces Beijing Sebastopol, CA: O’Reilly, 2006.
+BAI, Y. Practical Database Programming with Java
+. Wiley-IEEE Press , 2011. Disponível on -line:
+http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=5988888.
+DESENVOLVIMENTO DE SOFTWARE DIRIGIDO POR MODELOS:
+Apresentar os conceitos fundamentais relacionados ao desenvolvimento de software dirigido por modelos
+(DSDM),incluindo abstração, modelagem, meta-modelagem, geração automática de código por meio de
+transformações, transformações modelo-para-modelo, transformações modelo-para-texto, transformações textopara-texto, gramáticas e árvores de sintaxe abstrata, técnicas e ferramentas de apoio às atividades fundamentais
+do método de DSDM, técnicas de desenvolvimento de Linguagens Específicas de Domínio (LED).
+Bibliografia Básica:
+MELLOR, S. J.; KENDALL, S.; UHL,A.; WEISE, D. MDA Distilled. Redwood City, CA,USA: Addison
+Wesley

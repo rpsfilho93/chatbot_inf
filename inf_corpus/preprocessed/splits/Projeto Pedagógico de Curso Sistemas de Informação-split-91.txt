@@ -1,0 +1,28 @@
+Press, 2008.
+VAREJÃO, F. Linguagens de Programação. 1. ed., Editora Campus, 2004.
+
+LÓGICA MATEMÁTICA
+Ementa
+Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequência. Correção e
+Completamento. Aplicações em Computação.
+Bibliografia Básica
+
+
+
+
+HUTH, M.; RYAN, M. Lógica em Ciência da Computação: Modelagem e argumentação sobre
+sistemas. 2. ed., Editora LTC, 2008.
+SILVA, F. C.; FINGER, M.; MELO, A. C. V. Lógica para Computação. Thomson Learning, 2006.
+SOUZA, J. N. Lógica para Ciência da Computação. 3. ed., Editora Campus, 2015.
+
+Bibliografia Complementar
+
+
+
+
+
+
+CASANOVA, M. A.; GIORNO, F. A. C.; FURTADO, A. L. Programação em Lógica e a Linguagem
+PROLOG. Edgard Blucher, 1987.
+ENDERTON, H. A. Mathematical Introduction to Logic. Academic Press, 2000.
+MENDELSON, E. Introduction

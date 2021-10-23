@@ -1,0 +1,52 @@
+Architecture in Practice. 3rd ed. Addison-Wesley, 2012.
+3. LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+a objetos e ao desenvolvimento interativo. Bookman, 2008.
+
+1. GAMMA, Erich Design patterns elements of reusable object-oriented software Reading: Addison Wesley, 1995.
+
+da
+
+2. FREEMAN, E. et al. Use a cabeça! : padrões de projetos (design patterns). Alta Books, 2007.
+
+guage (UML). Elsevier, 2006.
+
+çã
+o
+
+3. BOOCH, G. UML guia do usuário: o mais avançado tutorial sobre Unified Modeling Lan-
+
+okshelf, 2007. (The Pragmatic Programmers).
+
+ore
+s
+
+4. NYGARD, M. Release It!: Design and Deploy Production-Ready Software. Pragmatic Bo-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. FOWLER, M. Patterns of enterprise application architecture. Addison-Wesley, 2003.
+
+Disciplinas obrigatórias

@@ -1,0 +1,61 @@
+and All That. Cambridge Univ. Press, 1998.
+
+G
+
+3. GALLIER, J. H. Logic for Computer Science: Foundations of Automatic Theorem Proving.
+
+Bibliografia Complementar
+
+1. LLOYD, J. W. Foundations of Logic Programming. 2. ed. Springer, 1987.
+GIORNO, F.A.C.;
+
+CASANOVA, M. A. Programação em Ló-
+
+gica e a Linguagem PROLOG. Blucher,
+
+1987.
+
+(Dsponível em www.inf.puc-
+
+rio.br/ casanova/Publications/Books/1987-PL.pdf).
+
+çã
+o
+
+da
+
+2. FURTADO, A. L.;
+
+UF
+
+pe
+las
+
+2nd ed. Dover, 2015.
+
+ore
+s
+
+3. BEZEM, M.; KLOP, J. W.; VRIJER, R. Term Rewriting Systems by TeReSe. Cambridge UP,
+2003. (In Cambridge Tracts in Theoretical Computer Science).
+
+4. KLOP, J. W. Term Rewriting Systems. In: S. Abramsky, D.M. Gabbay and T.S.E. Maibaum,
+
+lia
+
+editors. Handbook of Logic in Computer Science. Clarendon Press, 1992. Vol. 2, p. 1-116.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Press, 1992.

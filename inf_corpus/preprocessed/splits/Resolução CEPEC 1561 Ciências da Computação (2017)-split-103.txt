@@ -1,0 +1,11 @@
+H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete Book, 2a.edição,
+Prentice Hall, 2009.
+INMON, W. H.: Building the Data Warehouse. 4a. Edição. Wiley, 2005.
+KIMBALL, R., CASERTA, J.: The Data Warehouses ETL Toolkit: Practical Techniques for Extracting,
+Cleaning, Conforming, and Delivering Data. 1a. Edição. Wiley, 2004.
+JARKE, M., LENZERINI, M., VASSILIOU, Y., VASSILIADIS, P.: Fundamentals of Data Wa- ehouses. 2a.
+Edição. Springer, 2002.
+AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS:
+Pilares da avaliação de desempenho. Modelagem analítica. Medições. Simulação. Conceitos básicos de
+desempenho. Leis Operacionais de desempenho. Redes de filas abertas e fechadas e suas soluções. Planejamento
+de capacidade. Noções de Teoria de Filas. Aplicação em sistemas

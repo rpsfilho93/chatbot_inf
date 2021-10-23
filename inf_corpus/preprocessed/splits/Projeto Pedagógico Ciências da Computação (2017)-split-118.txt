@@ -1,0 +1,51 @@
+C++". São Paulo: Editora
+
+ore
+s
+
+3. Sedgewick, R. "Algorithms in C++"(Parts 1-4), Addison-Wesley, 3ª edição, 1998.
+4. SALVETTI, D.D., BARBOSA, L.M., Algoritmos, Makron Books, São Paulo, 1998.
+5. ZIVIANI N., "Projeto de Algoritmos com implementação em Pascal e C". São Paulo: Editora
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Thomson, 3ª edição, 2010.
+
+Disciplina: Algoritmos e Estruturas de Dados 2
+Bibliografia Básica
+1. TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados Usando C.
+São Paulo: Makron Books, 1995.
+2. SZWARCFITER, J. L.; Markenzon, L. Estruturas de Dados e seus Algoritmos. 2a edição. LTC,
+
+G
+
+1994.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+
+2002.
+
+da
+
+1. CORMEN, T. H et al. Algoritmos: Teoria e Prática. 2a edição, Rio

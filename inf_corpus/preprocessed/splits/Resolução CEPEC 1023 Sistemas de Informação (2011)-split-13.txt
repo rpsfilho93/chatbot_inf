@@ -1,0 +1,12 @@
+Leiaute e estilo.
+Ementa: O Direito como ciência, valor, poder, norma e fato social. Capacidade das pessoas,
+Noção de Direito das Obrigações, Regras gerais dos Contratos. Direito autoral e legislação de
+proteção ao software.
+Ementa: O perfil do empreendedor. Estudo de mecanismos e procedimentos para lançamento
+de uma empresa no mercado. Inovação tecnológica na geração de novos produtos e negócios.
+Sistemas de Gerenciamento, técnicas de negociação e legislação específica. Marketing e
+competitividade. Sistema de Produção. Sistema de Recursos Humanos. Constituição,
+tributação e legalização de empresa. Avaliação de desempenho empresarial. Análise de Casos.
+Elaboração de plano de negócios.
+11. Engenharia de Requisitos
+Ementa: Introdução ao Ciclo de Vida do Sistema de Software

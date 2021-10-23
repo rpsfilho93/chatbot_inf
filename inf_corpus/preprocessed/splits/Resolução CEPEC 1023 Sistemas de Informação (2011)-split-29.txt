@@ -1,0 +1,11 @@
+gerenciamento de configuração, garantia
+de qualidade, planejamento e acompanhamento de projetos, gerenciamento de requisitos,
+gerenciamento de subcontratados.
+35. Rede de Computadores
+Ementa: Fundamentos: arquitetura de redes de computadores e modelos de referência (OSI e
+TCP/IP); serviços e protocolos de comunicação; desempenho de redes de computadores
+(atraso, perda e largura de banda); arquitetura geral da Internet. Camada de Aplicações:
+interface de programação de aplicações; prática de programação de aplicações em rede; a Web
+e o protocolo HTTP; serviço de transferência de arquivos (FTP); correio eletrônico (SMTP e
+protocolos de acesso ao correio); serviço de nomes (DNS); aplicações e redes peer-to-peer
+(P2P) e redes sobrepostas (overlay networks). Camada de Transporte: tipos de

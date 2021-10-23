@@ -1,0 +1,11 @@
+de projeto (acoplamento, coesão e outras). Métricas de projeto
+(principais métricas, interpretação).
+34. Qualidade de Software
+Ementa: Visão geral de qualidade. Processo de software. Produto de Software. Qualidade de
+produto de software. Avaliação de qualidade de produto de software. Norma ISO 9126 para
+qualidade de produto. Avaliação de qualidade de processo de software. Melhoria de processo
+de software. Modelos Capability Maturity Model (CMM), Software Process Improvement and
+Capability Determination (SPICE) e Melhoria de Processo de Software Brasileiro (MPS.Br)
+para avaliação e melhoria de processo de software. Norma ISO 9000-3 -"Diretrizes para
+Aplicação da ISO 9001 ao Desenvolvimento, Fornecimento e Manutenção de Software" .
+Planejamento para melhoria de processo de software:

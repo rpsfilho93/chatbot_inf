@@ -1,0 +1,91 @@
+DE 2017-1
+
+CH NATUREZA
+
+Algoritmos: Ordenação e Busca
+
+NC – OBR
+
+Algoritmos e Estruturas de Dados 2
+
+NC – OBR
+
+Linguagens de Programação
+
+NE – OBR
+
+Linguagens e Paradigmas de Programação
+
+NE – OPT
+
+Requisitos de Software
+
+NE – OBR
+
+Requisitos de Software
+
+NC – OBR
+
+Projeto Detalhado de Software
+
+NE – OBR
+
+Projeto de Software
+
+NE – OPT
+
+Processo de Software
+
+NE – OBR
+
+Processos de Software
+
+NE – OBR
+
+Algoritmos em Grafos
+
+NC – OBR
+
+Algoritmos e Estruturas de Dados 2
+
+NC – OBR
+
+Interação Homem-Computador
+
+NE – OBR
+
+Interação Humano-Computador
+
+NC – OBR
+
+Segurança
+
+NE – OBR
+
+NE – OBR
+
+Qualidade de Software
+
+NE – OBR
+
+Processos de Qualidade de Software
+
+NE – OPT
+
+Arquitetura de Software
+
+NE – OBR
+
+Arquitetura de Software
+
+NC – OBR
+
+Verificação e Validação
+
+NE – OBR
+
+Testes de Software
+
+NC – OBR
+
+Gerência de Configuração de

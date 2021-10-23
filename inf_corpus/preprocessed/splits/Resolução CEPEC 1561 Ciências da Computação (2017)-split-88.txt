@@ -1,0 +1,16 @@
+O. Introdução à Teoria dos Números. IMPA, 2006. (Coleção Matemática Universitária).
+
+COUTINHO, S. C. Números Inteiros e Criptografia RSA
+Aplicações).
+
+. 5. ed. IMPA, 2003. (Coleção Matemática e
+
+Bibliografia Complementar:
+GRIMALDI, R. P. Discrete and Combinatorial Mathematics: An Applied Introduction. 5. Boston: Pearson
+Addison-Wesley, 2003. ematics - An Applied Introduction, 5. ed. Pearson - Addison-Wesley, Boston, 2003.
+ROSEN, K. H. Elementary Number Theory and Its Application, 7.ed., McGraw-Hill Education, 2011.
+HERSTEIN, I. Abstract Algebra. 2 ed. Wiley, 1996.
+GONÇALVES, A. Introdução à Álgebra, 5. ed.Rio de Janeiro: CNPQ-IMPA, 2013.
+LEMOS, M. J. M. S. Criptografia, Números Primos e Algoritmos. IMPA, 2007.
+METODOLOGIA DE PESQUISA EM COMPUTAÇÃO:
+Estilos de pesquisa em Computação. Preparação

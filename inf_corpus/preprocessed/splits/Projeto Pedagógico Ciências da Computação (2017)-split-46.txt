@@ -1,0 +1,46 @@
+entrada e saída. Hierarquia de memória. Introdução a arquiteturas
+paralelas e métricas de desempenho.
+
+BANCO DE DADOS
+
+Ementa
+Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco de
+Dados: álgebra relacional, cálculo relacional e SQL. Modelo Entidade-Relacionamento
+
+Ementa
+
+UF
+G
+
+pe
+las
+
+e extensões. Mapeamento ER-relacional. Normalização.
+
+Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cô-
+
+COMPUTAÇÃO E SOCIEDADE
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Técnicas de Integração. Integrais impróprias. Aplicações.
+
+da
+
+nicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais.
+
+História da computação. Estudo e análise de casos de aplicação de computadores na
+
+Av
+a
+
+sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares.
+Importância e desafios da computação no Brasil e no mundo.

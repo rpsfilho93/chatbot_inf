@@ -1,0 +1,16 @@
+F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Abordagem Top-down, 5. Ed. Addison
+Wesley, 2010.
+TANENBAUM, A. S; STEEN, M. van. Sistemas Distribuid
+́ os: Princípios e Paradigmas. 2.ed. Pearson Education
+do Brasil, 2008.
+Bibliografia Complementar:
+ALEKSY, M.; KORTHAUS, A.; SCHADER, M. Implementing Distributed Systems with Java and CORBA.
+Berlin Heidelberg: Springer-Verlag, 2005.
+ANDREWS, G. R. Foundations of Multithreaded, Parallel, and Distributed Programming. Pearson. 2000.
+LYNCH, A. Distributed Algorithms. Morgan Kaufmann, 1997. (The Morgan Kaufmann series in data
+management systems).
+KSHEMKALYANI, D.; SINGHAL, M. Distributed Computing Principles, Algorithms, and Systems.
+Cambridge University Press, 2008.
+LININGTON, P.; MILOSEVIC, Z.; TANAKA, A.; VALLECILLO, A. Building Enterprise Systems with
+ODP.Chapman & Hall/CRC Press, 2011.
+SISTEMAS

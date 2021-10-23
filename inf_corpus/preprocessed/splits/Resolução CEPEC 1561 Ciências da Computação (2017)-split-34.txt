@@ -1,0 +1,35 @@
+unidade da
+UFG responsável por cada disciplina, os relacionamentos de pré-requisitos e correquisitos
+entre elas e as cargas horárias teóricas, práticas e total.
+O aluno deve cursar obrigatoriamente quatro disciplinas optativas durante o Curso. A
+tabela lista as disciplinas optativas, a unidade responsável pelas disciplinas, os
+relacionamentos de pré-requisitos entre elas e suas cargas horárias.
+A disciplina Tópicos em Computação (linha 72 da tabela 2) é uma disciplina
+optativa, de tema e bibliografias variáveis cujo objetivo é o de dar ao curso e aos seus
+professores flexibilidade para ministrarem novos conteúdos que possam surgir devido à
+grande dinamicidade da área de Computação.
+
+Tabela 1: Disciplinas de Natureza Obrigatória
+
+Disciplinas
+
+Unid.
+Resp.
+
+Pré-Req.
+
+CH Semestral
+
+CHTot.
+
+Núcleo Natureza
+
+Teo.
+
+Prat.
+
+NC
+
+OBR
+
+Álgebra

@@ -1,0 +1,12 @@
+objetos e ao
+desenvolvimento interativo. 3. ed. Porto Alegre: Bookman, 2007.
+SWEBOK v3.0. Guide to the Software Engineering Body of Knowledge Version 3.0. Editado por IEEE
+Computer Society. Disponível em http://www.swebok.org/.
+WIEGERS, K. E. Software requirements: practical techniques for gathering and managing requirements
+throughout the product development cycle. 2 ed. Redmond, Wash: Microsoft Press, 2003.
+FILHO, W. P. P. Engenharia de Software: fundamentos, métodos e padrões. 3a ed. Rio de Janeiro: LTC, 2009.
+EQUAÇÕES DIFERENCIAIS ORDINÁRIAS:
+Equações diferenciais ordinárias de primeira ordem lineares e não lineares. Sistemas lineares de equações
+diferenciais ordinárias. Equações diferenciais ordinárias de ordem superior. Aplicações.
+Bibliografia Básica:
+BOYCE, W. E.; DIPRIMA, R. C. Equações diferenciais Elementares e

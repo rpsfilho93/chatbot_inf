@@ -1,0 +1,11 @@
+e tri-dimensionais. Transformações de projeção paralela e
+perspectiva. Recorte e seleção bi-dimensional. Curvas e Superfícies. Representação e Modelagem; Modelos de
+cor. Visualização tridimensional: iluminação, eliminação de linhas superfícies escondidas, modelos de
+tonalização (“shading”). Aplicação de texturas. Animação. Noções de processamento digital de imagens.
+Bibliografia Básica:
+FOLEY, J. D. at al. Computer Graphics: Principles and Practices, Addison Wesley, 1993.
+AZEVEDO, E.; CONCI, A. Computação Gráfica: Geração de Imagens. Rio de Janeiro: Editora Campus, 2003.
+HETEM, A. J., Computação gráfica. Rio de Janeiro: LTC, 2006.
+Bibliografia Complementar:
+AZEVEDO, E.; LETA, F. R; CONCI, A. Computação gráfica: teoria e prática. 2. ed.Rio de Janeiro: Elsevier, 2008.
+AMMERAAL, L. Computação gráfica para programadores Java

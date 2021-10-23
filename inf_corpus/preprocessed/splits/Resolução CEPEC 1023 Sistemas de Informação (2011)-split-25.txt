@@ -1,0 +1,13 @@
+e heterogêneas na
+programação imperativa. Alocação estática e dinâmica. Modularização (passagem de
+parâmetros, procedimentos e funções recursivas e não recursivas). Manipulação de Arquivos.
+Estudos de caso de aplicações desenvolvidas com a programação imperativa.
+31. Programação Orientada a Objetos
+Ementa: Paradigma de orientação a objetos. Linguagens orientadas a objetos. Abstração e
+tipos abstratos. Classes, métodos, encapsulamento, interface. Mensagens, instâncias e
+inicialização. Herança e composição. A combinação de herança e composição. Polimorfismo:
+variáveis polimórficas, sobrecarga, construtores. Ambiente integrado de desenvolvimento
+(IDE): conceituação e utilização. Implementação de programas em Java. Introdução a objetos
+em Java: encapsulamento, classes, métodos, objetos, mensagens, construtores, composição,
+herança, polimorfismo. Estudos de caso de aplicações desenvolvidas com a linguagem de
+programação

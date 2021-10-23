@@ -1,0 +1,12 @@
+Teorias da Administração. 3. ed., São Paulo: Saraiva, 2016.
+SILVA, A. T. Administração básica. 6. ed., São Paulo: Atlas, 2011.
+STONER, J.A F.; FREEMAN, R.E. Administração. 5. ed., Rio de Janeiro: LTC, 2010.
+
+INTRODUÇÃO À PROGRAMAÇÃO
+Ementa
+Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos;
+variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de
+repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de
+caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência,
+recursividade. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a
+arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição

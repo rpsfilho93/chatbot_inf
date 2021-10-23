@@ -1,0 +1,63 @@
+precedidos pela frase “competências em”) (MSIS 2016, 2017, p. iv):
+
+
+continuidade dos negócios e garantia de informações;
+
+
+
+gerenciamento de artefatos de informação, informações e conteúdo;
+
+
+
+arquitetura corporativa;
+
+
+
+ética, impactos e sustentabilidade;
+
+
+
+inovação, mudança organizacional e empreendedorismo;
+
+
+
+gerenciamento e operações de BSI;
+
+
+
+estratégia e governança de BSI;
+
+
+
+infraestrutura de TI; e
+
+
+
+desenvolvimento e implantação de Sistemas.
+
+MSIS 2016. Global Competency Model for Graduate Degree Programs in Information Systems. The
+Joint ACM/AIS MSIS 2016 Task Force. Maio de 2017.
+
+a) Matriz Curricular - Disciplinas Obrigatórias
+DISCIPLINA
+
+UNIDADE
+RESPONS.
+
+PRÉ-REQ. (PR)
+/ CO-REQ. (CR)
+
+2. Computação e Sociedade
+3. Introdução à Programação
+4. Fundamentos de Matemática para Computação
+
+IME
+INF
+INF
+INF
+
+5. Algoritmos e Estruturas de Dados 1
+6. Introdução aos Sistemas de Informação
+7. Lógica Matemática
+8. Metodologia Científica
+9.

@@ -1,0 +1,57 @@
+1st
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. GRAYVER, E. Implementing Software Defined Radio. 1st ed. Springer, 2013.
+
+Disciplina: Sistemas Distribuídos
+Bibliografia Básica
+1. COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. Sistemas Distribuídos: Conceitos e Projeto. 5. ed. Bookman Editora, 2013.
+2. KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Abordagem Top-
+
+G
+
+down, 5. Ed. Addison Wesley, 2010.
+
+Bibliografia Complementar
+
+UF
+
+Pearson Education do Brasil, 2008.
+
+pe
+las
+
+3. TANENBAUM, A. S; STEEN, M. van. Sistemas Distribuídos: Princípios e Paradigmas. 2. ed.
+
+and CORBA. Berlin Heidelberg: Springer-Verlag, 2005.
+
+da
+
+1. ALEKSY, M.; KORTHAUS, A.; SCHADER, M. Implementing Distributed Systems with Java
+
+Pearson. 2000.
+
+ore
+s
+
+çã
+o
+
+2. ANDREWS, G. R. Foundations of Multithreaded, Parallel, and Distributed Programming.
+
+3. LYNCH, A. Distributed

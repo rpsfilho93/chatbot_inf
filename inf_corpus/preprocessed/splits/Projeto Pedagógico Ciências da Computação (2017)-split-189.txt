@@ -1,0 +1,43 @@
+Types. In: ABRAMSKY, S.; GABBAY, D. M.;
+
+ore
+s
+
+Vol. 2, pages 117-309.
+
+çã
+o
+
+MAIBAUM, T. S .E.(Eds.). Handbook of Logic in Computer Science Clarendon Press, 1992.
+
+2. KAMAREDDINE, F. D.; LAAN, T.; NEDERPELT, R. A Modern Perspective on Type Theory.
+Kluewer, 2004. (Number 29 in Applied Logic Series).
+
+lia
+
+3. SORENSEN, M.; URZYCZYN, P. Lectures on the Curry-Howard isomorphism. Elsevier,
+
+eri
+
+1998.(Vol. 149 of Studies in Logic and the Foundations of Mathematics).
+
+Av
+a
+
+4. GIRARD, J.-Y.; LAFONT, Y.; TAYLOR, P. Proofs and Types. Cambridge University Press,
+1989. (Cambridge Tracts in Theoretical Computer Science, n. 7).
+
+Su
+p
+
+5. SIMMONS, H. Derivation and Computation: Taking the Curry-Howard Correspondence
+Seriously. Cambridge University Press, 2000. (Cambridge Tracts in Theoretical Computer
+
+ma
+ras
+
+Câ
+
+Em
+
+Science,

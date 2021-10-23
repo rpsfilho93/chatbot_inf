@@ -1,0 +1,33 @@
+Cursos de computação
+
+Su
+p
+
+e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado,
+organizações e associações na área, regulamentação da profissão. Leis e normas rela-
+
+Em
+
+cionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital
+
+mação. Incubadoras de empresas.
+
+Ementa
+
+Câ
+ma
+
+ENGENHARIA DE SOFTWARE
+
+ras
+
+relacionadas à Computação. Ética na Computação. Empresas de tecnologia da infor-
+
+Requisitos de software. Projeto (design) de software. Construção de software. Teste de
+software. Manutenção de software. Gerência de configuração de software. Gerência
+de projeto de software. Processo de engenharia de software. Modelos e métodos de
+engenharia de software. Qualidade de software. Prática profissional de engenharia de
+
+software. Economia para engenharia de software. Fundamentos de engenharia.
+
+FUNDAMENTOS

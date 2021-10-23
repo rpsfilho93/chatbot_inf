@@ -1,0 +1,1044 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são as condições necessárias para cancelar o projeto de pesquisa?",
+              "id": 125181,
+              "answers": [
+                {
+                  "answer_id": 191098,
+                  "document_id": 254194,
+                  "question_id": 125181,
+                  "text": "perda de vínculo funcional com a instituição;\nII - licenças e afastamentos legais que prejudiquem o desenvolvimento\ndo projeto;\nIII - interrupção de convênio/contrato;\nIV - não recebimento do recurso financeiro vinculado ao projeto\naprovado em edital ou chamadas de agências de fomento;\nV - por solicitação do proponente, após anuência da Coordenadoria de\nPesquisa.",
+                  "answer_start": 832,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "1º Cabe ao coordenador do projeto de pesquisa a ser encerrado, cujo\nresultado não apresentar produção intelectual, encaminhar o relatório final à Coordenadoria\nde Pesquisa, que providenciará parecer a ser apreciado pelo CD da UA e UEB ou Colegiado\nda UAE, ou pelo dirigente do Órgão.\n§ 2º De posse da justificativa constante no relatório final, o Coordenador\nde Pesquisa oficiará imediatamente à Coordenadoria Geral de Pesquisa da PRPI, indicando o\nnúmero do projeto e os nomes dos pesquisadores envolvidos, que encerrará o cadastro do\nreferido projeto.\n§ 3º Pesquisador com pendência de finalização de projeto fica impedido\nde cadastrar novo projeto.\nArt. 14. É facultado ao pesquisador coordenador solicitar o cancelamento\ndo projeto de pesquisa, antes do término da sua vigência, mediante justificativa, nos seguintes\ncasos:\nI - perda de vínculo funcional com a instituição;\nII - licenças e afastamentos legais que prejudiquem o desenvolvimento\ndo projeto;\nIII - interrupção de convênio/contrato;\nIV - não recebimento do recurso financeiro vinculado ao projeto\naprovado em edital ou chamadas de agências de fomento;\nV - por solicitação do proponente, após anuência da Coordenadoria de\nPesquisa.",
+          "document_id": 254194
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são as modalidades do programa de Iniciação Científica?",
+              "id": 125156,
+              "answers": [
+                {
+                  "answer_id": 190570,
+                  "document_id": 247121,
+                  "question_id": 125156,
+                  "text": "I. Iniciação Científica (IC): destinada a discentes de graduação da UFG,\ndevendo ter o escopo de iniciação à pesquisa científica, em qualquer área do\nconhecimento;\n\nII. Iniciação Tecnológica (IT): destinada a discentes de graduação da UFG,\ndevendo ter o escopo de iniciação à pesquisa tecnológica e em inovação, em\nqualquer área do conhecimento;\n\nIII. Iniciação Científica Júnior (ICJr): destinada a discentes do ensino\nfundamental e médio com matrícula ativa na rede pública ou privada.",
+                  "answer_start": 173,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Art. 3. O PIP/UFG é regido por estas diretrizes e por editais específicos.\nCapítulo II\nDas Modalidades e da Gestão\n\nArt. 4. O PIP/UFG inclui as seguintes três modalidades:\n\nI. Iniciação Científica (IC): destinada a discentes de graduação da UFG,\ndevendo ter o escopo de iniciação à pesquisa científica, em qualquer área do\nconhecimento;\n\nII. Iniciação Tecnológica (IT): destinada a discentes de graduação da UFG,\ndevendo ter o escopo de iniciação à pesquisa tecnológica e em inovação, em\nqualquer área do conhecimento;\n\nIII. Iniciação Científica Júnior (ICJr): destinada a discentes do ensino\nfundamental e médio com matrícula ativa na rede pública ou privada.\n\nArt. 5. O PIP/UFG será gerido pelas seguintes instâncias:\n\nI. uma Coordenação, exercida pela Diretoria de Pesquisa da PRPI;\nII. um Comitê Gestor, composto pelos (as) coordenadores (as) de pesquisa de\ntodas as Unidades Acadêmicas e Unidades Acadêmicas Especiais da UFG,\ntendo como suplentes os (as) correspondentes vice-coordenadores (as);",
+          "document_id": 247121
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais os critérios para que o estudante participe do PIP/UFG?",
+              "id": 125157,
+              "answers": [
+                {
+                  "answer_id": 190575,
+                  "document_id": 247123,
+                  "question_id": 125157,
+                  "text": "I. possuir matrícula ativa na graduação da UFG, para participantes das\nmodalidades IC e IT;\n\nII. possuir matrícula ativa no ensino médio ou fundamental da rede pública ou\nprivada, para a modalidade ICJr;\n\nIII. possuir curriculum vitae cadastrado na Plataforma Lattes;\n\nIV. não possuir parentesco com o (a) orientador (a), em até o terceiro grau;\n\nV. estar adimplente com o PIP/UFG.\n",
+                  "answer_start": 303,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "IV.estar adimplente com o PIP/UFG.\n\nParágrafo único. Discentes de mestrado ou doutorado e pós-doutorandos (as) da UFG\npoderão atuar como co-orientadores (as), por indicação do (a) orientador (a)\nproponente do plano de trabalho.\n\nArt. 10. Os critérios de elegibilidade dos discentes para o PIP/UFG são:\n\nI. possuir matrícula ativa na graduação da UFG, para participantes das\nmodalidades IC e IT;\n\nII. possuir matrícula ativa no ensino médio ou fundamental da rede pública ou\nprivada, para a modalidade ICJr;\n\nIII. possuir curriculum vitae cadastrado na Plataforma Lattes;\n\nIV. não possuir parentesco com o (a) orientador (a), em até o terceiro grau;\n\nV. estar adimplente com o PIP/UFG.\n\nArt. 11. O discente no PIP/UFG será substituído ou terá sua participação finalizada de\nacordo com as seguintes condições:\n\nI. o (a) orientador (a) deverá substituir o (a) discente que concluir a graduação\ndurante o período de vigência de seu plano de trabalho; tiver a sua matrícula\ntrancada; não estiver executando satisfatoriamente o plano de trabalho\nproposto; ausentar-se, sem consentimento do(a) orientador(a), por mais de",
+          "document_id": 247123
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são os requisitos para ser orientador de Iniciação Científica?",
+              "id": 125158,
+              "answers": [
+                {
+                  "answer_id": 190580,
+                  "document_id": 247124,
+                  "question_id": 125158,
+                  "text": "I. ter vínculo com a UFG, ter título de mestre ou doutor, podendo ser docente,\ntécnico-administrativo, professor (a) visitante, pesquisador (a) ou docente\nintegrante do Programa Especial para Participação Voluntária de Pessoa\nFísica e pós-doutorandos, de acordo com requisitos definidos nos editais;\n\nII. não estar licenciado/afastado (a) da UFG, por qualquer motivo, por tempo\nsuperior a 3 (três) meses, no período de execução do(s) plano(s) de trabalho\nsob sua orientação;\n\nIII. ter projeto de pesquisa cadastrado no Sistema Integrado de Gestão de\nAtividades Acadêmicas da UFG (SIGAA-Módulo Pesquisa) com status “em\nandamento” e com vigência abrangendo o período para execução do(s)\nplano(s) de trabalho a ser (em) proposto (s) ao edital;\n\nIV. estar adimplente com o PIP/UFG.",
+                  "answer_start": 705,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "III. realizar a articulação do PIP/UFG com as agências concedentes de bolsas.\n\nArt. 7. São atribuições do Comitê Gestor:\n\nI. atuar como instância colegiada de gestão do PIP/UFG;\nII. contribuir para fortalecer a Política para iniciação à pesquisa científica,\ntecnológica e em inovação da UFG junto às Unidades Acadêmicas e\nUnidades Acadêmicas Especiais, incentivando a participação de discentes,\ndocentes e pesquisadores (as) no PIP/UFG.\n\nArt. 8. É atribuição do Comitê Executivo assessorar a tomada de decisões pela\nCoordenação do PIP/UFG entre uma e outra reunião do Comitê Gestor.\n\nCapítulo III\nDos Participantes do Programa\n\nArt. 9. Os requisitos para participação do PIP/UFG como orientador (a) são:\n\nI. ter vínculo com a UFG, ter título de mestre ou doutor, podendo ser docente,\ntécnico-administrativo, professor (a) visitante, pesquisador (a) ou docente\nintegrante do Programa Especial para Participação Voluntária de Pessoa\nFísica e pós-doutorandos, de acordo com requisitos definidos nos editais;\n\nII. não estar licenciado/afastado (a) da UFG, por qualquer motivo, por tempo\nsuperior a 3 (três) meses, no período de execução do(s) plano(s) de trabalho\nsob sua orientação;\n\nIII. ter projeto de pesquisa cadastrado no Sistema Integrado de Gestão de\nAtividades Acadêmicas da UFG (SIGAA-Módulo Pesquisa) com status “em\nandamento” e com vigência abrangendo o período para execução do(s)\nplano(s) de trabalho a ser (em) proposto (s) ao edital;\n\nIV. estar adimplente com o PIP/UFG.\n\nParágrafo único. Discentes de mestrado ou doutorado e pós-doutorandos (as) da UFG\npoderão atuar como co-orientadores (as), por indicação do (a) orientador (a)\nproponente do plano de trabalho.\n\nArt. 10. Os critérios de elegibilidade dos discentes para o PIP/UFG são:",
+          "document_id": 247124
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são os deveres dos orientadores de Iniciação Científica?",
+              "id": 125159,
+              "answers": [
+                {
+                  "answer_id": 190587,
+                  "document_id": 247125,
+                  "question_id": 125159,
+                  "text": "I. orientar o (a) discente selecionado (a) nas distintas fases do trabalho, visando\nsua boa execução;\n\nII. supervisionar a elaboração, revisar e aprovar os relatórios de atividades\nparcial e final a serem submetidos pelo (a) discente, bem como emitir parecer,\nvia SIGAA, sobre o desempenho do (a) discente no desenvolvimento de suas\natividades junto ao PIP/UFG;\n\nIII. no caso de afastamento por um período superior a três (03) meses OU se\nestiver impedido (a) de continuar a orientação, por qualquer motivo justificado,\no (a) orientador (a) poderá solicitar à coordenação do PIP/UFG, via e-mail\n(pip.prpi@ufg.br), a sua substituição por outro (a) pesquisador (a) que seja\ntambém participante do projeto de pesquisa ao qual o plano de trabalho se\nvincula OU deverá finalizar a participação do (a) discente sob sua orientação;\n\nIV. efetuar, quando pertinente, as eventuais substituições e/ou finalização da\nparticipação de discentes no PIP/UFG, via SIGAA-Módulo Pesquisa, até o\nquinto dia útil de cada mês, conforme critérios definidos nesta Diretriz\nNormativa;\n\nV. informar à coordenação do PIP/UFG, de imediato e via e-mail(pip.prpi@ufg.br), \nqualquer substituição ou finalização de participação\ndiscente;\n\nVI. participar como consultor (a) ad hoc do PIP/UFG;\n\nVII. manter-se adimplente com o PIP/UFG.",
+                  "answer_start": 347,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Parágrafo único. Discentes beneficiários de bolsas de outros agentes financiadores\ndevem ter seus planos de trabalho cadastrados na plataforma SIGAA e recomendados\npelo programa para que possam fazer jus ao certificado do PIP/UFG.\n\nCapítulo V\nDos Deveres dos Participantes\n\nArt. 16. Os (as) orientadores (as) do PIP/UFG têm os seguintes deveres:\n\nI. orientar o (a) discente selecionado (a) nas distintas fases do trabalho, visando\nsua boa execução;\n\nII. supervisionar a elaboração, revisar e aprovar os relatórios de atividades\nparcial e final a serem submetidos pelo (a) discente, bem como emitir parecer,\nvia SIGAA, sobre o desempenho do (a) discente no desenvolvimento de suas\natividades junto ao PIP/UFG;\n\nIII. no caso de afastamento por um período superior a três (03) meses OU se\nestiver impedido (a) de continuar a orientação, por qualquer motivo justificado,\no (a) orientador (a) poderá solicitar à coordenação do PIP/UFG, via e-mail\n(pip.prpi@ufg.br), a sua substituição por outro (a) pesquisador (a) que seja\ntambém participante do projeto de pesquisa ao qual o plano de trabalho se\nvincula OU deverá finalizar a participação do (a) discente sob sua orientação;\n\nIV. efetuar, quando pertinente, as eventuais substituições e/ou finalização da\nparticipação de discentes no PIP/UFG, via SIGAA-Módulo Pesquisa, até o\nquinto dia útil de cada mês, conforme critérios definidos nesta Diretriz\nNormativa;\n\nV. informar à coordenação do PIP/UFG, de imediato e via e-mail(pip.prpi@ufg.br), \nqualquer substituição ou finalização de participação\ndiscente;\n\nVI. participar como consultor (a) ad hoc do PIP/UFG;\n\nVII. manter-se adimplente com o PIP/UFG.\n\nArt. 17. O (A) pesquisador (a) será considerado (a) inadimplente com o PIP/UFG\nquando não cumprir as obrigações constantes nesta Diretriz Normativa e no\nEdital específico.",
+          "document_id": 247125
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são os deveres dos alunos em Iniciação Científica?",
+              "id": 125160,
+              "answers": [
+                {
+                  "answer_id": 190590,
+                  "document_id": 247126,
+                  "question_id": 125160,
+                  "text": "I. dedicar o mínimo de 20 (vinte) horas semanais às atividades de iniciação à\npesquisa, o que inclui horas em atividades presenciais ou não, conforme\nacordado com orientador (a), cuidando para que não haja prejuízo ao bom\nandamento do curso regular do (a) discente;\n\nII. apresentar relatórios parcial e final no SIGAA-Módulo Pesquisa, obedecendo\nas datas estabelecidas em edital ou fixadas pela Coordenação do PIP/UFG;\n\nIII. enviar relatório de atividades em até 30 (trinta) dias após o encerramento de\nsua participação, quando este ocorrer antes do término originalmente previsto\npara a execução do plano de trabalho;\n\nIV. participar do Seminário de Iniciação à Pesquisa Científica, Tecnológica e em\nInovação da UFG, com apresentação dos resultados de seu trabalho;\n\nV. comparecer, no mínimo, a 4 (quatro) atividades do Programa Diálogos em\nPesquisa e Inovação no período de execução do plano de trabalho, sendo\nque uma delas pode ser substituída pela participação no Congresso de\nPesquisa, Ensino e Extensão da UFG (CONPEEX).\n\nVI. comunicar imediatamente ao (à) orientador (a) a impossibilidade de cumprir o\nseu plano de trabalho, quando este for o caso, por qualquer motivo;\n\nVII. não se ausentar de suas atividades por um período superior a 30 (trinta) dias,\nexceto se acordado com o (a) orientador (a);\n\nVIII. comunicar à coordenação do PIP/UFG quaisquer eventuais problemas\nocorridos durante a execução do plano de trabalho;\n\nIX. fazer referência à sua condição de discente de iniciação à pesquisa nas\npublicações e trabalhos apresentados.",
+                  "answer_start": 342,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual é a carga horária para as atividades de Iniciação Científica?",
+              "id": 125161,
+              "answers": [
+                {
+                  "answer_id": 190589,
+                  "document_id": 247126,
+                  "question_id": 125161,
+                  "text": "20 (vinte) horas semanais",
+                  "answer_start": 365,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Parágrafo único. A situação de inadimplência poderá ser corrigida pelo (a) pesquisador\n(a) mediante a retificação do ato que a gerou e justificativa à Coordenação do PIP/UFG,\ncom no máximo 6 (seis) meses após o final do período de execução do plano de\ntrabalho.\n\nArt. 18. Os (as) discentes participantes do PIP/UFG têm os seguintes deveres:\n\nI. dedicar o mínimo de 20 (vinte) horas semanais às atividades de iniciação à\npesquisa, o que inclui horas em atividades presenciais ou não, conforme\nacordado com orientador (a), cuidando para que não haja prejuízo ao bom\nandamento do curso regular do (a) discente;\n\nII. apresentar relatórios parcial e final no SIGAA-Módulo Pesquisa, obedecendo\nas datas estabelecidas em edital ou fixadas pela Coordenação do PIP/UFG;\n\nIII. enviar relatório de atividades em até 30 (trinta) dias após o encerramento de\nsua participação, quando este ocorrer antes do término originalmente previsto\npara a execução do plano de trabalho;\n\nIV. participar do Seminário de Iniciação à Pesquisa Científica, Tecnológica e em\nInovação da UFG, com apresentação dos resultados de seu trabalho;\n\nV. comparecer, no mínimo, a 4 (quatro) atividades do Programa Diálogos em\nPesquisa e Inovação no período de execução do plano de trabalho, sendo\nque uma delas pode ser substituída pela participação no Congresso de\nPesquisa, Ensino e Extensão da UFG (CONPEEX).\n\nVI. comunicar imediatamente ao (à) orientador (a) a impossibilidade de cumprir o\nseu plano de trabalho, quando este for o caso, por qualquer motivo;\n\nVII. não se ausentar de suas atividades por um período superior a 30 (trinta) dias,\nexceto se acordado com o (a) orientador (a);\n\nVIII. comunicar à coordenação do PIP/UFG quaisquer eventuais problemas\nocorridos durante a execução do plano de trabalho;\n\nIX. fazer referência à sua condição de discente de iniciação à pesquisa nas\npublicações e trabalhos apresentados.",
+          "document_id": 247126
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Em que banco o bolsista deve ter conta corrente para bolsa financiada pela UFG?",
+              "id": 125164,
+              "answers": [
+                {
+                  "answer_id": 190592,
+                  "document_id": 247127,
+                  "question_id": 125164,
+                  "text": "Caixa\nEconômica Federal",
+                  "answer_start": 626,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Em que banco o bolsista deve ter conta corrente para bolsa financiada pelo CNPq?",
+              "id": 125163,
+              "answers": [
+                {
+                  "answer_id": 190591,
+                  "document_id": 247127,
+                  "question_id": 125163,
+                  "text": "Banco do Brasil",
+                  "answer_start": 396,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "VIII. comunicar à coordenação do PIP/UFG quaisquer eventuais problemas\nocorridos durante a execução do plano de trabalho;\n\nIX. fazer referência à sua condição de discente de iniciação à pesquisa nas\npublicações e trabalhos apresentados.\n\nArt. 19. Os (as) discentes Bolsistas participantes do PIP/UFG têm os seguintes\ndeveres adicionais:\n\nI. deverão possuir conta corrente própria e individual no Banco do Brasil (não é\naceita conta poupança), para bolsa financiada pelo CNPq;\n\nII. deverão possuir conta corrente própria e individual em qualquer dos bancos\ninformados no edital de bolsas (exceto digitais) ou conta poupança da Caixa\nEconômica Federal, para bolsa financiada pela UFG;\n\nIII. deverão atender às regras específicas da instituição financiadora da bolsa;\n\nIV. não poderão possuir vínculo como bolsistas em outros Programas\nInstitucionais ou de quaisquer agências nacionais, estrangeiras ou\ninternacionais de fomento ao ensino e à pesquisa, desenvolvimento\ntecnológico e inovação ou congêneres, não sendo considerado como",
+          "document_id": 247127
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "O bolsista em Iniciação Científica pode acumular mais de uma bolsa?",
+              "id": 125165,
+              "answers": [
+                {
+                  "answer_id": 190593,
+                  "document_id": 247128,
+                  "question_id": 125165,
+                  "text": "não poderão possuir vínculo como bolsistas em outros Programas\nInstitucionais ou de quaisquer agências nacionais, estrangeiras ou\ninternacionais de fomento ao ensino e à pesquisa, desenvolvimento\ntecnológico e inovação ou congêneres",
+                  "answer_start": 293,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "II. deverão possuir conta corrente própria e individual em qualquer dos bancos\ninformados no edital de bolsas (exceto digitais) ou conta poupança da Caixa\nEconômica Federal, para bolsa financiada pela UFG;\n\nIII. deverão atender às regras específicas da instituição financiadora da bolsa;\n\nIV. não poderão possuir vínculo como bolsistas em outros Programas\nInstitucionais ou de quaisquer agências nacionais, estrangeiras ou\ninternacionais de fomento ao ensino e à pesquisa, desenvolvimento\ntecnológico e inovação ou congêneres, não sendo considerado como\nacúmulo de bolsas aquelas derivadas de programas específicos com\nobjetivos assistenciais, de manutenção ou de permanência do discente;\n\nV. poderão acumular a bolsa de iniciação à pesquisa com estágio nãoobrigatório, desde que haja compatibilidade entre as atividades, demonstrada\npor declaração do (a) supervisor (a) do estágio e do (a) orientador (a) da\nbolsa;\n\nArt. 20. O (A) discente será considerado (a) inadimplente com o PIP/UFG quando não\ncumprir os deveres constantes nesta Diretriz Normativa e no Edital específico.\n\nParágrafo único. A situação de inadimplência poderá ser corrigida pelo (a) discente\nmediante a retificação do ato que a gerou e justificativa encaminhada à Coordenação\ndo PIP/UFG, referendada pelo (a) orientador (a), com no máximo seis (6) meses após\no final do período de execução do plano de trabalho.",
+          "document_id": 247128
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quando o aluno pode ser substituído no projeto de Iniciação Científica?",
+              "id": 125166,
+              "answers": [
+                {
+                  "answer_id": 190596,
+                  "document_id": 247129,
+                  "question_id": 125166,
+                  "text": "o (a) orientador (a) deverá substituir o (a) discente que concluir a graduação\ndurante o período de vigência de seu plano de trabalho; tiver a sua matrícula\ntrancada; não estiver executando satisfatoriamente o plano de trabalho\nproposto; ausentar-se, sem consentimento do(a) orientador(a), por mais de\n30 (trinta) dias consecutivos para executar atividades fora do plano de\ntrabalho;",
+                  "answer_start": 162,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "V. estar adimplente com o PIP/UFG.\n\nArt. 11. O discente no PIP/UFG será substituído ou terá sua participação finalizada de\nacordo com as seguintes condições:\n\nI. o (a) orientador (a) deverá substituir o (a) discente que concluir a graduação\ndurante o período de vigência de seu plano de trabalho; tiver a sua matrícula\ntrancada; não estiver executando satisfatoriamente o plano de trabalho\nproposto; ausentar-se, sem consentimento do(a) orientador(a), por mais de\n30 (trinta) dias consecutivos para executar atividades fora do plano de\ntrabalho;\n\nII. o (a) orientador (a) poderá realizar no máximo 3 (três) substituições de\ndiscentes durante a vigência do Edital. No caso de ultrapassar este número,\nsendo o discente bolsista, a bolsa será redistribuída pela Coordenação do\nPIP/UFG;\n\nIII. a substituição do (a) discente não poderá ser realizada pelo (a) orientador (a)\nno SIGAA-Módulo Pesquisa quando faltar menos de 90 (noventa) dias para o\ntérmino do período de execução do plano de trabalho;",
+          "document_id": 247129
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual é o período para envio de relatório parcial de Iniciação Científica?",
+              "id": 125167,
+              "answers": [
+                {
+                  "answer_id": 190598,
+                  "document_id": 247130,
+                  "question_id": 125167,
+                  "text": "apresentar relatórios parcial e final no SIGAA-Módulo Pesquisa, obedecendo\nas datas estabelecidas em edital ou fixadas pela Coordenação do PIP/UFG;",
+                  "answer_start": 271,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Quando entregar o relatório de atividades do programa de Iniciação Científica?",
+              "id": 125239,
+              "answers": [
+                {
+                  "answer_id": 190599,
+                  "document_id": 247130,
+                  "question_id": 125239,
+                  "text": "30 (trinta) dias após o encerramento de\nsua participação",
+                  "answer_start": 463,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "I. dedicar o mínimo de 20 (vinte) horas semanais às atividades de iniciação à\npesquisa, o que inclui horas em atividades presenciais ou não, conforme\nacordado com orientador (a), cuidando para que não haja prejuízo ao bom\nandamento do curso regular do (a) discente;\n\nII. apresentar relatórios parcial e final no SIGAA-Módulo Pesquisa, obedecendo\nas datas estabelecidas em edital ou fixadas pela Coordenação do PIP/UFG;\n\nIII. enviar relatório de atividades em até 30 (trinta) dias após o encerramento de\nsua participação, quando este ocorrer antes do término originalmente previsto\npara a execução do plano de trabalho;\n\nIV. participar do Seminário de Iniciação à Pesquisa Científica, Tecnológica e em\nInovação da UFG, com apresentação dos resultados de seu trabalho;\n\nV. comparecer, no mínimo, a 4 (quatro) atividades do Programa Diálogos em\nPesquisa e Inovação no período de execução do plano de trabalho, sendo\nque uma delas pode ser substituída pela participação no Congresso de\nPesquisa, Ensino e Extensão da UFG (CONPEEX).",
+          "document_id": 247130
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Como cadastrar um projeto de pesquisa?",
+              "id": 125168,
+              "answers": [
+                {
+                  "answer_id": 190601,
+                  "document_id": 247131,
+                  "question_id": 125168,
+                  "text": "cadastramento do projeto de pesquisa no sistema da UFG pelo\ncoordenador do projeto, com inclusão da certidão de ata de\naprovação do projeto pelo CD, Colegiado ou dirigente do órgão e,\nquando for o caso, do comprovante de financiamento e dos\ndocumentos relativos à aprovação do projeto nos comitês/comissões de ética.",
+                  "answer_start": 1298,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "II - submissão ao Coordenador e, quando for o caso à Coordenadoria\nde Pesquisa, que providenciará a avaliação preliminar do mérito\ntécnico e científico e da viabilidade financeira do projeto, a ser\nencaminhada para apreciação do CD (UA e UEB), do Colegiado\n(UAE) ou dirigente do Órgão;\nos projetos já aprovados por instituições ou órgãos de fomento à\npesquisa, bem como os aprovados por comissões especialmente\nconstituídas para este fim nos Programas de Pós-graduação,\nseguem a mesma tramitação dos demais, eliminando-se avaliação\ndo mérito técnico e científico e da viabilidade financeira do projeto;\n\fIII - aprovação pelo CD (UA e UEB), Colegiado (UAE) ou pelo\ndirigente do Órgão, observando para os servidores técnicoadministrativos se o tempo dedicado ao projeto é compatível com\nas atribuições do seu cargo;\nIV - encaminhamento do projeto de pesquisa ao Comitê de Ética em\nPesquisa (CEP), se for o caso, para análise e aprovação;\nV - encaminhamento do projeto de pesquisa à Comissão de Ética no\nUso de Animais (CEUA), se for o caso, para análise e aprovação;\nVI - encaminhamento do projeto de pesquisa que utilizar técnicas e\nmétodos de engenharia genética ou realizar pesquisas com\norganismo geneticamente modificado (OGM) e seus derivados à\nComissão Interna de Biossegurança (CIBio).\nVII - cadastramento do projeto de pesquisa no sistema da UFG pelo\ncoordenador do projeto, com inclusão da certidão de ata de\naprovação do projeto pelo CD, Colegiado ou dirigente do órgão e,\nquando for o caso, do comprovante de financiamento e dos\ndocumentos relativos à aprovação do projeto nos comitês/comissões de ética.\nArt. 13. A finalização de um projeto de pesquisa requer comprovação de\nprodução intelectual.\n",
+          "document_id": 247131
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "O que é um grupo de pesquisa?",
+              "id": 125177,
+              "answers": [
+                {
+                  "answer_id": 190617,
+                  "document_id": 247133,
+                  "question_id": 125177,
+                  "text": "conjunto de indivíduos organizados\nhierarquicamente, cujo fundamento organizador da hierarquia é a\nexperiência",
+                  "answer_start": 502,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "O que é uma linha de pesquisa?",
+              "id": 125179,
+              "answers": [
+                {
+                  "answer_id": 190616,
+                  "document_id": 247133,
+                  "question_id": 125179,
+                  "text": "expressão de temas aglutinadores de estudos\ncientíficos que se fundamentam em tradição investigativa, de onde\nse originam projetos cujos resultados guardam afinidades entre si.",
+                  "answer_start": 940,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "O que é o projeto de pesquisa?",
+              "id": 125171,
+              "answers": [
+                {
+                  "answer_id": 190615,
+                  "document_id": 247133,
+                  "question_id": 125171,
+                  "text": "investigação com início e final definidos,\nfundamentada em objetivos específicos, com metodologias\ndefinidas, visando à obtenção de resultados que impliquem o\ndesenvolvimento do conhecimento científico ou tecnológico.",
+                  "answer_start": 260,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Art. 9º As atividades de pesquisa serão desenvolvidas vinculadas a\nprojetos e, quando pertinente, aos grupos de pesquisa ou às linhas de pesquisa dos Programas\nde Pós-graduação, sendo que, para os efeitos desta Resolução, considera-se:\nI- Projeto de Pesquisa: investigação com início e final definidos,\nfundamentada em objetivos específicos, com metodologias\ndefinidas, visando à obtenção de resultados que impliquem o\ndesenvolvimento do conhecimento científico ou tecnológico.\nII - Grupo de Pesquisa: conjunto de indivíduos organizados\nhierarquicamente, cujo fundamento organizador da hierarquia é a\nexperiência, o destaque e a liderança no terreno científico ou\ntecnológico, em que há envolvimento profissional e permanente\ndesses indivíduos com as atividades de pesquisa e no qual o\ntrabalho se organiza em torno de linhas comuns de pesquisa, além\ndo que, em algum grau, compartilham instalações e equipamentos;\nIII - Linha de Pesquisa: expressão de temas aglutinadores de estudos\ncientíficos que se fundamentam em tradição investigativa, de onde\nse originam projetos cujos resultados guardam afinidades entre si.\n\f§ 1º A criação de Grupos de Pesquisa deverá observar as Normas do\nDiretório de Grupos de Pesquisa do CNPq e as Diretrizes para Credenciamento de Líderes e\nCertificação de Grupos de Pesquisa da UFG.\n§ 2º A responsabilidade pela criação do grupo de pesquisa e pela sua\natualização será do líder do grupo.\n§ 3º Caberá à PRPI a certificação dos grupos junto ao Diretório de\nGrupos de Pesquisa do CNPq.",
+          "document_id": 247133
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quem desenvolve as atividades de pesquisa?",
+              "id": 125172,
+              "answers": [
+                {
+                  "answer_id": 190619,
+                  "document_id": 247134,
+                  "question_id": 125172,
+                  "text": "professores do\nmagistério superior e do magistério do ensino básico, técnico e tecnológico e por discentes da\nUFG.",
+                  "answer_start": 510,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Os servidores técnico-administrativos podem participar de projetos de pesquisa?",
+              "id": 125173,
+              "answers": [
+                {
+                  "answer_id": 190627,
+                  "document_id": 247134,
+                  "question_id": 125173,
+                  "text": "Os servidores técnico-administrativos poderão exercer atividades de\npesquisa, desde que não comprometam as atividades do seu cargo e estejam previstas no\nplanejamento das atividades das unidades ou órgãos.",
+                  "answer_start": 630,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Com que tipos de recurso são desenvolvidas as atividades de pesquisa na UFG?",
+              "id": 125266,
+              "answers": [
+                {
+                  "answer_id": 190637,
+                  "document_id": 247134,
+                  "question_id": 125266,
+                  "text": "recursos orçamentários próprios ou oriundos de fundos externos, públicos ou privados",
+                  "answer_start": 901,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "CAPITULO I\nDAS DISPOSIÇÕES GERAIS\nArt. 2º Para os fins previstos nesta Resolução, atividades de pesquisa\nrelacionam-se à produção e à difusão de conhecimentos científicos básicos e aplicados,\nconhecimentos tecnológicos e conhecimentos culturais e artísticos.\n\f§ 1º A atividade de pesquisa, ao seu final, pressupõe como requisito\nimprescindível, para sua caracterização como tal, resultados na forma de produção intelectual\nem suas diferentes modalidades.\n§ 2º As atividades de pesquisa serão desenvolvidas por professores do\nmagistério superior e do magistério do ensino básico, técnico e tecnológico e por discentes da\nUFG.\n§ 3º Os servidores técnico-administrativos poderão exercer atividades de\npesquisa, desde que não comprometam as atividades do seu cargo e estejam previstas no\nplanejamento das atividades das unidades ou órgãos.\nArt. 3º As atividades de pesquisa na UFG serão desenvolvidas com\nrecursos orçamentários próprios ou oriundos de fundos externos, públicos ou privados\ncaptados pelos pesquisadores.\n§ 1º A UFG destinará dotação orçamentária específica, nunca inferior a\n6% (seis por cento), de seus recursos de custeio oriundos do tesouro, após descontar as\ndespesas básicas da instituição, para o financiamento de projetos de pesquisa.",
+          "document_id": 247134
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quem é responsável por captar recursos para  as pesquisas?",
+              "id": 125175,
+              "answers": [
+                {
+                  "answer_id": 190641,
+                  "document_id": 247136,
+                  "question_id": 125175,
+                  "text": "proponente(s) do(s) projeto(s)",
+                  "answer_start": 408,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "1º A UFG destinará dotação orçamentária específica, nunca inferior a\n6% (seis por cento), de seus recursos de custeio oriundos do tesouro, após descontar as\ndespesas básicas da instituição, para o financiamento de projetos de pesquisa.\n§ 2º A captação de recursos externos para a viabilização das atividades de\npesquisa constitui obrigação inerente às atividades de pesquisa, sendo de responsabilidade\ndo(s) proponente(s) do(s) projeto(s).\n§ 3º As atividades de pesquisa envolvendo recursos externos terão sua\ngestão financeira executada pelos coordenadores dos projetos, pela própria Universidade ou\npor suas Fundações de Apoio, em consonância com os requisitos das partes envolvidas e de\nacordo com a legislação vigente.\nArt. 4º As atividades de pesquisa serão incentivadas, acompanhadas e\navaliadas pelas Unidades ou Órgãos, e contarão com o apoio/acompanhamento da PróReitoria de Pesquisa e Inovação (PRPI).\nArt. 5º A citação explícita do nome da UFG é obrigatória em\npublicações, ou em outras formas de divulgação do conhecimento, oriundos de pesquisas\ndesenvolvidas no âmbito da universidade ou que contem com a participação de seus docentes,\ndiscentes ou técnicos-administrativos, devendo seguir regulamentação específica.\nArt. 6º Os direitos relativos à propriedade intelectual resultante de\natividades de pesquisa realizadas no âmbito da UFG por seus servidores e discentes serão\nobjeto de proteção.\nParágrafo único. Seguindo a legislação vigente, a PRPI normatizará as\nregras de titularidade, de registro, de gestão e de transferência da propriedade intelectual.",
+          "document_id": 247136
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual a tramitação para os projetos de pesquisa com financiamento aprovado?",
+              "id": 125170,
+              "answers": [
+                {
+                  "answer_id": 190646,
+                  "document_id": 247137,
+                  "question_id": 125170,
+                  "text": "seguem a mesma tramitação dos demais, eliminando-se avaliação\ndo mérito técnico e científico e da viabilidade financeira do projeto;",
+                  "answer_start": 684,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Art. 11. Todos os participantes de projetos de pesquisa deverão manter\natualizados os seus currículos na plataforma Lattes do CNPq.\nArt. 12. Os projetos de pesquisa terão a seguinte tramitação interna na\nUFG:\nI - submissão ao Coordenador e, quando for o caso à Coordenadoria\nde Pesquisa, que providenciará a avaliação preliminar do mérito\ntécnico e científico e da viabilidade financeira do projeto, a ser\nencaminhada para apreciação do CD (UA e UEB), do Colegiado\n(UAE) ou dirigente do Órgão; \nII - os projetos já aprovados por instituições ou órgãos de fomento à\npesquisa, bem como os aprovados por comissões especialmente\nconstituídas para este fim nos Programas de Pós-graduação,\nseguem a mesma tramitação dos demais, eliminando-se avaliação\ndo mérito técnico e científico e da viabilidade financeira do projeto;\nIII - aprovação pelo CD (UA e UEB), Colegiado (UAE) ou pelo\ndirigente do Órgão, observando para os servidores técnicoadministrativos se o tempo dedicado ao projeto é compatível com\nas atribuições do seu cargo;\nIV - encaminhamento do projeto de pesquisa ao Comitê de Ética em\nPesquisa (CEP), se for o caso, para análise e aprovação;\nV - encaminhamento do projeto de pesquisa à Comissão de Ética no\nUso de Animais (CEUA), se for o caso, para análise e aprovação;\nVI - encaminhamento do projeto de pesquisa que utilizar técnicas e\nmétodos de engenharia genética ou realizar pesquisas com\norganismo geneticamente modificado (OGM) e seus derivados à\nComissão Interna de Biossegurança (CIBio).",
+          "document_id": 247137
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quem pode coordenar projetos de pesquisa?",
+              "id": 125180,
+              "answers": [
+                {
+                  "answer_id": 191108,
+                  "document_id": 254195,
+                  "question_id": 125180,
+                  "text": "servidor docente ou\ntécnico-administrativo em efetivo exercício na UFG.",
+                  "answer_start": 565,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "4º Solicitações de cadastro e/ou certificação no Diretório de Grupos de\nPesquisa do CNPq somente serão realizadas se houver aprovação prévia do CD (UA e UEB),\ndo Colegiado (UAE) ou do dirigente do Órgão.\n§ 5º Caso não exista manifestação formal por parte do CD (UA e UEB),\ndo Colegiado (UAE) ou do dirigente do Órgão, 60 (sessenta) dias após a apresentação da\nsolicitação pelo Líder, o pedido, mediante demanda e justificativa, poderá ser apreciado\ndiretamente pela PRPI, que dará conhecimento à unidade de origem.\nArt.10. O projeto de pesquisa será coordenado por servidor docente ou\ntécnico-administrativo em efetivo exercício na UFG.\n§ 1º Excetuam-se do disposto no caput deste artigo os doutores\nservidores docentes ou técnico-administrativos inativos da UFG, mas participantes do\nPrograma UFG Voluntário, Professores/Pesquisadores Visitantes e os Bolsistas de PósDoutorado regularmente cadastrados na Pró-Reitoria de Pós-graduação.\n§ 2º A participação de servidor técnico-administrativo em atividades de\npesquisa, como coordenador de projeto, implica a compatibilidade do tema da pesquisa com a\nformação ou com sua atividade na UFG, além de não comprometer as atividades técnicas e\nadministrativas do seu cargo.",
+          "document_id": 254195
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são os deveres dos bolsistas em Iniciação Científica?",
+              "id": 125162,
+              "answers": [
+                {
+                  "answer_id": 191111,
+                  "document_id": 254196,
+                  "question_id": 125162,
+                  "text": "deverão possuir conta corrente própria e individual no Banco do Brasil (não é\naceita conta poupança), para bolsa financiada pelo CNPq;\n\nII. deverão possuir conta corrente própria e individual em qualquer dos bancos\ninformados no edital de bolsas (exceto digitais) ou conta poupança da Caixa\nEconômica Federal, para bolsa financiada pela UFG;\n\nIII. deverão atender às regras específicas da instituição financiadora da bolsa;\n\nIV. não poderão possuir vínculo como bolsistas em outros Programas\nInstitucionais ou de quaisquer agências nacionais, estrangeiras ou\ninternacionais de fomento ao ensino e à pesquisa, desenvolvimento\ntecnológico e inovação ou congêneres, não sendo considerado como\nacúmulo de bolsas aquelas derivadas de programas específicos com\nobjetivos assistenciais, de manutenção ou de permanência do discente;\n\nV. poderão acumular a bolsa de iniciação à pesquisa com estágio nãoobrigatório, desde que haja compatibilidade entre as atividades, demonstrada\npor declaração do (a) supervisor (a) do estágio e do (a) orientador (a) da\nbolsa;",
+                  "answer_start": 341,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "VIII. comunicar à coordenação do PIP/UFG quaisquer eventuais problemas\nocorridos durante a execução do plano de trabalho;\n\nIX. fazer referência à sua condição de discente de iniciação à pesquisa nas\npublicações e trabalhos apresentados.\n\nArt. 19. Os (as) discentes Bolsistas participantes do PIP/UFG têm os seguintes\ndeveres adicionais:\n\nI. deverão possuir conta corrente própria e individual no Banco do Brasil (não é\naceita conta poupança), para bolsa financiada pelo CNPq;\n\nII. deverão possuir conta corrente própria e individual em qualquer dos bancos\ninformados no edital de bolsas (exceto digitais) ou conta poupança da Caixa\nEconômica Federal, para bolsa financiada pela UFG;\n\nIII. deverão atender às regras específicas da instituição financiadora da bolsa;\n\nIV. não poderão possuir vínculo como bolsistas em outros Programas\nInstitucionais ou de quaisquer agências nacionais, estrangeiras ou\ninternacionais de fomento ao ensino e à pesquisa, desenvolvimento\ntecnológico e inovação ou congêneres, não sendo considerado como\nacúmulo de bolsas aquelas derivadas de programas específicos com\nobjetivos assistenciais, de manutenção ou de permanência do discente;\n\nV. poderão acumular a bolsa de iniciação à pesquisa com estágio nãoobrigatório, desde que haja compatibilidade entre as atividades, demonstrada\npor declaração do (a) supervisor (a) do estágio e do (a) orientador (a) da\nbolsa;\n\nArt. 20. O (A) discente será considerado (a) inadimplente com o PIP/UFG quando não\ncumprir os deveres constantes nesta Diretriz Normativa e no Edital específico.\n\nParágrafo único. A situação de inadimplência poderá ser corrigida pelo (a) discente\nmediante a retificação do ato que a gerou e justificativa encaminhada à Coordenação",
+          "document_id": 254196
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são os objetivos do TCC?",
+              "id": 125182,
+              "answers": [
+                {
+                  "answer_id": 191115,
+                  "document_id": 254197,
+                  "question_id": 125182,
+                  "text": "exercitar a capacidade criativa, a originalidade, e a implementação de ideias\nempreendedoras e/ou científicas;\nII – aprimorar habilidades de análise e síntese através da realização de trabalhos individuais;\nIII – consolidar e colocar em prática os conhecimentos adquiridos durante o curso;\nIV – desenvolver a habilidade de escrita de um texto técnico-científico, com clareza e\nprecisão.",
+                  "answer_start": 625,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Das Disposições Preliminares\nArt. 1. Este regulamento define as diretrizes técnicas, procedimentos de acompanhamento e\ncritérios de avaliação do Trabalho de Conclusão de Curso (TCC).\nArt. 2. O TCC é componente curricular obrigatório do Bacharelado em Ciência da\nComputação e tem como parâmetro a missão institucional do Instituto de Informática (INF)\nda Universidade Federal de Goiás (UFG) de “Produzir e socializar conhecimento em\ncomputação e tecnologia da informação e formar cidadãos capazes de contribuir com o\ndesenvolvimento científico, humano e social”.\nArt. 3. O TCC tem como objetivo prover meios para o aluno:\nI – exercitar a capacidade criativa, a originalidade, e a implementação de ideias\nempreendedoras e/ou científicas;\nII – aprimorar habilidades de análise e síntese através da realização de trabalhos individuais;\nIII – consolidar e colocar em prática os conhecimentos adquiridos durante o curso;\nIV – desenvolver a habilidade de escrita de um texto técnico-científico, com clareza e\nprecisão.\nArt. 4. O TCC será elaborado, sob orientação de um professor do INF, por meio das\ndisciplinas Projeto Final de Curso I (PFC I) e Projeto Final de Curso II (PFC II).\nArt. 5. O TCC consiste em um trabalho individual no qual o aluno deverá aplicar o\nconhecimento apreendido e desenvolvido ao longo do curso de Bacharelado em Ciências da\nComputação.",
+          "document_id": 254197
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são os possíveis produtos do TCC?",
+              "id": 125185,
+              "answers": [
+                {
+                  "answer_id": 191116,
+                  "document_id": 254198,
+                  "question_id": 125185,
+                  "text": "monografia;\nII – artigo científico completo;\nIII – relatório de iniciação científica.",
+                  "answer_start": 182,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Art. 6. A forma pela qual se revestirá o TCC deverá ser definida de acordo com o problema\ninvestigado e os objetivos da pesquisa proposta.\nArt. 7. São produtos possíveis do TCC:\nI – monografia;\nII – artigo científico completo;\nIII – relatório de iniciação científica.\n§ 1º A monografia deverá seguir as indicações formais do Guia para Apresentação de\nTrabalhos Técnicos-Científicos na UFG.\n§ 2º O artigo científico deve ser completo e ter sido publicado, ou aceito para publicação, em\nperiódico científico com corpo editorial ou em anais de conferência com comitê de avaliação,\ne deve ter o aluno como autor principal e o professor orientador de TCC como coautor. Cada\nartigo científico só poderá ser o produto do TCC de apenas um aluno.\n\f§ 3º O relatório de iniciação científica deve ter sido devidamente aprovado pela Pró-Reitoria\nde Pesquisa e Pós-Graduação (PRPPG) da UFG e o orientador da Iniciação Científica deve\nser o mesmo orientador do TCC.\n§ 4º Em qualquer das modalidades acima o aluno deverá se inscrever nas disciplinas PFC I e\nPFC II, cada uma em um semestre, nas datas previstas no calendário acadêmico.\nCapítulo II\nDas Atribuições",
+          "document_id": 254198
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quando a proposta de TCC deve ser entregue?",
+              "id": 125183,
+              "answers": [
+                {
+                  "answer_id": 191118,
+                  "document_id": 254199,
+                  "question_id": 125183,
+                  "text": "no semestre que\nantecede à matrícula do aluno na disciplina PFC I",
+                  "answer_start": 1306,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "O que é a proposta de TCC?",
+              "id": 125184,
+              "answers": [
+                {
+                  "answer_id": 191117,
+                  "document_id": 254199,
+                  "question_id": 125184,
+                  "text": "um documento elaborado pelo aluno, como pré–requisito para\nmatrícula na disciplina PFC I",
+                  "answer_start": 60,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Em caso de monografia, o que a proposta de TCC deve conter?",
+              "id": 125480,
+              "answers": [
+                {
+                  "answer_id": 191119,
+                  "document_id": 254199,
+                  "question_id": 125480,
+                  "text": "identificação, contendo o título do TCC, o nome do aluno, do professor orientador e do\ncoorientador, caso haja;\nII – objetivos;\nIII – justificativa;\nIV – fundamentação teórica;\nV – metodologia;\n\fVI – cronograma;\nVII – referências bibliográficas",
+                  "answer_start": 386,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Em caso de relatório de iniciação científica, o que deve ser entregue como proposta de TCC?",
+              "id": 125481,
+              "answers": [
+                {
+                  "answer_id": 191120,
+                  "document_id": 254199,
+                  "question_id": 125481,
+                  "text": "plano de trabalho entregue pelo aluno junto à Pró-Reitoria de Pesquisa e Pós-graduação da\nUFG",
+                  "answer_start": 728,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Em caso de artigo científico, o que a proposta de TCC deve conter?",
+              "id": 125482,
+              "answers": [
+                {
+                  "answer_id": 191122,
+                  "document_id": 254199,
+                  "question_id": 125482,
+                  "text": "o nome do aluno e do\norientador, resumo, introdução, seções descrevendo o trabalho, conclusão e referências\nbibliográficas",
+                  "answer_start": 1106,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Capítulo IV\nDa Proposta de TCC\nArt. 18. A Proposta de TCC é um documento elaborado pelo aluno, como pré–requisito para\nmatrícula na disciplina PFC I, com a orientação e supervisão do professor orientador,\ndescrevendo seu TCC a ser realizado nas disciplinas PFC I e PFC II.\n§ 1º Caso o produto do TCC seja uma monografia, a proposta de TCC deve conter pelo menos\nos seguintes itens:\nI – identificação, contendo o título do TCC, o nome do aluno, do professor orientador e do\ncoorientador, caso haja;\nII – objetivos;\nIII – justificativa;\nIV – fundamentação teórica;\nV – metodologia;\n\fVI – cronograma;\nVII – referências bibliográficas;\n§ 2º Caso o produto do TCC seja um relatório de iniciação científica, a proposta corresponde\nao plano de trabalho entregue pelo aluno junto à Pró-Reitoria de Pesquisa e Pós-graduação da\nUFG, durante o período de inscrição para a seleção do PIBIC/PIVIC, e deve apresentar o\nmesmo formato exigido pelo edital de seleção.\n§ 3º Caso o produto do TCC seja um artigo científico, a proposta corresponderá ao texto do\nartigo. Nesse caso, o texto da proposta deve conter pelo menos: o nome do aluno e do\norientador, resumo, introdução, seções descrevendo o trabalho, conclusão e referências\nbibliográficas.\n§ 4º A proposta de TCC deve ser entregue pelo aluno ao professor orientador no semestre que\nantecede à matrícula do aluno na disciplina PFC I, obedecendo os prazos estipulados pela\nCoordenação do TCC.",
+          "document_id": 254199
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são os critérios considerados para a avaliação do TCC?",
+              "id": 125188,
+              "answers": [
+                {
+                  "answer_id": 191169,
+                  "document_id": 254203,
+                  "question_id": 125188,
+                  "text": "delimitação adequada do objeto;\nII – relevância do desenvolvimento do objeto;\nIII – abordagem adequada do problema objeto da pesquisa;\nIV – domínio do conteúdo;\nV – abordagem crítica, analítica e propositiva;\nVI – clareza e objetividade;\nVII – coesão e unidade do trabalho;\nVIII – análise interdisciplinar;\nIX – observância dos aspectos formais da língua;\nX – respeito às diretrizes técnicas e formais definidas no Guia para Apresentação de\nTrabalhos Técnicos-Científicos na UFG.",
+                  "answer_start": 730,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual a duração máxima para a apresentação de defesa de TCC?",
+              "id": 125187,
+              "answers": [
+                {
+                  "answer_id": 191167,
+                  "document_id": 254203,
+                  "question_id": 125187,
+                  "text": "30 (trinta)\nminutos",
+                  "answer_start": 383,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Art. 34. A banca avaliadora de TCC deverá ler o produto do TCC do aluno antes da defesa,\navaliá-lo e, se necessário, sugerir melhorias e correções no texto do produto.\nArt. 35. A banca avaliadora de TCC deverá assistir à defesa do aluno e arguí-lo ao final de sua\napresentação.\n\fCapítulo VIII\nDa Defesa do TCC\nArt. 36. A apresentação da defesa de TCC do aluno terá duração máxima de 30 (trinta)\nminutos. Cada membro da banca avaliadora terá 10 (dez) minutos para fazer sua arguição.\nArt. 37. Cada membro da banca avaliadora atribuirá uma Nota de Produto ao produto do TCC\nredigido pelo aluno. Esta nota pode variar de 0 (zero) a 10 (dez) pontos.\nParágrafo Único. Na avaliação do TCC serão considerados os seguintes critérios:\nI – delimitação adequada do objeto;\nII – relevância do desenvolvimento do objeto;\nIII – abordagem adequada do problema objeto da pesquisa;\nIV – domínio do conteúdo;\nV – abordagem crítica, analítica e propositiva;\nVI – clareza e objetividade;\nVII – coesão e unidade do trabalho;\nVIII – análise interdisciplinar;\nIX – observância dos aspectos formais da língua;\nX – respeito às diretrizes técnicas e formais definidas no Guia para Apresentação de\nTrabalhos Técnicos-Científicos na UFG.\nArt. 38. Cada membro da banca avaliadora atribuirá uma Nota de Apresentação à defesa oral\ndo TCC do aluno, cujo valor pode pode variar de 0 (zero) a 10 (dez) pontos. A nota será\ncorrespondente à avaliação e às respostas dadas pelo aluno à arguição pela banca avaliadora.\nParágrafo Único. Na avaliação da apresentação e das respostas às arguições orais serão\nconsiderados os seguintes critérios:",
+          "document_id": 254203
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quem são os membros da banca avaliadora de TCC?",
+              "id": 125189,
+              "answers": [
+                {
+                  "answer_id": 191174,
+                  "document_id": 254204,
+                  "question_id": 125189,
+                  "text": "professor orientador e por mais um\nprofessor avaliador",
+                  "answer_start": 81,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Da Banca Avaliadora de TCC\nArt. 33. A banca avaliadora de TCC será composta pelo professor orientador e por mais um\nprofessor avaliador, o qual deve ser lotado no Instituto de Informática da UFG, e que não seja\ncoorientador do aluno.\n§ 1º A banca avaliadora de TCC será presidida pelo professor orientador ou, em sua ausência,\npelo professor coorientador (se houver) ou, em último caso, por um professor indicado pelo\nCoordenador de TCC.\n§ 2º Quando houver um coorientador, o mesmo também poderá participar da banca\navaliadora, a critério do professor orientador.\n§ 3º A critério do professor orientador poderá haver a indicação de 1 (um) professor externo\npor banca avaliadora.\n§ 4º A indicação de que trata o parágrafo anterior deverá ser aprovada pela Coordenação do\nTCC.\n§ 5º Os nomes dos membros da banca avaliadora serão indicados pelo professor orientador e\ndevem ser divulgados em 5 (cinco) dias úteis após a entrega do produto do TCC na\nSecretaria.\n§ 6º As datas, horários, locais e composição das bancas avaliadoras serão divulgados pela\nCoordenação de TCC, que observará o calendário da disciplina PFC II.",
+          "document_id": 254204
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Um componente curricular cursado como NL pode ser aproveitado como NC ou NE?",
+              "id": 125190,
+              "answers": [
+                {
+                  "answer_id": 191177,
+                  "document_id": 254205,
+                  "question_id": 125190,
+                  "text": "O estudante que cursou componente curricular de NL no curso ao\nqual está vinculado poderá requerer aproveitamento deste como NC ou NE, se houver\nequivalência de seus conteúdos programáticos e com carga horária igual ou superior ao\ncomponente curricular a ser aproveitado",
+                  "answer_start": 574,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "§ 1º O parecer sobre o aproveitamento do componente curricular deverá ser\nemitido pelo coordenador do curso, ouvindo-se, se necessário, o NDE ou a unidade acadêmica\nou unidade acadêmica especial responsável pelo componente curricular.\n§ 2º Os componentes curriculares aproveitados deverão constar do histórico\ne do extrato acadêmico, conforme previsto nos artigos119 e 120 deste RGCG.\n§ 3º No caso de aproveitamento de componente curricular de estágio, a\nequivalência que trata o caput deste artigo deverá ser 100% da carga horária do componente\nde estágio da UFG.\nArt. 95. O estudante que cursou componente curricular de NL no curso ao\nqual está vinculado poderá requerer aproveitamento deste como NC ou NE, se houver\nequivalência de seus conteúdos programáticos e com carga horária igual ou superior ao\ncomponente curricular a ser aproveitado.\n§ 1º O aproveitamento fica condicionado ao cumprimento dos pré e/ou corequisitos do componente a ser aproveitado.\n§ 1º O aproveitamento fica condicionado ao cumprimento prévio dos pré\ne/ou co-requisitos do componente a ser aproveitado e à manutenção do vínculo do estudante\nno semestre em que foi cursado o componente curricular de NL. (Redação dada pela\nResolução CEPEC Nº 1661, de 29/11/2019)\n§ 2º O componente curricular originalmente cursado será retirado do extrato\nacadêmico, constando apenas o componente curricular aproveitado.",
+          "document_id": 254205
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Os componentes curriculares cursados antes de ingressar no curso atual, podem ser aproveitados como Núcleo Livre?",
+              "id": 125191,
+              "answers": [
+                {
+                  "answer_id": 191181,
+                  "document_id": 254206,
+                  "question_id": 125191,
+                  "text": "poderão ser aproveitados\ncomo Núcleo Livre, desde que existentes no banco de componentes curriculares cadastrados\nna UFG",
+                  "answer_start": 381,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Seção VI\nDo Aproveitamento de Componente Curricular e de Atividades Complementares\nArt. 91. O estudante terá direito a requerer aproveitamento de componente\ncurricular cursado na educação superior antes de seu ingresso no curso atual na UFG.\n§ 1º Componentes curriculares cursados pelo estudante antes de ingressar no\ncurso atual, não aproveitados como Núcleo Comum ou Específico, poderão ser aproveitados\ncomo Núcleo Livre, desde que existentes no banco de componentes curriculares cadastrados\nna UFG.\n\f§ 2º Componentes curriculares cursados pelo estudante na própria UFG em\noutro(s) vínculo(s), que sejam de mesmo código ou que sejam equivalentes do componente do\nvínculo atual, deverão ser aproveitados. (Incluído pela Resolução CEPEC Nº 1661, de\n§ 3º O aproveitamento de componente curricular poderá abreviar a duração\ndo curso de graduação para um tempo inferior ao médio previsto no PPC, de acordo com a\nlegislação em vigor.\n§ 4º Componentes curriculares, como monografia ou projeto final de curso,\nnão poderão ser aproveitados, salvo se cursados na UFG e em cursos cuja titulação seja a\nmesma conferida no diploma do curso atual.\n§ 5º No caso de componente curricular de Estágio, este só poderá ser\naproveitado quando tiver sido realizado no mesmo curso, grau acadêmico e habilitação, se\nhouver.",
+          "document_id": 254206
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual é a porcentagem mínima de carga horária para aproveitamento de componente curricular?",
+              "id": 125192,
+              "answers": [
+                {
+                  "answer_id": 191183,
+                  "document_id": 254207,
+                  "question_id": 125192,
+                  "text": "75%",
+                  "answer_start": 621,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "II- não existência de componente curricular equivalente em novas\nmatrizes curriculares dos cursos da UFG;\n[suspenso]; (Redação dada pela Resolução CONSUNI Nº 33/2020, de\nimpossibilidade da UFG oferecer o componente curricular no mesmo\nperíodo em que o estudante tenha condições de concluir o curso,\nrespeitando-se os pré-requisitos e co-requisitos e conforme o disposto\nno art. 94 deste RGCG.\n[suspenso]. (Redação dada pela Resolução CONSUNI Nº 33/2020, de\n\nArt. 94. A análise do pedido de aproveitamento de componente curricular\nfar-se-á com base na equivalência de seus conteúdos programáticos e que tenha, pelo menos,\n75% (setenta e cinco por cento) da carga horária do componente curricular da UFG.\n\n\f§ 1º O parecer sobre o aproveitamento do componente curricular deverá ser\nemitido pelo coordenador do curso, ouvindo-se, se necessário, o NDE ou a unidade acadêmica\nou unidade acadêmica especial responsável pelo componente curricular.\n§ 2º Os componentes curriculares aproveitados deverão constar do histórico\ne do extrato acadêmico, conforme previsto nos artigos119 e 120 deste RGCG.\n§ 3º No caso de aproveitamento de componente curricular de estágio, a\nequivalência que trata o caput deste artigo deverá ser 100% da carga horária do componente\nde estágio da UFG.\nArt. 95. O estudante que cursou componente curricular de NL no curso ao\nqual está vinculado poderá requerer aproveitamento deste como NC ou NE, se houver\nequivalência de seus conteúdos programáticos e com carga horária igual ou superior ao\ncomponente curricular a ser aproveitado.",
+          "document_id": 254207
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual é o prazo para solicitar segunda chamada ao professor?",
+              "id": 125193,
+              "answers": [
+                {
+                  "answer_id": 191189,
+                  "document_id": 254208,
+                  "question_id": 125193,
+                  "text": "7 (sete) dias após a data de\nrealização da avaliação",
+                  "answer_start": 172,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como solicitar segunda chamada de avaliação?",
+              "id": 125194,
+              "answers": [
+                {
+                  "answer_id": 191187,
+                  "document_id": 254208,
+                  "question_id": 125194,
+                  "text": "O estudante poderá solicitar segunda chamada de avaliação de\ncomponentes curriculares à unidade acadêmica ou à unidade acadêmica especial responsável\npelo componente curricular, até 7 (sete) dias após a data da realização da avaliação",
+                  "answer_start": 235,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como solicitar segunda chamada de avaliação em um curso à distância?",
+              "id": 125195,
+              "answers": [
+                {
+                  "answer_id": 191188,
+                  "document_id": 254208,
+                  "question_id": 125195,
+                  "text": "o pedido de segunda chamada\ndeverá ser entregue ou enviado por meio eletrônico ao coordenador de curso",
+                  "answer_start": 512,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como solicitar a revisão de nota de avaliação?",
+              "id": 125196,
+              "answers": [
+                {
+                  "answer_id": 191191,
+                  "document_id": 254208,
+                  "question_id": 125196,
+                  "text": "O estudante poderá solicitar ao professor revisão de nota de\navaliação, no prazo máximo de 7 (sete) dias,a partir da data de entrega do trabalho ou da prova",
+                  "answer_start": 755,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o prazo para solicitar revisão de nota de avaliação?",
+              "id": 125198,
+              "answers": [
+                {
+                  "answer_id": 191197,
+                  "document_id": 254208,
+                  "question_id": 125198,
+                  "text": "7 (sete) dias",
+                  "answer_start": 1028,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Seção II\nDa Segunda Chamada de Avaliação\nArt. 83. O estudante que deixar de realizar avaliações do componente\ncurricular poderá solicitar ao professor segunda chamada, até 7 (sete) dias após a data de\nrealização da avaliação.\nArt. 84. O estudante poderá solicitar segunda chamada de avaliação de\ncomponentes curriculares à unidade acadêmica ou à unidade acadêmica especial responsável\npelo componente curricular, até 7 (sete) dias após a data da realização da avaliação.\nParágrafo único. Nos cursos a distância, o pedido de segunda chamada\ndeverá ser entregue ou enviado por meio eletrônico ao coordenador de curso, e, caso seja\ndeferido, caberá à coordenação do curso definir a data da nova avaliação.\n\nSeção III\nDa Revisão de Nota de Avaliação\nArt. 85. O estudante poderá solicitar ao professor revisão de nota de\navaliação, no prazo máximo de 7 (sete) dias,a partir da data de entrega do trabalho ou da prova.\nArt. 86. O estudante poderá solicitar revisão de nota de avaliação de\ncomponentes curriculares, no prazo máximo de 7 (sete) dias, à unidade acadêmica ou à\nunidade acadêmica especial responsável pelo componente curricular.\nParágrafo único. Nos cursos a distância, o pedido de revisão de nota de\navaliação deverá ser entregue ou enviado por meio eletrônico ao coordenador de curso.",
+          "document_id": 254208
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual é a frequência mínima obrigatória?",
+              "id": 125199,
+              "answers": [
+                {
+                  "answer_id": 191207,
+                  "document_id": 254209,
+                  "question_id": 125199,
+                  "text": "75%",
+                  "answer_start": 76,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual é a frequência mínima obrigatória para cursos à distância?",
+              "id": 125200,
+              "answers": [
+                {
+                  "answer_id": 191209,
+                  "document_id": 254209,
+                  "question_id": 125200,
+                  "text": "75%",
+                  "answer_start": 1316,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual é a frequência exigida para estágio obrigatório?",
+              "id": 125201,
+              "answers": [
+                {
+                  "answer_id": 191208,
+                  "document_id": 254209,
+                  "question_id": 125201,
+                  "text": "100%",
+                  "answer_start": 267,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Como solicitar a revisão de frequência?",
+              "id": 125202,
+              "answers": [
+                {
+                  "answer_id": 191212,
+                  "document_id": 254209,
+                  "question_id": 125202,
+                  "text": "O estudante poderá solicitar revisão de frequência ao professor do\ncomponente curricular até 5 (cinco) dias após a data limite para consolidação do componente\ncurricular, prevista no calendário acadêmico",
+                  "answer_start": 2115,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual o prazo para solicitar revisão de frequência?",
+              "id": 125203,
+              "answers": [
+                {
+                  "answer_id": 191215,
+                  "document_id": 254209,
+                  "question_id": 125203,
+                  "text": "5 (cinco) dias após a data limite para consolidação do componente\ncurricular",
+                  "answer_start": 2208,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Da Frequência\nArt. 87. Será obrigatória ao estudante a frequência mínima de 75% (setenta\ne cinco por cento) da carga horária de cada componente curricular, nos cursos presenciais.\n§ 1º Nos componentes curriculares de estágio obrigatório, a frequência\nexigida será de 100% (cem por cento) e o coordenador de curso, orientador e/ou coordenador\nde estágio deverá oferecer formas de reposição para compensação das faltas justificadas, a fim\nde cumprimento de carga horária em sua totalidade.\n\n\f§ 2º O registro das faltas às aulas, no sistema acadêmico, será de\nresponsabilidade do professor do componente curricular.\n§ 2º O registro das faltas às aulas, no sistema acadêmico, será de\nresponsabilidade do professor do componente curricular, que deverá estar atualizado e\ndisponível ao discente. (Redação dada pela Resolução CEPEC Nº 1661, de 29/11/2019)\n§ 3º O registro no sistema acadêmico ficará disponível para consulta pelo\ncoordenador e secretário de curso e vice-diretor da unidade acadêmica ou subchefe da unidade\nacadêmica especial responsável pelo componente curricular.\n§ 4º A frequência será computada por meio de participação nas atividades\nprevistas nos planos de ensino do componente curricular. (Incluído pela Resolução CONSUNI\nArt. 88. Será obrigatória ao estudante a frequência de participação mínima\nde 75% (setenta e cinco por cento) do total das atividades presenciais e não presenciais\nprevistas no componente curricular, nos cursos a distância.\n§ 1º O registro das faltas nas atividades presenciais e não presenciais será de\nresponsabilidade do professor do componente curricular.\n§ 1º O registro das faltas nas atividades presenciais e não presenciais será de\nresponsabilidade do professor do componente curricular, que deverá estar atualizado e\ndisponível ao discente. (Redação dada pela Resolução CEPEC Nº 1661, de 29/11/2019)\n§ 2º O registro no sistema acadêmico ficará disponível para consulta pelo\ncoordenador e secretário de curso e vice-diretor da unidade acadêmica ou subchefe da unidade\nacadêmica especial responsável pelo componente curricular.\nSeção V\nDa Revisão de Frequência\nArt. 89. O estudante poderá solicitar revisão de frequência ao professor do\ncomponente curricular até 5 (cinco) dias após a data limite para consolidação do componente\ncurricular, prevista no calendário acadêmico.\nArt. 90. O estudante poderá solicitar em até 5 (cinco) dias após a data limite\npara consolidação do componente curricular, prevista no calendário acadêmico, revisão de\nfrequência de componentes curriculares à unidade acadêmica ou à unidade acadêmica especial\nresponsável pelo componente curricular.",
+          "document_id": 254209
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Qual o percentual mínimo da carga horária do curso é necessário para fazer estágio?",
+              "id": 125204,
+              "answers": [
+                {
+                  "answer_id": 191225,
+                  "document_id": 254210,
+                  "question_id": 125204,
+                  "text": "10,67",
+                  "answer_start": 154,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Qual a carga horária diária máxima permitida para estágio?",
+              "id": 125205,
+              "answers": [
+                {
+                  "answer_id": 191222,
+                  "document_id": 254210,
+                  "question_id": 125205,
+                  "text": "6 (seis) horas",
+                  "answer_start": 386,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "CAPÍTULO III\nDO ESTÁGIO\nArt. 3º - O estágio curricular não-obrigatório poderá ser realizado a partir do 2º período\ndo Curso ou a partir do cumprimento de 10,67 (dez vírgula sessenta e sete) por cento da carga horária\ndo curso. A carga horária semanal do estágio deverá ser compatível com as atividades acadêmicas do\naluno, observando que a carga horária do estágio não poderá exceder a 6 (seis) horas diárias perfazendo\no total de 30 (trinta) horas semanais.\nParágrafo único - A carga horária de que trata o parágrafo primeiro desse artigo, será\naprovada pela Coordenação de Estágio mediante a apresentação de Termo de\nCompromisso devidamente assinado pelo Supervisor de Estágio;\nArt. 4º - O estágio, quando realizado fora da Universidade Federal de Goiás, será\ndesenvolvido ou intermediado em órgão, entidade ou empresa que possua convênio celebrado com a\nreferida autarquia.\nArt. 5º - As atividades do estagiário devem ser compatíveis com o período de sua\nformação.\nParágrafo único - As atividades do estagiário deverão ser descritas no Plano de Estágio\n(anexo I), o qual deverá ser aprovado pelo Coordenador de Estágio e pelo Supervisor de\nEstágio.\nArt. 6º - O estagiário deverá possuir seguro contra acidentes pessoais, cuja\nresponsabilidade do pagamento será assumida pelo concedente.\nArt. 7º - As atividades a serem desenvolvidas no estágio deverão ser acompanhadas pelo\nOrientador de Estágio e pelo Supervisor de Estágio.\n§ 1º - O Supervisor de Estágio deverá ser um profissional colaborador do local do\nestágio, graduado em Computação ou áreas afins.\n§ 2º - O Orientador de estágio deverá ser um professor do Instituto de Informática.\n§ 3º - O planejamento das atividades contará com a participação do estagiário.\nArt. 8º – O estagiário encaminhará à Coordenação de Estágio, semestralmente, o\n\frelatório semestral (anexo VI) descrevendo as atividades desenvolvidas.\nArt. 9º – O estagiário encaminhará à Coordenação de Estágio, ao final do estágio, o\nrelatório final (anexo V) descrevendo as atividades desenvolvidas.\nArt. 10 – O Termo de Compromisso do estágio deverá ser assinado, em no mínimo três\nvias, pela Empresa Concedente, pelo Estagiário e pelo Coordenador de Estágio do Curso, sendo uma\nvia destinada a cada um dos participantes.",
+          "document_id": 254210
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quais são as atribuições do estagiário?",
+              "id": 125206,
+              "answers": [
+                {
+                  "answer_id": 191227,
+                  "document_id": 254211,
+                  "question_id": 125206,
+                  "text": "participar do planejamento do estágio;\nII. seguir as normas estabelecidas para o estágio;\nIII. solicitar orientações e acompanhamento do Coordenador de Estágio e/ou do\nSupervisor de Estágio, sempre que se fizer necessário;\nIV. solicitar reunião com o Coordenador de Estágio, quando se fizer necessário;\nV. enviar os relatórios semestrais e o relatório final para o professor orientador",
+                  "answer_start": 1172,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Art. 11- Ao Coordenador de Estágio compete:\nI. coordenar, acompanhar e providenciar, quando for o caso, a escolha dos locais de\nestágio;\nII. solicitar a assinatura de convênios e cadastrar os locais de estágio;\nIII. promover o debate e a troca de experiências no próprio curso e nos locais de estágio;\nIV. manter registros atualizados sobre o(s) estágio(s) no respectivo curso;\nV. Indicar professor orientador, da área a ser desenvolvida no estágio, como\nresponsável pelo acompanhamento e avaliação das atividades do estagiário.\nArt. 12 - Ao Supervisor de Estágio compete:\nI. participar do planejamento das atividades desenvolvidas pelo estagiário;\nII. informar ao estagiário sobre as normas da concedente;\nIII. acompanhar e orientar o estagiário durante a realização de suas atividades;\nIV. informar ao Coordenador de Estágio sobre a necessidade de reforço teórico\npara elevar a qualidade do desempenho do Estagiário;\nV. desenvolver outras atividades correlatas ao Estágio.\nArt. 13 - Ao Orientador de Estágio compete:\nI. apoiar o planejamento e o acompanhamento das atividades de estágio;\nII. avaliar as atividades de estágio.\nArt. 14 - São atribuições do estagiário:\nI. participar do planejamento do estágio;\nII. seguir as normas estabelecidas para o estágio;\nIII. solicitar orientações e acompanhamento do Coordenador de Estágio e/ou do\nSupervisor de Estágio, sempre que se fizer necessário;\nIV. solicitar reunião com o Coordenador de Estágio, quando se fizer necessário;\nV. enviar os relatórios semestrais e o relatório final para o professor orientador;",
+          "document_id": 254211
+        }
+      ]
+    }
+  ]
+}

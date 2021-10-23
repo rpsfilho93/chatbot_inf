@@ -1,0 +1,36 @@
+Multiagentes (SMA). Comunicação e cooperação em SMA. Tomada de
+
+Decisão em SMA.
+
+TÓPICOS AVANÇADOS EM REDES SEM FIO
+
+Ementa
+
+UF
+G
+
+Introduzir conceitos atuais, tendências e desafios de pesquisa em redes sem fio. Estudar
+e explorar as novas aplicações e cenários onde o emprego de rede sem fio é recente (obje-
+
+pe
+las
+
+tivos básicos, características e desafios). Estudar e compreender algumas das principais
+
+tecnologias de redes sem fio atuais e futuristas (principalmente soluções desenvolvidas
+nas camadas Física, de Enlace e de Rede). Estudar e aplicar métodos de avaliação de
+
+da
+
+desempenho através de ferramentas usadas para simular/emular redes sem fio, como
+também alguns ambientes de testes disponíveis para uso público com objetivo de ava-
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+liar

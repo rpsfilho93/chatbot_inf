@@ -1,0 +1,21 @@
+J. D.; WIDOM, J. D. Database Systems: The Complete Book, 2. ed.,
+Prentice Hall, 2009.
+
+Bibliografia Complementar
+
+
+
+
+
+
+BEAULIEU, A. Learning SQL. 2. ed. Beijing: O'Reilly, 2009.
+CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database systems: a practical approach to
+design, implementation and management, 3. ed., Addison Wesley, 2010.
+DATE, C. J. Introdução a Sistemas de Bancos de Dados. 8. ed. Rio de Janeiro: Campus, 2003.
+MANNINO, M. V. Projeto, Desenvolvimento de Aplicações e Administração de Banco de Dados,
+tradução da 3a edição. São Paulo: McGraw-Hill, 2008.
+RAMAKRISHNAN, R. Sistemas de gerenciamento de banco de dados. 3. ed. São Paulo: McGraw-Hill,
+2008.
+
+Ementa
+Números reais. Funções reais de uma variável real

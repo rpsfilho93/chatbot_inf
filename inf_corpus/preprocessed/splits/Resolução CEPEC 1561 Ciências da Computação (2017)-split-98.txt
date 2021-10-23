@@ -1,0 +1,14 @@
+A. Sistemas Operacionais : Projeto e Implementaçã o. 3. ed.Bookman,
+2008.
+KIFER, M.; SMOLKA, S. OSP: An environment for Operating Systems Projects. Addison- Wesley, 1991.
+STALLINGS, W. Operating Systems: Internals and Design Principals; 8th ed.Pearson, 2014.
+VAHALIA, U. UnixInternals. Prentice Hall, 1996.
+OLIVEIRA, R.; CARISSINI, A.; TOSCANI, S. Sistemas Operacionais. Bookman, 2010. (Série Livros Didáticos
+Informática UFGRS).
+SOFTWARE BÁSICO:
+Visão geral de um sistema computacional. Linguagem de montagem. Mapeamento de estruturas de linguagens
+de alto nível para a linguagem Assembly. Pilha de execução e modelo de chamadas de função. Interrupções e
+seus tipos. "Link-edição" e bibliotecas.
+Bibliografia Básica:
+BRYANT, R.; O’HALLARON, D. Computer Systems: A programmer’s Perspective. 2nd ed. Prentice Hall, 2011.
+DUNTEMANN,

@@ -1,0 +1,34 @@
+E. J. Física: um curso universitário, v. 1. São Paulo: E. Blucher.
+
+5. MCKELVEY, J. P. Física, v. 1. São Paulo: Harbra.
+
+ore
+s
+
+4. LUIZ, A. M. Problemas de Física, v. 1. Rio de Janeiro: Guanabara Dois
+
+6. SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D. Física, v. 1. Rio de Janeiro: LTC.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+7. SERWAY, R. A.; JEWETT JUNIOR, J. W. Princípios de Física, v. 1. São Paulo: Thomson
+
+Disciplina: Fundamentos da Programação Lógica e Funcional
+Bibliografia Básica
+1. AYALA-RINCÓN, M. ; MOURA, F.L.C. Fundamentos da Programação Lógica e Funcional:
+O Princípio de Resolução e a Teoria de Reescrita. Notas de Aula.
+2. BAADER, F.; NIPKOW, T. Term Rewriting

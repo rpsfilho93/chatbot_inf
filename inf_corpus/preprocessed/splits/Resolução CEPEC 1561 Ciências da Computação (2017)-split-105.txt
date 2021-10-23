@@ -1,0 +1,16 @@
+1984.
+ALLEN, A. O. Probability, Statistics, and Queueing Theory with Computer Science Applications.Academic
+Press, 1990.
+BANCO DE DADOS DISTRIBUÍDOS:
+Conceitos básicos em banco de dados distribuídos. Arquitetura. Projeto de banco de dados distribuído.
+Processamento de consultas distribuídas. Processamento de transações distribuídas. Replicação de Dados.
+Sistemas de banco de dados paralelos.
+Bibliografia Básica:
+DOAN, A., HALEVY, A., IVES, Z., Principles of Data Integration. Morgan-Kaufmann, 1a.edição, MorganKaufmann, 2012.
+GARCIA-MOLINA, H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete Book, 2a.edição,
+Prentice Hall, 2009.
+ÖZSU, M. T., VALDURIEZ, P. Principles of Distributed Database Systems. 3a.edição, Springer, 2011.
+Bibliografia Complementar:
+COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. Sistemas Distribuid
+́ os: Conceitos e Projeto.
+5.

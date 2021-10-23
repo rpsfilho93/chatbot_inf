@@ -1,0 +1,12 @@
+Enlace e de Rede). Estudar e aplicar métodos de avaliação de
+desempenho através de ferramentas usadas para simular/emular redes sem fio, como também alguns ambientes
+de testes disponíveis para uso público com objetivo de avaliar abordagens propostas para redes sem fio em um
+ambiente mais realista. Empregar técnicas/conceitos de metodologia científica para elaboração/identificação de
+problemas, escrita de artigos e apresentação de trabalhos.
+Bibliografia Básica:
+KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach, 6th ed. Pearson, 2012.
+STALLINGS, W. Data and Computer Communications.10th ed. Pearson, 2014.
+TEWART, W. J. Probability, Markov chains, queues and simulation: the mathematical basis of performance
+modeling, 1st ed. Princeton University Press, 2009.
+Bibliografia Complementar:
+PETERSON, L.

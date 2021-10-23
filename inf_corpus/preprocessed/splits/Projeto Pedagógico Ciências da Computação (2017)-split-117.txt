@@ -1,0 +1,39 @@
+1971.
+4. LIMA, E. L. Álgebra Linear: Coleção Matemática Universitária. IMPA, Rio de Janeiro, Brasil,
+2006.
+
+Câ
+
+5. SHOKRANIAN, S. Introdução a Álgebra Linear e Aplicações, 1 ed. Unb, 2004.
+
+Disciplina: Algoritmos e Estruturas de Dados 1
+Bibliografia Básica
+1. TENENBAUM, A. M., LANGSAM, Y., AUGENSTEIN, M., Estruturas de Dados Usando C,
+São Paulo, Makron Books, 1995.
+2. SZWARCFITER, J. L., MARKENZON, L., Estruturas de Dados e seus Algoritmos. LTC, 2ª
+
+G
+
+edição, 1994.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. FEOFILOFF, P., "Algoritmos em Linguagem C". Editora Campus/Elsevier, 2009.
+
+edição, 2002.
+
+da
+
+1. CORMEN, T. H et al., "Algoritmos: Teoria e Prática". Rio de Janeiro: Editora Campus, 2ª
+
+Thomson, 2006.
+
+çã
+o
+
+2. ZIVIANI, N. "Projeto de Algoritmos com implementação em Java e

@@ -1,0 +1,10 @@
+necessidade de formação básica mais aprofundada em
+Matemática e em fundamentos de Computação para os cursos de bacharelado em
+Ciência da Computação, necessidades estas que o presente projeto visa atender;
+ necessidade de adequação do conteúdo da Matriz Curricular aos conteúdos cobrados
+no Exame Nacional de Desempenho dos Estudantes (ENADE). Em uma análise
+detalhada, verificou-se a necessidade de modificação nas ementas das disciplinas da
+área de Matemática e Estatística que não contemplam conteúdos cobrados no
+ENADE. Além disso, existe a necessidade de inclusão da disciplina de Interação
+Humano-Computador (IHC), que atualmente não faz parte da Matriz Curricular;
+ oportunidade de melhor definição do Perfil do Egresso de Ciência da

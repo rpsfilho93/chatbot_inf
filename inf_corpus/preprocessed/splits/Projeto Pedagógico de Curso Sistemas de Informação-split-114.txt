@@ -1,0 +1,26 @@
+OPERACIONAIS
+Ementa
+Conceitos de Hardware e Software. Tipos de Sistemas Operacionais. Organização da Estrutura
+Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de
+Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos. Estudos de casos de
+Sistemas Operacionais atuais.
+Bibliografia Básica
+
+
+
+
+OLIVEIRA, R. S.; CARISSIMI, A. S.; TOSCANI, S. S. Sistemas Operacionais. 3. ed., Porto Alegre:
+Instituto de Informática da UFRGS: Editora Sagra Luzzatto, 2004.
+SILBERSCHATZ, A. Fundamentos de Sistemas Operacionais, 8. ed., LTC, 2011.
+TANEMBAUM, A. S. Sistemas Operacionais Modernos. 3. ed., São Paulo: Ed. Prentice Hall, 2010.
+ISBN 9788576052371.
+
+Bibliografia Complementar
+
+
+
+
+
+
+MACHADO, F. B. Arquitetura de Sistemas Operacionais, 2. ed., LTC, 1997.
+NEMETH E.; SNYDER, G.; HEIN,

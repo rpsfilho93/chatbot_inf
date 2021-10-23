@@ -1,0 +1,11 @@
+comuns). Formas de
+acoplamento. Classes e pacotes. Rotinas (métodos). Projeto de software em nível de rotina.
+Motivos para se criar uma rotina. Bons nomes para uma rotina. Tamanho adequado de uma
+rotina. Programação defensiva. Problemas gerais no uso de variáveis. Nomes adequados para
+variáveis. Tipos de dados fundamentais. Estruturas. Ponteiros e referências. Dados globais.
+Organizando código linear. Sentenças de decisão. Sentenças de iteração. Pesquisas em tabelas.
+Expressões lógicas. Blocos. Instruções nulas e aninhamentos profundos. Estruturas de
+controle e complexidade. Qualidade de software. Construção colaborativa. Testes de
+desenvolvedor. Depuração. Refatoração. Estratégias e técnicas de otimização de código.
+Relação entre tamanho do código e construção. Gerenciando a construção. Integração.
+Ferramentas de programação.

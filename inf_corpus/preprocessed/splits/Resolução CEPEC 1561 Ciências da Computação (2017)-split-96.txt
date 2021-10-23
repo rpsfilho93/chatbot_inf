@@ -1,0 +1,14 @@
+GERENCIADORES DE BANCOS DE DADOS:
+Arquitetura. Técnicas de Armazenamento. Indexação. Processamento e Otimização de Consultas. Transações,
+Controle de Concorrência e Recuperação após Falhas. Segurança.
+Bibliografia Básica:
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6.ed. Pearson-Addison Wesley, 2015.
+GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book. 2. ed.
+Prentice Hall, 2009.
+SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de Banco de Dados. 5. ed. Rio de Janeiro:
+Campus, 2006.
+Bibliografia Complementar:
+RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados . Tradução da 3. ed. São
+Paulo:McGraw-Hill, 2008.
+DATE, C. J. Introdução a Sistemas de Banco de Dados
+. Tradução da 8.ed. Americana.

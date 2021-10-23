@@ -1,0 +1,14 @@
+Ética. Editora Nova Fronteira, 2003.
+DRUMMOND, V. Internet, Privacidade e Dados Pessoais. Editora Lumen Juris, 2003.
+KACZMARCZYK, L. C. Computers and Society: Computing for Good. Chapman & Hall/CRC Textbooks
+in Computing. CRC Press, 2011.
+LUCCA, N.; FILHO, A. S. Direito & Internet. Editora Edipro, 2001.
+PAESANI, L. M. Direito de Informática. Editora Atlas, 2005.
+
+DESENVOLVIMENTO FULL STACK
+Ementa
+Abordagens, técnicas, tecnologias e ferramentas para desenvolvimento de sistemas de informação
+para múltiplas plataformas e multimodais. Plataformas para front-end e back-end. Prática em
+desenvolvimento de aplicações móveis. Computação móvel e ubíqua: conceitos, principais
+características, internet das coisas, smart spaces, sensibilidade a contexto, tecnologias de
+comunicação e desafios. Projeto de aplicações móveis: macro e micro

@@ -1,0 +1,226 @@
+Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+IME
+
+Sim
+
+Ementa
+õ
+ã
+
+ã
+
+o
+
+n
+
+a
+õ
+õ
+
+ã
+
+ã
+ã
+
+ã
+ã
+
+ã
+
+Álgebra Linear
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+IME
+
+Nenhum
+
+Sim
+
+Ementa
+
+Lógica Matemática
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+Ementa
+
+IME
+
+Sim
+
+Fundamentos de Matemática para Computação
+
+Programação Orientada a Objetos
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+INF
+
+Sim
+
+Introdução à Programação
+
+Ementa
+
+Algoritmos e Estruturas de Dados 2
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+INF
+
+Sim
+
+Algoritmos e Estruturas de Dados 1
+
+Ementa
+
+Linguagens e Paradigmas de Programação
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+Ementa
+
+INF
+
+Sim
+
+Introdução à Programação
+
+Engenharia de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+Análise e Projeto de Algoritmos
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisitos:
+
+NC
+
+Ementa
+
+INF
+
+Sim
+
+Fundamentos de Matemática para Computação
+Algoritmos e Estruturas de Dados 2
+
+Interação Humano-Computador
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Probabilidade e Estatística A
+Algoritmos e Estruturas de Dados 1
+
+Sim
+
+Ementa
+
+Banco de Dados
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Lógica Matemática
+
+Sim
+
+Projeto de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Engenharia de Software
+Programação

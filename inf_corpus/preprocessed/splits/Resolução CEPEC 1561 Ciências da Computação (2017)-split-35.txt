@@ -1,0 +1,362 @@
+Linear
+
+IME
+
+Algoritmos e Estruturas de Dados 1
+
+INF
+
+NC
+
+OBR
+
+Algoritmos e Estruturas de Dados 2
+
+INF
+
+NC
+
+OBR
+
+Análise e Projeto de Algoritmos
+
+INF
+
+NC
+
+OBR
+
+Arquitetura de Computadores
+
+INF
+
+NC
+
+OBR
+
+Banco de Dados
+
+INF
+
+NC
+
+OBR
+
+IME
+
+NC
+
+OBR
+
+IME
+
+NE
+
+OBR
+
+Cálculo Numérico
+
+IME
+
+NE
+
+OBR
+
+Circuitos Digitais
+
+EMC
+
+NE
+
+OBR
+
+Compiladores
+
+INF
+
+NE
+
+OBR
+
+Computação e Sociedade
+
+INF
+
+NC
+
+OBR
+
+Computação Gráfica
+
+INF
+
+NE
+
+OBR
+
+Computação Paralela
+
+INF
+
+NE
+
+OBR
+
+Eletrônica para Computação
+
+EMC
+
+NE
+
+OBR
+
+Engenharia de Requisitos
+
+INF
+
+NE
+
+OBR
+
+Engenharia de Software
+
+INF
+
+NC
+
+OBR
+
+Equações Diferenciais Ordinárias
+
+IME
+
+NE
+
+OBR
+
+Física I
+
+IF
+
+NE
+
+OBR
+
+Física III
+
+IF
+
+NE
+
+OBR
+
+Fundamentos de Matemática para Computação
+
+INF
+
+NC
+
+OBR
+
+Geometria Analítica
+
+IME
+
+NE
+
+OBR
+
+Disciplinas
+
+Unid.
+Resp.
+
+Pré-Req.
+
+CH Semestral
+Teo.
+
+Prat.
+
+CHTot.
+
+Núcleo Natureza
+
+Inteligência Artificial
+
+INF
+
+NE
+
+OBR
+
+Interação Humano-Computador
+
+INF
+
+NC
+
+OBR
+
+Introdução à Computabilidade e à Complexidade Computacional
+
+INF
+
+NE
+
+OBR
+
+Introdução à Programação
+
+INF
+
+NC
+
+OBR
+
+Linguagens e Paradigmas de Programação
+
+INF
+
+NC
+
+OBR
+
+Linguagens Formais e Autômatos
+
+INF
+
+NE
+
+OBR
+
+Lógica Matemática
+
+INF
+
+NC
+
+OBR
+
+Matemática Discreta
+
+INF
+
+NE
+
+OBR
+
+Metodologia de Pesquisa em Computação
+
+INF
+
+NE
+
+OBR
+
+Pesquisa Operacional
+
+INF
+
+NE
+
+OBR
+
+Probabilidade e Estatística A
+
+IME
+
+NC
+
+OBR
+
+Programação Orientada a Objetos
+
+INF
+
+NC
+
+OBR
+
+Projeto de Software
+
+INF
+
+NC
+
+OBR
+
+Projeto Final de Curso 1
+
+INF
+
+NE
+
+OBR
+
+Projeto Final de Curso 2
+
+INF
+
+NE
+
+OBR
+
+Redes de Computadores 1
+
+INF
+
+NE
+
+OBR
+
+Sistemas Distribuídos
+
+INF
+
+NE
+
+OBR
+
+Sistemas Gerenciadores de Banco de Dados
+
+INF
+
+NE
+
+OBR
+
+Sistemas Operacionais
+
+INF
+
+NE
+
+OBR
+
+Software Básico
+
+INF
+
+NE
+
+OBR
+
+Teoria dos Grafos
+
+INF
+
+NE
+
+OBR
+
+Tabela 2: Disciplinas de Natureza Optativa
+
+Disciplinas
+
+Unid.
+Resp.
+
+Pré-Req.
+
+CH

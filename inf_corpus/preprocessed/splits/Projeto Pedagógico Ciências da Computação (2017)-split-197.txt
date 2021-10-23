@@ -1,0 +1,47 @@
+of Predictive Text Mining. Springer Science & Business Media, 2010. (Texts in Computer Science).
+
+lia
+
+4. GROSSMAN, D. A.; FRIEDER, O. Information Retrieval: Algorithms and Heuristics. Sprin-
+
+eri
+
+vol. 15).
+
+Av
+a
+
+ger Science & Business Media, 2004. (Kluwer international series on information retrieval,
+
+ma
+ras
+
+Câ
+
+Em
+
+Cambridge University Press, 2014.
+
+Su
+p
+
+5. ZAKI, M. J.; MEIRA, W. Data Mining and Analysis: Fundamental Concepts and Algorithms.
+
+Disciplina: Redes Neuronais Artificiais
+Bibliografia Básica
+1. BRAGA, A. P.; CARVALHO, A. P. L. F.; LUDERMIR, T. B. Redes Neurais Artificiais: Teoria e
+Aplicações. 2 ed. LTC, 2007.
+2. SILVA, I. N.; SPATTI, D. H.; FLAUZINO, R. A. Redes Neurais Artificiais para Engenharia e
+
+G
+
+Ciências Aplicadas: Curso Prático. Ed. Artliber, 2010.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. HAYKIN,

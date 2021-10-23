@@ -1,0 +1,38 @@
+abordagens propostas para redes sem fio em um ambiente mais realista. Empregar
+técnicas/conceitos de metodologia científica para elaboração/identificação de problemas, escrita de artigos e apresentação de trabalhos.
+
+Ementa
+
+Av
+a
+
+TÓPICOS EM COMPUTAÇÃO
+
+ras
+
+Ementa
+
+Em
+
+TÓPICOS EM TESTE DE SOFTWARE
+
+Su
+p
+
+Tópico variável em Ciência da Computação segundo tendências atuais na área.
+
+Fundamentos Teóricos. Teste Funcional. Teste estrutural. Análise de Mutantes. Oficina
+
+Câ
+ma
+
+em teste de software: experimentação e análise empírica.
+
+VERIFICAÇÃO FORMAL DE PROGRAMAS
+
+Ementa
+
+Sistemas de Dedução Natural para Lógicas Proposicional e de Predicados. Lambdacalculus com tipos simples. Isomorfismo de Curry-Howard-de Bruijn. Extração de có-
+
+digo. Tipos Indutivos. Polimorfismo. Produtos Dependentes. Definições Impredicativas. Definições Indutivas. Objetos e Provas Infinitos. Coindução. Subtipos. Checagem
+de Tipos. Normalização. Provas

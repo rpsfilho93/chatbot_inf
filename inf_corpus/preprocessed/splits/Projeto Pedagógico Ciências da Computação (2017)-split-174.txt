@@ -1,0 +1,50 @@
+CRC
+
+4. SMITH, B. E. Green Computing: Tools and Techniques for Saving Energy, Money, and Resources. Auerbach Publications, 2013.
+
+lia
+
+5. HARCHOL-BALTER, M. Performance Modeling and Design of Computer Systems - Queu-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+eing Theory in Action, 1st ed. Cambridge University Press, 2013.
+
+Disciplina: Desenvolvimento de Sistemas para a Web
+Bibliografia Básica
+1. LAUDON, K. C; LAUDON, J. P. Sistemas de informação gerenciais: administrando a empresa
+digital. 9. ed., São Paulo: Pearson Prentice-Hall, 2010.
+2. MATTOS, A. C. M. Sistemas de informação: uma visão executiva. 2. ed., São Paulo: Saraiva,
+
+G
+
+2010.
+
+Bibliografia Complementar
+
+UF
+
+2010.
+
+pe
+las
+
+3. PRESSMAN, R. S. Software engineering: a practitioner’s approach. 7. ed., McGraw-Hill,
+
+1. ed., São Paulo: Saraiva, 2006.
+
+da
+
+1. BATISTA, E. O.

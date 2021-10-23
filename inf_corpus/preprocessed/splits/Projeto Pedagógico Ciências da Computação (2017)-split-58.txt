@@ -1,0 +1,66 @@
+de contexto
+e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais pro-
+
+UF
+G
+
+priedades. Hierarquia de Chomsky.
+
+MATEMÁTICA DISCRETA
+
+pe
+las
+
+Ementa
+
+Conjuntos: finito, infinito, enumerável, cardinalidade. Técnica de diagonalização. Tó-
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+METODOLOGIA DE PESQUISA EM COMPUTAÇÃO
+
+da
+
+picos em teoria dos números. Estruturas algébricas e criptografia.
+
+Estilos de pesquisa em Computação. Preparação de um trabalho de pesquisa. Escrita
+do trabalho científico. Apresentação oral do trabalho científico. Apresentação de pro-
+
+Av
+a
+
+gramas de Iniciação Científica.
+
+Ementa
+
+Su
+p
+
+PESQUISA OPERACIONAL
+
+Modelagem. Problema de Programação Linear (PL). Resolução gráfica de PL. Algo-
+
+Ementa
+
+Câ
+ma
+
+PROJETO FINAL DE CURSO 1
+
+ras
+
+sibilidade.
+
+Em
+
+ritmo Simplex. Dualidade. Algoritmo Simplex-Dual. Pós-otimização e Análise de Sen-
+
+Desenvolvimento do projeto acompanhado por professor orientador. Tem como finalidade dar experiência adquiridos durante

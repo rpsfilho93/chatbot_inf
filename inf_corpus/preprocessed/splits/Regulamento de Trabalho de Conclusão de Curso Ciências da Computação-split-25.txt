@@ -1,0 +1,16 @@
+é computada pelo seguinte cálculo:
+notaFinal =
+
+médiaNotaApresentaçãomédiaNotaProduto
+,
+
+onde médiaNotaApresentação corresponde à média aritmética das notas atribuídas pelos
+membros da banca avaliadora à apresentação da defesa do TCC feita pelo aluno e
+médiaNotaProduto corresponde à média aritmética das notas atribuídas pelos membros da
+banca avaliadora ao produto do TCC redigido pelo aluno.
+
+Art. 32. Será aprovado na disciplina PFC II o aluno que preencher os seguintes requisitos:
+I – presença em pelo menos 75% dos encontros agendados com o professor orientador;
+II – Nota Final maior ou igual à nota mínima exigida pelo Regulamento Geral de Cursos de
+Graduação da UFG em vigor na época da conclusão da disciplina.
+III –

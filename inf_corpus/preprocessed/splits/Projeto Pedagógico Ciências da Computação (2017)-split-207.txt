@@ -1,0 +1,45 @@
+TUFTE, E. R. Envisioning Information. Graphics Press, 1990.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. TUFTE, E. R. The Visual Display of Quantitative Information, 2nd ed. Graphics Press, 2001.
+
+Disciplina: Web Semântica
+Bibliografia Básica
+1. BREITMAN, K. Web Semântica: a Internet do Futuro. Editora LTC, 2005.
+2. DUCHARME, B. Learning SPARQL. 1st ed. O´Reilly, 2011.
+3. HEBELER, J.; DEAN, M.; FISHER, M. Semantic Web Programming. 2nd ed. John Wiley &
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+Sons, 2009.
+
+1. ALLEMANG, D.; HENDLER, J. Semantic Web for the Working Ontologist: Effective Modelling in RDFS and OWL. 1st ed. Morgan Kaufmann, 2008.
+
+284(5), 28-37.
+
+da
+
+2. BERNERS-LEE, T.; HENDLER, J.; LASSILA, O. The Semantic Web. Scientific American, 2001.
+
+çã
+o
+
+3. BERNERS-LEE, T. Qual é o futuro

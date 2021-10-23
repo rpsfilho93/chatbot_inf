@@ -1,0 +1,44 @@
+H.; VAZIRANI, U. V.; DASGUPTA, S. Algoritmos. Mc-Graw-Hill, 2009.
+
+Edition. Pearson, 1999.
+
+da
+
+1. BAASE, S.; GELDER, A. V. Computer Algorithms: Introduction to Design and Analysis. 3rd
+
+LTC Editora , 2010.
+
+çã
+o
+
+2. SZWARCFITER, J. L.; MARKENZON, L. Estrutura de Dados e seus Algoritmos. 3a edição.
+
+ore
+s
+
+3. MAMBER, U. Introduction to Algorithms. Addison Wesley Publishing Company. 1989.
+4. SEDGEWICK, R., WAYNE, K. Algorithms. 4th edition. Addison-Wesley Professional, 2011.
+5. AHO, A.V., HOPCROFT, J.E., ULLMAN, J.D. The Design and Analysis of Computer Algo-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+rithms, Addison-Wesley Publishing Company, 1974. ISBN 0-201-00029-6.
+
+Disciplina: Arquitetura de Computadores
+Bibliografia Básica
+1. TANENBAUM, A. Organização Estruturada de Computadores. Prentice Hall Brasil, 2007.
+2. STALLINGS, W. Arquitetura e Organização de Computadores.

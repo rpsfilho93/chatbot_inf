@@ -1,0 +1,53 @@
+Digital: Curso Prático e Exercícios. MZ Edi-
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+tora Ltda, 2004.
+
+John Wiley & Sons, Inc, 2011.
+
+da
+
+1. VAHID, F. Digital Design with RTL Design, VHDL, and Verilog. 2nd ed. New Jersey, USA:
+
+2. WAGNER, F. R.; REIS, A. I.; RIBAS, R. P., Fundamentos de Circuitos Digitais. Editora Sagra-
+
+çã
+o
+
+Luzzato, 2006. (Série Livros Didáticos do Instituto de Informática da UFRGS - Vol. 17).
+
+okman, 2000.
+
+ore
+s
+
+3. ERCEGOVAC, M.; LANG, T.; MORENO, J. H. Introdução aos Sistemas Digitais. Editora Bo-
+
+4. FLOYD, T L., Sistemas Digitais - Fundamentos e Aplicações, 9. ed. Editora Bookman, 2007.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. COSTA, Cesar da. Projetos de Circuitos Digitais com FPGA. São Paulo: Novatec, 2016.
+
+Disciplina: Compiladores
+Bibliografia

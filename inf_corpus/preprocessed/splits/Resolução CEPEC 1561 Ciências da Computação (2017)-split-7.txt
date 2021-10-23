@@ -1,0 +1,11 @@
+de Graduação da UFG.
+O presente Projeto Pedagógico de Curso foi elaborado pelo Núcleo Docente Estruturante
+(NDE) do BCC, com a colaboração dos demais docentes do INF. Ele atualiza a visão pedagógica
+e finalística do curso, com maior ênfase na formação científica e no embasamento teórico, ao
+mesmo tempo em que conecta o curso às tendências modernas da Computação e às áreas de
+pesquisa acadêmica do INF. A estrutura curricular proposta neste PPC é composta por disciplinas
+específicas à formação em Ciência da Computação e por núcleos livres e disciplinas optativas que
+dão flexibilidade e formação aprofundada em áreas de interesse do aluno.
+
+Área de Conhecimento:
+Ciências Exatas e

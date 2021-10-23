@@ -1,0 +1,41 @@
+PROJETO DE ALGORITMOS
+
+Ementa
+
+eri
+ore
+s
+
+grafos.
+
+da
+
+de Grafos. Estruturas de Dados para representação de grafos. Algoritmos básicos em
+
+Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos, técnicas de prova de cotas inferiores. Corretude de Algoritmos. Exemplos de análise de algoritmos. Técnicas de projeto de algoritmos: di-
+
+Ementa
+
+Em
+
+ARQUITETURA DE COMPUTADORES
+
+Su
+p
+
+Completude.
+
+Av
+a
+
+vidir para conquistar, programação dinâmica, algoritmos gulosos. Introdução à NP-
+
+ras
+
+Visão geral dos computadores modernos. Evolução da arquitetura dos computadores.
+Memória e representação da dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de programação em linguagem de montagem.
+
+Câ
+ma
+
+Dispositivos de entrada e saída. Sistemas de interconexão (barramentos). Interfaceamento e técnicas de

@@ -1,0 +1,11 @@
+bordas. Transformada no
+domínio da frequência: Fourier. Restauração de imagens. Segmentação de imagens. Extração de características e
+noções de descrição e representação. Reconhecimento de padrões visuais.
+Bibliografia Básica:
+GONZALES, R. C.; WOODS, R. E. Processamento Digital de Imagens. 3.ed. São Paulo: Pearson Prentice Hall, 2010.
+FORSYTH, D. A.; PONCE, J. Computer Vision: A Modern Approach. 2nd ed. Prentice Hall, 2011.
+SOLOMON C.; BRECKON, T. Fundamentos de processamento digital de imagens : uma abordagem prática com
+exemplos em Matlab. Rio de Janeiro : LTC, 2013.
+Bibliografia Complementar:
+PETROU, M. Image Processing: the fundamentals. 2. ed. Chichester: Wiley, 2010.
+BRADSKI, G. R.; KAEHLER, A. Learning OpenCV: computer vision with the OpenCV library.

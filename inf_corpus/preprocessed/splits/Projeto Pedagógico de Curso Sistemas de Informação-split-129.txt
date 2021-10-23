@@ -1,0 +1,22 @@
+em cenários complexos:
+introdução aos métodos discretos do apoio multicritério à decisão. São Paulo: Cengage Learning,
+2011.
+LACHTERMACHER, Gerson. Pesquisa operacional na tomada de decisão. 4.ed., Rio de Janeiro:
+Elsevier, 2009, 223p.
+TARAPANOFF, Kira. Técnicas para tomada de decisão nos sistemas de informação. 3.ed., Brasília:
+Thesaurus, 2002, 163p.
+
+Bibliografia Complementar
+
+
+
+
+
+
+KAUFMANN, A. A ciência da tomada de decisão: uma introdução a praxiologia. Rio de Janeiro: Zahar,
+1975.
+KEENEY, R. L.; RAIFFA, H. Decisions with multiple objectives: preferences and value tradeoffs.
+Cambridge [Inglaterra]: Cambridge University Press, 1993.
+PEREIRA, M. J. L. B.; FONSECA, J. G. M. Faces da Decisão: Abordagem Sistêmica do Processo
+Decisório, Rio de Janeiro: LTC, 2009.
+PESTANA, M. H. Análise categórica, árvores

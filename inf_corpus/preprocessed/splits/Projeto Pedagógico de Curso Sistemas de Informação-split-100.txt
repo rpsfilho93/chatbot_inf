@@ -1,0 +1,28 @@
+2008.
+
+Bibliografia Complementar
+
+
+
+
+
+
+BOOCH, G. UML guia do usuário: o mais avançado tutorial sobre Unified Modeling Language (UML).
+Elsevier, 2006.
+FREEMAN, E. et al., Use a cabeça! padrões de projetos, (design patterns), Alta Books, 2007.
+FOWLER, M., Patterns of enterprise application architecture. Addison-Wesley, 2003.
+GAMMA, E. Design patterns elements of reusable object-oriented software. Reading: Addison Wesley,
+1995.
+NYGARD, M., Release It!: Design and Deploy Production-Ready Software, Pragmatic Bookshelf, 2007.
+
+REDES DE COMPUTADORES
+Ementa
+Fundamentos. Arquitetura de Redes TCP/IP (Internet). Camadas de Aplicação, Transporte, Rede,
+Enlace e Física. Gerenciamento de Redes. Redes Sem Fio e Mobilidade. Estudo de Caso de Tópicos
+Emergentes em Redes.
+Bibliografia Básica
+
+
+
+
+KUROSE, J. F.; ROSS, K. Redes de Computadores e a

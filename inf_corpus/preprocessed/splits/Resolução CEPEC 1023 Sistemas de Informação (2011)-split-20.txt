@@ -1,0 +1,14 @@
+serviços de TI. Entrega e suporte a serviços de TI.
+Monitoramento e avaliação de resultados de TI.
+20. Interação Homem-Computador
+Ementa: Fatores humanos em software interativo: teoria, princípios e regras básicas. Estilos
+interativos: linguagens de comandos, manipulação direta. Dispositivos de interação. Padrões
+para interface. Usabilidade: definição e métodos para avaliação.
+21. Introdução à Programação
+Ementa: Lógica de programação; constantes; tipos de dados primitivos; variáveis; atribuição;
+expressões aritméticas e lógicas; estruturas de decisão; estruturas de controle; estruturas de dados
+homogêneas e heterogêneas: vetores (arrays) e matrizes. Desenvolvimento de
+algoritmos.Transcrição de algoritmos para uma linguagem de programação. Desenvolvimento de
+pequenos programas.
+22. Introdução aos Sistemas de Informação
+Ementa: Projeto Pedagógico do curso de Sistemas de

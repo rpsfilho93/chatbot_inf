@@ -1,0 +1,55 @@
+Hall, 2010.
+2. FORSYTH, D. A.; PONCE, J. Computer Vision: A Modern Approach. 2nd ed. Prentice Hall,
+
+G
+
+2011.
+
+abordagem prática com exemplos em Matlab. Rio de Janeiro : LTC, 2013.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. SOLOMON C.; BRECKON, T. Fundamentos de processamento digital de imagens : uma
+
+da
+
+1. PETROU, M. Image Processing: the fundamentals. 2. ed. Chichester: Wiley, 2010.
+
+2. BRADSKI, G. R.; KAEHLER, A. Learning OpenCV: computer vision with the OpenCV li-
+
+çã
+o
+
+brary. Sebastopol: O’Reilly, 2008.
+
+demic, 2008.
+
+ore
+s
+
+3. NIXON, M. S.; AGUADO, A. S. Feature extraction and image processing. Amsterdam: Aca-
+
+4. PRATT, W. K. Digital image processing. 4. ed. Hoboken: Wiley-Interscience, 2007.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. SZELISKI, R. Computer Vision Algorithms and Applications. Springer,

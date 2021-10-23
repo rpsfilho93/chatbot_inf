@@ -1,0 +1,12 @@
+serviço da
+camada de transporte; multiplexação e demultiplexação; transporte orientado a conexões;
+transferência confiável de dados; controle de congestionamento; protocolos de transporte da
+Internet (UDP e TCP). Camada de Rede: comutação de pacotes; redes de datagramas e de
+circuitos virtuais; princípios de roteamento unicast e multicast; interconexão de redes; o
+protocolo IP. Camada de Enlace: enquadramento de dados; detecção e correção de erros;
+protocolos de acesso múltiplo; endereçamento na camada de enlace; redes Ethernet;
+comutadores e interconexão de redes; protocolo ponto-a-ponto (PPP); virtualização de enlaces
+(ATM e MPLS). Tópicos avançados: redes sem fio; redes e aplicações multimídia; segurança
+em redes; gerenciamento de redes.
+36. Segurança em Sistemas de Informação
+Ementa: Introdução

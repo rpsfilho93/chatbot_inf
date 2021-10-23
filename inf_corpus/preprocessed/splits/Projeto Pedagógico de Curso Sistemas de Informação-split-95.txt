@@ -1,0 +1,14 @@
+ed., J.
+Wiley, 1990.
+HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9. ed., 2013.
+PARLAR, M. Interactive Operations Research With Maple: Methods and Models. Birkhauser. 2000.
+SILVA, E. M. et al. Pesquisa Operacional - Programação linear Simulação, 3. ed., Atlas, 1998.
+WINSTON, W. L. Operations Research Applications and Algorithms. 3. ed., 1997.
+
+PROBABILIDADE E ESTATÍSTICA A
+Ementa
+Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria
+de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade,
+probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos
+básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson.
+Distribuições contínuas de probabilidade: uniforme, exponencial,

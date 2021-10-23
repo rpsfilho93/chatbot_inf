@@ -1,0 +1,13 @@
+J. Assembly Language Step-by-Step: Programming wiht Linux. 3rd. ed. Willey, 1999.
+WARFORD, J. S. Computer Systems.4th ed. Jones and Bartlet Publishers, 2010.
+Bibliografia Complementar:
+CARTER., P. A. PC Assembly Language, 2006. (disponível em: http://www.drpaulcarter.com/pcasm/).
+CARPINELLI, J. D. Computer systems organization & architecture.Addison-Wesley, 2001.
+HENNESSY, J. L.; PATTERSON, D. A. Computer organization and design: the hardware / software interface,
+2nd ed. Morgan Kaufmann Publishers, 1998.
+LOVE, R. Linux system programming.O’Reilly, 2007.
+KERRISK, M. The Linux Programming Interface: A Linux and Unix System Programming Handbook. No
+Starch Press, 2010.
+TEORIA DOS GRAFOS:
+Noções e notações básicas de grafos. Árvores. Conectividade. Coloração. Emparelhamento. Conjuntos
+dominantes. Planaridade. Algoritmos de busca e aplicações. Algoritmos do menor caminho.

@@ -1,0 +1,25 @@
+atividades do processo, documentação e ferramentas.
+Bibliografia Básica
+
+
+
+
+MYERS, G. J. The Art of Software Testing. Wiley. 2011.
+COPELAND, L. A Practitioner’s Guide to Software Test Design. Artech House, 2003.
+SYKES, D. A.; MCGREGOR, J. D. A practical guide to testing object-oriented software. AddisonWesley, 2001.
+
+Bibliografia Complementar
+
+
+
+
+
+
+MESZAROS, G. xUnit test patterns refactoring test code. Addison-Wesley, 2007.
+MOSLEY, D. J. Client-server software testing on the desktop and the Web. Prentice Hall, 2000.
+GROSS, H. Component-based software testing with UML. Springer, 2005.
+PERRY, W. E. Effective methods for software testing. 2nd ed. J. Wiley, 1999.
+WU, M.; LI, K. Effective software test automationdeveloping an automated software testing tool.
+SYBEX, 2004.
+
+TÓPICOS AVANÇADOS EM

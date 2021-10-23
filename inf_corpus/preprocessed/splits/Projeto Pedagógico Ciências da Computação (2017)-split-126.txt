@@ -1,0 +1,93 @@
+S. Engenharia de software: teoria e prática. Campus, 2013.
+
+1. Software Engineering Body of Knowledge (SWEBOK), V3, IEEE, 2014.
+
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=50518.
+3. MPS.BR.
+
+Melhoria
+
+de
+
+Processos
+
+do
+
+Software
+
+Brasileiro.
+
+çã
+o
+
+http://www.softex.br/mpsbr/, último acesso Abril/2014.
+
+da
+
+2. ISO/IEC/IEEE 24765, Systems and software engineering - Vocabulary, 2010, disponível em
+
+Disponível
+
+em
+
+Engineering
+
+Competency
+
+Model
+
+IEEE.
+
+eri
+
+(SWECOM).
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+https://www.computer.org/web/peb/swecom
+
+ore
+s
+
+4. MAGELA, R. Engenharia de software aplicada. Alta Books, 2006.
+
+Disponível
+
+em
+
+Disciplina: Fundamentos de Matemática para Computação
+Bibliografia Básica
+1. GERSTING, J. L. Fundamentos Matemáticos para a Ciência da Computação, 5. ed. Rio de
+Janeiro: Editora LTC, 2004.
+2. SCHEINERMAN, E. R. Matemática Discreta, Uma introdução. Cengage Learning, Thomp-
+
+G
+
+son Pioneira, 2003
+
+UF
+
+pe
+las
+
+3. GRIMALDI, R. P. Discrete and Combinatorial Mathematics - An Applied Introduction, 5th
+ed. Boston: Pearson - Addison-Wesley, 2003.
+
+Bibliografia Complementar
+
+da
+
+1. ROSS, K. A.; WRIGHT, C.

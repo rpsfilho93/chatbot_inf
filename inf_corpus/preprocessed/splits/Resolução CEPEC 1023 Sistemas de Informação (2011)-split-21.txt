@@ -1,0 +1,12 @@
+Informação. Características do
+profissional de sistemas de informação e carreiras de sistemas de informação. Conceituação de
+computador, informática e software. Histórico da computação e de sistemas de informação.
+Conceitos, objetivos, tipos, funções, organização e componentes dos sistemas de informação.
+Sistemas de informação empresariais, empresa digital, tipos de sistemas de informação
+empresariais. Infra-estrutura de tecnologia de informação: hardware e software, bancos de
+dados, telecomunicações, Internet e redes. Aplicações de sistemas de informação: sistemas
+integrados, comércio eletrônico, gestão do conhecimento e sistemas de apoio à decisão.
+Desenvolvimento e gerenciamento de sistemas de informação. Aspectos de segurança, éticos e
+sociais.
+Ementa: Lógica Proposicional. Proposições e conectivos. Operações Lógicas sobre
+proposições. Construção de tabelas-verdade. Tautologias,

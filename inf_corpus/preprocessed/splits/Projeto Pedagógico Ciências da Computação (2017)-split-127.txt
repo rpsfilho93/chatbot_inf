@@ -1,0 +1,54 @@
+R. B. Discrete mathematics, Prentice Hall, 1998.
+
+2. ROSEN, Kenneth H. Discrete Mathematics and Its Applications, 6th ed., Boston: McGraw-
+
+çã
+o
+
+Hill, 2009.
+
+1993.
+
+ore
+s
+
+3. MATTSON, Jr., H. F. Discrete Mathematics with applications, New york: John Wiley & Sons
+
+4. SANTOS, J. P. O. Introdução à Teoria dos Números. Rio de Janeiro: CNPQ-IMPA, 2003.
+
+lia
+
+(Coleção Matemática Universitária).
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. GONÇALVES, A. Introdução à Álgebra, 5. ed. Rido de Janeiro: CNPQ-IMPA, 2013.
+
+Disciplina: Interação Humano-Computador
+Bibliografia Básica
+1. DIX, Alan; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. Human-Computer Interaction. 3rd
+Edition. Upper Saddle River, NJ, USA: Prentice-Hall, 2003.
+2. TIDWELL, J. Designing Interfaces: Patterns for Effective Interaction Design. 2. ed. O’Reilly,
+
+G
+
+2011.
+
+UF
+
+pe
+las
+
+3. ROGERS, Y.; SHARP,

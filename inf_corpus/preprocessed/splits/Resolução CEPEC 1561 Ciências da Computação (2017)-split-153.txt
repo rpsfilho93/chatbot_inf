@@ -1,0 +1,160 @@
+Programação
+TOTAL PERÍ ODO 320h
+
+NATUREZA
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+TOTAL GERAL
+
+NÚCLEO
+Comum
+Comum
+Comum
+Comum
+
+DISCIPLINA
+CHT
+Algoritmos e Estruturas de Dados 1
+Física I
+Geometria Analit́ ica
+Lógica Matemática
+TOTAL PERÍ ODO 352h
+
+NATUREZA
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+TOTAL GERAL
+
+NÚCLEO
+Comum
+Específico
+Específico
+Específico
+Comum
+
+DISCIPLINA
+CHT
+Álgebra Linear
+Algoritmos e Estruturas de Dados 2
+Física III
+Matemática Discreta
+Metodologia de Pesquisa em Computaçaõ
+Probabilidade e Estatística A
+TOTAL PERÍ ODO 352h
+
+NATUREZA
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+TOTAL GERAL
+
+NÚCLEO
+Comum
+Comum
+Específico
+Específico
+Específico
+Comum
+
+DISCIPLINA
+CHT
+Circuitos Digitais
+Equações Diferenciais Ordinárias
+Pesquisa Operacional
+Programação Orientada a Objetos
+Teoria dos Grafos
+TOTAL PERÍ ODO 320h
+
+NATUREZA
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+TOTAL GERAL
+
+NÚCLEO
+Específico
+Específico
+Específico
+Comum
+Específico
+
+DISCIPLINA
+CHT
+Análise e Projeto de Algoritmos
+Arquitetura de Computadores
+Cálculo Numérico
+Eletrônica para Computação
+Software Básico
+TOTAL PERÍ ODO 352h
+
+NATUREZA
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+TOTAL GERAL
+
+NÚCLEO
+Comum
+Comum
+Específico
+Específico
+Específico
+
+DISCIPLINA
+CHT
+Banco de Dados
+Engenharia de Software
+̂
+Linguagens Formais e Automatos
+Linguagens e Paradigmas de Programaçaõ
+Sistemas Operacionais
+TOTAL PERÍ ODO 320h
+
+NATUREZA
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+Obrigatória
+TOTAL GERAL
+
+NÚCLEO
+Comum
+Comum
+Específico
+Comum
+Específico
+
+NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Específico
+
+DISCIPLINA
+CHT
+Introdução à Computabilidade e Complexidade
+Computacional
+Engenharia de Requisitos
+Sistemas Gerenciadores de Banco de Dados
+Redes de Computadores 1
+TOTAL PERÍ ODO 320h
+DISCIPLINA
+CHT
+Computação Gráfica
+Inteligência Artificial
+Projeto de

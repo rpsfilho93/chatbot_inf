@@ -1,0 +1,12 @@
+Bayes. Variáveis aleatórias: conceitos básicos, esperança e
+variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de
+probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população:
+média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão
+linear simples.
+Bibliografia Básica:
+WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K.: Probabilidade e Estatística para En - genharia e
+Ciências. 8. Ed. São Paulo: Pearson, 2009.
+MAGALHÃES, M. N. Noções de Probabilidade e Estatística. 7a.ed. SãoPaulo: EDUSP, 2010.
+MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC, 1969.
+Bibliografia Complementar:
+ROSS, S. Probabilidade. Um Curso Moderno com

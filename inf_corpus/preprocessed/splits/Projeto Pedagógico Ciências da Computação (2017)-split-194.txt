@@ -1,0 +1,42 @@
+J.; Introduction to Microprocessors and Microcontrollers. 2a Edição, Editora Elsevier,
+
+1. TAUB, H. Circuitos Digitais e Microcontroladores. McGraw-Hill, São Paulo, 1984.
+
+São Paulo: Érica, 2003. 268 p. ISBN 8571948674.
+
+ore
+s
+
+çã
+o
+
+2. SOUZA, David José de. Desbravando o PIC: ampliado e atualizado para PIC 16F628A. 6. ed.
+
+3. ZELENOVSKY, R. Microcontroladores: programação e projeto com a família 8051, Editora
+
+lia
+
+4. PEREIRA, F. Microcontroladores MSP430 - Teoria e Prática, Editora Érica, 2005.
+
+eri
+
+5. TITUS, J. A. et al. Microcomputer, analog converter software and hardware interfacing.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Howard W. Sams & Co., 1979.
+
+Disciplina: Processamento Digital de Imagens
+Bibliografia Básica
+1. GONZALES, R. C.; WOODS, R.E. Processamento Digital de Imagens. 3.ed, São Paulo: Pearson Prentice

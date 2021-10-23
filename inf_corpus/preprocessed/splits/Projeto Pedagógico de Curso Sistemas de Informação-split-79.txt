@@ -1,0 +1,19 @@
+da informação. Rio de
+Janeiro: Brasport, 2013.
+
+GOVERNANÇA CORPORATIVA E DE TI
+Ementa
+Fundamentos de governança. Abordagens paradigmáticas de governança. Disciplinas de governança.
+Teorias da agência, das restrições e institucional. Governança, riscos e conformidade. Governança
+corporativa de tecnologia da informação: princípios, padrões e modelos. Ciclo da governança de
+tecnologia da informação. Abordagens de melhores práticas em governança de tecnologia da
+informação. Governança de tecnologia da informação verde.
+Bibliografia Básica
+
+
+
+
+FERNANDES, Aguinaldo Aragon. Implantando a governança de TI: da estratégia à gestão dos processos e
+serviços. 3.ed., Rio de janeiro: Brasport, 2012. 615p.
+MOLINARO, Luis Fernando Ramos; RAMOS, K. H. C. Gestão de Tecnologia da Informação: Governança de TI:
+Arquitetura e Alinhamento entre Sistemas

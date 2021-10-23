@@ -1,0 +1,13 @@
+e a Linguagem PROLOG .
+Blucher, 1987.(Dsponível em www.inf.puc-rio.br/ casanova/Publications/Books/1987-PL.pdf).
+BEZEM, M.; KLOP, J. W.; VRIJER, R. Term Rewriting Systems by TeReSe.Cambridge UP, 2003.(In
+Cambridge Tracts in Theoretical Computer Science).
+KLOP, J. W. Term Rewriting Systems. In: S. Abramsky, D.M. Gabbay and T.S.E. Maibaum, editors. Handbook
+of Logic in Computer Science. Clarendon Press, 1992. Vol. 2, p. 1-116.
+GUNTER, C. A. Semantics of Programming Languages: Structures and Techniques. MIT Press, 1992.
+(Foundations of Computer Series).
+
+INTEGRAÇÃO DE DADOS:
+Conceitos fundamentais em integração de dados. Arquiteturas de sistemas de integração de dados. Descrição de
+fontes de dados. Processamento de consultas. Similaridade textual. Pareamento e mapeamento de esquemas.
+Identificação e eliminação de dados

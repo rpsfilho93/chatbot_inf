@@ -1,0 +1,42 @@
+Toolkit: The Complete Guide to Dimensional
+Modeling. 2. ed. Wiley, 2002.
+2. KIMBALL, R., ROSS, M., THORNTHWAITE, W., MUNDY, J., BECKER, B.: The Data Wa-
+
+G
+
+rehouse Lifecycle Toolkit. 2a. Edição. Wiley, 2008.
+
+Edição. Springer, 2014.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. VAISMAN, A., ZIMÁNYI, E.: Data Warehouse Systems: Design and Implementation. 1a.
+
+ley, 2015.
+
+da
+
+1. ELMASRI, R., NAVATHE, S.B., Sistemas de Banco de Dados, 6ª ed., Pearson - Addison Wes-
+
+Book, 2a. edição, Prentice Hall, 2009.
+
+ore
+s
+
+çã
+o
+
+2. GARCIA-MOLINA, H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete
+
+3. INMON, W. H.: Building the Data Warehouse. 4a. Edição. Wiley, 2005.
+
+4. KIMBALL, R., CASERTA, J.: The Data Warehouses ETL Toolkit: Practical Techniques for
+
+lia
+
+Extracting,

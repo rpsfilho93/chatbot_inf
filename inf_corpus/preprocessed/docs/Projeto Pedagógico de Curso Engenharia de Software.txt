@@ -1,0 +1,3741 @@
+Diretor
+
+Eduardo Simões de Albuquerque
+
+Vice-Diretor
+
+Sérgio Teixeira de Carvalho
+
+Coordenador do curso
+
+Cássio Leonardo Rodrigues
+
+Vice-coordenador
+
+Edmundo Sérgio Spoto
+
+Coordenador de estágio
+
+Edmundo Sérgio Spoto
+
+Coordenadora de monitoria
+Núcleo Docente Estruturante:
+
+Elisângela Silva Dias
+Adriana Silveira de Souza
+Cássio Leonardo Rodrigues
+Edmundo Sérgio Spoto
+Fábio Nogueira de Lucena (presidente)
+Fernando Marques Federson
+Juliana Pereira de Souza-Zinader
+Juliano Lopes de Oliveira
+Marcelo Ricardo Quinta
+Plínio de Sá Leitão Júnior
+Renata Dutra Braga
+Sumário
+Lista de siglas
+Agradecimentos
+Apresentação
+Identificação
+Nome do curso
+Grau acadêmico
+Título do egresso
+Área de conhecimento
+(CNPq)
+
+Modalidade
+Local de oferta
+
+Reconhecimento
+
+Responsável
+Unidades executoras
+
+Número de vagas
+Carga horária
+Duração do curso em
+semestres
+Turno de
+funcionamento
+Forma de ingresso
+Contexto
+
+Da aptidão do Instituto de Informática
+Da carência de mão de obra
+
+Dos indicadores socioeconômicos regionais
+Exposição de motivos
+Objetivos
+Objetivo geral
+
+Objetivos específicos
+
+
+
+
+
+
+
+
+
+
+
+
+Expectativa da formação do profissional
+Perfil do egresso
+
+Habilidades do egresso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Princípios norteadores
+Formação Ética e Função Social do Profissional
+
+Formação Técnica
+Estratégia da definição das disciplinas
+Articulação entre Teoria e Prática Profissional
+
+Interdisciplinaridade
+Disciplina “Prática em Engenharia de Software”
+
+Atividades supervisionadas
+Núcleo Docente Estruturante (NDE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Política e gestão de estágio não obrigatório
+Trabalho de Conclusão de Curso (TCC)
+Integração ensino, pesquisa e extensão
+Avaliação do processo de ensino e aprendizagem
+Avaliação do projeto de curso
+
+Política de qualificação
+ã
+́
+
+ã
+ã
+ã
+Requisitos legais e normativos
+
+Libras
+
+Política de educação ambiental
+Planejamento das disciplinas
+
+Programa institucional
+
+
+
+
+
+
+
+
+
+Resolução Nº 1 de 17 de junho de 2004
+Disciplinas de graduação obrigatórias
+
+Programa institucional
+
+
+
+
+
+
+
+
+
+Diretrizes nacionais para Educação em Direitos Humanos
+
+Proteção dos direitos da pessoa com Transtornos do Espectro Autista
+Estrutura Curricular
+Matriz curricular
+
+Nº Disciplina
+
+Pré
+
+Unidade
+
+TEO PRA CHT
+
+Núcleo
+Nº Disciplina
+
+Nº
+
+Disciplina (opção)
+
+Pré
+
+Pré
+
+Unidade TEO
+
+Unidade
+
+PRA
+
+TEO PRA CHT
+
+CHT
+
+Núcleo
+
+Núcleo Optativa
+Núcleo livre
+
+Atividades complementares
+
+Distribuição da carga horária
+
+Componentes curriculares
+
+CARGA HORÁRIA TOTAL (CHT)
+
+CHT
+
+Percentual
+
+
+Fluxo sugerido
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Natureza
+
+Núcleo
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+
+Disciplina
+
+CHT
+
+Carga horária do período
+
+
+Carga horária acumulada
+
+Pré-requisitos
+Disciplinas de formação básica (obrigatórias)
+Computação e Sociedade
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+Introdução à Programação
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+ã
+
+n
+
+n
+õ
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+IME
+
+Nenhum
+
+Sim
+
+Ementa
+
+Fundamentos de Matemática para Computação
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Arquitetura de Computadores
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+
+
+
+
+INF
+
+Sim
+
+Fundamentos de Matemática para Computação
+
+Ementa
+
+Algoritmos e Estruturas de Dados 1
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Introdução à Programação
+
+Sim
+
+Ementa
+
+Probabilidade e Estatística A
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+IME
+
+
+Sim
+
+Ementa
+õ
+ã
+ã
+
+o
+
+n
+
+a
+õ
+õ
+
+ã
+
+ã
+ã
+
+ã
+ã
+
+ã
+
+Álgebra Linear
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+IME
+
+Nenhum
+
+Sim
+
+Ementa
+
+Lógica Matemática
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+
+
+Ementa
+
+
+
+IME
+
+Sim
+
+Fundamentos de Matemática para Computação
+Programação Orientada a Objetos
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+
+
+
+INF
+
+Sim
+
+Introdução à Programação
+
+Ementa
+
+Algoritmos e Estruturas de Dados 2
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+
+
+
+INF
+
+Sim
+
+Algoritmos e Estruturas de Dados 1
+
+Ementa
+
+Linguagens e Paradigmas de Programação
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NC
+
+
+
+Ementa
+
+
+INF
+
+Sim
+
+Introdução à Programação
+Engenharia de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+Análise e Projeto de Algoritmos
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisitos:
+
+NC
+
+
+
+Ementa
+
+
+
+INF
+
+Sim
+
+Fundamentos de Matemática para Computação
+Algoritmos e Estruturas de Dados 2
+Interação Humano-Computador
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Probabilidade e Estatística A
+Algoritmos e Estruturas de Dados 1
+
+Sim
+
+Ementa
+
+Banco de Dados
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Lógica Matemática
+
+Sim
+Projeto de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Engenharia de Software
+Programação Orientada a Objetos
+
+Sim
+Disciplinas optativas
+
+Sistemas Operacionais
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Arquitetura de Computadores
+
+Não
+
+Ementa
+
+Pesquisa Operacional
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Álgebra Linear
+
+Não
+
+Ementa
+
+Linguagens Formais e Autômatos
+Núcleo
+
+TEO PRA
+
+TOTAL Período Unidade Obrigatória Pré-requisito:
+
+NE
+
+
+
+Ementa
+
+
+INF
+
+Não
+
+Fundamentos
+Computação
+
+de
+
+Matemática
+
+para
+Redes de computadores
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Sistemas Operacionais
+
+Não
+
+Ementa
+
+Introdução à Língua Brasileira de Sinais
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+
+
+
+Unidade
+
+Obrigatória
+
+LETRAS Não
+
+Pré-requisito:
+
+Nenhum
+
+Ementa
+
+Compiladores
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Linguagens Formais e Autômatos
+Algoritmos e Estruturas de Dados 2
+
+Não
+Sistemas Distribuídos
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NE
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Programação Orientada a Objetos
+
+Não
+Disciplinas específicas de Engenharia de Software
+
+Condições mínimas
+
+
+
+
+
+
+Construção de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Nenhum
+
+Sim
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modelagem de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisitos:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+Processos de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+Engenharia de Sistemas
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+Design de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa:
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+
+
+Domínios de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Ementa
+
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+Sim
+
+
+
+
+
+
+
+
+
+Processos de Qualidade de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+
+
+
+Gerência de Projeto de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+Software Concorrente e Distribuído
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+
+
+
+
+
+
+
+Experiência do Usuário de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arquitetura de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+Requisitos de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Governança e Gestão de Serviços de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+Software para Sistemas Ubíquos
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+Ementa
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software para Persistência de Dados
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+
+Padrões de Arquitetura de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+Teste de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+
+
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+Metodologia e Experimentação em Engenharia de Software
+Núcleo
+
+Carga horária
+
+Teórica
+
+Prática
+
+Período (fluxo)
+
+Pré-requisito:
+
+NC
+
+
+
+
+
+Nenhum
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+Mercado e Economia de Software
+Núcleo
+
+Carga horária
+
+Teórica
+
+Prática
+
+Período (fluxo)
+
+Pré-requisito:
+
+NC
+
+
+
+
+
+Nenhum
+
+Ementa
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+Prática em Engenharia de Software
+Núcleo
+
+Carga horária
+
+Teórica
+
+Prática
+
+Período (fluxo)
+
+Pré-requisito:
+
+NC
+
+
+
+
+
+Nenhum
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+Referências
+
+
+
+
+
+
+http://apoema.inf.ufg.br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apêndice A
+Tabelas de equivalência
+
+DISCIPLINA DO PPC DE 2009-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2017-1
+
+CH NATUREZA
+
+Introdução à Engenharia de Software
+
+
+NE – OBR
+
+Engenharia de Software
+
+
+NE – OBR
+
+Ética, Normas e Postura Profissional
+
+
+NC – OBR
+
+Computação e Sociedade
+
+
+NC – OBR
+
+Matemática Discreta
+
+
+NC – OBR
+
+Fundamentos de Matemática para Computação
+
+
+NC – OBR
+
+Lógica
+
+
+NC – OBR
+
+Lógica Matemática
+
+
+NC – OBR
+
+Introdução à Programação
+
+
+NC – OBR
+
+Introdução à Programação
+
+
+NC – OBR
+
+Método de Desenvolvimento de Software
+
+
+NC – OBR
+
+Programação Orientada a Objetos
+
+
+NC – OBR
+
+Construção de Software
+
+
+NC – OBR
+
+Domínios de Software
+
+
+NC – OBR
+
+Arquitetura de Computadores
+
+
+NC – OBR
+
+Arquitetura de Computadores
+
+
+NC – OBR
+
+Algoritmos: Fundamentos e Estruturas de Dados
+
+
+NC – OBR
+
+Algoritmos e Estruturas de Dados 1
+
+
+NC – OBR
+
+Banco de Dados
+
+
+NC – OBR
+
+Banco de Dados
+
+
+NE – OBR
+
+Engenharia de Software
+
+
+NE – OBR
+
+Engenharia de Software
+
+
+NE – OBR
+
+Sistema Operacional
+
+
+NE – OBR
+
+Sistemas Operacionais
+
+
+NC – OBR
+
+Redes e Sistemas Distribuídos
+
+
+NE – OBR
+
+Redes de Computadores
+
+
+NC – OBR
+DISCIPLINA DO PPC DE 2009-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2017-1
+
+CH NATUREZA
+
+Algoritmos: Ordenação e Busca
+
+
+NC – OBR
+
+Algoritmos e Estruturas de Dados 2
+
+
+NC – OBR
+
+Linguagens de Programação
+
+
+NE – OBR
+
+Linguagens e Paradigmas de Programação
+
+
+NE – OPT
+
+Requisitos de Software
+
+
+NE – OBR
+
+Requisitos de Software
+
+
+NC – OBR
+
+Projeto Detalhado de Software
+
+
+NE – OBR
+
+Projeto de Software
+
+
+NE – OPT
+
+Processo de Software
+
+
+NE – OBR
+
+Processos de Software
+
+
+NE – OBR
+
+Algoritmos em Grafos
+
+
+NC – OBR
+
+Algoritmos e Estruturas de Dados 2
+
+
+NC – OBR
+
+Interação Homem-Computador
+
+
+NE – OBR
+
+Interação Humano-Computador
+
+
+NC – OBR
+
+Segurança
+
+
+NE – OBR
+
+
+
+NE – OBR
+
+Qualidade de Software
+
+
+NE – OBR
+
+Processos de Qualidade de Software
+
+
+NE – OPT
+
+Arquitetura de Software
+
+
+NE – OBR
+
+Arquitetura de Software
+
+
+NC – OBR
+
+Verificação e Validação
+
+
+NE – OBR
+
+Testes de Software
+
+
+NC – OBR
+
+Gerência de Configuração de Software
+
+
+NC – OBR
+
+
+
+NC – OBR
+
+Manutenção de Software
+
+
+NE – OBR
+
+
+
+NE – OPT
+
+Gerência de Projeto de Software
+
+
+NE – OBR
+
+Gerência de Projeto de Software
+
+
+NC – OBR
+
+Métodos e Ferramentas da Engenharia de Software
+
+
+NC – OBR
+
+
+
+NC – OBR
+
+Experimentação em Engenharia de Software
+
+
+NC – OBR
+
+Metodologia e Experimentação em Engenharia de Software
+
+
+NE – OBR
+
+Leitura de Software
+
+
+NE – OBR
+
+
+
+NC – OBR
+DISCIPLINA DO PPC DE 2009-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2017-1
+
+CH NATUREZA
+
+Software Concorrente
+
+
+NC – OBR
+
+Software Concorrente e Distribuído
+
+
+NC – OBR
+
+Engenharia Econômica para Software
+
+
+NC – OBR
+
+Mercado e Economia de Software
+
+
+NE – OBR
+
+Software para Web
+
+
+NE – OBR
+
+Experiência do Usuário em Software
+
+
+NE – OBR
+
+Software para Dispositivos Móveis
+
+
+NE – OBR
+
+Software para Sistemas Ubíquos
+
+
+NE – OBR
+
+Software para Persistência
+
+
+NC – OBR
+
+Software para Persistência de Dados
+
+
+NE – OBR
+
+Integração de Aplicações E
+
+
+NE – OBR
+
+Técnicas Avançadas de Construção de Software
+
+Design de Software
+
+
+NE – OBR
+
+
+NE – OBR
+
+Tópicos em Engenharia de Software
+
+
+NE – OPT
+
+
+
+NC – OBR
+
+LIBRAS
+
+
+NE – OPT
+
+Introdução à Língua Brasileira de Sinais
+
+
+NE – OPT
+
+Mercado de Software
+
+
+NE – OPT
+
+Mercado e Economia de Software
+
+
+NE – OPT
+
+Prática em Engenharia de Software
+
+
+NE – OBR
+
+Modelagem de Software
+
+
+NE – OBR
+
+
+
+NE – OBR
+
+
+Padrões de Arquitetura de Software
+
+
+NE – OBR
+
+
+NE – OBR
+DISCIPLINA DO PPC DE 2017-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2009-1
+
+CH NATUREZA
+
+Computação e Sociedade
+
+
+NC – OBR
+
+Ética, Normas e Postura Profissional
+
+
+NC - OBR
+
+Introdução à Programação
+
+
+NC – OBR
+
+Introdução à Programação
+
+
+NC - OBR
+
+
+
+NC – OBR
+
+Optativa
+
+
+NC – OBR
+
+Fundamentos de Matemática para Computação
+
+
+NC – OBR
+
+Matemática Discreta
+
+
+NC – OBR
+
+Arquitetura de Computadores
+
+
+NE – OPT
+
+Arquitetura de Computadores
+
+
+NC – OBR
+
+Algoritmos e Estruturas de Dados 1
+
+
+NE – OPT
+
+Algoritmos: Fundamentos e Estruturas de Dados
+
+
+NC – OBR
+
+Probabilidade e Estatística A
+
+
+NE – OBR
+
+Optativa
+
+
+NC – OBR
+
+Álgebra Linear
+
+
+NC – OBR
+
+Optativa
+
+
+NC – OBR
+
+Lógica Matemática
+
+
+NC – OBR
+
+Lógica
+
+
+NE – OBR
+
+Programação Orientada a Objetos
+
+
+NE – OBR
+
+Método de Desenvolvimento de Software
+
+
+NE – OBR
+
+Algoritmos e Estruturas de Dados 2
+
+
+NC – OBR
+
+Algoritmos: Ordenação e Busca
+
+
+NC – OBR
+
+
+
+NE – OPT
+
+Optativa
+
+
+NC – OBR
+
+Linguagens e Paradigmas de Programação
+
+
+NC – OBR
+
+Linguagens de Programação
+
+
+NE – OBR
+
+Engenharia de Software
+
+
+NE – OBR
+
+Engenharia de Software
+
+
+NC – OBR
+
+Análise e Projeto de Algoritmos
+
+
+NE – OBR
+
+Algoritmos em Grafos
+
+
+NC - OBR
+
+Interação Humano-Computador
+
+
+NE – OBR
+
+Interação Homem-Computador
+
+
+NE - OBR
+
+
+
+NE – OBR
+
+Optativa
+
+
+NC - OBR
+DISCIPLINA DO PPC DE 2017-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2009-1
+
+CH NATUREZA
+
+Banco de Dados
+
+
+NE – OBR
+
+Banco de Dados
+
+
+NC - OBR
+
+Projeto de Software
+
+
+NC – OBR
+
+Projeto Detalhado de Software
+
+
+NC - OBR
+
+Construção de Software
+
+
+NE – OBR
+
+Introdução à Programação
+
+
+NC – OBR
+
+Modelagem de Software
+
+
+NE – OPT
+
+Optativa
+
+
+NE – OBR
+
+Processos de Software
+
+
+NC – OBR
+
+Processo de Software
+
+
+NC – OBR
+
+Engenharia de Sistemas
+
+
+NE – OBR
+
+Optativa
+
+
+NE – OBR
+
+Design de Software
+
+
+NE – OBR
+
+
+NC – OBR
+
+Domínios de Software
+
+
+NE – OPT
+
+Optativa
+
+
+NE – OBR
+
+Processos de Qualidade de Software
+
+
+NE – OBR
+
+Qualidade de Software
+
+
+NC – OBR
+
+Gerência de Projeto de Software
+
+
+NE – OBR
+
+Gerência de Projeto de Software
+
+
+NE – OBR
+
+Software Concorrente e Distribuído
+
+
+NE – OBR
+
+Software Concorrente
+
+
+NC – OBR
+
+Experiência do Usuário de Software
+
+
+NE – OBR
+
+Interação Homem-Computador
+
+
+NC – OBR
+
+Arquitetura de Software
+
+
+NE – OBR
+
+Arquitetura de Software
+
+
+NC – OBR
+
+Requisitos de Software
+
+
+NC – OBR
+
+Requisitos de Software
+
+
+NE – OBR
+
+Governança e Gestão de Serviços de Software
+
+
+NE – OBR
+
+Gerência de Configuração de Software
+
+
+NE – OBR
+
+Software para Sistemas Ubíquos
+
+
+NE – OPT
+
+Software para Dispositivos Móveis
+
+
+NE – OPT
+
+Projeto Detalhado de Software E Arquitetura de
+Software
+DISCIPLINA DO PPC DE 2017-1
+
+APROVEITA COMO – NO PPC DE 2009-1
+
+CH NATUREZA
+
+Software para Persistência de Dados
+
+
+NE – OBR
+
+Padrões de Arquitetura de Software
+
+
+NE – OBR
+
+Testes de Software
+
+
+NE – OPT
+
+
+
+Prática em Engenharia de Software
+
+Software para Persistência
+
+CH NATUREZA
+
+NE - OBR
+
+
+NE – OBR
+
+Verificação e Validação
+
+
+NC – OBR
+
+NE – OPT
+
+Optativa
+
+
+NC – OBR
+
+
+NE – OBR
+
+-
+
+
+NC – OBR
+
+Sistemas Operacionais
+
+
+NE – OPT
+
+Sistema Operacional
+
+
+NC - OBR
+
+Pesquisa Operacional
+
+
+NE – OPT
+
+Optativa
+
+
+NE – OBR
+
+Linguagens Formais e Autômatos
+
+
+NE – OBR
+
+Optativa
+
+
+NC – OBR
+
+Redes de Computadores
+
+
+NE – OBR
+
+Redes e Sistemas Distribuídos
+
+
+NC – OBR
+
+Introdução à Língua Brasileira de Sinais
+
+
+NE – OBR
+
+LIBRAS
+
+
+NC – OBR
+
+Compiladores
+
+
+NC – OBR
+
+Optativa
+
+
+NC – OBR
+
+Sistemas Distribuídos
+
+
+NE – OPT
+
+Redes e Sistemas Distribuídos
+
+
+NC – OBR
+
+Mercado e Economia de Software
+
+
+NC – OBR
+
+Mercado de Software
+
+
+NC - OBR
+
+Metodologia e Experimentação em Engenharia de Software
+
+
+NC – OBR
+
+Experimentação em Engenharia de Software
+
+
+NC - OBR
+
+Design de Software
+
+
+NE – OBR
+
+
+NC – OBR
+
+Arquitetura de Software OU Projeto Detalhado de
+Software
+
+Projeto Detalhado de Software E Arquitetura de
+Software
+DISCIPLINA DO PPC DE 2017-1
+
+APROVEITA COMO – NO PPC DE 2009-1
+
+CH NATUREZA
+
+CH NATUREZA
+
+Domínios de Software
+
+
+NE – OPT
+
+Optativa
+
+
+NE – OBR
+
+Processos de Qualidade de Software
+
+
+NE – OBR
+
+Qualidade de Software
+
+
+NC – OBR
+
+Gerência de Projeto de Software
+
+
+NE – OBR
+
+Gerência de Projeto de Software
+
+
+NE – OBR
+
+Software Concorrente e Distribuído
+
+
+NE – OBR
+
+Software Concorrente
+
+
+NC – OBR
+
+Experiência do Usuário de Software
+
+
+NE – OBR
+
+Interação Homem-Computador
+
+
+NC – OBR
+
+Arquitetura de Software
+
+
+NE – OBR
+
+Arquitetura de Software
+
+
+NC – OBR
+
+Requisitos de Software
+
+
+NC – OBR
+
+Requisitos de Software
+
+
+NE – OBR
+
+Governança e Gestão de Serviços de Software
+
+
+NE – OBR
+
+Gerência de Configuração de Software
+
+
+NE – OBR
+
+Software para Sistemas Ubíquos
+
+
+NE – OPT
+
+Software para Dispositivos Móveis
+
+
+NE – OBR
+
+Software para Persistência de Dados
+
+
+NE – OBR
+
+Software para Persistência
+
+
+NE – OBR
+
+Padrões de Arquitetura de Software
+
+
+NE – OBR
+
+
+NE – OBR
+
+Testes de Software
+
+
+NE – OPT
+
+Verificação e Validação
+
+
+NE – OBR
+
+
+
+NE – OPT
+
+Optativa
+
+
+NE – OBR
+
+Prática em Engenharia de Software
+
+
+NE – OBR
+
+-
+
+
+NE – OBR
+
+Sistemas Operacionais
+
+
+NE – OPT
+
+Sistema Operacional
+
+
+NC – OBR
+
+Pesquisa Operacional
+
+
+NE – OPT
+
+Optativa
+
+
+NE – OBR
+
+Arquitetura de Software OU Projeto Detalhado de
+Software
+DISCIPLINA DO PPC DE 2017-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2009-1
+
+CH NATUREZA
+
+Linguagens Formais e Autômatos
+
+
+NE – OBR
+
+Optativa
+
+
+NC – OBR
+
+Redes de Computadores
+
+
+NE – OBR
+
+Redes e Sistemas Distribuídos
+
+
+NC – OBR
+
+Introdução à Língua Brasileira de Sinais
+
+
+NE – OBR
+
+LIBRAS
+
+
+NC – OBR
+
+Compiladores
+
+
+NE – OPT
+
+Optativa
+
+
+NC – OBR
+
+Sistemas Distribuídos
+
+
+NE – OPT
+
+Redes e Sistemas Distribuídos
+
+
+NC – OBR
+
+Mercado e Economia de Software
+
+
+NC – OBR
+
+Mercado de Software
+
+
+NC - OBR
+
+Metodologia e Experimentação em Engenharia de Software
+
+
+NC – OBR
+
+Experimentação em Engenharia de Software
+
+
+NC - OBR
+Apêndice B
+
+Disciplinas de formação básica (obrigatórias)
+Computação e Sociedade
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+Introdução à Programação
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+õ
+
+
+̧
+
+
+õ
+
+
+
+
+Fundamentos de Matemática para Computação
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+Arquitetura de Computadores
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Algoritmos e Estruturas de Dados 1
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Probabilidade e Estatística A
+Bibliografia Básica
+
+
+
+
+õ
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+ã
+Álgebra Linear
+Bibliografia Básica
+
+
+
+õ
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Lógica Matemática
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+ã
+
+ã
+
+õ
+
+
+
+Programação Orientada a Objetos
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Algoritmos e Estruturas de Dados 2
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Linguagens e Paradigmas de Programação
+Bibliografia Básica
+
+;
+
+;
+
+
+
+
+
+;
+,
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+,
+Engenharia de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Análise e Projeto de Algoritmos
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Interação Humano-Computador
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+;
+
+
+
+
+
+
+
+
+;
+Banco de Dados
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Projeto de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Disciplinas optativas
+Pesquisa Operacional
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Linguagens Formais e Autômatos
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Sistemas Operacionais
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+Compiladores
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Redes de computadores
+Bibliografia básica
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Introdução à Língua Brasileira de Sinais
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+
+Sistemas Distribuídos
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+Metodologia e Experimentação em Engenharia de Software
+Bibliografia básica
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Mercado e Economia de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Disciplinas específicas de Engenharia de Software
+Engenharia de Sistemas
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Construção de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Modelagem de Software
+Bibliografia básica
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Processos de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Domínios de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Processos de Qualidade de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Gerência de Projeto de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Design de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Governança e Gestão de Serviços de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Arquitetura de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Requisitos de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+Experiência do Usuário de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Software Concorrente e Distribuído
+Bibliografia básica
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Padrões de Arquitetura de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Teste de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Software para Sistemas Ubíquos
+Bibliografia básica
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+Software para Persistência de Dados
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Prática em Engenharia de Software
+Bibliografia básica
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+Memória e
+representação da dados e instruções. Processador, ciclo de instrução, formato e endereçamento.
+Noções básicas de programação em linguagem de montagem. Dispositivos de entrada e saída.
+Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia
+de memória. Introdução a arquiteturas paralelas e métricas de desempenho.
+Bibliografia Básica
+
+
+
+
+BRYANT, R.; O'RALLARON, D. Computer Systems: A Programmer's Perspective, 2. ed., Addison
+Wesley, 2010.
+STALLINGS, W. Arquitetura e Organização de Computadores, 5. ed., Prentice-Hall, 2002.
+TANENBAUM, A. Organização Estruturada de Computadores, Rio de Janeiro: LTC, 2006.
+
+Bibliografia Complementar
+
+
+
+
+
+
+HENNESSY, J. L.; PATTERSON, D. A. Computer Architecture: A Quantitative Approach, 4. ed., 2007.
+MONTEIRO, M. A. Introdução à Organização de Computadores. 4.

@@ -1,0 +1,10 @@
+de um trabalho de pesquisa. Escrita do trabalho científico.
+Apresentação oral do trabalho científico. Apresentação de programas de Iniciação Científica.
+Bibliografia Básica:
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Cientif́ ica. 7. ed. São Paulo: Atlas, 2010.
+SEVERINO, A. J. Metodologia do Trabalho Cientif́ ico. 22. ed. Revisada e ampliada. São Paulo: Cortez, 2007.
+WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação, 1. ed. Elsevier, 2009.
+Bibliografia Complementar:
+ANDRADE, M. M. Introdução à metodologia do trabalho científico : elaboração de trabalhos na graduação . 9.
+ed. São Paulo: Atlas, 2009.
+BARROS, A. J. S. Fundamentos da Metodologia Científica . 3.ed. SãoPaulo: Pearson Prentice Hall, 2010.

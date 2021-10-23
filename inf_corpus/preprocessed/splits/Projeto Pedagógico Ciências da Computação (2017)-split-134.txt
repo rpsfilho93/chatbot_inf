@@ -1,0 +1,16 @@
+J; DEITEL, H. M. Javacomo programar 6. ed. - São Paulo: Prentice Hall, 2005.
+
+1. ZEIGLER, B. P. Objects and Systems: Principled Design with Implementations in C++ and
+Java. New York, NY, USA: Springer-Verlag, Inc., 1997.
+2. SANTOS, R. Introdução à Programação Orientada a Objetos com Java. Campus, 2003.
+3. BUDD, T. An Introduction to Object-Oriented Programming. Addison Wesley, 1996.
+4. HORSTMANN, C. S. Core Java – Advanced Features. 8. ed. Prentice Hall, 2008.(Volume II).
+
+Câ
+
+5. GAMMA, Erich Design patterns elements of reusable object-oriented software Reading: Addison Wesley, 1995.
+
+Disciplina: Projeto de Sofware
+Bibliografia Básica
+1. BUDGEN, B. Software Design. 2nd ed. Addison-Wesley, 2003.
+2. BASS, L. et al. Software

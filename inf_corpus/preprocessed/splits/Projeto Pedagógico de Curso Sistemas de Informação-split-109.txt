@@ -1,0 +1,12 @@
+concluinte do curso de Bacharelado em Sistemas de
+Informação a experiência em todas as etapas do processo de solução de um problema real, passando pela
+identificação e especificação do problema, levantamento da fundamentação teórica necessária, identificação
+de soluções existentes para problemas similares/correlatos, modelagem, construção da solução propriamente
+dita, além de documentação adequada de todo o processo.
+Atuação como membro de uma equipe encarregada de resolver problemas reais com impacto direto na
+sociedade ou no setor produtivo locoregional. Por fim espera-se a consolidação dos conhecimentos,
+habilidades e competências adquiridos no curso, aplicando-os de forma prática na solução de problemas reais.
+
+SISTEMAS DISTRIBUÍDOS
+Ementa
+Introdução a Sistemas Distribuídos. Invocação Remota. Objetos Distribuídos.

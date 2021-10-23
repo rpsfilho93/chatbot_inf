@@ -1,0 +1,22 @@
+O ́Reilly, 2011.
+HEBELER, J.; DEAN, M.; FISHER, M. Semantic Web Programming.2nd ed. John Wiley & Sons, 2009.
+
+Bibliografia Complementar:
+ALLEMANG, D.; HENDLER, J. Semantic Web for the Working Ontologist: Effective Modelling in RDFS and
+OWL.1st ed. Morgan Kaufmann, 2008.
+BERNERS-LEE, T.; HENDLER, J.; LASSILA, O.The Semantic Web.Scientific American, 2001. 284(5), 28-37.
+BERNERS-LEE, T. Qual é o futuro da web
+, segundo o seu criador
+. 2007.( Disponível em
+computerworld.uol.com.br/mercado/2007/07/09/idgnoticia.2007-07-09.9970442373/).
+FENSEL, D.; HENDLER, J.; LIEBERMAN, H.; WAHLSTER, W. Spinning the Semantic Web. 1st ed. The
+MIT Press, 2005.
+SEGARAN, T.; EVANS, C.; Taylor, J. Programming the Semantic Web.1st. ed. O’Reilly Media, 2009.
+
+Sugestão de Fluxo Curricular
+
+DISCIPLINA
+CHT
+Computação e Sociedade
+Fundamentos de Matemática para Computaçaõ
+Introdução à

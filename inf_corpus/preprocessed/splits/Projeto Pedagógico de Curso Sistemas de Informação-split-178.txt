@@ -1,0 +1,13 @@
+estratégias de inserção de
+questões ambientais. Por exemplo, adoção de material em formato digital em vez de formato
+impresso.
+A apresentação do conteúdo de cada disciplina também pode se beneficiar do volume
+significativo de dados sobre o meio ambiente. Por exemplo, área desmatada ao longo do
+tempo; áreas de preservação; consumo de energia; emissão de CO2; qualidade do ar;
+consumo de materiais poluentes e geração de lixo eletrônico. Tais artefatos de informação
+podem ser empregados para ilustrar o funcionamento de algoritmos e visualização de
+informações, dentre outras possibilidades.
+Convém destacar que esses exemplos devem ser vistos como elementos de inspiração,
+a serem renovados continuamente.
+Disciplinas de Graduação Obrigatórias
+As disciplinas Computação e

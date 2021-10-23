@@ -1,0 +1,10 @@
+Leis de Kirchhoff. Métodos de análise
+de circuitos resistivos. Teoremas de circuitos. Capacitor e indutor como elemento de circuito. Análise de
+circuitos elétricos em regime permanente senoidal com fasores e operador de Laplace ('s'). Amplificadores
+Operacionais: Circuitos básicos. Junção PN. Diodos. Transistor Bipolar de Junção (TBJ). Transistor de Efeito de
+Campo (FET e MOSFET). Fontes Reguladas.
+Bibliografia Básica:
+SADIKU, M. N.; MUSA, S.; ALEXANDER, C. K. Análise de circuitos elétricos com aplicações. Porto Alegre:
+AMGH (McGraw-Hill - Bookman), 2014. 616p.
+IRWIN, J. D. Análise Básica de Circuitos para Engenharia. 10ed. SãoPaulo: LTC, 2013. 700 p.
+SEDRA, A. S.; SMITH, K. C. Microeletrônica. 5a ed. São Paulo: Ed. Pearson do

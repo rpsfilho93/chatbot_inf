@@ -1,0 +1,14 @@
+2. ed.Rio de janeiro: LTC, 2008.
+BAKER, M. P.; HEARN, D. Computer graphics with OpenGL. 3rd ed. Upper Saddle River, NJ: Pearson
+Prentice Hall, 2004.
+RIBEIRO, M. M. Uma breve introduçaõ à computaçaõ gráfica. Rio de Janeiro, RJ: Ciência Moderna, 2010.
+ROGERS, D. Procedural Elements for Computer Graphics. Mc-Graw-wHill, 1997.
+COMPUTAÇÃO PARALELA:
+Fundamentos da computação paralela. Classificação de computadores. Métricas de avaliação de desempenho de
+programas paralelos. Projeto e análise de algoritmos paralelos. Programação paralela com memória
+compartilhada. Programação paralela com memória distribuída.
+
+Bibliografia Básica:
+GRAMA, A.; KUMAR, V.; GUPTA, A.; KARYPIS, G.: An Introduction to Parallel Computing, Design and
+Analysis of Algorithms, 2.ed. Addison-Wesley, 2003.
+PACHECO, P. An Introduction to Parallel

@@ -1,0 +1,13 @@
+L. Física Básica: Eletromagnetismo. São Paulo: LTC, 2007.
+ALONSO, M.; FINN, E. J. Física: um curso universitário. SãoPaulo: E. Blucher, 2002. Volume 2.
+LUIZ, A. M. Problemas de Fiś ica. Rio de Janeiro: Guanabara Dois, 1980. Volume 3.
+MCKELVEY, J. P. Física. São Paulo: Harbra, 1979. Volume 3.
+GEOMETRIA ANALÍTICA:
+Matrizes. Determinantes. Sistemas lineares. Vetores. Retas e planos. Curvas. Cônicas. Superfícies cônicas e
+cilíndricas. Superfícies quádricas.
+Bibliografia Básica:
+REIS, G. L; SILVA, V. V. Geometria Analítica. São Paulo: LTC,1993.
+STEINBRUCH, A.; WINTERLE, P. Geometria Analítica. São Paulo: Mc-Graw-Hill, 1987.
+OLIVEIRA, I. C.; BOULOS, P. Geometria Analítica: um tratamento vetorial. SãoPaulo: Pearson/ Prentice Hall, 2005.
+Bibliografia Complementar:
+SWOKOWSKI, E. W. Cálculo com Geometria

@@ -1,0 +1,39 @@
+2011.
+
+Disciplina: Recuperação de Informação
+Bibliografia Básica
+1. MANNING, C. D.; RAGHAVAN, P.; SCHÜTZE, H. Introduction to Information Retrieval,
+Cambridge, 2009.
+2. BAEZA-YATES, R.; RIBEIRO-NETO, B. Modern Information Retrieval: The Concepts and
+
+G
+
+Technology Behind Search. 2nd ed. Addison Wesley, 2011.
+
+tice, Addison Wesley, 2010.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. CROFT, W. B.; METZLER, D.; STROHMAN, T. Search Engines: information Retrieval in Prac-
+
+Documents and Images. 2nd ed. Morgan Kaufmann Publishers, 1999.
+
+da
+
+1. WITTEN, I. H.; MOFFAT, A.; BELL, T. C. Managing Gigabytes: Compressing and Indexing
+
+çã
+o
+
+2. CHAKRABARTI, S. Mining the Web: Discovering Knowledge from Hypertext Data. Morgan
+
+ore
+s
+
+Kaufmann, 2003. (The Morgan Kaufmann series in data management systems).
+3. WEISS, S. M.; INDURKHYA, N.; ZHANG, T. Fundamentals

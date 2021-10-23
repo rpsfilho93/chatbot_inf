@@ -1,0 +1,12 @@
+J. Metaheuristics for hard optimization: methods and case studies Berlin: Springer Berlin, 2006.
+Bibliografia Complementar:
+CHENG, R.; GEN, M. Genetic algorithms and engineering optimization. New York: Wiley, 2000. (Wiley series
+in engineering design and automation).
+ENGELBRECHT, A. P. Fundamentals of computational swarm intelligence Hoboken. NJ: Wiley, 2005.
+MITCHELL, M. An introduction to genetical gorithms. Cambridge: MIT Press, 1996.
+ROTHLAUF, F. Representations for genetic and evolutionary algorithms.2nd ed. Heidelberg: Springer, 2006.
+LIDEN, R. Algoritmos Genéticos. 3a.ed.Brasport, 2008.
+METODOLOGIA E EXPERIMENTAÇÃO EM ENGENHARIA DE SOFTWARE:
+Metodologia Científica: aplicação de metodologia científica em atividades de Engenharia de Software.
+Fundamentos da Engenharia de Software Experimental: contexto da experimentação na Engenharia de Software,
+principais tipos de

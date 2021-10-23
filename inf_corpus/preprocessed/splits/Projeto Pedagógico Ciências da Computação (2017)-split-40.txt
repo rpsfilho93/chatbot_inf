@@ -1,0 +1,275 @@
+Eletrônica para Computação
+
+EMC
+
+NE
+
+OBR
+
+16. Engenharia de Requisitos
+
+INF
+
+NE
+
+OBR
+
+17. Engenharia de Software
+
+INF
+
+NC
+
+OBR
+
+18. Equações Diferenciais Ordinárias
+
+IME
+
+NE
+
+OBR
+
+NE
+
+OBR
+
+19. Física III
+
+IF
+
+INF
+
+NC
+
+OBR
+
+21. Geometria Analítica
+
+IME
+
+NE
+
+OBR
+
+22. Inteligência Artificial
+
+INF
+
+NE
+
+OBR
+
+23. Interação Humano-Computador
+
+INF
+
+NC
+
+OBR
+
+24. Introdução à Computabilidade e à
+Complexidade Computacional
+
+INF
+
+NE
+
+OBR
+
+25. Introdução à Programação
+
+INF
+
+NC
+
+OBR
+
+26. Linguagens e Paradigmas de Programação
+
+INF
+
+NC
+
+OBR
+
+27. Linguagens Formais e Autômatos
+
+INF
+
+NE
+
+OBR
+
+28. Lógica Matemática
+
+INF
+
+NC
+
+OBR
+
+29. Matemática Discreta
+
+INF
+
+NE
+
+OBR
+
+30. Metodologia de Pesquisa em Computação
+
+INF
+
+NE
+
+OBR
+
+31. Pesquisa Operacional
+
+INF
+
+NE
+
+OBR
+
+32. Probabilidade e Estatística A
+
+IME
+
+NC
+
+OBR
+
+33. Programação Orientada a Objetos
+
+INF
+
+NC
+
+OBR
+
+Câ
+
+Em
+
+20. Fundamentos de Matemática para
+Computação
+
+Disciplinas de natureza obrigatória – Continuação
+
+Disciplina
+
+Unid.
+Resp.
+
+PréReq.
+
+34. Projeto de Software
+
+INF
+
+35. Projeto Final de Curso 1
+
+INF
+
+36. Projeto Final de Curso 2
+
+INF
+
+37. Redes de Computadores 1
+
+INF
+
+38. Redes de Computadores 2
+
+INF
+
+39. Sistemas Distribuídos
+
+C. H.
+Semestral
+Teo. Prat.
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+NC
+
+OBR
+
+NE
+
+OBR
+
+NE
+
+OBR
+
+NE
+
+OBR
+
+NE
+
+OBR
+
+INF
+
+NE
+
+OBR
+
+40. Sistemas Gerenciadores de Banco de
+Dados
+
+INF
+
+NE
+
+OBR
+
+41. Sistemas Operacionais
+
+INF
+
+NE
+
+OBR
+
+42. Software Básico
+
+INF
+
+NE
+
+OBR
+
+INF
+
+NE
+
+OBR
+
+ma
+Av
+ali
+ras
+a
+çã
+Su
+op
+pe
+ela
+rio
+res
+s
+da
+UF
+G
+
+43.

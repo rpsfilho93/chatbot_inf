@@ -1,0 +1,13 @@
+Rio de Janeiro:
+Editora Campus, 2007.
+CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database systems: a practical approach to design,
+implementation and management. 3rd. Edition. Addison Wesley, 2010.
+Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade.
+Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações.
+Bibliografia Básica:
+GUIDORIZZI, H. L. Um Curso de Cálculo. LTC, Rio de Janeiro, Brasil, 2006. Volume1.
+LEITHOLD, L. O Cálculo com Geometria Analítica 3. ed.São Paulo: Harbra, 1994. Vol. 1.
+STEWART, J. Cálculo. 5a. ed. São Paulo: Cengage Learning, 2006. Volume 1.
+
+Bibliografia Complementar:
+FLEMMING, D. M; GONÇALVES, M. B. Cálculo

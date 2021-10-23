@@ -1,0 +1,23 @@
+matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores.
+Espaços com produto interno.
+Bibliografia Básica
+
+
+
+
+BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. Álgebra Linear, 3. ed., São
+Paulo: Harbra, 2003.
+CALLIOLI, C. A.; DOMINGUES, H. H; COSTA, R. C. F. Álgebra Linear e Aplicações. Atual, 1983.
+LIPSCHUTZ, S. Álgebra Linear, 2. ed., São Paulo: Makron-Books, 1974.
+
+Bibliografia Complementar
+
+
+
+
+
+
+APOSTOL, T. Linear Álgebra: A First Course with Applications to Differential Equations, 1. ed. WileyInterscience, 1997.
+HOFFMAN, K.; KUNZE, R. Álgebra Linear. São Paulo: Polígono, 1971.
+HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações, 8. ed. Porto Alegre: Bookman, 2001.
+LIMA, E. L. Álgebra Linear: Coleção Matemática Universitária.

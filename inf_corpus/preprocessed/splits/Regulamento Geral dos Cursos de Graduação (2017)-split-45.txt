@@ -1,0 +1,14 @@
+pela oferta;
+o ano e semestre;
+o câmpus e o local;
+o número de vagas, incluídas as previstas para NL, se for o caso;
+início e término da turma;
+as matrizes para as quais as vagas se destinam, com reserva de vagas,
+se for o caso;
+VII. os dias da semana e horário;
+VIII. o docente vinculado.
+§ 2º Quando o componente curricular for de responsabilidade da unidade
+acadêmica ou unidade acadêmica especial à que o curso se vincula, a oferta da turma será
+realizada pela coordenação do curso.
+§ 3º Quando o componente curricular estiver vinculado a dois ou mais
+cursos de uma unidade acadêmica ou unidade acadêmica especial, a oferta da

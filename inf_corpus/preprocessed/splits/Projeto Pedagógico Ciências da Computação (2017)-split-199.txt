@@ -1,0 +1,54 @@
+de Informação. 2.ed. São Paulo: Atlas,
+2008.
+2. SCHMIDT, P. Fundamentos de Auditoria de Sistemas. São Paulo: Atlas, 2006.
+
+G
+
+3. STALLINGS, W. Criptografia e segurança de redes : princípios e práticas. 4. ed. Prentice
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+Hal, 2008.
+
+2. KIZZA, J. Computer Network Security. New York: Springer, 2005.
+
+da
+
+1. LYRA, M. R. Segurança e Auditoria em Sistemas de Informação. 1. ed. Ciência Moderna.
+
+çã
+o
+
+3. KUROSE, J.F.; ROSS, K. Redes de Computadores e a Internet, 6. ed. Pearson Education, 2013.
+
+ore
+s
+
+4. TCU. Manual de Auditoria Operacional do TCU. TCU, 2010.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. TIPTO, H. F. Information Security Management Handbook. Auebach Publications, 2004.
+
+Disciplina: Sistemas Multiagentes
+Bibliografia Básica
+1. FIPA. Foundation for Intelligent Physical Agents, Standard

@@ -1,0 +1,13 @@
+experimentos aplicados à Engenharia de Software, estudos primários e secundários, revisão e
+mapeamento sistemático da literatura. Realização de Experimentos em Engenharia de Software.
+
+Bibliografia Básica:
+JURISTO, N. Basics of Software Engineering Experimentation.Kluwer Academic Publishers, 2001.
+WOHLIN, C. et al. Experimentation in Software Engineering. 2. ed. Springer, 2012.
+GETTINBY, G.; GARDINER, W. P. Experimental Design Techniques in Statistical Practice: a Practical
+Software-based Approach. Horwood Pub., 1998.
+Bibliografia Complementar:
+WAZLAVICK, R. S. Metodologia de Pesquisa para Ciência da Computação. Editora Campus, 2009.
+WOHLIN, C. et al. Experimentation in Software Engineering. Kluwer Academic, 2000.
+POLYAK, B. T. Introduction to Optimization. Optimization Software. 1987.
+HALL, E. M. Managing Risk Methods for Software Systems Development. Addison-Wesley,

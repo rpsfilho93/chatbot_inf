@@ -1,0 +1,59 @@
+Números. IMPA, 2006. (Coleção Matemática
+Universitária).
+
+G
+
+3. COUTINHO, S. C. Números Inteiros e Criptografia RSA. 5. ed. IMPA, 2003. (Coleção Mate-
+
+UF
+
+Bibliografia Complementar
+
+pe
+las
+
+mática e Aplicações).
+
+1. GRIMALDI, R. P. Discrete and Combinatorial Mathematics: An Applied Introduction. 5.
+
+Addison-Wesley, Boston, 2003.
+
+da
+
+Boston: Pearson Addison-Wesley, 2003. ematics - An Applied Introduction, 5. ed. Pearson -
+
+tion, 2011.
+
+3. HERSTEIN, I. Abstract Algebra. 2 ed. Wiley, 1996.
+
+ore
+s
+
+çã
+o
+
+2. ROSEN, K. H. Elementary Number Theory and Its Application, 7. ed., McGraw-Hill Educa-
+
+4. GONÇALVES, A. Introdução à Álgebra, 5. ed. Rio de Janeiro: CNPQ-IMPA, 2013.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. LEMOS, M. J. M. S. Criptografia, Números Primos e Algoritmos, IMPA 2007.
+
+Disciplina: Metodologia de Pesquisa em Computação
+Bibliografia Básica
+1. MARCONI,

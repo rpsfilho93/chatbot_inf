@@ -1,0 +1,63 @@
+2003.
+2. CORKE, P. Robotics, vision and control: fundamental algorithms in MATLAB. Vol. 73. Sprin-
+
+G
+
+ger, 2011.
+
+Media, 2010.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. SZELISKI, R. Computer vision: algorithms and applications. Springer Science & Business
+
+New Jersey, 1998.
+
+da
+
+1. TRUCCO, E.; VERRI, A. "Introductory Techniques for 3-D Computer Vision", Prentice Hall,
+
+ore
+s
+
+Press, 2012.
+
+çã
+o
+
+2. DAVIES, E. R.; Computer and machine vision: theory, algorithms, practicalities. Academic
+
+3. NIXON, M. S.; AGUADO, A. S. Feature extraction & image processing for computer vision.
+Academic Press, 2012.
+
+Jersey, 2003.
+
+eri
+
+lia
+
+4. FORSYTH, D. A.; PONCE, J. "Computer Vision - A Modern Approach", Prentice Hall, New
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+2008.
+
+Av
+a
+
+5. GONZALEZ, R. C.; WOODS, R. E. "Digital lmage Processing", Prentice Hall, 3th Edition,
+
+Disciplina: Visualização de

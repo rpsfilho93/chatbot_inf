@@ -1,0 +1,46 @@
+CHIPALA, A. Certified Programming with Dependent Types: A Pragmatic Introduction to
+
+2. PIERCE, B. C. Types and Programming Languages. MIT Press, 2002.
+
+da
+
+1. PIERCE, B. C. Advanced topics in types and programming languages. MIT press, 2005.
+
+çã
+o
+
+3. BERTOT, Y; CASTÉRAN, P. Interactive Theorem Proving and Program Development:
+
+in Theoretical Computer Science).
+
+ore
+s
+
+Coq’Art: The Calculus of Inductive Constructions. Springer, 2004.(In EATCS Series Texts
+
+4. FRIEDMAN, D. P; EASTLUND, C. The Little Prover. MIT Press, 2015.
+
+lia
+
+5. GUNTER, C. A. Semantics of Programming Languages: Structures and Techniques. MIT
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Press, 1992. (In Foundations of Computer Series).
+
+Disciplina: Visão Robótica
+Bibliografia Básica
+1. HARTLEY, R.; ZISSERMAN, A. Multiple view geometry in computer vision. Cambridge
+university press,

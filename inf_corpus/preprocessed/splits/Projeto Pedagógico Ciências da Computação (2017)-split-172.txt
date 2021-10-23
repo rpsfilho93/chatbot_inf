@@ -1,0 +1,53 @@
+Ubíqua
+Bibliografia Básica
+1. KRUMM, J. Ubiquitous Computing Fundamentals. 1st ed. Chapman & Hall/CRC, 2009.
+2. GREENFIELD, A. Everyware: The Dawning Age of Ubiquitous Computing. 1st ed. New
+Riders Publishing, 2006.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. NEIL, T. Padrões de Design para Aplicativos Móveis. O’Reilly, 2012.
+
+1. WEISER, M. The computer for the 21st century. SIGMOBILE Mob. Comput. Commun.
+Rev.3, 3 (July 1999), 3-11.
+
+da
+
+2. GUBBI, J; BUYYA, R.; MARUSIC, S.; PALANISWAMI M. Internet of Things (IoT): A vision,
+architectural elements, and future directions. Future Gener. Comput. Syst. 29, 7 September
+
+çã
+o
+
+2013, 1645-1660.
+
+ore
+s
+
+3. GARDNER J.D.; GRIGSBY, J. Head First Mobile Web. O’Reilly, 2011.
+
+4. Android Developers (https://developer.android.com/), acessado em Junho de 2016.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. Apple Developer

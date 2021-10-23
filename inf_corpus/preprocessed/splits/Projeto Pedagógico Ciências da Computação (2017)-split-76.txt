@@ -1,0 +1,326 @@
+para Web Semântica.
+
+Sugestão de fluxo curricular
+
+NÚCLEO
+
+Obrigatória
+
+Comum
+
+Computação e Sociedade
+
+Obrigatória
+
+Comum
+
+Fundamentos de Matemática para Computação
+
+Obrigatória
+
+Comum
+
+Introdução à Programação
+
+Obrigatória
+
+Comum
+
+TOTAL GERAL
+
+TOTAL PERÍODO
+
+Algoritmos e Estruturas de Dados 1
+Física III
+Geometria Analítica
+
+Obrigatória
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Específico
+
+TOTAL GERAL
+
+Lógica Matemática
+
+Metodologia de Pesquisa em Computação
+
+Algoritmos e Estruturas de Dados 2
+
+Em
+
+Eletrônica para Computação
+
+Câ
+ma
+
+TOTAL PERÍODO
+
+NÚCLEO
+Comum
+
+Específico
+
+CHT NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Comum
+
+TOTAL GERAL
+
+ras
+
+Matemática Discreta
+
+Probabilidade e Estatística A
+
+Su
+p
+
+Av
+a
+
+TOTAL PERÍODO
+
+Álgebra Linear
+
+Obrigatória
+
+lia
+çã
+o
+
+DISCIPLINA
+
+CHT NATUREZA
+
+eri
+ore
+s
+
+DISCIPLINA
+
+da
+
+UF
+G
+
+CHT NATUREZA
+
+pe
+las
+
+DISCIPLINA
+
+CHT NATUREZA
+
+NÚCLEO
+
+Circuitos Digitais
+
+Obrigatória
+
+Específico
+
+Equações Diferenciais Ordinárias
+
+Obrigatória
+
+Específico
+
+Pesquisa Operacional
+
+Obrigatória
+
+Específico
+
+Programação Orientada a Objetos
+
+Obrigatória
+
+Comum
+
+Teoria dos Grafos
+
+Obrigatória
+
+Específico
+
+TOTAL GERAL
+
+pe
+las
+
+TOTAL PERÍODO
+
+UF
+G
+
+DISCIPLINA
+
+CHT NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Obrigatória
+
+Obrigatória
+
+da
+
+DISCIPLINA
+
+Linguagens Formais e Autômatos
+
+Obrigatória
+
+Específico
+
+Software Básico
+
+Obrigatória
+
+Específico
+
+TOTAL GERAL
+
+Arquitetura de Computadores
+
+lia
+çã
+o
+
+Cálculo Numérico
+
+Comum
+
+Específico
+
+CHT NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Comum
+
+Introdução à Computabilidade e Complexidade Computacional
+
+Obrigatória
+
+Específico
+
+Linguagens e Paradigmas de Programação
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Específico
+
+TOTAL GERAL
+
+Banco de Dados
+
+Em
+
+Engenharia de Software
+
+ras
+
+Sistemas Operacionais
+
+Su
+p
+
+DISCIPLINA
+
+Av
+a
+
+TOTAL PERÍODO
+
+Comum
+
+eri
+ore
+s
+
+Análise e Projeto de Algoritmos
+
+Câ
+ma
+
+TOTAL PERÍODO
+
+NÚCLEO
+
+Compiladores
+
+Obrigatória
+
+Específico
+
+Computação Gráfica
+
+Obrigatória
+
+Específico
+
+Engenharia de Requisitos
+
+Obrigatória
+
+Específico
+
+Optativa
+
+Específico
+
+Sistemas Gerenciadores de Banco de Dados
+
+Obrigatório
+
+Específico
+
+Redes de Computadores

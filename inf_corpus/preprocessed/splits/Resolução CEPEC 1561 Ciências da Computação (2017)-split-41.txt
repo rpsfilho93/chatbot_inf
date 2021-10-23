@@ -1,0 +1,12 @@
+com implementaçaõ em Java e C++. São Paulo: Editora Thomson, 2006.
+SEDGEWICK, R. Algorithms in C++. 3rd. Edition , Addison-Wesley 1998. (Parts 1-4).
+SALVETTI, D.D.; BARBOSA, L.M. Algoritmos.São Paulo: Makron Books, 1998.
+ZIVIANI, N. Projeto de Algoritmos com implementaçaõ em Pascal e. C
+3a ediçaõ . SãoPaulo: Editora Thomson, 2010.
+ANÁLISE E PROJETO DE ALGORITMOS:
+Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos,
+técnicas de prova de cotas inferiores. Corretude de Algoritmos. Exemplos de análise de algoritmos. Técnicas de
+projeto de algoritmos: dividir para conquistar, programação dinâmica, algoritmos gulosos. Introdução à NPCompletude.
+
+Bibliografia Básica:
+CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN,

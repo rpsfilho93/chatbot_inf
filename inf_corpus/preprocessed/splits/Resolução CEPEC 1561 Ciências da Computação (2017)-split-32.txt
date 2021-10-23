@@ -1,0 +1,10 @@
+de Graduação da UFG.
+As disciplinas de natureza obrigatória estão ainda organizadas em três núcleos:
+núcleo comum, núcleo específico e núcleo livre. As disciplinas do núcleo comum são
+disciplinas que compõem o Núcleo Básico Comum e, portanto, ocorrem nos três cursos do
+INF. As disciplinas do núcleo específico dão especificidade à formação do bacharel em
+Ciência da Computação. As disciplinas do núcleo livre visam promover a
+interdisciplinaridade e a transdisciplinaridade, possibilitar o aprofundamento de estudo em
+áreas de interesse do aluno e viabilizar o intercâmbio entre alunos de diferentes cursos da
+UFG. Por essas razões, são disciplinas de livre escolha do aluno.
+As disciplinas de natureza optativa também representam

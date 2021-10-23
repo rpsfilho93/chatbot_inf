@@ -1,0 +1,10 @@
+excetuando-se os períodos de verão ou de inverno,
+trancamentos e afastamentos por intercâmbios;
+CHC =carga horária total de componentes curriculares cursados pelo estudante nos dois últimos
+períodos utilizados para cálculo da CHA;
+CHI =carga horária integralizada em componentes curriculares do NC e NE, considerando NE ≤
+CHT =carga horária total do curso em componentes curriculares do NC e NE.
+§ 1º Para estudantes com apenas um período cursado, TA, QR, CHA e CHC
+serão calculados considerando-se apenas o período cursado.
+§ 2º No caso de apenas um período cursado, se CHC for menor que 256h
+(duzentas e cinquenta e seis horas) então CHC será igual a 256h (duzentas e

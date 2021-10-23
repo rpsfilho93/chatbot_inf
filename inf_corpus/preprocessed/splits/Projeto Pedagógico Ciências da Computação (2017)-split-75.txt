@@ -1,0 +1,60 @@
+por reflexão.
+
+UF
+G
+
+VISÃO ROBÓTICA
+
+Ementa
+
+pe
+las
+
+Processo de formação de imagens. Transformações 2D e 3D. Modelos de câmeras. Ge-
+
+ometria de câmeras. Calibração de câmeras. Filtragem, segmentação e extração de ca-
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+VISUALIZAÇÃO DE INFORMAÇÕES
+
+da
+
+racterísticas. Visão estéreo. Rastreamento em vídeo.
+
+Definições, história, modelos e categorias de visualizações de informação. Semiótica
+e percepção visual. Expressividade e efetividade de visualizações. Interação com o
+usuário. Exemplos de técnicas de visualização de informações. Metodologias para de-
+
+Av
+a
+
+senvolvimento de uma visualização de informação. Avaliação de visualizações. Ten-
+
+Ementa
+
+Em
+
+WEB SEMÂNTICA
+
+Su
+p
+
+dências futuras na área.
+
+ras
+
+Fundamentos e arquitetura da Web Semântica. Linguagens e/ou padrões para especificação de caracteres, localização, sintaxe, estrutura e semântica de informação. Onto-
+
+Câ
+ma
+
+logias. Framework para programação de aplicações

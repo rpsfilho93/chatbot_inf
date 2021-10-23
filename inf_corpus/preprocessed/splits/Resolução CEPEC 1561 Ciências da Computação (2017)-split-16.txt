@@ -1,0 +1,14 @@
+43
+que trata das finalidades da educação superior. Sendo assim, busca:
+ estimular o desenvolvimento do espírito científico e do pensamento reflexivo;
+ formar profissionais aptos para a participação no desenvolvimento da sociedade
+brasileira;
+
+ promover a divulgação de conhecimentos culturais, científicos e técnicos que
+constituem patrimônio da humanidade;
+ estimular o gerenciamento das habilidades de administrar problemas da
+atualidade, em particular os nacionais e regionais.
+Este Projeto Pedagógico de Curso também leva em consideração as linhas gerais
+contidas na DCN para cursos de graduação em Computação mencionada anteriormente, bem
+como os currículos de referência da Sociedade Brasileira de Computação (SBC) de 2005 e da
+Association for Computer Machinery (ACM) de 2013

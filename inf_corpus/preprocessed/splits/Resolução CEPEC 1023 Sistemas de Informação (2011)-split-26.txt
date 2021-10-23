@@ -1,0 +1,11 @@
+Java.
+32. Programação para Web
+Ementa: Paradigma e padrões de desenvolvimento de aplicações para a Web. Interface
+gráfica do usuário (GUI - Graphical User Interface) em ambiente Web. Plataforma Java para
+desenvolvimento de aplicações para a Web. Visão geral e Arquitetura de Servlets. Linguagem
+para conteúdo web dinâmico na arquitetura Java (JSP – Java Server Pages). Tratamento de
+Eventos em Java no ambiente Web. Acesso a Banco de dados em ambiente WEB (JDBC Java Database Connectivity). Estudos de caso de aplicações desenvolvidas com a linguagem
+Java para web.
+33. Projetos de Software
+Ementa: Definição de projeto. Questões fundamentais (persistência dos dados, exceções e
+outras). Contexto de projeto em vários modelos

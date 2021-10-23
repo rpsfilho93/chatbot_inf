@@ -1,0 +1,50 @@
+1997.
+
+da
+
+1. GAREY, M.; JOHNSON, D. Computers and intractability: a guide to the theory of NP-
+
+damentos da matemática. 2. ed. Unesp, 2009.
+
+ore
+s
+
+4. CARNIELLI, W. A.; EPSTEIN, R. L. Computabilidade: funções computáveis, lógica e os fun-
+
+5. BALCÁZAR, J.; DIAZ, J.; GABARRÓ, J. Structural complexity I. 2nd ed. Springer, 1994. (In
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Text in Theoretical Computer Science EATCS Series).
+
+Disciplina: Linguagens Formais e Autômatos
+Bibliografia Básica
+1. SUDKAMP, T. A. Languages and machines. 3. ed. Addison Wesley, 2006.
+2. SIPSER, M. Introduction to the theory of computation. ITP, 1997.
+3. HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos: lingua-
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+gens e computação. Campus, 2002.
+
+1. RAMOS,

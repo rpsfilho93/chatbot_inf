@@ -1,0 +1,19 @@
+sistemas: teoria e prática. Tradução de
+Antônio Garcia de Miranda Netto. Rio de Janeiro: LTCE, 1977.
+CHURCHMAN, C. W. Introdução à teoria dos sistemas. Tradução de Francisco M. Guimarães. 2. ed.,
+Petrópolis: Vozes, 1972.
+
+ENGENHARIA DE SOFTWARE
+Ementa
+Requisitos de software. Projeto (design) de software. Construção de software. Teste de software.
+Manutenção de software. Gerência de configuração de software. Gerência de projeto de software.
+Processo de engenharia de software. Modelos e métodos de engenharia de software. Qualidade de
+software. Prática profissional de engenharia de software. Economia para engenharia de software.
+Fundamentos de engenharia. Visão geral de Qualidade. Modelos de maturidade de processo de
+software.
+Bibliografia Básica
+
+
+
+
+PRESSMAN, R.; MAXIM, B. Software Engineering: A

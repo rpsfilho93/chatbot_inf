@@ -1,0 +1,16 @@
+(3.
+Reimpressão).
+CERVO, Amado L. Metodologia Cientif́ ica: Para uso dos estudantes universitários . 3. ed. São Paulo: Mc Graw
+Hill, 1983.
+GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+ZOBEL,J. Writing fo rComputer Science, 3.ed. Springer, 2014.
+PESQUISA OPERACIONAL:
+Modelagem. Problema de Programação Linear (PL). Resolução gráfica de PL. Algoritmo Simplex. Dualidade.
+Algoritmo Simplex-Dual. Pós-otimização e Análise de Sensibilidade.
+Bibliografia Básica:
+BREGALDA, P. F.; OLIVEIRA, A. A. F.; BORNSTEIN, C. T. Introdução à Programação Linear. 3. ed. Rio de
+Janeiro: Campus, 1983.
+GOLBARG, M.; LUNA, H. Otimização Combinatória e Programação Linear. 2. ed. Campus, 2005.
+TAHA, H. Pesquisa Operacional. 8. ed.Prentice Hall, 2008.
+Bibliografia Complementar:
+BAZARAA M.S.; JARVIS,

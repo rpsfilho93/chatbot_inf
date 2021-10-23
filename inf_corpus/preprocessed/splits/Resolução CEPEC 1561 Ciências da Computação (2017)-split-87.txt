@@ -1,0 +1,12 @@
+J. J.; VEGA, I.S. Linguagens formais: teoria, modelagem e implementação.
+Bookman, 2009.
+CARROLL, J.; LONG D. Theory of finite automata. New Jersey: Prentice-Hall International Editions, 1989.
+LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de teoria da computação. 2. ed. Porto Alegre: Bookman, 2000.
+MENEZES, P. F. B., Linguagens formais e autônomos. 5. ed. Porto Alegre: Sagra Luzzatto, 2005.
+ROSEN, K. H. Matemática discreta e suas aplicações. 6. ed. Rio de Janeiro: McGraw Hill, 2009.
+MATEMÁTICA DISCRETA:
+Conjuntos: finito, infinito, enumerável, cardinalidade. Técnica de diagonalização. Tópicos em teoria dos
+números. Estruturas algébricas e criptografia.
+Bibliografia Básica:
+ROSEN, K. H. Matemática Discreta e Suas Aplicações, 6.ed. Boston: McGraw-Hill, 2009.
+SANTOS, J. P. D.

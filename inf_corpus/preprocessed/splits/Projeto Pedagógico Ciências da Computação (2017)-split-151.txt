@@ -1,0 +1,30 @@
+2011.
+4. NILSSON, N. Artificial Intelligence: a new synthesis. Morgan Kaufmann, 1998
+5. RICH, E.; KNIGHT, K.; Nair, S. B., Artificial Intelligence. 3 ed. Tata McGraw-Hill, 2009.
+
+Disciplina: Introdução à Computabilidade e à Complexidade Computacional
+Bibliografia Básica
+1. SIPSER, M. Introduction to the theory of computation. USA: Cengage Learning, 2013.
+2. HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos, linguagens e computação. Campus, 2002.
+
+G
+
+3. LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de teoria da computação. 2. ed. Porto
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+Alegre: Bookman, 2000.
+
+completeness. W. H. Freeman and Company, 1979.
+
+2. KOZEN, D. Theory of computation. London: Springer, 2006.
+
+çã
+o
+
+3. KOZEN, D. Automata and computability. Springer-Verlag,

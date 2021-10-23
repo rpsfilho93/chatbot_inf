@@ -1,0 +1,12 @@
+Prática. 2. ed. Bookman, 2001.
+Bibliografia Complementar:
+FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. P. L. F. Inteligência Artificial: Uma Abordagem de
+Aprendizado de Máquina, LTC, 2011.
+HAN, J.; KAMBER, M.; PEI, J. Data Mining: Concepts and Techniques, 3rd ed. Morgan Kaufmann Publishers, 2011.
+WITTEN, I. H.; FRANK, E.; HALL, M. A. Data Mining: Practical Machine Learning Tools and Techniques. 3rd
+ed. Morgan Kaufmann Publishers, 2011.
+TAN, P-N.; STENBACH, M.; KUMAR, V. Introduction to Data Mining.Addison-Wesley, 2005.
+ALPAYDIN, E. Introduction to Machine Learning. MIT Press, 2004.
+SEGURANÇA E AUDITORIA DE SISTEMAS:
+Auditoria de sistemas. Políticas de segurança. Classificação das informações. Normas de segurança. Ética em
+segurança da informação. Segurança

@@ -1,0 +1,20 @@
+Internet. 6. ed., Pearson Education, 2013
+LAUDON, K. C.; LAUDON, J. P. Sistemas de Informação Gerenciais. 9. ed., São Paulo: Pearson
+Education, 2013.
+TANENBAUM, A. S. Computer Networks, 4. ed., Prentice Hall, 2003.
+
+Bibliografia Complementar
+
+
+
+
+
+
+DANTAS, M. Redes de comunicação e computadores: abordagem quantitativa, Florianópolis: Visual
+Books, 2009.
+PETERSON, L. L.; DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 3. ed.,
+Campus-Elsevier, 2004.
+SOARES, L. F. G. Redes de computadores: das LANS, MANS e WANS as Redes ATM. 2. ed. rev. e
+ampl. -Rio de Janeiro: Campus, 1997.
+STALLINGS, W. Data and Computer Communications. 8. ed., Pearson/Prentice Hall, 2007.
+TORRES, G. Redes de computadores: curso completo - Rio de janeiro:

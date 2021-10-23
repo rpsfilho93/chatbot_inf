@@ -1,0 +1,249 @@
+Persistência de Dados
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+
+Padrões de Arquitetura de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+
+Teste de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Metodologia e Experimentação em Engenharia de Software
+Núcleo
+
+Carga horária
+
+Teórica
+
+Prática
+
+Período (fluxo)
+
+Pré-requisito:
+
+NC
+
+Nenhum
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+Mercado e Economia de Software
+Núcleo
+
+Carga horária
+
+Teórica
+
+Prática
+
+Período (fluxo)
+
+Pré-requisito:
+
+NC
+
+Nenhum
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+Prática em Engenharia de Software
+Núcleo
+
+Carga horária
+
+Teórica
+
+Prática
+
+Período (fluxo)
+
+Pré-requisito:
+
+NC
+
+Nenhum
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+Referências
+
+
+
+
+
+
+http://apoema.inf.ufg.br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apêndice A
+
+Tabelas de equivalência
+
+DISCIPLINA DO PPC DE 2009-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2017-1
+
+CH NATUREZA
+
+Introdução à Engenharia de Software
+
+NE – OBR
+
+Engenharia de Software
+
+NE – OBR
+
+Ética, Normas e Postura Profissional
+
+NC – OBR
+
+Computação e Sociedade
+
+NC – OBR
+
+Matemática Discreta
+
+NC – OBR
+
+Fundamentos

@@ -1,0 +1,9 @@
+design de software. Questões básicas de design de software: concorrência, controle e tratamento
+de eventos, persistência de dados, distribuição, tratamento de erro e exceção, tolerância a falhas, interação e
+apresentação, e segurança. Estrutura e arquitetura de software. Projeto de interface de usuário. Análise de
+qualidade e avaliação de design de software. Notação de design de software. Métodos e estratégias de design de
+software. Ferramentas de design de software.
+Bibliografia Básica:
+BUDGEN, B. Software Design. 2nd ed. Addison-Wesley, 2003.
+BASS, L. et al. Software Architecture in Practice. 3rd ed. Addison-Wesley, 2012.
+LARMAN, C. Utilizando UML e padrões : uma introduçaõ à análise e ao projeto orientados a objetos e

@@ -1,0 +1,12 @@
+e por mais um
+professor avaliador, o qual deve ser lotado no Instituto de Informática da UFG, e que não seja
+coorientador do aluno.
+§ 1º A banca avaliadora de TCC será presidida pelo professor orientador ou, em sua ausência,
+pelo professor coorientador (se houver) ou, em último caso, por um professor indicado pelo
+Coordenador de TCC.
+§ 2º Quando houver um coorientador, o mesmo também poderá participar da banca
+avaliadora, a critério do professor orientador.
+
+§ 3º A critério do professor orientador poderá haver a indicação de 1 (um) professor externo
+por banca avaliadora.
+§ 4º A indicação de que trata o parágrafo anterior deverá ser aprovada pela Coordenação

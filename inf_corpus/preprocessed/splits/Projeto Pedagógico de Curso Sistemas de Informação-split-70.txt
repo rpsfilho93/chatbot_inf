@@ -1,0 +1,40 @@
+Practitioner’s Approach, 8. ed., McGraw-Hill,
+2014.
+SOMMERVILLE, I. Software Engineering, Pearson, 2015.
+WAZLAWICK, R. S. Engenharia de software: teoria e prática. Campus, 2013.
+
+Bibliografia Complementar
+
+
+
+
+
+
+ISO/IEC/IEEE 24765, Systems and software engineering - Vocabulary, 2010, Disponível em
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733835.
+MAGELA, R. Engenharia de software aplicada. Alta Books, 2006.
+MPS.BR. Melhoria de Processos do Software Brasileiro. Disponível em http://www.softex.br/mpsbr/,
+último acesso Abril/2014.
+Software Engineering Body of Knowledge (SWEBOK), V3, IEEE, Disponível em
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=50518.
+Software
+Engineering
+Competency
+Model
+(SWECOM),
+IEEE.
+Disponível
+em
+https://www.computer.org/web/peb/swecom.
+
+FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
+Ementa
+Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e Relações de
+Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações
+numéricas e Mudança de base numérica.
+Bibliografia Básica
+
+
+
+
+GERSTING, J. L. Fundamentos Matemáticos para a Ciência da Computação, 5.

@@ -1,0 +1,12 @@
+(concepção, conceitos operacionais, design, validação de design, construção, validação de
+construção, implantação, sustentação e descontinuação). Processos do ciclo de vida de sistemas (negociação,
+preparação para projeto organizacional, gestão técnica, processos técnicos). Qualidade de processo.
+Bibliografia Básica:
+SCHNEIDEWIND, N. F. Systems and Software Engineering with Applications. New York, NY: IEEE, 2009.
+INCOSE. Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities, version
+3.2.2. San Diego, CA, USA: International Council on Systems Engineering (INCOSE), INCOSE-TP-2003-00203.2.2, 2012.
+WIDRIG, D.; LEFFINGWELL, D, Managing Software Requirements: a Unified Approach. Boston: Addison
+Wesley, 2001.
+Bibliografia Complementar:
+MADACHY, R. J. Systems Engineering Principles for Software Engineers.1a.ed. CRC Press, 2016.
+WILSON, W. E. Conceptos sobre Ingenieria.

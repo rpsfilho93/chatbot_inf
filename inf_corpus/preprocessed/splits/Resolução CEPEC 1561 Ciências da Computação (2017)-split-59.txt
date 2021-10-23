@@ -1,0 +1,14 @@
+2008.
+Bibliografia Complementar:
+MORTARI, C. Introdução à Lógica. São Paulo: UNESP. 2001.
+MENDELSON, E. Introduction to Mathematical Logic. Academic Press, 2000.
+ENDERTON, H. A. Mathematical Introductionto Logic. Academic Press, 2000.
+SMULLYAN, R. Lógica de Primeira Ordem. SÃO PAULO: UNESP, 2009.
+CASANOVA, M. A.; GIORNO, F. A. C.; FURTADO, A. L. Programação em Lógica e a Linguagem PROLOG .
+Edgard Blucher, 1987.
+GALLIER, J. H. Logic for Computer Science: Foundations of Automatic Theorem Proving. 2nd ed. Dover
+Publications Inc., 2015.
+PROBABILIDADE E ESTATÍSTICA A:
+Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de
+probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade
+condicional, eventos independentes e teorema de

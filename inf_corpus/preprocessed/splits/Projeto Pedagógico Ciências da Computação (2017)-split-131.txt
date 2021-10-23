@@ -1,0 +1,41 @@
+ed. The MIT Press, 2008.
+
+lia
+
+Press, 2008.
+
+eri
+
+Bibliografia Básica
+
+Av
+a
+
+Disciplina: Lógica Matemática
+
+ore
+s
+
+5. TURBAK, F.; GIFFORD D. Design Concepts in Programming Languages. 1st ed. The MIT
+
+1. SOUZA, J. N. Lógica para Ciência da Computação. 3. ed. Editora Campus, 2015.
+
+Su
+p
+
+2. SILVA, F.C.; FINGER, M.; MELO, A.C.V. Lógica para Computação. Thomson Learning, 2006.
+3. HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: modelagem e argumen-
+
+Em
+
+tação sobre sistemas. 2. ed. Editora LTC, 2008.
+
+ma
+ras
+
+Bibliografia Complementar
+
+1. MORTARI, C.. Introdução à Lógica. São Paulo: UNESP. 2001.
+2. MENDELSON, E. Introduction to Mathematical Logic. Academic Press, 2000.
+3. ENDERTON, H. A. Mathematical Introduction to Logic. Academic Press 2000.
+4. SMULLYAN, R. Lógica de Primeira

@@ -1,0 +1,13 @@
+York: Wiley, 2002.
+DE-JONG, KA. Evolutionary Computation: A Unified Approach. MIT Press, 2006.
+Bibliografia Complementar:
+CHENG, R.; GEN, M. Genetic Algorithms and Engineering Optimization. New York: Wiley, 2000. (Wiley
+series in engineering design and automation).
+DRÉO, J. Metaheuristics for Hard Optimization Methods and Case Studies. Berlin: Springer Berlin, 2006.
+RUSSELL, S. J. Artificial Intelligence: a Modern Approach 3. ed. Upper Saddle River: Prentice-Hall, 2010.
+(Prentice-Hall series in artificial intelligence).
+ENGELBRECHT, A. P. Fundamentals of computational swarm intelligence. Hoboken, NJ: Wiley, 2005. (Enc.).
+MITCHELL, M. An introduction to genetic algorithms Cambridge: MIT Press,1996.(enc.)
+COMPUTAÇÃO MÓVEL E UBÍQUA:
+Computação móvel e ubíqua: conceitos, principais características, internet das coisas, smart spaces, sensibilidade
+a contexto,tecnologias de

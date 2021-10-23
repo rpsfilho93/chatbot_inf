@@ -1,0 +1,10 @@
+A : Funções, limite, derivação e integração . São Paulo :
+Makrom Books do Brasil, 2006.
+HOFFMANN, L. D.; BRADLEY, G. L. Cálculo, Um curso moderno com aplicações, 9.ed. Rio de Janeiro: LTC,
+2008.
+REIS, G. L; SILVA, V. V. Geometria Analítica. 2 ed. Rio de Janeiro: LTC, 1996.
+ÁVILA, G. S. S. Cálculo: Funções de Uma Variável. 7 ed. Volume 1. Rio de Janeiro: LTC, 1994.
+SIMMONS, G. F. Cálculo com Geometria Analítica, SãoPaulo: McGraw-Hill do Brasil,1987. Vol. 1.
+COMPUTAÇÃO E SOCIEDADE:
+História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio
+ambiente. Subáreas da computação e áreas interdisciplinares. Importância

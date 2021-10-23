@@ -1,0 +1,13 @@
+2004.(Kluwer international series on information retrieval, vol. 15).
+ZAKI, M.J.; MEIRA, W. Data Mining and Analysis: Fundamental Concepts and Algorithms. Cambridge
+University Press, 2014.
+REDES DE COMPUTADORES 2:
+Redes sem fio e redes móveis. Redes definidas por software. Virtualização em redes. Avaliação de desempenho
+em redes. Gerenciamento de redes. Tópicos recentes de pesquisa em redes.
+Bibliografia Básica:
+KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach. 6th ed. Pearson, 2012.
+STALLINGS, W. Data and Computer Communications.10th ed. Pearson, 2014.
+TANENBAUM, A. S. Computer Networks.5th ed. Pearson, 2010.
+Bibliografia Complementar:
+PETERSON, L. L.; DAVIE, B. S. Computer Networks: A Systems Approach.5th ed. Morgan Kaufmann, 2011.
+BEHROUZ F. A. Data Communications and Networking.5th ed.

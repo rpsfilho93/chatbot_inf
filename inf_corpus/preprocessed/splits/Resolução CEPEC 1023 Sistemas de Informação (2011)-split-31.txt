@@ -1,0 +1,12 @@
+a Segurança; Ameaças e Ataques; Estratégias de ataques e defesas;
+Vulnerabilidades em softwares, serviços e protocolos; Segurança nos serviços Internet;
+Técnicas de varredura; Técnicas de análise de vulnerabilidade; NAT; PROXY;
+Relacionamento das Aplicações com os Mecanismos de Segurança; Tipos e Arquitetura de
+Proteção; Firewalls; Políticas de Segurança, Criptografia; Normas de segurança; Gestão de
+riscos de Segurança; Conceitos de auditoria. Auditoria de sistemas e a área de SI. Avaliação
+de integridade e segurança de dados, de efetividade e de eficiência. Softwares de auditoria.
+37. Sistemas Operacionais
+
+Ementa: Conceitos de Hardware e Software ; Tipos de Sistemas Operacionais; Sistemas
+Multiprogramáveis; Estrutura do Sistema Operacional; Processo; Comunicação entre
+processos; Gerência do Processador; Gerência

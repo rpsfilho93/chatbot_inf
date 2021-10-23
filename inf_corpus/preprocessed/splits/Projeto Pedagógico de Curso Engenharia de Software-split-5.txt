@@ -1,0 +1,346 @@
+Período
+
+NC
+
+Ementa:
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+
+
+Domínios de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Ementa
+
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+Sim
+
+
+
+
+
+
+
+
+
+
+Processos de Qualidade de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+
+
+
+
+Gerência de Projeto de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+Software Concorrente e Distribuído
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experiência do Usuário de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arquitetura de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+Requisitos de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+
+
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Governança e Gestão de Serviços de Software
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Condições mínimas (estar apto a)
+
+
+
+
+
+
+
+
+Software para Sistemas Ubíquos
+Núcleo
+
+TEO PRA
+
+TOTAL Período
+
+NC
+
+Ementa
+
+Unidade Obrigatória
+
+Pré-requisito:
+
+INF
+
+Nenhum
+
+Sim
+
+Condições mínimas (estar apto a):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software para

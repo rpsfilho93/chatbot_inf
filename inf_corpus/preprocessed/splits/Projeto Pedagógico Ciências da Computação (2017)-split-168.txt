@@ -1,0 +1,47 @@
+Cleaning, Conforming, and Delivering Data. 1a. Edição. Wiley, 2004.
+
+eri
+
+5. JARKE, M., LENZERINI, M., VASSILIOU, Y., VASSILIADIS, P.: Fundamentals of Data Wa-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+rehouses. 2a. Edição. Springer, 2002.
+
+Disciplina: Avaliação de Desempenho de Sistemas Computacionais
+Bibliografia Básica
+1. JAIN, R. The Art of Computer Systems Performance Analysis: Techniques for Experimental
+Design, Measurement, Simulation, and Modeling. John Wiley and Sons, 1991.
+2. ROSS, S. M. Introduction to Probability Models. 9th ed. Academic Press, Elsevier 2006.
+
+G
+
+3. MENASCE, D. A.; ALMEIDA, V. Capacity planning for web services. Upper Saddle River,
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+NJ, USA: Prentice Hall PTR, 2001.
+
+1. KLEINROCK, L. Queueing Systems Theory. John Wiley and Sons, Inc., 1975. (Vol. I).
+
+(Vol. II).
+
+da
+
+2. KLEINROCK,

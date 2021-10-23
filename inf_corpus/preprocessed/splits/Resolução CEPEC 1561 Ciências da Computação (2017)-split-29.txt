@@ -1,0 +1,16 @@
+entender como eles atingem direta ou indiretamente as pessoas,
+as organizações e o meio ambiente.
+
+Competências do Egresso
+ conhecer e aplicar fundamentos teóricos, científicos e tecnológicos relacionados à
+área de computação;
+ descrever a solução de problemas computacionais com o uso de algoritmos e
+embasamento científico;
+ classificar problemas e propor soluções em função de sua computabilidade e
+complexidade;
+ planejar, desenvolver e gerir projetos visando a construção de soluções com base
+científica e tecnológica, integrando os conhecimentos teóricos e práticos
+adquiridos ao longo de sua formação e utilizando metodologias que visem garantir
+critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma
+solução computacional;
+ desenvolver e implantar sistemas

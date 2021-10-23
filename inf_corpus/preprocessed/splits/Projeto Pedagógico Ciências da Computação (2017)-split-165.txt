@@ -1,0 +1,57 @@
+Discreta e suas Aplicações. 6. ed. Rio de Janeiro: McGraw Hill,
+2009.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. SZWARCFITER, J. L. Grafos e Algoritmos Computacionais. Campus, 1984.
+
+1. WEST, D. Introduction to Graph Theory. Prentice Hall, 2000
+
+2003.
+
+da
+
+2. BOAVENTURA NETTO, P. O. Grafos: Teoria, Modelos, Algoritmos. Editora Edgard Blucher,
+
+çã
+o
+
+pus, 2012.
+
+4. DIESTEL, R. Graph theory. 3rd. ed. Springer, 2000.
+
+ore
+s
+
+3. CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L. Algoritmos: Teoria e Prática. 3. ed. Cam-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. BOLLOBÁS, B. Modern Graph Theory. Springer Verlag, 1998.
+
+Disciplinas optativas
+
+Disciplina: Aprenidizagem de Máquina e Mineração de Dados
+Bibliografia Básica
+1. FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. C.P. L. F. Inteligência Artificial: Uma
+Abordagem de Aprendizado

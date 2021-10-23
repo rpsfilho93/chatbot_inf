@@ -1,0 +1,15 @@
+ed. Bookman Editora, 2013.
+GRAY, G., REUTER, A., Transaction Processing: Concepts and Techniques. 1a ed., Morgan Kaufmann, 1992.
+ELMASRI, R., NAVATHE, S. B., Sistemas de Banco de Dados. 6. ed., Pearson-Addison Wes- ley, 2015.
+SILBERSCHATZ, A., KORTH, H. F. e SUDARSHAN, S., Sistema de Banco de Dados, 5a ed., Ed. Campus,
+
+Rio de Janeiro, 2006.
+TANENBAUM, A. S; STEEN, M. van.Sistemas Distribuid
+́ os : Princípios e Paradigmas . 2. edição, Pearson
+Education do Brasil, 2008.
+COMPUTAÇÃO EVOLUCIONÁRIA:
+Conceito. Histórico. Os principais paradigmas e algoritmos. Projeto de algoritmo. Algoritmos Genéticos e
+aplicações da Computação Evolucionária.
+Bibliografia Básica:
+LIDEN, R. Algoritmos Genéticos. 3. ed. Brasport, 2008.
+ENGELBRECHT, A. P. Computational Intelligence: An Introduction. New

@@ -1,0 +1,23 @@
+normal e t-Student. Estimação
+pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população:
+média e proporção. Correlação linear e regressão linear simples.
+Bibliografia Básica
+
+
+
+
+MAGALHÃES, M. N. Noções de Probabilidade e Estatística. 7. ed., São Paulo: EDUSP, 2010.
+MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC, 1969.
+WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. Probabilidade e Estatística para Engenharia
+e Ciências. 8. ed., São Paulo: Pearson, 2009.
+
+Bibliografia Complementar
+
+
+
+
+
+
+BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica. 6. ed., São Paulo: Saraiva, 2010.
+DANTAS, C. A. B. Probabilidade: um Curso Introdutório. 3. ed., São Paulo: EDUSP, 2008.
+MORETTIN,

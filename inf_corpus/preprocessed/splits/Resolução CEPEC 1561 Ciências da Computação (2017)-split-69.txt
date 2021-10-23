@@ -1,0 +1,12 @@
+J. H. Introdução aos Sistemas Digitais. Editora Bo- okman, 2000.
+FLOYD,TL. Sistemas Digitais – Fundamentos e Aplicações, 9.ed. Editora Bookman, 2007.
+COSTA, Cesar da. Projetos de Circuitos Digitais com FPGA. São Paulo: Novatec, 2016.
+COMPILADORES:
+A estrutura de um compilador. Análises léxica e sintática. Definições dirigidas por sintaxe e análise semântica.
+Organização da tabela de símbolos. Representação intermediária do programa-fonte. Geração do código-objeto
+da compilação. Introdução à otimização do código-objeto. Implementação de um compilador.
+Bibliografia Básica:
+AHO, A. V; LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores - Princípios, técnicas e ferramentas. 2 ed.
+Pearson-Addison-Wesley; 2008.
+LOUDEN, K. C. Compiladores – Princípios e Práticas. Editora Thompson, 2004.
+APPEL, A. W.

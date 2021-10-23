@@ -1,0 +1,13 @@
+. 1. ed.Campus, 2004.
+ROY, P .V.; HARIFI, S. Concepts, Techniques, and Models of Computer Programming.1st ed. The MIT Press,
+2004.
+FRIEDMAN, D. P. Essentials of Programming Languages.3rd ed.The MITPress, 2008.
+TURBAK, F.; GIFFORD D. Design Concepts in Programming Languages.1st ed. The MIT Press, 2008.
+LÓGICA MATEMÁTICA:
+Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequência. Correção e
+Completamento. Aplicações em Computação.
+Bibliografia Básica:
+SOUZA, J. N. Lógica para Ciência da Computação. 3. ed. Editora Campus, 2015.
+SILVA, F. C.; FINGER, M.; MELO, A. C. V .Lógica para Computação.Thomson Learning, 2006.
+HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação : modelagem e argumentaçaõ sobre sistemas .
+2. ed. Editora LTC,

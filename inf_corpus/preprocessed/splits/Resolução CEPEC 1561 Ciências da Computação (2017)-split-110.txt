@@ -1,0 +1,13 @@
+ed. Pearson, 2010.
+Bibliografia Complementar:
+OLIVEIRA-JR, A. Energy Efficiency for User-centric Routing.PhD Thesis, MAP-i Doctoral Programme in
+Computer Science.Universities of Minho, Aveiro and Porto, 2014.
+OLIVEIRA-JR, A.; SOFIA, R. Energy-Awareness in Multihop Routing. Lecture Notes in Computer Science.
+3ed. Springer International Publishing, p.137-156, 2014.
+FENG, W-C. The Green Computing Book: Tackling Energy Efficiency at Large Scale. CRC Press, 2014.
+SMITH, B. E. Green Computing: Tools and Techniques for Saving Energy, Money, and Resources. Auerbach
+Publications, 2013.
+HARCHOL-BALTER, M. Performance Modeling and Design of Computer Systems - Queueing Theory in
+Action, 1st ed. Cambridge University Press, 2013.
+DESENVOLVIMENTO DE SISTEMAS PARA WEB:
+Abordagens, técnicas, tecnologias e ferramentas para desenvolvimento de sistemas de informação

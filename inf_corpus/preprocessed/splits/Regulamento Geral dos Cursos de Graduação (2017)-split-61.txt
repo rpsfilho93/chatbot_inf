@@ -1,0 +1,14 @@
+MGE é a somatória dos produtos das notas finais de cada
+componente curricular e sua carga horária, dividida pela somatória de carga horária desses
+componentes curriculares.
+§ 2º Para fins de cálculo da MGE, conforme caput do art. 56 e § 1º,
+considera-se componentes curriculares todos aqueles cursados pelo estudante, bem como
+aqueles em que obteve dispensa e aproveitamento com nota, durante o seu vínculo no curso.
+§ 3º O valor de MGE será calculado com a precisão de uma casa decimal
+com o seguinte critério para arredondamento:
+
+III-
+
+se a segunda casa decimal for menor que cinco (< 5), a primeira casa
+decimal permanece inalterada;
+se a segunda casa decimal

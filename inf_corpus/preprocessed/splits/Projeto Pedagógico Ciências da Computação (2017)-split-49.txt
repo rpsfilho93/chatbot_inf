@@ -1,0 +1,25 @@
+Localização e internacionalização. Princípios de projeto de interfaces humano-computador. Métodos de projeto de interação. Projeto visual (cores,
+
+Em
+
+ícones, fontes e outros). Tempo de resposta e retroalimentação. Dispositivos de interação. Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes
+
+ras
+
+realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros.
+
+Câ
+ma
+
+Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.
+
+INTRODUÇÃO À PROGRAMAÇÃO
+
+Ementa
+
+Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados
+primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de
+decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e hete20
+
+rogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções;
+passagens de parâmetros

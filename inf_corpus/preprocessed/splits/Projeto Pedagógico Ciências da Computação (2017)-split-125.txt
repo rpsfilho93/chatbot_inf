@@ -1,0 +1,38 @@
+Comunicação: Desafios e Perspectivas. São Paulo:
+Saraiva, 2011.
+
+Bibliografia Complementar
+
+ma
+ras
+
+3. MASIERO, P. Ética em Computação. Editora da USP, 2000.
+
+1. KACZMARCZYK, L. C. Computers and Society: Computing for Good.
+
+Chapman &
+
+Hall/CRC Textbooks in Computing. CRC Press, 2011.
+2. CHALITA, G. Os Dez Mandamentos da Ética. Editora Nova Fronteira, 2003.
+
+Câ
+
+3. DRUMMOND, V. Internet Privacidade e Dados Pessoais. Editora Lumen Juris, 2003.
+4. LUCCA, N.; FILHO, A. S. Direito & Internet. Editora Edipro, 2001.
+5. PAESANI, L. M. Direito de Informática. Editora Atlas, 2005.
+
+Disciplina: Engenharia de Software
+Bibliografia Básica
+1. PRESSMAN, R.; MAXIM, B. Software Engineering: A Practitioner’s Approach. 8th edition.
+McGraw-Hill, 2014.
+2. SOMMERVILLE, I. Software Engineering, Pearson, 2015.
+
+G
+UF
+
+Bibliografia Complementar
+
+pe
+las
+
+3. WAZLAWICK, R.

@@ -1,0 +1,15 @@
+Auditoria Operacional do TCU. TCU, 2010.
+TIPTO, H. F. Information Security Management Handbook. Auebach Publications, 2004.
+
+SISTEMAS MULTIAGENTES:
+Introdução à Inteligência Artificial e Agentes Inteligentes. Arquiteturas para construção de Sistemas
+Multiagentes (SMA). Comunicação e cooperação em SMA. Tomada de Decisão em SMA.
+Bibliografia Básica:
+FIPA.Foundation for Intelligent Physical Agents , Standard Specifications , 2002. ( Disponível on -line em
+<http://www.fipa.org/repository/standardspecs.html>)
+RUSSELL, S.; NORVIG, P. Inteligência Artificial. 3. ed. Campus, 2013.
+WOOLDRIDGE, M. An Introduction to MultiAgent Systems. 2. ed. John Wiley and Sons, 2009.
+Bibliografia Complementar:
+BELLIFEMINE, F. et al. Jade 4.0 Programmer’s Guide , 2010. ( Disponível on -line em
+<http://jade.tilab.com/documentation/tutorials-guides/>).
+BORDINI, R. H.; HÜBNER, J. Documentation for Jason, a Java-besed interpreter

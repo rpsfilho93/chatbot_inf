@@ -1,0 +1,24 @@
+Prática, 3. ed.,
+Campus, 2012.
+PAPADIMITRIOU, C. H.; VAZIRANI, U. V.; DASGUPTA, S. Algoritmos. Mcgraw-Hill Brasil, 2009. ISBN
+9788577260324.
+
+Bibliografia Complementar
+
+
+
+
+
+
+AHO, A. V.; HOPCROFT, J. E.; ULLMAN, J. D. The Design and Analysis of Computer Algorithms,
+Addison-Wesley Publishing Company, 1974. ISBN 0-201-00029-6.
+BAASE, S.; GELDER, A. V. Computer Algorithms: Introduction to Design and Analysis, 3. ed., Pearson,
+1999.
+MAMBER, U. Introduction to Algorithms. Addison Wesley Publishing Company. 1989.
+SEDGEWICK, R.; WAYNE, K. Algorithms. 4. ed., Addison-Wesley Professional, 2011. ISBN: 9780321573513
+SZWARCFITER, J. L.; MARKENZON, L. Estrutura de Dados e seus Algoritmos. 3. ed., Rio de Janeiro:
+LTC, 2010. ISBN: 978852161750.
+
+ARQUITETURA DE COMPUTADORES
+Ementa
+Visão geral dos computadores modernos. Evolução da arquitetura dos computadores.

@@ -1,0 +1,12 @@
+Dados Usando C, São Paulo ,
+Makron Books, 1995.
+SZWARCFITER, J. L., MARKENZON, L., Estruturas de Dados e seus Algoritmos. LTC, 2a ediçaõ , 1994.
+FEOFILOFF, P.Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+Bibliografia Complementar:
+CORMEN, T. H. et al. Algoritmos: Teoria e Prática. Rio de Janeiro: Editora Campus, 2. ed., 2002.
+ZIVIANI, N. Projeto de Algoritmos com implementaçaõ em Javae C++. SãoPaulo: Editora Thomson, 2006.
+Sedgewick, R. "Algorithms in C++ (Parts1-4), Addison-Wesley, 3. ed., 1998.
+SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, MakronBooks, SãoPaulo, 1998.
+ZIVIANIN. Projeto de Algoritmos com implementaçaõ em Pascal e C. SãoPaulo: Editora Thomson, 3. ed. 2010.
+ALGORITMOS E ESTRUTURAS DE DADOS 2:
+Árvores: formas de

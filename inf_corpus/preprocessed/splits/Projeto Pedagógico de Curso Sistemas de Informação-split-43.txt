@@ -1,0 +1,59 @@
+disciplinas optativas cuja oferta seguirá o disposto na sugestão de fluxo curricular deste PPC. A lista de disciplinas optativas a ofertar no
+curso de Bacharelado em Sistemas de Informação está disposta na alínea (b).
+Quanto às disciplinas de Núcleo Livre, são exigidas 128 horas. A título sugestivo, para adequar ao fluxo semanal no período noturno, dois componentes curriculares de 64 horas
+estão dispostos na matriz. Contudo, o estudante poderá realizar o arranjo que lhe convier, desde que sejam cursadas pelo menos 128 horas de NL.
+
+b) Lista de Disciplinas Optativa
+
+DISCIPLINA
+
+UNIDADE
+RESPONS.
+
+PRÉ-REQ. (PR)
+/ CO-REQ. (CR)
+
+CH SEMESTRAL
+CHT
+
+NÚCLEO
+
+NATUREZA
+
+NE
+
+OPT
+
+NE
+
+OPT
+
+TEO.
+
+PRÁ.
+
+1.
+
+Aplicações de Sistemas de Informação
+
+INF
+
+2.
+
+Armazém de Dados
+
+INF
+
+3.
+
+Arquitetura Corporativa de TI
+
+INF
+
+NE
+
+OPT
+
+4.
+
+Fundamentos de

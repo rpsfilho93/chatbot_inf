@@ -1,0 +1,12 @@
+Pearson-AddisonWesley, 2011.
+SILBERSCHATZ, A.;KORTH, H.F.; SUDARSHAN, S. Sistema de Banco de Dados. 5a ed., Rio de Janeiro: Ed.
+Campus, 2006.
+HEUSER, C. A. Projeto de Banco de Dados. 6a ediçaõ . Porto Alegre: Bookman, 2009.
+Bibliografia Complementar:
+RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados . Tradução da 3a ediçaõ .
+São Paulo: McGraw-Hill, 2008.
+GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book. 2nd
+edition.Prentice Hall, 2009.
+DATE, C. J. Introdução a Sistemas de Banco de Dados . Tradução da 8a ediçaõ americana . Rio de Janeiro: Ed.
+Campus, 2004.
+TEOREY, T.; LIGHTSTONE, S.; NADEAU, T. Projeto e Modelagem de Bancos de Dados.

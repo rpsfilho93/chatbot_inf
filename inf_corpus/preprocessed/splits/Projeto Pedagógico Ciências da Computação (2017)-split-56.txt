@@ -1,0 +1,45 @@
+permanente senoidal com fasores e operador de Laplace (’s’). Amplificadores Operacionais:
+
+Su
+p
+
+Circuitos básicos. Junção PN. Diodos. Transistor Bipolar de Junção (TBJ). Transistor de
+
+Em
+
+Efeito de Campo (FET e MOSFET). Fontes Reguladas.
+
+Ementa
+
+ras
+
+ENGENHARIA DE REQUISITOS
+
+Definição de Engenharia de Requisitos (ER). Perspectivas. Definição e Tipos de Requi-
+
+Câ
+ma
+
+sitos. Processo de ER. Ferramentas para apoio a ER. Normas e padrões aplicados a ER.
+
+EQUAÇÕES DIFERENCIAIS ORDINÁRIAS
+
+Ementa
+
+Equações diferenciais ordinárias de primeira ordem lineares e não lineares. Sistemas li-
+
+neares de equações diferenciais ordinárias. Equações diferenciais ordinárias de ordem
+superior. Aplicações.
+
+FÍSICA III
+
+UF
+G
+
+Ementa
+Carga elétrica e campo elétrico. Lei de Gauss. Potencial elétrico. Capacitância e dielé-
+
+pe
+las
+
+tricos. Corrente e circuitos elétricos. Campo magnético e força

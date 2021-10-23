@@ -1,0 +1,12 @@
+D. M.; MAIBAUM,
+T.S.E.(Eds.). Handbook of Logic in Computer Science Clarendon Press, 1992. Vol. 2, pages 117-309.
+KAMAREDDINE, F. D.; LAAN, T.; NEDERPELT, R.A Modern Perspective on Type Theory.Kluewer,
+2004.(Number 29 in Applied Logic Series).
+SORENSEN, M.; URZYCZYN, P. Lectures on the Curry-Howard isomorphism. Elsevier, 1998.(Vol. 149 of
+Studies in Logic and the Foundations of Mathematics).
+GIRARD, J.-Y.; LAFONT, Y.; TAYLOR, P. Proofs and Types.Cambridge University Press, 1989.(Cambridge
+Tracts in Theoretical Computer Science, n. 7).
+SIMMONS, H. Derivation and Computation: Taking the Curry-Howard Correspondence Seriously. Cambridge
+University Press, 2000.(Cambridge Tracts in Theoretical Computer Science, n. 51).
+JOGOS DIGITAIS:
+Conceitos fundamentais de jogos, Storyboard, Mecânica de Jogos, game engines, ambientação e animação

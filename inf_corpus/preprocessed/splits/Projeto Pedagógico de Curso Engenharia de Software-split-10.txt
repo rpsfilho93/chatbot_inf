@@ -1,0 +1,79 @@
+Sistemas Ubíquos
+
+NE – OBR
+
+Software para Persistência
+
+NC – OBR
+
+Software para Persistência de Dados
+
+NE – OBR
+
+Integração de Aplicações E
+
+NE – OBR
+
+Técnicas Avançadas de Construção de Software
+
+Design de Software
+
+NE – OBR
+
+NE – OBR
+
+Tópicos em Engenharia de Software
+
+NE – OPT
+
+NC – OBR
+
+LIBRAS
+
+NE – OPT
+
+Introdução à Língua Brasileira de Sinais
+
+NE – OPT
+
+Mercado de Software
+
+NE – OPT
+
+Mercado e Economia de Software
+
+NE – OPT
+
+Prática em Engenharia de Software
+
+NE – OBR
+
+Modelagem de Software
+
+NE – OBR
+
+NE – OBR
+
+Padrões de Arquitetura de Software
+
+NE – OBR
+
+NE – OBR
+
+DISCIPLINA DO PPC DE 2017-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2009-1
+
+CH NATUREZA
+
+Computação e Sociedade
+
+NC – OBR
+
+Ética, Normas e Postura Profissional
+
+NC - OBR
+
+Introdução à

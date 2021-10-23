@@ -1,0 +1,13 @@
+N. M. SOA in practice. Sebastopol: O'Reilly, 2007. ISBN 0596529554.
+LYNCH, N. A Distributed algorithms San Francisco: M. Kaufmann, 1997. xxiii, 872il. (The Morgan
+Kaufmann series in data management systems).
+TANENBAUM, A. S.; STEEN, M. van. Distributed Systems: Principles and Paradigms. 2. ed., Prentice
+Hall, 2006.
+
+SISTEMAS INTELIGENTES DE APOIO À DECISÃO
+Ementa
+Tomada de decisão e processo decisório. Métodos de análise de decisão multicritério. Fundamentos,
+técnicas e métodos de Sistemas de Apoio à Decisão. Abordagens centradas em dados, informação e
+conhecimento. Conceitos básicos de Inteligência Artificial, representação do conhecimento e
+raciocínio. Técnicas de Inteligência Artificial para desenvolvimento de Sistemas Inteligentes de Apoio
+à Decisão. Fundamentos de ciência de dados. Fundamentos

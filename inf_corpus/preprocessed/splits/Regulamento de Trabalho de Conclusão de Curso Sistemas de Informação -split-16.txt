@@ -1,0 +1,11 @@
+sub-turmas da disciplina PFC I, uma para cada professor
+coorientador lotado no Instituto de Informática da UFG.
+Art. 20. A disciplina PFC I, com carga horária de 32 horas/aula, tem como meta a elaboração
+do produto parcial do TCC. As seguintes atividades devem ser desenvolvidas pelo aluno
+durante a disciplina:
+I – encontros semanais com o professor orientador nos quais deve preencher juntamente com
+o orientador o Formulário de Acompanhamento de TCC;
+II – cumprimento das metas previstas para a disciplina na Proposta de TCC;
+III – escrita do produto parcial do TCC prevista na Proposta de TCC.
+
+Parágrafo Único. A carga horária da disciplina PFC I poderá ser

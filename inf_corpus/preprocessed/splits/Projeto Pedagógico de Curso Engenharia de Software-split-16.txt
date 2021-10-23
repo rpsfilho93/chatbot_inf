@@ -1,0 +1,92 @@
+Configuração de Software
+
+NE – OBR
+
+Software para Sistemas Ubíquos
+
+NE – OPT
+
+Software para Dispositivos Móveis
+
+NE – OBR
+
+Software para Persistência de Dados
+
+NE – OBR
+
+Software para Persistência
+
+NE – OBR
+
+Padrões de Arquitetura de Software
+
+NE – OBR
+
+NE – OBR
+
+Testes de Software
+
+NE – OPT
+
+Verificação e Validação
+
+NE – OBR
+
+NE – OPT
+
+Optativa
+
+NE – OBR
+
+Prática em Engenharia de Software
+
+NE – OBR
+
+-
+
+NE – OBR
+
+Sistemas Operacionais
+
+NE – OPT
+
+Sistema Operacional
+
+NC – OBR
+
+Pesquisa Operacional
+
+NE – OPT
+
+Optativa
+
+NE – OBR
+
+Arquitetura de Software OU Projeto Detalhado de
+Software
+
+DISCIPLINA DO PPC DE 2017-1
+
+CH NATUREZA
+
+APROVEITA COMO – NO PPC DE 2009-1
+
+CH NATUREZA
+
+Linguagens Formais e Autômatos
+
+NE – OBR
+
+Optativa
+
+NC – OBR
+
+Redes de Computadores
+
+NE – OBR
+
+Redes e Sistemas Distribuídos
+
+NC – OBR
+
+Introdução à Língua

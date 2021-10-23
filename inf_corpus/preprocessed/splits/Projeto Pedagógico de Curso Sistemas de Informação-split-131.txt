@@ -1,0 +1,30 @@
+for an extended
+version of AgentSpeak. 2006. Disponível on-line em <http://jason.sourceforge.net/wp/documents/>
+CAIRE, G. Jade 3.7 Programming for Beginners, 2009. Disponível on-line em
+<http://jade.tilab.com/documentation/tutorials-guides/>
+SHOHAM, Y.; LEYTON-BROWN, K. Multiagent Systems - Algorithmic, Game-Theoretic, and Logical
+Foundations.
+Cambridge
+University
+Press
+2008.
+Disponível
+on-line
+em
+<http://www.masfoundations.org/mas.pdf>
+VIDAL, J.M. Fundamentals of Multiagent Systems Using NetLogo, 2010. Disponível on-line em
+<http://multiagent.com/p/fundamentals-of-multiagent-systems.html>.
+
+SUSTENTAÇÃO DE SISTEMAS DE INFORMAÇÃO
+Ementa
+Operação de Sistemas de Informação (SI). Suporte ao usuário. Manutenção de SI. Descarte e
+Migração de SI. Plano de Sustentação de SI.
+Bibliografia Básica
+
+
+
+
+ISO/IEC/IEEE. ISO/IEC/IEEE 15288:2015. Systems and Software Engineering -- System Life Cycle
+Processes. Geneva, Switzerland: International Organisation for Standardisation / International
+Electrotechnical Commissions / Institute of Electrical and Electronics Engineers, 2015
+LAPHAM, M; WOODY, C. Sustaining Software-Intensive Systems, CMU/SEI-2006-TN-007.

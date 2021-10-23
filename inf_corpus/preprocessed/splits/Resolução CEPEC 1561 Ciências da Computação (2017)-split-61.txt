@@ -1,0 +1,11 @@
+Aplicações. 8.ed. PortoAlegre: Bookman, 2010.
+MORETTIN, L. G. Estatística básica: probabilidade e inferência. São Paulo: Prentice Hall, 2010.
+DANTAS, C. A. B.; Probabilidade: um Curso Introdutório. 3. ed. São Paulo: EDUSP, 2008.
+BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica.6.ed. São Paulo: Saraiva, 2010.
+TRIOLA, M. F. Introdução à Estatística. 10. Ed. Rio de Janeiro: LTC, 2008.
+PROGRAMAÇÃO ORIENTADA A OBJETOS:
+Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, interface. Mensagens, instâncias e
+inicialização. Herança e composição. Polimorfismo. Uso de uma linguagem orientada a objetos. Noções de
+UML. Noções de padrões de projeto orientado a objetos.
+Bibliografia Básica:
+ECKEL, B. Thinking in Java. Prentice Hall 3rd ed . 2002.

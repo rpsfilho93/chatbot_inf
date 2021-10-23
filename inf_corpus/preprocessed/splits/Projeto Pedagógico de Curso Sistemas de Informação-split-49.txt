@@ -1,0 +1,19 @@
+Projeto de Algoritmos com implementação em Pascal e C. 3. ed., São Paulo: Editora
+Thomson, 2010.
+ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora Thomson,
+2006.
+
+ANÁLISE E PROJETO DE ALGORITMOS
+Ementa
+Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e
+recursivos, técnicas de prova de cotas inferiores. Corretude de Algoritmos. Exemplos de análise de
+algoritmos. Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica,
+algoritmos gulosos. Introdução à NP-Completude.
+Bibliografia Básica
+
+
+
+
+BRASSARD, G.; BRATLEY, P. Fundamentals of Algorithmics. Prentice-Hall, Inc., Upper Saddle River,
+NJ, 1996. ISBN: 0-13-335068-1.
+CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Algoritmos: Teoria e

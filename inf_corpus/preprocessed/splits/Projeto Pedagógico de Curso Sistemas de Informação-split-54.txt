@@ -1,0 +1,18 @@
+T.; LIGHTSTONE, S.; NADEAU, T. Projeto e Modelagem de Bancos de Dados, Rio de
+Janeiro: Ed. Campus, 2007.
+
+BANCO DE DADOS 2
+Ementa
+Funções, gatilhos, procedimentos armazenados, SQL embutida e consultas parametrizadas.
+Mapeamento objeto-relacional. Arquitetura de SGBDs. Visão geral de processamento e otimização da
+consulta. Indexação e ajuste de banco de dados. Processamento de transações (ACID), controle de
+concorrência e recuperação. Segurança de banco de dados. Processamento de dados massivos.
+Bibliografia Básica
+
+
+
+
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed., Pearson - Addison Wesley, 2011.
+SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de Banco de Dados, 5. ed., Rio de
+Janeiro: Ed. Campus, 2006.
+GARCIA-MOLINA, H.; ULLMAN,

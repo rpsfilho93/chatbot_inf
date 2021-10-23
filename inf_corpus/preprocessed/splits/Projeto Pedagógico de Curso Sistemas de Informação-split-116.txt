@@ -1,0 +1,21 @@
+ROSS, M. The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling.
+2.ed.. Wiley, 2002.
+KIMBALL, R.; ROSS, M.; THORNTHWAITE, W.; MUNDY, J.; BECKER, B. The Data Warehouse
+Lifecycle Toolkit. 2. ed. Wiley, 2008.
+VAISMAN, A.; ZIMÁNYI, E. Data Warehouse Systems: Design and Implementation. 1. ed. Springer,
+2014.
+
+Bibliografia Complementar
+
+
+
+
+
+
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed., Pearson - Addison Wesley, 2015.
+GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete Book, 2. ed.,
+Prentice Hall, 2009.
+INMON, W. H. Building the Data Warehouse. 4. ed. Wiley, 2005.
+JARKE, M.; LENZERINI, M.; VASSILIOU, Y.; VASSILIADIS, P. Fundamentals of Data Warehouses. 2.
+ed. Springer, 2002.
+KIMBALL,

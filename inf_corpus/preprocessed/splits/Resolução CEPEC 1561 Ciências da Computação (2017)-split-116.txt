@@ -1,0 +1,13 @@
+. 1. ed.Rio de Janeiro:
+Elsevier, 2009.
+IBPQ. GEM – Global Entrepreneurship Monitor . Empreendedorismo no Brasil : Relatório Executivo . Paraná:
+IBPQ, 2014. Disponível em http://www.ibqp.org.br/
+
+ENGENHARIA DE SISTEMAS:
+Fundamentos de engenharia: métodos empíricos e técnicas experimentais. Análise estatística; medição. Design.
+Modelagem, prototipação e simulação. Normas e padrões. Análise de causa raiz. Fundamentos de sistemas:
+taxonomias de sistema; sistemas de engenharia (sistemas produzidos por engenharia - engineered systems).
+Sistemas intensivos em software (software-intensive systems). Sistemas de sistemas. Complexidade de sistemas.
+Propriedades emergentes. Princípios do pensamento sistêmico. Representação de sistemas por modelos. Engenharia
+de Sistemas: abordagens e metodologias. Partes interessadas (stakeholders) e suas necessidades. Ciclo de vida de
+sistemas de engenharia

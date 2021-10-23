@@ -1,0 +1,14 @@
+turma.
+Parágrafo único. O caput deste art. não se aplica ao estudante ingressante
+ou aquele que irá iniciar o segundo semestre na UFG e obteve trancamento de matrícula no
+semestre de ingresso.
+Art. 54. O Índice de Prioridade (IP) está representado pela taxa de
+aprovação (TA), taxa de integralização de componentes curriculares (TI) e quantidade de
+reprovações por faltas (QR), conforme o seguinte cálculo:
+em que:
+TA = (CHA/CHC);
+TI = (CHI/CHT).Se TI > 1, será considerado TI = 1;
+QR =número de reprovações por faltas nos mesmos períodos utilizados para cálculo da TA
+Onde:
+CHA =carga horária total de componentes curriculares nos quais o estudante foi aprovado nos
+dois últimos períodos cursados,

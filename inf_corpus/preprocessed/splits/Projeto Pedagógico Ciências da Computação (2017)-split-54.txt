@@ -1,0 +1,43 @@
+lógicas. Introdução a Circuitos Combinacionais, Circuitos
+
+lia
+çã
+o
+
+Seqüenciais e Famílias Lógicas de Circuitos Integrados. Técnicas de minimização e
+
+eri
+ore
+s
+
+síntese de Circuitos Combinacionais e Circuitos Seqüenciais. Conversores AnalógicoDigitais e Digitais-Analógicos. Dispositivos de memória.
+
+Ementa
+
+Av
+a
+
+COMPILADORES
+
+A estrutura de um compilador. Análises léxica e sintática. Definições dirigidas por
+
+Su
+p
+
+sintaxe e análise semântica. Organização da tabela de símbolos. Representação intermediária do programa-fonte. Geração do código-objeto da compilação. Introdução à
+
+COMPUTAÇÃO GRÁFICA
+
+Ementa
+
+ras
+
+Em
+
+otimização do código-objeto. Implementação de um compilador.
+
+Câ
+ma
+
+Origem e objetivos da Computação Gráfica. Dispositivos Vetoriais x Matriciais. Dispositivos de entrada e saída. Sistemas e equipamentos gráficos. Algoritmos para conversão matricial e preenchimento de primitivas gráficas. Transformações geométricas
+bi-dimensionais e tri-dimensionais. Transformações de projeção

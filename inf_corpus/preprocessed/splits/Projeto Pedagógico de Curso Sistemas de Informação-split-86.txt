@@ -1,0 +1,24 @@
+de algoritmos para
+uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica;
+interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de
+codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento
+e uso de bibliotecas.
+Bibliografia Básica
+
+
+
+
+ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de Computadores, 3. ed.,
+Editora Pearson, 2010.
+FOBERLONE, A. L. V.; EBERSPACHER, H. F., Lógica de Programação - A construção de algoritmos
+e estruturas de dados, 3. ed., São Paulo: Prentice Hall, 2005.
+SCHILDT, H. C Completo e Total. 3. ed., São Paulo: Makron Books, 1996.
+
+Bibliografia Complementar
+
+
+
+
+
+
+CORMEN, T. H. et al. Algoritmos: Teoria

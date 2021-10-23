@@ -1,0 +1,43 @@
+Sistemas de Informação o uso consciente da tecnologia para o gerenciamento.
+
+çã
+o
+
+2. Software Engineering Body of Knowledge (SWEBOK), Version 3.0, IEEE Computer Society,
+
+ore
+s
+
+2014. Disponível on-line em: http://www.computer.org/web/swebok/v3.
+
+3. ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed. Pearson - Addison Wesley,
+2011.
+
+lia
+
+4. TIDWELL, J. Designing interfaces Beijing, Sebastopol, CA: O’Reilly, 2006.
+
+eri
+
+5. BAI, Y. Practical Database Programming with Java. Wiley-IEEE Press, 2011. Disponível on-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+line: http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=5988888.
+
+Disciplina: Desenvolvimento de Software Dirigido por Modelos
+Bibliografia Básica
+1. MELLOR, S. J.; KENDALL, S.; UHL, A.; WEISE, D. MDA Distilled. Redwood City, CA, USA:
+Addison Wesley Longman Publishing Co., Inc., 2004.
+2. STAHL, T.; VOELTER, M.; CZARNECKI, K. Model-Driven Software

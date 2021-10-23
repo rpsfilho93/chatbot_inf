@@ -1,0 +1,14 @@
+Decidibilidade.
+Redutibilidade. Problemas indecidíveis. Complexidade de tempo. Complexidade de Espaço. Teoremas de
+incompletude de Gödel.
+Bibliografia Básica:
+SIPSER, M. Introduction to the theory of computation.USA: Cengage Learning, 2013.
+HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos , linguagens e
+computação. Campus, 2002.
+LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de teoria da computaça.õ 2. ed.Porto Alegre: Bookman, 2000.
+Bibliografia Complementar:
+GAREY, M.; JOHNSON, D. Computers and intractability: a guide to the theory of NP- completeness. W. H.
+Freeman and Company, 1979.
+KOZEN, D. Theory of computation. London: Springer, 2006.
+KOZEN, D. Automata and computability.Springer-Verlag, 1997.
+CARNIELLI, W. A.; EPSTEIN, R. L. Computabilidade: funções computáveis , lógica e os

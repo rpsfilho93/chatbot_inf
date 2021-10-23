@@ -1,0 +1,57 @@
+Step into Impredicativity. Universitext. Spriger-
+
+çã
+o
+
+Verlag, 2009.
+
+ore
+s
+
+4. ACZEL, P.; SIMONS, H.; WAINER, S. Proof Theory. Cambridge University Press, 1992.
+5. VAN HEIJENOORT, J. From Frege to Gödel. A source book in mathematical logic, 1879-1931.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Harvard University Press, 2002.
+
+Disciplina: Introdução à Teoria dos Tipos
+Bibliografia Básica
+1. HINDLEY, J. R. Basic Simple Type Theory. Cambridge University Press, 1997. (Cambridge
+Tracts in Theoretical Computer Science, n. 42).
+2. KRIVINE, J-L; CORI, R. Lambda-calculus, types and models. Ellis Horwood Upper Sad(Disponível em https://www.irif.univ-paris-diderot.fr/ kri-
+
+G
+
+dle River, NJ, USA, 1993.
+
+UF
+
+pe
+las
+
+vine/articles/Lambda.pdf).
+
+bridge University Press, 2014.
+
+Bibliografia Complementar
+
+da
+
+3. NEDERPELT, R.; GEUVERS, H. Type Theory and Formal Proof: An Introduction. Cam-
+
+1. BARENDREGT, H. P. Lambda Calculus with

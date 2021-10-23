@@ -1,0 +1,58 @@
+magnética. Fontes de
+
+GEOMETRIA ANALÍTICA
+
+lia
+çã
+o
+
+Ementa
+
+da
+
+campo magnético. Indução eletromagnética. Indutância. Corrente alternada.
+
+eri
+ore
+s
+
+Matrizes. Determinantes. Sistemas lineares. Vetores. Retas e planos. Curvas. Cônicas.
+Superfícies cônicas e cilíndricas. Superfícies quádricas.
+
+Ementa
+
+Av
+a
+
+INTELIGÊNCIA ARTIFICIAL
+
+Visão geral da Inteligência Artificial e suas aplicações. Representação do conhecimento.
+
+Su
+p
+
+Resolução de problemas por meio de buscas. Incerteza. Lógica Fuzzy. Aprendizado
+
+Em
+
+de máquina. Aplicações práticas utilizando técnicas de Inteligência Artificial.
+
+Ementa
+
+ras
+
+INTRODUÇÃO À COMPUTABILIDADE E À COMPLEXIDADE COMPUTACIONAL
+
+Noções de computabilidade efetiva. Modelos de computação. Tese de Church-Turing.
+
+Câ
+ma
+
+Decidibilidade. Redutibilidade. Problemas indecidíveis. Complexidade de tempo.
+Complexidade de Espaço. Teoremas de incompletude de Gödel.
+
+LINGUAGENS FORMAIS E AUTÔMATOS
+
+Ementa
+
+Conceitos básicos de linguagens. Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres

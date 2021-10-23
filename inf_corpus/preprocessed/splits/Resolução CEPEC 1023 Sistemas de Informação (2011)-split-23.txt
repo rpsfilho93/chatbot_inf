@@ -1,0 +1,14 @@
+equações lineares e solução. Grafos e dígrafos.
+26. Matemática Financeira
+Ementa: Juros e capitalização simples. Capitalização composta. Desconto e taxas de
+desconto.Séries de pagamento. Métodos de avaliação de fluxos de caixa. Taxas de juros.
+Sistemas de amortização. Operações realizadas no sistema financeiro brasileiro.
+
+27. Projeto Final de Curso 1
+Ementa: Apresentação de critérios e metodologias para elaboração de proposta e
+desenvolvimento de projeto de pesquisa formulado sobre tema de livre escolha, que venha a
+incorporar conhecimentos teóricos e tecnológicos relevantes para a área de Computação.
+28. Projeto Final de Curso 2
+Ementa: Disciplina que dá continuidade à PFC1. Consiste no desenvolvimento do projeto de
+pesquisa e elaboração de monografia final.
+29. Planejamento

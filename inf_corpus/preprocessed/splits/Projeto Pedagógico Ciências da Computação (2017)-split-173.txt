@@ -1,0 +1,35 @@
+(https://developer.apple.com), acessado em Junho de 2016.
+
+Disciplina: Computação Verde
+Bibliografia Básica
+1. KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed. Addison Wesley Pearson Brasil, 2014.
+2. STALLINGS, W. Data and Computer Communications. 10th ed. Pearson, 2014.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. TANENBAUM, A. S. Computer Networks. 5th ed. Pearson, 2010.
+
+1. OLIVEIRA-JR, A. Energy Efficiency for User-centric Routing. PhD Thesis, MAP-i Doctoral
+Programme in Computer Science. Universities of Minho, Aveiro and Porto, 2014.
+
+puter Science. 3ed. Springer International Publishing, p.137-156, 2014.
+
+da
+
+2. OLIVEIRA-JR, A.; SOFIA, R. Energy-Awareness in Multihop Routing. Lecture Notes in Com-
+
+Press, 2014.
+
+ore
+s
+
+çã
+o
+
+3. FENG, W-C. The Green Computing Book: Tackling Energy Efficiency at Large Scale.

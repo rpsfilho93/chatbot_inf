@@ -1,0 +1,35 @@
+Princípios de Confidencialidade,
+Integridade e Disponibilidade. Engenharia Social. Tópicos Emergentes em Segurança.
+Bibliografia Básica
+
+
+
+
+IMONIANA, JOSHUA O. Auditoria de Sistemas de Informação. 2. ed., São Paulo: Atlas, 2008. ISBN
+978-85-224-5002-2.
+SCHMIDT, P. Fundamentos de Auditoria de Sistemas. São Paulo: Atlas, 2006.
+STALLINGS, W. Criptografia e segurança de redes: princípios e práticas. 4. ed., Prentice Hal, 2008.
+lSBN 9788576051190.
+
+Bibliografia Complementar
+
+
+
+
+
+
+LYRA, M. R. Segurança e Auditoria em Sistemas de Informação. 1. ed., Ciência Moderna, 2009. ISBN
+978857393747.
+KIZZA, J. Computer Network Security. New York: Springer, 2005. ISBN 9780387204734.
+KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed. Pearson Education, 2013.
+TCU.
+Manual
+de
+Auditoria
+Operacional
+do
+TCU.
+Disponível
+em
+Manual_ANOP_internet_portugu%C3%AAs.pdf, 2010.
+TIPTO, H. F. Information Security Management Handbook, Auebach

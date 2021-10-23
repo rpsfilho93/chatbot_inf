@@ -1,0 +1,13 @@
+Programming.Kaufmann Publishers, 2011.
+KIRK, D.; HWU, W. Programming Massively Parallel Processors: A Hands On Approach. 2nd ed. Morgan
+Kaufmann Publishers, 2012.
+Bibliografia Complementar:
+MATTSON, T.; SANDERS, B.; MASSINGILL, B. Patterns for Parallel Programming.Addison-Wesley, 2004.
+GROPP, W.; et al. Using MPI: Portable Parallel Programming with the Message-Passing In- terface. 3rd ed. The
+MIT Press, 2014.
+MCCOOL, M.; REINDERS, J.; ROBISON, A.: Structured Parallel Programming Patterns for Efficient
+Computation. Morgan Kaufmann, 2012.
+CHAPMAN, B.; JOST, G.; PAS, A. V. der. Using Open MP.The MIT Press, 2007.
+COOK, S. CUDA Programming: A Developer’s Guide to Parallel Computing with GPUs. Morgan Kaufmann, 2013.
+ELETRÔNICA PARA COMPUTAÇÃO:
+Elementos de circuitos elétricos. Grandezas de corrente e tensão elétrica.

@@ -1,0 +1,12 @@
+de Dados
+Ementa: Estudo de estruturas de dados básicas, seus conceitos e operações. Estudo de Listas
+Lineares, compreensão de seu uso como Pilhas e Filas e de implementações usando vetores,
+listas lineares encadeadas, listas duplamente encadeadas, listas circulares e listas com
+descritores. Estudo dos conceitos de Árvores Binárias, dos algoritmos de caminhamentos e da
+
+sua aplicação como fila de prioridade. Estudo de Árvores de Pesquisa: árvores binárias
+balanceadas, árvore B. Estudo de Tabelas de Dispersão.
+14. Ética, computador e Sociedade
+Ementa: Conceitos de ética e critérios para tomadas de decisões éticas. Códigos de ética
+profissional. Computadores: campos de aplicação. Aspectos sociais e econômicos de sua
+utilização. Aspectos estratégicos do controle

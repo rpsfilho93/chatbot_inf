@@ -1,0 +1,12 @@
+Projetos e suas
+Interfaces. Fluxograma do Projeto. Ferramentas Computacionais de Gerenciamento de Projetos.
+17. Gerência de Projetos 2
+Ementa: Gerência de escopo (planejamento, definição, WBS, verificação e controle de
+escopo). Gerência de tempo (definição de atividades, sequenciamento de atividades,
+estimativa de recursos, estimativa de duração, desenvolvimento de cronograma e controle de
+cronograma). Gerência de custos (estimativas, orçamento e controle). Gerência de qualidade
+(planejamento, garantia da qualidade e controle de qualidade). Gerência de recursos humanos
+(planejamento, adquirir equipe de projeto, desenvolver a equipe de projeto e gerenciar a
+equipe de projeto). Gerência de comunicação (planejamento, distribuição da informação,
+relato de desempenho e gerenciar interessados). Gerência de riscos (planejamento,
+identificação de riscos, análise

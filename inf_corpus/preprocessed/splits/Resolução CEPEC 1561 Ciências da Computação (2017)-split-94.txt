@@ -1,0 +1,12 @@
+modelos de sistemas
+distribuídos: sistemas cliente-servidor e sistemas peer-to- peer. Fundamentos de sistemas distribuídos (processos,
+sincronização, RPC/RMI, comunicação em grupo, comunicação indireta). Objetos distribuídos. Web services.
+Serviços de sistemas distribuídos: serviços de nomes, serviços de descoberta, compartilhamento de recursos etc.
+Principais tecnologias, padrões e plataformas de middleware, e seu uso como suporte para o desenvolvimento de
+aplicações em ambientes distribuídos abertos. Algoritmos distribuídos: relógios lógicos, estado global,
+coordenação, consenso, exclusão mútua e eleição. Transações distribuídas, replicação e tolerância a falhas em
+sistemas distribuídos. Tópicos avançados em Sistemas Distribuídos.
+Bibliografia Básica:
+COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. Sistemas Distribuídos: Con- ceitos e Projeto.
+5. ed. Bookman Editora, 2013.
+KUROSE, J.

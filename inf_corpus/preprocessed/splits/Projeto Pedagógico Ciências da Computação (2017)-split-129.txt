@@ -1,0 +1,37 @@
+- A construção de algoritmos e estruturas de dados. 3. ed., São Paulo: Prentice Hall, 2005.
+2. ASCENCIO, A. F. G.; CAMPOS C, E.A. V. Fundamentos da Programação de Computadores.
+
+G
+
+3. ed. Editora Pearson, 2010.
+
+Bibliografia Complementar
+
+1. FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+
+UF
+
+pe
+las
+
+3. SCHILDT, H. C Completo e Total. 3a Ed. São Paulo: Makron Books, 1996.
+
+ed. Rio de Janeiro: LTC, 1989.
+
+da
+
+2. FARRER, H. at al. Programação Estruturada de Computadores- Algoritmos Estruturados. 3.
+
+0201314525.
+
+ore
+s
+
+çã
+o
+
+3. SEDGEWICK, R. Algorithms in C. 3. ed. Reading, Mss: Addison-Wesley, 1998. ISBN
+
+4. SALVETTI, D.D.; BARBOSA, L.M. Algoritmos, São Paulo: Makron Books, 1998.
+
+5. CORMEN, T. H et al., Algoritmos:

@@ -1,0 +1,17 @@
+por professor orientador. Tem como finalidade dar experiência
+adquiridos durante o curso.
+Bibliografia Básica:
+Bibliografia a ser definida sob supervisão de um professor orientador.
+Bibliografia Complementar:
+Bibliografia a ser definida sob supervisão de um professor orientador.
+REDES DE COMPUTADORES 1:
+
+Fundamentos. Arquitetura de Redes TCP/IP (Internet). Camadas de Aplicação, Transporte, Rede, Enlace e
+Física. Estudo de Caso de Tópicos Emergentes em Redes.
+Bibliografia Básica:
+KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach. 6th ed. Pearson, 2012.
+TANENBAUM, A. S. Computer Networks.5th ed. Pearson, 2010.
+STALLINGS, W. Data and Computer Communications.10th ed. Pearson, 2014.
+Bibliografia Complementar:
+PETERSON, L. L.; DAVIE, B.S. Computer Networks: A Systems Approach. 5th ed. Morgan Kaufmann, 2011.
+DANTAS, M. Redes de

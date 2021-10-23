@@ -1,0 +1,10 @@
+por referência, recursividade. Manipulação de
+arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de
+arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma
+linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de
+desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas
+de profiling; desenvolvimento e uso de bibliotecas.
+Bibliografia Básica:
+FOBERLONE, A. L. V.; EBERSPACHER, H. F., Lógica de Programaçã o: A construçaõ de algoritmos e
+estruturas de dados. 3. ed., São Paulo: Prentice Hall, 2005.
+ASCENCIO, A. F. G.; CAMPOS C , E. A. V. Fundamentos

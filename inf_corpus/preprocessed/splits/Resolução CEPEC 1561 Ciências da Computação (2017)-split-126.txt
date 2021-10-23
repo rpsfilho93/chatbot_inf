@@ -1,0 +1,15 @@
+normais. Normalização nos sistemas de dedução natural e à la Gentzen.
+Bibliografia Básica:
+TROELSTRA, A. S.; SCHWITCHTENBERG, H. Basic Proof Theory.CUP 2000.(Cambridge Tracts in
+Theoretical Computer Science).
+NEGRI,S.; VONPLATO, J. Structural Proof Theory. CUP2001.
+BUSS, S. R. Handbook of Proof Theory. NorthHolland: Elsevier, 1998. (Studies in Logic and the Foundations of
+Mathematics, Vol. 137).
+Bibliografia Complementar:
+PRAWITZ, D. Natural Deduction: A Proof-Theoretical Study. Dover, 2006.
+TAKEUTI, G. Proof Theory. 2nd ed. Amsterdam: North-Holland, 1987.
+POHLERS, W. Proof Theory: The First Step into Impredicativity. Universitext.Spriger-Verlag, 2009.
+ACZEL,P.; SIMONS,H.; WAINER, S. Proof T heory. Cambridge University Press, 1992.
+VANHEIJENOORT, J. From Frege to Gödel .A source book in mathematical logic, 1879-1931. Harvard
+University Press, 2002.
+INTRODUÇÃO

@@ -1,0 +1,14 @@
+0-201-00029-6.
+ARQUITETURA DE COMPUTADORES:
+Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Memória e representação
+da dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de
+programação em linguagem de montagem. Dispositivos de entrada e saída. Sistemas de interconexão
+(barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Introdução a arquiteturas
+paralelas e métricas de desempenho.
+Bibliografia Básica:
+TANENBAUM, A. Organização Estruturada de Computadores. Prentice Hal lBrasil, 2007.
+STALLINGS, W. Arquitetura e Organizaçaõ de Computadores. 5a ediçaõ . Prentice-Hall, 2010.
+BRYANT, R.; O’RALLARON, D. Computer Systems: A Programmer’s Perspective. 2nd Edition. Addison
+Wesley, 2010.
+Bibliografia Complementar:
+PATTERSON, D. A.; HENNESSY, J. L. Computer Organization and Design:

@@ -1,0 +1,48 @@
+Um Curso Moderno com Aplicações. 8. ed. Porto Alegre: Bookman,
+2010.
+
+2010.
+
+da
+
+2. MORETTIN, L. G. Estatística básica: probabilidade e inferência. São Paulo: Prentice Hall,
+
+çã
+o
+
+3. DANTAS, C. A. B.; Probabilidade: um Curso Introdutório. 3. ed. São Paulo: EDUSP, 2008.
+
+ore
+s
+
+4. BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica. 6. ed. São Paulo: Saraiva, 2010.
+
+lia
+
+5. TRIOLA, M. F. Introdução à Estatística. 10. Ed. Rio de Janeiro: LTC, 2008.
+
+eri
+
+Bibliografia Básica
+
+Av
+a
+
+Disciplina: Programação Orientada a Objetos
+
+Su
+p
+
+1. ECKEL, B. Thinking in Java. Prentice Hall 3rd ed. 2002. (livro eletrônico de acesso livre:
+disponível em http://www.mindview.net/Books/TIJ/).
+
+2. BORATTI, I. C. Programação orientada a objetos em Java. Visual Books, 2007.
+
+Bibliografia Complementar
+
+ma
+ras
+
+Em
+
+3. DEITEL, P.

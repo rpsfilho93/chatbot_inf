@@ -1,0 +1,27 @@
+Ciência da Computação à Luz da
+Classificação das Ciências e do Método Científico. Revista de Sistemas de Informação da FSMA,
+Macaé-RJ, n. 06, p. 3-10, 2010.
+
+PESQUISA OPERACIONAL
+Ementa
+Modelagem. Problema de Programação Linear (PL). Resolução gráfica de PL. Algoritmo Simplex.
+Dualidade. Algoritmo Simplex-Dual. Pós-otimização e Análise de Sensibilidade.
+Bibliografia Básica
+
+
+
+
+BREGALDA, P. F.; OLIVEIRA, A. A. F.; BORNSTEIN, C. T. Introdução à programação linear. 3. ed.
+Rio de Janeiro: Campus, 1983.
+GOLDBARG, M.; LUNA, H. Otimização Combinatória e Programação Linear, 2. ed., Rio de Janeiro:
+Campus, 2005.
+TAHA, H. Pesquisa Operacional, 8. ed., Prentice Hall, 2008.
+
+Bibliografia Complementar
+
+
+
+
+
+
+BAZARRA, B. S.; JARVIS, J. J.; SHERALI, H. D. Linear programming and network Flows. 2.

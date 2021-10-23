@@ -1,0 +1,13 @@
+Sebastopol:
+O’Reilly, 2008.
+NIXON, M. S.; AGUADO, A. S. Feature extraction and image processing. Amsterdam: Academic, 2008.
+PRATT, W. K. Digital image processing. 4. ed. Hoboken: Wiley-Interscience, 2007.
+SZELISKI, R. Computer Vision Algorithms and Applications.Springer, 2011.
+RECUPERAÇÃO DE INFORMAÇÃO:
+Algoritmos e técnicas de Construção de máquinas de busca: representação de vocabulários, técnicas de
+construção e compressão de índices, processamento de consultas, avaliação em recuperação de informação,
+modelos de linguagem, máquinas de busca para a Web. Algoritmos e heurísticas para mineração de informações:
+classificação de textos, agrupamento (clustering) de textos. Tópicos de pesquisa em Recuperação de Informação.
+Bibliografia Básica:
+MANNING, C. D.; RAGHAVAN, P.; SCHÜTZE, H. Introduction to Information Retrieval, Cambridge, 2009.
+BAEZA-YATES,

@@ -1,0 +1,13 @@
+Estratégico
+Ementa: Gestão estratégica: conceitos, requisitos, vantagens e processo; Definição das
+filosofias, políticas e diretrizes superiores. Definição de objetivos, estratégia, e tomada de
+decisão. Fatores Críticos de Sucesso. Análise do ambiente interno e externo da organização.
+Análise de recursos, requisitos, cenários e tendências. Processo de elaboração e
+implementação do planejamento estratégico. Planejamento estratégico versus análise
+competitiva. Estruturas e modelos para formulação de estratégias. Estratégias competitivas
+modernas. BSC (Balanced Scorecard) como instrumento de gestão estratégica. Mapeamentos
+de estratégias para ações. Indicadores de Desempenho.
+30. Programação Imperativa
+Ementa: Estudo dos conceitos da linguagens de programação imperativa e de seus
+paradigmas. Ambiente integrado de desenvolvimento (edição, compilação, depuração,
+empacotamento e distribuição). Estrutura de dados homogêneas

@@ -1,0 +1,17 @@
+for maior ou igual a cinco (≥ 5), a primeira
+casa decimal é acrescida de uma unidade.
+
+Art. 57. A média global do curso (MGC) será obtida pelo seguinte cálculo:
+
+em que:
+MGEi = média global do estudante i;
+NEC = número de estudantes na matriz curricular.
+Art. 58. A média relativa do estudante será obtida pelo seguinte cálculo:
+
+em que:
+MGE = média global do estudante;
+MGC = média global do curso.
+Art. 59. O número de vagas oferecidas, o Índice de Prioridade (IP) e a
+classificação do discente serão de livre acesso a todos os estudantes que solicitaram matrícula
+na turma ofertada.
+Art. 60. Não terá sua matrícula ou trancamento efetivado

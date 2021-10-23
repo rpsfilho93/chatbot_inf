@@ -1,0 +1,150 @@
+atendem às diretrizes nacionais
+curriculares para os cursos de graduação Ciência da Computação — uma aula corresponde ao tempo de 60 minutos e o número de semanas por semestre é de 16. Na Tabela,
+constam ainda, a unidade da UFG responsável por cada disciplina, os relacionamentos
+
+Câ
+
+de pré-requisitos e correquisitos entre elas e as cargas horárias teóricas, práticas e total.
+
+Tabela 1: Disciplinas de natureza obrigatória.
+
+Disciplina
+
+Unid.
+Resp.
+IME
+
+02. Algoritmos e Estruturas de Dados 1
+
+INF
+
+03. Algoritmos e Estruturas de Dados 2
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+NC
+
+OBR
+
+NC
+
+OBR
+
+INF
+
+NC
+
+OBR
+
+04. Análise e Projeto de Algoritmos
+
+INF
+
+NC
+
+OBR
+
+05. Arquitetura de Computadores
+
+INF
+
+NC
+
+OBR
+
+06. Banco de Dados
+
+INF
+
+NC
+
+OBR
+
+NC
+
+OBR
+
+ma
+Av
+ali
+ras
+a
+çã
+Su
+op
+pe
+ela
+rio
+res
+s
+da
+UF
+G
+
+01. Álgebra Linear
+
+PréReq.
+
+C. H.
+Semestral
+Teo. Prat.
+
+IME
+IME
+
+NE
+
+OBR
+
+09. Cálculo Numérico
+
+IME
+
+NE
+
+OBR
+
+10. Circuitos Digitais
+
+EMC
+
+NE
+
+OBR
+
+INF
+
+NE
+
+OBR
+
+NC
+
+OBR
+
+12. Computação e Sociedade
+
+INF
+
+13. Computação Gráfica
+
+INF
+
+NE
+
+OBR
+
+14. Computação Paralela
+
+INF
+
+NE
+
+OBR
+
+15.

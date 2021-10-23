@@ -1,0 +1,19 @@
+a médiaNotaProduto, a que se refere o Art.
+37, com base na Nota de Produto atribuída por cada membro da banca avaliadora, de acordo
+com o seguinte cálculo, onde n corresponde ao número de componentes da banca avaliadora
+de TCC:
+n
+
+∑ NotaProdutoi
+médiaNotaProduto=
+
+n
+
+.
+
+§ 3º Caso o produto do TCC seja um relatório de iniciação científica, que atenda às exigências
+do Art. 7, §3º, receberá pontuação mínima em médiaNotaProduto a nota mínima exigida pelo
+Regulamento Geral de Cursos de Graduação da UFG em vigor na época da conclusão da
+disciplina.
+§ 4º Caso o produto do TCC seja um artigo científico, que atenda às exigências do Art. 7, §2º,
+receberá pontuação

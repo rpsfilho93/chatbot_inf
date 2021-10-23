@@ -1,0 +1,25 @@
+Rio de Janeiro:
+Campus, 2004.
+CONNOLLY, T. M.; Begg, C. E.; Strachan, A. D. Database systems : a practical approach to design,
+implementation and management. 3rd. ed. Addison Wesley, 2010.
+DITTRICH, J. Patterns in Data Management: A Flipped Textbook. 1. ed. Create Space Inde- pendent Publishing
+Platform, 2016.
+GRAY, G.; REUTER, A. Transaction Processing: Concepts and Techniques. 1. ed., Morgan Kaufmann, 1992.
+SISTEMAS OPERACIONAIS:
+
+Gerenciamento de processos. Gerenciamento de memória. Sistemas de arquivos. Processamento de
+entrada/saída. Virtualização. Sistemas multiprocessados.
+Bibliografia Básica:
+TANENBAUM, A. S. Sistemas Operacionais Modernos. 3. ed. Pearson, 2009.
+SILBERSCHATZ, A.; GALVIN, P.; GAGNE, G. Fundamentos de Sistemas Operacionais. 8. ed. LTC, 2010.
+MAZIERO,
+C.
+A..
+Sistemas
+Operacionais:
+Conceitos e Mecanismos
+.
+Disponível em :
+http://wiki.inf.ufpr.br/maziero/doku.php?id=so:livro_de_sistemas_operacionais.
+Bibliografia Complementar:
+TANEMBAUM, A.; WOODHULL,

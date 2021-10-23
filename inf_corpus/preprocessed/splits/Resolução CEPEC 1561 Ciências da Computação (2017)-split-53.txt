@@ -1,0 +1,11 @@
+outros). Tempo de resposta e retroalimentação. Dispositivos de interação. Métodos de avaliação
+de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes
+para páginas Web, entre outros. Visão geral de ferramentas de desenvolvimento de interfaces humanocomputador.
+Bibliografia Básica:
+DIX, Alan; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. Human-Computer Interaction.3rd Edition. Upper
+Saddle River, NJ, USA: Prentice-Hall, 2003.
+TIDWELL, J. Designing Interfaces: Patterns for Effective Interaction Design. 2. ed. O’Reilly, 2011.
+ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interaçaõ - Além da Interação Homem - computador. 3a ed.
+Porto Alegre: Bookman, 2013.
+Bibliografia Complementar:
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1.

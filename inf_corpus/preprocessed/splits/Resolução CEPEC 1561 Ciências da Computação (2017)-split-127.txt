@@ -1,0 +1,14 @@
+À TEORIA DOS TIPOS:
+O cálculo lambda livre de tipos. Definição de tipos à la Curry e à la Church. O isomorfismo de Curry-Howard:
+correspondência entre verificação de tipos e dedução lógica. Os problemas de inferência e de existência de
+habitantes de tipos.
+
+Bibliografia Básica:
+HINDLEY, J. R. Basic Simple Type Theory. Cambridge University Press, 1997.(Cambridge Tracts in
+Theoretical Computer Science, n. 42).
+KRIVINE, J-L; CORI, R. Lambda-calculus, types and models. Ellis Horwood Upper Saddle River, NJ, USA,
+1993. (Disponível em https://www.irif.univ-paris-diderot.fr/ kri- vine/articles/Lambda.pdf).
+NEDERPELT, R.; GEUVERS, H. Type Theory and Formal Proof: An Introduction. Cambridge University
+Press, 2014.
+Bibliografia Complementar:
+BARENDREGT, H. P. Lambda Calculus with Types. In: ABRAMSKY, S.; GABBAY,

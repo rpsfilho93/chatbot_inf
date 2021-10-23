@@ -1,0 +1,24 @@
+com o usuário. Exemplos de técnicas
+de visualização de informações. Metodologias para desenvolvimento de uma visualização de
+informação. Avaliação de visualizações. Tendências futuras na área.
+Bibliografia Básica
+
+
+
+
+CARD, S. K.; MACKINLAY, J. D.; SHNEIDERMAN, B. Readings in Information Visualization: Using
+Vision to Think, Morgan Kaufmann Series in Interactive Technologies, Academic Press, 1999.
+SPENCE, R. Information Visualization, ACM Press, 2000.
+WARE, C. Information Visualization: Perception for Design, 2. ed., Morgan Kaufmann Interactive
+Technologies Series, 2004.
+
+Bibliografia Complementar
+
+
+
+
+
+
+do NASCIMENTO, H. A. D.; FERREIRA, C. B. R. Visualização de Informações - Uma Abordagem
+Prática. No Livro Texto da XXIV Jornada de Atualização em Informática. São Leopoldo-RS, 2005.
+di BATTISTA, G.; EADES, P.; TAMASSIA, R.;

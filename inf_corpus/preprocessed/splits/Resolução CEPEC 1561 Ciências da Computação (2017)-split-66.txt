@@ -1,0 +1,13 @@
+São Paulo: Pearson Prentice Hall, 2007.
+THOMAS, G. B. Cálculo. 10 ed. São Paulo: Pearson, 2002. Volume 2.
+REIS, G. L; SILVA, V. V. Geometria Analit́ ica. 2 ed. Rio de Janeiro: LTC, 1996.
+CÁLCULO NUMÉRICO:
+Cálculo de raízes de equações. Resolução de sistemas lineares, métodos diretos e métodos iterativos.
+Interpolação e integração. Resolução numérica de equações diferenciais.
+Bibliografia Básica:
+CAMPOS FILHO, F. F. Algoritmos Numérico. 2. ed. Rio de Janeiro: LTC, 2007.
+FRANCO, N. B. Cálculo Numérico. São Paulo: Pearson Prentice Hall,2007.
+RUGGIERO, M. A. G.; LOPES, V. L. R. Cálculo Numérico : Aspectos teóricos e computacionais . 2. ed. São
+Paulo: Makron Books, 1996.
+Bibliografia Complementar:
+ARENALES, S. H. V.;

@@ -1,0 +1,11 @@
+Buenos Aires. Centro Regional de Ayuda Tecnica, 1968.
+SILVAFILHO, B. S.; NISE, N. S. Engenharia de Sistemas de Controle, 3ed. LTC, 2002.
+MAFFEO, B. Engenharia de Software e Especificaçaõ de Sistemas. Rio de Janeiro: Campus, 1992.
+NASCIMENTO, J. B. Metodologias de Desenvolvimento de Sistemas. SãoPaulo: Erica, 1993.
+ENGENHARIA DE SOFTWARE BASEADA EM BUSCA:
+Engenharia de Software Baseada em Busca. Problemas de Busca. Meta-heurísticas. Aplicações de SBSE em
+teste de Software, planejamento, manutenção, segurança e performance.
+Bibliografia Básica:
+DRÉO, J. Metaheuristics for Hard Optimization: Methods and Case Studies. Berlin:Springer Berlin, 2006.
+DE JONG, K. A. Evolutionary Computation a unified approach Cambridge. Mass.: MIT Press, 2006.
+CHENG, R.; GEN, M. Genetic Algorithms

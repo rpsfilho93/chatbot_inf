@@ -1,0 +1,307 @@
+MINISTÉRIO DA EDUCAÇÃO
+UNIVERSIDADE FEDERAL DE GOIÁS
+INSTITUTO DE INFORMÁTICA
+
+REGULAMENTO DE ESTÁGIO
+Regulamenta a realização de estágio
+no âmbito do curso de Bacharelado em
+Sistemas de Informação do Instituto de
+Informática da Universidade Federal de
+Goiás.
+
+O DIRETOR DO INSTITUTO DE INFORMÁTICA DA UNIVERSIDADE
+FEDERAL DE GOIÁS – INF/UFG, no uso de suas atribuições legais, tendo em vista deliberação da
+sessão plenária do CONSELHO DIRETOR da referida entidade, realizada em 17 de novembro de
+2010, e acolhendo pronunciamento emitido pela Coordenação Geral de Estágio da Pró-Reitoria de
+Graduação,
+R E S O L V E:
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
+
+Art. 1º - O estágio do curso de Bacharelado em Sistemas de Informação do Instituto de
+Informática da Universidade Federal de Goiás constitui-se em um mecanismo de aperfeiçoamento dos
+conhecimentos adquiridos pelo aluno durante o curso de graduação e oportunidade de aplicá-los na
+prática.
+Parágrafo único - O estágio de que trata este artigo:
+I. não será de caráter obrigatório, ficando a critério do aluno realizá-lo ou não, desde
+que o mesmo esteja regularmente matriculado no curso de Bacharelado em Sistemas
+de Informação do Instituto de Informática. Caracterizando estágio curricular nãoobrigatório.
+II. terá que ser desenvolvido contemplando atividades pertinentes à área do curso.
+CAPÍTULO II
+DOS OBJETIVOS DO ESTÁGIO
+Art. 2º - São objetivos do Estágio:
+I. permitir a vivência profissional na sociedade, com vistas a contribuir
+para a formação do aluno, através de experiências técnico-científicas,
+culturais e de relacionamento humano;
+II. promover a articulação entre a teoria e a prática.
+
+CAPÍTULO III
+DO ESTÁGIO
+Art. 3º - O estágio curricular não-obrigatório poderá ser realizado a partir do 2º período
+do Curso ou a partir do cumprimento de 10,67 (dez vírgula sessenta e sete) por cento da carga horária
+do curso. A carga horária semanal do estágio deverá ser compatível com as atividades acadêmicas do
+aluno, observando que a carga horária do estágio não poderá exceder a 6 (seis) horas diárias perfazendo
+o total de 30 (trinta) horas semanais.
+Parágrafo único - A carga horária de que trata o parágrafo primeiro desse artigo, será
+aprovada pela Coordenação de Estágio mediante a apresentação de Termo de
+Compromisso devidamente assinado pelo Supervisor de Estágio;
+Art. 4º - O estágio, quando realizado fora da Universidade Federal de Goiás, será
+desenvolvido ou intermediado em órgão, entidade ou empresa que possua convênio celebrado com a
+referida autarquia.
+Art. 5º - As atividades do estagiário devem ser compatíveis com o período de sua
+formação.
+Parágrafo único - As atividades do estagiário deverão ser descritas no Plano de Estágio
+(anexo I), o qual deverá ser aprovado pelo Coordenador de Estágio e pelo Supervisor de
+Estágio.
+Art. 6º - O estagiário deverá possuir seguro contra acidentes pessoais, cuja
+responsabilidade do pagamento será assumida pelo concedente.
+Art. 7º - As atividades a serem desenvolvidas no estágio deverão ser acompanhadas pelo
+Orientador de Estágio e pelo Supervisor de Estágio.
+§ 1º - O Supervisor de Estágio deverá ser um profissional colaborador do local do
+estágio, graduado em Computação ou áreas afins.
+§ 2º - O Orientador de estágio deverá ser um professor do Instituto de Informática.
+§ 3º - O planejamento das atividades contará com a participação do estagiário.
+Art. 8º – O estagiário encaminhará à Coordenação de Estágio, semestralmente, o
+relatório semestral (anexo VI) descrevendo as atividades desenvolvidas.
+Art. 9º – O estagiário encaminhará à Coordenação de Estágio, ao final do estágio, o
+relatório final (anexo V) descrevendo as atividades desenvolvidas.
+Art. 10 – O Termo de Compromisso do estágio deverá ser assinado, em no mínimo três
+vias, pela Empresa Concedente, pelo Estagiário e pelo Coordenador de Estágio do Curso, sendo uma
+via destinada a cada um dos participantes.
+CAPÍTULO IV
+DA COMPETÊNCIA E DAS ATRIBUIÇÕES DOS PARTICIPANTES DO ESTÁGIO
+Art. 11- Ao Coordenador de Estágio compete:
+I. coordenar, acompanhar e providenciar, quando for o caso, a escolha dos locais de
+estágio;
+II. solicitar a assinatura de convênios e cadastrar os locais de estágio;
+III. promover o debate e a troca de experiências no próprio curso e nos locais de estágio;
+IV. manter registros atualizados sobre o(s) estágio(s) no respectivo curso;
+V. Indicar professor orientador, da área a ser desenvolvida no estágio, como
+responsável pelo acompanhamento e avaliação das atividades do estagiário.
+Art. 12 - Ao Supervisor de Estágio compete:
+I. participar do planejamento das atividades desenvolvidas pelo estagiário;
+II. informar ao estagiário sobre as normas da concedente;
+III. acompanhar e orientar o estagiário durante a realização de suas atividades;
+IV. informar ao Coordenador de Estágio sobre a necessidade de reforço teórico
+para elevar a qualidade do desempenho do Estagiário;
+V. desenvolver outras atividades correlatas ao Estágio.
+Art. 13 - Ao Orientador de Estágio compete:
+I. apoiar o planejamento e o acompanhamento das atividades de estágio;
+II. avaliar as atividades de estágio.
+Art. 14 - São atribuições do estagiário:
+I. participar do planejamento do estágio;
+II. seguir as normas estabelecidas para o estágio;
+III. solicitar orientações e acompanhamento do Coordenador de Estágio e/ou do
+Supervisor de Estágio, sempre que se fizer necessário;
+IV. solicitar reunião com o Coordenador de Estágio, quando se fizer necessário;
+V. enviar os relatórios semestrais e o relatório final para o professor orientador;
+CAPÍTULO IV
+DISPOSIÇÕES FINAIS
+Art. 15 - O Termo de Compromisso e os formulários representados pelos anexos I a V
+deverão ser utilizados nos procedimentos de formalização do estágio.
+Art. 16 - Os casos omissos serão resolvidos, conjuntamente, pelo Coordenador do
+Curso de Graduação do Instituto de Informática, no qual o aluno encontra-se matriculado, e pelo
+Coordenador de Estágio, ouvida, previamente, a Coordenação Geral de Estágios da Pró-Reitoria de
+Graduação (PROGRAD).
+Art. 17 - Este regulamento entra em vigor nesta data, revogadas as disposições
+em contrário.
+
+Goiânia, 17 de Novembro de 2010.
+
+Prof. Auri Marcelo Rizzo Vicenzi
+Diretor do Instituto de Informática
+ANEXOS
+ANEXO I
+Ministério da Educação
+Universidade Federal de Goiás
+Instituto de Informática
+
+PLANO DE ATIVIDADES DE ESTÁGIO NÃO OBRIGATÓRIO
+Acadêmico:_______________________________ Nº Matrícula:_________________
+Curso:________________________________________
+Local do Estágio (Concedente):____________________________________________
+Nº Convênio: ______________
+Nome Supervisor do Estágio:_________________________________
+Carga horária semanal: ( ) 20h ( ) 30 h
+O estágio objetiva aproximar o acadêmico do campo de atuação profissional por meio de vivências que lhe
+permita o aprendizado de competências próprias da atividade profissional e do currículo do curso.
+Atividades Desenvolvidas: (relacionar as atividades a serem desenvolvidas pelo estagiário)
+
+___________________________________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+___________________________________________________________________________________
+Período: ____/____/_____ (dia, mês, ano)
+Início
+
+Orientador (a) de Estágio Curso de Graduação
+(Assinatura e carimbo)
+
+____/____/_____ (dia, mês, ano)
+Término
+
+Acadêmico (a)
+
+Supervisor (a)
+(Assinatura, carimbo e nº registro profissional)
+ANEXO II
+Ministério da Educação
+Universidade Federal de Goiás
+Instituto de Informática
+
+FICHA DE AVALIAÇÃO DO ESTAGIÁRIO PELO SUPERVISOR
+Estagiário:
+Local de estágio:
+Início do estágio: ____/____/____
+Número de horas cumpridas:____ h
+
+Término do estágio: ____/____/____
+
+Desempenho Observado
+Aspectos Profissionais
+1. Conhecimento: demonstrado no desempenho das atividades programadas. (2,0 pontos)
+2. Trabalho: considerar a qualidade do trabalho e o volume de atividades cumpridas dentro de
+um padrão razoável. (1,5 pontos)
+3. Criatividade: capacidade de sugerir, projetar ou executar modificações ou inovações no
+campo de estágio. (1,5 pontos)
+4. Interesse e iniciativa: disposição para aprender. (2,0 pontos)
+Aspectos Comportamentais
+5. Assiduidade: cumprimento do horário estipulado para o estagiário e ausência de faltas. (1,0
+pontos)
+6. Disciplina: observação das normas e regulamentos internos do campo de estágio e
+descrição das atividades a ele confiadas. (1,0 pontos)
+7. Cooperação: disposição para integrar, cooperar e atender prontamente as atividades
+solicitadas. (1,0 pontos)
+
+Nota
+
+______________, ____ de ________________ de _______.
+
+DECLARAÇÃO
+Eu,_________________________________________________________________, supervisor de estágios,
+declaro ter conhecimento do conteúdo do relatório do estagiário(a) supra citado(a) e que o mesmo pode
+ser apresentado sem prejuízo para a empresa.
+________________________________________________________________
+
+Supervisor (a) de Estágio
+(Assinatura, carimbo e nº registro profissional)
+ANEXO III
+Ministério da Educação
+Universidade Federal de Goiás
+Instituto de Informática
+
+FICHA DE AVALIAÇÃO DO ESTAGIÁRIO PELO ORIENTADOR
+
+Estagiário (a):_______________________________________________________________________
+Empresa/instituição concedente do Estágio:________________________________________________
+Orientador (a):_______________________________________________________________________
+Início do estágio: ___/____/___ Término do estágio: ____/____/____
+Carga horária total :______________
+
+Visitou o campo de Estágio: ( ) Sim ( ) Não
+ITENS A SEREM AVALIADOS
+
+Muito
+Bom/
+Bom
+/Ruim
+
+1. Plano de estágio: considerar a qualidade, a elaboração e ainda se foi consultado
+para a consolidação do mesmo.
+2. Compatibilidade entre o plano e os relatórios: Considerar se o relatório atende
+aos itens descritos no plano de estágio.
+3. Sociabilidade: Relacionamento entre orientador e aluno.
+4. Interesse: Disposição demonstrada pelo aluno em aprender.
+Goiânia, _________de ________________ de __________.
+
+_____________________________________
+
+Orientador (a)
+(Assinatura)
+
+ANEXO IV
+Ministério da Educação
+Universidade Federal de Goiás
+Instituto de Informática
+
+RELATÓRIO FINAL DE ATIVIDADES ESTÁGIO NÃO OBRIGATÓRIO
+Acadêmico:__________________________________ Nº Matrícula:_________________
+Curso:______________________________________
+Concedente:__________________________________ Nº Convênio:_________________
+Carga horária semanal: ( ) 20h ( ) 30 h
+ATIVIDADES DESENVOLVIDAS:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+_________________________________________________________________________
+Condições oferecidas pelo concedente para a realização do Estágio é:
+( ) Satisfatória ( ) Insatisfatória
+Acompanhamento realizado pelo supervisor foi:
+( ) Satisfatório ( ) Insatisfatório
+Você recomendaria este campo de Estágio a outros acadêmicos:
+( ) Sim ( ) Não
+Outras observações:_____________________________________________________________________
+______________________________________________________________________________________
+Período: ____/____/_____ (dia, mês, ano)
+Início
+
+____/____/_____ (dia, mês, ano)
+Término
+
+SUGESTÕES: _______________________________________________________________
+____________________________________________________________________________
+___________________________________
+Coodenador (a) de Estágio Curso de Graduação
+(Assinatura e carimbo)
+
+__________________________
+Acadêmico (a)
+
+________________________________
+Supervisor (a)
+
+(Assinatura, carimbo e nº registro profissional)
+
+ANEXO V
+Ministério da Educação
+Universidade Federal de Goiás
+Pró-reitoria de graduação
+
+RELATÓRIO SEMESTRAL DE ATIVIDADES ESTÁGIO NÃO OBRIGATÓRIO
+Acadêmico:__________________________________ Nº Matrícula:_________________
+Curso:______________________________________
+Concedente:__________________________________ Nº Convênio:_________________
+Carga horária semanal: ( ) 20h ( ) 30 h
+ATIVIDADES DESENVOLVIDAS:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+__________________________________________________________________________
+Condições oferecidas pelo concedente para a realização do Estágio é:
+( ) Satisfatória ( ) Insatisfatória
+Acompanhamento realizado pelo supervisor foi:
+( ) Satisfatório ( ) Insatisfatório
+Você está satisfeito com o desenvolvimento de suas atividades:
+( ) Sim ( ) Não
+Outras observações:_____________________________________________________________________
+______________________________________________________________________________________
+Período: ____/____/_____ (dia, mês, ano)
+Início do Semestre
+
+____/____/_____ (dia, mês, ano)
+Término do Semestre
+
+SUGESTÕES: _________________________________________________________________________
+______________________________________________________________________________________
+___________________________________
+__________________________
+Coodenador (a) de Estágio
+Acadêmico (a)
+(Assinatura e carimbo)
+__________________________
+Supervisor (a)
+(Assinatura, carimbo e nº registro profissional)

@@ -1,0 +1,13 @@
+Teóricos. Teste Funcional. Teste estrutural. Análise de Mutantes. Oficina em teste de software:
+experimentação e análise empírica.
+Bibliografia Básica:
+MYERS, G. J. The Art of Software Testing.Wiley, 2011.
+DELAMARO, M. E.; Maldonado, J. C.; JINO, M. Introdução ao Teste de Software. Campus, 2007.
+COPELAND, L. A Practitioner’s Guide to Software Test Design.ArtechHouse, 2003.
+Bibliografia Complementar:
+PEZZÈ, M., YOUNG, M. Teste e análise de software: processos, princípios e técnicas. Bookman, 2008.
+BINDER, R. V. Testing Object Oriented Systems: Models, Patterns, and Tools. AddisonWesley, 1999.
+ISO/IEC/IEEE29119-1. International Standard for Software and systems engineering-Software testing - Part
+1:Concepts and definitions, 2013.
+ISO/IEC/IEEE29119-4. International Standard for Software and systems engineering-Software testing - Part 4:
+Test techniques,

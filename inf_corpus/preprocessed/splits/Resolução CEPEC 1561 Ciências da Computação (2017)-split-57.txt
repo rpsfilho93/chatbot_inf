@@ -1,0 +1,13 @@
+a objeto e script. Reflexão sobre as características desejáveis em uma linguagem de
+programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de
+aplicação. Descrição de sintaxe e semântica. Estudo sobre tipos de dados, estruturas de controle, ambientes de
+execução, variáveis, expressões e subprogramas em linguagens de programação.
+
+Bibliografia Básica:
+SEBESTA, R. W. Concepts of Programming Languages. 10th ed. Pearson, 2012.
+SCOTT, M. L. Programming Language Pragmatics, 3rd. ed.Morgan Kaufmann, 2009.
+GHEZZI, C.; JAZAYERI, M. Programming Language Concepts.3rd ed. Wiley, 1997.
+Bibliografia Complementar:
+PRATT, T. W. Z.; ELKOWIT, M. V. Programming Languages: Design and Implementation. 4th ed. Prentice
+Hall, 2000.
+VAREJÃO, F. Linguagens de Programaçaõ

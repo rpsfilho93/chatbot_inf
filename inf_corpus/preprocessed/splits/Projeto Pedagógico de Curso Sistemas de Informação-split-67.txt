@@ -1,0 +1,18 @@
+de Miranda Netto. Rio de Janeiro: LTCE, 1977.
+CHURCHMAN, C. W. Introdução à teoria dos sistemas. Tradução de Francisco M. Guimarães. 2. ed.,
+Petrópolis: Vozes, 1972.
+
+ENGENHARIA DE SISTEMAS DE INFORMAÇÃO 2
+Ementa
+Análise de redes sociais. Julgamento crítico de fronteira. Sistemas indagadores de Churchman.
+Modelo de sistemas viáveis. Metodologia SSM – estágios de 5 a 7. Lógica fuzzy. Dinâmica de
+Sistemas. Análise e desenvolvimento de opções estratégicas. Princípios de arquitetura. Método de
+desenvolvimento de arquitetura. Domínios de arquitetura. Frameworks de arquitetura corporativa.
+Vieses das heurísticas do julgamento. Arquétipos sistêmicos. Modelos de viabilização de Sistemas de
+Informação. Praxeologia e Ciência da ação.
+Bibliografia Básica
+
+
+
+
+ROSINI, A. M. Administração de sistemas de informação

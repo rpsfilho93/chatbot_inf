@@ -1,0 +1,13 @@
+L.; DAVIE, B.S. Computer Networks: A Systems Approach.5th ed. Morgan Kaufmann, 2011.
+BEHROUZ F. A. Data Communications and Networking.5th ed. McGraw-Hill Education, 2012.
+MOLISCH, A. F. Wireless Communications. 2nd. ed. John Wiley & Sons, 2011.
+STALLINGS, W. Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud. 1st ed. AddisonWesley Professional, 2015.
+GRAYVER, E. Implementing Software Defined Radio. 1st ed. Springer, 2013.
+TÓPICOS EM COMPUTAÇÃO:
+Tópico variável em Ciência da Computação segundo tendências atuais na área.
+Bibliografia Básica:
+A bibliografia deve ser definida de acordo com o tema a ser ministrado.
+Bibliografia Complementar:
+A bibliografia deve ser definida de acordo com o tema a ser ministrado.
+TÓPICOS EM TESTE DE SOFTWARE:
+Fundamentos

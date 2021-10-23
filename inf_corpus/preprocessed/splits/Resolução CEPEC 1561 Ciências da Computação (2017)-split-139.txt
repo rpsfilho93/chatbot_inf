@@ -1,0 +1,13 @@
+McGraw-Hill Education, 2012.
+MOLISCH, A. F. Wireless Communications. 2nd ed.John Wiley & Sons, 2011.
+STALLINGS, W. Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud. 1st ed. AddisonWesley Professional, 2015.
+GRAYVER, E. Implementing Software Defined Radio. 1st ed. Springer, 2013.
+REDES NEURONAIS ARTIFICIAIS:
+Conceitos básicos. Redes em camadas com aprendizagem supervisionada. Redes recorrentes e de processamento
+temporal. Redes auto-organizáveis. Aplicações.
+Bibliografia Básica:
+BRAGA, A. P.; CARVALHO, A. P. L. F.; LUDERMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2
+ed. LTC, 2007.
+SILVA, I. N.; SPATTI, D. H.; FLAUZINO, R. A. Redes Neurais Artificiais para Engenharia e Ciências
+Aplicadas: Curso Prático. Ed. Artliber, 2010.
+HAYKIN, S. Redes Neurais: Princípios e

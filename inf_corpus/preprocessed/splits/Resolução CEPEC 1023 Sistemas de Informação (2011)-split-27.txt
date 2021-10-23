@@ -1,0 +1,12 @@
+de desenvolvimento de software (ciclos de
+vida). Princípios de projeto (encapsulamento de informações, coesão e acoplamento).
+Interação entre projeto e requisitos. Atributos qualitativos em um projeto (confiabilidade,
+
+usabilidade, manutenibilidade, testabilidade, desempenho, segurança, tolerância a falhas e
+outros). Compromissos (custo-benefício). Relação entre arquitetura de software e projeto de
+software. Projeto orientado a objetos. Projeto funcional. Noção de projeto baseado em
+estrutura de dados e projeto orientado a aspectos. Projeto orientado por responsabilidade.
+Projeto por contratos. Métodos de projeto de software. Padrões de projeto. Reutilização.
+Projeto de componentes. Projeto de interfaces entre componentes e sistemas. Notações de
+projeto. Ferramentas de suporte a projeto (análise estática, avaliação dinâmica e outras).
+Medidas de atributos

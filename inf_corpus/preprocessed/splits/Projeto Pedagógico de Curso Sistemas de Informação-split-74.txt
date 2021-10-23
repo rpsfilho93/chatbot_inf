@@ -1,0 +1,14 @@
+sistemas orientada ao sucesso: por que os projetos atrasam? Rio de
+Janeiro: Ciência Moderna, 2005. 240 p.
+PMI. Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK). ISBN
+9788502223721. 5ª Edição. São Paulo: Saraiva, 2012.
+SILVA, L. C. Gestão e melhoria de processos: conceitos, técnicas e ferramentas. Rio de Janeiro:
+Brasport, 2015.
+SORDI, J. O. Gestão por processos: uma abordagem da moderna administração. 2. ed. rev. e atual,
+São Paulo: Saraiva, 2008, 270p.
+
+GESTÃO DE SEGURANÇA DA INFORMAÇÃO
+Ementa
+Sistema de Gestão de Segurança da Informação. Auditoria de sistemas. Políticas de segurança.
+Classificação das informações. Ética em segurança da informação. Tipificação de Ameaças e
+Ataques. Vulnerabilidades em softwares, serviços e protocolos.

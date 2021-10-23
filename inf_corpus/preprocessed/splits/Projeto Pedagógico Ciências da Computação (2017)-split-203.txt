@@ -1,0 +1,51 @@
+Testing Object Oriented Systems: Models, Patterns, and Tools. Addison Wes-
+
+ware testing - Part 1:Concepts and definitions, 2013.
+
+ore
+s
+
+çã
+o
+
+3. ISO/IEC/IEEE 29119-1. International Standard for Software and systems engineering - Soft-
+
+4. ISO/IEC/IEEE 29119-4. International Standard for Software and systems engineering - Software testing - Part 4: Test techniques, 2015.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. PERRY, W. E. Effective methods for software testing. 2nd edition. J. Wiley, 1999.
+
+Disciplina: Verificação Formal de Programas
+Bibliografia Básica
+1. NEDERPELT, R.; GEUVERS, H. . Type Theory and Formal Proof: An Introduction. Cambridge University Press, 2014.
+2. RAAMSDONK, F. Logic Verification: Course Notes. Vrije Universiteit Amsterdam, 2008.
+
+G
+
+(Disponível em http://www.cs.ru.nl/ freek/courses/tt-2014/public/notes.pdf)
+
+Bibliografia Complementar
+
+UF
+
+the Coq Proof Assistant. MIT Press 2013.
+
+pe
+las
+
+3.

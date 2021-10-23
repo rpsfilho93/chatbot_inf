@@ -1,0 +1,84 @@
+Specifications, 2002. (Disponível
+on-line em <http://www.fipa.org/repository/standardspecs.html>
+2. RUSSELL, S.; NORVIG, P. Inteligência Artificial. 3. ed. Campus, 2013.
+
+G
+
+3. WOOLDRIDGE, M. An Introduction to MultiAgent Systems. 2. ed. John Wiley and Sons,
+
+1. BELLIFEMINE, F. et al.
+
+UF
+
+Bibliografia Complementar
+
+Jade 4.0 Programmer’s Guide, 2010.
+
+(Disponível on-line em
+
+<http://jade.tilab.com/documentation/tutorials-guides/>)
+2. BORDINI, R. H.;
+
+HÜBNER, J. Documentation for Jason,
+
+<http://jason.sourceforge.net/wp/documents/>)
+
+2006.
+
+a Java-besed inter-
+
+(Disponível on-line em
+
+ore
+s
+
+çã
+o
+
+preter for an extended version of AgentSpeak.
+
+da
+
+pe
+las
+
+2009.
+
+3. CAIRE, G. Jade 3.7 Programming for Beginners, 2009.
+
+(Disponível on-line em
+
+<http://jade.tilab.com/documentation/tutorials-guides/>)
+
+lia
+
+4. SHOHAM, Y.; LEYTON-BROWN, K. Multiagent Systems - Algorithmic, Game-Theoretic,
+Cambridge University Press 2008.
+
+Av
+a
+
+<http://www.masfoundations.org/mas.pdf>)
+
+(Disponível on-line em
+
+eri
+
+and Logical Foundations.
+
+5. VIDAL, J.M. Fundamentals of Multiagent Systems Using NetLogo, 2010. (Disponível on-line
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+em <http://multiagent.com/p/fundamentals-of-multiagent-systems.html>)
+
+Disciplina: Tópicos Avançados em Redes Sem Fio
+Bibliografia

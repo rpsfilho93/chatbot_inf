@@ -1,0 +1,13 @@
+cinquenta e seis
+horas).
+
+§ 3º No caso dos dois últimos períodos cursados, se CHC for menor que
+512h (quinhentas e doze horas), então CHC será igual a 512 (quinhentas e doze horas).
+§ 4º O valores máximos de TA e IP serão, respectivamente, 1 (um) e 110
+(cento e dez).
+§ 5º Os valores de TI, TA e IP serão calculados com a precisão de 2 (duas)
+casas decimais, sem arredondamentos.
+§6º No caso de reingresso, os estudantes serão tratados como ingressantes
+para efeito de aplicação da fórmula para cálculo do índice de prioridade.
+Art. 55. Para efeito de desempate na prioridade da matrícula em componentes
+curriculares, serão considerados os

@@ -1,0 +1,15 @@
+1998.
+Qualidade no Setor de Software Brasileiro. Brasília, D. F. : MCT, 1997.
+MICROCONTROLADORES:
+Introdução e histórico. Famílias de microcontroladores. Arquiteturas de microcontroladores. Elementos de um
+microcontrolador. Registradores de controle, de estado e de funções especiais. Programação de
+microcontroladores. Temporizadores e contadores. Interrupções. Interfaceamento eletrônico. Dispositivos de
+Memória. Protocolos de comunicação. Aplicações.
+Bibliografia Básica:
+RAFIQUZZAMAN, M. Microprocessors and Microcomputer based System Design. RC Press, Boca Raton
+(Fla); 1990.
+MAZIDI, M. A.; NAIMI, Sarmad; NAIMI, Sepehr.AVR Microcontroller and Embedded Systems: Pearson New
+International Edition: Using Assembly and C. Pearson Education, Limited, Nov 1, 2013.
+CRISP, J. Introduction to Microprocessors and Microcontrollers.2. ed. Editora Elsevier, 2004.
+Bibliografia Complementar:
+TAUB, H. Circuitos Digitais e Microcontroladores. McGraw-Hill, SãoPaulo,

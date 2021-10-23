@@ -1,0 +1,13 @@
+duplicados. Tópicos emergentes em integração de dados.
+Bibliografia Básica:
+DOAN, A., HALEVY, A., IVES, Z., Principles of Data Integration. Morgan-Kaufmann, 1a.Edição, MorganKaufmann, 2012.
+GARCIA-MOLINA, H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete Book, 2a.edição,
+Prentice Hall, 2009.
+ÖZSU, M. T.; VALDURIEZ, P. Principles of Distributed Database Systems.3A .edição, Springer, 2011.
+Bibliografia Complementar:
+EUZENAT, J.; SHVAIKO, P. Ontology Matching, 1a ed. Springer, 2007.
+CHRISTEN, P. Data Matching: Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate
+Detection. 1a. Ed., Springer, 2012.
+KIMBALL, R., CASERTA, J.: The Data Warehouses ETL Toolkit: Practical Techniques for Extracting,
+Cleaning, Conforming, and Delivering Data. 1a. Edição. Wiley, 2004.
+TAN, P., STEINBACH, M., KUMAR,

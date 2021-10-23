@@ -1,0 +1,10 @@
+Introdução à Álgebra, 5. ed. Rido de Janeiro: CNPQ-IMPA, 2013.
+INTERAÇÃO HUMANO-COMPUTADOR:
+Aspectos gerais sobre interação humano-computador. Características humanísticas e biológicas, envolvendo
+questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências,
+limitações e capacidades, dentre outros. Ciclo da interação e principais problemas. Metas de usabilidade e
+experiência do usuário. Fatores humanos em software interativo: teoria, princípios e regras básicas. Modelos
+conceituais e metáforas. Estilos de interação. Elementos de interação (menus, formulários, manipulação direta e
+outros). Voz, linguagem natural, sons, páginas Web. Padrões para interface. Localização e internacionalização.
+Princípios de projeto de interfaces humano-computador. Métodos de projeto de interação. Projeto visual (cores,
+ícones, fontes e

@@ -1,0 +1,408 @@
+de Programação
+Bibliografia Básica
+
+;
+
+;
+
+
+
+
+
+;
+,
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+,
+
+Engenharia de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+Análise e Projeto de Algoritmos
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Interação Humano-Computador
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+;
+
+
+
+
+
+
+
+
+;
+
+Banco de Dados
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Projeto de Software
+Bibliografia Básica
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Disciplinas optativas
+Pesquisa Operacional
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Linguagens Formais e Autômatos
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Sistemas Operacionais
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+Compiladores
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Redes de computadores
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Introdução à Língua Brasileira de Sinais
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+
+
+Sistemas Distribuídos
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+Metodologia e Experimentação em Engenharia de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Mercado e Economia de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Disciplinas específicas de Engenharia de Software
+Engenharia de Sistemas
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Construção de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Modelagem de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Processos de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Domínios de Software
+Bibliografia básica
+
+
+
+
+
+
+Bibliografia complementar
+
+
+
+
+
+
+
+
+
+
+Processos de Qualidade de Software
+Bibliografia Básica
+
+
+
+
+
+
+Bibliografia Complementar
+
+
+
+
+
+
+
+
+
+
+Gerência de Projeto

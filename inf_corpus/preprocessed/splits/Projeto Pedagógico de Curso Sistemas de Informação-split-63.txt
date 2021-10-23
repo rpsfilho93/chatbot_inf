@@ -1,0 +1,22 @@
+de negócios. GMT Editores,
+2008.
+FERRARI, R. Empreendedorismo para computação: criando negócios de tecnologia. 1. ed. Rio de
+Janeiro: Elsevier, 2009.
+IBPQ. GEM – Global Entrepreneurship Monitor. Empreendedorismo no Brasil: Relatório Executivo.
+Paraná: IBPQ, 2014. Disponível em: http://www.ibpq.org.br.
+
+ENGENHARIA DE REQUISITOS
+Ementa
+Definição de Engenharia de Requisitos (ER). Perspectivas. Definição e Tipos de Requisitos. Processo
+de ER. Ferramentas para apoio a ER. Normas e padrões aplicados a ER.
+Bibliografia Básica
+
+
+
+
+PFLEEGER, S. L. Engenharia de software: teoria e prática. 1. ed., São Paulo: Prentice Hall, 2004.
+PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 7. ed., Porto Alegre:
+McGraw-Hill, 2011.
+SOMMERVILLE, I. Engenharia de Software. 9. ed., São Paulo: Pearson Prentice Hall, 2011.
+
+Bibliografia

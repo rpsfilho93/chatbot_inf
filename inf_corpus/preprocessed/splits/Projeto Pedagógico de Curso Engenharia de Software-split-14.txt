@@ -1,0 +1,105 @@
+OBR
+
+Testes de Software
+
+NE – OPT
+
+Prática em Engenharia de Software
+
+Software para Persistência
+
+CH NATUREZA
+
+NE - OBR
+
+NE – OBR
+
+Verificação e Validação
+
+NC – OBR
+
+NE – OPT
+
+Optativa
+
+NC – OBR
+
+NE – OBR
+
+-
+
+NC – OBR
+
+Sistemas Operacionais
+
+NE – OPT
+
+Sistema Operacional
+
+NC - OBR
+
+Pesquisa Operacional
+
+NE – OPT
+
+Optativa
+
+NE – OBR
+
+Linguagens Formais e Autômatos
+
+NE – OBR
+
+Optativa
+
+NC – OBR
+
+Redes de Computadores
+
+NE – OBR
+
+Redes e Sistemas Distribuídos
+
+NC – OBR
+
+Introdução à Língua Brasileira de Sinais
+
+NE – OBR
+
+LIBRAS
+
+NC – OBR
+
+Compiladores
+
+NC – OBR
+
+Optativa
+
+NC – OBR
+
+Sistemas Distribuídos
+
+NE – OPT
+
+Redes e Sistemas Distribuídos
+
+NC – OBR
+
+Mercado e Economia de Software
+
+NC – OBR
+
+Mercado de Software
+
+NC - OBR
+
+Metodologia e Experimentação em Engenharia de Software
+
+NC – OBR
+
+Experimentação em Engenharia de Software
+
+NC - OBR
+
+Design

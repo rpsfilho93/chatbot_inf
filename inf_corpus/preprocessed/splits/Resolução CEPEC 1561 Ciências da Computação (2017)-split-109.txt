@@ -1,0 +1,13 @@
+A vision, architectural
+elements, and future directions. Future Gener.Comput. Syst. 29, 7 September 2013, 1645-1660.
+GARDNER J. D.; GRIGSBY, J. Head First Mobile Web.O’Reilly, 2011.
+Android Developers(https://developer.android.com/), acessado em Junho de 2016.
+Apple Developer(https://developer.apple.com), acessado emJunho de 2016.
+COMPUTAÇÃO VERDE:
+Introdução a eficiência energética em computação. Eficiência energética em redes de comunicação. Modelos de
+consumo energético. Algoritmos e protocolos energeticamente eficientes. Tópicos e pesquisas emergentes em
+computação verde. Estudo de caso através de simulação e ambiente real.
+Bibliografia Básica:
+KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed. Addison Wesley - Pearson Brasil, 2014.
+STALLINGS, W. Data and Computer Communications.10th ed. Pearson, 2014.
+TANENBAUM, A. S. Computer Networks.5th

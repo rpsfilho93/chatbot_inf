@@ -1,0 +1,13 @@
+Analytics Press, 2009.
+TAMASSIA, R. Handbook of Graph Drawing and Visualization (Discrete Mathematics and Its Applications).
+1st edition, Chapman and Hall/CRC, 2013. (Acesso digital em https://cs.brown.edu/ rt/gdhandbook/).
+TUFTE, E. R. Visual Explanations: Images and Quantities, Evidence and Narrative. Graphics Press, 1997.
+TUFTE, E. R. Envisioning Information. Graphics Press, 1990.
+TUFTE, E. R. The Visual Display of Quantitative Information, 2nd ed.Graphics Press, 2001.
+WEB SEMÂNTICA:
+Fundamentos e arquitetura da Web Semântica. Linguagens e/ou padrões para especificação de caracteres,
+localização, sintaxe, estrutura e semântica de informação. Ontologias. Framework para programação de
+aplicações para Web Semântica.
+Bibliografia Básica:
+BREITMAN, K. Web Semântica: a Internet do Futuro. Editora LTC, 2005.
+DUCHARME, B. Learning SPARQL. 1st ed.

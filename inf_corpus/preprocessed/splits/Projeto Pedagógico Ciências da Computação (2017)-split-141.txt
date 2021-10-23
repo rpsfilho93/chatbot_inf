@@ -1,0 +1,34 @@
+LEBLANC, R. J.; FISCHER, C. N. Crafting a Compiler with C. Benjamin/Cummings, 1991.
+
+Disciplina: Computação Gráfica
+Bibliografia Básica
+1. FOLEY, J. D. at al. Computer Graphics: Principles and Practices, Addison Wesley, 1993.
+2. AZEVEDO, E.; CONCI, A. Computação Gráfica: Geração de Imagens. Rio de Janeiro: Editora
+Campus, 2003.
+
+G
+
+3. HETEM, A. J., Computação gráfica. Rio de Janeiro: LTC, 2006.
+
+UF
+
+pe
+las
+
+Bibliografia Complementar
+
+1. AZEVEDO, E.; LETA, F. R; CONCI, A. Computação gráfica: teoria e prática. 2. ed. Rio de
+Janeiro: Elsevier, 2008.
+
+2008.
+
+da
+
+2. AMMERAAL, L. Computação gráfica para programadores Java 2. ed. Rio de janeiro: LTC,
+
+3. BAKER, M. P.; HEARN, D. Computer graphics with OpenGL. 3rd ed. Upper Saddle River,
+
+çã
+o
+
+NJ: Pearson

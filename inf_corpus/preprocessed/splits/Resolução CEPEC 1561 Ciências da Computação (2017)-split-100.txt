@@ -1,0 +1,15 @@
+Grafos Eulerianos e
+Hamiltonianos. Fluxo em redes. Grafos Infinitos.
+Bibliografia Básica:
+BONDY, A.; MURTY, U. S. R. Graph Theory. Springer, 2008.(Graduate Texts in Mathematics).
+ROSEN, K. H. Matemática Discreta e suas Aplicações. 6. ed. Rio de Janeiro: McGraw Hill, 2009.
+SZWARCFITER, J. L. Grafos e Algoritmos Computacionais. Campus, 1984.
+Bibliografia Complementar:
+WEST, D. Introduction to Graph Theory. Prentice Hall, 2000.
+BOAVENTURA NETTO, P. O. Grafos: Teoria, Modelos, Algoritmos. Editora Edgard Blucher, 2003.
+CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L. Algoritmos: Teoria e Prática. 3. ed. Cam- pus, 2012.
+DIESTEL, R. Graph theory.3rd. ed. Springer, 2000.
+BOLLOBÁS, B. Modern Graph Theory. Springer Verlag, 1998.
+
+Disciplinas Optativas
+APRENDIZAGEM DE MÁQUINA E MINERAÇÃO DE

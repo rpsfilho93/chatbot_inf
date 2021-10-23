@@ -1,0 +1,12 @@
+ANTON; RORRES, C.Álgebra Linear com Aplicações, 8 ed. Bookman, Porto Alegre, Brasil, 2001.
+HOFFMAN, KENNETH; KUNZE, R.Álgebra Linear.Polígono, SãoPaulo, 1971.
+LIMA, E. L. Álgebra Linear: Coleção Matemática Universitária
+. IMPA, RiodeJaneiro, Brasil, 2006.
+SHOKRANIAN, S. Introdução a Álgebra Linear e Aplicações, 1ed. Unb, 2004.
+ALGORITMOS E ESTRUTURAS DE DADOS 1:
+Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de pesquisa: pesquisa
+sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de dados utilizando vetores:
+pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação dinâmica de memória: pilhas, filas,
+listas (simplesmente encadeadas, duplamente encadeadas e circulares).
+Bibliografia Básica:
+TENENBAUM, A. M., LANGSAM, Y., AUGENSTEIN, M., Estruturas de

@@ -1,0 +1,46 @@
+Básica
+1. DRÉO, J. Metaheuristics for Hard Optimization: Methods and Case Studies. Berlin: Springer
+Berlin, 2006.
+2. DE JONG, K. A. Evolutionary Computation a unified approach Cambridge. Mass.: MIT
+
+G
+
+Press, 2006.
+
+2000.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. CHENG, R.; GEN, M. Genetic Algorithms and Engineering Optimization. New York: Wiley,
+
+2. LINDEN, R. Algoritmos Genéticos. 3. ed. Brasport, 2008.
+
+da
+
+1. ENGELBRECHT, A. P. Computational Intelligence: An Introduction. New York: Wiley, 2002.
+
+Hall, 2010.
+
+ore
+s
+
+çã
+o
+
+3. RUSSELL, S. J. Artificial intelligencea modern approach 3. ed. Upper Saddle River: Prentice-
+
+4. ENGELBRECHT, A. P. Fundamentals of Computational Swarm Intelligence. Hoboken, NJ:
+Wiley, 2005.
+
+lia
+
+5. HARMAN M.; MCMINN, P.; SOUZA, J. T de; YOO, S. Search based Software Engineering:
+
+eri
+
+Techniques, Taxonomy, Tutorial.

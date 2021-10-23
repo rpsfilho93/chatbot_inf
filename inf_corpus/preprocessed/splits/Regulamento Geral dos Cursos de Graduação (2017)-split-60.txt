@@ -1,0 +1,36 @@
+seguintes critérios:
+IIIIIIIVVVI-
+
+estudante com maior TA;
+estudante com maior TI;
+estudante com menor QR;
+estudante com maior média relativa;
+estudante com maior média global;
+estudante com maior porcentual médio de frequência nos semestres
+utilizados no cálculo da TA.
+
+Art. 56. A média global do estudante (MGE) será obtida pela seguinte
+fórmula:
+N
+
+MGE =
+
+ CHD * ND
+i
+
+i
+
+N
+
+ CHD
+
+i
+
+em que:
+N = número de componentes curriculares cursados, dispensados e aproveitados com nota
+computáveis para a integralização da matriz curricular do estudante, durante o seu vínculo no
+curso.
+CHDi = carga horária do componente curricular “i”;
+NDi = nota final do estudante no componente curricular “i”, independente da situação final
+(aprovado, reprovado, dispensado e aproveitado com nota).
+§ 1º A

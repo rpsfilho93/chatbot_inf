@@ -1,0 +1,50 @@
+M. Genetic algorithms and engineering optimization. New York: Wiley,
+
+çã
+o
+
+2000. (Wiley series in engineering design and automation).
+
+Wiley, 2005.
+
+ore
+s
+
+2. ENGELBRECHT, A. P. Fundamentals of computational swarm intelligence Hoboken. NJ:
+
+3. MITCHELL, M. An introduction to genetic algorithms. Cambridge: MIT Press, 1996.
+
+Springer, 2006.
+
+eri
+
+lia
+
+4. ROTHLAUF, F. Representations for genetic and evolutionary algorithms 2nd ed. Heidelberg:
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. LIDEN, R. Algoritmos Genéticos. 3a. ed. Brasport, 2008.
+
+Disciplina: Metodologia e Experimentação em Engenharia de Software
+Bibliografia Básica
+1. JURISTO, N. Basics of Software Engineering Experimentation. Kluwer Academic Publishers,
+2001.
+2. WOHLIN, C et al. Experimentation in Software Engineering. 2. ed. Springer, 2012.
+
+G
+
+3. GETTINBY, G.; GARDINER, W. P. Experimental Design Techniques in Statistical Practice: a
+
+Bibliografia

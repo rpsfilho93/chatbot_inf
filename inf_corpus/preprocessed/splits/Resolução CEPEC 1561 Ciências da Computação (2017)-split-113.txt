@@ -1,0 +1,12 @@
+Longman Publishing Co., Inc., 2004.
+STAHL, T.; VOELTER, M.; CZARNECKI, K. Model-Driven Software Development: Techno- logy,
+Engineering, Management. John Wiley & Sons, 2006.
+MELLOR, S. J.; BALCER, M. Executable UML: A Foundation for Model-Driven Architectures. Boston, MA,
+USA: Addison-Wesley Longman Publishing Co., Inc., 2002.
+Bibliografia Complementar:
+Engineering in Practice.1st ed. Morgan & Claypool Publishers, 2012.
+BETTINI, L. Implementing Domain-Specific Languages with Xtext and Xtend. Packt Pu- blishing, 2013.
+STEINBERG, D.; BUDINSKY, F.; PATERNOSTRO, M.; MERKS, E. Emf: Eclipse Modeling Framework 2.0.
+2nd ed. Addison-Wesley Professional, 2009.
+DAZ, V. G. Advances and Applications in Model-Driven Engineering. 1st ed. Hershey, PA, USA: IGI Global, 2013.
+VOELTER, M. ; BENZ, S.; DIETRICH, C.; ENGELMANN,

@@ -1,0 +1,14 @@
+( livro eletrônico de acesso livre : disponível em
+http://www.mindview.net/Books/TIJ/).
+BORATTI, I. C. Programação orientada a objetos em Java. Visual Books, 2007.
+DEITEL, P. J; DEITEL, H. M. Java como programar 6.ed. São Paulo:Prentice Hall, 2005.
+
+Bibliografia Complementar:
+ZEIGLER, B. P. Objects and Systems: Principled Design with Implementations in C++ and Java. New York,
+NY, USA: Springer-Verlag, Inc., 1997.
+SANTOS, R. Introdução à Programação Orientada a Objetos com Java. Campus, 2003.
+BUDD, T. An Introduction to Object-Oriented Programming. Addison Wesley, 1996.
+HORSTMANN, C. S. Core Java – Advanced Features. 8. ed. Prentice Hall, 2008.(Volume II).
+GAMMA, E. Design patterns elements of reusable object-oriented software. Reading:Addison Wesley, 1995.
+PROJETO DE SOFTWARE:
+Fundamentos de

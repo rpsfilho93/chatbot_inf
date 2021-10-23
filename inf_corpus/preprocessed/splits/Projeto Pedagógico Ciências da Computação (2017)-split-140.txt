@@ -1,0 +1,56 @@
+Básica
+1. AHO, A. V; LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores - Princípios, técnicas e
+ferramentas. 2 ed. Pearson-Addison-Wesley; 2008.
+2. LOUDEN, K. C. Compiladores - Princípios e Práticas. Editora Thompson 2004.
+
+G
+
+3. APPEL, A. W. Modern Compiler Implementation in C - Basic Techiniques. Cambridge Uni-
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+versity Press, 1997.
+
+bridge University Press, 2002.
+
+da
+
+1. APPEL, A. W. Modern Compiler Implementation in Java. 2nd. edition. New York: Cam-
+
+2. HOLMES, J. Modern Compiler Implementation in Java. Prentice Hall, 1995.
+
+1997.
+
+ore
+s
+
+çã
+o
+
+3. MUCHNICK, S. S. Advanced Compiler Design and Implementation. Morgan Kaufmann,
+
+4. HANSON, D. R.; FRASER, C. W. A Retargetable C Compiler: Design and Implementation.
+Benjamin Cummings Pub., 1995.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5.

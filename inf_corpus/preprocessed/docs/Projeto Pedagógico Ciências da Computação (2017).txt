@@ -1,0 +1,9689 @@
+SERVIÇO PÚBLICO FEDERAL
+UNIVERSIDADE FEDERAL DE GOIÁS
+INSTITUTO DE INFORMÁTICA
+
+Projeto Pedagógico do Curso de Bacharelado em Ciências
+da Computação
+Versão em Avaliação pelas Câmaras Superiores da UFG
+Diretor:
+
+Prof. Eduardo Simões de Albuquerque
+
+Vice-diretor:
+
+Prof. Sérgio Teixeira de Carvalho
+
+Coordenadora do Curso: Profa . Taciana Novo Kudo
+
+Núcleo Docente Estruturante do Curso:
+Prof. Gustavo Teodoro Laureano
+Prof. Hebert Coelho da Silva
+Prof. Hugo Alexandre Dantas do Nascimento
+Prof. Leonardo Andrade Ribeiro
+Profa . Taciana Novo Kudo
+Prof. Thierson Couto Rosa (Presidente)
+Prof. Wellington Santos Martins
+Sumário
+Lista de Figuras
+
+ii
+
+Lista de Tabelas
+
+iii
+
+
+Apresentação do projeto
+
+
+
+Exposição de motivos
+
+
+
+Objetivos
+
+
+
+Objetivo geral . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Objetivos específicos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Princípios norteadores para a formação do profissional
+
+
+
+Expectativa da formação do profissional
+
+
+
+Estrutura curricular
+
+
+
+Matriz curricular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Componentes curriculares . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Ementas das disciplinas obrigatórias do núcleo comum . . . . . .
+
+
+
+Ementas das disciplinas obrigatórias do núcleo específico . . . .
+
+
+
+Ementas das disciplinas optativas . . . . . . . . . . . . . . . . . .
+
+
+
+Sugestão de fluxo curricular . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Representação gráfica da sugestão de fluxo curricular . . . . . . . . . . .
+
+
+
+Atividades complementares . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Política e gestão de estágio curricular
+
+
+
+Trabalho de conclusão de curso
+
+
+
+Integração ensino, pesquisa e extensão
+
+
+
+Pesquisa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Pós-Graduação . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+i
+
+Extensão . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+10 Metodologias de ensino e aprendizagem
+
+
+11 Sistema de avaliação do projeto de curso
+
+
+UF
+G
+
+12 Política de qualificação docente e técnico-administrativo da unidade acadê-
+
+
+13 Requisitos legais e normativos
+
+pe
+las
+
+mica
+
+
+13.1 Diretrizes curriculares nacionais do curso . . . . . . . . . . . . . . . . . .
+
+
+da
+
+13.2 Diretrizes curriculares nacionais para educação das relações étnico-raciais
+
+13.3 Disciplina LIBRAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+eri
+ore
+s
+
+
+lia
+çã
+o
+
+e para o ensino de história e cultura afro-brasileira e indígena . . . . . .
+
+13.4 Políticas de educação ambiental . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+13.5 Diretrizes nacionais para educação em direitos humanos . . . . . . . . .
+
+
+13.6 Proteção dos direitos da pessoa com transtornos do espectro autista . . .
+
+
+Av
+a
+
+A Bibliografias básicas e complementares das disciplinas
+
+
+A.2 Disciplinas obrigatórias do núcleo específico . . . . . . . . . . . . . . . .
+
+
+A.3 Disciplinas optativas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+Câ
+ma
+
+ras
+
+Su
+p
+
+
+Em
+
+A.1 Disciplinas obrigatórias do núcleo comum . . . . . . . . . . . . . . . . . .
+
+ii
+Lista de Figuras
+
+iii
+
+
+UF
+G
+da
+
+eri
+ore
+s
+
+Su
+p
+
+Câ
+ma
+
+ras
+
+Av
+a
+
+lia
+çã
+o
+
+pe
+las
+
+Matriz de disciplinas e seus pré-requisitos. . . . . . . . . . . . . . . . . .
+
+Em
+
+Lista de Tabelas
+
+
+Disciplinas de natureza optativa. . . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+Quadro resumo da carga horária . . . . . . . . . . . . . . . . . . . . . . .
+
+
+ras
+
+da
+
+eri
+ore
+s
+
+Su
+p
+
+lia
+çã
+o
+Av
+a
+Em
+
+Câ
+ma
+iv
+
+UF
+G
+
+Disciplinas de natureza obrigatória. . . . . . . . . . . . . . . . . . . . . .
+
+pe
+las
+
+
+Apresentação do projeto
+
+O curso de Bacharelado em Ciências da Computação (BCC) do Instituto de Informática
+(INF) foi criado em 1983, com a primeira turma ingressante em 1984, e reconhecido
+pela portaria 431 do Ministério de Educação (MEC) em 1988. É o curso de Computação
+mais antigo da Universidade Federal de Goiás (UFG). O BCC influenciou a criação dos
+cursos de bacharelado em Ciência Computação nos Campi de Catalão1 e de Jataí2 da
+UFG, os quais, posteriormente, se tornaram cursos independentes. Também serviu de
+base para a criação do Programa de Pós-Graduação do INF3 em 2004 e para criação
+em 2008 dos cursos de Bacharelado em Sistemas de Informação4 e de Bacharelado em
+Engenharia de Software5 do INF.
+Atualmente, o BCC conta com uma oferta regular de 80 vagas por ano, sendo 40 vagas no primeiro semestre e 40 vagas no segundo semestre. A forma de ingresso no curso
+é através do Sistema de Seleção Unificada (SISU) do Ministério da Educação (MEC). O
+curso tem obtido nota cinco no ENADE nas avaliações de 2008, 2011 e 2014 e nota quatro
+de Conceito Preliminar de Curso (CPC) do MEC em 2014.
+Este documento apresenta o novo Projeto Pedagógico de Curso do BCC. O documento faz a exposição dos objetivos do curso, dos princípios norteadores da profissão,
+perfil do egresso, a estrutura curricular, política de estágio, trabalho de conclusão de
+curso, integração entre ensino, pesquisa e extensão, as formas de avaliações adotadas
+no processo de ensino, além dos requisitos legais e normativos exigidos pelo MEC e
+orientados pela Pró-Reitoria de Graduação da UFG.
+O presente Projeto Pedagógico de Curso foi elaborado pelo Núcleo Docente Estruturante (NDE) do BCC, com a colaboração dos demais docentes do INF. Ele atualiza a
+O Curso de Bacharelado em Ciências da Computação da Regional Catalão foi criado através do processo No 23070.006295/95-80, Convênio No 18/96 entre a Prefeitura da Cidade de Catalão e a UFG.
+O Curso de Bacharelado em Ciências da Computação da Regional Jataí foi criado pela Resolução
+CONSUNI No 14/2007 datada em 01/06/2007.
+O Curso de Mestrado do INF foi criado pela Resolução CONSUNI No 007/2004 datada em
+29/10/2004.
+O Curso de Bacharelado em Sistemas de Informação do INF foi criado pela Resolução CONSUNI No
+22/2008 datada em 27/06/2008.
+O Curso de Bacharelado em Engenharia de Software do INF foi criado pela Resolução CONSUNI
+o
+N 10/2008 datada em 27/06/2008.
+
+visão pedagógica e finalística do curso, com maior ênfase na formação científica e no
+embasamento teórico, ao mesmo tempo em que conecta o curso às tendências modernas da Computação e às áreas de pesquisa acadêmica do INF. A estrutura curricular
+proposta neste PPC é composta por disciplinas específicas à formação em Ciência da
+Computação e por núcleos livres e disciplinas optativas que dão flexibilidade e forma-
+
+Resumo:
+
+UF
+G
+
+pe
+las
+
+ção aprofundada em áreas de interesse do aluno.
+
+2. Modalidade: Presencial.
+
+4. Grau acadêmico: Bacharelado.
+
+5. Título a ser conferido: Bacharel.
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+3. Nome do curso: Bacharelado em Ciências da Computação
+
+da
+
+1. Área de conhecimento: Ciências Exatas e da Terra.
+
+6. Habilitação, ênfase e/ou linhas de formação: Bacharel em Ciência da Computa-
+
+Av
+a
+
+ção.
+
+Em
+
+8. Carga horária do curso: 3.332 horas.
+
+ras
+
+9. Turno de funcionamento: integral.
+
+Su
+p
+
+7. Unidade responsável pelo curso: Instituto de Informática - INF.
+
+gundo
+
+Câ
+ma
+
+10. Número de vagas: 80 vagas anuais, sendo 40 no primeiro semestre e 40 no se-
+
+11. Duração do curso em semestres (quantidade mínima e máxima em conformidade com a Resolução CNE/CES No 02, de 18 de junho de 2007): o curso está
+organizado em 9 semestres (4 anos e meio), podendo ser concluído em um mínimo de 8 semestres (4 anos) e um máximo 17 semestres (8 anos e meio).
+12. Forma de ingresso ao curso: SISU.
+
+
+Exposição de motivos
+
+A necessidade de reformulação do Projeto Pedagógico de Curso do BCC teve sua origem em alguns pontos considerados muito importantes, os quais são apresentados a
+seguir.
+
+UF
+G
+
+• Necessidade de adequação do Projeto Pedagógico de Curso do BCC às Diretri-
+
+pe
+las
+
+zes Curriculares Nacionais (DCN) para os cursos de graduação em Computação
+
+aprovadas em 08 de Março de 2012 — o Parecer CNE/CES No 136/2012 do Ministério da Educação propõe carga horária mínima de 3.200 h para os cursos de
+
+da
+
+Bacharelado em Ciência da Computação e o projeto pedagógico em vigor, adotado desde 2008, define o total de 3008h, o que atendia ao Parecer CNE/CES No
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+8/2007, mas não atende ao novo parecer supracitado. Além disso, as referidas
+diretrizes indicam a necessidade de formação básica mais aprofundada em Matemática e em fundamentos de Computação para os cursos de bacharelado em
+Ciência da Computação, necessidades estas que o presente projeto visa atender.
+• Necessidade de adequação do conteúdo da Matriz Curricular aos conteúdos co-
+
+Av
+a
+
+brados no Exame Nacional de Desempenho dos Estudantes (ENADE). Em uma
+
+Su
+p
+
+análise detalhada, verificou-se a necessidade de modificação nas ementas das disciplinas da área de Matemática e Estatística que não contemplam conteúdos co-
+
+Em
+
+brados no ENADE. Além disso, existe a necessidade de inclusão da disciplina de
+
+Curricular.
+
+ras
+
+Interação Humano-Computador (IHC), que atualmente não faz parte da Matriz
+
+• Oportunidade de melhor definição do Perfil do Egresso de Ciência da Computa-
+
+Câ
+ma
+
+ção frente à nova conjuntura do INF, após o Programa de Reestruturação e Expansão das Universidades Federais (Reuni). O referido programa permitiu a criação
+de dois novos cursos no INF: Bacharelado em Engenharia de Software e Bacharelado em Sistemas de Informação. Com isso, surgiu a oportunidade de melhor
+adequar a Matriz Curricular e os Objetivos do Curso de Ciência da Computação ao perfil do egresso desejado (cientista da Computação), que inclui sólida
+formação em Computação e Matemática para contribuir com o desenvolvimento
+científico e tecnológico da Computação como atividade fim.
+• Adequação da Matriz Curricular com relação à iniciativa do INF de criar um Núcleo Básico Comum de disciplinas para os bacharelados em Ciência da Computa-
+
+UF
+G
+
+ção, Sistemas de Informação e Engenharia de Software. As Diretrizes Curriculares
+
+pe
+las
+
+Nacionais para os cursos de graduação em Computação definem um conjunto de
+
+conteúdos básicos comuns que todos os cursos da área de computação devem ter.
+Visando adequar os seus cursos a esse conjunto de conteúdos, o INF formou uma
+
+da
+
+comissão que definiu um conjunto de disciplinas básicas, denominado Núcleo
+Básico Comum, que os três cursos do Instituto deverão ter. Assim, também se
+
+a esse conjunto de disciplinas.
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+justifica a necessidade de reformulação para que a Matriz do BCC seja adequada
+
+• Atualização do curso frente às novas tendências na área de computação. Após
+uma análise detalhada na Matriz Curricular atual, foi verificada a necessidade de
+inserção de conteúdos relacionados a novas tendências na área de Computação,
+
+Av
+a
+
+como Processamento Paralelo e Interação Humano-Computador, dentre outros.
+
+Su
+p
+
+• Introdução de um elenco de disciplinas optativas na grade curricular do BCC. A
+inclusão de disciplinas optativas é uma reivindicação que tem sido feita pelos alu-
+
+Em
+
+nos do curso e que pode ser atendida atualmente graças ao renovado quadro de
+
+tação.
+
+ras
+
+docentes do INF com formação especializada em diferentes subáreas da Compu-
+
+Curso para o BCC.
+
+Câ
+ma
+
+Os motivos apresentados acima nortearam a elaboração do novo Projeto Pedagógico de
+
+
+Objetivos
+
+
+Objetivo geral
+
+O curso de BCC do INF tem por objetivo maior a formação de profissionais destina-
+
+UF
+G
+
+dos a acelerar o desenvolvimento do Brasil, auxiliando o país a superar os seus diversos problemas e a colocá-lo na vanguarda do desenvolvimento científico e tecnológico
+
+pe
+las
+
+por meio do avanço e da aplicação da Computação. Para tanto, o curso visa formar
+
+empreendedor.
+
+Objetivos específicos
+
+lia
+çã
+o
+
+
+da
+
+profissionais com sólidos conhecimentos em Computação, com visão crítica e espírito
+
+eri
+ore
+s
+
+• Formar competências abrangendo diversos aspectos da Computação através do
+estímulo ao desenvolvimento de habilidades teóricas e práticas.
+
+• Fomentar autodisciplina, independência, e iniciativa para execução de projetos e
+consecução de metas propostas, assim como para aprimoramento e renovação do
+
+Av
+a
+
+conhecimento de maneira autônoma e contínua.
+
+Su
+p
+
+• Incentivar o perfil investigativo e criativo do estudante para pesquisa, produção
+e difusão do conhecimento científico-tecnológico.
+
+Em
+
+• Desenvolver no estudante espírito crítico, empreendedor e de liderança, assim
+
+ras
+
+como capacidade de trabalho colaborativo e interdisciplinar.
+• Aprimorar a habilidade de comunicação oral e escrita e de leitura, inclusive de
+
+Câ
+ma
+
+textos na língua inglesa.
+
+• Estimular o engajamento do estudante no processo de ensino-aprendizagem.
+• Promover no estudante uma postura comprometida com a ética profissional, responsabilidade social e com o desenvolvimento do País.
+
+
+Princípios norteadores para a formação do profissional
+
+O Projeto Pedagógico procura enquadrar-se na atual Lei de Diretrizes e Bases da Educação Nacional (Lei No . 9394 de 20 de dezembro de 1996), e em particular no artigo 43
+que trata das finalidades da educação superior. Sendo assim, busca:
+
+UF
+G
+
+pe
+las
+
+• Estimular o desenvolvimento do espírito científico e do pensamento reflexivo.
+
+• Formar profissionais aptos para a participação no desenvolvimento da sociedade
+brasileira.
+
+tituem patrimônio da humanidade.
+
+da
+
+• Promover a divulgação de conhecimentos culturais, científicos e técnicos que cons-
+
+dade, em particular os nacionais e regionais.
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+• Estimular o gerenciamento das habilidades de administrar problemas da atuali-
+
+Este Projeto Pedagógico de Curso também leva em consideração as linhas gerais contidas na DCN para cursos de graduação em Computação mencionada anteriormente,
+
+Av
+a
+
+bem como os currículos de referência da Sociedade Brasileira de Computação (SBC)6
+de 2005 e da Association for Computer Machinery (ACM)7 de 2013 e a Portaria INEP
+
+Su
+p
+
+No 238, de 02/06/2014 que estabelece um conjunto de conteúdos, competências e habilidades esperados do aluno da área de Computação no ENADE. O presente Projeto
+
+Em
+
+Pedagógico está em conformidade com o Regulamento Geral dos Cursos de Graduação
+
+A prática profissional
+
+ras
+
+(RGCG) da UFG, aprovado pela Resolução CEPEC No 1122 de 09/11/2012.
+
+Câ
+ma
+
+O profissional com embasamento teórico, científico e tecnológico em Ciência da Computação deve ter condições de aplicar esse conhecimento na solução de problemas de
+diversas áreas e também de se adaptar profissionalmente à constante evolução de sua
+
+http://www.sbc.org.br/documentos-da-sbc/send/131-curriculos-de-referencia/760-curriculo-dereferencia-cc-ec-versao2005.
+
+própria área. O egresso do Curso pode prosseguir na vida acadêmica, através de programas de mestrado e doutorado, bem como atuar como pesquisador, participando de
+projetos de pesquisa científica e desenvolvimento tecnológico. As empresas que têm a
+Computação como atividade fim ou atividade meio constituem também área de atuação desse profissional. O egresso do curso de BCC pode atuar também como um
+
+UF
+G
+
+agente transformador do mercado, propondo novas tecnologias ou aperfeiçoando as
+
+pe
+las
+
+existentes, desenvolvendo projetos na área de Computação e Informática, ou atuando
+
+em cargos de gerência. Portanto, esse profissional está apto a atuar em diversos segmentos da sociedade pertinentes à Computação e à Informática. Podem atuar, ainda,
+
+da
+
+como docente em instituições de ensino, como servidor público em diversos cargos de
+
+eri
+ore
+s
+
+A formação técnica
+
+lia
+çã
+o
+
+nível superior, e como empresário e empreendedor do setor de Informática.
+
+A construção de uma sólida formação técnico-científica concede uma visão sistêmica e
+crítica ao Bacharel em Ciências da Computação egresso e permite sua atuação na fronteira do conhecimento para contribuir com o desenvolvimento científico e tecnológico
+
+Av
+a
+
+da Computação e com a sua aplicação no avanço de outras áreas. O egresso deve ser
+
+Su
+p
+
+capaz de se adaptar com facilidade às frequentes modificações tecnológicas, caracterizadas pelo dinamismo da área de Ciência da Computação.
+
+Em
+
+A formação técnica do Bacharel em Ciências da Computação é composta por uma
+base caracterizada por disciplinas científicas e conteúdos tecnológicos específicos.
+
+ras
+
+As disciplinas de base científica são organizadas de forma a abranger o conhecimento das matérias nas áreas de Matemática, Estatística, Física, Eletrônica, Metodolo-
+
+Câ
+ma
+
+gia Científica, Computação e Sociedade, e fundamentos de computação.
+As disciplinas de base tecnológica estão relacionadas ao estudo de matérias relativas
+à formação profissional em Engenharia de Software, Banco de Dados, Redes de Computadores, Inteligência Computacional, Processamento Gráfico, Interação HumanoComputador, Computação Aplicada, e Sistemas de Computação.
+
+A formação ética e a função social do profissional
+Durante o curso, o estudante deverá adquirir uma postura ética, aprendendo a trabalhar tanto individualmente quanto em equipe e entendo a importância de aplicar seus
+conhecimentos para o bem estar da sociedade, valorizando questões sociais, ambientais
+
+UF
+G
+
+e culturais, além de questões políticas e econômicas. O futuro bacharel será preparado
+
+pe
+las
+
+ainda para manter-se sempre atualizado e dominar novas tecnologias, assim como criar
+
+suas próprias soluções. Isto permitirá o desenvolvimento contínuo de soluções criativas
+e inovadoras, e a formação de um cidadão ético e consciente de suas responsabilidades.
+
+da
+
+Para tanto, através da disciplina Computação e Sociedade, o estudante irá desenvol-
+
+ver uma visão crítica sobre a importância da área e sobre o papel dos diversos profis-
+
+lia
+çã
+o
+
+sionais de Computação na sociedade. Serão discutidas as demandas de mercado, leis
+
+eri
+ore
+s
+
+e normas relacionadas à Computação, além de questões éticas, raciais, ambientais, de
+saúde e de inclusão digital. Outras questões relevantes incluem: propriedade intelectual, software proprietário, software livre, segurança e privacidade, saúde ocupacional,
+regulamentação da profissão, e códigos de ética profissional.
+
+As demais disciplinas também oferecem oportunidades para discutir a ética e a fun-
+
+Av
+a
+
+ção social do profissional. Além disso, o aluno poderá optar por disciplinas da área de
+
+Su
+p
+
+ciências humanas dentro do elenco de disciplinas de núcleo livre.
+
+Adicionalmente, as ações de extensão também devem contribuir para a formação
+
+Em
+
+ética e para a função social do profissional. Tais ações fazem parte de um processo
+educativo, cultural e científico que, integrado ao ensino e à pesquisa, permitem reforçar
+
+ras
+
+a interação sinérgica da universidade com a sociedade.
+Por fim, as atividades extracurriculares como a participação em palestras, conferên-
+
+Câ
+ma
+
+cias e congressos são indispensáveis para o amadurecimento do aluno e são incentivadas ao longo do curso. O ambiente universitário oferece ainda diversas oportunidades
+de relações interpessoais, permitindo a discussão de questões políticas, humanísticas,
+filosóficas e sociais significativas para a vivência do futuro profissional.
+
+A interdisciplinaridade
+As disciplinas de Metodologia Científica, Projeto de Final de Curso, assim como as
+várias disciplinas de Núcleo Livre contribuem para uma formação interdisciplinar e
+abrangente do aluno. Além disso, a participação sistemática em atividades comple-
+
+UF
+G
+
+mentares (palestras, conferências, seminários, cursos de curta duração) auxiliam na
+
+pe
+las
+
+construção de uma formação sociocultural abrangente.
+
+A interdisciplinaridade também está presente nas atividades de pesquisa relacio-
+
+nadas ao curso de Ciência da Computação. Muitas dessas pesquisas são aplicadas e
+
+e profissionais de outras áreas.
+
+da
+
+permitem que alunos de Iniciação Científica possam interagir com alunos, professores,
+
+lia
+çã
+o
+
+A Pós-graduação é outro elemento importante para a formação interdisciplinar do
+
+eri
+ore
+s
+
+profissional. Atualmente o Instituto de Informática oferece cursos de mestrado e doutorado em Ciência da Computação, os quais abrem espaço para o envolvimento de um
+grande número de alunos em diferentes projetos de médio e de longo prazos e com um
+vasto potencial temático de investigação. A oferta de cursos de especialização também
+é regular e tem reforçado a interação com o setor produtivo, gerando muitas oportuni-
+
+Su
+p
+
+Av
+a
+
+dades para os alunos em termos de estágio supervisionado.
+
+A articulação entre teoria e prática
+
+Em
+
+A prática permite o envolvimento do aluno com problemas reais, passando este a atuar
+como sujeito da produção de conhecimento. A articulação entre teoria e prática é con-
+
+ras
+
+siderada como componente curricular que se insere no contexto programático das diversas disciplinas, adequando-se às suas necessidades específicas. A sua viabilização
+
+Câ
+ma
+
+será efetivada por meio de oficinas, laboratórios, seminários e atividades de prática
+profissionais. Assim, as aulas práticas são indispensáveis para formação adequada do
+aluno, visto que os laboratórios retratam a realidade do ambiente em que o mesmo irá
+encontrar nas empresas.
+
+A prática também é considerada na participação do aluno nos projetos de pesquisa
+e de extensão do INF ou de outras unidades acadêmicas da UFG. Inclusive, tal par9
+ticipação, durante a formação do Bacharel em Ciências da Computação, é tida como
+essencial pelo INF e, portanto, altamente incentivada.
+Além dessas oportunidades, os alunos poderão conhecer a realidade de empresas
+da área através da realização de estágio supervisionado, o que permitirá aprofundar a
+
+Perfil do curso
+
+da
+
+Expectativa da formação do profissional
+
+pe
+las
+
+
+UF
+G
+
+relação teórico-prática.
+
+O curso de Bacharelado em Ciência da Computação fornece formação sólida em Com-
+
+lia
+çã
+o
+
+putação e Matemática de modo a desenvolver nos egressos forte capacidade de abstra-
+
+eri
+ore
+s
+
+ção, modelagem e simulação de sistemas computacionais. O curso prepara os alunos
+para ingressarem em programas de Pós-Graduação e para prosseguir com carreira científica ou acadêmica ou, por outro lado, para atuarem no mercado de trabalho.
+
+Av
+a
+
+Perfil do egresso
+
+O egresso deve ter formação sólida em Computação, com profundo conhecimento teó-
+
+Su
+p
+
+rico e prático. Ele deve atuar na fronteira do conhecimento para contribuir com o desenvolvimento científico e tecnológico da Computação e com a sua aplicação no avanço
+
+Em
+
+de outras áreas. O egresso deve ser capaz de se adaptar com facilidade às frequentes
+
+putação.
+
+Características gerais do egresso:
+
+ras
+
+modificações tecnológicas, caracterizadas pelo dinamismo da área de Ciência da Com-
+
+Câ
+ma
+
+• Ter profundo conhecimento dos Fundamentos da Computação e formação sólida
+em Matemática, de modo a lhe conferir forte capacidade de abstração, modelagem, gerência e simulação de sistemas. Deve ter consciência das limitações da
+computabilidade e ter conhecimento sobre complexidade de algoritmos para analisar soluções de problemas tratáveis computacionalmente.
+• Conhecer a estrutura dos sistemas de Computação e os processos envolvidos na
+sua construção e análise.
+• Possuir visão crítica e inovadora sobre soluções, métodos e sistemas computacionais.
+
+pe
+las
+
+nares.
+
+• Ser criativo e inovador com respeito às oportunidades de negócio;
+
+da
+
+• Ser capaz de se comunicar e desenvolver trabalhos em grupo.
+
+UF
+G
+
+• Possuir a capacidade de criar soluções para problemas complexos e multidiscipli-
+
+• Ter uma visão humanística e consistente sobre o impacto de sua atuação profis-
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+sional na sociedade. O egresso deve refletir sobre a construção de sistemas de
+Computação e entender como eles atingem direta ou indiretamente as pessoas,
+as organizações e o meio ambiente.
+Competências do egresso:
+
+Av
+a
+
+• Conhecer e aplicar fundamentos teóricos, científicos e tecnológicos relacionados
+
+Su
+p
+
+à área de computação;
+
+• Descrever a solução de problemas computacionais com o uso de algoritmos e em-
+
+Em
+
+basamento científico;
+
+complexidade;
+
+ras
+
+• Classificar problemas e propor soluções em função de sua computabilidade e
+
+Câ
+ma
+
+• Planejar, desenvolver e gerir projetos visando a construção de soluções com base
+científica e tecnológica, integrando os conhecimentos teóricos e práticos adquiridos ao longo de sua formação e utilizando metodologias que visem garantir
+critérios de qualidade ao longo de todas as etapas de desenvolvimento de uma
+solução computacional;
+
+• Desenvolver e implantar sistemas de comunicação de computadores;
+• Elaborar técnicas de representação, organização e armazenamento de dados;
+• Identificar e gerenciar os riscos que podem estar envolvidos na operação de equipamentos de computação (incluindo aspectos de dependabilidade e segurança);
+• Descobrir novas oportunidades para a aplicação e desenvolvimento de sistemas
+
+UF
+G
+
+computacionais;
+
+pe
+las
+
+• Empregar práticas apropriadas em um contexto ético, legal e profissional.
+
+Em termos gerais, o egresso poderá atuar profissionalmente em quaisquer ativida-
+
+da
+
+des correlatas, ou afins, à Ciência da Computação, pois o currículo deste curso visa
+
+ensinar o aluno a pensar por ele próprio, buscar, explorar com ética e senso crítico suas
+
+fissional dentro da sociedade.
+
+Habilidades do egresso:
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+próprias habilidades intelectuais, criativas e empreendedoras na sua intervenção pro-
+
+Av
+a
+
+• raciocínio lógico;
+
+• capacidade de abstração;
+
+Su
+p
+
+O profissional de Ciência da Computação deve possuir:
+
+Em
+
+• capacidade de síntese, de avaliação crítica e de análise;
+
+ras
+
+• capacidade de comunicação oral e escrita;
+
+• autodidaxia, ou seja, capacidade de aprender a aprender;
+
+putação;
+
+Câ
+ma
+
+• adaptabilidade crítica ao novo para acompanhar a evolução tecnológica da com-
+
+• criatividade para inovar nas soluções de problemas e influenciar no estado da
+arte;
+
+• pró-atividade; capacidade de exercer liderança e de trabalhar em grupo.
+
+
+Estrutura curricular
+
+Nesta seção é apresentada a estruturação geral do curso de BCC. As disciplinas estão
+organizadas em dois grupos, conforme suas naturezas sejam obrigatória ou optativa,
+
+ma
+Av
+ali
+ras
+a
+çã
+Su
+op
+pe
+ela
+rio
+res
+s
+da
+UF
+G
+
+conforme previsto no Regulamento Geral dos Cursos de Graduação da UFG.
+
+As disciplinas de natureza obrigatória estão ainda organizadas em três núcleos: núcleo comum, núcleo específico e núcleo livre. As disciplinas do núcleo comum são
+disciplinas que compõem o Núcleo Básico Comum e, portanto, ocorrem nos três cursos
+do INF. As disciplinas do núcleo específico dão especificidade à formação do bacharel
+em Ciência da Computação. As disciplinas do núcleo livre visam promover a interdisciplinaridade e a transdisciplinaridade, possibilitar o aprofundamento de estudo em
+áreas de interesse do aluno e viabilizar o intercâmbio entre alunos de diferentes cursos
+da UFG. Por essas razões, são disciplinas de livre escolha do aluno.
+
+As disciplinas de natureza optativa também representam oportunidades de escolha
+do aluno dentro da grade curricular, permitindo-lhe aprofundar seus estudos em um
+tópico específico ou ter contato com diversos assuntos na área. Portanto, não há a ideia
+de ênfase por áreas no Curso.
+
+
+Matriz curricular
+
+A Matriz curricular do curso de BCC está organizada em duas tabelas. A tabela 1 lista
+
+Em
+
+as disciplinas de natureza obrigatória, indicando as disciplinas que são do núcleo comum (NC), do núcleo específico (NE); as disciplinas atendem às diretrizes nacionais
+curriculares para os cursos de graduação Ciência da Computação — uma aula corresponde ao tempo de 60 minutos e o número de semanas por semestre é de 16. Na Tabela,
+constam ainda, a unidade da UFG responsável por cada disciplina, os relacionamentos
+
+Câ
+
+de pré-requisitos e correquisitos entre elas e as cargas horárias teóricas, práticas e total.
+
+Tabela 1: Disciplinas de natureza obrigatória.
+
+Disciplina
+
+Unid.
+Resp.
+IME
+
+02. Algoritmos e Estruturas de Dados 1
+
+INF
+
+03. Algoritmos e Estruturas de Dados 2
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+
+
+
+NC
+
+OBR
+
+
+
+
+
+NC
+
+OBR
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+04. Análise e Projeto de Algoritmos
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+05. Arquitetura de Computadores
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+06. Banco de Dados
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+
+
+
+NC
+
+OBR
+
+
+ma
+Av
+ali
+ras
+a
+çã
+Su
+op
+pe
+ela
+rio
+res
+s
+da
+UF
+G
+
+01. Álgebra Linear
+
+PréReq.
+
+C. H.
+Semestral
+Teo. Prat.
+
+IME
+IME
+
+
+
+
+
+NE
+
+OBR
+
+09. Cálculo Numérico
+
+IME
+
+
+
+
+
+NE
+
+OBR
+
+10. Circuitos Digitais
+
+EMC
+
+
+
+
+
+NE
+
+OBR
+
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+
+
+
+NC
+
+OBR
+
+12. Computação e Sociedade
+
+INF
+
+13. Computação Gráfica
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+14. Computação Paralela
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+15. Eletrônica para Computação
+
+EMC
+
+
+
+
+
+NE
+
+OBR
+
+16. Engenharia de Requisitos
+
+INF
+
+
+
+
+NE
+
+OBR
+
+17. Engenharia de Software
+
+INF
+
+
+
+
+NC
+
+OBR
+
+18. Equações Diferenciais Ordinárias
+
+IME
+
+
+
+
+
+NE
+
+OBR
+
+
+
+
+
+NE
+
+OBR
+
+19. Física III
+
+IF
+
+INF
+
+
+
+
+NC
+
+OBR
+
+21. Geometria Analítica
+
+IME
+
+
+
+
+NE
+
+OBR
+
+22. Inteligência Artificial
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+23. Interação Humano-Computador
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+24. Introdução à Computabilidade e à
+Complexidade Computacional
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+25. Introdução à Programação
+
+INF
+
+
+
+
+NC
+
+OBR
+
+26. Linguagens e Paradigmas de Programação
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+27. Linguagens Formais e Autômatos
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+28. Lógica Matemática
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+29. Matemática Discreta
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+30. Metodologia de Pesquisa em Computação
+
+INF
+
+
+
+
+NE
+
+OBR
+
+31. Pesquisa Operacional
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+32. Probabilidade e Estatística A
+
+IME
+
+
+
+
+
+NC
+
+OBR
+
+33. Programação Orientada a Objetos
+
+INF
+
+
+
+
+
+NC
+
+OBR
+
+Câ
+
+Em
+
+20. Fundamentos de Matemática para
+Computação
+
+Disciplinas de natureza obrigatória – Continuação
+
+Disciplina
+
+Unid.
+Resp.
+
+PréReq.
+
+34. Projeto de Software
+
+INF
+
+
+35. Projeto Final de Curso 1
+
+INF
+
+36. Projeto Final de Curso 2
+
+INF
+
+37. Redes de Computadores 1
+
+INF
+
+38. Redes de Computadores 2
+
+INF
+
+39. Sistemas Distribuídos
+
+C. H.
+Semestral
+Teo. Prat.
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+
+
+NC
+
+OBR
+
+
+
+
+NE
+
+OBR
+
+
+
+
+NE
+
+OBR
+
+
+
+
+NE
+
+OBR
+
+
+
+
+
+NE
+
+OBR
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+40. Sistemas Gerenciadores de Banco de
+Dados
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+41. Sistemas Operacionais
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+42. Software Básico
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+INF
+
+
+
+
+
+NE
+
+OBR
+
+ma
+Av
+ali
+ras
+a
+çã
+Su
+op
+pe
+ela
+rio
+res
+s
+da
+UF
+G
+
+
+43. Teoria dos Grafos
+
+
+O aluno deve cursar obrigatoriamente quatro disciplinas optativas durante o Curso.
+A tabela 2 lista as disciplinas optativas, a unidade responsável pelas disciplinas, os
+relacionamentos de pré-requisitos entre elas e suas cargas horárias.
+
+A disciplina Tópicos em Computação (linha 72 da tabela 2) é uma disciplina optativa, de tema e bibliografias variáveis cujo objetivo é o de dar ao curso e aos seus
+professores flexibilidade para ministrarem novos conteúdos que possam surgir devido
+à grande dinamicidade da área de Computação.
+
+Em
+
+Tabela 2: Disciplinas de natureza optativa.
+
+Disciplina
+
+Unid.
+Resp.
+
+PréReq.
+
+C. H.
+Semestral
+Teo. Prat.
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+45. Armazém de Dados
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+46. Avaliação de Desempenho de Sistemas Computacionais
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+47. Banco de Dados Distribuídos
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+48. Computação Evolucionária
+
+INF
+
+
+
+
+NE
+
+OPT
+
+49. Computação Móvel e Ubíqua
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+50. Computação Verde
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+Câ
+
+44. Aprendizagem de Máquina e Mineração de Dados
+
+Disciplinas de natureza optativa – Continuação
+
+Disciplina
+
+Unid.
+Resp.
+
+PréReq.
+
+C. H.
+Semestral
+Teo. Prat.
+
+C.H.
+Total
+
+Núc.
+
+Nat.
+
+
+
+
+
+NE
+
+OPT
+
+52. Desenvolvimento de Software Dirigido por Modelos
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+53. Empreendedorismo Digital
+
+INF
+
+
+
+
+NE
+
+OPT
+
+54. Engenharia de Sistemas
+
+INF
+
+
+
+
+NE
+
+OPT
+
+55. Engenharia de Software Baseada em
+Busca
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+IF
+
+
+
+
+
+NE
+
+OPT
+
+
+NE
+
+OPT
+
+
+NE
+
+OPT
+
+
+NE
+
+OPT
+
+
+
+
+58. Integração de Dados
+
+INF
+
+
+
+
+59. Introdução à Língua Brasileira de Sinais
+
+FL
+
+
+
+60. Introdução à Teoria das Provas
+
+INF
+
+
+61. Introdução à Teoria dos Tipos
+
+INF
+
+
+62. Jogos Digitais
+
+INF
+
+
+INF
+
+
+
+Av
+a
+
+64. Metodologia e Experimentação em
+Engenharia de Software
+
+INF
+
+eri
+ore
+s
+
+INF
+
+lia
+çã
+o
+
+57. Fundamentos da Programação Lógica e Funcional
+
+da
+
+56. Física I
+
+UF
+G
+
+INF
+
+pe
+las
+
+51. Desenvolvimento de Sistemas para
+Web
+
+
+
+
+NE
+
+OPT
+
+
+
+
+NE
+
+OPT
+
+
+
+
+NE
+
+OPT
+
+
+
+
+NE
+
+OPT
+
+
+
+
+NE
+
+OPT
+
+
+
+
+
+NE
+
+OPT
+
+66. Processamento Digital de Imagens
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+67. Recuperação de Informação
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+68. Redes Neuronais Artificiais
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+69. Segurança e Auditoria de Sistemas
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+70. Sistemas Multiagentes
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+71. Tópicos Avançados em Redes Sem
+Fio
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+72. Tópicos em Computação
+
+INF
+
+
+
+NE
+
+OPT
+
+INF
+
+
+
+
+NE
+
+OPT
+
+
+74. Verificação Formal de Programas
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+75. Visão Robótica
+
+ras
+
+Su
+p
+
+INF
+
+Em
+
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+76. Visualização de Informações
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+77. Web Semântica
+
+INF
+
+
+
+
+
+NE
+
+OPT
+
+Câ
+ma
+
+73. Tópicos em Teste de Software
+
+Carga Horária
+
+Percentual
+
+Núcleo Comum (NC)
+
+
+
+Núcleo Específico Obrigatório
+
+
+
+Núcleo Livre
+
+
+
+Disciplinas Optativas
+
+
+
+Atividades Complementares
+
+
+
+Carga Horária Total
+
+
+
+pe
+las
+
+Componentes Curriculares
+
+UF
+G
+
+Tabela 3: Quadro resumo da carga horária
+
+A tabela 3 apresenta um resumo da carga horária das disciplinas obrigatórias, por
+
+núcleo, bem como, das disciplinas optativas e das atividades complementares. A ta-
+
+Componentes curriculares
+
+eri
+ore
+s
+
+
+lia
+çã
+o
+
+curricular.
+
+da
+
+bela apresenta também a porcentagem da carga horária dedicada a cada componente
+
+As ementas das disciplinas de natureza obrigatória e optativa são apresentadas nesta
+seção. As bibliografias básica e complementar das disciplinas obrigatórias e optativas
+
+Ementas das disciplinas obrigatórias do núcleo comum
+
+Ementa
+
+Em
+
+ÁLGEBRA LINEAR
+
+Su
+p
+
+
+Av
+a
+
+são descritas no apêndice A.
+
+Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores
+
+ras
+
+e autovetores. Espaços com produto interno.
+
+Ementa
+
+Câ
+ma
+
+ALGORITMOS E ESTRUTURAS DE DADOS 1
+
+Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de
+pesquisa: pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de
+dados. Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares).
+Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simples17
+mente encadeadas, duplamente encadeadas e circulares).
+
+ALGORITMOS E ESTRUTURAS DE DADOS 2
+
+Ementa
+
+UF
+G
+
+Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps,
+
+pe
+las
+
+Heapsort. Hashing: tipos de funções de hashing; tratamento de colisões. Definições
+
+lia
+çã
+o
+
+ANÁLISE E PROJETO DE ALGORITMOS
+
+Ementa
+
+eri
+ore
+s
+
+grafos.
+
+da
+
+de Grafos. Estruturas de Dados para representação de grafos. Algoritmos básicos em
+
+Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos, técnicas de prova de cotas inferiores. Corretude de Algoritmos. Exemplos de análise de algoritmos. Técnicas de projeto de algoritmos: di-
+
+Ementa
+
+Em
+
+ARQUITETURA DE COMPUTADORES
+
+Su
+p
+
+Completude.
+
+Av
+a
+
+vidir para conquistar, programação dinâmica, algoritmos gulosos. Introdução à NP-
+
+ras
+
+Visão geral dos computadores modernos. Evolução da arquitetura dos computadores.
+Memória e representação da dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de programação em linguagem de montagem.
+
+Câ
+ma
+
+Dispositivos de entrada e saída. Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Introdução a arquiteturas
+paralelas e métricas de desempenho.
+
+BANCO DE DADOS
+
+Ementa
+Conceitos básicos de Banco de Dados. Modelo relacional. Linguagens para Banco de
+Dados: álgebra relacional, cálculo relacional e SQL. Modelo Entidade-Relacionamento
+
+
+Ementa
+
+UF
+G
+
+pe
+las
+
+e extensões. Mapeamento ER-relacional. Normalização.
+
+Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cô-
+
+COMPUTAÇÃO E SOCIEDADE
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Técnicas de Integração. Integrais impróprias. Aplicações.
+
+da
+
+nicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais.
+
+História da computação. Estudo e análise de casos de aplicação de computadores na
+
+Av
+a
+
+sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares.
+Importância e desafios da computação no Brasil e no mundo. Cursos de computação
+
+Su
+p
+
+e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado,
+organizações e associações na área, regulamentação da profissão. Leis e normas rela-
+
+Em
+
+cionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital
+
+mação. Incubadoras de empresas.
+
+Ementa
+
+Câ
+ma
+
+ENGENHARIA DE SOFTWARE
+
+ras
+
+relacionadas à Computação. Ética na Computação. Empresas de tecnologia da infor-
+
+Requisitos de software. Projeto (design) de software. Construção de software. Teste de
+software. Manutenção de software. Gerência de configuração de software. Gerência
+de projeto de software. Processo de engenharia de software. Modelos e métodos de
+engenharia de software. Qualidade de software. Prática profissional de engenharia de
+software. Economia para engenharia de software. Fundamentos de engenharia.
+
+FUNDAMENTOS DE MATEMÁTICA PARA COMPUTAÇÃO
+
+Ementa
+
+UF
+G
+
+Noções de lógica, Introdução a demonstrações, Indução matemática, Recursividade e
+Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e
+
+Ementa
+
+da
+
+INTERAÇÃO HUMANO-COMPUTADOR
+
+pe
+las
+
+Funções. Representações numéricas e Mudança de base numérica.
+
+lia
+çã
+o
+
+Aspectos gerais sobre interação humano-computador. Características humanísticas e
+
+eri
+ore
+s
+
+biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e
+culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre
+outros. Ciclo da interação e principais problemas. Metas de usabilidade e experiência
+do usuário. Fatores humanos em software interativo: teoria, princípios e regras básicas.
+
+Av
+a
+
+Modelos conceituais e metáforas. Estilos de interação. Elementos de interação (menus,
+formulários, manipulação direta e outros). Voz, linguagem natural, sons, páginas Web.
+
+Su
+p
+
+Padrões para interface. Localização e internacionalização. Princípios de projeto de interfaces humano-computador. Métodos de projeto de interação. Projeto visual (cores,
+
+Em
+
+ícones, fontes e outros). Tempo de resposta e retroalimentação. Dispositivos de interação. Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes
+
+ras
+
+realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros.
+
+Câ
+ma
+
+Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.
+
+INTRODUÇÃO À PROGRAMAÇÃO
+
+Ementa
+
+Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados
+primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de
+decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e hete20
+rogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções;
+passagens de parâmetros por valor e por referência, recursividade. Manipulação de
+arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos
+para uma linguagem de programação. Domínio de uma linguagem de programação:
+
+UF
+G
+
+sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvol-
+
+pe
+las
+
+vimento de programas; estilo de codificação; documentação de código; técnicas de de-
+
+LINGUAGENS E PARADIGMAS DE PROGRAMAÇÃO
+
+Ementa
+
+da
+
+puração e técnicas de profiling; desenvolvimento e uso de bibliotecas.
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script. Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de
+linguagens de acordo com as especificidades dos domínios de aplicação. Descrição de
+sintaxe e semântica. Estudo sobre tipos de dados, estruturas de controle, ambientes de
+
+Ementa
+
+Em
+
+LÓGICA MATEMÁTICA
+
+Su
+p
+
+Av
+a
+
+execução, variáveis, expressões e subprogramas em linguagens de programação.
+
+Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequência.
+
+ras
+
+Correção e Completamento. Aplicações em Computação.
+
+Ementa
+
+Câ
+ma
+
+PROBABILIDADE E ESTATÍSTICA A
+
+Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos.
+Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa,
+fundamentos de probabilidade, probabilidade condicional, eventos independentes e
+teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distri21
+buições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual
+e intervalar para uma população: média e proporção. Teste de hipóteses para uma po-
+
+UF
+G
+
+pulação: média e proporção. Correlação linear e regressão linear simples.
+
+PROGRAMAÇÃO ORIENTADA A OBJETOS
+
+pe
+las
+
+Ementa
+
+Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, interface.
+Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo. Uso de
+
+Ementa
+
+eri
+ore
+s
+
+PROJETO DE SOFTWARE
+
+lia
+çã
+o
+
+orientado a objetos.
+
+da
+
+uma linguagem orientada a objetos. Noções de UML. Noções de padrões de projeto
+
+Fundamentos de design de software. Questões básicas de design de software: concorrên-
+
+Av
+a
+
+cia, controle e tratamento de eventos, persistência de dados, distribuição, tratamento de
+erro e exceção, tolerância a falhas, interação e apresentação, e segurança. Estrutura e
+
+Su
+p
+
+arquitetura de software. Projeto de interface de usuário. Análise de qualidade e avaliação de design de software. Notação de design de software. Métodos e estratégias de
+
+ras
+
+Ementas das disciplinas obrigatórias do núcleo específico
+
+
+Ementa
+
+Câ
+ma
+
+
+Em
+
+design de software. Ferramentas de design de software.
+
+Sequências e séries numéricas. Séries de potência, convergência. Funções de várias
+variáveis. Limite e Continuidade. Noções sobre quádricas. Funções diferenciáveis.
+Derivadas parciais e direcionais. Polinômio de Taylor. Máximos e mínimos. Integrais
+
+múltiplas. Mudança de Coordenadas. Aplicações.
+
+CÁLCULO NUMÉRICO
+
+Ementa
+
+UF
+G
+
+Cálculo de raízes de equações. Resolução de sistemas lineares, métodos diretos e méto-
+
+CIRCUITOS DIGITAIS
+
+Ementa
+
+da
+
+pe
+las
+
+dos iterativos. Interpolação e integração. Resolução numérica de equações diferenciais.
+
+Álgebra booleana e portas lógicas. Introdução a Circuitos Combinacionais, Circuitos
+
+lia
+çã
+o
+
+Seqüenciais e Famílias Lógicas de Circuitos Integrados. Técnicas de minimização e
+
+eri
+ore
+s
+
+síntese de Circuitos Combinacionais e Circuitos Seqüenciais. Conversores AnalógicoDigitais e Digitais-Analógicos. Dispositivos de memória.
+
+Ementa
+
+Av
+a
+
+COMPILADORES
+
+A estrutura de um compilador. Análises léxica e sintática. Definições dirigidas por
+
+Su
+p
+
+sintaxe e análise semântica. Organização da tabela de símbolos. Representação intermediária do programa-fonte. Geração do código-objeto da compilação. Introdução à
+
+COMPUTAÇÃO GRÁFICA
+
+Ementa
+
+ras
+
+Em
+
+otimização do código-objeto. Implementação de um compilador.
+
+Câ
+ma
+
+Origem e objetivos da Computação Gráfica. Dispositivos Vetoriais x Matriciais. Dispositivos de entrada e saída. Sistemas e equipamentos gráficos. Algoritmos para conversão matricial e preenchimento de primitivas gráficas. Transformações geométricas
+bi-dimensionais e tri-dimensionais. Transformações de projeção paralela e perspectiva.
+Recorte e seleção bi-dimensional. Curvas e Superfícies. Representação e Modelagem;
+
+Modelos de cor. Visualização tridimensional: iluminação, eliminação de linhas superfícies escondidas, modelos de tonalização (“shading”). Aplicação de texturas. Animação. Noções de processamento digital de imagens.
+
+UF
+G
+
+COMPUTAÇÃO PARALELA
+
+Ementa
+
+pe
+las
+
+Fundamentos da computação paralela. Classificação de computadores. Métricas de
+avaliação de desempenho de programas paralelos. Projeto e análise de algoritmos para-
+
+ELETRÔNICA PARA COMPUTAÇÃO
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+memória distribuída.
+
+da
+
+lelos. Programação paralela com memória compartilhada. Programação paralela com
+
+Elementos de circuitos elétricos. Grandezas de corrente e tensão elétrica. Leis de Kirchhoff. Métodos de análise de circuitos resistivos. Teoremas de circuitos. Capacitor
+
+Av
+a
+
+e indutor como elemento de circuito. Análise de circuitos elétricos em regime permanente senoidal com fasores e operador de Laplace (’s’). Amplificadores Operacionais:
+
+Su
+p
+
+Circuitos básicos. Junção PN. Diodos. Transistor Bipolar de Junção (TBJ). Transistor de
+
+Em
+
+Efeito de Campo (FET e MOSFET). Fontes Reguladas.
+
+Ementa
+
+ras
+
+ENGENHARIA DE REQUISITOS
+
+Definição de Engenharia de Requisitos (ER). Perspectivas. Definição e Tipos de Requi-
+
+Câ
+ma
+
+sitos. Processo de ER. Ferramentas para apoio a ER. Normas e padrões aplicados a ER.
+
+EQUAÇÕES DIFERENCIAIS ORDINÁRIAS
+
+Ementa
+
+Equações diferenciais ordinárias de primeira ordem lineares e não lineares. Sistemas li-
+
+neares de equações diferenciais ordinárias. Equações diferenciais ordinárias de ordem
+superior. Aplicações.
+
+FÍSICA III
+
+UF
+G
+
+Ementa
+Carga elétrica e campo elétrico. Lei de Gauss. Potencial elétrico. Capacitância e dielé-
+
+pe
+las
+
+tricos. Corrente e circuitos elétricos. Campo magnético e força magnética. Fontes de
+
+GEOMETRIA ANALÍTICA
+
+lia
+çã
+o
+
+Ementa
+
+da
+
+campo magnético. Indução eletromagnética. Indutância. Corrente alternada.
+
+eri
+ore
+s
+
+Matrizes. Determinantes. Sistemas lineares. Vetores. Retas e planos. Curvas. Cônicas.
+Superfícies cônicas e cilíndricas. Superfícies quádricas.
+
+Ementa
+
+Av
+a
+
+INTELIGÊNCIA ARTIFICIAL
+
+Visão geral da Inteligência Artificial e suas aplicações. Representação do conhecimento.
+
+Su
+p
+
+Resolução de problemas por meio de buscas. Incerteza. Lógica Fuzzy. Aprendizado
+
+Em
+
+de máquina. Aplicações práticas utilizando técnicas de Inteligência Artificial.
+
+Ementa
+
+ras
+
+INTRODUÇÃO À COMPUTABILIDADE E À COMPLEXIDADE COMPUTACIONAL
+
+Noções de computabilidade efetiva. Modelos de computação. Tese de Church-Turing.
+
+Câ
+ma
+
+Decidibilidade. Redutibilidade. Problemas indecidíveis. Complexidade de tempo.
+Complexidade de Espaço. Teoremas de incompletude de Gödel.
+
+LINGUAGENS FORMAIS E AUTÔMATOS
+
+Ementa
+
+Conceitos básicos de linguagens. Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres de contexto
+e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais pro-
+
+UF
+G
+
+priedades. Hierarquia de Chomsky.
+
+MATEMÁTICA DISCRETA
+
+pe
+las
+
+Ementa
+
+Conjuntos: finito, infinito, enumerável, cardinalidade. Técnica de diagonalização. Tó-
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+METODOLOGIA DE PESQUISA EM COMPUTAÇÃO
+
+da
+
+picos em teoria dos números. Estruturas algébricas e criptografia.
+
+Estilos de pesquisa em Computação. Preparação de um trabalho de pesquisa. Escrita
+do trabalho científico. Apresentação oral do trabalho científico. Apresentação de pro-
+
+Av
+a
+
+gramas de Iniciação Científica.
+
+Ementa
+
+Su
+p
+
+PESQUISA OPERACIONAL
+
+Modelagem. Problema de Programação Linear (PL). Resolução gráfica de PL. Algo-
+
+Ementa
+
+Câ
+ma
+
+PROJETO FINAL DE CURSO 1
+
+ras
+
+sibilidade.
+
+Em
+
+ritmo Simplex. Dualidade. Algoritmo Simplex-Dual. Pós-otimização e Análise de Sen-
+
+Desenvolvimento do projeto acompanhado por professor orientador. Tem como finalidade dar experiência adquiridos durante o curso.
+
+PROJETO FINAL DE CURSO 2
+
+Ementa
+Desenvolvimento do projeto acompanhado por professor orientador. Tem como finali-
+
+UF
+G
+
+dade dar experiência adquiridos durante o curso.
+
+REDES DE COMPUTADORES 1
+
+pe
+las
+
+Ementa
+
+Fundamentos. Arquitetura de Redes TCP/IP (Internet). Camadas de Aplicação, Trans-
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+REDES DE COMPUTADORES 2
+
+da
+
+porte, Rede, Enlace e Física. Estudo de Caso de Tópicos Emergentes em Redes.
+
+Redes sem fio e redes móveis. Redes definidas por software. Virtualização em redes.
+Avaliação de desempenho em redes. Gerenciamento de redes. Tópicos recentes de pes-
+
+Av
+a
+
+quisa em redes.
+
+Ementa
+
+Su
+p
+
+SISTEMAS DISTRIBUÍDOS
+
+Conceitos fundamentais de sistemas distribuídos, caracterização de sistemas de com-
+
+Em
+
+putação distribuída e aplicações distribuídas (características e aspectos de projeto). Ob-
+
+ras
+
+jetivos básicos de sistemas distribuídos (transparência, abertura, escalabilidade, etc).
+Princípios e aplicações dos principais modelos de sistemas distribuídos: sistemas clienteservidor e sistemas peer-to- peer. Fundamentos de sistemas distribuídos (processos,
+
+Câ
+ma
+
+sincronização, RPC/RMI, comunicação em grupo, comunicação indireta). Objetos distribuídos. Web services. Serviços de sistemas distribuídos: serviços de nomes, serviços
+de descoberta, compartilhamento de recursos etc. Principais tecnologias, padrões e plataformas de middleware, e seu uso como suporte para o desenvolvimento de aplicações
+em ambientes distribuídos abertos. Algoritmos distribuídos: relógios lógicos, estado
+global, coordenação, consenso, exclusão mútua e eleição. Transações distribuídas, re27
+plicação e tolerância a falhas em sistemas distribuídos. Tópicos avançados em Sistemas
+Distribuídos.
+
+SISTEMAS GERENCIADORES DE BANCOS DE DADOS
+
+UF
+G
+
+Ementa
+Arquitetura. Técnicas de Armazenamento. Indexação. Processamento e Otimização
+
+rança.
+
+SISTEMAS OPERACIONAIS
+
+lia
+çã
+o
+
+Ementa
+
+da
+
+pe
+las
+
+de Consultas. Transações, Controle de Concorrência e Recuperação após Falhas. Segu-
+
+eri
+ore
+s
+
+Gerenciamento de processos. Gerenciamento de memória. Sistemas de arquivos. Processamento de entrada/saída. Virtualização. Sistemas multiprocessados.
+
+Ementa
+
+Av
+a
+
+SOFTWARE BÁSICO
+
+Visão geral de um sistema computacional. Linguagem de montagem. Mapeamento de
+
+Su
+p
+
+estruturas de linguagens de alto nível para a linguagem Assembly. Pilha de execução
+
+Em
+
+e modelo de chamadas de função. Interrupções e seus tipos. "Link-edição"e bibliotecas.
+
+Ementa
+
+ras
+
+TEORIA DOS GRAFOS
+
+Noções e notações básicas de grafos. Árvores. Conectividade. Coloração. Emparelha-
+
+Câ
+ma
+
+mento. Conjuntos dominantes. Planaridade. Algoritmos de busca e aplicações. Algoritmos do menor caminho. Grafos Eulerianos e Hamiltonianos. Fluxo em redes. Grafos
+Infinitos.
+
+
+Ementas das disciplinas optativas
+
+APRENDIZAGEM DE MÁQUINA E MINERAÇÃO DE DADOS
+
+Ementa
+Conceitos básicos em Aprendizado de Máquina e Mineração de Dados. Preparação de
+
+ARMAZÉM DE DADOS
+
+Ementa
+
+UF
+G
+
+pe
+las
+
+dados. Modelos preditivos. Modelos descritivos. Avaliação de modelos.
+
+lia
+çã
+o
+
+Estudos de Caso. Consultas. Implementação.
+
+da
+
+Conceitos básicos em Data Warehouse. Arquitetura. Projeto conceitual. Projeto lógico.
+
+Ementa
+
+eri
+ore
+s
+
+AVALIAÇÃO DE DESEMPENHO DE SISTEMAS COMPUTACIONAIS
+
+Pilares da avaliação de desempenho. Modelagem analítica. Medições. Simulação. Conceitos básicos de desempenho. Leis Operacionais de desempenho. Redes de filas aber-
+
+Av
+a
+
+tas e fechadas e suas soluções. Planejamento de capacidade. Noções de Teoria de Filas.
+
+Ementa
+
+Em
+
+BANCO DE DADOS DISTRIBUÍDOS
+
+Su
+p
+
+Aplicação em sistemas de computação e comunicação.
+
+ras
+
+Conceitos básicos em banco de dados distribuídos. Arquitetura. Projeto de banco de
+dados distribuído. Processamento de consultas distribuídas. Processamento de tran-
+
+Câ
+ma
+
+sações distribuídas. Replicação de Dados. Sistemas de banco de dados paralelos.
+
+COMPUTAÇÃO EVOLUCIONÁRIA
+
+Ementa
+
+Conceito. Histórico. Os principais paradigmas e algoritmos. Projeto de algoritmo. Algoritmos Genéticos e aplicações da Computação Evolucionária.
+COMPUTAÇÃO MÓVEL E UBÍQUA
+
+Ementa
+Computação móvel e ubíqua: conceitos, principais características, internet das coisas,
+smart spaces, sensibilidade a contexto,tecnologias de comunicação e desafios. Platafor-
+
+UF
+G
+
+mas de desenvolvimento móvel e modelos de negócio para comercialização. Projeto de
+
+pe
+las
+
+aplicações móveis: macro e micro arquitetura, padrões de interface com usuário, persistência de dados, segurança, privacidade e comunicação. Programação de aplicações
+
+Ementa
+
+eri
+ore
+s
+
+COMPUTAÇÃO VERDE
+
+lia
+çã
+o
+
+ções móveis.
+
+da
+
+móveis: middlewares, frameworks e sensores. Prática em desenvolvimento de aplica-
+
+Introdução a eficiência energética em computação. Eficiência energética em redes de
+comunicação. Modelos de consumo energético. Algoritmos e protocolos energeticamente eficientes. Tópicos e pesquisas emergentes em computação verde. Estudo de
+
+Su
+p
+
+Av
+a
+
+caso através de simulação e ambiente real.
+
+Ementa
+
+Em
+
+DESENVOLVIMENTO DE SISTEMAS PARA WEB
+
+Abordagens, técnicas, tecnologias e ferramentas para desenvolvimento de sistemas de
+
+Câ
+ma
+
+de sistemas.
+
+ras
+
+informação para web tendo em consideração todo o ciclo de vida do desenvolvimento
+
+DESENVOLVIMENTO DE SOFTWARE DIRIGIDO POR MODELOS
+
+Ementa
+
+Apresentar os conceitos fundamentais relacionados ao desenvolvimento de software
+dirigido por modelos (DSDM), incluindo abstração, modelagem, meta-modelagem, geração automática de código por meio de transformações, transformações modelo-para30
+modelo, transformações modelo-para-texto, transformações texto-para-texto, gramáticas e árvores de sintaxe abstrata, técnicas e ferramentas de apoio às atividades fundamentais do método de DSDM, técnicas de desenvolvimento de Linguagens Específicas
+
+UF
+G
+
+de Domínio (LED).
+
+EMPREENDEDORISMO DIGITAL
+
+pe
+las
+
+Ementa
+
+O perfil e as habilidades do empreendedor. Estudo de mecanismos e procedimentos
+para ideação, validação e lançamento de uma empresa digital no mercado. Montagem
+
+da
+
+e gerenciamento de equipe. Constituição, tributação e legalização de empresa. Inovação tecnológica na geração de novos produtos e negócios. Marketing e competitividade.
+
+sos.
+
+ENGENHARIA DE SISTEMAS
+
+Av
+a
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Escala e avaliação de desempenho. Financiamento de empresas digitais. Análise de Ca-
+
+Fundamentos de engenharia: métodos empíricos e técnicas experimentais. Análise es-
+
+Su
+p
+
+tatística; medição. Design. Modelagem, prototipação e simulação. Normas e padrões.
+Análise de causa raiz. Fundamentos de sistemas: taxonomias de sistema; sistemas
+
+Em
+
+de engenharia (sistemas produzidos por engenharia - engineered systems). Sistemas
+intensivos em software (software-intensive systems). Sistemas de sistemas. Comple-
+
+ras
+
+xidade de sistemas. Propriedades emergentes. Princípios do pensamento sistêmico.
+Representação de sistemas por modelos. Engenharia de Sistemas: abordagens e me-
+
+Câ
+ma
+
+todologias. Partes interessadas (stakeholders) e suas necessidades. Ciclo de vida de
+sistemas de engenharia (concepção, conceitos operacionais, design, validação de design, construção, validação de construção, implantação, sustentação e descontinuação).
+Processos do ciclo de vida de sistemas (negociação, preparação para projeto organizacional, gestão técnica, processos técnicos). Qualidade de processo.
+
+ENGENHARIA DE SOFTWARE BASEADA EM BUSCA
+
+Ementa
+Engenharia de Software Baseada em Busca. Problemas de Busca. Meta-heurísticas.
+Aplicações de SBSE em teste de Software, planejamento, manutenção, segurança e per-
+
+FÍSICA I
+
+Ementa
+
+UF
+G
+
+pe
+las
+
+formance.
+
+Unidades, grandezas físicas e vetores. Cinemática da partícula. Leis de Newton do
+
+da
+
+movimento. Trabalho e energia cinética. Energia potencial e conservação da energia.
+Momento linear, impulso e colisões. Cinemática da rotação. Dinâmica da rotação de
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+corpos rígidos. Equilíbrio e elasticidade.
+
+FUNDAMENTOS DA PROGRAMAÇÃO LÓGICA E FUNCIONAL
+
+Ementa
+
+Av
+a
+
+Princípio de resolução. Unificação de primeira ordem. Teorema do ponto fixo. Resolução SLD, correção e completitude. Funções recursivamente computáveis. Noções de
+
+Su
+p
+
+teoria de reescrita. Cálculo Lambda e reescrita de ordem superior (computabilidade
+via reescrita). Confluência e Terminação. Ordens Noetherianas. Algoritmo de comple-
+
+INTEGRAÇÃO DE DADOS
+
+Ementa
+
+ras
+
+Em
+
+tamento de Knuth-Bendix, correção e completitude.
+
+Câ
+ma
+
+Conceitos fundamentais em integração de dados. Arquiteturas de sistemas de integração de dados. Descrição de fontes de dados. Processamento de consultas. Similaridade
+textual. Pareamento e mapeamento de esquemas. Identificação e eliminação de dados
+duplicados. Tópicos emergentes em integração de dados.
+
+INTRODUÇÃO À LÍNGUA BRASILEIRA DE SINAIS
+
+Ementa
+Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares. Concepções sobre a Língua de Sinais.
+
+Ementa
+
+UF
+G
+
+INTRODUÇÃO À TEORIA DAS PROVAS
+
+pe
+las
+
+O surdo e a sociedade.
+
+Provas como objetos matemáticos e o programa de Hilbert. Estrutura geral de provas
+
+da
+
+matemáticas. Teorias de tipos simples. Sistemas de deduçao natural. Sistemas de dedução de Hilbert. Relações entre lógicas clássica, intuicionista e minimal. Sistemas de
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+dedução à la Gentzen (cálculo de sequentes). Equivalência entre sistemas de dedução.
+Regras estruturais. Regra de corte e eliminação. Tamanho de provas e limites para eliminação da regra de corte. Estrutura de provas normais. Normalização nos sistemas
+
+Av
+a
+
+de dedução natural e à la Gentzen.
+
+Ementa
+
+Su
+p
+
+INTRODUÇÃO À TEORIA DOS TIPOS
+
+O cálculo lambda livre de tipos. Definição de tipos à la Curry e à la Church. O isomor-
+
+Em
+
+fismo de Curry-Howard: correspondência entre verificação de tipos e dedução lógica.
+
+Ementa
+
+Câ
+ma
+
+JOGOS DIGITAIS
+
+ras
+
+Os problemas de inferência e de existência de habitantes de tipos.
+
+Conceitos fundamentais de jogos, Storyboard, Mecânica de Jogos, game engines, ambientação e animação em jogos. Aplicação de técnicas de apresentação dos jogos. Deploy de
+jogos em plataformas. Noções de Mercado e tendências tecnológicas para jogos.
+
+META-HEURÍSTICAS
+
+Ementa
+Introdução a heurísticas e meta-heurísticas. Algoritmos Gulosos. Busca Local. Busca
+
+METODOLOGIA E EXPERIMENTAÇÃO EM ENGENHARIA DE SOFTWARE
+
+pe
+las
+
+Ementa
+
+UF
+G
+
+Populacional. Hiper-heurísticas.
+
+Metodologia Científica: aplicação de metodologia científica em atividades de Engenharia de Software. Fundamentos da Engenharia de Software Experimental: contexto da
+
+da
+
+experimentação na Engenharia de Software, principais tipos de experimentos aplicados à Engenharia de Software, estudos primários e secundários, revisão e mapeamento
+
+Ementa
+
+eri
+ore
+s
+
+MICROCONTROLADORES
+
+lia
+çã
+o
+
+sistemático da literatura. Realização de Experimentos em Engenharia de Software.
+
+Av
+a
+
+Introdução e histórico. Famílias de microcontroladores. Arquiteturas de microcontroladores. Elementos de um microcontrolador. Registradores de controle, de estado e de
+
+Su
+p
+
+funções especiais. Programação de microcontroladores. Temporizadores e contadores.
+Interrupções. Interfaceamento eletrônico. Dispositivos de Memória. Protocolos de co-
+
+ras
+
+Em
+
+municação. Aplicações.
+
+PROCESSAMENTO DIGITAL DE IMAGENS
+
+Ementa
+
+Câ
+ma
+
+Origem e Objetivos do processamento de imagens. Fundamentos de visão computacional e seu relacionamento com a visão humana. Dispositivos e formas de aquisição
+de imagens. Amostragem e Quantização. Sistemas de cores. Técnicas de modificação
+de escala de cinza. Suavização. Aguçamento de bordas. Transformada no domínio da
+frequência: Fourier. Restauração de imagens. Segmentação de imagens. Extração de
+características e noções de descrição e representação. Reconhecimento de padrões vi34
+suais.
+
+RECUPERAÇÃO DE INFORMAÇÃO
+
+Ementa
+
+UF
+G
+
+Algoritmos e técnicas de Construção de máquinas de busca: representação de vocabulários, técnicas de construção e compressão de índices, processamento de consultas,
+
+pe
+las
+
+avaliação em recuperação de informação, modelos de linguagem, máquinas de busca
+para a Web. Algoritmos e heurísticas para mineração de informações: classificação de
+
+REDES NEURONAIS ARTIFICIAIS
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Informação.
+
+da
+
+textos, agrupamento (clustering) de textos. Tópicos de pesquisa em Recuperação de
+
+Conceitos básicos. Redes em camadas com aprendizagem supervisionada. Redes re-
+
+Av
+a
+
+correntes e de processamento temporal. Redes auto-organizáveis. Aplicações.
+
+Ementa
+
+Su
+p
+
+SEGURANÇA E AUDITORIA DE SISTEMAS
+
+Auditoria de sistemas. Políticas de segurança. Classificação das informações. Normas
+
+Em
+
+de segurança. Ética em segurança da informação. Segurança de sistemas. Ameaças
+
+ras
+
+e Ataques. Vulnerabilidades em softwares, serviços e protocolos. Aspectos especiais:
+vírus, fraudes, criptografia, acesso não autorizado. Engenharia Social. Tópicos Emer-
+
+Câ
+ma
+
+gentes em Segurança.
+
+SISTEMAS MULTIAGENTES
+
+Ementa
+
+Introdução à Inteligência Artificial e Agentes Inteligentes. Arquiteturas para construção de Sistemas Multiagentes (SMA). Comunicação e cooperação em SMA. Tomada de
+
+Decisão em SMA.
+
+TÓPICOS AVANÇADOS EM REDES SEM FIO
+
+Ementa
+
+UF
+G
+
+Introduzir conceitos atuais, tendências e desafios de pesquisa em redes sem fio. Estudar
+e explorar as novas aplicações e cenários onde o emprego de rede sem fio é recente (obje-
+
+pe
+las
+
+tivos básicos, características e desafios). Estudar e compreender algumas das principais
+
+tecnologias de redes sem fio atuais e futuristas (principalmente soluções desenvolvidas
+nas camadas Física, de Enlace e de Rede). Estudar e aplicar métodos de avaliação de
+
+da
+
+desempenho através de ferramentas usadas para simular/emular redes sem fio, como
+também alguns ambientes de testes disponíveis para uso público com objetivo de ava-
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+liar abordagens propostas para redes sem fio em um ambiente mais realista. Empregar
+técnicas/conceitos de metodologia científica para elaboração/identificação de problemas, escrita de artigos e apresentação de trabalhos.
+
+Ementa
+
+Av
+a
+
+TÓPICOS EM COMPUTAÇÃO
+
+ras
+
+Ementa
+
+Em
+
+TÓPICOS EM TESTE DE SOFTWARE
+
+Su
+p
+
+Tópico variável em Ciência da Computação segundo tendências atuais na área.
+
+Fundamentos Teóricos. Teste Funcional. Teste estrutural. Análise de Mutantes. Oficina
+
+Câ
+ma
+
+em teste de software: experimentação e análise empírica.
+
+VERIFICAÇÃO FORMAL DE PROGRAMAS
+
+Ementa
+
+Sistemas de Dedução Natural para Lógicas Proposicional e de Predicados. Lambdacalculus com tipos simples. Isomorfismo de Curry-Howard-de Bruijn. Extração de có-
+
+digo. Tipos Indutivos. Polimorfismo. Produtos Dependentes. Definições Impredicativas. Definições Indutivas. Objetos e Provas Infinitos. Coindução. Subtipos. Checagem
+de Tipos. Normalização. Provas por reflexão.
+
+UF
+G
+
+VISÃO ROBÓTICA
+
+Ementa
+
+pe
+las
+
+Processo de formação de imagens. Transformações 2D e 3D. Modelos de câmeras. Ge-
+
+ometria de câmeras. Calibração de câmeras. Filtragem, segmentação e extração de ca-
+
+Ementa
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+VISUALIZAÇÃO DE INFORMAÇÕES
+
+da
+
+racterísticas. Visão estéreo. Rastreamento em vídeo.
+
+Definições, história, modelos e categorias de visualizações de informação. Semiótica
+e percepção visual. Expressividade e efetividade de visualizações. Interação com o
+usuário. Exemplos de técnicas de visualização de informações. Metodologias para de-
+
+Av
+a
+
+senvolvimento de uma visualização de informação. Avaliação de visualizações. Ten-
+
+Ementa
+
+Em
+
+WEB SEMÂNTICA
+
+Su
+p
+
+dências futuras na área.
+
+ras
+
+Fundamentos e arquitetura da Web Semântica. Linguagens e/ou padrões para especificação de caracteres, localização, sintaxe, estrutura e semântica de informação. Onto-
+
+Câ
+ma
+
+logias. Framework para programação de aplicações para Web Semântica.
+
+
+Sugestão de fluxo curricular
+
+NÚCLEO
+
+
+
+Obrigatória
+
+Comum
+
+Computação e Sociedade
+
+
+Obrigatória
+
+Comum
+
+Fundamentos de Matemática para Computação
+
+
+Obrigatória
+
+Comum
+
+Introdução à Programação
+
+
+Obrigatória
+
+Comum
+
+
+TOTAL GERAL
+
+
+TOTAL PERÍODO
+
+Algoritmos e Estruturas de Dados 1
+Física III
+Geometria Analítica
+
+
+Obrigatória
+
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Específico
+
+TOTAL GERAL
+
+
+
+Lógica Matemática
+
+
+Metodologia de Pesquisa em Computação
+
+
+
+Algoritmos e Estruturas de Dados 2
+
+Em
+
+Eletrônica para Computação
+
+Câ
+ma
+
+TOTAL PERÍODO
+
+
+NÚCLEO
+Comum
+
+Específico
+
+CHT NATUREZA
+
+NÚCLEO
+
+
+Obrigatória
+
+Comum
+
+
+Obrigatória
+
+Comum
+
+
+Obrigatória
+
+Específico
+
+
+Obrigatória
+
+Específico
+
+
+Obrigatória
+
+Comum
+
+
+TOTAL GERAL
+
+
+ras
+
+Matemática Discreta
+
+Probabilidade e Estatística A
+
+
+Su
+p
+
+Av
+a
+
+TOTAL PERÍODO
+
+Álgebra Linear
+
+Obrigatória
+
+lia
+çã
+o
+
+
+DISCIPLINA
+
+
+CHT NATUREZA
+
+eri
+ore
+s
+
+DISCIPLINA
+
+da
+
+
+UF
+G
+
+CHT NATUREZA
+
+pe
+las
+
+DISCIPLINA
+CHT NATUREZA
+
+NÚCLEO
+
+Circuitos Digitais
+
+
+Obrigatória
+
+Específico
+
+Equações Diferenciais Ordinárias
+
+
+Obrigatória
+
+Específico
+
+Pesquisa Operacional
+
+
+Obrigatória
+
+Específico
+
+Programação Orientada a Objetos
+
+
+Obrigatória
+
+Comum
+
+Teoria dos Grafos
+
+
+Obrigatória
+
+Específico
+
+
+TOTAL GERAL
+
+
+pe
+las
+
+TOTAL PERÍODO
+
+UF
+G
+
+DISCIPLINA
+
+
+CHT NATUREZA
+
+NÚCLEO
+
+
+Obrigatória
+
+
+Obrigatória
+
+
+Obrigatória
+
+da
+
+DISCIPLINA
+
+Linguagens Formais e Autômatos
+
+
+Obrigatória
+
+Específico
+
+Software Básico
+
+
+Obrigatória
+
+Específico
+
+TOTAL GERAL
+
+
+Arquitetura de Computadores
+
+lia
+çã
+o
+
+Cálculo Numérico
+
+
+
+Comum
+
+Específico
+
+CHT NATUREZA
+
+NÚCLEO
+
+
+Obrigatória
+
+Comum
+
+
+Obrigatória
+
+Comum
+
+Introdução à Computabilidade e Complexidade Computacional
+
+
+Obrigatória
+
+Específico
+
+Linguagens e Paradigmas de Programação
+
+
+Obrigatória
+
+Comum
+
+
+Obrigatória
+
+Específico
+
+TOTAL GERAL
+
+
+Banco de Dados
+
+Em
+
+Engenharia de Software
+
+ras
+
+Sistemas Operacionais
+
+Su
+p
+
+DISCIPLINA
+
+Av
+a
+
+TOTAL PERÍODO
+
+Comum
+
+eri
+ore
+s
+
+Análise e Projeto de Algoritmos
+
+Câ
+ma
+
+TOTAL PERÍODO
+
+
+NÚCLEO
+
+Compiladores
+
+
+Obrigatória
+
+Específico
+
+Computação Gráfica
+
+
+Obrigatória
+
+Específico
+
+Engenharia de Requisitos
+
+
+Obrigatória
+
+Específico
+
+
+
+Optativa
+
+Específico
+
+Sistemas Gerenciadores de Banco de Dados
+
+
+Obrigatório
+
+Específico
+
+Redes de Computadores 1
+
+
+Obrigatório
+
+Específico
+
+
+TOTAL GERAL
+
+
+CHT NATUREZA
+
+Projeto de Software
+Redes de Computadores 2
+Sistemas Distribuídos
+
+Obrigatória
+
+
+Optativa
+
+Específico
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Específico
+
+Obrigatório
+
+Específico
+
+Obrigatório
+
+Específico
+
+TOTAL GERAL
+
+
+
+Em
+
+Projeto Final de Curso 2
+
+CHT NATUREZA
+
+NÚCLEO
+
+
+Obrigatório
+
+Específico
+
+
+Obrigatória
+
+Comum
+
+
+Optativa
+
+Específico
+
+
+Optativa
+
+Específico
+
+
+Obrigatório
+
+Específico
+
+
+TOTAL GERAL
+
+
+ras
+
+Interação Humano-Computador
+
+Específico
+
+
+Computação Paralela
+
+
+Su
+p
+
+Av
+a
+
+TOTAL PERÍODO
+
+DISCIPLINA
+
+
+Projeto Final de Curso 1
+
+NÚCLEO
+
+eri
+ore
+s
+
+Inteligência Artificial
+
+lia
+çã
+o
+
+DISCIPLINA
+
+
+da
+
+TOTAL PERÍODO
+
+UF
+G
+
+CHT NATUREZA
+
+pe
+las
+
+DISCIPLINA
+
+Câ
+ma
+
+TOTAL PERÍODO
+
+
+Introdução à
+Programação
+
+Fundamentos de
+Matemática para
+Computação
+
+Cálculo 1 A
+
+
+Algoritmos e
+Estruturas de
+
+Lógica
+Matemática
+
+Cálculo 2 A
+
+Geometria
+Analítica
+
+
+
+Algoritmos e
+Estruturas de
+
+Matemática
+Discreta
+
+Probabilidade e
+Estatística A
+
+Álgebra Linear
+
+Eletrônica para
+Computação
+
+
+Programação
+Orientada a
+Objetos
+
+Circuitos
+Digitais
+
+Teoria dos
+Grafos
+
+Pesquisa
+Operacional
+
+Equações
+Diferenciais
+Ordinárias
+
+
+Software Básico
+
+Análise e Projeto
+de Algoritmos
+
+Arquitetura de
+Computadores
+
+Linguagens
+Formais e
+Autômatos
+
+Cálculo
+Numérico
+
+
+Engenharia de
+Software
+
+Linguagens e
+Paradigmas de
+Programação
+
+Sistemas
+Operacionais
+
+Introdução à
+Computabilidade
+e Complexidade
+
+Banco de Dados
+
+
+Engenharia de
+Requisitos
+
+
+Compiladores
+
+Computação
+Gráfica
+
+Sistemas
+Gerenciadores
+de Banco de
+Dados
+
+
+Projeto de
+Software
+
+Inteligência
+Artificial
+
+
+Projeto Final de
+
+Sistemas
+Distribuídos
+
+Redes de
+
+Iteração
+Humano
+Computador
+
+
+Projeto Final de
+
+Computação
+Paralela
+
+
+Optativas
+
+UF
+G
+
+Metodologia de
+Pesquisa em
+Computação
+
+da
+
+pe
+las
+
+Núcleo Especifico
+
+eri
+ore
+s
+
+Núcleo Comum
+
+lia
+çã
+o
+
+
+Computação e
+Sociedade
+
+Redes de
+
+Av
+a
+
+Figura 1: Matriz de disciplinas e seus pré-requisitos.
+
+
+Atividades complementares
+
+Su
+p
+
+Representação gráfica da sugestão de fluxo curricular
+
+Em
+
+
+ras
+
+As atividades complementares estão presentes nas estruturas curriculares dos cursos
+de graduação do INF, sendo regulamentadas em resolução específica do Conselho Diretor do Instituto.
+
+Câ
+ma
+
+As atividades complementares são ações pedagógicas que visam ao enriquecimento
+da vivência acadêmica do aluno, ao aprofundamento de temáticas desenvolvidas no
+curso e à sua formação complementar. Definidas como obrigatórias na resolução supracitada, as atividades complementares incluem, dentre outras, atividades de monitoria,
+representação estudantil, qualificação, publicação e apresentação de trabalhos científicos e participação em projetos de pesquisa e de extensão e cultura.
+A carga horária das atividades complementares é de, no mínimo, 100 (cem) horas
+para efeito de integralização curricular no curso de BCC.
+O cômputo da carga horária de cada atividade complementar deverá observar o proposto em resolução específica e seus anexos. Para fins de aproveitamento, os respectivos comprovantes das atividades complementares deverão ser entregues por meio de
+
+Política e gestão de estágio curricular
+
+da
+
+
+pe
+las
+
+graduação do INF.
+
+UF
+G
+
+sistema de gestão acadêmica ou segundo orientações das coordenações de cursos de
+
+O estágio curricular constitui-se em um mecanismo de aperfeiçoamento dos conhe-
+
+lia
+çã
+o
+
+cimentos adquiridos pelo aluno durante o curso de graduação e tem caráter teórico-
+
+eri
+ore
+s
+
+prático com o objetivo principal de proporcionar aos alunos a vivência da realidade
+profissional, através de experiências técnico-científicas, culturais e de relacionamento
+humano.
+
+O estágio curricular é de caráter não obrigatório. No entanto, caso o aluno deseje
+
+Av
+a
+
+realizá-lo, o mesmo poderá fazê-lo a partir do 3º período, desde que tenha cumprido
+448 (quatrocentos e quarenta e oito horas) da carga horária do curso. A carga horária
+
+Su
+p
+
+semanal do estágio deverá ser compatível com as atividades acadêmicas do aluno, observando que a carga horária do estágio não poderá exceder a 6 (seis) horas/diárias,
+
+Em
+
+perfazendo o total de 30 (trinta) horas/semanais.
+
+ras
+
+O estágio poderá ser realizado somente em empresas devidamente conveniadas com
+a UFG ou utilizar-se de agentes de integração conveniados. Além disso, é preciso ter
+um supervisor no local de estágio e um professor do curso como orientador. Todas
+
+Câ
+ma
+
+as informações sobre o estágio estão disponíveis no Caderno de Estágio que consta no
+Regulamento de Estágio do BCC.
+
+
+Trabalho de conclusão de curso
+
+No presente projeto pedagógico, a formação do aluno de Ciência da Computação exige
+o desenvolvimento de um trabalho acadêmico, denominado Trabalho de Conclusão de
+Curso (TCC), que visa complementar a diversidade da formação educacional. O TCC
+
+UF
+G
+
+é o mecanismo que permite avaliação final e interdisciplinar do aluno, com o exercício
+
+pe
+las
+
+das competências adquiridas no curso, a partir da pesquisa e desenvolvimento teórico
+de temas ligados à computação e da integralização da computação com outras áreas do
+conhecimento.
+
+da
+
+Na matriz curricular do curso de Ciência da Computação, o TCC é desenvolvido
+
+durante as disciplinas de Projeto Final de Curso 1 (PFC1) e Projeto Final de Curso 2
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+(PFC2). As disciplinas de PFC têm como objetivo prover meios para:
+
+• o desenvolvimento de projeto na área de Ciência da Computação;
+• o desenvolvimento da capacidade criativa do aluno;
+
+• estimular a originalidade e a implementação de ideias empreendedoras;
+
+Su
+p
+
+nos;
+
+Av
+a
+
+• valorizar as atividades de pesquisa e as habilidades de análise e síntese dos alu-
+
+Em
+
+• resolver problemas reais com o uso da Computação;
+
+ras
+
+• solidificar conhecimentos técnicos e científicos adquiridos durante o curso.
+Para atingir esses objetivos, o aluno pode optar por diversas temas de TCC, tais
+como: projeto de pesquisa, revisão bibliográfica do estado da arte de um tema de pes-
+
+Câ
+ma
+
+quisa, desenvolvimento de software, modelagem e simulação computacional, teste e validação empírica de modelos teóricos, aplicação da computação para a solução de problemas interdisciplinares e multidisciplinares, entre outros.
+Os temas abordados no PFC podem ser desenvolvidos com base em projetos de
+pesquisa, demandas oriundas de empresas, organizações ou da sociedade, assuntos de
+interesse do aluno e/ou orientador. Dentro desta perspectiva espera-se que o aluno
+tenha a oportunidade de produzir conhecimento e aplicar conceitos teóricos em problemas reais.
+O resultado é uma monografia contendo todo o processo de pesquisa, análise e desenvolvimento realizado no contexto da disciplina. Eventualmente o projeto pode ser
+desenvolvido em cooperação com órgão ou entidade externa ao INF. O PFC é regula-
+
+UF
+G
+
+
+pe
+las
+
+mentado em norma específica do INF.
+
+Integração ensino, pesquisa e extensão
+
+da
+
+A promoção da integração entre ensino, pesquisa e extensão, incluindo, neste contexto,
+a integração entre a graduação e a pós-graduação, é um dos pilares do presente projeto
+
+lia
+çã
+o
+
+pedagógico. Essa integração é realizada através de diversas de atividades curriculares
+
+eri
+ore
+s
+
+e extracurriculares oferecidas durante o curso. A seguir, as principais atividades de
+Pesquisa, Pós-Graduação e Extensão desenvolvidas no INF/UFG são descritas, com
+
+
+Pesquisa
+
+Av
+a
+
+destaque para os elementos de integração das mesmas com a graduação.
+
+Su
+p
+
+Os estudantes são estimulados a se engajar em atividades de pesquisa já na primeira
+metade curso. Neste contexto, a disciplina Metodologia de Pesquisa em Computação
+
+Em
+
+tem como objetivos, além do ensino de técnicas e métodos de pesquisa científica, a apresentação dos programas e projetos institucionais de pesquisas e a divulgação de vagas
+
+ras
+
+para participar dos mesmos. No âmbito do INF, existem vários grupos de pesquisa
+ativos e certificados pelo CNPq, que atuam em diversas áreas da Computação. Muitos
+dos projetos de pesquisa vigentes contam com auxílio financeiro de agências executo-
+
+Câ
+ma
+
+ras de políticas de C&T&I, como CNPq, FINEP e FAPEG, e envolvem também alunos
+de pós-graduação. A infraestrutura física para pesquisa inclui 4 (quatro) laboratórios
+plenamente equipados e um data center administrado pelo Núcleo de Recursos Computacionais (NRC/INF) para hospedagem de servidores de dados e processamento de
+alto desempenho.
+
+Apoiando as atividades de pesquisa, a UFG oferece ainda os programas de Iniciação
+Científica e de Desenvolvimento Tecnológico e Inovação, através da sua Pró-Reitoria de
+Pesquisa e Inovação, com a possibilidade de que os alunos concorram a bolsas. Anualmente, é realizado o Seminário de Iniciação Científica no escopo do Congresso de
+Pesquisa, Ensino e Extensão (CONPEEX), no qual são realizadas apresentações dos tra-
+
+UF
+G
+
+balhos de iniciação científica.
+
+pe
+las
+
+As disciplinas optativas do BCC, as quais se concentram nos semestres finais do
+
+curso, podem ser ministradas por professores pesquisadores em temáticas inovadoras,
+permitindo assim que os alunos desenvolvam o interesse e se aprofundem em ativi-
+
+da
+
+dades de pesquisa. Isso culmina, ao final do bacharelado, no Trabalho de Conclusão
+de Curso (TCC), realizado através de duas disciplinas denominadas Projeto Final de
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+Curso 1 e Projeto Final de Curso2 (PFC1 e PFC2), sob orientação de um professor. É
+incentivado que o TCC seja baseado nas atividades desenvolvidas em um projeto de
+pesquisa.
+
+
+Pós-Graduação
+
+Av
+a
+
+O INF possui dois programas de pós-graduação stricto sensu em Ciência da Computa-
+
+Su
+p
+
+ção: um em nível de mestrado e o outro de doutorado, sendo este último em parceria
+com a Universidade Federal do Mato Grosso do Sul. Os dois programas estão consoli-
+
+Em
+
+dados, ambos com conceito 4 (quatro) pela avaliação da CAPES. O corpo de docentes
+permanentes no mestrado é formado por 34 (trinta e quatro) professores e, no douto-
+
+ras
+
+rado, por 16 (dezesseis) professores, dos quais 12 (doze) são do INF. Até junho de 2016,
+
+doutorado.
+
+Câ
+ma
+
+foram realizadas 163 (cento e sessenta e três) defesas de mestrado e 6 (seis) defesas de
+
+A integração de alunos de graduação com as atividades de pós-graduação ocorre
+de maneira intensa no escopo dos grupos de pesquisa, através dos projetos de Iniciação Científica e no desenvolvimento de TCCs realizados em colaboração com alunos de
+pós-graduação. O resultado dessa integração pode ser comprovado no número crescente de produções científicas com a participação de alunos de graduação. Além disso,
+os alunos de graduação podem participar de palestras científicas, realizadas no escopo
+da pós-graduação, para aproveitamento de créditos em atividades complementares.
+Neste contexto, a estrutura curricular dos cursos de mestrado e doutorado incluem a
+disciplina obrigatória de Seminários, realizada de maneira conjugada entre os cursos,
+na qual são ministradas diversas palestras por alunos, professores e pesquisadores con-
+
+UF
+G
+
+vidados.
+
+pe
+las
+
+Como incentivo à continuação da formação acadêmica superior, os alunos no último
+
+ano do curso podem pleitar uma vaga de aluno especial em disciplina ofertada pelo
+
+programa de mestrado. Uma vez autorizada a inscrição, se a disciplina for concluída
+
+da
+
+satisfatoriamente e, posteriormente, o aluno for aprovado no mestrado, ele poderá pleitar o aproveitamento de créditos de acordo com as normas específicas da resolução da
+
+Extensão
+
+eri
+ore
+s
+
+
+lia
+çã
+o
+
+pós-graduação stricto sensu.
+
+O INF desenvolve regularmente uma variedade de atividades de Extensão Universitária. Essas iniciativas são fundamentais para que o Instituto possa alicerçar-se nas
+
+Av
+a
+
+prioridades locais, regionais e nacionais e potencializar a disseminação das pesquisas e
+
+Su
+p
+
+do conhecimento acumulado para a sociedade. A graduação é um componente fundamental dessas atividades. Destaca-se, neste contexto, três projetos de extensão de longo
+
+Em
+
+prazo que contam com ampla participação de alunos de graduação: a OBI (Olimpíada
+Brasileira de Informática)8 , a Maratona de Programação9 e o Apoema10 . Estes projetos
+
+ras
+
+promovem a aproximação da Universidade com o ensino médio e fundamental (a OBI),
+com alunos de graduação e pós-graduação de outras instituições de ensino superior na-
+
+Câ
+ma
+
+cionais e internacionais (a Maratona de Programação) e com empresas de inovação (via
+o Apoema), respectivamente.
+
+www.inf.ufg.br/obi
+http://www.inf.ufg.br/maratona
+http://apoema.inf.ufg.br
+
+
+Metodologias de ensino e aprendizagem
+
+O curso de BCC cobre diversos conteúdos, sendo alguns deles fortemente teóricos, enquanto outros possuem com enfoque mais prático. Assim, é importante que haja flexibilidade a fim de que o professor possa adotar a metodologia de ensino e de aprendiza-
+
+UF
+G
+
+gem mais adequada à disciplina e ao contexto da aula. No entanto, alguns procedimen-
+
+pe
+las
+
+tos mínimos são aqui padronizados, além daqueles determinados pelas resoluções da
+UFG, de forma a obter um melhor comprometimento e aproveitamento do aluno frente
+à meta de tornar-se um profissional altamente qualificado:
+
+lia
+çã
+o
+
+ções e aos assuntos das demais disciplinas;
+
+da
+
+• o conteúdo ministrado deve, sempre que possível, ser conectado às suas aplica-
+
+eri
+ore
+s
+
+• deve ser apresentada uma visão histórica da evolução do conteúdo a ser aprendido, bem como as tendências futuras de desenvolvimento do mesmo, de modo
+que o aluno possa contextualizar a subárea em estudo e perceber novas oportunidades de investigação científica; nesse último aspecto, é importante que o pro-
+
+Av
+a
+
+fessor faça o vínculo da disciplina com a pesquisa científica, discutindo com os
+alunos linhas de investigação recentes sobre o tema;
+
+Su
+p
+
+• os alunos devem ser orientados sobre formas efetivas de estudar o conteúdo e
+sobre o tempo semanal extraclasse mínimo que, em geral, devem reservar para
+
+Em
+
+tanto;
+
+ras
+
+• devem ser passadas continuamente atividades práticas (a serem realizadas em
+sala de aula ou extraclasse) que exijam que o aluno se aprofunde no conteúdo visto
+
+Câ
+ma
+
+na aula e que elabore suas próprias soluções para os problemas apresentados;
+• recursos atuais de apoio ao ensino/aprendizado, como ambientes virtuais de aprendizado, redes sociais, vídeo aulas e sistemas computacionais de simulação, podem e devem ser utilizados para promover o maior acesso do aluno ao conhecimento e motivar o seu envolvimento com a disciplina, com o professor e com os
+demais colegas de turma.
+
+O docente, neste processo, deverá utilizar, além do conhecimento específico, um conhecimento pedagógico-didático que o possibilite organizar o programa da disciplina
+para partilhá-lo de maneira sistemática e motivante com os alunos. O planejamento
+pedagógico semestral do curso compreenderá atividades para auxiliar os docentes a
+adquirirem a formação necessária para tal finalidade.
+
+UF
+G
+
+O sistema de avaliação do processo de ensino e de aprendizagem deve ser contínuo,
+
+pe
+las
+
+atual e transparente, possibilitando ao aluno e ao docente constatarem dificuldades de
+
+aprendizado e promoverem meios para saná-las em tempo hábil. A avaliação do aluno
+
+poderá ser realizada na forma de provas, trabalhos, seminários, relatórios ou outros
+
+da
+
+modos de produção acadêmica escrita, oral, prática ou audiovisual, segundo o Regulamento Geral dos Cursos de Graduação da UFG. Ela deve, contudo, focar na verificação
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+da capacidade do aluno em aplicar o conteúdo aprendido para a resolução de problemas e para a construção de novas soluções, o que tem mais chances de demonstrar um
+aprendizado efetivo do que a mera replicação de conhecimento.
+
+Sistema de avaliação do projeto de curso
+
+Av
+a
+
+
+A avaliação do curso é realizada regularmente, e em conformidade com a Política de
+
+Su
+p
+
+Avaliação Institucional. A UFG mantém sua Avaliação Institucional, através da Comissão Própria de Avaliação (CPA), que reuni dados relativos às disciplinas, professores,
+
+Em
+
+autoavaliações de alunos, Coordenação de Curso, infraestrutura, responsabilidade so-
+
+ras
+
+cial, entre outros. Semestralmente, os professores do curso se reúnem para a Semana de
+Planejamento Pedagógico, prevista no Calendário Acadêmico da UFG. Nesta ocasião,
+
+questões apontadas.
+
+Câ
+ma
+
+o NDE lidera a análise destes dados e produz um relatório que dá encaminhamento às
+
+A avaliação interna considera o desenvolvimento das atividades de ensino, pesquisa
+e extensão no espaço universitário, bem como as relações entre as áreas. A avaliação externa leva em conta informações via formulário Web de profissionais da área, ex-alunos
+e comunidade em geral, assim como resultados da participações discentes no ENADE e
+
+Poscomp (exame nacional para a Pós-Graduação na Computação). Os mecanismos de
+avaliação interna e externa favorecem oportunidades de avaliação crítica do curso de
+BCC e da própria Universidade, a fim de identificar os avanços ou possíveis deficiências
+no tocante a sua oferta para a comunidade local e regional.
+
+da unidade acadêmica
+
+UF
+G
+
+Política de qualificação docente e técnico-administrativo
+
+pe
+las
+
+
+da
+
+Desde a sua criação, o INF apoia a capacitação do seu corpo docente, a qual inclui a
+meta de que todos os docentes tenham a titulação mínima de doutor. De fato, a libe-
+
+lia
+çã
+o
+
+ração de docentes para prosseguirem os seus estudos de pós-graduação é uma prática
+
+eri
+ore
+s
+
+comum, em consequência, nenhum pedido para afastamento com o propósito de realizar o doutorado foi negado até o momento. Essa política é acrescentada de regras
+institucionalizadas para a concessão de afastamento para o pós-doutorado e de licença
+para capacitação.
+
+A qualificação de docentes do INF também pode ser obtida pela sua participação em
+
+Av
+a
+
+congressos, simpósios, dentre outros eventos, quer seja nos papéis de autor de artigo,
+
+Su
+p
+
+organizador de evento, membro de comitê de programa ou avaliador de artigo. O INF
+ainda financia ou co-financia viagens e inscrições de seus docentes em congressos e
+
+Em
+
+simpósios importantes, principalmente quando há publicação de artigo.
+Em harmonia com a política de capacitação docente, o INF é favorável ao apri-
+
+ras
+
+moramento e à capacitação de seu corpo técnico-administrativo em Educação (TAE).
+Normalmente, os TAEs fazem solicitação ao diretor do INF que lança as intenções de
+
+Câ
+ma
+
+afastamento no plano anual de capacitação, que deve ser aprovado no Conselho Diretor do INF, haja vista que é do seu interesse fomentar a especialização e capacitação
+dos seus profissionais. É frequente a liberação das atividades de TAE para que possam participar de treinamentos, tanto em cursos esporádicos quanto em programas de
+pós-graduação. Por exemplo, atualmente um técnico administrativo está afastado para
+cursar doutorado em Computação. Em tempo, as ações de extensão do INF reservam
+vagas exclusivas para participação de TAEs, sem necessidade de pagamento (quando
+for o caso).
+Do ponto de vista legal, o INF se apoia na Resolução CEPEC N° 1286 de 2014, que
+regulamenta o afastamento de docentes para cursar Mestrado, Doutorado e estágios
+Pós-Doutorais, e na Resolução CONSUNI No 002 de 2014, que regulamenta o Programa
+
+UF
+G
+
+de Capacitação e o Plano Anual de Capacitação dos TAEs. Em consonância com a Reso-
+
+pe
+las
+
+lução CEPEC N° 1286 de 2014, o INF instrui o afastamento de docentes com a Resolução
+
+CD/INF N° 01 de 2014, que dá suporte ao planejamento administrativo e incentiva a
+
+participação de seus docentes, em cursos de doutorado, pós-doutorado e capacitação,
+
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+a extensão e a administração.
+
+da
+
+no País e no exterior, de acordo com a sua política de pessoal para o ensino, a pesquisa,
+
+Requisitos legais e normativos
+
+O curso de BCC contempla requisitos legais específicos, a saber, Educação das Relações
+Étnico-raciais e para o Ensino da História e Cultura Afro-brasileira e Indígena, Libras,
+
+Av
+a
+
+Política de Educação Ambiental.
+
+A atenção a tais requisitos se verifica por meio de disciplinas e de um Programa de
+
+ras
+
+
+Em
+
+detalhado nas seções seguintes.
+
+Su
+p
+
+Extensão, devidamente institucionalizado na unidade executora do curso, conforme
+
+Diretrizes curriculares nacionais do curso
+
+NO presente PPC, o objetivo do curso,o perfil do egresso, as habilidades e competên-
+
+Câ
+ma
+
+cias do egresso e a matriz curricular estão coerentes com as Diretrizes Curriculares
+Nacionais, sendo fundamentado na Lei Nº 9.394/96, de diretrizes e bases da educação
+nacional, e no parecer CNE/CES Nº 136/2012, aprovado em 8 de março de 2012, que
+institui diretrizes curriculares nacionais para os cursos de graduação em Computação.
+
+
+Diretrizes curriculares nacionais para educação das relações étnicoraciais e para o ensino de história e cultura afro-brasileira e indígena
+
+A Resolução Nº 1, de 17 de junho de 2004, trata das Diretrizes Curriculares Nacionais
+
+pe
+las
+
+Brasileira e Africana.
+
+UF
+G
+
+para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-
+
+O objetivo é claro: “combater o racismo e as discriminações que atingem particular-
+
+mente os negros. Nessa perspectiva, propõe a divulgação e produção de conhecimen-
+
+da
+
+tos, a formação de atitudes, posturas e valores que eduquem cidadãos orgulhosos de
+seu pertencimento étnico-racial, descendentes de africanos, povos indígenas, descen-
+
+lia
+çã
+o
+
+dentes de europeus, de asiáticos.”
+
+eri
+ore
+s
+
+Tal objetivo pressupõe a “adoção de políticas educacionais e de estratégias pedagógicas de valorização da diversidade”, conforme consta na Resolução, assim como os
+princípios a serem observados para atendê-la: (a) consciência política e histórica da
+diversidade; (b) fortalecimento de identidades e de direitos e (c) ações educativas de
+
+Av
+a
+
+combate ao racismo e a discriminações.
+
+O Art. 7º da Resolução ainda destaca: “as instituições de ensino superior, respeitada
+
+Su
+p
+
+a autonomia que lhe é devida, incluirão nos conteúdos de disciplinas e atividades curriculares dos diferentes cursos que ministram, a Educação das Relações Étnico-Raciais,
+
+ras
+
+tes.”
+
+Em
+
+bem como o tratamento de questões e temáticas que dizem respeito aos afrodescenden-
+
+Tendo em vista o requisito legal estabelecido pela Resolução, duas linhas de atuação
+são adotadas pelo BCC: inserção de conteúdo pertinente em duas disciplinas curricu-
+
+Câ
+ma
+
+lares obrigatórias e o Programa Institucional de extensão do Instituto de Informática.
+Ambas comentadas abaixo.
+
+Disciplinas de graduação obrigatórias
+As disciplinas Computador e Sociedade e Interfaces Homem-Computador incluem, em
+seus ementários, tópicos pertinentes às exigências da Resolução. Em particular, re-
+
+metem para o conhecimento de questões pertinentes ao continente africano e para o
+conhecimento e respeito à diversidade. Na disciplina Computação e Sociedade, são abordadas questões raciais e de inclusão digital relacionadas à Computação, além de ética
+na Computação. Na disciplina Interação Humano-Computador foram abordadas características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, as-
+
+UF
+G
+
+pectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e
+
+pe
+las
+
+capacidades, dentre outros. A Educação das Relações Étnico-Raciais tem por objetivo
+
+a divulgação e produção de conhecimentos, bem como de atitudes, posturas e valores que eduquem cidadãos quanto à pluralidade étnico-racial, tornando-os capazes de
+
+da
+
+interagir e de negociar objetivos comuns que garantam, a todos, respeito aos direitos
+
+eri
+ore
+s
+
+Programa institucional
+
+lia
+çã
+o
+
+legais e valorização de identidade, na busca da consolidação da democracia brasileira.
+
+O Programa Institucional de extensão do Instituto de Informática será realizado por
+meio de ações, boa parte com ênfase na socialização de conhecimento sobre questões
+pertinentes à formação dos brasileiros, o que invariavelmente inclui negros e indígenas. Esse conhecimento é indispensável para a promoção da diversidade, do respeito
+
+Av
+a
+
+às diferenças e da igualdade independente das crenças, sexo, idade, cor, e condição
+
+Su
+p
+
+social. O INF, por meio desse programa de extensão, dedicado exclusivamente às relações étnico-raciais e ao meio ambiente, oferece atuação contínua sobre esses tópicos,
+
+Em
+
+durante toda a permanência dos seus estudantes nessa unidade, sejam de graduação
+ou pós-graduação. Especificamente, sobre questões de cunho étnico-racial, sem a in-
+
+ações possíveis:
+
+ras
+
+tenção de ser uma apresentação exaustiva, nem restritiva, são identificadas algumas
+
+Câ
+ma
+
+• ações afirmativas por meio de cursos de extensão;
+• ações para promoção da diversidade;
+• palestras sobre a construção de uma sociedade justa;
+• palestras sobre a diversidade da formação dos brasileiros;
+• palestras sobre a história afro-brasileira, sobre a história africana;
+• palestras sobre os povos indígenas;
+• apresentações artísticas que valorizem a cultura africana e indígena
+
+
+Disciplina LIBRAS
+
+UF
+G
+
+O Decreto 5.626/2005 regulamenta a Lei 10.436, de 24 de abril de 2002, e o artigo 18
+
+pe
+las
+
+da Lei 10.098, de 19 de dezembro de 2000. Segundo esse Decreto, a disciplina curricular Libras é obrigatória para vários cursos, dentre eles, as licenciaturas e os cursos
+
+de Fonoaudiologia. O Decreto também estabelece que, nos demais cursos, a disciplina
+
+da
+
+curricular Libras seja optativa, conforme o Capítulo II, § 2º: “a Libras constituir-se-á em
+disciplina curricular optativa nos demais cursos de educação superior”. A disciplina
+
+lia
+çã
+o
+
+de Libras faz parte da Matriz Curricular do Projeto Pedagógico do curso de Ciência da
+
+dade de Letras da Universidade Federal de Goiás.
+
+
+Políticas de educação ambiental
+
+eri
+ore
+s
+
+Computação como uma disciplina optativa de 32 horas, e será ministrada pela Facul-
+
+Av
+a
+
+A Lei 9.795, de 27 de abril de 1999, institui a Política Nacional de Educação Ambiental,
+
+Su
+p
+
+que é regulamentada pelo Decreto 4.281, de 25 de junho de 2002. Conforme essa Lei,
+Seção II, Art. 10, “a educação ambiental será desenvolvida como uma prática educativa
+
+Em
+
+integrada, contínua e permanente em todos os níveis e modalidades do ensino formal.”
+Adicionalmente, lê-se na Seção II, Art. 10, § 1º: “a educação ambiental não deve ser
+
+ras
+
+implantada como disciplina específica no currículo de ensino”. O destaque (negrito) é
+do presente documento. O BCC trata a Educação Ambiental por duas linhas contínuas
+de atuação: uma delas baseada no planejamento das disciplinas e outra em programa
+
+Câ
+ma
+
+institucional do INF, ambas comentadas abaixo.
+Planejamento das disciplinas
+
+Na disciplina Computação e Sociedade, a preocupação com educação ambiental
+será abordada nos assuntos de lixo eletrônico, reaproveitamento eletrônico, entre outros temas relacionados. Além disso, a matriz curricular conta com uma disciplina
+
+optativa chamada de Computação Verde que tem como objetivo proporcionar ao aluno o
+contato com a sustentabilidade e eficiência energética em computação, Internet e redes
+de comunicação; estudar a fundamentação teórica e prática de eficiência energética na
+Internet; identificar, avaliar, aplicar e desenvolver metodologias e técnicas de eficiência
+energéticas recentes na área de computação; e aplicar técnicas e métodos recentes de
+
+UF
+G
+
+computação verde através de estudo de caso em ambiente real e simulado. Com essas
+
+pe
+las
+
+abordagens, esperamos cumprir o papel social na política de educação ambiental no
+curso de Ciência da Computação.
+Programa institucional
+
+da
+
+A UFG possui um Plano de Logística Sustentável (PLS), que estabelece práticas de
+sustentabilidade e racionalização de gastos e processos na administração pública, dis-
+
+INF por um Programa Institucional de extensão.
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+ponível em https://sustentabilidade.prodirh.ufg.br/. Esse plano é internalizado no
+
+O PLS une o cotidiano da prática acadêmica com atitudes “sustentáveis” por meio
+de recomendações simples, como a impressão em ambos os lados de uma folha e a
+redução do uso de copos descartáveis, dentre muitas outras.
+
+Av
+a
+
+O Programa Institucional reúne ações que contemplam as orientações do PLS. O
+
+Su
+p
+
+objetivo é colocar em prática essas orientações. Por exemplo, enquanto o PLS sugere
+a coleta seletiva, esse programa cria um repositório para coleta de pilhas e baterias já
+
+correta.
+
+Em
+
+utilizadas, além de assegurar que aquele material coletado será descartado de forma
+
+ras
+
+O Programa Institucional possui objetivos e ações que incluem a educação ambien-
+
+Dentre as demais:
+
+Câ
+ma
+
+tal. As opções de ações variam. Dentre elas uma é constante: avaliação dos resultados.
+
+• elaboração de material de conscientização sobre consumo parcimonioso de água
+e energia;
+
+• palestras e cursos sobre TI Verde (green computing);
+• pesquisa sobre consumo de energia por datacenters;
+• divulgação e destaque de informações sobre o meio ambiente;
+• monitoramento e divulgação de informações ambientes sobre diversas localidades, em particular do estado de Goiás;
+• divulgação de softwares que promovem o meio ambiente, por exemplo, evitam
+
+UF
+G
+
+
+pe
+las
+
+deslocamentos, evitam consumo de energia.
+
+Diretrizes nacionais para educação em direitos humanos
+
+A disciplina de Computação e Sociedade trata questões importantes sobre direitos huma-
+
+da
+
+nos no que tange a: aspectos profissionais; participação de mulheres na computação;
+evolução de aplicações com acessibilidade; dentre outros nos quais os direitos humanos
+
+eri
+ore
+s
+
+lia
+çã
+o
+
+precisam de discussões mais aprofundadas na Computação. Na disciplina de Interação
+Humano-Computador as características humanísticas, culturais, de direitos humanos e
+de aspectos políticos são abordados mais a fundo.
+
+tista
+
+Su
+p
+
+Proteção dos direitos da pessoa com transtornos do espectro au-
+
+Av
+a
+
+
+A proteção dos direitos da pessoa com transtorno do espectro autista é fundamentada
+
+Em
+
+na Lei nº 12.764 de 27 de dezembro de 2012, que institui a política nacional de proteção
+
+ras
+
+dos direitos da pessoa com transtorno do espectro autista, e altera o § 3o do art. 98
+da Lei no 8.112, de 11 de dezembro de 1990. Esse requisito legal é atendido por meio
+da disciplina obrigatória Interação Humano-Computador que inclui em seu ementário
+
+Câ
+ma
+
+tópicos pertinentes ao tratamento de características humanísticas e biológicas na construção de interfaces de usuário. Além disso, a disciplina optativa Jogos Digitais tem o
+objetivo de desenvolver no aluno a capacidade de escrever, ambientar e implementar
+jogos em 2D ou 3D em computadores, dispositivos móveis e Web possibilitando ao
+aluno se capacitar a construir jogos para usos diversos desde a educação, reabilitação,
+
+diversão e simulação. Existem muitos jogos voltados para diversas necessidades especiais, possibilitando os alunos a conhecer a área de Transtorno do Espectro Autista e se
+
+
+UF
+G
+da
+
+eri
+ore
+s
+
+Su
+p
+
+ras
+
+Câ
+ma
+
+Em
+
+Av
+a
+
+lia
+çã
+o
+
+pe
+las
+
+dedicar a produzir jogos para pessoas com tais necessidades especiais.
+Apêndice
+A
+
+Bibliografias básicas e complementares das disciplinas
+
+G
+
+Este apêndice apresenta as bibliografias básicas e complementares das disciplinas do
+
+UF
+
+pe
+las
+
+curso de Bacharelado em Ciências da Computação. A seção A.1 apresenta as biblio-
+
+grafias das disciplinas obrigatórias do núcleo comum. A seção A.2 lista as disciplinas
+
+optativas.
+
+Disciplina: Álgebra Linear
+Bibliografia Básica
+
+ore
+s
+
+Disciplinas obrigatórias do núcleo comum
+
+çã
+o
+
+
+da
+
+obrigatórias do núcleo específico e a seção A.3 mostra as bibliografias das disciplinas
+
+lia
+
+1. BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. Álgebra Linear, 3 ed.
+Harbra, São Paulo, 2003.
+
+eri
+
+2. LIPSCHUTZ, S. Álgebra Linear, 2 ed. MaKron-Books, São Paulo, Brasil, 1974.
+
+Bibliografia Complementar
+
+Su
+p
+
+Brasil, 1983.
+
+Av
+a
+
+3. CALLIOLI, C. A.; DOMINGUES, H. H; COSTA, R. C. F. Álgebra Linear e Aplicações. Atual,
+
+Em
+
+1. APOSTOL, T. Linear Algebra: A First Course with Applications to Differential Equations, 1a
+ed. Wiley-Interscience„ 1997.
+
+Alegre, Brasil, 2001.
+
+ma
+ras
+
+2. HOWARD, ANTON; RORRES, C. Álgebra Linear com Aplicações, 8 ed. Bookman, Porto
+
+3. HOFFMAN, KENNETH; KUNZE, R. Álgebra Linear. Polígono, São Paulo, 1971.
+4. LIMA, E. L. Álgebra Linear: Coleção Matemática Universitária. IMPA, Rio de Janeiro, Brasil,
+2006.
+
+Câ
+
+5. SHOKRANIAN, S. Introdução a Álgebra Linear e Aplicações, 1 ed. Unb, 2004.
+
+Disciplina: Algoritmos e Estruturas de Dados 1
+Bibliografia Básica
+1. TENENBAUM, A. M., LANGSAM, Y., AUGENSTEIN, M., Estruturas de Dados Usando C,
+São Paulo, Makron Books, 1995.
+2. SZWARCFITER, J. L., MARKENZON, L., Estruturas de Dados e seus Algoritmos. LTC, 2ª
+
+G
+
+edição, 1994.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. FEOFILOFF, P., "Algoritmos em Linguagem C". Editora Campus/Elsevier, 2009.
+
+edição, 2002.
+
+da
+
+1. CORMEN, T. H et al., "Algoritmos: Teoria e Prática". Rio de Janeiro: Editora Campus, 2ª
+
+Thomson, 2006.
+
+çã
+o
+
+2. ZIVIANI, N. "Projeto de Algoritmos com implementação em Java e C++". São Paulo: Editora
+
+ore
+s
+
+3. Sedgewick, R. "Algorithms in C++"(Parts 1-4), Addison-Wesley, 3ª edição, 1998.
+4. SALVETTI, D.D., BARBOSA, L.M., Algoritmos, Makron Books, São Paulo, 1998.
+5. ZIVIANI N., "Projeto de Algoritmos com implementação em Pascal e C". São Paulo: Editora
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Thomson, 3ª edição, 2010.
+
+Disciplina: Algoritmos e Estruturas de Dados 2
+Bibliografia Básica
+1. TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados Usando C.
+São Paulo: Makron Books, 1995.
+2. SZWARCFITER, J. L.; Markenzon, L. Estruturas de Dados e seus Algoritmos. 2a edição. LTC,
+
+G
+
+1994.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+
+2002.
+
+da
+
+1. CORMEN, T. H et al. Algoritmos: Teoria e Prática. 2a edição, Rio de Janeiro: Editora Campus,
+
+Thomson, 2006.
+
+ore
+s
+
+çã
+o
+
+2. ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora
+
+3. SEDGEWICK, R. Algorithms in C++. 3rd. Edition , Addison-Wesley 1998. (Parts 1-4).
+
+lia
+
+4. SALVETTI, D.D.; BARBOSA, L.M. Algoritmos. São Paulo: Makron Books, 1998.
+5. ZIVIANI N. Projeto de Algoritmos com implementação em Pascal e C. 3a edição. São Paulo:
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Editora Thomson, 2010.
+
+Disciplina: Análise e Projeto de Algoritmos
+Bibliografia Básica
+1. CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L. ; STEIN, C. Algoritmos: Teoria e Prática.
+3a edição, Campus, 2012.
+2. BRASSARD, G; BRATLEY, P. Fundamentals of Algorithmics. Upper Saddle River, NJ :
+
+G
+
+Prentice-Hall, Inc., 1996.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. PAPADIMITRIOU, C. H.; VAZIRANI, U. V.; DASGUPTA, S. Algoritmos. Mc-Graw-Hill, 2009.
+
+Edition. Pearson, 1999.
+
+da
+
+1. BAASE, S.; GELDER, A. V. Computer Algorithms: Introduction to Design and Analysis. 3rd
+
+LTC Editora , 2010.
+
+çã
+o
+
+2. SZWARCFITER, J. L.; MARKENZON, L. Estrutura de Dados e seus Algoritmos. 3a edição.
+
+ore
+s
+
+3. MAMBER, U. Introduction to Algorithms. Addison Wesley Publishing Company. 1989.
+4. SEDGEWICK, R., WAYNE, K. Algorithms. 4th edition. Addison-Wesley Professional, 2011.
+5. AHO, A.V., HOPCROFT, J.E., ULLMAN, J.D. The Design and Analysis of Computer Algo-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+rithms, Addison-Wesley Publishing Company, 1974. ISBN 0-201-00029-6.
+
+Disciplina: Arquitetura de Computadores
+Bibliografia Básica
+1. TANENBAUM, A. Organização Estruturada de Computadores. Prentice Hall Brasil, 2007.
+2. STALLINGS, W. Arquitetura e Organização de Computadores. 5a edição. Prentice-Hall,
+2010.
+
+G
+
+3. BRYANT, R.; O’RALLARON, D. Computer Systems: A Programmer’s Perspective. 2nd Edi-
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+tion. Addison Wesley, 2010.
+
+ware/Software Interface. 3rd edition. Morgan Kaufmann, 2007.
+
+da
+
+1. PATTERSON, D. A.; HENNESSY, J. L. Computer Organization and Design: The Hard-
+
+Luzzatto, 2001.
+
+çã
+o
+
+2. WEBER, R.F. Fundamentos de Arquiteturas de Computadores. 2a Edição. Editora Sagra-
+
+Editora LTC, 2001.
+
+ore
+s
+
+3. MONTEIRO, M. A. Introdução a Organização de Computadores. 4a. edição, Rio de Janeiro:
+
+Edition. Elsevier, 2007.
+
+lia
+
+4. HENNESSY, J. L.; PATTERSON, D. A. Computer Architecture: A Quantitative Approach 4th
+
+eri
+
+5. STALLINGS, W. Computer Organization and Architecture: Designing for Performance. 10th
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Edition. Saddle River, NJ, USA: Prentice-Hall, Inc., 2016.
+
+Disciplina: Banco de Dados
+Bibliografia Básica
+1. ELMASRI, R.; NAVATHE, S.B. Sistemas de Banco de Dados. 6a ed. Pearson - Addison Wesley,
+2011.
+
+Rio de Janeiro: Ed. Campus, 2006.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. HEUSER, C.A. Projeto de Banco de Dados. 6ª edição. Porto Alegre: Bookman, 2009.
+
+G
+
+2. SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. Sistema de Banco de Dados. 5a ed.,
+
+ção da 3ª edição. São Paulo: McGraw-Hill, 2008.
+
+da
+
+1. RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados. Tradu-
+
+2. GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete
+
+çã
+o
+
+Book. 2nd edition. Prentice Hall, 2009.
+
+de Janeiro: Ed. Campus, 2004.
+
+ore
+s
+
+3. DATE, C. J. Introdução a Sistemas de Banco de Dados. Tradução da 8a edição americana. Rio
+
+4. TEOREY, T.; LIGHTSTONE, S.; NADEAU, T. Projeto e Modelagem de Bancos de Dados. Rio
+
+lia
+
+de Janeiro: Editora Campus, 2007.
+
+eri
+
+5. CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database systems : a practical approach
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+to design, implementation and management. 3rd. Edition. Addison Wesley, 2010.
+
+Disciplina: Cálculo 1A
+Bibliografia Básica
+1. GUIDORIZZI, H. L. Um Curso de Cálculo, . LTC, Rio de Janeiro, Brasil, 2006. Volume 1.
+2. LEITHOLD, L. O Cálculo com Geometria Analítica 3. ed. São Paulo: Harbra, 1994. Vol. 1.
+
+UF
+
+pe
+las
+
+Bibliografia Complementar
+
+G
+
+3. STEWART, J. Cálculo. 5a. ed. São Paulo: Cengage Learning, 2006. Volume 1.
+
+1. FLEMMING, D. M; GONÇALVES, M. B. Cálculo A: Funções, limite, derivação e integração.
+São Paulo: Makrom Books do Brasil, 2006.
+
+de Janeiro: Ltc , 2008.
+
+da
+
+2. HOFFMANN, L. D.; BRADLEY, G. L. Cálculo, Um curso moderno com aplicações, 9 ed. Rio
+
+3. REIS, G. L; SILVA, V. V. Geometria Analítica. 2 ed. Rio de Janeiro: LTC, 1996.
+
+1994.
+
+ore
+s
+
+çã
+o
+
+4. ÁVILA, G. S. S. Cálculo: Funções de Uma Variável. 7 ed. Volume 1. Rio de Janeiro: LTC,
+
+5. SIMMONS, G. F. Cálculo com Geometria Analítica, São Paulo: McGraw-Hill do Brasil, 1987.
+
+eri
+
+lia
+
+Vol. 1.
+
+Bibliografia Básica
+
+Av
+a
+
+Disciplina: Computação e Sociedade
+
+Porto Alegre: EDIPUCRS, 2007.
+
+Su
+p
+
+1. FONSECA FILHO, C. História da computação: O Caminho do Pensamento e da Tecnologia.
+
+Em
+
+2. VELOSO, R. Tecnologias da Informação e Comunicação: Desafios e Perspectivas. São Paulo:
+Saraiva, 2011.
+
+Bibliografia Complementar
+
+ma
+ras
+
+3. MASIERO, P. Ética em Computação. Editora da USP, 2000.
+
+1. KACZMARCZYK, L. C. Computers and Society: Computing for Good.
+
+Chapman &
+
+Hall/CRC Textbooks in Computing. CRC Press, 2011.
+2. CHALITA, G. Os Dez Mandamentos da Ética. Editora Nova Fronteira, 2003.
+
+Câ
+
+3. DRUMMOND, V. Internet Privacidade e Dados Pessoais. Editora Lumen Juris, 2003.
+4. LUCCA, N.; FILHO, A. S. Direito & Internet. Editora Edipro, 2001.
+5. PAESANI, L. M. Direito de Informática. Editora Atlas, 2005.
+
+Disciplina: Engenharia de Software
+Bibliografia Básica
+1. PRESSMAN, R.; MAXIM, B. Software Engineering: A Practitioner’s Approach. 8th edition.
+McGraw-Hill, 2014.
+2. SOMMERVILLE, I. Software Engineering, Pearson, 2015.
+
+G
+UF
+
+Bibliografia Complementar
+
+pe
+las
+
+3. WAZLAWICK, R. S. Engenharia de software: teoria e prática. Campus, 2013.
+
+1. Software Engineering Body of Knowledge (SWEBOK), V3, IEEE, 2014.
+
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=50518.
+3. MPS.BR.
+
+Melhoria
+
+de
+
+Processos
+
+do
+
+Software
+
+Brasileiro.
+
+çã
+o
+
+http://www.softex.br/mpsbr/, último acesso Abril/2014.
+
+da
+
+2. ISO/IEC/IEEE 24765, Systems and software engineering - Vocabulary, 2010, disponível em
+
+Disponível
+
+em
+
+
+Engineering
+
+Competency
+
+Model
+
+IEEE.
+
+eri
+
+(SWECOM).
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+https://www.computer.org/web/peb/swecom
+
+ore
+s
+
+4. MAGELA, R. Engenharia de software aplicada. Alta Books, 2006.
+
+
+Disponível
+
+em
+Disciplina: Fundamentos de Matemática para Computação
+Bibliografia Básica
+1. GERSTING, J. L. Fundamentos Matemáticos para a Ciência da Computação, 5. ed. Rio de
+Janeiro: Editora LTC, 2004.
+2. SCHEINERMAN, E. R. Matemática Discreta, Uma introdução. Cengage Learning, Thomp-
+
+G
+
+son Pioneira, 2003
+
+UF
+
+pe
+las
+
+3. GRIMALDI, R. P. Discrete and Combinatorial Mathematics - An Applied Introduction, 5th
+ed. Boston: Pearson - Addison-Wesley, 2003.
+
+Bibliografia Complementar
+
+da
+
+1. ROSS, K. A.; WRIGHT, C. R. B. Discrete mathematics, Prentice Hall, 1998.
+
+2. ROSEN, Kenneth H. Discrete Mathematics and Its Applications, 6th ed., Boston: McGraw-
+
+çã
+o
+
+Hill, 2009.
+
+1993.
+
+ore
+s
+
+3. MATTSON, Jr., H. F. Discrete Mathematics with applications, New york: John Wiley & Sons
+
+4. SANTOS, J. P. O. Introdução à Teoria dos Números. Rio de Janeiro: CNPQ-IMPA, 2003.
+
+lia
+
+(Coleção Matemática Universitária).
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. GONÇALVES, A. Introdução à Álgebra, 5. ed. Rido de Janeiro: CNPQ-IMPA, 2013.
+
+Disciplina: Interação Humano-Computador
+Bibliografia Básica
+1. DIX, Alan; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. Human-Computer Interaction. 3rd
+Edition. Upper Saddle River, NJ, USA: Prentice-Hall, 2003.
+2. TIDWELL, J. Designing Interfaces: Patterns for Effective Interaction Design. 2. ed. O’Reilly,
+
+G
+
+2011.
+
+UF
+
+pe
+las
+
+3. ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interação - Além da Interação Homemcomputador. 3a ed. Porto Alegre: Bookman, 2013.
+
+Bibliografia Complementar
+
+2010.
+
+da
+
+1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1. ed. Elsevier Editora,
+
+ore
+s
+
+O’Reilly Media, 2009.
+
+çã
+o
+
+2. SCOTT, B.; NEIL, T. Designing Web Interfaces: Principles and Patterns for Rich Interactions.
+
+3. JACKO, J. A. The human-computer interaction handbook: fundamentals, evolving technologies, and emerging applications. CRC Press, 2012.
+
+eri
+
+gan Kaufmann, 2013.
+
+lia
+
+4. MACKENZIE, I. S. Human-computer Interaction – An Empirical Research Perspective. Mor-
+
+Av
+a
+
+5. LAZAR, J.; FENG, J. H.; HOCHHEISER, H. Research Methods in Human-Computer Interac-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+tion. Wiley, 2009.
+
+Disciplina: Introdução à Programação
+Bibliografia Básica
+1. FOBERLONE, A.L.V.; EBERSPACHER, H.F., Lógica de Programação - A construção de algoritmos e estruturas de dados. 3. ed., São Paulo: Prentice Hall, 2005.
+2. ASCENCIO, A. F. G.; CAMPOS C, E.A. V. Fundamentos da Programação de Computadores.
+
+G
+
+3. ed. Editora Pearson, 2010.
+
+Bibliografia Complementar
+
+1. FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.
+
+UF
+
+pe
+las
+
+3. SCHILDT, H. C Completo e Total. 3a Ed. São Paulo: Makron Books, 1996.
+
+ed. Rio de Janeiro: LTC, 1989.
+
+da
+
+2. FARRER, H. at al. Programação Estruturada de Computadores- Algoritmos Estruturados. 3.
+
+0201314525.
+
+ore
+s
+
+çã
+o
+
+3. SEDGEWICK, R. Algorithms in C. 3. ed. Reading, Mss: Addison-Wesley, 1998. ISBN
+
+4. SALVETTI, D.D.; BARBOSA, L.M. Algoritmos, São Paulo: Makron Books, 1998.
+
+5. CORMEN, T. H et al., Algoritmos: Teoria e Prática. 2. ed. Rio de Janeiro: Editora Campus,
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+2002.
+
+Disciplina: Linguagens e Paradigmas de Programação
+Bibliografia Básica
+1. SEBESTA, R. W. Concepts of Programming Languages. 10th ed. Pearson, 2012.
+2. SCOTT, M. L. Programming Language Pragmatics, 3rd ed. Morgan Kaufmann, 2009.
+
+UF
+
+pe
+las
+
+Bibliografia Complementar
+
+G
+
+3. GHEZZI, C.; JAZAYERI, M. Programming Language Concepts. 3rd ed. Wiley, 1997.
+
+1. PRATT, T. W. Z.; ELKOWIT, M. V. Programming Languages: Design and Implementation.
+4th ed. Prentice Hall, 2000.
+
+2. VAREJÃO, F. Linguagens de Programação. 1. ed. Campus, 2004.
+
+The MIT Press, 2004.
+
+da
+
+3. ROY, P. V.; HARIFI, S. Concepts, Techniques, and Models of Computer Programming. 1st ed.
+
+çã
+o
+
+4. FRIEDMAN, D. P. Essentials of Programming Languages. 3rd ed. The MIT Press, 2008.
+
+lia
+
+Press, 2008.
+
+eri
+
+Bibliografia Básica
+
+Av
+a
+
+Disciplina: Lógica Matemática
+
+ore
+s
+
+5. TURBAK, F.; GIFFORD D. Design Concepts in Programming Languages. 1st ed. The MIT
+
+1. SOUZA, J. N. Lógica para Ciência da Computação. 3. ed. Editora Campus, 2015.
+
+Su
+p
+
+2. SILVA, F.C.; FINGER, M.; MELO, A.C.V. Lógica para Computação. Thomson Learning, 2006.
+3. HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: modelagem e argumen-
+
+Em
+
+tação sobre sistemas. 2. ed. Editora LTC, 2008.
+
+ma
+ras
+
+Bibliografia Complementar
+
+1. MORTARI, C.. Introdução à Lógica. São Paulo: UNESP. 2001.
+2. MENDELSON, E. Introduction to Mathematical Logic. Academic Press, 2000.
+3. ENDERTON, H. A. Mathematical Introduction to Logic. Academic Press 2000.
+4. SMULLYAN, R. Lógica de Primeira Ordem. SÃO PAULO: UNESP. 2009.
+5. CASANOVA, M. A.; GIORNO, F. A. C.; FURTADO, A. L. Programação em Lógica e a Lin-
+
+Câ
+
+guagem PROLOG. Edgard Blucher, 1987.
+
+6. GALLIER, J. H. Logic for Computer Science: Foundations of Automatic Theorem Proving.
+2nd ed. Dover Publications Inc., 2015.
+
+Disciplina: Probabilidade e Estatística A
+Bibliografia Básica
+1. WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K.: Probabilidade e Estatística para Engenharia e Ciências. 8. Ed. São Paulo: Pearson, 2009.
+2. MAGALHÃES, M.N. Noções de Probabilidade e Estatística. 7a. Ed. São Paulo: EDUSP, 2010.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC, 1969.
+
+1. ROSS, S. Probabilidade. Um Curso Moderno com Aplicações. 8. ed. Porto Alegre: Bookman,
+2010.
+
+2010.
+
+da
+
+2. MORETTIN, L. G. Estatística básica: probabilidade e inferência. São Paulo: Prentice Hall,
+
+çã
+o
+
+3. DANTAS, C. A. B.; Probabilidade: um Curso Introdutório. 3. ed. São Paulo: EDUSP, 2008.
+
+ore
+s
+
+4. BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica. 6. ed. São Paulo: Saraiva, 2010.
+
+lia
+
+5. TRIOLA, M. F. Introdução à Estatística. 10. Ed. Rio de Janeiro: LTC, 2008.
+
+eri
+
+Bibliografia Básica
+
+Av
+a
+
+Disciplina: Programação Orientada a Objetos
+
+Su
+p
+
+1. ECKEL, B. Thinking in Java. Prentice Hall 3rd ed. 2002. (livro eletrônico de acesso livre:
+disponível em http://www.mindview.net/Books/TIJ/).
+
+2. BORATTI, I. C. Programação orientada a objetos em Java. Visual Books, 2007.
+
+Bibliografia Complementar
+
+ma
+ras
+
+Em
+
+3. DEITEL, P. J; DEITEL, H. M. Javacomo programar 6. ed. - São Paulo: Prentice Hall, 2005.
+
+1. ZEIGLER, B. P. Objects and Systems: Principled Design with Implementations in C++ and
+Java. New York, NY, USA: Springer-Verlag, Inc., 1997.
+2. SANTOS, R. Introdução à Programação Orientada a Objetos com Java. Campus, 2003.
+3. BUDD, T. An Introduction to Object-Oriented Programming. Addison Wesley, 1996.
+4. HORSTMANN, C. S. Core Java – Advanced Features. 8. ed. Prentice Hall, 2008.(Volume II).
+
+Câ
+
+5. GAMMA, Erich Design patterns elements of reusable object-oriented software Reading: Addison Wesley, 1995.
+
+Disciplina: Projeto de Sofware
+Bibliografia Básica
+1. BUDGEN, B. Software Design. 2nd ed. Addison-Wesley, 2003.
+2. BASS, L. et al. Software Architecture in Practice. 3rd ed. Addison-Wesley, 2012.
+3. LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+a objetos e ao desenvolvimento interativo. Bookman, 2008.
+
+1. GAMMA, Erich Design patterns elements of reusable object-oriented software Reading: Addison Wesley, 1995.
+
+da
+
+2. FREEMAN, E. et al. Use a cabeça! : padrões de projetos (design patterns). Alta Books, 2007.
+
+guage (UML). Elsevier, 2006.
+
+çã
+o
+
+3. BOOCH, G. UML guia do usuário: o mais avançado tutorial sobre Unified Modeling Lan-
+
+okshelf, 2007. (The Pragmatic Programmers).
+
+ore
+s
+
+4. NYGARD, M. Release It!: Design and Deploy Production-Ready Software. Pragmatic Bo-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. FOWLER, M. Patterns of enterprise application architecture. Addison-Wesley, 2003.
+
+
+Disciplinas obrigatórias do núcleo específico
+
+Disciplina: Cálculo 2A
+Bibliografia Básica
+1. ÁVILA, G. S. S. Cálculo: Funções de Uma Variável. 7 ed. Rio de Janeiro: LTC, 2003. volume
+2.
+
+UF
+
+pe
+las
+
+3.
+
+G
+
+2. ÁVILA, G. S. S. Cálculo: Funções de Várias Variáveis. 7 ed. Rio de Janeiro: LTC, 2003. Volume
+
+Bibliografia Complementar
+
+da
+
+3. STEWART, J. Cálculo, vol. 2. São Paulo: Cengage Learning, 2006.
+
+1. SWOKOWSKI, E. W. Cálculo com Geometria Analítica. São Paulo: McGraw-Hill do Brasil,
+1983. Volume 2.
+
+ore
+s
+
+Rio de Janeiro: LTC, 2008.
+
+çã
+o
+
+2. HOFFMANN, L. D.; BRADLEY, G. L. Cálculo, Um curso moderno com aplicações. 9. ed.
+
+3. FLEMMING, D. M; GONÇALVES, M. B. Cálculo B: funções de várias variáveis integrais múl-
+
+lia
+
+tiplas, integrais curvilíneas e de superfície. São Paulo: Pearson Prentice Hall, 2007.
+4. THOMAS, G. B. Cálculo. 10 ed. São Paulo: Pearson, 2002. Volume 2.
+
+eri
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. REIS, G. L; SILVA, V. V. Geometria Analítica. 2 ed. Rio de Janeiro: LTC, 1996.
+
+Disciplina: Cálculo Numérico
+Bibliografia Básica
+1. CAMPOS FILHO, F. F. Algoritmos Numérico. 2. ed. Rio de Janeiro: LTC, 2007.
+2. FRANCO, N. B. Cálculo Numérico. São Paulo: Pearson Prentice Hall, 2007.
+3. RUGGIERO, M. A. G.; LOPES, V. L. R. Cálculo Numérico: Aspectos teóricos e computacio-
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+nais. 2. ed. São Paulo: Makron Books, 1996.
+
+1. ARENALES, S. H. V.; DAREZZO FILHO, A. Cálculo Numérico. São Paulo: Thomson Learning, 2008.
+
+3. BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.
+
+da
+
+2. BURDEN, R. L.; FAIRES, J. D. Análise Numérica. São Paulo: Cengage Learning, 2003.
+
+Brooks/Cole-Thomson Learning, 1991.
+
+ore
+s
+
+çã
+o
+
+4. KINCAID, D.; WARD, C. Numerical Analysis:mathematics of scientific computing.
+
+5. SPERENDIO, D.; MENDES, J. A. T. S. L. H. M. Cálculo Numérico: características matemáticas
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+e computacionais dos métodos numéricos. São Paulo: Prentice Hall, 2003.
+
+Disciplina: Circuitos Digitais
+Bibliografia Básica
+1. TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L. Sistemas Digitais – Princípios e Aplicações. 11ª
+Ed. São Paulo: Pearson Prentice Hall, 2011.
+2. MANO, M.; KIME, C. Logic & Computer Design Fundamentals. 5th ed. Pearson, 2015.
+
+G
+
+3. MENDONÇA, A.; ZELENOVSKY, R. Eletrônica Digital: Curso Prático e Exercícios. MZ Edi-
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+tora Ltda, 2004.
+
+John Wiley & Sons, Inc, 2011.
+
+da
+
+1. VAHID, F. Digital Design with RTL Design, VHDL, and Verilog. 2nd ed. New Jersey, USA:
+
+2. WAGNER, F. R.; REIS, A. I.; RIBAS, R. P., Fundamentos de Circuitos Digitais. Editora Sagra-
+
+çã
+o
+
+Luzzato, 2006. (Série Livros Didáticos do Instituto de Informática da UFRGS - Vol. 17).
+
+okman, 2000.
+
+ore
+s
+
+3. ERCEGOVAC, M.; LANG, T.; MORENO, J. H. Introdução aos Sistemas Digitais. Editora Bo-
+
+4. FLOYD, T L., Sistemas Digitais - Fundamentos e Aplicações, 9. ed. Editora Bookman, 2007.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. COSTA, Cesar da. Projetos de Circuitos Digitais com FPGA. São Paulo: Novatec, 2016.
+
+Disciplina: Compiladores
+Bibliografia Básica
+1. AHO, A. V; LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores - Princípios, técnicas e
+ferramentas. 2 ed. Pearson-Addison-Wesley; 2008.
+2. LOUDEN, K. C. Compiladores - Princípios e Práticas. Editora Thompson 2004.
+
+G
+
+3. APPEL, A. W. Modern Compiler Implementation in C - Basic Techiniques. Cambridge Uni-
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+versity Press, 1997.
+
+bridge University Press, 2002.
+
+da
+
+1. APPEL, A. W. Modern Compiler Implementation in Java. 2nd. edition. New York: Cam-
+
+2. HOLMES, J. Modern Compiler Implementation in Java. Prentice Hall, 1995.
+
+1997.
+
+ore
+s
+
+çã
+o
+
+3. MUCHNICK, S. S. Advanced Compiler Design and Implementation. Morgan Kaufmann,
+
+4. HANSON, D. R.; FRASER, C. W. A Retargetable C Compiler: Design and Implementation.
+Benjamin Cummings Pub., 1995.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. LEBLANC, R. J.; FISCHER, C. N. Crafting a Compiler with C. Benjamin/Cummings, 1991.
+
+Disciplina: Computação Gráfica
+Bibliografia Básica
+1. FOLEY, J. D. at al. Computer Graphics: Principles and Practices, Addison Wesley, 1993.
+2. AZEVEDO, E.; CONCI, A. Computação Gráfica: Geração de Imagens. Rio de Janeiro: Editora
+Campus, 2003.
+
+G
+
+3. HETEM, A. J., Computação gráfica. Rio de Janeiro: LTC, 2006.
+
+UF
+
+pe
+las
+
+Bibliografia Complementar
+
+1. AZEVEDO, E.; LETA, F. R; CONCI, A. Computação gráfica: teoria e prática. 2. ed. Rio de
+Janeiro: Elsevier, 2008.
+
+2008.
+
+da
+
+2. AMMERAAL, L. Computação gráfica para programadores Java 2. ed. Rio de janeiro: LTC,
+
+3. BAKER, M. P.; HEARN, D. Computer graphics with OpenGL. 3rd ed. Upper Saddle River,
+
+çã
+o
+
+NJ: Pearson Prentice Hall, 2004.
+
+Moderna, 2010.
+
+ore
+s
+
+4. RIBEIRO, M. M. Uma breve introdução à computação gráfica. Rio de Janeiro, RJ: Ciência
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. ROGERS, D. Procedural Elements for Computer Graphics. Mc-Graw-wHill, 1997.
+
+Disciplina: Computação Paralela
+Bibliografia Básica
+1. GRAMA, A.; KUMAR, V.; GUPTA, A.; KARYPIS, G.: An Introduction to Parallel Computing,
+Design and Analysis of Algorithms, 2.ed. Addison-Wesley, 2003.
+2. PACHECO, P. An Introduction to Parallel Programming. Kaufmann Publishers, 2011.
+
+G
+
+3. KIRK, D.; HWU, W. Programming Massively Parallel Processors: A Hands On Approach.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+2nd ed. Morgan Kaufmann Publishers, 2012.
+
+Wesley, 2004.
+
+da
+
+1. MATTSON, T.; SANDERS, B.; MASSINGILL, B. Patterns for Parallel Programming. Addison-
+
+2. GROPP, W.; et al. Using MPI: Portable Parallel Programming with the Message-Passing In-
+
+çã
+o
+
+terface. 3rd ed. The MIT Press, 2014.
+
+Efficient Computation. Morgan Kaufmann, 2012.
+
+ore
+s
+
+3. MCCOOL, M.; REINDERS, J.; ROBISON, A.: Structured Parallel Programming Patterns for
+
+4. CHAPMAN, B.; JOST, G.; PAS, A. V.der. Using OpenMP, The MIT Press, 2007.
+
+lia
+
+5. COOK, S. CUDA Programming: A Developer’s Guide to Parallel Computing with GPUs.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Morgan Kaufmann, 2013.
+
+Disciplina: Eletrônica para Computação
+Bibliografia Básica
+1 SADIKU, M. N.; MUSA, S.; ALEXANDER, C. K. Análise de circuitos elétricos com aplicações.
+Porto Alegre: AMGH (McGraw-Hill - Bookman), 2014. 616p. ISBN: 9788580553024
+2 IRWIN, J. D. Análise Básica de Circuitos para Engenharia. 10a ed. São Paulo: LTC, 2013. 700
+
+G
+
+p. ISBN: 9788521621805
+
+Bibliografia Complementar
+
+UF
+
+
+pe
+las
+
+3 SEDRA, A. S.; SMITH, K. C. Microeletrônica. 5a ed. São Paulo: Ed. Pearson do Brasil, 2007.
+
+
+da
+
+1. 1] SVOBODA, J. A.; DORF, R. C. Introdução aos Circuitos Elétricos. 8a ed. São Paulo: LTC,
+
+
+ore
+s
+
+çã
+o
+
+2 BURIAN JÚNIOR, Yaro; LYRA, A. C. C. Circuitos Elétricos. 1a ed. São Paulo: Ed. Pearson
+
+3 JOHNSON, D. E., HILBURN, J. L., JOHNSON, J. R. 4a ed. Fundamentos de Análise de Circuitos Elétricos. São Paulo: LTC, 1993. ISBN: 9788521612384
+
+lia
+
+4 BOYLESTAD, R. L.; NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11a ed.
+
+eri
+
+São Paulo: Ed. Pearson do Brasil, 2013. ISBN: 9788564574212
+
+Av
+a
+
+5 PERTENCE JÚNIOR, Antonio. Amplificadores operacionais e filtros ativos: eletrônica ana-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+lógica. 8. ed. Porto Alegre: Bookman, 2015. 328p. (Série Tekne).
+
+Disciplina: Engenharia de Requisitos
+Bibliografia Básica
+1. SOMMERVILLE, I. Engenharia de Software. 9. ed. Sao Paulo: Pearson Prentice Hall, 2011.
+2. PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 7. ed. Porto Alegre: McGraw-Hill, 2011.
+
+G
+
+3. PFLEEGER, S. L. Engenharia de software: teoria e prática. 1. ed. São Paulo: Prentice Hall,
+
+UF
+
+Bibliografia Complementar
+
+pe
+las
+
+2004.
+
+ed. Chichester: John Wiley & Sons, 1998.
+
+da
+
+1. KOTONYA, G.; SOMMERVILLE, I. Requirements Engineering: Process and Techniques. 2.
+
+2. LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados
+
+çã
+o
+
+a objetos e ao desenvolvimento interativo. 3. ed. Porto Alegre: Bookman, 2007.
+
+ore
+s
+
+3. SWEBOK v3.0. Guide to the Software Engineering Body of Knowledge Version 3.0. Editado
+por IEEE Computer Society. Disponível em http://www.swebok.org/.
+
+4. WIEGERS, K.E. Software requirements: practical techniques for gathering and managing
+
+Press, 2003.
+
+eri
+
+lia
+
+requirements throughout the product development cycle. 2 ed. Redmond, Wash. : Microsoft
+
+Av
+a
+
+5. FILHO, W. P. P. Engenharia de Software: fundamentos, métodos e padrões. 3a ed. Rio de
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Janeiro: LTC, 2009.
+
+Disciplina: Equações Diferenciais Ordinárias
+Bibliografia Básica
+1. BOYCE, W. E.; DIPRIMA, R. C. Equações diferenciais Elementares e Problemas de Valores
+de Contorno. Rio de Janeiro: LTC, 2007.
+2. DE FIGUEIREDO, D. G.; NEVES, A. Equações Diferenciais Aplicadas. São Paulo: IMPA,
+
+G
+
+2001. (Coleção Matemática Universitária).
+
+Thomson Learning, 2003.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. ZILL, D. G. Equações Diferenciais com aplicações em modelagem. São Paulo: Pioneira
+
+da
+
+1. AYRES JR, F. Equações Diferenciais. Rio de Janeiro: Makron Books, 1994.
+
+Paulo: Harbra, 1988.
+
+çã
+o
+
+2. BASSANEZI, RODNEY C.; FERREIRA JR., W. C. Equações Diferenciais com Aplicações. S.
+
+Plublications, Inc., 1989.
+
+ore
+s
+
+3. CODDINGTON, E. A. An Introduction to Ordinary Differential Equations. New York:Dover
+
+4. LEIGHTON, W. Equações Diferenciais Ordinárias. Rio de Janeiro: Livros Técnicos e Cientí-
+
+lia
+
+ficos S.A, 1978.
+
+eri
+
+5. ZILL, D. G. Equações Diferenciais. 3 ed. São Paulo: Makron Books, 2001. Volume 1.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+6. ZILL, D. G. Equações Diferenciais, 3 ed. São Paulo: Makron Books, 2001. Volume 2.
+
+Disciplina: Física III
+Bibliografia Básica
+1. YOUNG, H. D.; FREEDMAN, R. A. Física III: Eletromagnetismo, São Paulo: Addison Wesley,2008. Volume 3.
+2. HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Eletromagnetismo. Rio
+
+G
+
+de Janeiro: LTC. 1996 Volume 3.
+
+Bibliografia Complementar
+
+UF
+
+Blücher Ltda, 1996. Volume 3.
+
+pe
+las
+
+3. NUSSENZVEIG, H. M. Curso de Física Básica: Eletromagnetismo. São Paulo: Ed. Edgard
+
+Rio de Janeiro: LTC, 2006. Volume 2.
+
+da
+
+1. TIPLER, P. A. Física para cientistas e engenheiros: Eletricidade e Magnetismo, Ótica 5. ed.
+
+çã
+o
+
+2. CHAVES, A.; SAMPAIO, J. L. Física Básica: Eletromagnetismo. São Paulo: LTC, 2007.
+
+2.
+
+ore
+s
+
+3. ALONSO, M.; FINN, E. J. Física: um curso universitário. São Paulo: E. Blucher, 2002. Volume
+
+4. LUIZ, A. M. Problemas de Física. Rio de Janeiro: Guanabara Dois, 1980. Volume 3.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. MCKELVEY, J. P. Física. São Paulo: Harbra, 1979. Volume 3.
+
+Disciplina: Geometria Analítica
+Bibliografia Básica
+1. REIS, G. L; SILVA, V. V. Geometria Analítica. São Paulo: LTC, 1993.
+2. STEINBRUCH, A.; WINTERLE, P. Geometria Analítica. São Paulo: Mc-Graw-Hill, 1987.
+3. OLIVEIRA, I. C.; BOULOS, P. Geometria Analítica: um tratamento vetorial. São Paulo: Pear-
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+son/ Prentice Hall, 2005.
+
+1. SWOKOWSKI, E. W. Cálculo com Geometria Analítica, vol. 1. São Paulo: McGraw-Hill do
+Brasil, 1983. Volume 1.
+
+1.
+
+da
+
+2. LEITHOLD, L. O Cálculo com Geometria Analítica, 3 ed. São Paulo: Harbra, 1994. Volume
+
+Brasil, 1997.
+
+ore
+s
+
+çã
+o
+
+3. BOULOS, P.; CAMARGO, I. Introdução à geometria analítica no espaço. Makron Books do
+
+4. SIMMONS, G. F. Cálculo com Geometria Analítica. São Paulo: McGraw-Hill do Brasil , 1987.
+Volume1.
+
+lia
+
+5. CARVALHO, P. C. P. Introdução à Geometria Espacial. Rio de Janeiro: SBM, 2005. (Coleção
+
+Bibliografia Básica
+
+eri
+
+Disciplina: Inteligência Artificial
+
+Su
+p
+
+Av
+a
+
+do Professor de Matemática).
+
+Em
+
+1. RUSSELL, S; Norvig, P. Inteligência Artificial. 3 ed. Ed. Campus, 2013.
+2. LUGER, G. F. Inteligência Artificial. 6 ed. Editora Pearson, 2014.
+
+ma
+ras
+
+3. FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. C.P. L. F. Inteligência Artificial: Uma
+Abordagem de Aprendizado de Máquina. LTC, 2011.
+
+Bibliografia Complementar
+
+1. COPPIN, B. Inteligência Artificial, LTC, 2010.
+
+2. COSTA, E.; Simões, A. Inteligência Artificial: Fundamentos e Aplicações. 2 ed. FCA, 2008.
+
+Câ
+
+3. ROSA, J. L. G. Fundamentos da Inteligência Artificial. LTC, 2011.
+4. NILSSON, N. Artificial Intelligence: a new synthesis. Morgan Kaufmann, 1998
+5. RICH, E.; KNIGHT, K.; Nair, S. B., Artificial Intelligence. 3 ed. Tata McGraw-Hill, 2009.
+
+Disciplina: Introdução à Computabilidade e à Complexidade Computacional
+Bibliografia Básica
+1. SIPSER, M. Introduction to the theory of computation. USA: Cengage Learning, 2013.
+2. HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos, linguagens e computação. Campus, 2002.
+
+G
+
+3. LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de teoria da computação. 2. ed. Porto
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+Alegre: Bookman, 2000.
+
+completeness. W. H. Freeman and Company, 1979.
+
+2. KOZEN, D. Theory of computation. London: Springer, 2006.
+
+çã
+o
+
+3. KOZEN, D. Automata and computability. Springer-Verlag, 1997.
+
+da
+
+1. GAREY, M.; JOHNSON, D. Computers and intractability: a guide to the theory of NP-
+
+damentos da matemática. 2. ed. Unesp, 2009.
+
+ore
+s
+
+4. CARNIELLI, W. A.; EPSTEIN, R. L. Computabilidade: funções computáveis, lógica e os fun-
+
+5. BALCÁZAR, J.; DIAZ, J.; GABARRÓ, J. Structural complexity I. 2nd ed. Springer, 1994. (In
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Text in Theoretical Computer Science EATCS Series).
+
+Disciplina: Linguagens Formais e Autômatos
+Bibliografia Básica
+1. SUDKAMP, T. A. Languages and machines. 3. ed. Addison Wesley, 2006.
+2. SIPSER, M. Introduction to the theory of computation. ITP, 1997.
+3. HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à teoria de autômatos: lingua-
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+gens e computação. Campus, 2002.
+
+1. RAMOS, M. V. M.; NETO, J. J.; VEGA, I. S. Linguagens formais: teoria, modelagem e implementação. Bookman, 2009.
+
+Editions, 1989.
+
+da
+
+2. CARROLL, J.; LONG D. Theory of finite automata. New Jersey: Prentice-Hall International
+
+ore
+s
+
+Alegre: Bookman, 2000.
+
+çã
+o
+
+3. LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de teoria da computação. 2. ed. Porto
+
+4. MENEZES, P. F. B., Linguagens formais e autônomos. 5. ed. Porto Alegre: Sagra Luzzatto,
+2005.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+2009.
+
+eri
+
+lia
+
+5. ROSEN, K. H. Matemática discreta e suas aplicações. 6. ed. Rio de Janeiro: McGraw Hill,
+
+Disciplina: Matemática Discreta
+Bibliografia Básica
+1. ROSEN, K. H. Matemática Discreta e Suas Aplicações, 6. ed. Boston: McGraw-Hill, 2009.
+2. SANTOS, J. P. D. O. Introdução à Teoria dos Números. IMPA, 2006. (Coleção Matemática
+Universitária).
+
+G
+
+3. COUTINHO, S. C. Números Inteiros e Criptografia RSA. 5. ed. IMPA, 2003. (Coleção Mate-
+
+UF
+
+Bibliografia Complementar
+
+pe
+las
+
+mática e Aplicações).
+
+1. GRIMALDI, R. P. Discrete and Combinatorial Mathematics: An Applied Introduction. 5.
+
+Addison-Wesley, Boston, 2003.
+
+da
+
+Boston: Pearson Addison-Wesley, 2003. ematics - An Applied Introduction, 5. ed. Pearson -
+
+tion, 2011.
+
+3. HERSTEIN, I. Abstract Algebra. 2 ed. Wiley, 1996.
+
+ore
+s
+
+çã
+o
+
+2. ROSEN, K. H. Elementary Number Theory and Its Application, 7. ed., McGraw-Hill Educa-
+
+4. GONÇALVES, A. Introdução à Álgebra, 5. ed. Rio de Janeiro: CNPQ-IMPA, 2013.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. LEMOS, M. J. M. S. Criptografia, Números Primos e Algoritmos, IMPA 2007.
+
+Disciplina: Metodologia de Pesquisa em Computação
+Bibliografia Básica
+1. MARCONI, M. A.; LAKATOS, E. M.. Fundamentos de Metodologia Científica. 7. ed. São
+Paulo: Atlas, 2010.
+2. SEVERINO, A. J. Metodologia do Trabalho Científico. 22. ed. Revisada e ampliada. São
+
+G
+
+Paulo: Cortez, 2007.
+
+2009.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação, 1. ed. Elsevier,
+
+na graduação. 9. ed. São Paulo: Atlas, 2009.
+
+da
+
+1. ANDRADE, M. M. Introdução à metodologia do trabalho científico: elaboração de trabalhos
+
+ore
+s
+
+Hall, 2010. (3. Reimpressão).
+
+çã
+o
+
+2. BARROS, A. J. S. Fundamentos da Metodologia Científica. 3. ed. São Paulo. Pearson Prentice
+
+3. CERVO, Amado L. Metodologia Científica: Para uso dos estudantes universitários. 3. ed.
+São Paulo: Mc Graw Hill, 1983.
+
+lia
+
+4. GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. ZOBEL, J. Writing for Computer Science, 3. ed., Springer, 2014.
+
+Disciplina: Pesquisa Operacional
+Bibliografia Básica
+1. BREGALDA, P. F.; OLIVEIRA, A. A. F.; BORNSTEIN, C. T. Introdução à Programação Linear.
+3. ed. Rio de Janeiro: Campus, 1983.
+2. GOLBARG, M.; LUNA, H. Otimização Combinatória e Programação Linear. 2. ed. Campus,
+
+G
+
+2005.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. TAHA, H. Pesquisa Operacional. 8. ed. Prentice Hall, 2008.
+
+Wiley, 2009.
+
+da
+
+1. BAZARAA M.S.; JARVIS, J.J.; SHERALI, H. D. Linear Programming and Network Flows.
+
+2. HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9. ed. Amgh Editora,
+
+çã
+o
+
+2013.
+
+2000.
+
+ore
+s
+
+3. PARLAR, M. Interactive Operations Research with Maple: Methods and Models. Birkhauser,
+
+4. SILVA, E. M. et al. Pesquisa Operacional: Programação Linear, simulação. 3. ed. Atlas, 1998.
+
+Disciplina: Projeto Final de Curso 1
+Bibliografia Básica
+
+Su
+p
+
+Av
+a
+
+1997.
+
+eri
+
+lia
+
+5. WINSTON, W. L. Operations Research Applications and Algorithms. 3rd ed. Duxbury Press,
+
+Bibliografia Complementar
+
+ma
+ras
+
+Em
+
+• Bibliografia a ser definida sob supervisão de um professor orientador.
+
+Câ
+
+• Bibliografia a ser definida sob supervisão de um professor orientador.
+
+Disciplina: Projeto Final de Curso 2
+Bibliografia Básica
+• Bibliografia a ser definida sob supervisão de um professor orientador.
+
+Bibliografia Complementar
+
+G
+UF
+
+Bibliografia Básica
+
+da
+
+Disciplina: Redes de Computadores 1
+
+pe
+las
+
+• Bibliografia a ser definida sob supervisão de um professor orientador.
+
+1. KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach. 6th ed. Pearson,
+
+çã
+o
+
+2012.
+
+ore
+s
+
+2. TANENBAUM, A. S. Computer Networks. 5th ed. Pearson, 2010.
+
+Bibliografia Complementar
+
+lia
+
+3. STALLINGS, W. Data and Computer Communications. 10th ed. Pearson, 2014.
+
+Av
+a
+
+Kaufmann, 2011.
+
+eri
+
+1. PETERSON, L.L.; DAVIE, B.S. Computer Networks: A Systems Approach. 5th ed. Morgan
+
+2. DANTAS, M. Redes de Comunicaçao e Computadores : abordagem quantitativa. Floriano-
+
+Su
+p
+
+polis: Visual Books, 2010.
+
+3. BEHROUZ F. A. Data Communications and Networking, 5th ed. McGraw-Hill Education,
+2012.
+
+Em
+
+4. DAY, J. Patterns in Network Architecture: A Return to Fundamentals. 1st ed. Pearson, 2008
+5. TORRES, G. - Redes de Computadores : curso completo. Rio de janeiro: Axcel Books, 2001.
+
+ma
+ras
+
+6. SOARES, L. F. G. Redes de Computadores : das LANS, MANS e WANS as Redes ATM. 2 ed.
+
+Câ
+
+rev. e ampl. Rio de Janeiro: Campus, 1995.
+
+Disciplina: Redes de Computadores 2
+Bibliografia Básica
+1. KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach. 6th ed. Pearson,
+2012.
+2. STALLINGS, W. Data and Computer Communications. 10th ed. Pearson, 2014.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. TANENBAUM, A. S. Computer Networks. 5th ed. Pearson, 2010.
+
+1. PETERSON, L.L.; DAVIE, B.S. Computer Networks: A Systems Approach. 5th ed. Morgan
+Kaufmann, 2011.
+
+2012.
+
+da
+
+2. BEHROUZ F. A. Data Communications and Networking. 5th ed. McGraw-Hill Education,
+
+çã
+o
+
+3. MOLISCH, A. F. Wireless Communications. 2nd ed. John Wiley & Sons, 2011.
+
+ed. Addison-Wesley Professional, 2015.
+
+ore
+s
+
+4. STALLINGS, W. Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud. 1st
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. GRAYVER, E. Implementing Software Defined Radio. 1st ed. Springer, 2013.
+
+Disciplina: Sistemas Distribuídos
+Bibliografia Básica
+1. COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. Sistemas Distribuídos: Conceitos e Projeto. 5. ed. Bookman Editora, 2013.
+2. KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Abordagem Top-
+
+G
+
+down, 5. Ed. Addison Wesley, 2010.
+
+Bibliografia Complementar
+
+UF
+
+Pearson Education do Brasil, 2008.
+
+pe
+las
+
+3. TANENBAUM, A. S; STEEN, M. van. Sistemas Distribuídos: Princípios e Paradigmas. 2. ed.
+
+and CORBA. Berlin Heidelberg: Springer-Verlag, 2005.
+
+da
+
+1. ALEKSY, M.; KORTHAUS, A.; SCHADER, M. Implementing Distributed Systems with Java
+
+Pearson. 2000.
+
+ore
+s
+
+çã
+o
+
+2. ANDREWS, G. R. Foundations of Multithreaded, Parallel, and Distributed Programming.
+
+3. LYNCH, A. Distributed Algorithms. Morgan Kaufmann, 1997. (The Morgan Kaufmann series in data management systems).
+
+Systems. Cambridge University Press, 2008.
+
+eri
+
+lia
+
+4. KSHEMKALYANI, D.; SINGHAL, M. Distributed Computing Principles, Algorithms, and
+
+Av
+a
+
+5. LININGTON, P.; MILOSEVIC, Z.; TANAKA, A.; VALLECILLO, A. Building Enterprise Sys-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+tems with ODP. Chapman & Hall/CRC Press, 2011.
+
+Disciplina: Sistemas Gerenciadores de Bancos de Dados
+Bibliografia Básica
+1. ELMASRI, R.; NAVATHE, S.B. Sistemas de Banco de Dados. 6. ed. Pearson - Addison Wesley,
+2015.
+2. GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database Systems: The Complete
+
+G
+
+Book. 2. ed. Prentice Hall, 2009.
+
+de Janeiro: Campus, 2006.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. SILBERSCHATZ, A.; KORTH, H.F.; SUDARSHAN, S. Sistema de Banco de Dados. 5. ed. Rio
+
+ção da 3. ed. São Paulo:McGraw-Hill, 2008.
+
+da
+
+1. RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados. Tradu-
+
+ore
+s
+
+Janeiro: Campus, 2004.
+
+çã
+o
+
+2. DATE, C. J. Introdução a Sistemas de Banco de Dados. Tradução da 8. ed. americana. Rio de
+
+3. CONNOLLY, T. M.; Begg, C. E.; Strachan, A. D. Database systems : a practical approach to
+design, implementation and management. 3rd. ed. Addison Wesley, 2010.
+
+lia
+
+4. DITTRICH, J. Patterns in Data Management: A Flipped Textbook. 1. ed. CreateSpace Inde-
+
+eri
+
+pendent Publishing Platform, 2016.
+
+Av
+a
+
+5. GRAY, G.; REUTER, A. Transaction Processing: Concepts and Techniques. 1. ed., Morgan
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Kaufmann, 1992.
+
+Disciplina: Sistemas Operacionais
+Bibliografia Básica
+1. TANENBAUM, A. S. Sistemas Operacionais Modernos. 3. ed. Pearson, 2009.
+2. SILBERSCHATZ, A.; GALVIN, P.; GAGNE, G. Fundamentos de Sistemas Operacionais. 8.
+
+3. MAZIERO, C. A.. Sistemas Operacionais: Conceitos e Mecanismos. Disponível em:
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+http://wiki.inf.ufpr.br/maziero/doku.php?id=so:livro_de_sistemas_operacionais
+
+G
+
+ed. LTC, 2010.
+
+ed. Bookman, 2008.
+
+da
+
+1. TANEMBAUM, A.; WOODHULL, A. Sistemas Operacionais: Projeto e Implementação. 3.
+
+2. KIFER, M.; SMOLKA, S. OSP: An environment for Operating Systems Projects. Addison-
+
+çã
+o
+
+Wesley, 1991.
+
+4. VAHALIA, U. Unix Internals. Prentice Hall, 1996.
+
+ore
+s
+
+3. STALLINGS, W. Operating Systems: Internals and Design Principals; 8th ed. Pearson, 2014.
+
+5. OLIVEIRA, R.; CARISSINI, A.; TOSCANI, S. Sistemas Operacionais. Bookman, 2010. (Série
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Livros Didáticos Informática UFGRS).
+
+Disciplina: Software Básico
+Bibliografia Básica
+1. BRYANT, R.; O’HALLARON, D. Computer Systems: A programmer’s Perspective. 2nd ed.
+Prentice Hall, 2011.
+2. DUNTEMANN, J. Assembly Language Step-by-Step: Programming wiht Linux. 3rd. ed.
+
+G
+
+Willey, 1999.
+
+P.
+
+A.
+
+PC
+
+Assembly
+
+http://www.drpaulcarter.com/pcasm/)
+
+Language,
+
+2006.
+
+UF
+
+
+(disponível
+
+em:
+
+da
+
+Bibliografia Complementar
+
+pe
+las
+
+3. WARFORD, J. S. Computer Systems. 4th ed. Jones and Bartlet Publishers, 2010.
+
+2. CARPINELLI, J. D. Computer systems organization & architecture. Addison-Wesley, 2001.
+
+çã
+o
+
+3. HENNESSY, J. L.; PATTERSON, D. A. Computer organization and design: the hardware /
+
+4. LOVE, R. Linux system programming. O’Reilly, 2007.
+
+ore
+s
+
+software interface, 2nd ed. Morgan Kaufmann Publishers, 1998.
+
+5. KERRISK, M. The Linux Programming Interface: A Linux and Unix System Programming
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Handbook. No Starch Press, 2010.
+
+Disciplina: Teoria dos Grafos
+Bibliografia Básica
+1. BONDY, A.; MURTY, U. S. R. Graph Theory. Springer, 2008. (Graduate Texts in Mathematics).
+2. ROSEN, K. H. Matemática Discreta e suas Aplicações. 6. ed. Rio de Janeiro: McGraw Hill,
+2009.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. SZWARCFITER, J. L. Grafos e Algoritmos Computacionais. Campus, 1984.
+
+1. WEST, D. Introduction to Graph Theory. Prentice Hall, 2000
+
+2003.
+
+da
+
+2. BOAVENTURA NETTO, P. O. Grafos: Teoria, Modelos, Algoritmos. Editora Edgard Blucher,
+
+çã
+o
+
+pus, 2012.
+
+4. DIESTEL, R. Graph theory. 3rd. ed. Springer, 2000.
+
+ore
+s
+
+3. CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L. Algoritmos: Teoria e Prática. 3. ed. Cam-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. BOLLOBÁS, B. Modern Graph Theory. Springer Verlag, 1998.
+
+
+Disciplinas optativas
+
+Disciplina: Aprenidizagem de Máquina e Mineração de Dados
+Bibliografia Básica
+1. FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. C.P. L. F. Inteligência Artificial: Uma
+Abordagem de Aprendizado de Máquina. LTC, 2011.
+
+UF
+
+pe
+las
+
+Kaufmann Publishers, 2011.
+
+G
+
+2. HAN, J.; KAMBER, M.; PEI, J. Data Mining: Concepts and Techniques. 3rd ed. Morgan
+
+3. WITTEN, I. H.; FRANK, E.; HALL, M. A. Data Mining: Practical Machine Learning Tools
+
+Bibliografia Complementar
+
+da
+
+and Techniques. 3rd ed. Morgan Kaufmann Publishers, 2011.
+
+1. TAN, Pang-Ning; STENBACH M.; KUMAR, V. Introduction to Data Mining. Addison-
+
+çã
+o
+
+
+3. MITCHELL, T. Machine Learning. McGraw Hill, 1997.
+
+ore
+s
+
+2. ALPAYDIN, E. Introduction to Machine Learning. MIT Press, 2004.
+
+lia
+
+4. BISHOP, C. M. Pattern Recognition and Machine Learning, Springer, 2006.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. RUSSELL, S; NORVIG P. Inteligência Artificial. 3. ed. Campus, 2013.
+
+Disciplina: Armazém de Dados
+Bibliografia Básica
+1. KIMBALL, R.; ROSS, M.: The Data Warehouse Toolkit: The Complete Guide to Dimensional
+Modeling. 2. ed. Wiley, 2002.
+2. KIMBALL, R., ROSS, M., THORNTHWAITE, W., MUNDY, J., BECKER, B.: The Data Wa-
+
+G
+
+rehouse Lifecycle Toolkit. 2a. Edição. Wiley, 2008.
+
+Edição. Springer, 2014.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. VAISMAN, A., ZIMÁNYI, E.: Data Warehouse Systems: Design and Implementation. 1a.
+
+ley, 2015.
+
+da
+
+1. ELMASRI, R., NAVATHE, S.B., Sistemas de Banco de Dados, 6ª ed., Pearson - Addison Wes-
+
+Book, 2a. edição, Prentice Hall, 2009.
+
+ore
+s
+
+çã
+o
+
+2. GARCIA-MOLINA, H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete
+
+3. INMON, W. H.: Building the Data Warehouse. 4a. Edição. Wiley, 2005.
+
+4. KIMBALL, R., CASERTA, J.: The Data Warehouses ETL Toolkit: Practical Techniques for
+
+lia
+
+Extracting, Cleaning, Conforming, and Delivering Data. 1a. Edição. Wiley, 2004.
+
+eri
+
+5. JARKE, M., LENZERINI, M., VASSILIOU, Y., VASSILIADIS, P.: Fundamentals of Data Wa-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+rehouses. 2a. Edição. Springer, 2002.
+
+Disciplina: Avaliação de Desempenho de Sistemas Computacionais
+Bibliografia Básica
+1. JAIN, R. The Art of Computer Systems Performance Analysis: Techniques for Experimental
+Design, Measurement, Simulation, and Modeling. John Wiley and Sons, 1991.
+2. ROSS, S. M. Introduction to Probability Models. 9th ed. Academic Press, Elsevier 2006.
+
+G
+
+3. MENASCE, D. A.; ALMEIDA, V. Capacity planning for web services. Upper Saddle River,
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+NJ, USA: Prentice Hall PTR, 2001.
+
+1. KLEINROCK, L. Queueing Systems Theory. John Wiley and Sons, Inc., 1975. (Vol. I).
+
+(Vol. II).
+
+da
+
+2. KLEINROCK, L. Queueing Systems: Computer Applications. John Wiley and Sons, 1975.
+
+Applications. John Wiley and Sons, 2006
+
+ore
+s
+
+çã
+o
+
+3. CROVELLA, M.; KHRISHNAMURTHY, B. Internet Measurement: Infrastructure, Traffic and
+
+4. LAZOWSKA, E.; ZAHORJAN J.; GRAHAM, S.; SEVCIK, K. Quantitative System Performance. Prentice-Hall, 1984.
+
+lia
+
+5. ALLEN, A. O. Probability, Statistics, and Queueing Theory with Computer Science Applica-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+tions. Academic Press, 1990.
+
+Disciplina: Banco de Dados Distribuídos
+Bibliografia Básica
+1. DOAN, A., HALEVY, A., IVES, Z., Principles of Data Integration. Morgan-Kaufmann, 1a.
+edição, Morgan-Kaufmann, 2012.
+2. GARCIA-MOLINA, H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete
+
+G
+
+Book, 2a. edição, Prentice Hall, 2009.
+
+ger, 2011.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. ÖZSU, M. T., VALDURIEZ, P., Principles of Distributed Database Systems. 3a. edição, Sprin-
+
+ceitos e Projeto. 5. ed. Bookman Editora, 2013.
+
+da
+
+1. COULOURIS, G.F.; DOLLIMORE, J.; KINDBERG T.; BLAIR G. Sistemas Distribuídos: Con-
+
+ore
+s
+
+Kaufmann, 1992.
+
+çã
+o
+
+2. GRAY, G., REUTER, A., Transaction Processing: Concepts and Techniques. 1ª ed., Morgan
+
+3. ELMASRI, R., NAVATHE, S. B., Sistemas de Banco de Dados, 6ª ed., Pearson - Addison Wesley, 2015.
+
+Ed. Campus, Rio de Janeiro, 2006.
+
+eri
+
+lia
+
+4. SILBERSCHATZ, A., KORTH, H.F. e SUDARSHAN, S., Sistema de Banco de Dados, 5ª ed.,
+
+Av
+a
+
+5. TANENBAUM, A. S; STEEN, M. van. Sistemas Distribuídos: Princípios e Paradigmas. 2.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+edição, Pearson Education do Brasil, 2008.
+
+Disciplina: Computação Evolucionária
+Bibliografia Básica
+1. LIDEN, R. Algoritmos Genéticos. 3. ed. Brasport, 2008.
+2. ENGELBRECHT, A. P. Computational Intelligence: An Introduction. New York: Wiley, 2002.
+
+UF
+
+pe
+las
+
+Bibliografia Complementar
+
+G
+
+3. DE-JONG, K A. Evolutionary Computation: A Unified Approach. MIT Press, 2006.
+
+1. CHENG, R.; GEN, M. Genetic Algorithms and Engineering Optimization. New York: Wiley,
+2000. (Wiley series in engineering design and automation).
+
+Berlin, 2006.
+
+da
+
+2. DRÉO, J. Metaheuristics for Hard Optimization Methods and Case Studies. Berlin: Springer
+
+3. RUSSELL, S. J. Artificial Intelligence: a Modern Approach 3. ed Upper Saddle River:
+
+çã
+o
+
+Prentice-Hall, 2010. (Prentice-Hall series in artificial intelligence).
+
+Wiley, 2005. (Enc.)
+
+ore
+s
+
+4. ENGELBRECHT, A. P. Fundamentals of computational swarm intelligence. Hoboken, NJ:
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. MITCHELL, M. An introduction to genetic algorithms Cambridge: MIT Press, 1996. (enc.)
+
+Disciplina: Computação Móvel e Ubíqua
+Bibliografia Básica
+1. KRUMM, J. Ubiquitous Computing Fundamentals. 1st ed. Chapman & Hall/CRC, 2009.
+2. GREENFIELD, A. Everyware: The Dawning Age of Ubiquitous Computing. 1st ed. New
+Riders Publishing, 2006.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. NEIL, T. Padrões de Design para Aplicativos Móveis. O’Reilly, 2012.
+
+1. WEISER, M. The computer for the 21st century. SIGMOBILE Mob. Comput. Commun.
+Rev.3, 3 (July 1999), 3-11.
+
+da
+
+2. GUBBI, J; BUYYA, R.; MARUSIC, S.; PALANISWAMI M. Internet of Things (IoT): A vision,
+architectural elements, and future directions. Future Gener. Comput. Syst. 29, 7 September
+
+çã
+o
+
+2013, 1645-1660.
+
+ore
+s
+
+3. GARDNER J.D.; GRIGSBY, J. Head First Mobile Web. O’Reilly, 2011.
+
+4. Android Developers (https://developer.android.com/), acessado em Junho de 2016.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. Apple Developer (https://developer.apple.com), acessado em Junho de 2016.
+
+Disciplina: Computação Verde
+Bibliografia Básica
+1. KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet. 6. ed. Addison Wesley Pearson Brasil, 2014.
+2. STALLINGS, W. Data and Computer Communications. 10th ed. Pearson, 2014.
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+3. TANENBAUM, A. S. Computer Networks. 5th ed. Pearson, 2010.
+
+1. OLIVEIRA-JR, A. Energy Efficiency for User-centric Routing. PhD Thesis, MAP-i Doctoral
+Programme in Computer Science. Universities of Minho, Aveiro and Porto, 2014.
+
+puter Science. 3ed. Springer International Publishing, p.137-156, 2014.
+
+da
+
+2. OLIVEIRA-JR, A.; SOFIA, R. Energy-Awareness in Multihop Routing. Lecture Notes in Com-
+
+Press, 2014.
+
+ore
+s
+
+çã
+o
+
+3. FENG, W-C. The Green Computing Book: Tackling Energy Efficiency at Large Scale. CRC
+
+4. SMITH, B. E. Green Computing: Tools and Techniques for Saving Energy, Money, and Resources. Auerbach Publications, 2013.
+
+lia
+
+5. HARCHOL-BALTER, M. Performance Modeling and Design of Computer Systems - Queu-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+eing Theory in Action, 1st ed. Cambridge University Press, 2013.
+
+Disciplina: Desenvolvimento de Sistemas para a Web
+Bibliografia Básica
+1. LAUDON, K. C; LAUDON, J. P. Sistemas de informação gerenciais: administrando a empresa
+digital. 9. ed., São Paulo: Pearson Prentice-Hall, 2010.
+2. MATTOS, A. C. M. Sistemas de informação: uma visão executiva. 2. ed., São Paulo: Saraiva,
+
+G
+
+2010.
+
+Bibliografia Complementar
+
+UF
+
+2010.
+
+pe
+las
+
+3. PRESSMAN, R. S. Software engineering: a practitioner’s approach. 7. ed., McGraw-Hill,
+
+1. ed., São Paulo: Saraiva, 2006.
+
+da
+
+1. BATISTA, E. O. Sistemas de Informação o uso consciente da tecnologia para o gerenciamento.
+
+çã
+o
+
+2. Software Engineering Body of Knowledge (SWEBOK), Version 3.0, IEEE Computer Society,
+
+ore
+s
+
+2014. Disponível on-line em: http://www.computer.org/web/swebok/v3.
+
+3. ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6. ed. Pearson - Addison Wesley,
+2011.
+
+lia
+
+4. TIDWELL, J. Designing interfaces Beijing, Sebastopol, CA: O’Reilly, 2006.
+
+eri
+
+5. BAI, Y. Practical Database Programming with Java. Wiley-IEEE Press, 2011. Disponível on-
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+line: http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=5988888.
+
+Disciplina: Desenvolvimento de Software Dirigido por Modelos
+Bibliografia Básica
+1. MELLOR, S. J.; KENDALL, S.; UHL, A.; WEISE, D. MDA Distilled. Redwood City, CA, USA:
+Addison Wesley Longman Publishing Co., Inc., 2004.
+2. STAHL, T.; VOELTER, M.; CZARNECKI, K. Model-Driven Software Development: Techno-
+
+G
+
+logy, Engineering, Management. John Wiley & Sons, 2006.
+
+UF
+
+pe
+las
+
+3. MELLOR, S. J.; BALCER, M. Executable UML: A Foundation for Model-Driven Architectures.
+Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc., 2002.
+
+Bibliografia Complementar
+
+1st ed. Morgan & Claypool Publishers, 2012.
+
+da
+
+1. BRAMBILLA, M.; CABOT, J.; WIMMER, M. Model-Driven Software Engineering in Practice.
+
+blishing, 2013.
+
+ore
+s
+
+çã
+o
+
+2. BETTINI, L. Implementing Domain-Specific Languages with Xtext and Xtend. Packt Pu-
+
+3. STEINBERG, D.; BUDINSKY, F.; PATERNOSTRO, M.; MERKS, E. Emf: Eclipse Modeling
+Framework 2.0. 2nd ed. Addison-Wesley Professional, 2009.
+
+eri
+
+USA: IGI Global, 2013.
+
+lia
+
+4. DAZ, V. G. Advances and Applications in Model-Driven Engineering. 1st ed. Hershey, PA,
+
+Av
+a
+
+5. VOELTER, M. ; BENZ, S.; DIETRICH, C.; ENGELMANN, B.; HELANDER, M.; KATS, L. C.
+L.; VISSER, E.; WACHSMUTH, G. DSL Engineering - Designing, Implementing and Using
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Domain-Specific Languages. dslbook.org, 2013.
+
+Disciplina: Empreendedorismo Digital
+Bibliografia Básica
+1. BARON, R. A.; SHANE, S. A. Empreendedorismo: Uma Visão do Processo. 1. ed. São Paulo:
+Editora Thomson Learning, 2011.
+2. FARAH, O.; CAVALCANTI, M.; MARCONDES, L. Empreendedorismo Estratégico: Criação
+
+G
+
+e Gestão de Pequenas Empresas. São Paulo: Editora Thomson Learning, 2008.
+
+UF
+
+pe
+las
+
+3. SALIM, C.; HOCHMAN, N.; RAMAL, A.; RAMAL, S. Construindo planos de negócios: to-
+
+Janeiro: Editora Elsevier, 2005.
+
+Bibliografia Complementar
+
+da
+
+dos os passos necessários para planejar e desenvolver negócios de sucesso. 3. ed. Rio de
+
+1. CAVALCANTI, M. Gestão estratégica de negócios: evolução, cenários, diagnóstico e ação. 2.
+
+çã
+o
+
+ed. São Paulo: Pioneira Thomson Learning, 2007.
+
+Paulo: Saraiva, 2008.
+
+ore
+s
+
+2. CHIAVENATO, I. Empreendedorismo: Dando asas ao espírito empreendedor. 2.ed. São
+
+3. DOLABELA, F. O segredo de Luísa: uma ideia e uma paixão e plano de negócios. GMT
+
+lia
+
+Editores, 2008.
+
+eri
+
+4. FERRARI, R. Empreendedorismo para computação: criando negócios de tecnologia. 1. ed.
+
+Av
+a
+
+Rio de Janeiro: Elsevier, 2009.
+
+5. IBPQ. GEM – Global Entrepreneurship Monitor. Empreendedorismo no Brasil: Relatório
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Executivo. Paraná: IBPQ, 2014. Disponível em http://www.ibqp.org.br/
+
+Disciplina: Engenharia de Sistemas
+Bibliografia Básica
+1. SCHNEIDEWIND, N. F. Systems and Software Engineering with Applications. New York,
+NY: IEEE, 2009.
+2. INCOSE. Systems Engineering Handbook: A Guide for System Life Cycle Processes and Ac-
+
+G
+
+tivities, version 3.2.2. San Diego, CA, USA: International Council on Systems Engineering
+
+UF
+
+pe
+las
+
+(INCOSE), INCOSE-TP-2003-002-03.2.2, 2012.
+
+Boston: Addison Wesley, 2001.
+
+Bibliografia Complementar
+
+da
+
+3. WIDRIG, D.; LEFFINGWELL, D, Managing Software Requirements: a Unified Approach.
+
+1. MADACHY, R. J. Systems Engineering Principles for Software Engineers. 1a. ed. CRC Press,
+
+çã
+o
+
+2016.
+
+nica, 1968.
+
+ore
+s
+
+2. WILSON, W. E. Conceptos sobre Ingenieria. Buenos Aires. Centro Regional de Ayuda Tec-
+
+3. SILVA FILHO, B. S.; NISE, N. S. Engenharia de Sistemas de Controle, 3 ed. LTC, 2002.
+
+1992.
+
+eri
+
+lia
+
+4. MAFFEO, B. Engenharia de Software e Especificação de Sistemas. Rio de Janeiro: Campus,
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. NASCIMENTO, J. B. Metodologias de Desenvolvimento de Sistemas. São Paulo: Erica, 1993.
+
+Disciplina: Engenharia de Software Baseada em Busca
+Bibliografia Básica
+1. DRÉO, J. Metaheuristics for Hard Optimization: Methods and Case Studies. Berlin: Springer
+Berlin, 2006.
+2. DE JONG, K. A. Evolutionary Computation a unified approach Cambridge. Mass.: MIT
+
+G
+
+Press, 2006.
+
+2000.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. CHENG, R.; GEN, M. Genetic Algorithms and Engineering Optimization. New York: Wiley,
+
+2. LINDEN, R. Algoritmos Genéticos. 3. ed. Brasport, 2008.
+
+da
+
+1. ENGELBRECHT, A. P. Computational Intelligence: An Introduction. New York: Wiley, 2002.
+
+Hall, 2010.
+
+ore
+s
+
+çã
+o
+
+3. RUSSELL, S. J. Artificial intelligencea modern approach 3. ed. Upper Saddle River: Prentice-
+
+4. ENGELBRECHT, A. P. Fundamentals of Computational Swarm Intelligence. Hoboken, NJ:
+Wiley, 2005.
+
+lia
+
+5. HARMAN M.; MCMINN, P.; SOUZA, J. T de; YOO, S. Search based Software Engineering:
+
+eri
+
+Techniques, Taxonomy, Tutorial. Berlin, Heidelberg: Springer-Verlag, 2012. (In Empirical
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Software Engineering and Verification. Bertrand Meyer and Martin Nordio (Eds.)).
+
+Disciplina: Física I
+Bibliografia Básica
+1. YOUNG, H. D.; FREEDMAN, R. A. Física I: Mecânica, v. 1. São Paulo: Addison Wesley.
+2. HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Mecânica, 1. Rio de
+Janeiro: LTC.
+
+G
+
+3. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica, v. 1. São Paulo: Ed. Edgard Blü-
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+cher Ltda.
+
+Termodinâmica, v. 1. Rio de Janeiro: LTC.
+
+da
+
+1. TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros: Mecânica, Oscilações e Ondas,
+
+2. CHAVES, A.; SAMPAIO, J. L. Física Básica: Mecânica, v. 1. São Paulo: LTC.
+
+çã
+o
+
+3. ALONSO, M.; FINN, E. J. Física: um curso universitário, v. 1. São Paulo: E. Blucher.
+
+5. MCKELVEY, J. P. Física, v. 1. São Paulo: Harbra.
+
+ore
+s
+
+4. LUIZ, A. M. Problemas de Física, v. 1. Rio de Janeiro: Guanabara Dois
+
+6. SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D. Física, v. 1. Rio de Janeiro: LTC.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+7. SERWAY, R. A.; JEWETT JUNIOR, J. W. Princípios de Física, v. 1. São Paulo: Thomson
+
+Disciplina: Fundamentos da Programação Lógica e Funcional
+Bibliografia Básica
+1. AYALA-RINCÓN, M. ; MOURA, F.L.C. Fundamentos da Programação Lógica e Funcional:
+O Princípio de Resolução e a Teoria de Reescrita. Notas de Aula.
+2. BAADER, F.; NIPKOW, T. Term Rewriting and All That. Cambridge Univ. Press, 1998.
+
+G
+
+3. GALLIER, J. H. Logic for Computer Science: Foundations of Automatic Theorem Proving.
+
+Bibliografia Complementar
+
+1. LLOYD, J. W. Foundations of Logic Programming. 2. ed. Springer, 1987.
+GIORNO, F.A.C.;
+
+CASANOVA, M. A. Programação em Ló-
+
+gica e a Linguagem PROLOG. Blucher,
+
+1987.
+
+(Dsponível em www.inf.puc-
+
+rio.br/ casanova/Publications/Books/1987-PL.pdf).
+
+çã
+o
+
+da
+
+2. FURTADO, A. L.;
+
+UF
+
+pe
+las
+
+2nd ed. Dover, 2015.
+
+ore
+s
+
+3. BEZEM, M.; KLOP, J. W.; VRIJER, R. Term Rewriting Systems by TeReSe. Cambridge UP,
+2003. (In Cambridge Tracts in Theoretical Computer Science).
+
+4. KLOP, J. W. Term Rewriting Systems. In: S. Abramsky, D.M. Gabbay and T.S.E. Maibaum,
+
+lia
+
+editors. Handbook of Logic in Computer Science. Clarendon Press, 1992. Vol. 2, p. 1-116.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Press, 1992. ( Foundations of Computer Series).
+
+eri
+
+5. GUNTER, C. A. Semantics of Programming Languages: Structures and Techniques. MIT
+
+Disciplina: Integração de Dados
+Bibliografia Básica
+1. DOAN, A., HALEVY, A., IVES, Z., Principles of Data Integration. Morgan-Kaufmann, 1a.
+Edição, Morgan-Kaufmann, 2012.
+2. GARCIA-MOLINA, H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete
+
+G
+
+Book, 2a. edição, Prentice Hall, 2009.
+
+Bibliografia Complementar
+
+1. EUZENAT, J., SHVAIKO, P., Ontology Matching, 1ª ed., Springer, 2007.
+
+UF
+
+ger, 2011.
+
+da
+
+pe
+las
+
+3. ÖZSU, M. T., VALDURIEZ, P., Principles of Distributed Database Systems. 3a. edição, Sprin-
+
+2. CHRISTEN, P., Data Matching: Concepts and Techniques for Record Linkage, Entity Resolu-
+
+çã
+o
+
+tion, and Duplicate Detection. 1a. Ed., Springer, 2012.
+
+ore
+s
+
+3. KIMBALL, R., CASERTA, J.: The Data Warehouses ETL Toolkit: Practical Techniques for
+Extracting, Cleaning, Conforming, and Delivering Data. 1a. Edição. Wiley, 2004.
+
+Wesley, 2006.
+
+lia
+
+4. TAN, P., STEINBACH, M., KUMAR, V., Introduction to Data Mining. 1a. Edição, Addison
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Edição. Springer, 2014.
+
+eri
+
+5. VAISMAN, A., ZIMÁNYI, E.: Data Warehouse Systems: Design and Implementation. 1a.
+
+Disciplina: Introdução à Língua Brasileira de Sinais
+Bibliografia Básica
+1. FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da
+Educação e do Desporto/Secretaria de Educação Especial, 2001.
+2. PEREIRA, M. C. C., CHOI, D. (et alli). LIBRAS – Conhecimento além dos sinais. São Paulo:
+
+G
+
+Pearson, 2011.
+
+2008.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. PIMENTA, N.; QUADROS, R. M. Curso de LIBRAS 1 – Iniciante. 3 ed. Porto Alegre: Pallotti,
+
+vinter, 2004.
+
+da
+
+1. ALMEIDA, E. C., DUARTE, P. M. Atividades ilustradas em sinais da Libras. São Paulo: Re-
+
+çã
+o
+
+2. BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995.
+
+ore
+s
+
+3. CAPOVILLA, F. C., RAPHAEL, W. D., MAURÍCIO, A. C. L. Dicionário Enciclopédico Ilustrado Trilíngüe da Língua de Sinais Brasileira, v 1 e 2. São Paulo: Editora da Universidade
+de São Paulo, 2010.
+
+lia
+
+4. CAPOVILLA, F. C.; RAPHAEL, W. D. (ed.). Enciclopédia da Língua de Sinais Brasileira. v.
+
+eri
+
+
+Av
+a
+
+5. GESSER, Audrei. LIBRAS? Que língua é essa? : Crenças e preconceitos em torno da língua
+de sinais e da realidade surda. São Paulo: Parábola Editorial, 2009.
+
+ma
+ras
+
+Câ
+
+Em
+
+MED: Porto Alegre, 2004.
+
+Su
+p
+
+6. QUADROS, R. M. de; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos. ART-
+
+Disciplina: Introdução à Teoria das Provas
+Bibliografia Básica
+1. TROELSTRA, A. S.; SCHWITCHTENBERG, H. Basic Proof Theory. CUP 2000. (Cambridge
+Tracts in Theoretical Computer Science).
+2. NEGRI, S.; VON PLATO, J. Structural Proof Theory. CUP 2001.
+
+G
+
+3. BUSS, S. R. Handbook of Proof Theory. North Holland: Elsevier, 1998. ( Studies in Logic and
+
+Bibliografia Complementar
+
+2. TAKEUTI, G. Proof Theory. 2nd ed. Amsterdam: North-Holland, 1987.
+
+da
+
+1. PRAWITZ, D. Natural Deduction: A Proof-Theoretical Study. Dover, 2006.
+
+UF
+
+pe
+las
+
+the Foundations of Mathematics, Vol. 137).
+
+3. POHLERS, W. Proof Theory: The First Step into Impredicativity. Universitext. Spriger-
+
+çã
+o
+
+Verlag, 2009.
+
+ore
+s
+
+4. ACZEL, P.; SIMONS, H.; WAINER, S. Proof Theory. Cambridge University Press, 1992.
+5. VAN HEIJENOORT, J. From Frege to Gödel. A source book in mathematical logic, 1879-1931.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+Harvard University Press, 2002.
+
+Disciplina: Introdução à Teoria dos Tipos
+Bibliografia Básica
+1. HINDLEY, J. R. Basic Simple Type Theory. Cambridge University Press, 1997. (Cambridge
+Tracts in Theoretical Computer Science, n. 42).
+2. KRIVINE, J-L; CORI, R. Lambda-calculus, types and models. Ellis Horwood Upper Sad(Disponível em https://www.irif.univ-paris-diderot.fr/ kri-
+
+G
+
+dle River, NJ, USA, 1993.
+
+UF
+
+pe
+las
+
+vine/articles/Lambda.pdf).
+
+bridge University Press, 2014.
+
+Bibliografia Complementar
+
+da
+
+3. NEDERPELT, R.; GEUVERS, H. Type Theory and Formal Proof: An Introduction. Cam-
+
+1. BARENDREGT, H. P. Lambda Calculus with Types. In: ABRAMSKY, S.; GABBAY, D. M.;
+
+ore
+s
+
+Vol. 2, pages 117-309.
+
+çã
+o
+
+MAIBAUM, T. S .E.(Eds.). Handbook of Logic in Computer Science Clarendon Press, 1992.
+
+2. KAMAREDDINE, F. D.; LAAN, T.; NEDERPELT, R. A Modern Perspective on Type Theory.
+Kluewer, 2004. (Number 29 in Applied Logic Series).
+
+lia
+
+3. SORENSEN, M.; URZYCZYN, P. Lectures on the Curry-Howard isomorphism. Elsevier,
+
+eri
+
+1998.(Vol. 149 of Studies in Logic and the Foundations of Mathematics).
+
+Av
+a
+
+4. GIRARD, J.-Y.; LAFONT, Y.; TAYLOR, P. Proofs and Types. Cambridge University Press,
+1989. (Cambridge Tracts in Theoretical Computer Science, n. 7).
+
+Su
+p
+
+5. SIMMONS, H. Derivation and Computation: Taking the Curry-Howard Correspondence
+Seriously. Cambridge University Press, 2000. (Cambridge Tracts in Theoretical Computer
+
+ma
+ras
+
+Câ
+
+Em
+
+Science, n. 51).
+
+Disciplina: Jogos Digitais
+Bibliografia Básica
+1. MARTINHO, C.; SANTOS, P.; PRADA, R.; Design e Desenvolvimento de Jogos; 1. ed. Lisboa:
+FCA - Editora de Informática, 2014.
+2. SCHELL, J. The Art of Game Design: A book of lenses. Nova Iorque: CRC Press, 2008.
+
+Bibliografia Complementar
+
+G
+
+UF
+
+pe
+las
+
+3. SCHUYTEMA. P. Design de Games - Uma Abordagem Prática. 1. ed. Cengage CTP, 2008.
+
+1. LIMA, A. Design de personagens para games Next-Gen. Rio de Janeiro: Ed. Ciência Moderna, 2011.
+
+neiro: Ed. Campus, 2009.
+
+da
+
+2. FEIJÓ, B.; CLUA, E.; SILVA, F. Introdução à Ciência da Computação com Jogos. Rio de Ja-
+
+çã
+o
+
+3. PERUCIA, A. S.; BERTHÊM, A.; BERTSCHINGER, G.; CASTRO, R. R. Desenvolvimento de
+
+ore
+s
+
+Jogos Eletrônicos – Teoria e Prática. 2. ed. São Paulo: Ed. Novatec, 2007.
+
+4. VASCONCELOS, J. B.; RIBEIRO, N. M. Tecnologias de Programação de Jogos. 1. ed. Lisboa:
+FCA - Editora de Informática, 2013.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+1996.
+
+eri
+
+lia
+
+5. HUIZINGA, J. Homo ludens: O jogo como elemento da cultura. São Paulo: Perspectiva,
+
+Disciplina: Meta-heurísticas
+Bibliografia Básica
+1. GLOVER, F.; KOCHENBERGER, G. A Handbook of metaheuristics Boston: Kluwer Academic Publishers, 2003. 556 p. (International series in operations research & management science).
+
+G
+
+2. TALBI, E-G. Metaheuristics from design to implementation Hoboken, N.J.: John Wiley &
+
+UF
+
+pe
+las
+
+Sons, 2009.
+
+Berlin, 2006.
+
+Bibliografia Complementar
+
+da
+
+3. DRÉO, J. Metaheuristics for hard optimization: methods and case studies Berlin: Springer
+
+1. CHENG, R.; GEN, M. Genetic algorithms and engineering optimization. New York: Wiley,
+
+çã
+o
+
+2000. (Wiley series in engineering design and automation).
+
+Wiley, 2005.
+
+ore
+s
+
+2. ENGELBRECHT, A. P. Fundamentals of computational swarm intelligence Hoboken. NJ:
+
+3. MITCHELL, M. An introduction to genetic algorithms. Cambridge: MIT Press, 1996.
+
+Springer, 2006.
+
+eri
+
+lia
+
+4. ROTHLAUF, F. Representations for genetic and evolutionary algorithms 2nd ed. Heidelberg:
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. LIDEN, R. Algoritmos Genéticos. 3a. ed. Brasport, 2008.
+
+Disciplina: Metodologia e Experimentação em Engenharia de Software
+Bibliografia Básica
+1. JURISTO, N. Basics of Software Engineering Experimentation. Kluwer Academic Publishers,
+2001.
+2. WOHLIN, C et al. Experimentation in Software Engineering. 2. ed. Springer, 2012.
+
+G
+
+3. GETTINBY, G.; GARDINER, W. P. Experimental Design Techniques in Statistical Practice: a
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+Practical Software-based Approach. Horwood Pub., 1998.
+
+2009.
+
+da
+
+1. WAZLAVICK, R. S. Metodologia de Pesquisa para Ciência da Computação. Editora Campus,
+
+2. WOHLIN, C. et al. Experimentation in Software Engineering. Kluwer Academic, 2000.
+
+çã
+o
+
+3. POLYAK, B. T. Introduction to Optimization. Optimization Software. 1987.
+
+1998.
+
+ore
+s
+
+4. HALL, E. M. Managing Risk Methods for Software Systems Development. Addison-Wesley,
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. Qualidade no Setor de Software Brasileiro. Brasília, D. F.: MCT, 1997.
+
+Disciplina: Microcontroladores
+Bibliografia Básica
+1. RAFIQUZZAMAN, M. Microprocessors and Microcomputer based System Design. RC
+Press, Boca Raton (Fla); 1990.
+2. MAZIDI, M. A.; NAIMI, Sarmad; NAIMI, Sepehr. AVR Microcontroller and Embedded Sys-
+
+G
+
+tems: Pearson New International Edition: Using Assembly and C. Pearson Education, Limi-
+
+UF
+
+pe
+las
+
+
+2004.
+
+Bibliografia Complementar
+
+da
+
+3. CRISP, J.; Introduction to Microprocessors and Microcontrollers. 2a Edição, Editora Elsevier,
+
+1. TAUB, H. Circuitos Digitais e Microcontroladores. McGraw-Hill, São Paulo, 1984.
+
+São Paulo: Érica, 2003. 268 p. ISBN 8571948674.
+
+ore
+s
+
+çã
+o
+
+2. SOUZA, David José de. Desbravando o PIC: ampliado e atualizado para PIC 16F628A. 6. ed.
+
+3. ZELENOVSKY, R. Microcontroladores: programação e projeto com a família 8051, Editora
+
+lia
+
+4. PEREIRA, F. Microcontroladores MSP430 - Teoria e Prática, Editora Érica, 2005.
+
+eri
+
+5. TITUS, J. A. et al. Microcomputer, analog converter software and hardware interfacing.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Howard W. Sams & Co., 1979.
+
+Disciplina: Processamento Digital de Imagens
+Bibliografia Básica
+1. GONZALES, R. C.; WOODS, R.E. Processamento Digital de Imagens. 3.ed, São Paulo: Pearson Prentice Hall, 2010.
+2. FORSYTH, D. A.; PONCE, J. Computer Vision: A Modern Approach. 2nd ed. Prentice Hall,
+
+G
+
+2011.
+
+abordagem prática com exemplos em Matlab. Rio de Janeiro : LTC, 2013.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. SOLOMON C.; BRECKON, T. Fundamentos de processamento digital de imagens : uma
+
+da
+
+1. PETROU, M. Image Processing: the fundamentals. 2. ed. Chichester: Wiley, 2010.
+
+2. BRADSKI, G. R.; KAEHLER, A. Learning OpenCV: computer vision with the OpenCV li-
+
+çã
+o
+
+brary. Sebastopol: O’Reilly, 2008.
+
+demic, 2008.
+
+ore
+s
+
+3. NIXON, M. S.; AGUADO, A. S. Feature extraction and image processing. Amsterdam: Aca-
+
+4. PRATT, W. K. Digital image processing. 4. ed. Hoboken: Wiley-Interscience, 2007.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. SZELISKI, R. Computer Vision Algorithms and Applications. Springer, 2011.
+
+Disciplina: Recuperação de Informação
+Bibliografia Básica
+1. MANNING, C. D.; RAGHAVAN, P.; SCHÜTZE, H. Introduction to Information Retrieval,
+Cambridge, 2009.
+2. BAEZA-YATES, R.; RIBEIRO-NETO, B. Modern Information Retrieval: The Concepts and
+
+G
+
+Technology Behind Search. 2nd ed. Addison Wesley, 2011.
+
+tice, Addison Wesley, 2010.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. CROFT, W. B.; METZLER, D.; STROHMAN, T. Search Engines: information Retrieval in Prac-
+
+Documents and Images. 2nd ed. Morgan Kaufmann Publishers, 1999.
+
+da
+
+1. WITTEN, I. H.; MOFFAT, A.; BELL, T. C. Managing Gigabytes: Compressing and Indexing
+
+çã
+o
+
+2. CHAKRABARTI, S. Mining the Web: Discovering Knowledge from Hypertext Data. Morgan
+
+ore
+s
+
+Kaufmann, 2003. (The Morgan Kaufmann series in data management systems).
+3. WEISS, S. M.; INDURKHYA, N.; ZHANG, T. Fundamentals of Predictive Text Mining. Springer Science & Business Media, 2010. (Texts in Computer Science).
+
+lia
+
+4. GROSSMAN, D. A.; FRIEDER, O. Information Retrieval: Algorithms and Heuristics. Sprin-
+
+eri
+
+vol. 15).
+
+Av
+a
+
+ger Science & Business Media, 2004. (Kluwer international series on information retrieval,
+
+ma
+ras
+
+Câ
+
+Em
+
+Cambridge University Press, 2014.
+
+Su
+p
+
+5. ZAKI, M. J.; MEIRA, W. Data Mining and Analysis: Fundamental Concepts and Algorithms.
+
+Disciplina: Redes Neuronais Artificiais
+Bibliografia Básica
+1. BRAGA, A. P.; CARVALHO, A. P. L. F.; LUDERMIR, T. B. Redes Neurais Artificiais: Teoria e
+Aplicações. 2 ed. LTC, 2007.
+2. SILVA, I. N.; SPATTI, D. H.; FLAUZINO, R. A. Redes Neurais Artificiais para Engenharia e
+
+G
+
+Ciências Aplicadas: Curso Prático. Ed. Artliber, 2010.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. HAYKIN, S. Redes Neurais: Princípios e Prática. 2. ed. Bookman, 2001.
+
+Abordagem de Aprendizado de Máquina, LTC, 2011.
+
+da
+
+1. FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. P. L. F. Inteligência Artificial: Uma
+
+Kaufmann Publishers, 2011.
+
+çã
+o
+
+2. HAN, J.; KAMBER, M.; PEI, J. Data Mining: Concepts and Techniques, 3rd ed. Morgan
+
+ore
+s
+
+3. WITTEN, I. H.; FRANK, E.; HALL, M. A. Data Mining: Practical Machine Learning Tools
+and Techniques. 3rd ed. Morgan Kaufmann Publishers, 2011.
+
+4. TAN, P-N.; STENBACH, M.; KUMAR, V. Introduction to Data Mining. Addison-Wesley,
+
+lia
+
+2005.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. ALPAYDIN, E. Introduction to Machine Learning. MIT Press, 2004.
+
+Disciplina: Segurança e Auditoria de Sistemas
+Bibliografia Básica
+1. IMONIANA, JOSHUA O.. Auditoria de Sistemas de Informação. 2.ed. São Paulo: Atlas,
+2008.
+2. SCHMIDT, P. Fundamentos de Auditoria de Sistemas. São Paulo: Atlas, 2006.
+
+G
+
+3. STALLINGS, W. Criptografia e segurança de redes : princípios e práticas. 4. ed. Prentice
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+Hal, 2008.
+
+
+2. KIZZA, J. Computer Network Security. New York: Springer, 2005.
+
+da
+
+1. LYRA, M. R. Segurança e Auditoria em Sistemas de Informação. 1. ed. Ciência Moderna.
+
+çã
+o
+
+3. KUROSE, J.F.; ROSS, K. Redes de Computadores e a Internet, 6. ed. Pearson Education, 2013.
+
+ore
+s
+
+4. TCU. Manual de Auditoria Operacional do TCU. TCU, 2010.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. TIPTO, H. F. Information Security Management Handbook. Auebach Publications, 2004.
+
+Disciplina: Sistemas Multiagentes
+Bibliografia Básica
+1. FIPA. Foundation for Intelligent Physical Agents, Standard Specifications, 2002. (Disponível
+on-line em <http://www.fipa.org/repository/standardspecs.html>
+2. RUSSELL, S.; NORVIG, P. Inteligência Artificial. 3. ed. Campus, 2013.
+
+G
+
+3. WOOLDRIDGE, M. An Introduction to MultiAgent Systems. 2. ed. John Wiley and Sons,
+
+1. BELLIFEMINE, F. et al.
+
+UF
+
+Bibliografia Complementar
+
+Jade 4.0 Programmer’s Guide, 2010.
+
+(Disponível on-line em
+
+<http://jade.tilab.com/documentation/tutorials-guides/>)
+2. BORDINI, R. H.;
+
+HÜBNER, J. Documentation for Jason,
+
+<http://jason.sourceforge.net/wp/documents/>)
+
+2006.
+
+a Java-besed inter-
+
+(Disponível on-line em
+
+ore
+s
+
+çã
+o
+
+preter for an extended version of AgentSpeak.
+
+da
+
+pe
+las
+
+2009.
+
+3. CAIRE, G. Jade 3.7 Programming for Beginners, 2009.
+
+(Disponível on-line em
+
+<http://jade.tilab.com/documentation/tutorials-guides/>)
+
+lia
+
+4. SHOHAM, Y.; LEYTON-BROWN, K. Multiagent Systems - Algorithmic, Game-Theoretic,
+Cambridge University Press 2008.
+
+Av
+a
+
+<http://www.masfoundations.org/mas.pdf>)
+
+(Disponível on-line em
+
+eri
+
+and Logical Foundations.
+
+5. VIDAL, J.M. Fundamentals of Multiagent Systems Using NetLogo, 2010. (Disponível on-line
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+em <http://multiagent.com/p/fundamentals-of-multiagent-systems.html>)
+
+Disciplina: Tópicos Avançados em Redes Sem Fio
+Bibliografia Básica
+1. KUROSE, J.F.; ROSS, K. Computer Networking: A Top-Down Approach, 6th ed. Pearson,
+2012.
+2. STALLINGS, W. Data and Computer Communications, 10th ed. Pearson, 2014.
+
+G
+
+3. STEWART, W. J. Probability, Markov chains, queues and simulation: the mathematical basis
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+of performance modeling, 1st ed. Princeton University Press, 2009.
+
+Kaufmann, 2011.
+
+da
+
+1. PETERSON, L.L.; DAVIE, B.S. Computer Networks: A Systems Approach. 5th ed. Morgan
+
+2. BEHROUZ F. A. Data Communications and Networking. 5th ed. McGraw-Hill Education,
+
+çã
+o
+
+2012.
+
+ore
+s
+
+3. MOLISCH, A. F. Wireless Communications. 2nd ed. John Wiley & Sons, 2011.
+
+4. STALLINGS, W. Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud. 1st
+ed. Addison-Wesley Professional, 2015.
+
+eri
+
+Av
+a
+
+lia
+
+5. GRAYVER, E. Implementing Software Defined Radio. 1st ed. Springer, 2013.
+
+Bibliografia Básica
+
+Su
+p
+
+Disciplina: Tópicos em Computação
+
+Em
+
+• A bibliografia deve ser definida de acordo com o tema a ser ministrado.
+
+Bibliografia Complementar
+
+Câ
+
+ma
+ras
+
+• A bibliografia deve ser definida de acordo com o tema a ser ministrado.
+
+Disciplina: Tópicos em Teste de Software
+Bibliografia Básica
+1. MYERS, G. J. The Art of Software Testing. Wiley, 2011.
+2. DELAMARO, M. E.; Maldonado, J. C.; JINO, M. Introdução ao Teste de Software. Campus,
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. COPELAND, L. A Practitioner’s Guide to Software Test Design. Artech House, 2003.
+
+G
+
+2007.
+
+1. PEZZÈ, M., YOUNG, M. Teste e análise de software : processos, princípios e técnicas. Bookman, 2008.
+
+ley, 1999.
+
+da
+
+2. BINDER, R. V. Testing Object Oriented Systems: Models, Patterns, and Tools. Addison Wes-
+
+ware testing - Part 1:Concepts and definitions, 2013.
+
+ore
+s
+
+çã
+o
+
+3. ISO/IEC/IEEE 29119-1. International Standard for Software and systems engineering - Soft-
+
+4. ISO/IEC/IEEE 29119-4. International Standard for Software and systems engineering - Software testing - Part 4: Test techniques, 2015.
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. PERRY, W. E. Effective methods for software testing. 2nd edition. J. Wiley, 1999.
+
+Disciplina: Verificação Formal de Programas
+Bibliografia Básica
+1. NEDERPELT, R.; GEUVERS, H. . Type Theory and Formal Proof: An Introduction. Cambridge University Press, 2014.
+2. RAAMSDONK, F. Logic Verification: Course Notes. Vrije Universiteit Amsterdam, 2008.
+
+G
+
+(Disponível em http://www.cs.ru.nl/ freek/courses/tt-2014/public/notes.pdf)
+
+Bibliografia Complementar
+
+UF
+
+the Coq Proof Assistant. MIT Press 2013.
+
+pe
+las
+
+3. CHIPALA, A. Certified Programming with Dependent Types: A Pragmatic Introduction to
+
+2. PIERCE, B. C. Types and Programming Languages. MIT Press, 2002.
+
+da
+
+1. PIERCE, B. C. Advanced topics in types and programming languages. MIT press, 2005.
+
+çã
+o
+
+3. BERTOT, Y; CASTÉRAN, P. Interactive Theorem Proving and Program Development:
+
+in Theoretical Computer Science).
+
+ore
+s
+
+Coq’Art: The Calculus of Inductive Constructions. Springer, 2004.(In EATCS Series Texts
+
+4. FRIEDMAN, D. P; EASTLUND, C. The Little Prover. MIT Press, 2015.
+
+lia
+
+5. GUNTER, C. A. Semantics of Programming Languages: Structures and Techniques. MIT
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Press, 1992. (In Foundations of Computer Series).
+
+Disciplina: Visão Robótica
+Bibliografia Básica
+1. HARTLEY, R.; ZISSERMAN, A. Multiple view geometry in computer vision. Cambridge
+university press, 2003.
+2. CORKE, P. Robotics, vision and control: fundamental algorithms in MATLAB. Vol. 73. Sprin-
+
+G
+
+ger, 2011.
+
+Media, 2010.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. SZELISKI, R. Computer vision: algorithms and applications. Springer Science & Business
+
+New Jersey, 1998.
+
+da
+
+1. TRUCCO, E.; VERRI, A. "Introductory Techniques for 3-D Computer Vision", Prentice Hall,
+
+ore
+s
+
+Press, 2012.
+
+çã
+o
+
+2. DAVIES, E. R.; Computer and machine vision: theory, algorithms, practicalities. Academic
+
+3. NIXON, M. S.; AGUADO, A. S. Feature extraction & image processing for computer vision.
+Academic Press, 2012.
+
+Jersey, 2003.
+
+eri
+
+lia
+
+4. FORSYTH, D. A.; PONCE, J. "Computer Vision - A Modern Approach", Prentice Hall, New
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+2008.
+
+Av
+a
+
+5. GONZALEZ, R. C.; WOODS, R. E. "Digital lmage Processing", Prentice Hall, 3th Edition,
+
+Disciplina: Visualização de Informações
+Bibliografia Básica
+1. CARD, S. K.; MACKINLAY, J. D.; SHNEIDERMAN, B. Readings in Information Visualization: Using Vision to Think. Morgan Kaufmann Series in Interactive Technologies, Academic
+
+2. SPENCE, R. Information Visualization: An Introduction. 3rd edition, Springer, 2014.
+
+G
+
+Press, 1999.
+
+Bibliografia Complementar
+
+UF
+
+Interactive Technologies, 2012.
+
+pe
+las
+
+3. WARE, C. Information Visualization: Perception for Design. 3rd Edition, Morgan Kaufmann
+
+tics Press, 2009.
+
+da
+
+1. FEW, S. Now You See It: Simple Visualization Techniques for Quantitative Analysis. Analy-
+
+çã
+o
+
+2. TAMASSIA, R. Handbook of Graph Drawing and Visualization (Discrete Mathematics
+
+https://cs.brown.edu/ rt/gdhandbook/)
+
+ore
+s
+
+and Its Applications). 1st edition, Chapman and Hall/CRC, 2013. (Acesso digital em
+
+3. TUFTE, E. R. Visual Explanations: Images and Quantities, Evidence and Narrative. Graphics
+
+lia
+
+Press, 1997.
+
+eri
+
+4. TUFTE, E. R. Envisioning Information. Graphics Press, 1990.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+5. TUFTE, E. R. The Visual Display of Quantitative Information, 2nd ed. Graphics Press, 2001.
+
+Disciplina: Web Semântica
+Bibliografia Básica
+1. BREITMAN, K. Web Semântica: a Internet do Futuro. Editora LTC, 2005.
+2. DUCHARME, B. Learning SPARQL. 1st ed. O´Reilly, 2011.
+3. HEBELER, J.; DEAN, M.; FISHER, M. Semantic Web Programming. 2nd ed. John Wiley &
+
+Bibliografia Complementar
+
+G
+UF
+
+pe
+las
+
+Sons, 2009.
+
+1. ALLEMANG, D.; HENDLER, J. Semantic Web for the Working Ontologist: Effective Modelling in RDFS and OWL. 1st ed. Morgan Kaufmann, 2008.
+
+284(5), 28-37.
+
+da
+
+2. BERNERS-LEE, T.; HENDLER, J.; LASSILA, O. The Semantic Web. Scientific American, 2001.
+
+çã
+o
+
+3. BERNERS-LEE, T. Qual é o futuro da web, segundo o seu criador. 2007.( Disponível em
+
+ore
+s
+
+computerworld.uol.com.br/mercado/2007/07/09/idgnoticia.2007-07-09.9970442373/).
+4. FENSEL, D.; HENDLER, J.; LIEBERMAN, H.; WAHLSTER, W. Spinning the Semantic Web.
+1st ed. The MIT Press, 2005.
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+2009.
+
+eri
+
+lia
+
+5. SEGARAN, T.; EVANS, C.; Taylor, J. Programming the Semantic Web. 1st ed. O’Reilly Media,
+

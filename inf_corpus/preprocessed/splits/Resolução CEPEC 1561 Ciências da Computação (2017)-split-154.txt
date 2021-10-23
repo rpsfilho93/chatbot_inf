@@ -1,0 +1,70 @@
+Software
+Projeto Final de Curso 1
+Sistemas Distribuídos
+TOTAL PERÍ ODO 384h
+
+Obrigatória
+Optativa
+Obrigatório
+Obrigatório
+TOTAL GERAL
+
+Específico
+Específico
+Específico
+Específico
+
+NATUREZA
+Obrigatória
+Obrigatória
+Optativa
+Obrigatória
+Obrigatória
+Obrigatório
+TOTAL GERAL
+
+NÚCLEO
+Específico
+Específico
+Específico
+Comum
+Específico
+Específico
+
+DISCIPLINA
+CHT
+Compiladores
+Computação Paralela
+Interação Humano-Computador
+Projeto Final de Curso 2
+TOTAL PERÍ ODO
+
+NATUREZA
+Obrigatório
+Obrigatório
+Obrigatória
+Optativa
+Optativa
+Obrigatório
+TOTAL GERAL
+
+NÚCLEO
+Específico
+Específico
+Comum
+Específico
+Específico
+Específico
+
+Atividades Complementares
+
+As atividades complementares estão presentes nas estruturas curriculares dos cursos
+de graduação do INF, sendo regulamentadas em resolução específica do Conselho Diretor do
+Instituto.
+As atividades complementares são ações pedagógicas que visam ao enriquecimento
+da vivência acadêmica do aluno, ao aprofundamento de temáticas desenvolvidas no curso e à
+sua formação complementar. Definidas como obrigatórias na resolução supracitada, as
+atividades complementares incluem, dentre outras, atividades de monitoria, representação
+estudantil, qualificação, publicação e apresentação de trabalhos científicos e participação em
+projetos de pesquisa e de extensão e cultura.
+A carga horária

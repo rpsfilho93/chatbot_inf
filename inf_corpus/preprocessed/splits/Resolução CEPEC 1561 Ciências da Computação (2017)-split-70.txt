@@ -1,0 +1,13 @@
+Modern Compiler Implementation in C - Basic Techiniques.Cambridge University Press, 1997.
+Bibliografia Complementar:
+APPEL, A. W. Modern Compiler Implementation in Java.2nd. edition. New York: Cambridge University Press,
+2002.
+HOLMES, J. Modern Compiler Implementation in Java. Prentice Hall, 1995.
+MUCHNICK, S. S. Advanced Compiler Design and Implementation. Morgan Kaufmann, 1997.
+HANSON, D. R.; FRASER, C. W. A Retargetable C Compiler: Design and Implementation. Benjamin
+Cummings Pub., 1995.
+LEBLANC, R. J.; FISCHER, C. N. Crafting a Compiler with C. Benjamin/Cummings, 1991.
+COMPUTAÇÃO GRÁFICA:
+Origem e objetivos da Computação Gráfica. Dispositivos Vetoriais x Matriciais. Dispositivos de entrada e saída.
+Sistemas e equipamentos gráficos. Algoritmos para conversão matricial e preenchimento de primitivas gráficas.
+Transformações geométricas bi-dimensionais

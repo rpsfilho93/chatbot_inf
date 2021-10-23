@@ -1,0 +1,54 @@
+L. Queueing Systems: Computer Applications. John Wiley and Sons, 1975.
+
+Applications. John Wiley and Sons, 2006
+
+ore
+s
+
+çã
+o
+
+3. CROVELLA, M.; KHRISHNAMURTHY, B. Internet Measurement: Infrastructure, Traffic and
+
+4. LAZOWSKA, E.; ZAHORJAN J.; GRAHAM, S.; SEVCIK, K. Quantitative System Performance. Prentice-Hall, 1984.
+
+lia
+
+5. ALLEN, A. O. Probability, Statistics, and Queueing Theory with Computer Science Applica-
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+tions. Academic Press, 1990.
+
+Disciplina: Banco de Dados Distribuídos
+Bibliografia Básica
+1. DOAN, A., HALEVY, A., IVES, Z., Principles of Data Integration. Morgan-Kaufmann, 1a.
+edição, Morgan-Kaufmann, 2012.
+2. GARCIA-MOLINA, H., ULLMAN, J. D. e WIDOM, J. D., Database Systems: The Complete
+
+G
+
+Book, 2a. edição, Prentice Hall, 2009.
+
+ger, 2011.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. ÖZSU, M. T., VALDURIEZ, P., Principles of Distributed Database

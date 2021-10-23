@@ -1,0 +1,20 @@
+for an extended version of
+AgentSpeak. 2006. (Disponível on-line em <http://jason.sourceforge.net/wp/documents/>).
+CAIRE,
+G.
+Jade
+Programming for Beginners
+,
+2009. ( Disponível on -line
+em
+<http://jade.tilab.com/documentation/tutorials-guides/>).
+SHOHAM, Y.; LEYTON-BROWN, K. Multiagent Systems - Algorithmic, Game-Theoretic, and Logical
+Foundations. Cambridge University Press2008.(Disponível on-line em <http://www.masfoundations.org/ mas.pdf>).
+VIDAL, J. M. Fundamentals of Multiagent Systems Using Net Logo
+, 2010.(Disponívelon-line em
+<http://multiagent.com/p/fundamentals-of-multiagent-systems.html>).
+TÓPICOS AVANÇADOS EM REDES SEM FIO:
+Introduzir conceitos atuais, tendências e desafios de pesquisa em redes sem fio. Estudar e explorar as novas
+aplicações e cenários onde o emprego de rede sem fio é recente (objetivos básicos, características e desafios).
+Estudar e compreender algumas das principais tecnologias de redes sem fio atuais e futuristas (principalmente
+soluções desenvolvidas nas camadas Física, de

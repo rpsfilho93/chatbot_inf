@@ -1,0 +1,36 @@
+eletrônico. Dispositivos de Memória. Protocolos de co-
+
+ras
+
+Em
+
+municação. Aplicações.
+
+PROCESSAMENTO DIGITAL DE IMAGENS
+
+Ementa
+
+Câ
+ma
+
+Origem e Objetivos do processamento de imagens. Fundamentos de visão computacional e seu relacionamento com a visão humana. Dispositivos e formas de aquisição
+de imagens. Amostragem e Quantização. Sistemas de cores. Técnicas de modificação
+de escala de cinza. Suavização. Aguçamento de bordas. Transformada no domínio da
+frequência: Fourier. Restauração de imagens. Segmentação de imagens. Extração de
+características e noções de descrição e representação. Reconhecimento de padrões vi34
+
+suais.
+
+RECUPERAÇÃO DE INFORMAÇÃO
+
+Ementa
+
+UF
+G
+
+Algoritmos e técnicas de Construção de máquinas de busca: representação de vocabulários, técnicas de construção e compressão de índices, processamento de consultas,
+
+pe
+las
+
+avaliação em recuperação de informação,

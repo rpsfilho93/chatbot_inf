@@ -1,0 +1,27 @@
+T. R. Unix system administration handbook. 2. Pearson-Prentice
+Hall, 1997. ISBN 978-85-7605-112-1.
+O'GORMAN, J. Operating Systems with Linux. Basingstoke: Palgrave, 2001.
+SHAY, W. Sistemas Operacionais, Makron Books, 1996.
+STALLINGS, W. Operating Systems. Prentice-Hall. 1995.
+
+DISCIPLINAS OPTATIVAS
+
+APLICAÇÕES DE SISTEMAS DE INFORMAÇÃO
+Ementa
+Enfoque prático envolvendo ferramentas, técnicas e metodologias para aplicação prática dos Sistemas
+de Informação no âmbito corporativo para ampliar a compreensão dos níveis de aplicabilidade e
+adequabilidade em contextos diversos, que não tenham sido abordados em outras disciplinas do
+curso.
+Bibliografias Básica e Complementar
+A bibliografia depende do tema proposto pelo professor da disciplina.
+
+ARMAZÉM DE DADOS
+Ementa
+Conceitos básicos em Data Warehouse. Arquitetura. Projeto conceitual. Projeto lógico. Estudos de
+caso. Consultas. Implementação.
+Bibliografia Básica
+
+
+
+
+KIMBALL, R.;

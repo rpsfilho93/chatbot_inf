@@ -1,0 +1,12 @@
+Norvig, P. Inteligência Artificial. 3 ed. Ed. Campus, 2013.
+LUGER, G. F. Inteligência Artificial. 6 ed. Editora Pearson, 2014.
+FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem
+de Aprendizado de Máquina. LTC, 2011.
+Bibliografia Complementar:
+COPPIN, B. Inteligência Artificial, LTC, 2010.
+COSTA, E.; Simões, A. Inteligência Artificial: Fundamentos e Aplicações. 2 ed. FCA, 2008.
+ROSA,J. L. G. Fundamentos da Inteligência Artificial. LTC, 2011.
+NILSSON, N. Artificial Intelligence: a new synthesis. Morgan Kaufmann, 1998.
+RICH, E.; KNIGHT, K.; Nair, S. B. Artificial Intelligence.3ed. Tata McGraw-Hill, 2009.
+INTRODUÇÃO À COMPUTABILIDADE E À COMPLEXIDADE COMPUTACIONAL:
+Noções de computabilidade efetiva. Modelos de computação. Tese de Church-Turing.

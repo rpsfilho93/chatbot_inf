@@ -1,0 +1,15 @@
+Orientadas a Serviço; Utilização de web
+services.
+2. Arquitetura de Computadores
+Ementa: Visão geral dos computadores modernos. Evolução da arquitetura dos
+computadores. Sistemas de numeração e aritmética binária. Memória e representação de dados
+e instruções. Processador, ciclo de instrução, formatos, endereçamento, e programação em
+linguagem de montagem. Dispositivos de entrada e saída. Sistemas de interconexão
+(barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória.
+Paralelismo ao nível de instrução. Arquiteturas paralelas.
+3. Arquitetura de Software
+Ementa: Conceitos de arquitetura de Software, estilo, estrutura, requisitos, análise de
+arquitetura. Projeto Arquitetural, Avaliação Arquitetura. Modelo de arquitetura em camadas –
+MVC (model – Viewcontroller), MDA (model drive architecture). Ferramentas.
+4. Auditoria de Sistemas
+Ementa: Auditoria

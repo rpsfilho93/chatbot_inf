@@ -1,0 +1,51 @@
+Teoria e Prática. 2. ed. Rio de Janeiro: Editora Campus,
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+2002.
+
+Disciplina: Linguagens e Paradigmas de Programação
+Bibliografia Básica
+1. SEBESTA, R. W. Concepts of Programming Languages. 10th ed. Pearson, 2012.
+2. SCOTT, M. L. Programming Language Pragmatics, 3rd ed. Morgan Kaufmann, 2009.
+
+UF
+
+pe
+las
+
+Bibliografia Complementar
+
+G
+
+3. GHEZZI, C.; JAZAYERI, M. Programming Language Concepts. 3rd ed. Wiley, 1997.
+
+1. PRATT, T. W. Z.; ELKOWIT, M. V. Programming Languages: Design and Implementation.
+4th ed. Prentice Hall, 2000.
+
+2. VAREJÃO, F. Linguagens de Programação. 1. ed. Campus, 2004.
+
+The MIT Press, 2004.
+
+da
+
+3. ROY, P. V.; HARIFI, S. Concepts, Techniques, and Models of Computer Programming. 1st ed.
+
+çã
+o
+
+4. FRIEDMAN, D. P. Essentials of Programming Languages. 3rd

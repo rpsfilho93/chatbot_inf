@@ -1,0 +1,53 @@
+Disponível
+em http://www.sei.cmu.edu/reports/06tn007.pdf.
+MCT. Processo de Contratação de Serviços de Tecnologia da Informação para Organizações
+Públicas.
+Brasília:
+Ministério
+da
+Ciência
+e
+Tecnologia,
+2011.
+Disponível
+em
+http://www.mct.gov.br/upd_blob/0216/216919.pdf.
+
+Bibliografia Complementar
+
+
+
+
+
+
+APRIL, A.; ABRAN, A. Software Maintenance Management: Evaluation and Continuous Improvement,
+Wiley-IEEE Press, 2008.
+FREITAS, M. Fundamentos do Gerenciamento de Serviços de TI: Preparatório para certificação ITIL
+V3 Foundation. Rio de Janeiro, Brasport, 2010.
+MPOG/SLTI. Guia de Boas Práticas em Contratação de Soluções de Tecnologia da Informação V 1.0.
+Brasília: MPOG, Secretaria de Logística e Tecnologia da Informação, 2011.
+SEBOK.
+System
+Engineering
+Body
+of
+Knowledge.
+Disponível
+em
+http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK).
+Acessado em 22/11/2015.
+SWEBOK.
+Software
+Engineering
+Body
+Of
+Knowledge.
+Disponível
+em
+http://www.computer.org/portal/web/swebok, último acesso em setembro/2015.
+
+TESTE DE SOFTWARE
+Ementa
+Processo de construção: definições básicas, atividades e documentação. Processo de Teste de
+Software: definições básicas, técnicas de teste, teste baseado em intuição e experiência do
+engenheiro de software,

@@ -1,0 +1,26 @@
+R.; CASERTA, J. The Data Warehouses ETL Toolkit: Practical Techniques for Extracting,
+Cleaning, Conforming, and Delivering Data. 1. ed. Wiley, 2004.
+
+ARQUITETURA CORPORATIVA DE TI
+Ementa
+Arquitetura corporativa (AC) como estratégia. Pontos de vista e visões da arquitetura. Domínios de
+arquitetura: negócio, sistemas de informação, tecnológica e social. Método de desenvolvimento de
+arquitetura. Modelos de referência e frameworks de AC. Linguagens de descrição de arquitetura.
+Bibliografia Básica
+
+
+
+
+LANKHORST, M. Enterprise Architecture at Work: Modeling, Communication and Analysis. 3.ed,
+Springer, 2013.
+JOSEY, A. TOGAF Versão 9.1 - O Livro. The Open Group. 2009.
+PERROUD, T.; INVERSINI, R. Enterprise Architecture Patterns: Practical Solutions for Recurring ITarchitecture Problems. Springer, 2013.
+
+Bibliografia Complementar
+
+
+
+
+
+
+BERNARD, S. An Introduction

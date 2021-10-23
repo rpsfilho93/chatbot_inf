@@ -1,0 +1,53 @@
+de Janeiro: Editora Campus,
+
+Thomson, 2006.
+
+ore
+s
+
+çã
+o
+
+2. ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora
+
+3. SEDGEWICK, R. Algorithms in C++. 3rd. Edition , Addison-Wesley 1998. (Parts 1-4).
+
+lia
+
+4. SALVETTI, D.D.; BARBOSA, L.M. Algoritmos. São Paulo: Makron Books, 1998.
+5. ZIVIANI N. Projeto de Algoritmos com implementação em Pascal e C. 3a edição. São Paulo:
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+Editora Thomson, 2010.
+
+Disciplina: Análise e Projeto de Algoritmos
+Bibliografia Básica
+1. CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L. ; STEIN, C. Algoritmos: Teoria e Prática.
+3a edição, Campus, 2012.
+2. BRASSARD, G; BRATLEY, P. Fundamentals of Algorithmics. Upper Saddle River, NJ :
+
+G
+
+Prentice-Hall, Inc., 1996.
+
+Bibliografia Complementar
+
+UF
+
+pe
+las
+
+3. PAPADIMITRIOU, C.

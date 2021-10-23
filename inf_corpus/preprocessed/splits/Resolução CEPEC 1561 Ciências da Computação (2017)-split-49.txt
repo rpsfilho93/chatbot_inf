@@ -1,0 +1,11 @@
+Society: Computing for Good. Chapman & Hall/CRC Textbooks in
+Computing.CRC Press, 2011.
+CHALITA, G. Os Dez Mandamentos da É tica. Editora Nova Fronteira, 2003.
+DRUMMOND, V. Internet Privacidade e Dados Pessoais. Editora Lumen Juris, 2003.
+LUCCA, N.; FILHO, A .S. Direito &Internet. Editora Edipro, 2001.
+PAESANI, L. M. Direito de Informática. Editora Atlas, 2005.
+ENGENHARIA DE SOFTWARE:
+Requisitos de software. Projeto (design) de software. Construção de software. Teste de software. Manutenção de
+software. Gerência de configuração de software. Gerência de projeto de software. Processo de engenharia de
+software. Modelos e métodos de engenharia de software. Qualidade de software. Prática profissional de
+engenharia de software. Economia para engenharia de software. Fundamentos

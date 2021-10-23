@@ -1,0 +1,37 @@
+linguagem de programação e os critérios de seleção de
+linguagens de acordo com as especificidades dos domínios de aplicação. Descrição de
+sintaxe e semântica. Estudo sobre tipos de dados, estruturas de controle, ambientes de
+
+Ementa
+
+Em
+
+LÓGICA MATEMÁTICA
+
+Su
+p
+
+Av
+a
+
+execução, variáveis, expressões e subprogramas em linguagens de programação.
+
+Lógica Proposicional e de Predicados. Sistemas Dedutivos. Relações de Consequência.
+
+ras
+
+Correção e Completamento. Aplicações em Computação.
+
+Ementa
+
+Câ
+ma
+
+PROBABILIDADE E ESTATÍSTICA A
+
+Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos.
+Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa,
+fundamentos de probabilidade, probabilidade condicional, eventos independentes e
+teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distri21
+
+buições discretas de probabilidade: uniforme, binomial e Poisson.

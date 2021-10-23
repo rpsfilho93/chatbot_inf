@@ -1,0 +1,69 @@
+Complementar
+
+UF
+
+pe
+las
+
+Practical Software-based Approach. Horwood Pub., 1998.
+
+2009.
+
+da
+
+1. WAZLAVICK, R. S. Metodologia de Pesquisa para Ciência da Computação. Editora Campus,
+
+2. WOHLIN, C. et al. Experimentation in Software Engineering. Kluwer Academic, 2000.
+
+çã
+o
+
+3. POLYAK, B. T. Introduction to Optimization. Optimization Software. 1987.
+
+1998.
+
+ore
+s
+
+4. HALL, E. M. Managing Risk Methods for Software Systems Development. Addison-Wesley,
+
+eri
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Av
+a
+
+lia
+
+5. Qualidade no Setor de Software Brasileiro. Brasília, D. F.: MCT, 1997.
+
+Disciplina: Microcontroladores
+Bibliografia Básica
+1. RAFIQUZZAMAN, M. Microprocessors and Microcomputer based System Design. RC
+Press, Boca Raton (Fla); 1990.
+2. MAZIDI, M. A.; NAIMI, Sarmad; NAIMI, Sepehr. AVR Microcontroller and Embedded Sys-
+
+G
+
+tems: Pearson New International Edition: Using Assembly and C. Pearson Education, Limi-
+
+UF
+
+pe
+las
+
+2004.
+
+Bibliografia Complementar
+
+da
+
+3. CRISP,

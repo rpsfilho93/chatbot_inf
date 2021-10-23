@@ -1,0 +1,133 @@
+TI
+
+Obrigatória
+
+Específico
+
+Engenharia de Sistemas de Informação 2
+
+Obrigatória
+
+Específico
+
+Linguagens e Paradigmas de Programação
+
+Obrigatória
+
+Comum
+
+Projeto de Software
+
+Obrigatória
+
+Comum
+
+Sistemas Distribuídos
+
+Obrigatória
+
+Específico
+
+CHT
+
+NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Específico
+
+Gerenciamento de Processos e Serviços em SI
+
+Obrigatória
+
+Específico
+
+Desenvolvimento Full stack
+
+Obrigatória
+
+Específico
+
+Interação Humano-Computador
+
+Obrigatória
+
+Comum
+
+Disciplina de Núcleo Livre*
+
+Obrigatória
+
+Livre
+
+Carga horária do período
+
+Carga horária acumulada
+
+DISCIPLINA
+Governança Corporativa e de TI
+
+Carga horária do período
+
+Carga horária acumulada
+
+DISCIPLINA
+Gestão de Segurança da Informação
+
+CHT
+
+NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Específico
+
+Empreendedorismo Digital
+
+Obrigatória
+
+Específico
+
+Disciplina de Núcleo Livre*
+
+Obrigatória
+
+Livre
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Específico
+
+NATUREZA
+Obrigatória
+
+NÚCLEO
+Específico
+
+Carga horária do período
+
+Carga horária acumulada
+
+DISCIPLINA
+Residência Técnica em Sistemas de Informação**
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+*Espaço reservado para realização de duas disciplinas de Núcleo Livre, computando 128 horas exigidas no
+Programa.
+** Em particular, a disciplina Residência Técnica em Sistemas de Informação será ministrada por mais de um
+professor, sendo esperado um número de cinco docentes.
+
+f) Representação

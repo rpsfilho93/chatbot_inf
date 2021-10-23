@@ -1,0 +1,14 @@
+R.; RIBEIRO-NETO, B. Modern Information Retrieval: The Concepts and Technology
+Behind Search. 2nd ed. Addison Wesley, 2011.
+CROFT, W. B.; METZLER, D.; STROHMAN, T. Search Engines: information Retrieval in Practice, Addison
+Wesley, 2010.
+
+Bibliografia Complementar:
+WITTEN, I. H.; MOFFAT, A.; BELL, T. C. Managing Gigabytes: Compressing and Indexing Documents and
+Images. 2nd ed. Morgan Kaufmann Publishers, 1999.
+CHAKRABARTI, S. Mining the Web: Discovering Knowledge from Hypertext Data. Morgan Kaufmann, 2003.
+(The Morgan Kaufmann series in data management systems).
+WEISS, S. M.; INDURKHYA, N.; ZHANG, T .Fundamentals of PredictiveText Mining.Springer Science &
+Business Media, 2010.(Texts in Computer Science).
+GROSSMAN, D. A.; FRIEDER, O. Information Retrieval: Algorithms and Heuristics. Springer Science &
+Business Media,

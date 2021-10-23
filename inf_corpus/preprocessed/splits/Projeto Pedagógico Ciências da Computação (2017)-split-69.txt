@@ -1,0 +1,34 @@
+entre sistemas de dedução.
+Regras estruturais. Regra de corte e eliminação. Tamanho de provas e limites para eliminação da regra de corte. Estrutura de provas normais. Normalização nos sistemas
+
+Av
+a
+
+de dedução natural e à la Gentzen.
+
+Ementa
+
+Su
+p
+
+INTRODUÇÃO À TEORIA DOS TIPOS
+
+O cálculo lambda livre de tipos. Definição de tipos à la Curry e à la Church. O isomor-
+
+Em
+
+fismo de Curry-Howard: correspondência entre verificação de tipos e dedução lógica.
+
+Ementa
+
+Câ
+ma
+
+JOGOS DIGITAIS
+
+ras
+
+Os problemas de inferência e de existência de habitantes de tipos.
+
+Conceitos fundamentais de jogos, Storyboard, Mecânica de Jogos, game engines, ambientação e animação em jogos. Aplicação de técnicas de apresentação dos jogos. Deploy de
+jogos em

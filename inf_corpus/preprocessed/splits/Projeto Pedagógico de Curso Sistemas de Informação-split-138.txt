@@ -1,0 +1,211 @@
+Complementares (AC)
+
+Carga Horária Total (CHT)
+
+e) Sugestão de Fluxo Curricular
+
+CHT
+
+NATUREZ
+A
+
+NÚCLEO
+
+Obrigatória
+
+Comum
+
+Computação e Sociedade
+
+Obrigatória
+
+Comum
+
+Introdução à Programação
+
+Obrigatória
+
+Comum
+
+Fundamentos de Matemática para Computação
+
+Obrigatória
+
+Comum
+
+DISCIPLINA
+
+Carga horária do período
+
+DISCIPLINA
+
+CHT
+
+NATUREZA
+
+NÚCLEO
+
+Algoritmos e Estruturas de Dados 1
+
+Obrigatória
+
+Comum
+
+Introdução aos Sistemas de Informação
+
+Obrigatória
+
+Específico
+
+Lógica Matemática
+
+Obrigatória
+
+Comum
+
+Metodologia Científica
+
+Obrigatória
+
+Específico
+
+Probabilidade e Estatística A
+
+Obrigatória
+
+Comum
+
+NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Comum
+
+Arquitetura de Computadores
+
+Obrigatória
+
+Comum
+
+Banco de Dados
+
+Obrigatória
+
+Comum
+
+Engenharia de Sistemas de Informação 1
+Programação Orientada a Objetos
+
+Obrigatória
+
+Específico
+
+Obrigatória
+
+Comum
+
+CHT
+
+NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Comum
+
+Análise e Projeto de Algoritmos
+
+Obrigatória
+
+Comum
+
+Banco de Dados 2
+
+Obrigatória
+
+Específico
+
+Engenharia de Software
+
+Obrigatória
+
+Comum
+
+Sistemas Operacionais
+
+Obrigatória
+
+Específico
+
+Carga horária do período
+
+Carga horária acumulada
+
+DISCIPLINA
+Algoritmos e Estruturas de Dados 2
+
+CHT
+
+Carga horária do período
+
+Carga horária acumulada
+
+DISCIPLINA
+Álgebra Linear
+
+Carga horária do período
+
+Carga horária acumulada
+
+DISCIPLINA
+Engenharia de Requisitos
+
+CHT
+
+NATUREZA
+
+NÚCLEO
+
+Obrigatória
+
+Específico
+
+Sistemas Inteligentes de Apoio à Decisão
+
+Obrigatória
+
+Específico
+
+Introdução à Administração de Empresas
+
+Obrigatória
+
+Específico
+
+Pesquisa Operacional
+
+Obrigatória
+
+Específico
+
+Redes de Computadores
+
+Obrigatória
+
+Específico
+
+CHT
+
+NATUREZA
+
+NÚCLEO
+
+Carga horária do período
+
+Carga horária acumulada
+
+DISCIPLINA
+Gestão de Sistemas e de

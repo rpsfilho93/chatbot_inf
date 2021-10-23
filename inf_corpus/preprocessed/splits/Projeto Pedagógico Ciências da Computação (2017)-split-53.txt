@@ -1,0 +1,47 @@
+e segurança. Estrutura e
+
+Su
+p
+
+arquitetura de software. Projeto de interface de usuário. Análise de qualidade e avaliação de design de software. Notação de design de software. Métodos e estratégias de
+
+ras
+
+Ementas das disciplinas obrigatórias do núcleo específico
+
+Ementa
+
+Câ
+ma
+
+Em
+
+design de software. Ferramentas de design de software.
+
+Sequências e séries numéricas. Séries de potência, convergência. Funções de várias
+variáveis. Limite e Continuidade. Noções sobre quádricas. Funções diferenciáveis.
+Derivadas parciais e direcionais. Polinômio de Taylor. Máximos e mínimos. Integrais
+
+múltiplas. Mudança de Coordenadas. Aplicações.
+
+CÁLCULO NUMÉRICO
+
+Ementa
+
+UF
+G
+
+Cálculo de raízes de equações. Resolução de sistemas lineares, métodos diretos e méto-
+
+CIRCUITOS DIGITAIS
+
+Ementa
+
+da
+
+pe
+las
+
+dos iterativos. Interpolação e integração. Resolução numérica de equações diferenciais.
+
+Álgebra booleana e portas

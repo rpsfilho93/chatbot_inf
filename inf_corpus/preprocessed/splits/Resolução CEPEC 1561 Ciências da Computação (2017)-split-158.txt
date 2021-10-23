@@ -1,0 +1,12 @@
+e da integralização da computação com outras áreas do conhecimento.
+Na matriz curricular do curso de Ciência da Computação, o TCC é desenvolvido
+durante as disciplinas de Projeto Final de Curso 1 (PFC1) e Projeto Final de Curso 2 (PFC2).
+As disciplinas de PFC têm como objetivo prover meios para:
+ o desenvolvimento de projeto na área de Ciência da Computação;
+
+ o desenvolvimento da capacidade criativa do aluno;
+ estimular a originalidade e a implementação de ideias empreendedoras;
+ valorizar as atividades de pesquisa e as habilidades de análise e síntese dos
+alunos;
+ resolver problemas reais com o uso da Computação;
+ solidificar conhecimentos técnicos e científicos adquiridos

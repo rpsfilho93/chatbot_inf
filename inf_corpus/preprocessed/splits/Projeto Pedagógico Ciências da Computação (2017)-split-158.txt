@@ -1,0 +1,36 @@
+TANENBAUM, A. S. Computer Networks. 5th ed. Pearson, 2010.
+
+Bibliografia Complementar
+
+lia
+
+3. STALLINGS, W. Data and Computer Communications. 10th ed. Pearson, 2014.
+
+Av
+a
+
+Kaufmann, 2011.
+
+eri
+
+1. PETERSON, L.L.; DAVIE, B.S. Computer Networks: A Systems Approach. 5th ed. Morgan
+
+2. DANTAS, M. Redes de Comunicaçao e Computadores : abordagem quantitativa. Floriano-
+
+Su
+p
+
+polis: Visual Books, 2010.
+
+3. BEHROUZ F. A. Data Communications and Networking, 5th ed. McGraw-Hill Education,
+2012.
+
+Em
+
+4. DAY, J. Patterns in Network Architecture: A Return to Fundamentals. 1st ed. Pearson, 2008
+5. TORRES, G. - Redes de Computadores : curso completo. Rio de janeiro: Axcel Books, 2001.
+
+ma
+ras
+
+6. SOARES, L. F. G. Redes de Computadores : das LANS, MANS e WANS

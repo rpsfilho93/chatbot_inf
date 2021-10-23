@@ -1,0 +1,18 @@
+SISTEMAS DE INFORMAÇÃO 1
+Ementa
+Tópicos na área de Sistemas de Informação relevantes para complementar a formação geral do
+estudante, preferencialmente não abordados em outras disciplinas, ou tratados de forma superficial.
+Bibliografias Básica e Complementar
+A bibliografia depende do tema proposto pelo professor da disciplina.
+
+TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 2
+Ementa
+Aprofundar tópicos e técnicas de resolução de problemas em Sistemas de Informação (SI), ou
+qualquer outro tema que represente o estado da arte em SI.
+Bibliografias Básica e Complementar
+A bibliografia depende do tema proposto pelo professor da disciplina.
+
+VISUALIZAÇÃO DE INFORMAÇÕES
+Ementa
+Definições, história, modelos e categorias de visualizações de informação. Semiótica e percepção
+visual. Expressividade e efetividade de visualizações. Interação

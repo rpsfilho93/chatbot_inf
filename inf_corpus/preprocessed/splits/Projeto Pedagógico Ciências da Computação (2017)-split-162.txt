@@ -1,0 +1,47 @@
+da 3. ed. São Paulo:McGraw-Hill, 2008.
+
+da
+
+1. RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados. Tradu-
+
+ore
+s
+
+Janeiro: Campus, 2004.
+
+çã
+o
+
+2. DATE, C. J. Introdução a Sistemas de Banco de Dados. Tradução da 8. ed. americana. Rio de
+
+3. CONNOLLY, T. M.; Begg, C. E.; Strachan, A. D. Database systems : a practical approach to
+design, implementation and management. 3rd. ed. Addison Wesley, 2010.
+
+lia
+
+4. DITTRICH, J. Patterns in Data Management: A Flipped Textbook. 1. ed. CreateSpace Inde-
+
+eri
+
+pendent Publishing Platform, 2016.
+
+Av
+a
+
+5. GRAY, G.; REUTER, A. Transaction Processing: Concepts and Techniques. 1. ed., Morgan
+
+Su
+p
+
+ma
+ras
+
+Câ
+
+Em
+
+Kaufmann, 1992.
+
+Disciplina: Sistemas Operacionais
+Bibliografia Básica
+1. TANENBAUM, A. S. Sistemas Operacionais Modernos. 3.

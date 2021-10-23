@@ -1,0 +1,16 @@
+da UFG.
+§ 4º Caso o produto do TCC seja um artigo científico, o aluno deverá entregar ao seu
+orientador uma cópia da versão aceita para publicação, ou cópia da versão publicada e, além,
+disso, um comprovante de aceitação ou da publicação.
+
+Art. 29. Caso o professor orientador autorize a defesa do TCC perante banca avaliadora, o
+aluno deverá entregar à Secretaria Acadêmica tantas cópias de seu produto do TCC quantos
+forem os integrantes da banca avaliadora.
+Art. 30. O aluno deverá apresentar o TCC em sessão pública perante banca avaliadora.
+Art. 31. A Nota Final do aluno na disciplina PFC II é computada pelo seguinte cálculo:
+notaFinal =
+
+médiaNotaApresentaçãomédiaNotaProduto
+,
+
+onde

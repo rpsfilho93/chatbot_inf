@@ -1,0 +1,18 @@
+de Pesquisa em Computação
+
+Em
+
+tem como objetivos, além do ensino de técnicas e métodos de pesquisa científica, a apresentação dos programas e projetos institucionais de pesquisas e a divulgação de vagas
+
+ras
+
+para participar dos mesmos. No âmbito do INF, existem vários grupos de pesquisa
+ativos e certificados pelo CNPq, que atuam em diversas áreas da Computação. Muitos
+dos projetos de pesquisa vigentes contam com auxílio financeiro de agências executo-
+
+Câ
+ma
+
+ras de políticas de C&T&I, como CNPq, FINEP e FAPEG, e envolvem também alunos
+de pós-graduação. A infraestrutura física para pesquisa inclui 4 (quatro) laboratórios
+plenamente equipados e um data center administrado pelo Núcleo de Recursos Computacionais (NRC/INF)

@@ -1,0 +1,10 @@
+C. Algoritmos: Teoria e Prática. 3a ediçaõ ,
+Campus, 2012.
+BRASSARD, G; BRATLEY, P. Fundamentals of Algorithmics. Upper Saddle River, NJ : Prentice-Hall, Inc., 1996.
+PAPADIMITRIOU, C. H.; VAZIRANI, U. V.; DASGUPTA, S. Algoritmos. Mc-Graw-Hill, 2009.
+Bibliografia Complementar:
+BAASE, S.; GELDER, A. V. Computer Algorithms: Introduction to Design and Analysis. 3rd Edition. Pearson, 1999.
+SZWARCFITER, J. L.; MARKENZON, L. Estrutura de Dados e seus Algoritmos. 3a ediçaõ . LTC Editora , 2010.
+MAMBER, U. Introduction to Algorithms. Addison Wesley Publishing Company. 1989.
+SEDGEWICK, R., WAYNE, K. Algorithms. 4th edition. Addison-Wesley Professional, 2011.
+AHO, A.V., HOPCROFT, J.E., ULLMAN, J.D. The Design and Analysis of Computer Algorithms, AddisonWesley Publishing Company, 1974.ISBN

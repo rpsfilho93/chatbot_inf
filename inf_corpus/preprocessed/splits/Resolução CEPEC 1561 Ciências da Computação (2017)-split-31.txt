@@ -1,0 +1,17 @@
+do Egresso
+O profissional de Ciência da Computação deve possuir:
+ raciocínio lógico;
+ capacidade de abstração;
+ capacidade de síntese, de avaliação crítica e de análise;
+ capacidade de comunicação oral e escrita;
+ autodidaxia, ou seja, capacidade de aprender a aprender;
+ adaptabilidade crítica ao novo para acompanhar a evolução tecnológica da
+computação;
+ criatividade para inovar nas soluções de problemas e influenciar no estado da arte;
+ pró-atividade; capacidade de exercer liderança e de trabalhar em grupo.
+
+ESTRUTURA CURRICULAR
+
+Nesta seção é apresentada a estruturação geral do curso de BCC. As disciplinas estão
+organizadas em dois grupos, conforme suas naturezas sejam obrigatória ou optativa, conforme
+previsto no Regulamento Geral dos Cursos

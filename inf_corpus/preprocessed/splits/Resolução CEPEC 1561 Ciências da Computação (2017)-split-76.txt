@@ -1,0 +1,12 @@
+Tekne).
+ENGENHARIA DE REQUISITOS:
+Definição de Engenharia de Requisitos (ER). Perspectivas. Definição e Tipos de Requisitos. Processo de ER.
+Ferramentas para apoio a ER. Normas e padrões aplicados a ER.
+Bibliografia Básica:
+SOMMERVILLE, I. Engenharia de Software. 9. ed. Sao Paulo: Pearson Prentice Hall, 2011.
+PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 7. ed. Porto Alegre: McGraw-Hill, 2011.
+PFLEEGER, S. L. Engenharia de software: teoria e prática. 1. ed. São Paulo: Prentice Hall, 2004.
+Bibliografia Complementar:
+KOTONYA, G.; SOMMERVILLE, I. Requirements Engineering: Process and Techniques. 2. ed. Chichester:
+John Wiley & Sons, 1998.
+LARMAN, C. Utilizando UML e padrões : uma introduçaõ à análise e ao projeto orientados a

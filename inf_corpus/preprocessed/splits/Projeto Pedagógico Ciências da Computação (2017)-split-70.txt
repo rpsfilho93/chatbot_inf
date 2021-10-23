@@ -1,0 +1,49 @@
+plataformas. Noções de Mercado e tendências tecnológicas para jogos.
+
+META-HEURÍSTICAS
+
+Ementa
+Introdução a heurísticas e meta-heurísticas. Algoritmos Gulosos. Busca Local. Busca
+
+METODOLOGIA E EXPERIMENTAÇÃO EM ENGENHARIA DE SOFTWARE
+
+pe
+las
+
+Ementa
+
+UF
+G
+
+Populacional. Hiper-heurísticas.
+
+Metodologia Científica: aplicação de metodologia científica em atividades de Engenharia de Software. Fundamentos da Engenharia de Software Experimental: contexto da
+
+da
+
+experimentação na Engenharia de Software, principais tipos de experimentos aplicados à Engenharia de Software, estudos primários e secundários, revisão e mapeamento
+
+Ementa
+
+eri
+ore
+s
+
+MICROCONTROLADORES
+
+lia
+çã
+o
+
+sistemático da literatura. Realização de Experimentos em Engenharia de Software.
+
+Av
+a
+
+Introdução e histórico. Famílias de microcontroladores. Arquiteturas de microcontroladores. Elementos de um microcontrolador. Registradores de controle, de estado e de
+
+Su
+p
+
+funções especiais. Programação de microcontroladores. Temporizadores e contadores.
+Interrupções. Interfaceamento

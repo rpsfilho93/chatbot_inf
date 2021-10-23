@@ -1,0 +1,41 @@
+Geometria Analítica. São Paulo: McGraw-Hill do Brasil , 1987.
+Volume1.
+
+lia
+
+5. CARVALHO, P. C. P. Introdução à Geometria Espacial. Rio de Janeiro: SBM, 2005. (Coleção
+
+Bibliografia Básica
+
+eri
+
+Disciplina: Inteligência Artificial
+
+Su
+p
+
+Av
+a
+
+do Professor de Matemática).
+
+Em
+
+1. RUSSELL, S; Norvig, P. Inteligência Artificial. 3 ed. Ed. Campus, 2013.
+2. LUGER, G. F. Inteligência Artificial. 6 ed. Editora Pearson, 2014.
+
+ma
+ras
+
+3. FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. C.P. L. F. Inteligência Artificial: Uma
+Abordagem de Aprendizado de Máquina. LTC, 2011.
+
+Bibliografia Complementar
+
+1. COPPIN, B. Inteligência Artificial, LTC, 2010.
+
+2. COSTA, E.; Simões, A. Inteligência Artificial: Fundamentos e Aplicações. 2 ed. FCA, 2008.
+
+Câ
+
+3. ROSA, J. L. G. Fundamentos da Inteligência Artificial. LTC,

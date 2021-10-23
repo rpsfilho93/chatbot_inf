@@ -1,0 +1,287 @@
+1
+
+Obrigatório
+
+Específico
+
+TOTAL GERAL
+
+CHT NATUREZA
+
+Projeto de Software
+Redes de Computadores 2
+Sistemas Distribuídos
+
+Obrigatória
+
+Optativa
+
+Específico
+
+Obrigatória
+
+Comum
+
+Obrigatória
+
+Específico
+
+Obrigatório
+
+Específico
+
+Obrigatório
+
+Específico
+
+TOTAL GERAL
+
+Em
+
+Projeto Final de Curso 2
+
+CHT NATUREZA
+
+NÚCLEO
+
+Obrigatório
+
+Específico
+
+Obrigatória
+
+Comum
+
+Optativa
+
+Específico
+
+Optativa
+
+Específico
+
+Obrigatório
+
+Específico
+
+TOTAL GERAL
+
+ras
+
+Interação Humano-Computador
+
+Específico
+
+Computação Paralela
+
+Su
+p
+
+Av
+a
+
+TOTAL PERÍODO
+
+DISCIPLINA
+
+Projeto Final de Curso 1
+
+NÚCLEO
+
+eri
+ore
+s
+
+Inteligência Artificial
+
+lia
+çã
+o
+
+DISCIPLINA
+
+da
+
+TOTAL PERÍODO
+
+UF
+G
+
+CHT NATUREZA
+
+pe
+las
+
+DISCIPLINA
+
+Câ
+ma
+
+TOTAL PERÍODO
+
+Introdução à
+Programação
+
+Fundamentos de
+Matemática para
+Computação
+
+Cálculo 1 A
+
+Algoritmos e
+Estruturas de
+
+Lógica
+Matemática
+
+Cálculo 2 A
+
+Geometria
+Analítica
+
+Algoritmos e
+Estruturas de
+
+Matemática
+Discreta
+
+Probabilidade e
+Estatística A
+
+Álgebra Linear
+
+Eletrônica para
+Computação
+
+Programação
+Orientada a
+Objetos
+
+Circuitos
+Digitais
+
+Teoria dos
+Grafos
+
+Pesquisa
+Operacional
+
+Equações
+Diferenciais
+Ordinárias
+
+Software Básico
+
+Análise e Projeto
+de Algoritmos
+
+Arquitetura de
+Computadores
+
+Linguagens
+Formais e
+Autômatos
+
+Cálculo
+Numérico
+
+Engenharia de
+Software
+
+Linguagens e
+Paradigmas de
+Programação
+
+Sistemas
+Operacionais
+
+Introdução à
+Computabilidade
+e Complexidade
+
+Banco de Dados
+
+Engenharia de
+Requisitos
+
+Compiladores
+
+Computação
+Gráfica
+
+Sistemas
+Gerenciadores
+de Banco de
+Dados
+
+Projeto de
+Software
+
+Inteligência
+Artificial
+
+Projeto Final de
+
+Sistemas
+Distribuídos
+
+Redes de
+
+Iteração
+Humano
+Computador
+
+Projeto Final de
+
+Computação
+Paralela
+
+Optativas
+
+UF
+G
+
+Metodologia de
+Pesquisa em
+Computação
+
+da
+
+pe
+las
+
+Núcleo Especifico
+
+eri
+ore
+s
+
+Núcleo Comum
+
+lia
+çã
+o
+
+Computação e
+Sociedade
+
+Redes de
+
+Av
+a
+
+Figura 1: Matriz de disciplinas e seus pré-requisitos.
+
+Atividades complementares
+
+Su
+p
+
+Representação gráfica da sugestão de fluxo curricular
+
+Em
+
+ras
+
+As atividades complementares estão presentes nas estruturas curriculares dos cursos
+de graduação do INF, sendo regulamentadas
