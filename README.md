@@ -21,3 +21,7 @@ Algoritmo usado para pré-processar os documentos INF/UFG.
 ## inf_qa.json:
 
 Conjunto de teste com perguntas e respostas retiradas dos documentos INF/UFG no formato SQuAD.
+
+## res_api:
+
+Arquivos referentes à API criada para acessar o sistema de perguntas e respostas. A API é baseada na API protótipo Haystack. Mais informações em: https://github.com/deepset-ai/haystack.
