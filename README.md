@@ -36,7 +36,7 @@ git clone https://github.com/rpsfilho93/chatbot_inf
 * Instale o framework Haystack:
 
 ```
-$git clone https://github.com/deepset-ai/haystack.git
+git clone https://github.com/deepset-ai/haystack.git
 
 cd haystack
 
