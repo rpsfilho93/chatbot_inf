@@ -1,9 +1,8 @@
-from haystack.file_converter.pdf import PDFToTextConverter
+from haystack.nodes import PDFToTextConverter
 
-from haystack.preprocessor.utils import convert_files_to_dicts, fetch_archive_from_http
-from haystack.preprocessor.preprocessor import PreProcessor
+from haystack.nodes import PreProcessor
 
-from haystack.document_store import ElasticsearchDocumentStore
+from haystack.document_stores import ElasticsearchDocumentStore
 
 from os import listdir
 from os.path import isfile, join
@@ -30,14 +29,14 @@ for pdf in pdf_files:
                                 'name': pdf.split('.')[0]}, encoding='UTF-8')
 
     with open('./inf_corpus/preprocessed/docs/' + pdf.split('.')[0] + '.txt', 'w') as f:
-        f.write(doc_pdf['text'])
+        f.write(doc_pdf[0]['content'])
 
     doc_splits = preprocessor.process(doc_pdf)
     docs = docs + doc_splits
 
 for doc in docs:
     with open('./inf_corpus/preprocessed/splits/' + doc['meta']['name'] + '-split-' + str(doc['meta']['_split_id']) + '.txt', 'w') as f:
-        f.write(doc['text'])
+        f.write(doc['content'])
 
 document_store = ElasticsearchDocumentStore()
 document_store.delete_documents()
