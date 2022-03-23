@@ -54,12 +54,15 @@ cp ../chatbot_inf/pipelines.yml ./rest_api/pipeline
 
 ```
 * Altere o arquivo 'docker-compose.yml' na pasta /haystack/rest_api: 
-- Altere o valor do campo 'PIPELINE_YAML_PATH' para '/home/user/rest_api/pipeline/pipelines.yml'. 
-- E retire o símbolo de comentário nas linhas abaixo:
-```
-# volumes:
-#      - ./rest_api/pipeline:/home/user/rest_api/pipeline
-```
+  - Altere o valor do campo 'PIPELINE_YAML_PATH' para '/home/user/rest_api/pipeline/pipelines.yml'. 
+  ```
+  PIPELINE_YAML_PATH=/home/user/rest_api/pipeline/pipelines.yml
+  ```
+  - E retire o símbolo de comentário nas linhas abaixo:
+  ```
+  # volumes:
+  #      - ./rest_api/pipeline:/home/user/rest_api/pipeline
+  ```
 
 * Use docker-compose para carregar as imagens dos serviços:
 ```
