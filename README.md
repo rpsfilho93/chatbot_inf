@@ -99,34 +99,37 @@ docker-compose up haystack-api
 * Response
 ```
 {
-  {
-	"query": "string",
-	"answers": [
-		{
-			"answer": "string",
-			"type": "extractive",
-			"score": float,
-			"context": "string",
-			"offsets_in_document": [
-				{
-					"start": integer,
-					"end": integer
-				}
-			],
-			"offsets_in_context": [
-				{
-					"start": integer,
-					"end": integer
-				}
-			],
-			"document_id": "uuid",
-			"meta": {
-				"_split_id": integer,
-				"name": "Document name"
-			}
+ "query": "string",
+ "answers": [
+	{
+ 	 "answer": "string",
+	 "type": "extractive",
+	 "score": float,
+	 "context": "string",
+	 "offsets_in_document": [
+	 	{
+		 "start": integer,
+		 "end": integer
 		}
-  ]
+	 ],
+	 "offsets_in_context": [
+		{
+		 "start": integer,
+		 "end": integer
+		}
+	],
+	"document_id": "uuid",
+	"meta": {
+		"_split_id": integer,
+		"name": "Document name"
+		}
+	}
+ ],
 }
 ```
+* Exemplo:
+![Exemplo de requisição POST/query](/assets/query_example.png)
+
+
 
 
