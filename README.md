@@ -87,3 +87,46 @@ docker-compose up haystack-api
 * Nesse momento a API já estará disponível na porta 8000 para requisições (http://127.0.0.1:8000/).
 
 * A documentação sobre os endpoints da API pode ser encontrada em https://haystack.deepset.ai/guides/rest-api-definition.
+
+# Exemplo de Endpoint para fazer perguntas:
+## POST/query:
+* Request
+```
+{
+  "query": "string"
+}
+```
+* Response
+```
+{
+  {
+	"query": "string",
+	"answers": [
+		{
+			"answer": "string",
+			"type": "extractive",
+			"score": float,
+			"context": "string",
+			"offsets_in_document": [
+				{
+					"start": integer,
+					"end": integer
+				}
+			],
+			"offsets_in_context": [
+				{
+					"start": integer,
+					"end": integer
+				}
+			],
+			"document_id": "uuid",
+			"meta": {
+				"_split_id": integer,
+				"name": "Document name"
+			}
+		}
+  ]
+}
+```
+
+
